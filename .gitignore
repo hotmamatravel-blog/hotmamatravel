@@ -22,3 +22,7 @@ npm-debug.log*
 
 # Temporary files
 *.tmp
+
+# Large WordPress export files
+wp-export.xml
+
