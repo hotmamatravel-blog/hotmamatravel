@@ -1,0 +1,1783 @@
+{
+  "version": 2,
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "framework": "astro",
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "X-XSS-Protection",
+          "value": "1; mode=block"
+        }
+      ]
+    },
+    {
+      "source": "/images/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/_astro/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/best-backpack-diaper-bag",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/best-backpack-diaper-bag/",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/best-etsy-shops-travel",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/best-etsy-shops-travel/",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/best-kids-luggage-sets-boys-girls",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/best-kids-luggage-sets-boys-girls/",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/best-portable-chargers-for-travelers",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/best-portable-chargers-for-travelers/",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/best-toddler-toys-for-car-rides",
+      "destination": "/tag/hot-road-trips/",
+      "permanent": true
+    },
+    {
+      "source": "/best-toddler-toys-for-car-rides/",
+      "destination": "/tag/hot-road-trips/",
+      "permanent": true
+    },
+    {
+      "source": "/best-travel-system-strollers",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/best-travel-system-strollers/",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/best-wine-suitcase-wine-travel-bag",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/best-wine-suitcase-wine-travel-bag/",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/best-womens-travel-vest",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/best-womens-travel-vest/",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/diaper-backpack-for-dad",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/diaper-backpack-for-dad/",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/lugabug",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/lugabug/",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/mothers-day-gift-guide-for-travel",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/mothers-day-gift-guide-for-travel/",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/vinarmour-travel-wine-bag-review",
+      "destination": "/tag/hot-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/vinarmour-travel-wine-bag-review/",
+      "destination": "/tag/hot-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/buyers-guides",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/buyers-guides/",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/feed",
+      "destination": "/rss.xml",
+      "permanent": true
+    },
+    {
+      "source": "/feed/",
+      "destination": "/rss.xml",
+      "permanent": true
+    },
+    {
+      "source": "/feed/atom",
+      "destination": "/rss.xml",
+      "permanent": true
+    },
+    {
+      "source": "/comments/feed",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/wp-admin",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/wp-admin/(.*)",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/wp-login.php",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/xmlrpc.php",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/wp-content/(.*)",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/wp-includes/(.*)",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/category/family-travels",
+      "destination": "/tag/family-travel",
+      "permanent": true
+    },
+    {
+      "source": "/category/family-travels/",
+      "destination": "/tag/family-travel",
+      "permanent": true
+    },
+    {
+      "source": "/category/destinations",
+      "destination": "/destinations",
+      "permanent": true
+    },
+    {
+      "source": "/category/destinations/",
+      "destination": "/destinations",
+      "permanent": true
+    },
+    {
+      "source": "/category/canada-family-travel",
+      "destination": "/tag/canada",
+      "permanent": true
+    },
+    {
+      "source": "/category/canada-family-travel/",
+      "destination": "/tag/canada",
+      "permanent": true
+    },
+    {
+      "source": "/category/united-states",
+      "destination": "/tag/united-states",
+      "permanent": true
+    },
+    {
+      "source": "/category/united-states/",
+      "destination": "/tag/united-states",
+      "permanent": true
+    },
+    {
+      "source": "/category/hot-family-travels",
+      "destination": "/tag/family-travel",
+      "permanent": true
+    },
+    {
+      "source": "/category/hot-family-travels/",
+      "destination": "/tag/family-travel",
+      "permanent": true
+    },
+    {
+      "source": "/category/:cat",
+      "destination": "/tag/:cat",
+      "permanent": true
+    },
+    {
+      "source": "/category/:cat/",
+      "destination": "/tag/:cat",
+      "permanent": true
+    },
+    {
+      "source": "/author/amanda",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/author/amanda/",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/author/:name",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/author/:name/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/page/:num",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/page/:num/",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/family-travels",
+      "destination": "/tag/family-travel",
+      "permanent": true
+    },
+    {
+      "source": "/family-travels/",
+      "destination": "/tag/family-travel",
+      "permanent": true
+    },
+    {
+      "source": "/destinations-3",
+      "destination": "/destinations",
+      "permanent": true
+    },
+    {
+      "source": "/destinations-3/",
+      "destination": "/destinations",
+      "permanent": true
+    },
+    {
+      "source": "/destinations-3/canada-family-travel",
+      "destination": "/tag/canada",
+      "permanent": true
+    },
+    {
+      "source": "/destinations-3/canada-family-travel/",
+      "destination": "/tag/canada",
+      "permanent": true
+    },
+    {
+      "source": "/family-travel-videos",
+      "destination": "/tag/video",
+      "permanent": true
+    },
+    {
+      "source": "/family-travel-videos/",
+      "destination": "/tag/video",
+      "permanent": true
+    },
+    {
+      "source": "/buyers-guides-busy-moms",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/buyers-guides-busy-moms/",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/who-is-hot-mama",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/who-is-hot-mama/",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/who-is-hot-mama/(.*)",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/work-with-us",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/work-with-us/",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/campaign-portfolio",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/campaign-portfolio/",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/subscribe-hotmamatravel",
+      "destination": "/#newsletter",
+      "permanent": true
+    },
+    {
+      "source": "/subscribe-hotmamatravel/",
+      "destination": "/#newsletter",
+      "permanent": true
+    },
+    {
+      "source": "/web-stories/:slug",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/web-stories/:slug/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/weekend-in-san-diego",
+      "destination": "/old-town-san-diego-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/weekend-in-san-diego/",
+      "destination": "/old-town-san-diego-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/anaheim",
+      "destination": "/things-to-do-in-anaheim/",
+      "permanent": true
+    },
+    {
+      "source": "/anaheim/",
+      "destination": "/things-to-do-in-anaheim/",
+      "permanent": true
+    },
+    {
+      "source": "/balboa-village-with-kids",
+      "destination": "/balboa-fun-zone/",
+      "permanent": true
+    },
+    {
+      "source": "/balboa-village-with-kids/",
+      "destination": "/balboa-fun-zone/",
+      "permanent": true
+    },
+    {
+      "source": "/halloween-seaworld",
+      "destination": "/seaworld-halloween/",
+      "permanent": true
+    },
+    {
+      "source": "/halloween-seaworld/",
+      "destination": "/seaworld-halloween/",
+      "permanent": true
+    },
+    {
+      "source": "/kid-friendly-las-vegas",
+      "destination": "/las-vegas-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/kid-friendly-las-vegas/",
+      "destination": "/las-vegas-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/hotmama-picks:suffix*",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/2016:suffix*",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "tag",
+          "value": "travel-advice"
+        }
+      ],
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "tag",
+          "value": "family-travel"
+        }
+      ],
+      "destination": "/destinations/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "tag",
+          "value": "exotic-holidays"
+        }
+      ],
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/newport-beach",
+      "destination": "/newport-coast-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/newport-beach/",
+      "destination": "/newport-coast-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/airboat",
+      "destination": "/everglades-airboat-tour-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/airboat/",
+      "destination": "/everglades-airboat-tour-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/sea-world-san-diego",
+      "destination": "/seaworld-san-diego/",
+      "permanent": true
+    },
+    {
+      "source": "/sea-world-san-diego/",
+      "destination": "/seaworld-san-diego/",
+      "permanent": true
+    },
+    {
+      "source": "/Halloween-seaworld",
+      "destination": "/seaworld-halloween/",
+      "permanent": true
+    },
+    {
+      "source": "/Halloween-seaworld/",
+      "destination": "/seaworld-halloween/",
+      "permanent": true
+    },
+    {
+      "source": "/beaches-near-anaheim/Fun",
+      "destination": "/beaches-near-anaheim/",
+      "permanent": true
+    },
+    {
+      "source": "/beaches-near-anaheim/Fun/",
+      "destination": "/beaches-near-anaheim/",
+      "permanent": true
+    },
+    {
+      "source": "/family-road-trip-preview/http:/hotmamatravel.com/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/We",
+      "destination": "/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/",
+      "permanent": true
+    },
+    {
+      "source": "/family-road-trip-preview/http:/hotmamatravel.com/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/We/",
+      "destination": "/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/",
+      "permanent": true
+    },
+    {
+      "source": "/comment-subscriptions/",
+      "has": [
+        {
+          "type": "query",
+          "key": "srp",
+          "value": "1923"
+        },
+        {
+          "type": "query",
+          "key": "srk",
+          "value": "89d4ade4aed1209ba9f16ecae218d35b"
+        },
+        {
+          "type": "query",
+          "key": "sra",
+          "value": "s"
+        },
+        {
+          "type": "query",
+          "key": "srsrc",
+          "value": "f"
+        }
+      ],
+      "destination": "/about/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "tag",
+          "value": "trip-planning"
+        }
+      ],
+      "destination": "/destinations/",
+      "permanent": true
+    },
+    {
+      "source": "/2014:suffix*",
+      "destination": "/destinations/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "tag",
+          "value": "familly-vacations"
+        }
+      ],
+      "destination": "/destinations/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "m",
+          "value": "201305"
+        }
+      ],
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/cast-of-characters-3",
+      "destination": "/who-is-hot-mama/cast-of-characters/",
+      "permanent": true
+    },
+    {
+      "source": "/cast-of-characters-3/",
+      "destination": "/who-is-hot-mama/cast-of-characters/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "tag",
+          "value": "treasure-island"
+        }
+      ],
+      "destination": "/las-vegas-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "tag",
+          "value": "flying-tips"
+        }
+      ],
+      "destination": "/flying-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "tag",
+          "value": "pumpkin-patch"
+        }
+      ],
+      "destination": "/halloween-events-for-families/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "m",
+          "value": "201401"
+        }
+      ],
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "page_id",
+          "value": "27"
+        }
+      ],
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "p",
+          "value": "121"
+        }
+      ],
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/naples-with-kids",
+      "destination": "/naples-florida-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/naples-with-kids/",
+      "destination": "/naples-florida-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/ultimate-guides:suffix*",
+      "destination": "/destinations/",
+      "permanent": true
+    },
+    {
+      "source": "/hot-tips-advice:suffix*",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/hello-coordination",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/hello-coordination/",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/travels/euorpe:suffix*",
+      "destination": "/tag/europe/",
+      "permanent": true
+    },
+    {
+      "source": "/ultimate-travel-guides",
+      "destination": "/united-states/",
+      "permanent": true
+    },
+    {
+      "source": "/ultimate-travel-guides/",
+      "destination": "/united-states/",
+      "permanent": true
+    },
+    {
+      "source": "/hot-guest-bloggers",
+      "destination": "/who-is-hot-mama/hot-press-media/",
+      "permanent": true
+    },
+    {
+      "source": "/hot-guest-bloggers/",
+      "destination": "/who-is-hot-mama/hot-press-media/",
+      "permanent": true
+    },
+    {
+      "source": "/wp-content/uploads/2016/07/BBSRR-1-683",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/wp-content/uploads/2016/07/BBSRR-1-683/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/idyllwild-with-kids",
+      "destination": "/things-to-do-in-idyllwild-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/idyllwild-with-kids/",
+      "destination": "/things-to-do-in-idyllwild-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/best-hotel-booking-websites-for-bombay",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/best-hotel-booking-websites-for-bombay/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/best-hotel-review-websites-for-exotic-holidays",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/best-hotel-review-websites-for-exotic-holidays/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/things-to-do-downtown-disney-anaheim",
+      "destination": "/downtown-disney/",
+      "permanent": true
+    },
+    {
+      "source": "/things-to-do-downtown-disney-anaheim/",
+      "destination": "/downtown-disney/",
+      "permanent": true
+    },
+    {
+      "source": "/disney-caribbean-cruise",
+      "destination": "/cruising-disney-fantasy-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/disney-caribbean-cruise/",
+      "destination": "/cruising-disney-fantasy-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/mc4wp-form-preview",
+      "destination": "/subscribe-hotmamatravel/",
+      "permanent": true
+    },
+    {
+      "source": "/mc4wp-form-preview/",
+      "destination": "/subscribe-hotmamatravel/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "tag",
+          "value": "vail-lake/"
+        }
+      ],
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "tag",
+          "value": "halloween/"
+        }
+      ],
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/2015:suffix*",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/quick-getaways:suffix*",
+      "destination": "/destinations/",
+      "permanent": true
+    },
+    {
+      "source": "/solvang-w​ith-kids/www.greenhousesolvang.com",
+      "destination": "/solvang-w​ith-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/solvang-w​ith-kids/www.greenhousesolvang.com/",
+      "destination": "/solvang-w​ith-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/hot-advic​e/hotmama-picks",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/hot-advic​e/hotmama-picks/",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/travels/u​nited-states/california-travel-trav​els",
+      "destination": "/tag/california/",
+      "permanent": true
+    },
+    {
+      "source": "/travels/u​nited-states/california-travel-trav​els/",
+      "destination": "/tag/california/",
+      "permanent": true
+    },
+    {
+      "source": "/hot-tips-​n-advice:suffix*",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/travels/united-states/georgia",
+      "destination": "/travel-destinations/united-states-travel/georgia/",
+      "permanent": true
+    },
+    {
+      "source": "/travels/united-states/georgia/",
+      "destination": "/travel-destinations/united-states-travel/georgia/",
+      "permanent": true
+    },
+    {
+      "source": "/hotmama-diaries:suffix*",
+      "destination": "/destinations/",
+      "permanent": true
+    },
+    {
+      "source": "/apple-farm-inn",
+      "destination": "/apple-farm-inn-christmas/",
+      "permanent": true
+    },
+    {
+      "source": "/apple-farm-inn/",
+      "destination": "/apple-farm-inn-christmas/",
+      "permanent": true
+    },
+    {
+      "source": "/travels/united-states/california-travel-travels:suffix*",
+      "destination": "/tag/california/",
+      "permanent": true
+    },
+    {
+      "source": "/travels/united-kingdom:suffix*",
+      "destination": "/tag/europe/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "tag",
+          "value": "otel-com"
+        }
+      ],
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/hot-advice:suffix*",
+      "destination": "/tag/travel-tips/",
+      "permanent": true
+    },
+    {
+      "source": "/2013:suffix*",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/quick-local-getaways:suffix*",
+      "destination": "/tag/california/",
+      "permanent": true
+    },
+    {
+      "source": "/travels/united-states/florida-travels:suffix*",
+      "destination": "/tag/florida/",
+      "permanent": true
+    },
+    {
+      "source": "/travels/united-states/nevada-travel-travels:suffix*",
+      "destination": "/tag/nevada/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "tag",
+          "value": "hotel-reviews"
+        }
+      ],
+      "destination": "/tag/hotel-reviews/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "tag",
+          "value": "family"
+        }
+      ],
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "cat",
+          "value": "895"
+        }
+      ],
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/travels/united-states:suffix*",
+      "destination": "/tag/united-states/",
+      "permanent": true
+    },
+    {
+      "source": "/10-tips-for-international-travel",
+      "destination": "/10-tips-for-overseas-travel/",
+      "permanent": true
+    },
+    {
+      "source": "/10-tips-for-international-travel/",
+      "destination": "/10-tips-for-overseas-travel/",
+      "permanent": true
+    },
+    {
+      "source": "/who-is-hot-mama-travel",
+      "destination": "/about/",
+      "permanent": true
+    },
+    {
+      "source": "/who-is-hot-mama-travel/",
+      "destination": "/about/",
+      "permanent": true
+    },
+    {
+      "source": "/the-mirage",
+      "destination": "/las-vegas-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/the-mirage/",
+      "destination": "/las-vegas-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/hot-mama-travel",
+      "destination": "/about/",
+      "permanent": true
+    },
+    {
+      "source": "/hot-mama-travel/",
+      "destination": "/about/",
+      "permanent": true
+    },
+    {
+      "source": "/hot-tips-for-visiting-santa-fe-with-kids-from-historic-and-artsy-to-the-psychedelic",
+      "destination": "/tips-visiting-santa-fe-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/hot-tips-for-visiting-santa-fe-with-kids-from-historic-and-artsy-to-the-psychedelic/",
+      "destination": "/tips-visiting-santa-fe-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/new-york-new-york-hotel-las-vegas",
+      "destination": "/best-family-hotels-in-las-vegas/",
+      "permanent": true
+    },
+    {
+      "source": "/new-york-new-york-hotel-las-vegas/",
+      "destination": "/best-family-hotels-in-las-vegas/",
+      "permanent": true
+    },
+    {
+      "source": "/packing-tips-for-traveling-with-kids",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/packing-tips-for-traveling-with-kids/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/hello-color-coordination",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/hello-color-coordination/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/piggybacking-trips",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/piggybacking-trips/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/forward-thinking",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/forward-thinking/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/vacation-friends",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/vacation-friends/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/traveling-with-special-needs-children",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/traveling-with-special-needs-children/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/4th-of-july-wear",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/4th-of-july-wear/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/the-perfect-souvenir",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/the-perfect-souvenir/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/backyard-oasis",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/backyard-oasis/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/nine-fine-irishmen",
+      "destination": "/best-family-hotels-in-las-vegas/",
+      "permanent": true
+    },
+    {
+      "source": "/nine-fine-irishmen/",
+      "destination": "/best-family-hotels-in-las-vegas/",
+      "permanent": true
+    },
+    {
+      "source": "/honeymoon",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/honeymoon/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/raging-waters",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/raging-waters/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/go-rving",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/go-rving/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/happy-birthday-firecracker",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/happy-birthday-firecracker/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/hotmama-travel",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/hotmama-travel/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/holiday-top-10",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/holiday-top-10/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/2014-top-12-travels",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/2014-top-12-travels/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/2015-ready",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/2015-ready/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/2014-top-travel-fails",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/2014-top-travel-fails/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/super-bowl",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/super-bowl/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/weekend-idyllwild",
+      "destination": "/things-to-do-in-idyllwild-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/weekend-idyllwild/",
+      "destination": "/things-to-do-in-idyllwild-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/welcome-idyllwild",
+      "destination": "/things-to-do-in-idyllwild-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/welcome-idyllwild/",
+      "destination": "/things-to-do-in-idyllwild-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/idyllwild-conclusion",
+      "destination": "/things-to-do-in-idyllwild-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/idyllwild-conclusion/",
+      "destination": "/things-to-do-in-idyllwild-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/cocktails-mocktails-travel",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/cocktails-mocktails-travel/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california-cocktails",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/california-cocktails/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/thread-up-st-pete-beach",
+      "destination": "/st-pete-beach-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/thread-up-st-pete-beach/",
+      "destination": "/st-pete-beach-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/off-to-st-pete",
+      "destination": "/st-pete-beach-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/off-to-st-pete/",
+      "destination": "/st-pete-beach-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/lifes-a-beach-on-st-pete",
+      "destination": "/st-pete-beach-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/lifes-a-beach-on-st-pete/",
+      "destination": "/st-pete-beach-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/sunday-funday-in-st-pete",
+      "destination": "/st-pete-beach-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/sunday-funday-in-st-pete/",
+      "destination": "/st-pete-beach-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/tabula-raisa",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/tabula-raisa/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/st-pete-beach-conclusion",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/st-pete-beach-conclusion/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/thread-up-scotland",
+      "destination": "/glasgow-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/thread-up-scotland/",
+      "destination": "/glasgow-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/best-florida-cocktails",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/best-florida-cocktails/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/first-week-in-glasgow",
+      "destination": "/glasgow-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/first-week-in-glasgow/",
+      "destination": "/glasgow-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/best-mexican-cocktails",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/best-mexican-cocktails/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/hmd-scotland",
+      "destination": "/glasgow-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/hmd-scotland/",
+      "destination": "/glasgow-with-kids/",
+      "permanent": true
+    },
+    {
+      "source": "/5-steps-to-easy-and-enjoyable-family-vacations",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/5-steps-to-easy-and-enjoyable-family-vacations/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/cruising-for-solo-parents",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/cruising-for-solo-parents/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/sisterhood-of-world-bloggers-award",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/sisterhood-of-world-bloggers-award/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/5-reasons-to-visit-the-south-of-spain",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/5-reasons-to-visit-the-south-of-spain/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/the-voltage-road-trip-home",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/the-voltage-road-trip-home/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/travel-is-not-free",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/travel-is-not-free/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/favorite-scottish-eats-and-drinks",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/favorite-scottish-eats-and-drinks/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-travel-and-terrorism",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/family-travel-and-terrorism/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/best-family-travels-of-2015",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/best-family-travels-of-2015/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/5-best-valentines-day-cocktails-and-mocktails",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/5-best-valentines-day-cocktails-and-mocktails/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/las-vegas-cocktails",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/las-vegas-cocktails/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/liebster-award-for-hotmamatravel",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/liebster-award-for-hotmamatravel/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/women-in-travel-summit-2016",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/women-in-travel-summit-2016/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/best-cinco-de-mayo-cocktails",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/best-cinco-de-mayo-cocktails/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/rashes-ouchies-and-bug-bites",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/rashes-ouchies-and-bug-bites/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/cigars-spirits-and-travel",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/cigars-spirits-and-travel/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/ready-set-go-travel-preparation",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/ready-set-go-travel-preparation/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/best-south-african-beaches",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/best-south-african-beaches/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/halloween-cocktails",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/halloween-cocktails/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/best-family-friendly-countries-2017",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/best-family-friendly-countries-2017/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/easy-christmas-cocktails",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/easy-christmas-cocktails/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/2016-travel-recap",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/2016-travel-recap/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/5-ways-kids-change-travel",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/5-ways-kids-change-travel/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/5-summer-fitness-workouts-to-get-in-shape",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/5-summer-fitness-workouts-to-get-in-shape/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/hot-travelers",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/hot-travelers/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/investing-in-family-travel-is-it-worth-it",
+      "destination": "/benefits-of-family-travel/",
+      "permanent": true
+    },
+    {
+      "source": "/investing-in-family-travel-is-it-worth-it/",
+      "destination": "/benefits-of-family-travel/",
+      "permanent": true
+    },
+    {
+      "source": "/preview-route-66-road-trip",
+      "destination": "/route-66-family-road-trip-itinerary/",
+      "permanent": true
+    },
+    {
+      "source": "/preview-route-66-road-trip/",
+      "destination": "/route-66-family-road-trip-itinerary/",
+      "permanent": true
+    },
+    {
+      "source": "/best-hotel-chain-family-travel",
+      "destination": "/best-western-family-travel/",
+      "permanent": true
+    },
+    {
+      "source": "/best-hotel-chain-family-travel/",
+      "destination": "/best-western-family-travel/",
+      "permanent": true
+    },
+    {
+      "source": "/quiz-questions",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/quiz-questions/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/tv-travel-host-quiz",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/tv-travel-host-quiz/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/where-to-travel-quiz",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/where-to-travel-quiz/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/travel-quiz",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/travel-quiz/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/buyers-guides-busy-moms",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/buyers-guides-busy-moms/",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
+}

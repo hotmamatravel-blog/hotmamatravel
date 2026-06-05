@@ -1,0 +1,27 @@
+---
+// src/pages/blog/[...slug].astro — Individual post pages
+// These URLs EXACTLY match your existing WordPress slugs (e.g. /las-vegas-shows-for-kids/)
+import { getCollection, type CollectionEntry } from 'astro:content';
+import PostLayout from '@/layouts/PostLayout.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog', ({ data }) => !data.draft);
+  return posts.map(post => ({
+    // This removes the blog/ prefix so URLs are /post-slug/ not /blog/post-slug/
+    // This is CRITICAL for preserving your existing URL structure
+    params: { slug: post.slug },
+    props: { post },
+  }));
+}
+
+interface Props {
+  post: CollectionEntry<'blog'>;
+}
+
+const { post } = Astro.props;
+const { Content } = await post.render();
+---
+
+<PostLayout post={post}>
+  <Content />
+</PostLayout>

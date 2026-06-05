@@ -1,0 +1,108 @@
+---
+// BaseLayout.astro
+import SEO from '@/components/SEO.astro';
+import Header from '@/components/Header.astro';
+import Footer from '@/components/Footer.astro';
+import '@/styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  canonicalUrl?: string;
+  pubDate?: Date;
+  updatedDate?: Date;
+  author?: string;
+  tags?: string[];
+  type?: 'website' | 'article';
+}
+
+const props = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="generator" content={Astro.generator} />
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="/images/favicon.png" />
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+
+    <!-- RSS Feed -->
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="HotMamaTravel RSS Feed"
+      href="/rss.xml"
+    />
+
+    <!-- SEO Meta Tags -->
+    <SEO {...props} />
+
+    <!-- Preconnect for performance -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KJGJ8RNN9E"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-KJGJ8RNN9E');
+    </script>
+  </head>
+
+  <body>
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+    <Header />
+    <main id="main-content">
+      <slot />
+    </main>
+    <Footer />
+    <script is:inline>
+      function setupOutboundLinks() {
+        const links = document.querySelectorAll('a');
+        links.forEach(link => {
+          const href = link.getAttribute('href');
+          if (!href) return;
+          
+          const isAffiliate = href.startsWith('/go/');
+          const isExternal = href.startsWith('http://') || href.startsWith('https://');
+          const isSameDomain = isExternal && href.includes(window.location.hostname);
+          
+          if (isAffiliate || (isExternal && !isSameDomain)) {
+            link.setAttribute('target', '_blank');
+            link.setAttribute('rel', 'noopener noreferrer');
+          }
+        });
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', setupOutboundLinks);
+      } else {
+        setupOutboundLinks();
+      }
+    </script>
+  </body>
+</html>
+
+<style is:global>
+  .skip-link {
+    position: absolute;
+    top: -100%;
+    left: 16px;
+    background: var(--hmt-red);
+    color: white;
+    padding: 8px 16px;
+    border-radius: 0 0 var(--radius-sm) var(--radius-sm);
+    font-weight: 700;
+    font-size: 0.875rem;
+    z-index: 9999;
+    transition: top 200ms;
+  }
+  .skip-link:focus { top: 0; }
+</style>

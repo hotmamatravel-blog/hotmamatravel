@@ -1,0 +1,210 @@
+HotMamaTravel Migration Report
+Generated: 6/4/2026, 1:37:05 PM
+
+SUMMARY
+=======
+Posts migrated:  362
+Pages migrated:  36
+Items skipped:   0 (non-published, non-post types)
+Total files:     398
+
+WARNINGS (191)
+=======
+📸 cast-of-characters.md: No hero image found — consider adding one
+⚠️  who-is-hot-mama.md: May contain unprocessed shortcodes — review manually
+📸 confirmation.md: No hero image found — consider adding one
+📸 subscribe-hotmamatravel.md: No hero image found — consider adding one
+📸 disclosure-policy.md: No hero image found — consider adding one
+📸 terms-of-use.md: No hero image found — consider adding one
+⚠️  work-with-us.md: May contain unprocessed shortcodes — review manually
+📸 privacy-policy.md: No hero image found — consider adding one
+📸 cookie-policy.md: No hero image found — consider adding one
+📸 family-travel-videos.md: No hero image found — consider adding one
+📸 family-travel-uncensored.md: No hero image found — consider adding one
+📸 campaign-portfolio.md: No hero image found — consider adding one
+📸 quiz-questions.md: No hero image found — consider adding one
+📸 florida-family-holidays.md: No hero image found — consider adding one
+📸 family-friendly-vegas.md: No hero image found — consider adding one
+📸 americas-best-breweries.md: No hero image found — consider adding one
+📸 best-family-friendly-wineries.md: No hero image found — consider adding one
+📸 christmas-getaways-for-families.md: No hero image found — consider adding one
+📸 california-family-travel.md: No hero image found — consider adding one
+📸 tennessee-family-travel.md: No hero image found — consider adding one
+📸 canada-family-travel.md: No hero image found — consider adding one
+📸 best-family-hotels.md: No hero image found — consider adding one
+📸 south-carolina-family-travel.md: No hero image found — consider adding one
+📸 best-haunted-places-to-visit-for-families.md: No hero image found — consider adding one
+📸 orange-county-family-travel.md: No hero image found — consider adding one
+📸 new-york-family-travel-2.md: No hero image found — consider adding one
+📸 best-of-texas-family-travel.md: No hero image found — consider adding one
+📸 best-of-arizona-family-travel.md: No hero image found — consider adding one
+📸 best-of-georgia-family-travel.md: No hero image found — consider adding one
+📸 best-of-massachusetts-family-travel.md: No hero image found — consider adding one
+⚠️  vail-lake-resort-halloween-festivities.md: May contain unprocessed shortcodes — review manually
+📸 best-family-hotels-in-washington-dc.md: No hero image found — consider adding one
+📸 unique-all-inclusive-resorts-in-the-caribbean-that-will-surprise-you.md: No hero image found — consider adding one
+⚠️  the-queen-mary-with-kids.md: May contain unprocessed shortcodes — review manually
+📸 family-friendly-hotels-in-nashville.md: No hero image found — consider adding one
+📸 facts-about-las-vegas.md: No hero image found — consider adding one
+📸 kids-eat-free-in-las-vegas.md: No hero image found — consider adding one
+📸 money-saving-tips.md: No hero image found — consider adding one
+⚠️  apple-farm-inn-christmas.md: May contain unprocessed shortcodes — review manually
+⚠️  knotts-merry-farm.md: May contain unprocessed shortcodes — review manually
+⚠️  seaworld-christmas-with-kids.md: May contain unprocessed shortcodes — review manually
+⚠️  fireside-inn-idyllwild.md: May contain unprocessed shortcodes — review manually
+⚠️  benefits-of-family-travel.md: May contain unprocessed shortcodes — review manually
+⚠️  best-haunted-places-with-kids.md: May contain unprocessed shortcodes — review manually
+⚠️  route-66-family-road-trip-itinerary.md: May contain unprocessed shortcodes — review manually
+⚠️  best-western-family-travel.md: May contain unprocessed shortcodes — review manually
+⚠️  best-family-hotels-boston.md: May contain unprocessed shortcodes — review manually
+⚠️  best-family-hotels-austin.md: May contain unprocessed shortcodes — review manually
+📸 tv-travel-host-quiz.md: No hero image found — consider adding one
+⚠️  best-family-hotels-clearwater-beach.md: May contain unprocessed shortcodes — review manually
+⚠️  things-to-do-in-savannah-ga-with-kids.md: May contain unprocessed shortcodes — review manually
+⚠️  haunted-hotels-new-orleans.md: May contain unprocessed shortcodes — review manually
+📸 where-to-travel-quiz.md: No hero image found — consider adding one
+⚠️  celebrating-christmas-in-texas.md: May contain unprocessed shortcodes — review manually
+⚠️  things-to-do-in-charleston-with-kids.md: May contain unprocessed shortcodes — review manually
+⚠️  top-things-to-do-in-grass-valley-ca.md: May contain unprocessed shortcodes — review manually
+⚠️  haunted-hotels-san-diego.md: May contain unprocessed shortcodes — review manually
+📸 learn-to-fly.md: No hero image found — consider adding one
+⚠️  malta-with-kids.md: May contain unprocessed shortcodes — review manually
+⚠️  haunted-places-old-towne-orange-circle.md: May contain unprocessed shortcodes — review manually
+⚠️  haunted-hotels-in-salem-ma.md: May contain unprocessed shortcodes — review manually
+⚠️  naples-florida-with-kids.md: May contain unprocessed shortcodes — review manually
+⚠️  old-town-san-diego-with-kids.md: May contain unprocessed shortcodes — review manually
+⚠️  best-womens-travel-vest.md: May contain unprocessed shortcodes — review manually
+⚠️  haunted-hotels-in-los-angeles.md: May contain unprocessed shortcodes — review manually
+⚠️  haunted-hotels-savannah.md: May contain unprocessed shortcodes — review manually
+⚠️  things-to-do-new-buffalo-michigan.md: May contain unprocessed shortcodes — review manually
+⚠️  things-to-do-in-the-berkshires.md: May contain unprocessed shortcodes — review manually
+⚠️  things-to-do-in-broken-bow-oklahoma.md: May contain unprocessed shortcodes — review manually
+⚠️  things-to-do-in-north-shore-minnesota.md: May contain unprocessed shortcodes — review manually
+⚠️  things-to-do-in-the-quad-cities.md: May contain unprocessed shortcodes — review manually
+⚠️  best-portable-chargers-for-travelers.md: May contain unprocessed shortcodes — review manually
+⚠️  all-inclusive-family-resorts-cancun.md: May contain unprocessed shortcodes — review manually
+⚠️  californias-hidden-gems.md: May contain unprocessed shortcodes — review manually
+⚠️  st-pete-beach-family-resorts.md: May contain unprocessed shortcodes — review manually
+⚠️  chartered-flights.md: May contain unprocessed shortcodes — review manually
+⚠️  hybrid-electric-vehicle-road-trip.md: May contain unprocessed shortcodes — review manually
+⚠️  buena-park-with-kids.md: May contain unprocessed shortcodes — review manually
+⚠️  glamping-san-diego.md: May contain unprocessed shortcodes — review manually
+⚠️  glamping-big-sur.md: May contain unprocessed shortcodes — review manually
+⚠️  glamping-temecula.md: May contain unprocessed shortcodes — review manually
+⚠️  things-to-do-with-kids-in-destin-fl.md: May contain unprocessed shortcodes — review manually
+⚠️  family-travel-guide-for-unique-things-to-do-in-st-augustine-with-kids.md: May contain unprocessed shortcodes — review manually
+⚠️  things-to-do-in-key-west-with-kids.md: May contain unprocessed shortcodes — review manually
+⚠️  hotels-in-key-west-for-families.md: May contain unprocessed shortcodes — review manually
+⚠️  ultimate-guide-to-traveling-with-children.md: May contain unprocessed shortcodes — review manually
+⚠️  struggles-and-solutions-for-traveling-parents.md: May contain unprocessed shortcodes — review manually
+⚠️  floridas-top-water-parks-for-kids.md: May contain unprocessed shortcodes — review manually
+⚠️  self-care-when-traveling.md: May contain unprocessed shortcodes — review manually
+⚠️  self-care-vacation.md: May contain unprocessed shortcodes — review manually
+📸 self-care-vacation.md: No hero image found — consider adding one
+⚠️  glamping-texas.md: May contain unprocessed shortcodes — review manually
+⚠️  make-your-next-travel-adventure-the-best.md: May contain unprocessed shortcodes — review manually
+📸 make-your-next-travel-adventure-the-best.md: No hero image found — consider adding one
+⚠️  new-yorks-five-boroughs.md: May contain unprocessed shortcodes — review manually
+⚠️  how-to-approach-planning-your-next-trip.md: May contain unprocessed shortcodes — review manually
+📸 how-to-approach-planning-your-next-trip.md: No hero image found — consider adding one
+⚠️  travel-mistakes-families-should-avoid.md: May contain unprocessed shortcodes — review manually
+📸 travel-mistakes-families-should-avoid.md: No hero image found — consider adding one
+⚠️  5-events-for-4th-of-july-in-aspen.md: May contain unprocessed shortcodes — review manually
+⚠️  palm-springs-with-kids.md: May contain unprocessed shortcodes — review manually
+⚠️  best-family-resorts-palm-springs.md: May contain unprocessed shortcodes — review manually
+⚠️  glamping-joshua-tree-national-park.md: May contain unprocessed shortcodes — review manually
+⚠️  glamping-palm-springs.md: May contain unprocessed shortcodes — review manually
+⚠️  glamping-santa-barbara.md: May contain unprocessed shortcodes — review manually
+⚠️  glamping-bay-area-near-san-francisco.md: May contain unprocessed shortcodes — review manually
+⚠️  glamping-los-angeles.md: May contain unprocessed shortcodes — review manually
+⚠️  best-glamping-florida.md: May contain unprocessed shortcodes — review manually
+⚠️  glamping-zion-national-park.md: May contain unprocessed shortcodes — review manually
+⚠️  grand-canyon-glamping.md: May contain unprocessed shortcodes — review manually
+⚠️  glamping-colorado.md: May contain unprocessed shortcodes — review manually
+⚠️  best-california-glamping-sites.md: May contain unprocessed shortcodes — review manually
+⚠️  glamping-upstate-new-york.md: May contain unprocessed shortcodes — review manually
+⚠️  glamping-arizona.md: May contain unprocessed shortcodes — review manually
+⚠️  6-spectacular-summer-adventures-in-the-hudson-valley.md: May contain unprocessed shortcodes — review manually
+⚠️  budgeting-in-different-personality-types.md: May contain unprocessed shortcodes — review manually
+📸 budgeting-in-different-personality-types.md: No hero image found — consider adding one
+⚠️  how-to-plan-the-perfect-shopping-vacation.md: May contain unprocessed shortcodes — review manually
+📸 how-to-plan-the-perfect-shopping-vacation.md: No hero image found — consider adding one
+⚠️  best-palm-springs-tours.md: May contain unprocessed shortcodes — review manually
+⚠️  why-knowing-how-to-cook-is-a-great-travel-skill.md: May contain unprocessed shortcodes — review manually
+⚠️  best-pools-in-palm-springs.md: May contain unprocessed shortcodes — review manually
+⚠️  how-to-feel-confident-again-after-a-bad-solo-travel-experience.md: May contain unprocessed shortcodes — review manually
+⚠️  cultural-immersion-in-vietnam.md: May contain unprocessed shortcodes — review manually
+⚠️  family-vacation-planning-top-tips.md: May contain unprocessed shortcodes — review manually
+⚠️  things-to-do-in-sayulita-in-2023.md: May contain unprocessed shortcodes — review manually
+⚠️  haunted-hotels-san-antonio.md: May contain unprocessed shortcodes — review manually
+⚠️  things-to-do-before-a-u-s-vacation.md: May contain unprocessed shortcodes — review manually
+📸 cybersecurity-advice-for-secure-traveling.md: No hero image found — consider adding one
+⚠️  haunted-hotels-in-colorado.md: May contain unprocessed shortcodes — review manually
+⚠️  haunted-hotels-arizona.md: May contain unprocessed shortcodes — review manually
+⚠️  haunted-hotels-texas.md: May contain unprocessed shortcodes — review manually
+⚠️  haunted-hotels-new-york.md: May contain unprocessed shortcodes — review manually
+⚠️  is-alcatraz-worth-visiting.md: May contain unprocessed shortcodes — review manually
+⚠️  best-towns-for-halloween.md: May contain unprocessed shortcodes — review manually
+📸 fitness-well-being-for-better-travel.md: No hero image found — consider adding one
+⚠️  polar-express-in-arizona.md: May contain unprocessed shortcodes — review manually
+⚠️  christmas-hotels-southern-california.md: May contain unprocessed shortcodes — review manually
+⚠️  best-wine-suitcase-wine-travel-bag.md: May contain unprocessed shortcodes — review manually
+⚠️  haunted-hotels-san-francisco.md: May contain unprocessed shortcodes — review manually
+⚠️  best-christmas-hotels-in-nyc.md: May contain unprocessed shortcodes — review manually
+📸 make-long-distance-moving-easier.md: No hero image found — consider adding one
+⚠️  best-family-hotels-vancouver-bc.md: May contain unprocessed shortcodes — review manually
+⚠️  best-family-hotels-charleston-south-carolina.md: May contain unprocessed shortcodes — review manually
+⚠️  best-breweries-in-temecula-ca.md: May contain unprocessed shortcodes — review manually
+⚠️  best-family-hotels-near-lax.md: May contain unprocessed shortcodes — review manually
+⚠️  best-breweries-in-long-beach.md: May contain unprocessed shortcodes — review manually
+⚠️  best-breweries-in-omaha.md: May contain unprocessed shortcodes — review manually
+⚠️  las-vegas-with-kids.md: May contain unprocessed shortcodes — review manually
+⚠️  advice-las-vegas-with-baby-infant-itinerary.md: May contain unprocessed shortcodes — review manually
+📸 budget-friendly-tips-europe-with-kids.md: No hero image found — consider adding one
+📸 when-is-it-too-late-to-buy-travel-insurance.md: No hero image found — consider adding one
+📸 traveling-while-staying-healthy-some-tips.md: No hero image found — consider adding one
+📸 airports-flights-children-survival-guide.md: No hero image found — consider adding one
+⚠️  las-vegas-kids-frequently-asked-questions.md: May contain unprocessed shortcodes — review manually
+⚠️  3-day-road-trips-from-las-vegas.md: May contain unprocessed shortcodes — review manually
+⚠️  kid-friendly-live-music-las-vegas.md: May contain unprocessed shortcodes — review manually
+⚠️  things-to-do-in-las-vegas-with-teens.md: May contain unprocessed shortcodes — review manually
+⚠️  walking-las-vegas-strip.md: May contain unprocessed shortcodes — review manually
+📸 traveling-light-tips.md: No hero image found — consider adding one
+📸 moving-to-a-new-city.md: No hero image found — consider adding one
+📸 how-family-travels-helps-alleviate-teen-anxiety.md: No hero image found — consider adding one
+📸 things-to-do-in-alabama.md: No hero image found — consider adding one
+📸 dos-and-donts-of-moving-to-a-new-city.md: No hero image found — consider adding one
+📸 lifestyle-advantages-of-riding-electric-bikes.md: No hero image found — consider adding one
+📸 trekking-the-trails-of-madeira.md: No hero image found — consider adding one
+⚠️  affordable-family-activities-las-vegas.md: May contain unprocessed shortcodes — review manually
+⚠️  best-family-hotels-anaheim-suites-near-disneyland.md: May contain unprocessed shortcodes — review manually
+⚠️  best-cirque-du-soleil-shows-in-vegas-for-families.md: May contain unprocessed shortcodes — review manually
+📸 why-choose-the-camino-portuguese-coastal-route.md: No hero image found — consider adding one
+📸 trip-to-gatlinburg-tips.md: No hero image found — consider adding one
+📸 why-dubai-should-be-your-destination.md: No hero image found — consider adding one
+📸 luxury-cruises-departing-from-southampton.md: No hero image found — consider adding one
+⚠️  traveling-across-america-in-comfort-as-a-family.md: May contain unprocessed shortcodes — review manually
+⚠️  tips-for-traveling-alone.md: May contain unprocessed shortcodes — review manually
+⚠️  st-patricks-day-at-newport-dunes.md: May contain unprocessed shortcodes — review manually
+⚠️  newport-coast-with-kids.md: May contain unprocessed shortcodes — review manually
+⚠️  tradewinds-island-grand.md: May contain unprocessed shortcodes — review manually
+⚠️  things-to-do-in-anaheim.md: May contain unprocessed shortcodes — review manually
+⚠️  newport-dunes-resort.md: May contain unprocessed shortcodes — review manually
+⚠️  lugabug.md: May contain unprocessed shortcodes — review manually
+⚠️  vancouver-with-kids.md: May contain unprocessed shortcodes — review manually
+⚠️  best-toddler-toys-for-car-rides.md: May contain unprocessed shortcodes — review manually
+⚠️  5-best-family-hotels-in-destin-fl.md: May contain unprocessed shortcodes — review manually
+📸 tips-to-plan-perfect-getaway.md: No hero image found — consider adding one
+📸 tips-better-travel-experience.md: No hero image found — consider adding one
+📸 public-transport-travel-tips.md: No hero image found — consider adding one
+📸 travel-like-a-local.md: No hero image found — consider adding one
+⚠️  las-vegas-with-a-toddler.md: May contain unprocessed shortcodes — review manually
+⚠️  st-pete-vs-clearwater.md: May contain unprocessed shortcodes — review manually
+⚠️  las-vegas-christmas-activities.md: May contain unprocessed shortcodes — review manually
+
+NEXT STEPS
+==========
+1. Review files in src/content/blog/ for any remaining issues
+2. Run: node scripts/download-images.mjs  (to download all WP images locally)
+3. Run: npm run dev  (to preview the site)
+4. Check migration-report.txt warnings above

@@ -1,0 +1,560 @@
+---
+title: "8 Kid-Friendly Day Trips from Las Vegas That Rock 2026"
+description: ""
+pubDate: 2024-02-07
+updatedDate: 2026-03-25
+heroImage: "//a.impactradius-go.com/display-ad/4221-271012"
+category: "Hot Las Vegas"
+tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]
+wpId: 9523
+wpSlug: "kid-friendly-day-trips-las-vegas"
+author: "Amanda Keeley-Thurman"
+---
+
+<!-- wp:paragraph {"dropCap":true} -->
+<p class="has-drop-cap">There is so much to do on the Las Vegas Strip, even if you are visiting <a href="/las-vegas-with-kids/" target="_blank" rel="noreferrer noopener"><strong>Las Vegas with kids</strong></a>, that you might be wondering <em>why would anyone in their right mind ever want or need to leave the Vegas strip</em>!?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Well many people don’t realize it, but <strong>Las Vegas is actually situated in one of the most beautiful <a href="/nevada-family-travel/" data-type="page" data-id="20055">areas of the United States</a></strong>, and there are lots of great reasons to escape the bustling city for a day to explore the many unique natural wonders that surround Las Vegas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>For example, just a hop, skip and jump away from the Vegas strip you will find majestic red rock desert landscapes, historic man-made wonders like Hoover dam and Lake Mead (which is the largest man-made lake in the US), and of course, epic sights like the Grand Canyon are really just a quick helicopter ride away from Vegas in nearby Arizona.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The best way to explore these marvels is to book a day trip from Las Vegas with a reputable tour company. Especially if you are planning a family day trip from Las Vegas, these companies will take care of <em>just about <strong>EVERYTHING</strong></em>, making sure you have a safe and awesome experience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Related Article: <a href="/3-day-road-trips-from-las-vegas/" target="_blank" rel="noreferrer noopener">Unforgettable 3-day weekend Road Trips from Las Vegas</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In this article we will describe our hand-selected favorite family-friendly day tours offered on <a href="/go/best-of-vegas-main/" target="_blank" rel="noreferrer noopener"><strong>Vegas.com</strong></a> (one of the best sites for just about everything Las Vegas). Click on the links and you will be redirected so you can check out more pictures, read reviews, and check deals and availability.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Hot Tip: most of these Vegas day tours have no age restriction and also have a special rate for kids 2-11 years old.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here is our list of the <strong>top family day trips from Las Vegas</strong> that are worth your time and money, and most importantly, will be a fun and memorable experience for your kids.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>See this article as a web story, <a href="/web-stories/las-vegas-day-trips/" target="_blank" rel="noreferrer noopener">Las Vegas Day Trips</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"49px"} -->
+
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size"><strong>Disclaimer</strong>: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! <em>You can read more on our <a href="/disclosure-policy/">disclosure policy</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"50px"} -->
+
+<!-- /wp:spacer -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure><a href="//vegas.7eer.net/c/1226937/271012/4221"><img src="//a.impactradius-go.com/display-ad/4221-271012" alt=""/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:ugb/heading {"showSubtitle":false,"showBottomLine":true,"bottomLineColor":"#ff0000","uniqueClass":"ugb-2c41d4a","contentAlign":"center"} -->
+<div class="wp-block-ugb-heading ugb-heading ugb-2c41d4a ugb-main-block"><style>.ugb-2c41d4a .ugb-heading__title{text-align:center}.ugb-2c41d4a .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-2c41d4a .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><h2 class="ugb-heading__title">Family Day Trips From Las Vegas</h2><div class="ugb-heading__bottom-line"></div></div></div></div>
+<!-- /wp:ugb/heading -->
+
+<!-- wp:image {"id":10798,"sizeSlug":"full","linkDestination":"media"} -->
+<figure id="beautiful-grand-canyon-south-rim-scenic"><a href="/wp-content/uploads/2019/04/beautiful-grand-canyon-south-rim-scenic.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2019/04/beautiful-grand-canyon-south-rim-scenic.jpg" alt="Stunning view from Grand Canyon South Rim" class="wp-image-10798" title="Family day trips from Las Vegas with the King of Canyons Tour"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="medieval-times"><a linkid="9519" href="/go/vegas-tour-king-of-canyons/">King of Canyons Tour</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Tour duration:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4 hours</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Time in air:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;70 minutes</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Mode of transport:</strong>&nbsp; Limousine, Helicopter</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Tour start times:</strong>&nbsp; &nbsp; &nbsp; 7:45am, 9:45am, 12:15pm, 2:45pm, 5:00pm</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Locations seen:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Grand Canyon, Hoover Dam, Black Mountains, Great Wash Cliffs, Las Vegas Strip</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>If you book the King of Canyons Tour, a limousine will pick you up directly from your <a href="/best-family-hotels-in-las-vegas/" data-type="post" data-id="8418" target="_blank" rel="noreferrer noopener"><strong>Vegas hotel</strong></a> and take you to the helicopter pad near the Strip to embark on your journey to the Grand Canyon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The helicopter ride to the Grand Canyon will first take you and your family over beautiful natural sights, including Black Mountains, Grand Wash Canyon, and Hoover Dam/Lake Mead.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Finally, the chopper will land at the bottom of the <a href="/grand-canyon-glamping/" data-type="post" data-id="14708" target="_blank" rel="noreferrer noopener"><strong>Grand Canyon</strong></a> on the bank of the Colorado River so you can all delight in a picnic meal and a glass of Champagne. You will have time to walk around and explore the surrounding Native American Tribal lands before returning to Vegas by chopper, where a limousine will be waiting to escort you back to your hotel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4><strong>Why kids will love it:</strong>&nbsp;</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Have your kids ever been in a limousine or a helicopter? If not, then this would be an extraordinary way to make a lasting memory with your kids, riding by limousine through Vegas and arriving at the bottom of the Grand Canyon by chopper! I know parents don't really get brownie points for the special deeds we do for our kids, but I think we should and this would be worth about a million brownie points in my opinion.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The pilots are also extremely nice and talkative and will discuss all the points of interest on your helicopter ride to the <a href="/grand-canyon-with-kids-williams-az/" data-type="post" data-id="10797" target="_blank" rel="noreferrer noopener"><strong>Grand Canyon</strong></a>, so your kids will probably learn some interesting facts while seeing the world from a whole new perspective.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="/go/vegas-tour-king-of-canyons/" target="_blank" rel="noreferrer noopener"><strong>Check for Deals on Vegas.com with their Best Price Guarantee</strong></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":17971,"sizeSlug":"full","linkDestination":"media"} -->
+<figure id="valley-of-fire-lost-city-day-trips-las-vegas"><a href="/wp-content/uploads/2023/05/valley-of-fire-lost-city-day-trips-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/05/valley-of-fire-lost-city-day-trips-las-vegas.jpg" alt="Valley of Fire and Lost City Museum Tour kid-friendly day trips from Las Vegas" class="wp-image-17971" title="Visit the Valley of Fire and Lost City Museum as Las Vegas Day Trip"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="medieval-times"><a href="/go/valley-of-fire-lost-city-las-vegas-day-trip/" linkid="17969">Valley of Fire and Lost City Museum Tour</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Tour duration:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 7 hours</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Mode of transport:</strong>&nbsp; Luxury 4x4s</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Tour start times:</strong>&nbsp; &nbsp; &nbsp; 8:00am</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Locations seen:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Valley of Fire, Lost City Museum</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>The Valley of Fire and <a href="https://www.lostcitymuseum.org/" target="_blank" rel="noreferrer noopener">Lost City Museum</a> tour is a fantastic adventure for families looking for a fun and educational experience. Located just outside of Las Vegas, the Valley of Fire State Park is a stunning natural wonderland of fiery red rocks and incredible desert landscapes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The tour includes a visit to the Lost City Museum, which is dedicated to the preservation and interpretation of the rich cultural heritage of the Moapa Valley. Here, visitors can explore exhibits showcasing ancient artifacts and learn about the lives and customs of the Anasazi and Paiute people who once inhabited the region 3000 years ago.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The tour is family-friendly and suitable for all ages, making it a great option for a day trip or weekend getaway. The guides are knowledgeable and enthusiastic, providing interesting insights and fun facts about the history and geology of the area.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4><strong>Why kids will love it:</strong>&nbsp;</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Kids would absolutely love the <a href="https://parks.nv.gov/parks/valley-of-fire" target="_blank" rel="noreferrer noopener">Valley of Fire</a> and Lost City Museum tour riding on luxury 4x4s! First of all, the Valley of Fire State Park is like a playground of rocks and canyons just waiting to be explored. With its bright red sandstone formations and otherworldly landscapes, it's a perfect place for kids to let their imaginations run wild.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>But the fun doesn't stop there! At the Lost City Museum, kids can learn about the lives and customs of the Native American people who once lived in the region. They'll see ancient artifacts and exhibits that bring the past to life, making history come alive in a way that's engaging and exciting for young minds.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>On top of all that, the tour guides are super friendly and enthusiastic, and they love sharing their knowledge with kids. They'll keep the kids entertained with fun facts, stories, and interactive experiences that make the tour a blast for everyone.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="/go/valley-of-fire-lost-city-las-vegas-day-trip/" linkid="17969">Check for Deals on Vegas.com with their Best Price Guarantee</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":9530,"sizeSlug":"full","linkDestination":"media"} -->
+<figure id="Grand-Canyon-day-trip"><a href="/wp-content/uploads/2018/08/Grand-Canyon-day-trip.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2018/08/Grand-Canyon-day-trip.jpg" alt="Grand Canyon Beautiful landscape" class="wp-image-9530" title="Las Vegas Day Trips to the Grand Canyon"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="medieval-times"><a linkid="17973" href="/kid-friendly-day-trips-las-vegas/">Grand Canyon West Rim and Hoover Dam Bus Photo Stop Tour</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Tour duration:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 10.5 hours</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Mode of transport:</strong>&nbsp; Luxury motorcoach</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Tour start times:</strong>&nbsp; &nbsp; &nbsp; 7:30am</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Locations seen:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Grand Canyon, Guano Point, Joshua Tree, Hoover Dam</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Experience the beauty of the <a href="https://www.nps.gov/grca/index.htm" target="_blank" rel="noreferrer noopener">Grand Canyon National Park</a> and other picturesque locations on the Grand Canyon West Rim and Hoover Dam Photo Stop Bus Tour. During your tour, you'll have ample time to explore the stunning Grand Canyon West Rim, which boasts multiple gorgeous views and unique entertainment options. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>At Eagle Point, guests can enjoy the world-famous Skywalk, the Hualapai Market, where handmade art and jewelry are sold, and the historic Hualapai Village with authentic tents and daily performances in the outdoor theater. Additionally, Guano Point provides magnificent views of the canyon and an abandoned mine. Vegetarian options are available for lunch at either Guano Point or the <a href="https://grandcanyonwest.com/food-and-drinks/" target="_blank" rel="noreferrer noopener">Skywalk Cafe</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As you head back to Las Vegas, the tour takes you through a beautiful Joshua Tree Forest, and you'll have a 30-minute stop at the Pat Tillman memorial bridge to take stunning photos of the <a href="https://www.usbr.gov/lc/hooverdam/" target="_blank" rel="noreferrer noopener">Hoover Dam</a> on your way to the Grand Canyon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4><strong>Why kids will love it:</strong>&nbsp;</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Grand Canyon is a natural wonder that will leave kids in awe with its sheer size and breathtaking views. They'll love exploring the different viewpoints at the West Rim and seeing the unique rock formations that make up the canyon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Kids will love walking along the world-famous Skywalk, a glass bridge that extends out over the canyon, providing a thrilling and unforgettable experience. Kids can also visit the Hualapai Village and see authentic tents and daily performances in the outdoor theater, which is a fun and educational way to learn about Native American culture.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>At Guano Point, kids will love seeing the abandoned mine and exploring the different viewpoints of the canyon. And for lunch, they can choose from different options at either Guano Point or the Skywalk Cafe, ensuring everyone can find something they'll enjoy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="/kid-friendly-day-trips-las-vegas/" linkid="17973">Check for Deals on Vegas.com with their Best Price Guarantee</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":17975,"sizeSlug":"full","linkDestination":"media"} -->
+<figure id="hoover-dam-raft-post-card-tour-day-trips-las-vegas"><a href="/wp-content/uploads/2023/05/hoover-dam-raft-post-card-tour-day-trips-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/05/hoover-dam-raft-post-card-tour-day-trips-las-vegas.jpg" alt="Hoover Dam Rafting and Post Card Tour day trip from Las Vegas" class="wp-image-17975" title="Family day trips from Las Vegas at the Hoover Dam Raft Tour"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="medieval-times"><a href="/go/hoover-dam-rafting-post-card-tour/" linkid="17977">Hoover Dam Rafting and Post Card Tour</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Tour duration:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3 to 6 hours</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Mode of transport:</strong>&nbsp; Raft, Bus</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Tour start times:</strong>&nbsp; &nbsp; &nbsp; 10:00am or 11:00am</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Locations seen:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Colorado River, Hoover Dam, Black Canyon</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Join this fully narrated and historic raft tour of the <a href="https://coloradoriver.org/about-the-river/" target="_blank" rel="noreferrer noopener">Colorado River</a> and spend a thrilling few hours exploring the Black Canyon National Water Trail. You have two tour options to choose from: the Postcard Tour which is a 1.5-hour journey on the river or the Regular Run Tour which is a 3-hour adventure on the water.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Postcard Tour offers a chance to view the Hoover Dam, the bypass bridge and journey just far enough down river to feel the canyon's surreal setting. Get a close-up view of the concrete slabs, steps, and rails used to build the dam, as well as see the Old Catwalk, Gauging Station, and removed rock hillsides.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The Regular Run Tour begins with hotel pick-up and a ride to the check-in location overlooking Lake Mead. Travel down Lower Portal Road, the same road used by construction workers when building the Hoover Dam. From the base of Hoover Dam, you'll get a bird’s-eye view of the Mike O'Callaghan–Pat Tillman Memorial Bridge spanning Black Canyon and connecting Arizona and Nevada, 900 feet above the Colorado River.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>During the 12-mile journey, your raft will pass through canyon walls that rise as high as 2,000 feet above the river’s edge. You'll experience waterfalls, hot springs, geological wonders, and wildlife such as desert big horn sheep, osprey, great blue heron, and more with the help of an experienced guide who has incredible knowledge of the history of the dam and the area.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>You'll also have a stop along the way at a beach for lunch, giving you the opportunity to swim or play in the cool clear water of the Colorado River. Lunch, including a turkey wrap, chips, apple, and bottle of water, will be served in a souvenir insulated bag. Vegetarian and gluten-free lunches are also available with 72 hours' notice.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The raft tour ends at Willow Beach, Arizona, where you'll be transported back to your hotel. Whether you choose the Postcard Tour or the Regular Run Tour, this exciting raft tour of the Colorado River is a must-do activity when visiting the Hoover Dam and Las Vegas area.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4><strong>Why kids will love it:</strong> </h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Kids will love the Hoover Dam Rafting and Postcard Tour because it offers a unique and exciting way to explore the Black Canyon National Water Trail and the Colorado River. They can enjoy a scenic and informative ride down the river, while spotting wildlife such as desert bighorn sheep, osprey, and great blue heron, all while having fun and playing in the cool clear water of the Colorado River during the lunch stop. Plus, they can get an up-close look at the Hoover Dam and learn about its history and construction. It's a perfect family-friendly activity that combines education, adventure, and the great outdoors.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="/go/hoover-dam-rafting-post-card-tour/" linkid="17977">Check for Deals on Vegas.com with their Best Price Guarantee</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":9531,"sizeSlug":"full","linkDestination":"media"} -->
+<figure id="Hoover-dam-day-trip-from-Vegas"><a href="/wp-content/uploads/2018/08/Hoover-dam-day-trip-from-Vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2018/08/Hoover-dam-day-trip-from-Vegas.jpg" alt="Hoover Dam and Lake Mead trip" class="wp-image-9531" title="Lake Mead Cruise &amp; Hoover Dam Discovery Tour Day Trips from Vegas"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="medieval-times"><a linkid="17979" href="/go/hoover-dam-express-bus-tour/">Hoover Dam Express Bus Tour</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Tour duration:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4.5 hours</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Mode of transport:</strong>&nbsp; Luxury Motor Coach (kids under 2 ride free)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Tour start times:</strong>&nbsp; &nbsp; &nbsp; 7:30am</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Locations seen:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Hoover Dam, Lake Mead,&nbsp;Welcome to Las Vegas sign</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Escape the busy city and take a family-friendly adventure to the historic Hoover Dam with the Hoover Dam Express Bus Tour. The luxury motorcoach is comfortable and perfect for families with its reclining seats, large windows, and a professional guide providing interesting commentary on the round-trip tour.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>On the way, you'll make memorable stops at the famous Welcome to Las Vegas sign for a quick photo op and breathtaking views of the largest man-made lake in the United States, <a href="https://grcahistory.org/sites/beyond-park-boundaries/lake-mead/" target="_blank" rel="noreferrer noopener">Lake Mead</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When you arrive at the Hoover Dam, you'll have two hours to explore the dam, the Visitor's Center, and go on the VIP Government Guided Power Plant Tour included in your experience. Marvel at the stunning art deco style details and take in the magnificent views of the spillway and massive intake towers. It's an exciting and educational adventure that's perfect for the whole family to enjoy.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4><strong>Why kids will love it:</strong>&nbsp;</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>You'll ride in style on a luxury motorcoach with comfy seats and large windows, perfect for taking in all the amazing views. Along the way, you'll make pit stops at the famous Welcome to Las Vegas sign for a quick photo op and see some of the biggest lakes in the US - so get ready to be amazed!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When you arrive at the Hoover Dam, you'll get to explore the dam, check out the Visitor's Center, and go on the VIP Government Guided Power Plant Tour, which is totally included in your experience! You'll see massive intake towers and a breathtaking spillway, and learn all about this incredible piece of engineering.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="/go/hoover-dam-express-bus-tour/" linkid="17979">Check for Deals on Vegas.com with their Best Price Guarantee</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":9533,"sizeSlug":"full","linkDestination":"media"} -->
+<figure id="Red-Rock-Canyon-Las-Vegas-day-trip"><a href="/wp-content/uploads/2018/08/Red-Rock-Canyon-Las-Vegas-day-trip.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2018/08/Red-Rock-Canyon-Las-Vegas-day-trip.jpg" alt="Red Rock Canyon Tour " class="wp-image-9533" title="Las Vegas day trips for kids with a Red Rock Canyon tour"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="medieval-times"><a linkid="17981" href="/go/red-rock-canyon-vegas-day-trip/">Red Rock Canyon Tour</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Tour duration:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3 hours</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Mode of transport:</strong>&nbsp; Pink Jeep</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Tour start times:</strong>&nbsp; &nbsp; &nbsp; 9:00am</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Locations seen:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Red Rock Canyon</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Jump into a cool, open-air pink Jeep and get ready to explore the stunning <a href="/best-family-pools-in-vegas/" data-type="post" data-id="13741" target="_blank" rel="noreferrer noopener"><strong>Red Rock Canyon</strong></a> on this guided and narrated tour, with plenty of stops along the way for some awesome photos!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Your guide will take you to some of the most scenic spots in the park, including the Red <a href="https://www.redrockcanyonlv.org/visitor-information/" target="_blank" rel="noreferrer noopener">Rock Visitor's Center</a>, <a href="/calico-ghost-town-with-kids/" data-type="post" data-id="4207" target="_blank" rel="noreferrer noopener"><strong>Calico Hills</strong></a>, Highpoint Lookout, and Willow Springs, where you can check out some ancient sites like the 65-million-year-old Keystone Thrust Fault, fossilized sand dunes, and Limestone Mountains.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Plus, you'll get to learn about the area's rich Native American history and culture at Willow Springs. It's the perfect adventure for the whole family!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4><strong>Why kids will love it:</strong> </h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Your kids have probably never seen a place quite like Red Rock Canyon. The pictures are drop-dead gorgeous but may not even do this place justice to be honest. Even if you are expecting hot temperatures, the whole family will enjoy the fun information provided by the experienced tour guides aboard the cool open-air pink jeeps!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Hot Tip: Be sure to bring A LOT of water and snacks to keep hydrated and comfortable during this half-day trip to the desert.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="/go/red-rock-canyon-vegas-day-trip/" linkid="17981">Check for Deals on Vegas.com with their Best Price Guarantee</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":17989,"sizeSlug":"full","linkDestination":"media"} -->
+<figure id="death-valley-tour-day-trips-las-vegas"><a href="/wp-content/uploads/2023/05/death-valley-tour-day-trips-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/05/death-valley-tour-day-trips-las-vegas.jpg" alt="Death Valley Tour from Las Vegas" class="wp-image-17989" title="Day trips from Las Vegas include a Death Valley Tour"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="medieval-times"><a href="/go/death-valley-las-vegas-day-trip/" linkid="17987">Death Valley Tour</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Tour duration:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 10 hours</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Mode of transport:</strong>&nbsp; Tour Trekker Vehicle</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Tour start times:</strong>&nbsp; &nbsp; &nbsp; 7:45pm</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Locations seen:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Dantes View, Devils Golf Course, Badwater and various Mojave Desert saline lakes and salt pans.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>R<strong>estrictions:</strong> Children must be at least 3 years old to go on this tour.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Get ready for an adventure like no other! Your tour will begin with a pickup from your hotel in a comfy Tour Trekker vehicle. As you make your way to Death Valley, you'll stop at the National Park Visitor Center for a quick intro into the region. You'll also get to check out the Area 51 Alien Center, Rhyolite ghost town, and the Goldwell Open Air Museum.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>But the real excitement starts as you enter Death Valley, the lowest point in the US! Your guide will take you to see amazing sites like Dantes View, <a href="https://www.nps.gov/thingstodo/check-out-devils-golf-course.htm" target="_blank" rel="noreferrer noopener">Devil's Golf Course</a>, and Badwater, where you can take plenty of photos of the unique desert plant life and stunning landscape.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Don't forget to bring your camera! And on the way back to your hotel, keep an eye out for the beautiful surrounding areas of Las Vegas. This is a tour you won't want to miss!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4><strong>Why kids will love it:</strong>&nbsp;</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Kids are going to love exploring the <a href="https://area51aliencenter.net/" target="_blank" rel="noreferrer noopener">Area 51 Alien Center</a> and pondering what's beyond the stars. They will feel like cowboys and cowgirls at the cool Rhyolite ghost town and take in all the wild desert landscape views.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="/go/death-valley-las-vegas-day-trip/" linkid="17987">Check for Deals on Vegas.com with their Best Price Guarantee</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":17985,"sizeSlug":"full","linkDestination":"media"} -->
+<figure id="wild-west-horseback-adventure-day-trips-las-vegas"><a href="/wp-content/uploads/2023/05/wild-west-horseback-adventure-day-trips-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/05/wild-west-horseback-adventure-day-trips-las-vegas.jpg" alt="Wild West Horseback Adventure from Las Vegas" class="wp-image-17985" title="Take a Vegas Horseback Ride for family day trips from Las Vegas"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="medieval-times"><a href="/go/wild-west-horseback-adventure/" linkid="17983">Wild West Horseback Adventure</a></h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Tour duration:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 5 hours</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Mode of transport:</strong>&nbsp; Horses!</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Tour start times:</strong>&nbsp; &nbsp; &nbsp; 8:00am &amp; 5:00pm</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Locations seen:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Moapa Valley</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Restrictions:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<em>Passengers must be 6+ years old, under 250 lbs, and in good physical health to ride</em></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Experience the Wild West with a horseback ride adventure that'll take you back in time. Get picked up from your hotel and head to a ranch for a delicious Western-style meal with stunning mountain views. Choose between breakfast or dinner tours, and enjoy eggs, pancakes, steak, chicken, and more!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Then, get ready for a 90-minute horseback trail ride that'll show you the beauty of Mother Nature. Don't forget to snap some photos along the way! Make sure to wear long pants and closed-toe shoes, and bring a hat and sunglasses. If it's chilly, a jacket or long-sleeved shirt is recommended. Get ready for a fun-filled adventure!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4><strong>Why kids will love it:</strong>&nbsp;</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Kids will love the delicious Western-style breakfast or dinner at a ranch, then hopping on their trusty steed for a 90-minute trail ride through stunning natural landscapes. Kids will love feeling like real cowboys and cowgirls, and the chance to get up close and personal with beautiful horses. Just make sure to wear appropriate clothing and footwear for the ride.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="/go/wild-west-horseback-adventure/" linkid="17983">Check for Deals on Vegas.com with their Best Price Guarantee</a></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:ugb/heading {"showSubtitle":false,"showBottomLine":true,"bottomLineColor":"#cf2e2e","uniqueClass":"ugb-0ddb509","contentAlign":"center"} -->
+<div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><h2 class="ugb-heading__title">That's A Wrap!</h2><div class="ugb-heading__bottom-line"></div></div></div></div>
+<!-- /wp:ugb/heading -->
+
+<!-- wp:paragraph {"dropCap":true} -->
+<p class="has-drop-cap">As I said in the intro, there are so many <a href="/affordable-family-activities-las-vegas/" data-type="post" data-id="9304" target="_blank" rel="noreferrer noopener"><strong>fun activities in Las Vegas</strong></a> that it is easy to forget that Vegas is situated in a very unique desert ecosystem with insane natural beauty. Luckily, there are a host of tour companies that have designed thrilling, kid-friendly day tour itineraries from Vegas to learn about and experience the wonderful areas surrounding Las Vegas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Here I presented my own favorite day trips from Las Vegas for families, but if you didn't see something that was perfect for your family, there are actually a bunch more to choose from on <strong><a href="/go/best-of-vegas-main/" target="_blank" rel="noreferrer noopener">Vegas.com</a></strong>. Next time you are in <a href="/family-friendly-vegas/" data-type="page" data-id="17941" target="_blank" rel="noreferrer noopener"><strong>Vegas with kids</strong></a>, don't forget to book a day tour and check some items off your bucket list!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Also, be sure to join my <a href="https://www.facebook.com/groups/lasvegaswithkidstips" target="_blank" rel="noreferrer noopener"><strong>Las Vegas With Kids Facebook Group</strong></a>! This is where our community gathers to share the most up-to-date Vegas news and tips for families.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"51px"} -->
+
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size"><strong>Disclaimer</strong>: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! <em>You can read more on our <a href="/disclosure-policy/">disclosure policy</a>.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"50px"} -->
+
+<!-- /wp:spacer -->
+
+<!-- wp:uagb/section {"classMigrate":true,"block_id":"523e9ec6","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1} -->
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-523e9ec6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:paragraph {"textColor":"vivid-red","fontSize":"large"} -->
+<p class="has-vivid-red-color has-text-color has-large-font-size"><strong>Like it? Pin it!</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":17995,"sizeSlug":"medium","linkDestination":"media","align":"left"} -->
+<figure id="8-Amazing-kid-friendly-day-trips-from-Las-Vegas"><a href="/wp-content/uploads/2023/05/family-day-trips-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/05/family-day-trips-las-vegas-200x300.jpg" alt="8 kid-friendly day trips from Las Vegas" class="wp-image-17995" title="Unique and Amazing 8 Kid-friendly Day Trips from Las Vegas Your Family will LOVE - HotMamaTravel"/></a></figure>
+<!-- /wp:image --></div></section>
+<!-- /wp:uagb/section -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->

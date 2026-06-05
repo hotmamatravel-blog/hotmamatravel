@@ -1,0 +1,263 @@
+---
+// Footer.astro
+const year = new Date().getFullYear();
+
+const exploreLinks = [
+  { label: 'Las Vegas with Kids', href: '/family-friendly-vegas/' },
+  { label: 'California Travel', href: '/tag/california/' },
+  { label: 'Family Hotels', href: '/tag/family-hotels/' },
+];
+
+const infoLinks = [
+  { label: 'Disclosure Policy', href: '/disclosure-policy/' },
+  { label: 'Privacy Policy', href: '/privacy-policy/' },
+  { label: 'Contact', href: '/contact/' },
+];
+
+const socialLinks = [
+  {
+    label: 'Instagram',
+    href: 'https://www.instagram.com/hotmamatravel',
+    icon: `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>`,
+  },
+  {
+    label: 'YouTube',
+    href: 'https://www.youtube.com/@Hotmamatravel',
+    icon: `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.95-1.96C18.88 4 12 4 12 4s-6.88 0-8.59.46A2.78 2.78 0 0 0 1.46 6.42 29 29 0 0 0 1 12a29 29 0 0 0 .46 5.58 2.78 2.78 0 0 0 1.95 1.95C5.12 20 12 20 12 20s6.88 0 8.59-.47a2.78 2.78 0 0 0 1.95-1.95A29 29 0 0 0 23 12a29 29 0 0 0-.46-5.58z"/><polygon points="9.75 15.02 15.5 12 9.75 8.98 9.75 15.02"/></svg>`,
+  },
+  {
+    label: 'TikTok',
+    href: 'https://www.tiktok.com/@hotmamatravel',
+    icon: `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-2.88 2.5 2.89 2.89 0 0 1-2.89-2.89 2.89 2.89 0 0 1 2.89-2.89c.28 0 .54.04.79.1V9.01a6.33 6.33 0 0 0-.79-.05 6.34 6.34 0 0 0-6.34 6.34 6.34 6.34 0 0 0 6.34 6.34 6.34 6.34 0 0 0 6.33-6.34V8.69a8.18 8.18 0 0 0 4.78 1.52V6.75a4.85 4.85 0 0 1-1.01-.06z"/></svg>`,
+  },
+  {
+    label: 'Pinterest',
+    href: 'https://www.pinterest.com/hotmamatravel',
+    icon: `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.08 3.18 9.43 7.69 11.13-.11-.94-.2-2.38.04-3.4.22-.93 1.47-6.22 1.47-6.22s-.37-.75-.37-1.86c0-1.74 1.01-3.04 2.27-3.04 1.07 0 1.59.8 1.59 1.77 0 1.08-.69 2.69-1.04 4.18-.3 1.25.61 2.26 1.84 2.26 2.2 0 3.69-2.79 3.69-6.08 0-2.51-1.7-4.38-4.77-4.38-3.47 0-5.63 2.59-5.63 5.48 0 .99.29 1.69.74 2.23.21.25.24.34.16.63-.05.21-.18.71-.23.91-.07.29-.29.39-.54.28-1.56-.64-2.28-2.36-2.28-4.3 0-3.19 2.68-7.01 8.02-7.01 4.29 0 7.12 3.1 7.12 6.44 0 4.4-2.44 7.69-6.04 7.69-1.21 0-2.34-.65-2.73-1.38l-.77 2.96c-.27 1.03-1.01 2.32-1.52 3.1C10.7 23.93 11.34 24 12 24c6.63 0 12-5.37 12-12S18.63 0 12 0z"/></svg>`,
+  },
+  {
+    label: 'Facebook',
+    href: 'https://www.facebook.com/hotmamatravelblog',
+    icon: `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M24 12.07C24 5.41 18.63 0 12 0S0 5.41 0 12.07C0 18.1 4.39 23.1 10.13 24v-8.44H7.08v-3.49h3.04V9.41c0-3.02 1.8-4.7 4.54-4.7 1.31 0 2.68.24 2.68.24v2.97h-1.51c-1.49 0-1.95.93-1.95 1.88v2.27h3.32l-.53 3.49h-2.79V24C19.61 23.1 24 18.1 24 12.07z"/></svg>`,
+  },
+];
+---
+
+<footer class="site-footer">
+  <!-- Newsletter signup bar -->
+  <section class="newsletter-section" id="newsletter">
+    <div class="container">
+      <p class="newsletter-eyebrow">Join the HotMama Family</p>
+      <h2>Get family travel inspiration delivered to your inbox</h2>
+      <p class="newsletter-sub">Real tips, honest reviews, and no-fluff adventures — straight from a mom who's been there.</p>
+      <form
+        class="newsletter-form"
+        action="https://hotmamatravel.us15.list-manage.com/subscribe/post?u=a8d8e784c0dab59a0e6b2e182&id=8aa0f56dad"
+        method="post"
+        target="_blank"
+        novalidate
+        id="footer-newsletter"
+      >
+        <input type="email" name="EMAIL" placeholder="your@email.com" required autocomplete="email" />
+        <button type="submit">Subscribe Free →</button>
+      </form>
+    </div>
+  </section>
+
+  <!-- Footer body -->
+  <div class="footer-body">
+    <div class="container">
+      <div class="footer-grid">
+
+        <!-- Brand column -->
+        <div class="footer-brand">
+          <a href="/" class="footer-logo" aria-label="HotMamaTravel">
+            <img
+              src="/images/hmt-logo.png"
+              alt="HotMamaTravel"
+              width="180"
+              height="48"
+              loading="lazy"
+              onerror="this.style.display='none'; this.nextElementSibling.style.display='block'"
+            />
+            <span class="footer-logo-text" style="display:none">HotMamaTravel</span>
+          </a>
+          <p class="footer-tagline">Family travel with a twist — real adventures for parents who refuse to be boring.</p>
+
+          <!-- Social icons — more prominent now -->
+          <div class="social-links">
+            {socialLinks.map(s => (
+              <a
+                href={s.href}
+                class="social-link"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label={s.label}
+                title={s.label}
+                set:html={s.icon}
+              />
+            ))}
+          </div>
+          <p class="social-label">Follow along for daily travel inspo</p>
+        </div>
+
+        <!-- Explore column -->
+        <div class="footer-col">
+          <h3 class="footer-col-heading">Explore</h3>
+          <ul>
+            {exploreLinks.map(link => (
+              <li><a href={link.href} class="footer-link">{link.label}</a></li>
+            ))}
+          </ul>
+        </div>
+
+        <!-- Info column -->
+        <div class="footer-col">
+          <h3 class="footer-col-heading">Info</h3>
+          <ul>
+            {infoLinks.map(link => (
+              <li><a href={link.href} class="footer-link">{link.label}</a></li>
+            ))}
+          </ul>
+        </div>
+
+      </div>
+
+      <div class="footer-bottom">
+        <p>© {year} HotMamaTravel. All rights reserved.</p>
+        <p class="footer-disclosure">
+          This site contains affiliate links. We may earn a commission on purchases at no extra cost to you.
+          <a href="/disclosure-policy/">Full disclosure →</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .site-footer { background: var(--hmt-dark); color: #aaa; }
+
+  /* Newsletter */
+  .newsletter-section {
+    background: linear-gradient(135deg, var(--hmt-red) 0%, #b01c22 100%);
+    color: white;
+    padding: clamp(48px, 8vw, 80px) clamp(16px, 4vw, 40px);
+    text-align: center;
+  }
+  .newsletter-eyebrow {
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    opacity: 0.85;
+    margin-bottom: 0.5em;
+  }
+  .newsletter-section h2 {
+    color: white;
+    font-size: clamp(1.5rem, 4vw, 2.25rem);
+    margin-bottom: 0.5em;
+    max-width: 600px;
+    margin-inline: auto;
+  }
+  .newsletter-sub {
+    color: rgba(255,255,255,0.8);
+    font-size: 0.95rem;
+    margin-bottom: 0;
+    max-width: 480px;
+    margin-inline: auto;
+  }
+
+  /* Footer body */
+  .footer-body { padding: clamp(40px, 6vw, 64px) 0 0; }
+
+  .footer-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    gap: clamp(32px, 5vw, 64px);
+    padding-bottom: clamp(32px, 5vw, 48px);
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+  }
+
+  .footer-logo { display: inline-block; margin-bottom: 16px; }
+  .footer-logo img { height: 44px; width: auto; filter: brightness(0) invert(1); }
+  .footer-logo-text {
+    font-family: var(--font-serif);
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: white;
+  }
+  .footer-tagline {
+    font-size: 0.875rem;
+    line-height: 1.6;
+    color: #888;
+    max-width: 280px;
+    margin-bottom: 24px;
+  }
+
+  /* Social icons — larger & more prominent */
+  .social-links { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 10px; }
+  .social-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    background: rgba(255,255,255,0.09);
+    border-radius: var(--radius-md);
+    color: #ccc;
+    text-decoration: none;
+    transition: background var(--duration) var(--ease), color var(--duration) var(--ease), transform var(--duration) var(--ease);
+  }
+  .social-link:hover {
+    background: var(--hmt-red);
+    color: white;
+    transform: translateY(-2px);
+  }
+  .social-label {
+    font-size: 0.78rem;
+    color: #666;
+    margin-top: 2px;
+  }
+
+  .footer-col-heading {
+    font-family: var(--font-sans);
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: #ddd;
+    margin-bottom: 20px;
+  }
+  .footer-col ul { display: flex; flex-direction: column; gap: 14px; }
+  .footer-link {
+    font-size: 0.9rem;
+    color: #888;
+    transition: color var(--duration) var(--ease);
+    line-height: 1.4;
+  }
+  .footer-link:hover { color: white; }
+
+  .footer-bottom {
+    padding: clamp(16px, 3vw, 24px) 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+    font-size: 0.8rem;
+    color: #666;
+  }
+  .footer-disclosure a {
+    color: var(--hmt-red);
+    text-decoration: underline;
+  }
+
+  @media (max-width: 900px) {
+    .footer-grid { grid-template-columns: 1fr 1fr; }
+    .footer-brand { grid-column: 1 / -1; }
+  }
+  @media (max-width: 540px) {
+    .footer-grid { grid-template-columns: 1fr; }
+    .footer-bottom { flex-direction: column; text-align: center; }
+  }
+</style>

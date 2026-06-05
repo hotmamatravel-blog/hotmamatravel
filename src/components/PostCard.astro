@@ -1,0 +1,179 @@
+---
+// PostCard.astro — Used in grids, homepage, tag pages
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  post: CollectionEntry<'blog'>;
+  featured?: boolean;
+}
+
+const { post, featured = false } = Astro.props;
+const { title, description, pubDate, heroImage, heroImageAlt, category, tags } = post.data;
+
+const formattedDate = pubDate.toLocaleDateString('en-US', {
+  year: 'numeric', month: 'long', day: 'numeric'
+});
+
+const slug = post.slug;
+---
+
+<article class={`post-card ${featured ? 'post-card--featured' : ''}`}>
+  <a href={`/${slug}/`} class="post-card-image-link" tabindex="-1" aria-hidden="true">
+    {heroImage ? (
+      <img
+        src={heroImage}
+        alt={heroImageAlt || title}
+        class="post-card-image"
+        loading="lazy"
+        decoding="async"
+        width="800"
+        height="500"
+      />
+    ) : (
+      <div class="post-card-image-placeholder">
+        <span>✈️</span>
+      </div>
+    )}
+    {category && <span class="post-card-category badge">{category}</span>}
+  </a>
+
+  <div class="post-card-body">
+    <div class="post-card-meta">
+      <time datetime={pubDate.toISOString()}>{formattedDate}</time>
+    </div>
+
+    <h2 class="post-card-title">
+      <a href={`/${slug}/`}>{title}</a>
+    </h2>
+
+    {description && (
+      <p class="post-card-excerpt">{description}</p>
+    )}
+
+    <a href={`/${slug}/`} class="post-card-readmore">
+      Read more <span aria-hidden="true">→</span>
+    </a>
+  </div>
+</article>
+
+<style>
+  .post-card {
+    background: white;
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    border: 1px solid var(--hmt-border);
+    box-shadow: var(--shadow-sm);
+    transition: all 260ms var(--ease);
+    display: flex;
+    flex-direction: column;
+  }
+  .post-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+    border-color: transparent;
+  }
+
+  .post-card-image-link {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    aspect-ratio: 16 / 10;
+  }
+  .post-card-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 380ms var(--ease);
+  }
+  .post-card:hover .post-card-image { transform: scale(1.04); }
+
+  .post-card-image-placeholder {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, var(--hmt-red-light), #fff0f0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+  }
+
+  .post-card-category {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    z-index: 1;
+  }
+
+  .post-card-body {
+    padding: 20px 24px 24px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
+
+  .post-card-meta {
+    font-size: 0.78rem;
+    color: var(--hmt-muted);
+    font-weight: 500;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .post-card-title {
+    font-family: var(--font-serif);
+    font-size: clamp(1rem, 2.2vw, 1.2rem);
+    font-weight: 700;
+    line-height: 1.3;
+    margin-bottom: 10px;
+  }
+  .post-card-title a {
+    color: var(--hmt-dark);
+    transition: color var(--duration) var(--ease);
+  }
+  .post-card-title a:hover { color: var(--hmt-red); }
+
+  .post-card-excerpt {
+    font-size: 0.875rem;
+    color: var(--hmt-muted);
+    line-height: 1.6;
+    flex: 1;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-bottom: 16px;
+  }
+
+  .post-card-readmore {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--hmt-red);
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    margin-top: auto;
+    transition: gap var(--duration) var(--ease);
+  }
+  .post-card-readmore:hover { gap: 8px; }
+
+  /* Featured variant */
+  .post-card--featured {
+    grid-column: 1 / -1;
+    flex-direction: row;
+  }
+  .post-card--featured .post-card-image-link {
+    width: 55%;
+    flex-shrink: 0;
+    aspect-ratio: unset;
+  }
+  .post-card--featured .post-card-body { padding: 36px 40px; justify-content: center; }
+  .post-card--featured .post-card-title { font-size: clamp(1.3rem, 2.5vw, 1.75rem); }
+  .post-card--featured .post-card-excerpt { -webkit-line-clamp: 4; }
+
+  @media (max-width: 700px) {
+    .post-card--featured { flex-direction: column; }
+    .post-card--featured .post-card-image-link { width: 100%; aspect-ratio: 16/10; }
+    .post-card--featured .post-card-body { padding: 20px 24px 24px; }
+  }
+</style>

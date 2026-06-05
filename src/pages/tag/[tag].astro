@@ -1,0 +1,96 @@
+---
+// src/pages/tag/[tag].astro — Tag archive pages
+// Replaces WordPress /category/ and /tag/ URLs with /tag/ (via vercel.json redirects)
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PostCard from '@/components/PostCard.astro';
+import { getCollection } from 'astro:content';
+import { slugifyTag } from '@/utils/slugify';
+
+export async function getStaticPaths() {
+  const STATIC_PAGES = ['about', 'contact', 'disclosure-policy', 'privacy-policy', 'destinations', 'destinations-3'];
+  const allPosts = await getCollection('blog', ({ data, slug }) => !data.draft && !STATIC_PAGES.includes(slug));
+
+  // Collect all unique tags from all posts, including category as a tag
+  const tagSet = new Set<string>();
+  allPosts.forEach(post => {
+    post.data.tags?.forEach(tag => tagSet.add(slugifyTag(tag)));
+    if (post.data.category) {
+      tagSet.add(slugifyTag(post.data.category));
+    }
+  });
+
+  return Array.from(tagSet).map(tag => ({
+    params: { tag },
+    props: {
+      tag,
+      posts: allPosts.filter(post =>
+        post.data.tags?.some(t => slugifyTag(t) === tag) ||
+        (post.data.category && slugifyTag(post.data.category) === tag)
+      ).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+    },
+  }));
+}
+
+const { tag, posts } = Astro.props;
+const displayTag = tag.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+---
+
+<BaseLayout
+  title={`${displayTag} — Family Travel Tips`}
+  description={`Browse all HotMamaTravel articles about ${displayTag}. Real tips, honest reviews, and family-friendly guides.`}
+>
+  <div class="tag-header">
+    <div class="container">
+      <a href="/blog" class="tag-breadcrumb">← All Posts</a>
+      <span class="badge" style="margin-bottom:12px">{displayTag}</span>
+      <h1>{displayTag}</h1>
+      <p>{posts.length} article{posts.length !== 1 ? 's' : ''}</p>
+    </div>
+  </div>
+
+  <div class="container tag-body">
+    {posts.length > 0 ? (
+      <div class="post-grid">
+        {posts.map(post => <PostCard post={post} />)}
+      </div>
+    ) : (
+      <div class="no-posts">
+        <p>No posts found in this category yet. <a href="/blog">Browse all posts →</a></p>
+      </div>
+    )}
+  </div>
+</BaseLayout>
+
+<style>
+  .tag-header {
+    background: var(--hmt-bg-section);
+    border-bottom: 1px solid var(--hmt-border);
+    padding: clamp(32px, 5vw, 56px) 0;
+    text-align: center;
+  }
+  .tag-breadcrumb {
+    display: inline-block;
+    font-size: 0.85rem;
+    color: var(--hmt-muted);
+    margin-bottom: 16px;
+    transition: color var(--duration) var(--ease);
+  }
+  .tag-breadcrumb:hover { color: var(--hmt-red); }
+  .tag-header h1 {
+    font-size: clamp(1.6rem, 4vw, 2.25rem);
+    margin: 8px 0;
+  }
+  .tag-header p { color: var(--hmt-muted); }
+
+  .tag-body {
+    padding-top: clamp(32px, 5vw, 56px);
+    padding-bottom: 60px;
+  }
+
+  .no-posts {
+    text-align: center;
+    padding: 80px 0;
+    color: var(--hmt-muted);
+  }
+  .no-posts a { color: var(--hmt-red); text-decoration: underline; }
+</style>

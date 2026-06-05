@@ -1,0 +1,178 @@
+---
+// src/pages/blog/index.astro — All posts listing page
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PostCard from '@/components/PostCard.astro';
+import { getCollection } from 'astro:content';
+import { slugifyTag } from '@/utils/slugify';
+
+const STATIC_PAGES = ['about', 'contact', 'disclosure-policy', 'privacy-policy', 'destinations', 'destinations-3'];
+
+const allPosts = await getCollection('blog', ({ data, slug }) => !data.draft && !STATIC_PAGES.includes(slug));
+const sortedPosts = allPosts.sort((a, b) =>
+  b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+// Get all unique tags for sidebar filter
+const allTags = [...new Set(allPosts.flatMap(p => p.data.tags ?? []))].sort();
+---
+
+<BaseLayout
+  title="All Posts"
+  description="Browse all HotMamaTravel articles — family hotel reviews, destination guides, and travel tips from a real traveling mom."
+>
+  <div class="blog-index-header">
+    <div class="container">
+      <h1>The HotMamaTravel Blog</h1>
+      <p>Every real adventure. Every honest review. <strong>{sortedPosts.length}</strong> articles and counting.</p>
+    </div>
+  </div>
+
+  <!-- Search results banner (shown by JS when ?q= is present) -->
+  <div class="search-banner container" id="searchBanner" hidden>
+    <p>Showing results for: <strong id="searchQuery"></strong> &nbsp;<a href="/blog/" class="clear-search">✕ Clear</a></p>
+  </div>
+
+  <div class="container blog-index-body">
+    <main class="blog-main">
+      <div class="post-grid" id="postGrid">
+        {sortedPosts.map(post => (
+          <article
+            class="post-card-wrapper"
+            data-title={post.data.title.toLowerCase()}
+            data-description={(post.data.description ?? '').toLowerCase()}
+            data-tags={(post.data.tags ?? []).join(' ').toLowerCase()}
+          >
+            <PostCard post={post} />
+          </article>
+        ))}
+      </div>
+      <p class="no-results" id="noResults" hidden>No posts found for your search. <a href="/blog/">Clear search</a></p>
+    </main>
+
+    <aside class="blog-sidebar">
+      <div class="sidebar-widget">
+        <h2 class="sidebar-heading">Browse by Topic</h2>
+        <div class="tag-cloud">
+          {allTags.map(tag => (
+            <a href={`/tag/${slugifyTag(tag)}/`} class="badge badge--outline">
+              {tag}
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <div class="sidebar-widget sidebar-newsletter">
+        <h2 class="sidebar-heading">Get Travel Tips</h2>
+        <p>Join our email list for family travel tips every week.</p>
+        <a href="/#newsletter" class="btn btn-primary" style="width:100%;justify-content:center;margin-top:12px">
+          Subscribe Free →
+        </a>
+      </div>
+    </aside>
+  </div>
+</BaseLayout>
+
+<style>
+  .blog-index-header {
+    background: var(--hmt-bg-section);
+    border-bottom: 1px solid var(--hmt-border);
+    padding: clamp(40px, 6vw, 64px) 0;
+    text-align: center;
+  }
+  .blog-index-header h1 {
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
+    margin-bottom: 12px;
+  }
+  .blog-index-header p { color: var(--hmt-muted); font-size: 1.05rem; }
+
+  .blog-index-body {
+    display: grid;
+    grid-template-columns: 1fr 320px;
+    gap: clamp(24px, 4vw, 48px);
+    padding-top: clamp(32px, 5vw, 56px);
+    padding-bottom: 60px;
+    align-items: start;
+  }
+
+  /* Sidebar */
+  .sidebar-widget {
+    background: white;
+    border: 1px solid var(--hmt-border);
+    border-radius: var(--radius-lg);
+    padding: 24px;
+    margin-bottom: 24px;
+  }
+  .sidebar-heading {
+    font-family: var(--font-sans);
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--hmt-muted);
+    margin-bottom: 16px;
+  }
+  .tag-cloud { display: flex; flex-wrap: wrap; gap: 8px; }
+
+  .sidebar-newsletter {
+    background: var(--hmt-red-light);
+    border-color: var(--hmt-red-mid);
+  }
+  .sidebar-newsletter p { font-size: 0.9rem; color: var(--hmt-slate); }
+
+  @media (max-width: 900px) {
+    .blog-index-body { grid-template-columns: 1fr; }
+    .blog-sidebar { display: none; }
+  }
+  .search-banner {
+    padding: 14px 0;
+    font-size: 0.9rem;
+    color: var(--hmt-slate);
+    border-bottom: 1px solid var(--hmt-border);
+  }
+  .clear-search {
+    font-size: 0.8rem;
+    color: var(--hmt-muted);
+    font-weight: 600;
+    margin-left: 4px;
+  }
+  .clear-search:hover { color: var(--hmt-red); }
+  .no-results {
+    padding: 40px 0;
+    text-align: center;
+    color: var(--hmt-muted);
+    font-size: 1rem;
+  }
+  .post-card-wrapper { display: contents; }
+</style>
+
+<script>
+  // Client-side search filtering
+  const params = new URLSearchParams(window.location.search);
+  const query = params.get('q')?.trim().toLowerCase() ?? '';
+
+  if (query) {
+    // Show banner
+    const banner = document.getElementById('searchBanner');
+    const queryLabel = document.getElementById('searchQuery');
+    if (banner) banner.hidden = false;
+    if (queryLabel) queryLabel.textContent = `"${params.get('q')?.trim()}"}`;
+
+    // Filter cards
+    const wrappers = document.querySelectorAll<HTMLElement>('.post-card-wrapper');
+    let visibleCount = 0;
+    wrappers.forEach(wrapper => {
+      const title = wrapper.dataset.title ?? '';
+      const desc = wrapper.dataset.description ?? '';
+      const tags = wrapper.dataset.tags ?? '';
+      const match = title.includes(query) || desc.includes(query) || tags.includes(query);
+      wrapper.style.display = match ? '' : 'none';
+      if (match) visibleCount++;
+    });
+
+    // Show "no results" if needed
+    if (visibleCount === 0) {
+      const noResults = document.getElementById('noResults');
+      if (noResults) noResults.hidden = false;
+    }
+  }
+</script>

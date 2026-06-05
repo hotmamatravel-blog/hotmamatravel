@@ -1,0 +1,224 @@
+---
+// src/pages/index.astro — HotMamaTravel Homepage
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import PostCard from '@/components/PostCard.astro';
+import { getCollection } from 'astro:content';
+
+const STATIC_PAGES = ['about', 'contact', 'disclosure-policy', 'privacy-policy', 'destinations', 'destinations-3'];
+
+const allPosts = await getCollection('blog', ({ data, slug }) => !data.draft && !STATIC_PAGES.includes(slug));
+const sortedPosts = allPosts.sort((a, b) =>
+  b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+const featuredPost = sortedPosts.find(p => p.data.featured) ?? sortedPosts[0];
+const recentPosts = sortedPosts.filter(p => p.id !== featuredPost?.id).slice(0, 6);
+const latestPosts = sortedPosts.slice(0, 9);
+
+
+---
+
+<BaseLayout
+  title="HotMamaTravel"
+  description="Family travel with a twist — real tips, honest reviews, and no-fluff adventures for parents who refuse to be boring."
+  type="website"
+>
+
+  <!-- HERO SECTION -->
+  <section class="homepage-hero">
+    <div class="container">
+      <div class="hero-text">
+        <div class="hero-eyebrow">✈️ Family Travel with a Twist!</div>
+        <h1 class="hero-headline">
+          Parent-friendly adventures<br />
+          <em>that your kids will actually love.</em>
+        </h1>
+        <p class="hero-subline">
+          You don't have to sacrifice your taste in music, history, or hotels just because you have kids. Explore haunted spots, neon lights, and historic saloons with real tips from a seasoned traveling mom.
+        </p>
+        <div class="hero-cta-row">
+          <a href="/blog" class="btn btn-primary">Browse All Posts</a>
+          <a href="/family-friendly-vegas/" class="btn btn-ghost">Las Vegas with Kids →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FEATURED POST -->
+  {featuredPost && (
+    <section class="section-featured">
+      <div class="container">
+        <div class="section-heading">
+          <span class="section-label">✨ Featured</span>
+        </div>
+        <div class="post-grid">
+          <PostCard post={featuredPost} featured={true} />
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- LATEST POSTS -->
+  <section class="section-latest">
+    <div class="container">
+      <div class="section-heading">
+        <h2>Latest Adventures</h2>
+        <a href="/blog" class="section-see-all">See all posts →</a>
+      </div>
+      <div class="post-grid">
+        {recentPosts.map(post => (
+          <PostCard post={post} />
+        ))}
+      </div>
+    </div>
+  </section>
+
+
+</BaseLayout>
+
+<style>
+  /* Hero */
+  .homepage-hero {
+    background: linear-gradient(165deg, #fff5f5 0%, #fff 50%, #f8faff 100%);
+    padding: clamp(60px, 10vw, 100px) 0 clamp(48px, 8vw, 80px);
+    border-bottom: 1px solid var(--hmt-border);
+    position: relative;
+    overflow: hidden;
+  }
+  .homepage-hero::before {
+    content: '';
+    position: absolute;
+    top: -80px;
+    right: -80px;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(232,35,42,0.05) 0%, transparent 70%);
+    pointer-events: none;
+  }
+
+  .hero-text { max-width: 680px; }
+
+  .hero-eyebrow {
+    font-size: 0.875rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--hmt-red);
+    margin-bottom: 16px;
+  }
+
+  .hero-headline {
+    font-family: var(--font-serif);
+    font-size: clamp(1.75rem, 4.5vw, 3rem);
+    font-weight: 800;
+    line-height: 1.15;
+    color: var(--hmt-dark);
+    margin-bottom: 20px;
+  }
+  .hero-headline em { color: var(--hmt-red); font-style: italic; }
+
+  .hero-subline {
+    font-size: clamp(1rem, 2vw, 1.2rem);
+    color: var(--hmt-slate);
+    line-height: 1.7;
+    margin-bottom: 32px;
+    max-width: 560px;
+  }
+
+  .hero-cta-row { display: flex; gap: 12px; flex-wrap: wrap; }
+
+  /* Sections */
+  .section-featured { padding: clamp(40px, 6vw, 64px) 0; }
+  .section-latest {
+    padding: clamp(40px, 6vw, 64px) 0;
+    background: var(--hmt-bg-section);
+  }
+  .section-categories { padding: clamp(40px, 6vw, 64px) 0; }
+
+  .section-heading {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: clamp(24px, 4vw, 36px);
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  .section-heading.center { flex-direction: column; align-items: center; text-align: center; }
+  .section-heading h2 {
+    font-size: clamp(1.4rem, 3vw, 1.875rem);
+    font-family: var(--font-serif);
+    color: var(--hmt-dark);
+  }
+  .section-label {
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--hmt-red);
+    border: 1.5px solid var(--hmt-red);
+    padding: 4px 10px;
+    border-radius: 999px;
+  }
+  .section-see-all {
+    font-size: 0.875rem;
+    font-weight: 700;
+    color: var(--hmt-red);
+    transition: letter-spacing var(--duration) var(--ease);
+  }
+  .section-see-all:hover { letter-spacing: 0.02em; }
+  .section-sub { color: var(--hmt-muted); font-size: 1rem; margin-top: 8px; }
+
+  /* Category grid */
+  .category-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 280px), 1fr));
+    gap: var(--gap);
+  }
+
+  .category-card {
+    display: block;
+    background: white;
+    border: 1px solid var(--hmt-border);
+    border-radius: var(--radius-lg);
+    padding: 28px 24px;
+    text-decoration: none;
+    transition: all 260ms var(--ease);
+    position: relative;
+    overflow: hidden;
+  }
+  .category-card::before {
+    content: '';
+    position: absolute;
+    bottom: 0; left: 0; right: 0;
+    height: 3px;
+    background: var(--hmt-red);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 260ms var(--ease);
+  }
+  .category-card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+    border-color: transparent;
+  }
+  .category-card:hover::before { transform: scaleX(1); }
+
+  .category-emoji { font-size: 2.25rem; display: block; margin-bottom: 12px; }
+  .category-name {
+    font-family: var(--font-serif);
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--hmt-dark);
+    margin-bottom: 6px;
+  }
+  .category-desc { font-size: 0.875rem; color: var(--hmt-muted); line-height: 1.5; margin-bottom: 16px; }
+  .category-arrow {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--hmt-red);
+    transition: transform var(--duration) var(--ease);
+    display: inline-block;
+  }
+  .category-card:hover .category-arrow { transform: translateX(4px); }
+</style>

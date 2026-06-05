@@ -1,0 +1,430 @@
+---
+// Header.astro
+const navLinks = [
+  { label: 'Home', href: '/' },
+  { label: 'Destinations', href: '/destinations/' },
+  { label: 'Las Vegas', href: '/family-friendly-vegas/' },
+  { label: 'About', href: '/about/' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="site-header" id="site-header">
+  <div class="header-inner container">
+    <!-- Logo -->
+    <a href="/" class="header-logo" aria-label="HotMamaTravel Home">
+      <img
+        src="/images/hmt-icon.svg"
+        alt="HotMamaTravel Logo Icon"
+        class="logo-icon"
+        width="42"
+        height="42"
+        loading="eager"
+      />
+      <span class="logo-text">
+        <span class="logo-hot">Hot</span><span class="logo-mama">Mama</span><span class="logo-travel">Travel</span>
+      </span>
+    </a>
+
+    <!-- Desktop Nav -->
+    <nav class="header-nav" aria-label="Main navigation">
+      <ul class="nav-list">
+        {navLinks.map(link => (
+          <li class={`nav-item ${link.children ? 'has-dropdown' : ''}`}>
+            <a
+              href={link.href}
+              class={`nav-link ${currentPath === link.href || currentPath.startsWith(link.href + '/') ? 'nav-link--active' : ''}`}
+            >
+              {link.label}
+              {link.children && <span class="nav-caret" aria-hidden="true">▾</span>}
+            </a>
+            {link.children && (
+              <ul class="dropdown">
+                {link.children.map(child => (
+                  <li>
+                    <a href={child.href} class="dropdown-link">{child.label}</a>
+                  </li>
+                ))}
+              </ul>
+            )}
+          </li>
+        ))}
+      </ul>
+    </nav>
+
+    <!-- Search -->
+    <div class="header-search" id="headerSearch">
+      <button class="search-toggle" id="searchToggle" aria-label="Open search" aria-expanded="false">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+        </svg>
+      </button>
+      <form class="search-form" id="searchForm" role="search" action="/blog/" method="get">
+        <input
+          type="search"
+          name="q"
+          id="searchInput"
+          class="search-input"
+          placeholder="Search posts…"
+          autocomplete="off"
+          aria-label="Search posts"
+        />
+        <button type="submit" class="search-submit" aria-label="Submit search">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+          </svg>
+        </button>
+      </form>
+    </div>
+
+    <!-- Actions -->
+    <div class="header-actions">
+      <a href="/#newsletter" class="btn btn-primary btn-sm">Newsletter</a>
+      <button class="mobile-toggle" aria-label="Toggle menu" aria-expanded="false" id="mobileToggle">
+        <span class="hamburger"></span>
+      </button>
+    </div>
+  </div>
+
+  <!-- Mobile Nav -->
+  <nav class="mobile-nav" id="mobileNav" aria-label="Mobile navigation" hidden>
+    <!-- Mobile Search -->
+    <form class="mobile-search-form" role="search" action="/blog/" method="get">
+      <input
+        type="search"
+        name="q"
+        placeholder="Search posts…"
+        autocomplete="off"
+        aria-label="Search posts"
+        class="mobile-search-input"
+      />
+      <button type="submit" class="mobile-search-btn" aria-label="Submit search">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
+        </svg>
+      </button>
+    </form>
+    <ul class="mobile-nav-list">
+      {navLinks.map(link => (
+        <li>
+          <a href={link.href} class="mobile-nav-link">{link.label}</a>
+          {link.children && (
+            <ul class="mobile-subnav">
+              {link.children.map(child => (
+                <li><a href={child.href} class="mobile-subnav-link">{child.label}</a></li>
+              ))}
+            </ul>
+          )}
+        </li>
+      ))}
+    </ul>
+  </nav>
+</header>
+
+<style>
+  .site-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: white;
+    border-bottom: 1px solid var(--hmt-border);
+    box-shadow: var(--shadow-sm);
+  }
+
+  .header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+    height: 72px;
+  }
+
+  .header-logo {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .logo-icon {
+    height: 42px;
+    width: 42px;
+    object-fit: contain;
+    display: block;
+  }
+
+  .logo-text {
+    font-family: var(--font-serif);
+    font-size: 1.45rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    display: inline-flex;
+    align-items: center;
+    gap: 0;
+  }
+  .logo-hot { color: var(--hmt-red); }
+  .logo-mama { color: var(--hmt-dark); }
+  .logo-travel { color: var(--hmt-muted); font-weight: 400; }
+
+  /* Desktop Nav */
+  .header-nav { display: flex; align-items: center; flex: 1; justify-content: center; }
+  .nav-list { display: flex; align-items: center; gap: 4px; }
+
+  .nav-item { position: relative; }
+
+  .nav-link {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    padding: 8px 12px;
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--hmt-charcoal);
+    border-radius: var(--radius-sm);
+    transition: all var(--duration) var(--ease);
+    white-space: nowrap;
+  }
+  .nav-link:hover, .nav-link--active {
+    color: var(--hmt-red);
+    background: var(--hmt-red-light);
+  }
+
+  .nav-caret { font-size: 0.6em; opacity: 0.7; }
+
+  /* Dropdown */
+  .dropdown {
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 0;
+    min-width: 220px;
+    background: white;
+    border: 1px solid var(--hmt-border);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-lg);
+    padding: 8px 0;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(-8px);
+    transition: all var(--duration) var(--ease);
+    pointer-events: none;
+  }
+  .has-dropdown:hover .dropdown {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+    pointer-events: all;
+  }
+  .dropdown-link {
+    display: block;
+    padding: 10px 20px;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--hmt-slate);
+    transition: all var(--duration) var(--ease);
+  }
+  .dropdown-link:hover {
+    background: var(--hmt-red-light);
+    color: var(--hmt-red);
+    padding-left: 24px;
+  }
+
+  /* Actions */
+  .header-actions { display: flex; align-items: center; gap: 12px; flex-shrink: 0; }
+  .btn-sm { padding: 0.45em 1em; font-size: 0.82rem; }
+
+  /* Mobile toggle */
+  .mobile-toggle {
+    display: none;
+    width: 36px;
+    height: 36px;
+    align-items: center;
+    justify-content: center;
+    border-radius: var(--radius-sm);
+    border: 1px solid var(--hmt-border);
+  }
+  .hamburger, .hamburger::before, .hamburger::after {
+    display: block;
+    width: 18px;
+    height: 2px;
+    background: var(--hmt-dark);
+    transition: all var(--duration) var(--ease);
+    position: relative;
+  }
+  .hamburger::before, .hamburger::after {
+    content: '';
+    position: absolute;
+    left: 0;
+  }
+  .hamburger::before { top: -6px; }
+  .hamburger::after { top: 6px; }
+
+  /* Mobile Nav */
+  .mobile-nav {
+    background: white;
+    border-top: 1px solid var(--hmt-border);
+    padding: 16px 0;
+  }
+  .mobile-nav-list { padding: 0 clamp(16px, 4vw, 40px); }
+  .mobile-nav-link {
+    display: block;
+    padding: 12px 0;
+    font-weight: 600;
+    font-size: 1rem;
+    border-bottom: 1px solid var(--hmt-border);
+    color: var(--hmt-dark);
+  }
+  .mobile-subnav { padding-left: 16px; }
+  .mobile-subnav-link {
+    display: block;
+    padding: 8px 0;
+    font-size: 0.9rem;
+    color: var(--hmt-muted);
+  }
+
+  /* Search */
+  .header-search {
+    display: flex;
+    align-items: center;
+    gap: 0;
+    position: relative;
+  }
+
+  .search-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border-radius: var(--radius-sm);
+    color: var(--hmt-charcoal);
+    transition: all var(--duration) var(--ease);
+    flex-shrink: 0;
+  }
+  .search-toggle:hover { background: var(--hmt-red-light); color: var(--hmt-red); }
+
+  .search-form {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    width: 0;
+    opacity: 0;
+    transition: width 0.3s ease, opacity 0.25s ease;
+    pointer-events: none;
+  }
+  .header-search.is-open .search-form {
+    width: 220px;
+    opacity: 1;
+    pointer-events: all;
+  }
+
+  .search-input {
+    flex: 1;
+    border: 1px solid var(--hmt-border);
+    border-right: none;
+    border-radius: var(--radius-sm) 0 0 var(--radius-sm);
+    padding: 7px 12px;
+    font-size: 0.875rem;
+    font-family: var(--font-sans);
+    color: var(--hmt-dark);
+    background: white;
+    outline: none;
+    width: 100%;
+  }
+  .search-input:focus { border-color: var(--hmt-red); }
+  .search-input::-webkit-search-cancel-button { -webkit-appearance: none; }
+
+  .search-submit {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    background: var(--hmt-red);
+    color: white;
+    border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+    flex-shrink: 0;
+    transition: background var(--duration) var(--ease);
+  }
+  .search-submit:hover { background: var(--hmt-red-dark, #b91c1c); }
+
+  /* Mobile search */
+  .mobile-search-form {
+    display: flex;
+    align-items: center;
+    gap: 0;
+    margin: 0 clamp(16px, 4vw, 40px) 12px;
+  }
+  .mobile-search-input {
+    flex: 1;
+    border: 1px solid var(--hmt-border);
+    border-right: none;
+    border-radius: var(--radius-sm) 0 0 var(--radius-sm);
+    padding: 10px 14px;
+    font-size: 0.9rem;
+    font-family: var(--font-sans);
+    color: var(--hmt-dark);
+    outline: none;
+  }
+  .mobile-search-input:focus { border-color: var(--hmt-red); }
+  .mobile-search-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 42px;
+    height: 42px;
+    background: var(--hmt-red);
+    color: white;
+    border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+    flex-shrink: 0;
+  }
+
+  @media (max-width: 900px) {
+    .header-nav { display: none; }
+    .mobile-toggle { display: flex; }
+    .header-actions .btn { display: none; }
+    .header-search .search-form { display: none; }
+    .search-toggle { display: none; }
+  }
+</style>
+
+<script>
+  // Mobile nav toggle
+  const toggle = document.getElementById('mobileToggle');
+  const nav = document.getElementById('mobileNav');
+  toggle?.addEventListener('click', () => {
+    const isOpen = !nav?.hidden;
+    nav && (nav.hidden = isOpen);
+    toggle.setAttribute('aria-expanded', String(!isOpen));
+  });
+
+  // Desktop search toggle
+  const searchWrap = document.getElementById('headerSearch');
+  const searchToggleBtn = document.getElementById('searchToggle');
+  const searchInput = document.getElementById('searchInput') as HTMLInputElement | null;
+
+  searchToggleBtn?.addEventListener('click', () => {
+    const isOpen = searchWrap?.classList.toggle('is-open');
+    searchToggleBtn.setAttribute('aria-expanded', String(!!isOpen));
+    if (isOpen && searchInput) {
+      searchInput.focus();
+    }
+  });
+
+  // Close search on Escape
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && searchWrap?.classList.contains('is-open')) {
+      searchWrap.classList.remove('is-open');
+      searchToggleBtn?.setAttribute('aria-expanded', 'false');
+      searchToggleBtn?.focus();
+    }
+  });
+
+  // Close search when clicking outside
+  document.addEventListener('click', (e) => {
+    if (searchWrap && !searchWrap.contains(e.target as Node)) {
+      searchWrap.classList.remove('is-open');
+      searchToggleBtn?.setAttribute('aria-expanded', 'false');
+    }
+  });
+</script>

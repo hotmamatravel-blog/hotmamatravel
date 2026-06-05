@@ -1,0 +1,560 @@
+=========================================================
+         HOTMAMATRAVEL WEBSITE MIGRATION AUDIT REPORT    
+=========================================================
+Generated: 6/4/2026, 6:37:21 PM
+
+SUMMARY STATISTICS
+------------------
+Total migrated blog posts found:          386
+Total original published posts in WP:     333
+Total original published pages in WP:     36
+Total ThirstyAffiliates redirects found:   1502
+Total internal/external links scanned:    9060
+  - External links:                       1502
+  - Valid internal links/redirects:       7454
+  - Broken/unmatched internal links:      104
+
+MISSING CONTENT FROM ASTRO (12)
+----------------------------------------
+⚠️  Missing post: /best-travel-system-strollers/
+⚠️  Missing post: /diaper-backpack-for-dad/
+⚠️  Missing post: /best-etsy-shops-travel/
+⚠️  Missing post: /mothers-day-gift-guide-for-travel/
+⚠️  Missing post: /best-backpack-diaper-bag/
+⚠️  Missing post: /best-womens-travel-vest/
+⚠️  Missing post: /best-kids-luggage-sets-boys-girls/
+⚠️  Missing post: /best-portable-chargers-for-travelers/
+⚠️  Missing post: /best-wine-suitcase-wine-travel-bag/
+⚠️  Missing post: /lugabug/
+⚠️  Missing post: /best-toddler-toys-for-car-rides/
+⚠️  Missing post: /vinarmour-travel-wine-bag-review/
+
+BROKEN / UNMATCHED INTERNAL LINKS (104)
+----------------------------------------
+1. In Post: [about.md]
+   Link URL:    "/haunted-places/family-friendly-haunted-hotels/"
+   Resolved:    "/haunted-places/family-friendly-haunted-hotels"
+   Reason:      Path '/haunted-places/family-friendly-haunted-hotels' does not exist on new site and is not redirected
+
+2. In Post: [balboa-fun-zone.md]
+   Link URL:    "/balboa-village-with-kids/rubys1/"
+   Resolved:    "/balboa-village-with-kids/rubys1"
+   Reason:      Path '/balboa-village-with-kids/rubys1' does not exist on new site and is not redirected
+
+3. In Post: [best-family-resorts-palm-springs.md]
+   Link URL:    "/palm-springs-airbnb/"
+   Resolved:    "/palm-springs-airbnb"
+   Reason:      Path '/palm-springs-airbnb' does not exist on new site and is not redirected
+
+4. In Post: [bravo-farms-with-kids.md]
+   Link URL:    "/knotts-berry-farm/"
+   Resolved:    "/knotts-berry-farm"
+   Reason:      Path '/knotts-berry-farm' does not exist on new site and is not redirected
+
+5. In Post: [destinations.md]
+   Link URL:    "/mexico-family-travel/"
+   Resolved:    "/mexico-family-travel"
+   Reason:      Path '/mexico-family-travel' does not exist on new site and is not redirected
+
+6. In Post: [destinations.md]
+   Link URL:    "/europe-family-travel/"
+   Resolved:    "/europe-family-travel"
+   Reason:      Path '/europe-family-travel' does not exist on new site and is not redirected
+
+7. In Post: [destinations.md]
+   Link URL:    "/caribbean-family-travel/"
+   Resolved:    "/caribbean-family-travel"
+   Reason:      Path '/caribbean-family-travel' does not exist on new site and is not redirected
+
+8. In Post: [disneyland-with-kids.md]
+   Link URL:    "/disney-california-adventure/"
+   Resolved:    "/disney-california-adventure"
+   Reason:      Path '/disney-california-adventure' does not exist on new site and is not redirected
+
+9. In Post: [downtown-disney.md]
+   Link URL:    "/disneyland/"
+   Resolved:    "/disneyland"
+   Reason:      Path '/disneyland' does not exist on new site and is not redirected
+
+10. In Post: [downtown-disney.md]
+   Link URL:    "/disney-california-adventure/"
+   Resolved:    "/disney-california-adventure"
+   Reason:      Path '/disney-california-adventure' does not exist on new site and is not redirected
+
+11. In Post: [emerald-palate-story.md]
+   Link URL:    "/real-family-travel-stories/"
+   Resolved:    "/real-family-travel-stories"
+   Reason:      Path '/real-family-travel-stories' does not exist on new site and is not redirected
+
+12. In Post: [family-friendly-vegas.md]
+   Link URL:    "/las-vegas-airbnb/"
+   Resolved:    "/las-vegas-airbnb"
+   Reason:      Path '/las-vegas-airbnb' does not exist on new site and is not redirected
+
+13. In Post: [family-travel-videos.md]
+   Link URL:    "/video-newport-beach-balboa-fun-zone/"
+   Resolved:    "/video-newport-beach-balboa-fun-zone"
+   Reason:      Path '/video-newport-beach-balboa-fun-zone' does not exist on new site and is not redirected
+
+14. In Post: [family-travel-videos.md]
+   Link URL:    "/video-newport-dunes-camping/"
+   Resolved:    "/video-newport-dunes-camping"
+   Reason:      Path '/video-newport-dunes-camping' does not exist on new site and is not redirected
+
+15. In Post: [family-travel-videos.md]
+   Link URL:    "/video-boating-on-big-bear-lake/"
+   Resolved:    "/video-boating-on-big-bear-lake"
+   Reason:      Path '/video-boating-on-big-bear-lake' does not exist on new site and is not redirected
+
+16. In Post: [family-travel-videos.md]
+   Link URL:    "/video-calico-ghost-town/"
+   Resolved:    "/video-calico-ghost-town"
+   Reason:      Path '/video-calico-ghost-town' does not exist on new site and is not redirected
+
+17. In Post: [family-travel-videos.md]
+   Link URL:    "/video-old-town-san-diego-with-kids/"
+   Resolved:    "/video-old-town-san-diego-with-kids"
+   Reason:      Path '/video-old-town-san-diego-with-kids' does not exist on new site and is not redirected
+
+18. In Post: [family-travel-videos.md]
+   Link URL:    "/video-sea-world-san-diego/"
+   Resolved:    "/video-sea-world-san-diego"
+   Reason:      Path '/video-sea-world-san-diego' does not exist on new site and is not redirected
+
+19. In Post: [family-travel-videos.md]
+   Link URL:    "/video-capilano-suspension-bridge-park-vancouver/"
+   Resolved:    "/video-capilano-suspension-bridge-park-vancouver"
+   Reason:      Path '/video-capilano-suspension-bridge-park-vancouver' does not exist on new site and is not redirected
+
+20. In Post: [family-vacation-planning-top-tips.md]
+   Link URL:    "/hotel-reviews/"
+   Resolved:    "/hotel-reviews"
+   Reason:      Path '/hotel-reviews' does not exist on new site and is not redirected
+
+21. In Post: [five-for-the-road-story.md]
+   Link URL:    "/real-family-travel-stories/"
+   Resolved:    "/real-family-travel-stories"
+   Reason:      Path '/real-family-travel-stories' does not exist on new site and is not redirected
+
+22. In Post: [global-cuisine-oc.md]
+   Link URL:    "/disneyland/"
+   Resolved:    "/disneyland"
+   Reason:      Path '/disneyland' does not exist on new site and is not redirected
+
+23. In Post: [global-cuisine-oc.md]
+   Link URL:    "/orange-circle/"
+   Resolved:    "/orange-circle"
+   Reason:      Path '/orange-circle' does not exist on new site and is not redirected
+
+24. In Post: [go-far-grow-close-travel-story.md]
+   Link URL:    "/real-family-travel-stories/"
+   Resolved:    "/real-family-travel-stories"
+   Reason:      Path '/real-family-travel-stories' does not exist on new site and is not redirected
+
+25. In Post: [hotmama-travel-story.md]
+   Link URL:    "/real-family-travel-stories/"
+   Resolved:    "/real-family-travel-stories"
+   Reason:      Path '/real-family-travel-stories' does not exist on new site and is not redirected
+
+26. In Post: [interesting-activities-family-vacation.md]
+   Link URL:    "/family-travel-worth-money-investment/"
+   Resolved:    "/family-travel-worth-money-investment"
+   Reason:      Path '/family-travel-worth-money-investment' does not exist on new site and is not redirected
+
+27. In Post: [kid-friendly-day-trips-las-vegas.md]
+   Link URL:    "//vegas.7eer.net/c/1226937/271012/4221"
+   Resolved:    "//vegas.7eer.net/c/1226937/271012/4221"
+   Reason:      Path '//vegas.7eer.net/c/1226937/271012/4221' does not exist on new site and is not redirected
+
+28. In Post: [kirklee-hotel-glasgow-scotland.md]
+   Link URL:    "/kirklee-hotel/kirklee2/"
+   Resolved:    "/kirklee-hotel/kirklee2"
+   Reason:      Path '/kirklee-hotel/kirklee2' does not exist on new site and is not redirected
+
+29. In Post: [las-vegas-accommodations-large-family-group.md]
+   Link URL:    "//vegas.7eer.net/c/1226937/271012/4221"
+   Resolved:    "//vegas.7eer.net/c/1226937/271012/4221"
+   Reason:      Path '//vegas.7eer.net/c/1226937/271012/4221' does not exist on new site and is not redirected
+
+30. In Post: [magical-family-travel.md]
+   Link URL:    "/st-patricks-at-newport-dunes/"
+   Resolved:    "/st-patricks-at-newport-dunes"
+   Reason:      Path '/st-patricks-at-newport-dunes' does not exist on new site and is not redirected
+
+31. In Post: [make-your-next-travel-adventure-the-best.md]
+   Link URL:    "/real-family-travel-stories/"
+   Resolved:    "/real-family-travel-stories"
+   Reason:      Path '/real-family-travel-stories' does not exist on new site and is not redirected
+
+32. In Post: [marcie-in-mommyland-story.md]
+   Link URL:    "/real-family-travel-stories/"
+   Resolved:    "/real-family-travel-stories"
+   Reason:      Path '/real-family-travel-stories' does not exist on new site and is not redirected
+
+33. In Post: [money-saving-tips.md]
+   Link URL:    "/kirklee-hotel/"
+   Resolved:    "/kirklee-hotel"
+   Reason:      Path '/kirklee-hotel' does not exist on new site and is not redirected
+
+34. In Post: [naples-florida-with-kids.md]
+   Link URL:    "/everglades-airboat-tour-with-kids/"
+   Resolved:    "/everglades-airboat-tour-with-kids"
+   Reason:      Path '/everglades-airboat-tour-with-kids' does not exist on new site and is not redirected
+
+35. In Post: [nevada-family-travel.md]
+   Link URL:    "/las-vegas-airbnb/"
+   Resolved:    "/las-vegas-airbnb"
+   Reason:      Path '/las-vegas-airbnb' does not exist on new site and is not redirected
+
+36. In Post: [palm-springs-with-kids.md]
+   Link URL:    "/palm-springs-airbnb/"
+   Resolved:    "/palm-springs-airbnb"
+   Reason:      Path '/palm-springs-airbnb' does not exist on new site and is not redirected
+
+37. In Post: [places-worth-flying-family-vacation.md]
+   Link URL:    "/best-things-to-do-in-dubai-with-kids/"
+   Resolved:    "/best-things-to-do-in-dubai-with-kids"
+   Reason:      Path '/best-things-to-do-in-dubai-with-kids' does not exist on new site and is not redirected
+
+38. In Post: [pregnant-las-vegas.md]
+   Link URL:    "//vegas.7eer.net/c/1226937/271012/4221"
+   Resolved:    "//vegas.7eer.net/c/1226937/271012/4221"
+   Reason:      Path '//vegas.7eer.net/c/1226937/271012/4221' does not exist on new site and is not redirected
+
+39. In Post: [rving-with-kids.md]
+   Link URL:    "/st-patricks-at-newport-dunes/"
+   Resolved:    "/st-patricks-at-newport-dunes"
+   Reason:      Path '/st-patricks-at-newport-dunes' does not exist on new site and is not redirected
+
+40. In Post: [rving-with-kids.md]
+   Link URL:    "/old-town-san-diego/"
+   Resolved:    "/old-town-san-diego"
+   Reason:      Path '/old-town-san-diego' does not exist on new site and is not redirected
+
+41. In Post: [san-diego-zoo-and-safari-park.md]
+   Link URL:    "/old-town-san-diego/"
+   Resolved:    "/old-town-san-diego"
+   Reason:      Path '/old-town-san-diego' does not exist on new site and is not redirected
+
+42. In Post: [scotrail-with-kids.md]
+   Link URL:    "/scotrail/scotrail2/"
+   Resolved:    "/scotrail/scotrail2"
+   Reason:      Path '/scotrail/scotrail2' does not exist on new site and is not redirected
+
+43. In Post: [scotrail-with-kids.md]
+   Link URL:    "/scotrail/central/"
+   Resolved:    "/scotrail/central"
+   Reason:      Path '/scotrail/central' does not exist on new site and is not redirected
+
+44. In Post: [scotrail-with-kids.md]
+   Link URL:    "/scotrail/queen/"
+   Resolved:    "/scotrail/queen"
+   Reason:      Path '/scotrail/queen' does not exist on new site and is not redirected
+
+45. In Post: [self-care-when-traveling.md]
+   Link URL:    "/road-trip/"
+   Resolved:    "/road-trip"
+   Reason:      Path '/road-trip' does not exist on new site and is not redirected
+
+46. In Post: [self-care-when-traveling.md]
+   Link URL:    "/family-travel-worth-money-investment/"
+   Resolved:    "/family-travel-worth-money-investment"
+   Reason:      Path '/family-travel-worth-money-investment' does not exist on new site and is not redirected
+
+47. In Post: [st-pete-beach-family-resorts.md]
+   Link URL:    "/go/tradewinds-st-pete-expedia/"
+   Resolved:    "/go/tradewinds-st-pete-expedia"
+   Reason:      Broken affiliate link /go/tradewinds-st-pete-expedia (not found in XML)
+
+48. In Post: [st-pete-beach-family-resorts.md]
+   Link URL:    "/go/tradewinds-st-pete-expedia/"
+   Resolved:    "/go/tradewinds-st-pete-expedia"
+   Reason:      Broken affiliate link /go/tradewinds-st-pete-expedia (not found in XML)
+
+49. In Post: [st-pete-beach-with-kids.md]
+   Link URL:    "/go/tradewinds-st-pete-expedia/"
+   Resolved:    "/go/tradewinds-st-pete-expedia"
+   Reason:      Broken affiliate link /go/tradewinds-st-pete-expedia (not found in XML)
+
+50. In Post: [st-pete-beach-with-kids.md]
+   Link URL:    "/go/tradewinds-st-pete-expedia/"
+   Resolved:    "/go/tradewinds-st-pete-expedia"
+   Reason:      Broken affiliate link /go/tradewinds-st-pete-expedia (not found in XML)
+
+51. In Post: [st-pete-beach-with-kids.md]
+   Link URL:    "/go/tradewinds-st-pete-expedia/"
+   Resolved:    "/go/tradewinds-st-pete-expedia"
+   Reason:      Broken affiliate link /go/tradewinds-st-pete-expedia (not found in XML)
+
+52. In Post: [st-pete-beach-with-kids.md]
+   Link URL:    "/go/tradewinds-st-pete-expedia/"
+   Resolved:    "/go/tradewinds-st-pete-expedia"
+   Reason:      Broken affiliate link /go/tradewinds-st-pete-expedia (not found in XML)
+
+53. In Post: [st-pete-vs-clearwater.md]
+   Link URL:    "/go/tradewinds-st-pete-expedia/"
+   Resolved:    "/go/tradewinds-st-pete-expedia"
+   Reason:      Broken affiliate link /go/tradewinds-st-pete-expedia (not found in XML)
+
+54. In Post: [tampa-to-st-petersburg-in-a-rental-car.md]
+   Link URL:    "/go/tradewinds-st-pete-expedia/"
+   Resolved:    "/go/tradewinds-st-pete-expedia"
+   Reason:      Broken affiliate link /go/tradewinds-st-pete-expedia (not found in XML)
+
+55. In Post: [tampa-to-st-petersburg-in-a-rental-car.md]
+   Link URL:    "/go/tradewinds-st-pete-expedia/"
+   Resolved:    "/go/tradewinds-st-pete-expedia"
+   Reason:      Broken affiliate link /go/tradewinds-st-pete-expedia (not found in XML)
+
+56. In Post: [things-to-do-in-alabama.md]
+   Link URL:    "/travel-destinations/united-states-travel/alabama-travel/"
+   Resolved:    "/travel-destinations/united-states-travel/alabama-travel"
+   Reason:      Path '/travel-destinations/united-states-travel/alabama-travel' does not exist on new site and is not redirected
+
+57. In Post: [tips-for-taking-a-road-trip-with-friends.md]
+   Link URL:    "/hotel-reviews/"
+   Resolved:    "/hotel-reviews"
+   Reason:      Path '/hotel-reviews' does not exist on new site and is not redirected
+
+58. In Post: [toms-farms.md]
+   Link URL:    "/vail-lake/"
+   Resolved:    "/vail-lake"
+   Reason:      Path '/vail-lake' does not exist on new site and is not redirected
+
+59. In Post: [traveling-adventures-farm-girl-story.md]
+   Link URL:    "/real-family-travel-stories/"
+   Resolved:    "/real-family-travel-stories"
+   Reason:      Path '/real-family-travel-stories' does not exist on new site and is not redirected
+
+60. In Post: [ultimate-guide-to-traveling-with-children.md]
+   Link URL:    "/family-travel-worth-money-investment/"
+   Resolved:    "/family-travel-worth-money-investment"
+   Reason:      Path '/family-travel-worth-money-investment' does not exist on new site and is not redirected
+
+61. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/alabama-family-travel/"
+   Resolved:    "/united-states-family-travel/alabama-family-travel"
+   Reason:      Path '/united-states-family-travel/alabama-family-travel' does not exist on new site and is not redirected
+
+62. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/montana-family-travel/"
+   Resolved:    "/united-states-family-travel/montana-family-travel"
+   Reason:      Path '/united-states-family-travel/montana-family-travel' does not exist on new site and is not redirected
+
+63. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/alaska-family-travel/"
+   Resolved:    "/united-states-family-travel/alaska-family-travel"
+   Reason:      Path '/united-states-family-travel/alaska-family-travel' does not exist on new site and is not redirected
+
+64. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/nebraska-family-travel/"
+   Resolved:    "/united-states-family-travel/nebraska-family-travel"
+   Reason:      Path '/united-states-family-travel/nebraska-family-travel' does not exist on new site and is not redirected
+
+65. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/arkansas-family-travel/"
+   Resolved:    "/united-states-family-travel/arkansas-family-travel"
+   Reason:      Path '/united-states-family-travel/arkansas-family-travel' does not exist on new site and is not redirected
+
+66. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/new-hampshire-family-travel/"
+   Resolved:    "/united-states-family-travel/new-hampshire-family-travel"
+   Reason:      Path '/united-states-family-travel/new-hampshire-family-travel' does not exist on new site and is not redirected
+
+67. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/new-jersey-family-travel/"
+   Resolved:    "/united-states-family-travel/new-jersey-family-travel"
+   Reason:      Path '/united-states-family-travel/new-jersey-family-travel' does not exist on new site and is not redirected
+
+68. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/colorado-family-travel/"
+   Resolved:    "/united-states-family-travel/colorado-family-travel"
+   Reason:      Path '/united-states-family-travel/colorado-family-travel' does not exist on new site and is not redirected
+
+69. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/new-mexico-family-travel/"
+   Resolved:    "/united-states-family-travel/new-mexico-family-travel"
+   Reason:      Path '/united-states-family-travel/new-mexico-family-travel' does not exist on new site and is not redirected
+
+70. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/connecticut-family-travel/"
+   Resolved:    "/united-states-family-travel/connecticut-family-travel"
+   Reason:      Path '/united-states-family-travel/connecticut-family-travel' does not exist on new site and is not redirected
+
+71. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/delaware-family-travel/"
+   Resolved:    "/united-states-family-travel/delaware-family-travel"
+   Reason:      Path '/united-states-family-travel/delaware-family-travel' does not exist on new site and is not redirected
+
+72. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/north-carolina-family-travel/"
+   Resolved:    "/united-states-family-travel/north-carolina-family-travel"
+   Reason:      Path '/united-states-family-travel/north-carolina-family-travel' does not exist on new site and is not redirected
+
+73. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/north-dakota-family-travel/"
+   Resolved:    "/united-states-family-travel/north-dakota-family-travel"
+   Reason:      Path '/united-states-family-travel/north-dakota-family-travel' does not exist on new site and is not redirected
+
+74. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/ohio-family-travel/"
+   Resolved:    "/united-states-family-travel/ohio-family-travel"
+   Reason:      Path '/united-states-family-travel/ohio-family-travel' does not exist on new site and is not redirected
+
+75. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/hawaii-family-travel/"
+   Resolved:    "/united-states-family-travel/hawaii-family-travel"
+   Reason:      Path '/united-states-family-travel/hawaii-family-travel' does not exist on new site and is not redirected
+
+76. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/oklahoma-family-travel/"
+   Resolved:    "/united-states-family-travel/oklahoma-family-travel"
+   Reason:      Path '/united-states-family-travel/oklahoma-family-travel' does not exist on new site and is not redirected
+
+77. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/idaho-family-travel/"
+   Resolved:    "/united-states-family-travel/idaho-family-travel"
+   Reason:      Path '/united-states-family-travel/idaho-family-travel' does not exist on new site and is not redirected
+
+78. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/oregon-family-travel/"
+   Resolved:    "/united-states-family-travel/oregon-family-travel"
+   Reason:      Path '/united-states-family-travel/oregon-family-travel' does not exist on new site and is not redirected
+
+79. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/illinois-family-travel/"
+   Resolved:    "/united-states-family-travel/illinois-family-travel"
+   Reason:      Path '/united-states-family-travel/illinois-family-travel' does not exist on new site and is not redirected
+
+80. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/pennsylvania-family-travel/"
+   Resolved:    "/united-states-family-travel/pennsylvania-family-travel"
+   Reason:      Path '/united-states-family-travel/pennsylvania-family-travel' does not exist on new site and is not redirected
+
+81. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/indiana-family-travel/"
+   Resolved:    "/united-states-family-travel/indiana-family-travel"
+   Reason:      Path '/united-states-family-travel/indiana-family-travel' does not exist on new site and is not redirected
+
+82. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/rhode-island-family-travel/"
+   Resolved:    "/united-states-family-travel/rhode-island-family-travel"
+   Reason:      Path '/united-states-family-travel/rhode-island-family-travel' does not exist on new site and is not redirected
+
+83. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/iowa-family-travel/"
+   Resolved:    "/united-states-family-travel/iowa-family-travel"
+   Reason:      Path '/united-states-family-travel/iowa-family-travel' does not exist on new site and is not redirected
+
+84. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/hot-south-carolina/"
+   Resolved:    "/united-states-family-travel/hot-south-carolina"
+   Reason:      Path '/united-states-family-travel/hot-south-carolina' does not exist on new site and is not redirected
+
+85. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/kansas-family-travel/"
+   Resolved:    "/united-states-family-travel/kansas-family-travel"
+   Reason:      Path '/united-states-family-travel/kansas-family-travel' does not exist on new site and is not redirected
+
+86. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/south-dakota-family-travel/"
+   Resolved:    "/united-states-family-travel/south-dakota-family-travel"
+   Reason:      Path '/united-states-family-travel/south-dakota-family-travel' does not exist on new site and is not redirected
+
+87. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/kentucky-family-travel/"
+   Resolved:    "/united-states-family-travel/kentucky-family-travel"
+   Reason:      Path '/united-states-family-travel/kentucky-family-travel' does not exist on new site and is not redirected
+
+88. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/louisiana-family-travel/"
+   Resolved:    "/united-states-family-travel/louisiana-family-travel"
+   Reason:      Path '/united-states-family-travel/louisiana-family-travel' does not exist on new site and is not redirected
+
+89. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/maine-family-travel/"
+   Resolved:    "/united-states-family-travel/maine-family-travel"
+   Reason:      Path '/united-states-family-travel/maine-family-travel' does not exist on new site and is not redirected
+
+90. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/utah-family-travel/"
+   Resolved:    "/united-states-family-travel/utah-family-travel"
+   Reason:      Path '/united-states-family-travel/utah-family-travel' does not exist on new site and is not redirected
+
+91. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/maryland-family-travel/"
+   Resolved:    "/united-states-family-travel/maryland-family-travel"
+   Reason:      Path '/united-states-family-travel/maryland-family-travel' does not exist on new site and is not redirected
+
+92. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/vermont-family-travel/"
+   Resolved:    "/united-states-family-travel/vermont-family-travel"
+   Reason:      Path '/united-states-family-travel/vermont-family-travel' does not exist on new site and is not redirected
+
+93. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/virginia-family-travel/"
+   Resolved:    "/united-states-family-travel/virginia-family-travel"
+   Reason:      Path '/united-states-family-travel/virginia-family-travel' does not exist on new site and is not redirected
+
+94. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/michigan-family-travel/"
+   Resolved:    "/united-states-family-travel/michigan-family-travel"
+   Reason:      Path '/united-states-family-travel/michigan-family-travel' does not exist on new site and is not redirected
+
+95. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/washington-family-travel/"
+   Resolved:    "/united-states-family-travel/washington-family-travel"
+   Reason:      Path '/united-states-family-travel/washington-family-travel' does not exist on new site and is not redirected
+
+96. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/minnesota-family-travel/"
+   Resolved:    "/united-states-family-travel/minnesota-family-travel"
+   Reason:      Path '/united-states-family-travel/minnesota-family-travel' does not exist on new site and is not redirected
+
+97. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/west-virginia-family-travel/"
+   Resolved:    "/united-states-family-travel/west-virginia-family-travel"
+   Reason:      Path '/united-states-family-travel/west-virginia-family-travel' does not exist on new site and is not redirected
+
+98. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/mississippi-family-travel/"
+   Resolved:    "/united-states-family-travel/mississippi-family-travel"
+   Reason:      Path '/united-states-family-travel/mississippi-family-travel' does not exist on new site and is not redirected
+
+99. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/wisconsin-family-travel/"
+   Resolved:    "/united-states-family-travel/wisconsin-family-travel"
+   Reason:      Path '/united-states-family-travel/wisconsin-family-travel' does not exist on new site and is not redirected
+
+100. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/missouri-family-travel/"
+   Resolved:    "/united-states-family-travel/missouri-family-travel"
+   Reason:      Path '/united-states-family-travel/missouri-family-travel' does not exist on new site and is not redirected
+
+101. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/wyoming-family-travel/"
+   Resolved:    "/united-states-family-travel/wyoming-family-travel"
+   Reason:      Path '/united-states-family-travel/wyoming-family-travel' does not exist on new site and is not redirected
+
+102. In Post: [united-states.md]
+   Link URL:    "/united-states-family-travel/washington-dc-family-travel/"
+   Resolved:    "/united-states-family-travel/washington-dc-family-travel"
+   Reason:      Path '/united-states-family-travel/washington-dc-family-travel' does not exist on new site and is not redirected
+
+103. In Post: [wandering-and-whimsy-story.md]
+   Link URL:    "/real-family-travel-stories/"
+   Resolved:    "/real-family-travel-stories"
+   Reason:      Path '/real-family-travel-stories' does not exist on new site and is not redirected
+
+104. In Post: [why-dubai-should-be-your-destination.md]
+   Link URL:    "/best-things-to-do-in-dubai-with-kids/"
+   Resolved:    "/best-things-to-do-in-dubai-with-kids"
+   Reason:      Path '/best-things-to-do-in-dubai-with-kids' does not exist on new site and is not redirected
+
+
+RECOMMENDED ACTIONS
+-------------------
+1. Check why some posts/pages didn't migrate. Verify if they should be deleted or manually redirect them.
+2. Fix the broken tag links or add redirects for the unmapped pages listed above.
+3. Deploy to staging on Vercel to verify redirect headers on a live domain.
+=========================================================

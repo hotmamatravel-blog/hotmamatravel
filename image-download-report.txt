@@ -1,0 +1,78 @@
+HotMamaTravel Image Download Report
+Generated: 6/4/2026, 1:37:52 PM
+
+SUMMARY
+=======
+Downloaded:  0 images (0.0 MB)
+Skipped:     2773 (already existed)
+Failed:      2
+Content files updated: 0
+
+FAILED DOWNLOADS — Add these manually:
+  ✗ https://hotmamatravel.com/wp-content/uploads/2019/06/Gallup-Hotel-El-Rancho-Our-Family.jpg
+    Error: HTTP 404 Not Found
+  ✗ https://hotmamatravel.com/wp-content/uploads/2025/05/HotMama-Fun-in-Vegas-930-x-520-px.gif
+    Error: The operation was aborted due to timeout
+
+External images (not downloaded — hosted elsewhere):
+  → https://www.tqlkg.com/image-8336032-13756977
+  → https://www.ftjcfx.com/image-8336032-17179234
+  → https://vegas.vdvm.net/i/1226937/271012/4221
+  → https://vegas.vdvm.net/i/1226937/268707/4221
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hotm03b-20&amp;l=as2&amp;o=1&amp;a=B00TSL2UJ6
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hotm03b-20&amp;l=as2&amp;o=1&amp;a=B004WN7AH2
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&language=en_US&l=li3&o=1&a=B083SCJ1H4
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&language=en_US&l=li3&o=1&a=B08LH26PFT
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&language=en_US&l=li3&o=1&a=B08XJXY25H
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&language=en_US&l=li3&o=1&a=B08GG81VMW
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&language=en_US&l=li3&o=1&a=B0996C241M
+  → https://m.media-amazon.com/images/I/41OFLAEX7oL._SL500_.jpg
+  → https://m.media-amazon.com/images/I/51IOmJodiIL._SL500_.jpg
+  → https://m.media-amazon.com/images/I/41g9wTt5fSL._SL500_.jpg
+  → https://m.media-amazon.com/images/I/5188-WNDwHL._SL500_.jpg
+  → https://m.media-amazon.com/images/I/41C6SJmNyzL._SL500_.jpg
+  → https://m.media-amazon.com/images/I/41djadw42HL._SL500_.jpg
+  → https://m.media-amazon.com/images/I/51IH0pbBOgL._SL500_.jpg
+  → https://m.media-amazon.com/images/I/41o31RvRZ4L._SL500_.jpg
+  → https://m.media-amazon.com/images/I/41nXXmEUvDL._SL500_.jpg
+  → https://m.media-amazon.com/images/I/51lX7NkbGsL._SL500_.jpg
+  → https://m.media-amazon.com/images/I/513c+MRi51L._SL500_.jpg
+  → https://www.awltovhc.com/image-8336032-12535113
+  → https://www.lduhtrp.net/image-8336032-12659300
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B07GSHT8F4
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B07HJFKDB2
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B0052TZZI6
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B006X0FEE8
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B01FE3K2AK
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B00KRWVXWA
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B01G5GJEAE
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B00GIX531O
+  → http://www.ftjcfx.com/image-8336032-10566388
+  → https://www.ftjcfx.com/image-8336032-10566388
+  → https://www.lduhtrp.net/image-8336032-17179229
+  → https://vegas.vdvm.net/i/1226937/271414/4221
+  → https://vegas.vdvm.net/i/1226937/268706/4221
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=0763695807
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=0062569775
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=0740797700
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B076B6JCXF
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B003ATT68A
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=1223062341
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B003AIM52A
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B001MY20X8
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B001AQS1RC
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B004FG0ZWI
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B07VXC97KS
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B01M1DJH82
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=0843174986
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li1&amp;o=1&amp;a=B00H4OKN48
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li1&amp;o=1&amp;a=B00112CHD4
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B01FST8A90
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B00N4ONUBA
+  → https://www.tqlkg.com/image-8336032-10548472
+  → https://lh4.googleusercontent.com/J6uydQzHaSZRb-bN2dEFROdcbc319gqlotiZkzLtlhdKmYjzwUqi5iekiItDMUpVSRHy4uNMdZYY2ozQWLCUUWj7rsK51lsOSTlVKK0_alMlnuDMmhdZCz1LCIze1u1ocxxm-xY
+  → https://www.lduhtrp.net/image-8336032-12717748
+  → http://www.awltovhc.com/image-8336032-11357050
+  → http://www.tqlkg.com/image-8336032-10762925
+  → https://ir-na.amazon-adsystem.com/e/ir?t=hotm0c7-20&amp;l=li3&amp;o=1&amp;a=B01GMZW5C2
+  → https://lh4.googleusercontent.com/p6uI7z04J28OW7AZmr-9wypp8KmgGdS-McaEyWlHhx8MNQ63jML_uOcI2LPM8wQZfQTwDqNwjfHRDKnoBc6X8rJ-iRElwDiu_lB4HakkWaOXiV44X5BNwQHDFwy5FiGu0_7pZHBA

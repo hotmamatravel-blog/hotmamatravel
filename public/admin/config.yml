@@ -1,0 +1,81 @@
+backend:
+  name: github
+  repo: YOUR-GITHUB-USERNAME/hotmamatravel
+  branch: main
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+
+# This gives you a web editor at hotmamatravel.com/admin/
+# Log in with your GitHub account — no separate password needed
+
+media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
+
+site_url: https://hotmamatravel.com
+display_url: https://hotmamatravel.com
+logo_url: https://hotmamatravel.com/images/hmt-logo.png
+
+# Show live preview while editing
+show_preview_links: true
+
+collections:
+  # ---- BLOG POSTS ----
+  - name: "blog"
+    label: "Blog Posts"
+    label_singular: "Blog Post"
+    folder: "src/content/blog"
+    create: true
+    slug: "{{slug}}"
+    preview_path: "/{{slug}}/"
+    identifier_field: title
+    fields:
+      - { label: "Title", name: "title", widget: "string", hint: "The main headline — make it descriptive and keyword-rich" }
+      - { label: "Description / Excerpt", name: "description", widget: "text", required: false, hint: "1-2 sentence summary for SEO and social sharing (160 chars max)" }
+      - { label: "Publish Date", name: "pubDate", widget: "datetime", default: "", date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Updated Date", name: "updatedDate", widget: "datetime", required: false, date_format: "YYYY-MM-DD", time_format: false }
+      - { label: "Hero Image URL", name: "heroImage", widget: "image", required: false, hint: "Main post image (shown in cards and at top of post)" }
+      - { label: "Hero Image Alt Text", name: "heroImageAlt", widget: "string", required: false, hint: "Describe the image for accessibility and SEO" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        default: "Family Travel"
+        options:
+          - "Family Travel"
+          - "Las Vegas"
+          - "California"
+          - "Florida"
+          - "Canada"
+          - "Europe"
+          - "Caribbean"
+          - "Hotel Review"
+          - "Buyer's Guide"
+          - "Travel Tips"
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        hint: "Add relevant tags (e.g. las-vegas, family-hotels, kids, teens)"
+        field: { label: Tag, name: tag, widget: string }
+      - { label: "Featured Post?", name: "featured", widget: "boolean", default: false, hint: "Show this post in the featured slot on the homepage" }
+      - { label: "Draft?", name: "draft", widget: "boolean", default: false, hint: "Draft posts won't appear on the live site" }
+      - label: "SEO Title Override"
+        name: "seoTitle"
+        widget: "string"
+        required: false
+        hint: "Override the page title tag for SEO (leave blank to use post title)"
+      - label: "SEO Description Override"
+        name: "seoDescription"
+        widget: "text"
+        required: false
+        hint: "Override the meta description for SEO (leave blank to use Description above)"
+      - { label: "Body", name: "body", widget: "markdown", hint: "Write your post here. Use the toolbar for headers, bold, links, and images." }
+
+  # ---- STATIC PAGES ----
+  - name: "pages"
+    label: "Pages"
+    label_singular: "Page"
+    folder: "src/content/pages"
+    create: true
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }

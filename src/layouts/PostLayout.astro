@@ -1,0 +1,362 @@
+---
+// PostLayout.astro — Single blog post page
+import BaseLayout from './BaseLayout.astro';
+import type { CollectionEntry } from 'astro:content';
+import { slugifyTag } from '@/utils/slugify';
+
+interface Props {
+  post: CollectionEntry<'blog'>;
+}
+
+const { post } = Astro.props;
+const {
+  title,
+  description,
+  pubDate,
+  updatedDate,
+  heroImage,
+  heroImageAlt,
+  category,
+  tags = [],
+  author,
+  seoTitle,
+  seoDescription,
+} = post.data;
+
+const formattedDate = pubDate.toLocaleDateString('en-US', {
+  year: 'numeric', month: 'long', day: 'numeric'
+});
+const formattedUpdated = updatedDate?.toLocaleDateString('en-US', {
+  year: 'numeric', month: 'long', day: 'numeric'
+});
+
+const readingTime = (content: string) => {
+  const words = content?.split(/\s+/).length ?? 0;
+  return Math.max(1, Math.ceil(words / 200));
+};
+---
+
+<BaseLayout
+  title={seoTitle || title}
+  description={seoDescription || description}
+  image={heroImage}
+  pubDate={pubDate}
+  updatedDate={updatedDate}
+  author={author}
+  tags={tags}
+  type="article"
+>
+  <article class="post-page">
+
+    <!-- Post Header -->
+    <header class="post-header">
+      <div class="container--sm">
+        {category && (
+          <a href={`/tag/${slugifyTag(category)}/`} class="badge post-category-badge">
+            {category}
+          </a>
+        )}
+
+        <h1 class="post-title">{title}</h1>
+
+        {description && <p class="post-description">{description}</p>}
+
+        <div class="post-meta">
+          <span class="post-author">By <a href="/about">{author}</a></span>
+          <span class="meta-dot" aria-hidden="true">·</span>
+          <time datetime={pubDate.toISOString()}>
+            Published {formattedDate}
+          </time>
+          {updatedDate && (
+            <>
+              <span class="meta-dot" aria-hidden="true">·</span>
+              <span>Updated {formattedUpdated}</span>
+            </>
+          )}
+        </div>
+        <p class="disclosure-subtle">
+          *This post may contain affiliate links. If you click and purchase, we may earn a small commission. Read our <a href="/disclosure-policy">disclosure policy</a>.*
+        </p>
+      </div>
+    </header>
+
+    <!-- Content -->
+    <div class="container--sm">
+
+      <!-- Post Content (slot from [...slug].astro) -->
+      <div class="prose">
+        <slot />
+      </div>
+
+      <!-- Tags -->
+      {tags.length > 0 && (
+        <div class="post-tags">
+          <strong>Filed under:</strong>
+          {tags.map(tag => (
+            <a href={`/tag/${slugifyTag(tag)}/`} class="badge badge--outline">
+              {tag}
+            </a>
+          ))}
+        </div>
+      )}
+
+      <!-- Author box -->
+      <div class="author-box">
+        <img
+          src="/images/amanda-avatar.jpg"
+          alt="Amanda Keeley-Thurman, HotMamaTravel"
+          width="80"
+          height="80"
+          class="author-avatar"
+          loading="lazy"
+          onerror="this.style.display='none'"
+        />
+        <div class="author-box-content">
+          <p class="author-box-name">Written by <strong>{author}</strong></p>
+          <p class="author-box-bio">
+            Amanda is a Southern California mom of two who believes family travel should be fun, honest, and just a little bit spicy.
+            She's been exploring the world with her kids since 2015 and sharing every real, imperfect adventure on HotMamaTravel.
+          </p>
+          <a href="/about" class="btn btn-ghost" style="font-size:0.8rem;padding:0.4em 1em">More about Amanda →</a>
+        </div>
+      </div>
+
+    </div>
+  </article>
+</BaseLayout>
+
+<style>
+  .post-page { padding-bottom: 60px; }
+
+  /* Header */
+  .post-header {
+    background: var(--hmt-bg-warm);
+    border-bottom: 1px solid var(--hmt-border);
+    padding: clamp(32px, 6vw, 60px) 0 clamp(24px, 4vw, 40px);
+    text-align: center;
+  }
+  .post-category-badge { margin-bottom: 16px; }
+
+  .post-title {
+    font-size: clamp(1.75rem, 5vw, 3rem);
+    font-family: var(--font-serif);
+    font-weight: 800;
+    line-height: 1.2;
+    color: var(--hmt-dark);
+    margin: 12px 0 16px;
+    max-width: 760px;
+    margin-inline: auto;
+  }
+
+  .post-description {
+    font-size: clamp(1rem, 2vw, 1.2rem);
+    color: var(--hmt-slate);
+    max-width: 640px;
+    margin-inline: auto;
+    margin-bottom: 20px;
+    line-height: 1.6;
+  }
+
+  .post-meta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    font-size: 0.875rem;
+    color: var(--hmt-muted);
+  }
+  .post-meta a { color: var(--hmt-red); }
+  .meta-dot { opacity: 0.4; }
+
+  /* Hero image */
+  .post-hero-image {
+    max-height: 560px;
+    overflow: hidden;
+  }
+  .post-hero-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  /* Content area */
+  .container--sm { padding-top: clamp(24px, 4vw, 48px); }
+
+  /* Tags */
+  .post-tags {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    margin-top: 3em;
+    padding-top: 2em;
+    border-top: 1px solid var(--hmt-border);
+    font-size: 0.875rem;
+    color: var(--hmt-muted);
+  }
+
+  /* Author box */
+  .author-box {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+    background: var(--hmt-bg-section);
+    border: 1px solid var(--hmt-border);
+    border-radius: var(--radius-lg);
+    padding: 28px;
+    margin-top: 3em;
+  }
+  .author-avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+    border: 3px solid var(--hmt-red);
+  }
+  .author-box-name {
+    font-size: 0.8rem;
+    color: var(--hmt-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    margin-bottom: 6px;
+  }
+  .author-box-name strong { color: var(--hmt-dark); font-size: 1rem; text-transform: none; }
+  .author-box-bio { font-size: 0.9rem; color: var(--hmt-slate); margin-bottom: 12px; line-height: 1.6; }
+
+  @media (max-width: 640px) {
+    .author-box { flex-direction: column; align-items: center; text-align: center; }
+  }
+</style>
+
+<script is:inline>
+  function initPinterest() {
+    const prose = document.querySelector('.prose');
+    if (!prose) return;
+
+    // 1. Find all pin images by attributes or keywords
+    const imagesByAttr = Array.from(
+      prose.querySelectorAll(
+        'img[data-essb-pin-description], img[data-pin-description], img.essb-block-image, img.pinterest-pin'
+      )
+    );
+
+    // 2. Find images following "Like it? Pin it!" text
+    const pinContainers = [];
+    const walk = document.createTreeWalker(prose, NodeFilter.SHOW_TEXT, null);
+    let node;
+    while ((node = walk.nextNode())) {
+      if (node.nodeValue.toLowerCase().includes('like it? pin it')) {
+        const parent = node.parentElement.closest('p, div, span');
+        if (parent) pinContainers.push(parent);
+      }
+    }
+
+    const imagesByText = [];
+    pinContainers.forEach(container => {
+      let next = container.nextElementSibling;
+      if (!next) {
+        const siblingImg = container.parentElement.querySelector('img');
+        if (siblingImg && siblingImg !== container) {
+          next = siblingImg.closest('figure, a, img');
+        }
+      }
+      let imgEl = null;
+      let current = next;
+      for (let i = 0; i < 3 && current; i++) {
+        imgEl = current.tagName === 'IMG' ? current : current.querySelector('img');
+        if (imgEl) break;
+        current = current.nextElementSibling;
+      }
+      if (imgEl) {
+        imagesByText.push(imgEl);
+      }
+    });
+
+    // Combine both lists uniquely
+    const allPinImages = Array.from(new Set([...imagesByAttr, ...imagesByText]));
+
+    allPinImages.forEach(img => {
+      if (img.dataset.pinterestProcessed) return;
+      img.dataset.pinterestProcessed = "true";
+
+      // Fix blurriness: Load full resolution image if parent is a link to it
+      const parentLink = img.closest('a');
+      const originalSrc = img.src;
+      
+      if (parentLink && /\.(jpe?g|png|webp|gif)$/i.test(parentLink.getAttribute('href') || '')) {
+        img.src = parentLink.getAttribute('href');
+      } else {
+        const cleanSrc = img.src.replace(/-\d+x\d+(\.(jpe?g|png|webp|gif))$/i, '$1');
+        if (cleanSrc !== img.src) {
+          img.src = cleanSrc;
+        }
+      }
+
+      img.addEventListener('error', () => {
+        img.src = originalSrc;
+      });
+
+      // Create wrapper
+      const wrapper = document.createElement('div');
+      wrapper.className = 'pinterest-pin-wrapper';
+
+      const target = parentLink || img;
+      target.parentNode.insertBefore(wrapper, target);
+      wrapper.appendChild(target);
+
+      // Create overlay
+      const overlay = document.createElement('div');
+      overlay.className = 'pinterest-pin-overlay';
+
+      const pinBtn = document.createElement('button');
+      pinBtn.className = 'pinterest-pin-btn';
+      pinBtn.innerHTML = `
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+          <path d="M12 2C6.48 2 2 6.48 2 12c0 4.27 2.67 7.91 6.47 9.38-.08-.8-.16-2.03.03-2.9l1.2-5.07s-.3-.62-.3-1.52c0-1.42.83-2.48 1.85-2.48.87 0 1.29.65 1.29 1.44 0 .88-.56 2.19-.85 3.4-.24 1.01.5 1.84 1.5 1.84 1.8 0 3.19-1.9 3.19-4.63 0-2.42-1.74-4.11-4.22-4.11-2.88 0-4.57 2.16-4.57 4.39 0 .87.33 1.8.76 2.31.08.1.1.17.07.27l-.29 1.18c-.05.2-.16.24-.37.14-1.39-.65-2.26-2.67-2.26-4.3 0-3.5 2.54-6.71 7.33-6.71 3.85 0 6.84 2.74 6.84 6.4 0 3.83-2.41 6.9-5.76 6.9-1.12 0-2.18-.58-2.54-1.27l-.69 2.63c-.25.96-.92 2.16-1.37 2.9C10.09 21.89 11.02 22 12 22c5.52 0 10-4.48 10-10S17.52 2 12 2z"/>
+        </svg>
+        Save
+      `;
+
+      overlay.appendChild(pinBtn);
+      wrapper.appendChild(overlay);
+
+      // Trigger Pinterest Share on click
+      wrapper.addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+
+        const pageUrl = window.location.href;
+        const mediaUrl = img.src;
+        const fig = img.closest('figure');
+        const desc = (fig && (fig.dataset.essbPinDescription || fig.dataset.pinDescription)) || 
+                     img.dataset.essbPinDescription || 
+                     img.dataset.pinDescription || 
+                     img.alt || 
+                     document.title;
+
+        const pinUrl = `https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(pageUrl)}&media=${encodeURIComponent(mediaUrl)}&description=${encodeURIComponent(desc)}`;
+        
+        const width = 600;
+        const height = 600;
+        const left = (window.innerWidth / 2) - (width / 2) + window.screenX;
+        const top = (window.innerHeight / 2) - (height / 2) + window.screenY;
+        
+        window.open(
+          pinUrl,
+          'Pinterest',
+          `width=${width},height=${height},left=${left},top=${top},location=0,menubar=0,resizable=1,scrollbars=1,status=0,titlebar=0,toolbar=0`
+        );
+      });
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initPinterest);
+  } else {
+    initPinterest();
+  }
+</script>
+
