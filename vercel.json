@@ -560,16 +560,6 @@
       "permanent": true
     },
     {
-      "source": "/family-road-trip-preview/http:/hotmamatravel.com/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/We",
-      "destination": "/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/",
-      "permanent": true
-    },
-    {
-      "source": "/family-road-trip-preview/http:/hotmamatravel.com/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/We/",
-      "destination": "/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/",
-      "permanent": true
-    },
-    {
       "source": "/comment-subscriptions/",
       "has": [
         {
