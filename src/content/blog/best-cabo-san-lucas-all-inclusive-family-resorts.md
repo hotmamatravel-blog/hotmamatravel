@@ -11,360 +11,170 @@ wpSlug: "best-cabo-san-lucas-all-inclusive-family-resorts"
 author: "Amanda Keeley-Thurman"
 ---
 
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Cabo San Lucas is a resort city that offers desert, sea, and sun in one unique destination. Located at the southern tip of Mexico’s Baja California peninsula, Cabo is known for its beaches, outdoor activities, nightlife, and fabulous resorts.&nbsp;</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p>Cabo is a great destination for a worry-free family vacation as it is home to some of the best all-inclusive resorts in <a href="https://www.divein.com/travel/all-inclusive-resorts-in-mexico/" target="_blank" rel="noreferrer noopener">Mexico</a>. They have everything a family could want, from a wide variety in dining options, kids’ clubs, themed parties, amazing pools and much more. If you are interested in planning your vacation, here are some of the best Cabo San Lucas all-inclusive family resorts.</p>
-<!-- /wp:paragraph -->
+Cabo San Lucas is a resort city that offers desert, sea, and sun in one unique destination. Located at the southern tip of Mexico’s Baja California peninsula, Cabo is known for its beaches, outdoor activities, nightlife, and fabulous resorts.&nbsp;
 
-<!-- wp:spacer {"height":"40px"} -->
+Cabo is a great destination for a worry-free family vacation as it is home to some of the best all-inclusive resorts in [Mexico](https://www.divein.com/travel/all-inclusive-resorts-in-mexico/). They have everything a family could want, from a wide variety in dining options, kids’ clubs, themed parties, amazing pools and much more. If you are interested in planning your vacation, here are some of the best Cabo San Lucas all-inclusive family resorts.
 
-<!-- /wp:spacer -->
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9a6e1bb3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+<figure id="grand-fiesta-americana-family-resort-cabo-all-inclusive">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/grand-fiesta-americana-family-resort-cabo-all-inclusive.jpg)](/wp-content/uploads/2022/04/grand-fiesta-americana-family-resort-cabo-all-inclusive.jpg)</figure>
 
-<!-- wp:block {"ref":16445} /-->
+#### **[Grand Fiesta Americana Los Cabos Golf &amp; Spa Resort](/go/grand-fiesta-americana-los-cabos/)**
 
-<!-- wp:block {"ref":12046} /-->
+*Carretera Transpeninsular, km 10.3 Col Cabo del Sol, Cabo San Lucas, BCS 23410*
 
-<!-- wp:uagb/section {"classMigrate":true,"block_id":"9a6e1bb3","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderStyle":"none"} -->
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9a6e1bb3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":15756,"sizeSlug":"full","linkDestination":"media"} -->
-<figure id="grand-fiesta-americana-family-resort-cabo-all-inclusive"><a href="/wp-content/uploads/2022/04/grand-fiesta-americana-family-resort-cabo-all-inclusive.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/04/grand-fiesta-americana-family-resort-cabo-all-inclusive.jpg" alt="" class="wp-image-15756" title="Family all-inclusive resort Grand Fiesta American Cabo San Lucas"/></a></figure>
-<!-- /wp:image -->
+All Inclusive&nbsp; -&nbsp; Kids Club&nbsp; -&nbsp; Swimmable Beach&nbsp; -&nbsp; 6 Pools&nbsp; -&nbsp; Fitness Center&nbsp; -&nbsp; Onsite Restaurants&nbsp; -&nbsp; Airport Shuttle&nbsp; -&nbsp; Free Parking&nbsp; -&nbsp; Spa&nbsp; -&nbsp; Family Friendly Rooms&nbsp; -&nbsp; Babysitting Services&nbsp; -&nbsp; Kids Amenities&nbsp; -&nbsp; Vegan Friendly&nbsp; -&nbsp; Free Wifi&nbsp; -&nbsp; Golf&nbsp; -&nbsp; Nightly Entertainment
 
-<!-- wp:heading {"level":4} -->
-<h4 id="medieval-times"><strong><a href="/go/grand-fiesta-americana-los-cabos/" linkid="15767">Grand Fiesta Americana Los Cabos Golf &amp; Spa Resort</a></strong></h4>
-<!-- /wp:heading -->
+The Grand Fiesta Americana Los Cabos Golf &amp; Spa Resort is located in the luxurious Cabo del Sol complex, surrounded with breathtaking views of the Sea of Cortez and desert mountains. What makes this a great all-inclusive family resort is all the wonderful kid-friendly amenities offered. Kids will receive a fun non-alcoholic welcome mocktail and gift upon check-in. In addition to supervised kids activities, there is also a Fiesta Kids Club for kids ages 4 to 12. Kids will also enjoy complimentary beach toys and resort amenities. Grand Fiesta can accommodate small and large families with family suites and villas that sleep up to 10 guests!
 
-<!-- wp:paragraph -->
-<p><em>Carretera Transpeninsular, km 10.3 Col Cabo del Sol, Cabo San Lucas, BCS 23410</em></p>
-<!-- /wp:paragraph -->
+Nestled between two championship golf courses, as a guest, you will have exclusive access to The Ocean Golf Course, which is designed by Jack Nicklaus, and the Desert Course, designed by Tom Weiskopf. Other exciting activities included in your stay are snorkeling, yoga, volleyball, Tequila and wine tasting, mixology classes, kitchen classes, dance classes, spanish classes, ocean-view gym, spa, evening entertainment, live music by the fire, theme parties, and social events.
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">All Inclusive&nbsp; -&nbsp; Kids Club&nbsp; -&nbsp; Swimmable Beach&nbsp; -&nbsp; 6 Pools&nbsp; -&nbsp; Fitness Center&nbsp; -&nbsp; Onsite Restaurants&nbsp; -&nbsp; Airport Shuttle&nbsp; -&nbsp; Free Parking&nbsp; -&nbsp; Spa&nbsp; -&nbsp; Family Friendly Rooms&nbsp; -&nbsp; Babysitting Services&nbsp; -&nbsp; Kids Amenities&nbsp; -&nbsp; Vegan Friendly&nbsp; -&nbsp; Free Wifi&nbsp; -&nbsp; Golf&nbsp; -&nbsp; Nightly Entertainment</p>
-<!-- /wp:paragraph -->
+All those activities are sure to work up an appetite! Luckily, there are a dozen restaurants and bars included with your stay, like Tapas Bar and Fire Pit that includes a variety of small plates, sushi, cocktails, and live music. No matter your tastes, there is a dining experience for you, including Italian, Mexican and Argentinian restaurants, buffets, seafood, sushi, poolside grill, and more. Kids will enjoy a special kids menu and amenities at the onsite restaurants.&nbsp;
 
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">The Grand Fiesta Americana Los Cabos Golf &amp; Spa Resort is located in the luxurious Cabo del Sol complex, surrounded with breathtaking views of the Sea of Cortez and desert mountains. What makes this a great all-inclusive family resort is all the wonderful kid-friendly amenities offered. Kids will receive a fun non-alcoholic welcome mocktail and gift upon check-in. In addition to supervised kids activities, there is also a Fiesta Kids Club for kids ages 4 to 12. Kids will also enjoy complimentary beach toys and resort amenities. Grand Fiesta can accommodate small and large families with family suites and villas that sleep up to 10 guests!</p>
-<!-- /wp:paragraph -->
+[See photos, reviews &amp; more](/go/grand-fiesta-americana-los-cabos/)
 
-<!-- wp:paragraph -->
-<p>Nestled between two championship golf courses, as a guest, you will have exclusive access to The Ocean Golf Course, which is designed by Jack Nicklaus, and the Desert Course, designed by Tom Weiskopf. Other exciting activities included in your stay are snorkeling, yoga, volleyball, Tequila and wine tasting, mixology classes, kitchen classes, dance classes, spanish classes, ocean-view gym, spa, evening entertainment, live music by the fire, theme parties, and social events.</p>
-<!-- /wp:paragraph -->
+</div></section>
 
-<!-- wp:paragraph -->
-<p>All those activities are sure to work up an appetite! Luckily, there are a dozen restaurants and bars included with your stay, like Tapas Bar and Fire Pit that includes a variety of small plates, sushi, cocktails, and live music. No matter your tastes, there is a dining experience for you, including Italian, Mexican and Argentinian restaurants, buffets, seafood, sushi, poolside grill, and more. Kids will enjoy a special kids menu and amenities at the onsite restaurants.&nbsp;</p>
-<!-- /wp:paragraph -->
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a7bdefcd"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+<figure id="hard-rock-hotel-los-cabos-family-resort-all-inclusive">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/hard-rock-hotel-los-cabos-family-resort-all-inclusive.jpg)](/wp-content/uploads/2022/04/hard-rock-hotel-los-cabos-family-resort-all-inclusive.jpg)</figure>
 
-<!-- wp:paragraph -->
+#### **[Hard Rock Hotel Los Cabos](/go/hard-rock-hotel-los-cabos/)**
 
-<!-- /wp:paragraph -->
+*Polígono 1. Fracción D. Fraccionamiento Diamante, Cabo San Lucas, BCS 23473*
 
-<!-- wp:paragraph {"align":"right"} -->
-<p class="has-text-align-right"><a href="/go/grand-fiesta-americana-los-cabos/" linkid="15767">See photos, reviews &amp; more</a></p>
-<!-- /wp:paragraph -->
+All-inclusive&nbsp; -&nbsp; Kids Club&nbsp; -&nbsp; 8 Onsite Restaurants&nbsp; -&nbsp; 5 Pools&nbsp; -&nbsp; Spa&nbsp; -&nbsp; Fitness Center&nbsp; -&nbsp; Fee Parking&nbsp; -&nbsp; Pet Friendly&nbsp; -&nbsp; Vegan Friendly&nbsp; -&nbsp; Swim Up Suites&nbsp; -&nbsp; Large Family Suites&nbsp; -&nbsp; Free Wifi&nbsp; -&nbsp; Golf&nbsp; -&nbsp; Nightly Entertainment&nbsp; -&nbsp; Gratuities Included
 
-<!-- wp:paragraph -->
+If you are looking for a nonstop family fun, then look no further than the Hard Rock Hotel Los Cabos. This place is not only an all-inclusive family resort, but a party for the whole family. Feel free to make it a group thing, because Hard Rock has large family suites that can sleep up to 11 guests! While you are there you have everything from endless food, drinks, and entertainment to enjoy and it is all included in your stay. There are 8 onsite restaurants and nightly live entertainment, so you will never be bored or hungry. Kids, ages 4 to 12,&nbsp; will love the Hard Rock Roxity Kids Club where they can partake in exciting games and activities that will take their vacation to the next level. The whole family will enjoy some fun and games at the bowling alley, basketball and tennis courts or at The Cavern, where you can play Air Hockey, Pool, Xbox, Arcade Games and more.&nbsp;
 
-<!-- /wp:paragraph --></div></section>
-<!-- /wp:uagb/section -->
+Since this is the Hard Rock, you know there has to be music and your family, ages 12 and over,&nbsp;will love the unique experience at the Music Lab. Included in your stay you will receive expert instruction and accelerated stage training. Jam Band makes you feel like a rockstar for the day as a Rock Specialist will coach you to play 1 of 4 instruments or to be the lead singer in a rock band of up to 7 people. You will rehearse with your Rock Specialist before performing for a live audience. If being a DJ is more your thing check out Mix, where you can learn to spin classic and modern tracks. You can work in a group of 6 to add beats, vocals and special effects. You even get to perform live. For an extra charge you can film your own music video, complete with costumes and accessories or record you own music at the Recording Studio.
 
-<!-- wp:uagb/section {"classMigrate":true,"block_id":"a7bdefcd","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderStyle":"none"} -->
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a7bdefcd"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":15757,"sizeSlug":"full","linkDestination":"media"} -->
-<figure id="hard-rock-hotel-los-cabos-family-resort-all-inclusive"><a href="/wp-content/uploads/2022/04/hard-rock-hotel-los-cabos-family-resort-all-inclusive.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/04/hard-rock-hotel-los-cabos-family-resort-all-inclusive.jpg" alt="" class="wp-image-15757" title="Hard Rock Hotel Los Cabos All-inclusive Family Resort"/></a></figure>
-<!-- /wp:image -->
+Time to make a splash. Your kids will love the 5 expansive pools that include swim-up bars, flume water slides and shady swings. The Lyric Pool is the biggest pool, complete with a child-safe swim area, waterslides, foam parties, activities, live music and more.&nbsp; The Eden Pool is more relaxed with a nice wet bar and snack bar for enjoying drinks and appetizers. The Legendary Pool is surrounded by cabanas and fire pits with premium cocktails available at the bar. The Pulse Pool is a guest favorite, located near the Italian restaurant and the Slides of Fun. Rhythm Pool is the seaside adults-only pool and the Red Pool is the party pool, where you can swim to the cool beats from the DJ booth in the center.
 
-<!-- wp:heading {"level":4} -->
-<h4 id="medieval-times"><strong><a href="/go/hard-rock-hotel-los-cabos/" linkid="15768">Hard Rock Hotel Los Cabos</a></strong></h4>
-<!-- /wp:heading -->
+[See photos, reviews &amp; more](/go/hard-rock-hotel-los-cabos/)
 
-<!-- wp:paragraph -->
-<p><em>Polígono 1. Fracción D. Fraccionamiento Diamante, Cabo San Lucas, BCS 23473</em> </p>
-<!-- /wp:paragraph -->
+</div></section>
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">All-inclusive&nbsp; -&nbsp; Kids Club&nbsp; -&nbsp; 8 Onsite Restaurants&nbsp; -&nbsp; 5 Pools&nbsp; -&nbsp; Spa&nbsp; -&nbsp; Fitness Center&nbsp; -&nbsp; Fee Parking&nbsp; -&nbsp; Pet Friendly&nbsp; -&nbsp; Vegan Friendly&nbsp; -&nbsp; Swim Up Suites&nbsp; -&nbsp; Large Family Suites&nbsp; -&nbsp; Free Wifi&nbsp; -&nbsp; Golf&nbsp; -&nbsp; Nightly Entertainment&nbsp; -&nbsp; Gratuities Included</p>
-<!-- /wp:paragraph -->
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bb9387b4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+<figure id="dreams-los-cabos-family-resort-movie-under-stars">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/dreams-los-cabos-family-resort-movie-under-stars.jpg)](/wp-content/uploads/2022/04/dreams-los-cabos-family-resort-movie-under-stars.jpg)</figure>
 
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">If you are looking for a nonstop family fun, then look no further than the Hard Rock Hotel Los Cabos. This place is not only an all-inclusive family resort, but a party for the whole family. Feel free to make it a group thing, because Hard Rock has large family suites that can sleep up to 11 guests! While you are there you have everything from endless food, drinks, and entertainment to enjoy and it is all included in your stay. There are 8 onsite restaurants and nightly live entertainment, so you will never be bored or hungry. Kids, ages 4 to 12,&nbsp; will love the Hard Rock Roxity Kids Club where they can partake in exciting games and activities that will take their vacation to the next level. The whole family will enjoy some fun and games at the bowling alley, basketball and tennis courts or at The Cavern, where you can play Air Hockey, Pool, Xbox, Arcade Games and more.&nbsp;</p>
-<!-- /wp:paragraph -->
+#### **[Dreams Los Cabos Suites Golf Resort &amp; Spa](/go/dreams-los-cabos/)**
 
-<!-- wp:paragraph -->
-<p>Since this is the Hard Rock, you know there has to be music and your family, ages 12 and over,&nbsp;will love the unique experience at the Music Lab. Included in your stay you will receive expert instruction and accelerated stage training. Jam Band makes you feel like a rockstar for the day as a Rock Specialist will coach you to play 1 of 4 instruments or to be the lead singer in a rock band of up to 7 people. You will rehearse with your Rock Specialist before performing for a live audience. If being a DJ is more your thing check out Mix, where you can learn to spin classic and modern tracks. You can work in a group of 6 to add beats, vocals and special effects. You even get to perform live. For an extra charge you can film your own music video, complete with costumes and accessories or record you own music at the Recording Studio.</p>
-<!-- /wp:paragraph -->
+*Carretera Transpeninsular, Km 18.5, San Jose del Cabo, BCS 23405*
 
-<!-- wp:paragraph -->
-<p>Time to make a splash. Your kids will love the 5 expansive pools that include swim-up bars, flume water slides and shady swings. The Lyric Pool is the biggest pool, complete with a child-safe swim area, waterslides, foam parties, activities, live music and more.&nbsp; The Eden Pool is more relaxed with a nice wet bar and snack bar for enjoying drinks and appetizers. The Legendary Pool is surrounded by cabanas and fire pits with premium cocktails available at the bar. The Pulse Pool is a guest favorite, located near the Italian restaurant and the Slides of Fun. Rhythm Pool is the seaside adults-only pool and the Red Pool is the party pool, where you can swim to the cool beats from the DJ booth in the center.</p>
-<!-- /wp:paragraph -->
+All-inclusive&nbsp; -&nbsp; Kids Club&nbsp; -&nbsp; Beach Club&nbsp; -&nbsp; Fitness Center&nbsp; -&nbsp; Onsite Restaurants&nbsp; -&nbsp; Free Parking&nbsp; -&nbsp; Spa&nbsp; -&nbsp; Pet Friendly&nbsp; -&nbsp; 2 Pools&nbsp; - Waterslide&nbsp; -&nbsp; Offsite Tours&nbsp; -&nbsp; Vegan Friendly&nbsp; -&nbsp; Free Wifi&nbsp; -&nbsp; Golf&nbsp; -&nbsp; Nightly Entertainment
 
-<!-- wp:paragraph {"align":"right"} -->
-<p class="has-text-align-right"><a href="/go/hard-rock-hotel-los-cabos/" linkid="15768">See photos, reviews &amp; more</a></p>
-<!-- /wp:paragraph -->
+The Dreams Los Cabos, is set along the sparkling Sea of Cortez and designed to highlight the beauty of traditional colonial Mexican style. As a guest of Dreams Los Cabos, your stay will include a number of exciting activities. Families can enjoy a variety of games, like euro-bungee, tennis, beach volleyball, bocce ball, horseshoes, darts, and bingo. The resort is surrounded by eight championship golf courses and you can enjoy a round of golf for a surcharge. Kids ages 3 to 12 will love hanging out at the Explorers Club where they can enjoy a climbing wall, splash park, playground, video games, campout adventures and sandcastle contests. There are two pools onsite with the main pool featuring an infinity pool, children’s swim area and waterslide. You can even enjoy pool volleyball.
 
-<!-- wp:paragraph -->
+The whole family will love participating in the Dreaming of Freedom Turtle Release Program that happens every July through December where you can watch the baby sea turtles make their way to the ocean. There are a ton of onsite activities included in your stay, like water sports, snorkeling, language classes, cooking classes, Tequila tasting, movies under the stars, live musical performances, fire pits, and theme nights. You can even get off the resort and explore more of what Cabo has to offer by booking half and full day tours.&nbsp;
 
-<!-- /wp:paragraph --></div></section>
-<!-- /wp:uagb/section -->
+Eat and drink to your heart’s content with 24-hour room service, numerous swim up bars, coffee bars, buffets and a variety of cuisine from French restaurants to Mediterranean restaurants and everything in between. Then after a long and fun-filled day relax at the spa, complete with hydrotherapy, saunas, steam room, hot tub, beauty salon and beachfront massages. If you upgrade your stay with the Dream Big package you will receive a 25-minute couple’s massage, a family welcome gift, a family photo session and more!&nbsp;
 
-<!-- wp:block {"ref":16452} /-->
+[See photos, reviews &amp; more](/go/dreams-los-cabos/)
 
-<!-- wp:uagb/section {"classMigrate":true,"block_id":"bb9387b4","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderStyle":"none"} -->
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bb9387b4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":15758,"sizeSlug":"full","linkDestination":"media"} -->
-<figure id="dreams-los-cabos-family-resort-movie-under-stars"><a href="/wp-content/uploads/2022/04/dreams-los-cabos-family-resort-movie-under-stars.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/04/dreams-los-cabos-family-resort-movie-under-stars.jpg" alt="" class="wp-image-15758" title="Family all-inclusive resort Dreams Los Cabos"/></a></figure>
-<!-- /wp:image -->
+</div></section>
 
-<!-- wp:heading {"level":4} -->
-<h4 id="medieval-times"><strong><a href="/go/dreams-los-cabos/" linkid="15769">Dreams Los Cabos Suites Golf Resort &amp; Spa</a></strong></h4>
-<!-- /wp:heading -->
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7f529210"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+<figure id="grand-velas-los-cabos-all-inclusive-family-resort">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/grand-velas-los-cabos-all-inclusive-family-resort.jpg)](/wp-content/uploads/2022/04/grand-velas-los-cabos-all-inclusive-family-resort.jpg)</figure>
 
-<!-- wp:paragraph -->
-<p><em>Carretera Transpeninsular, Km 18.5, San Jose del Cabo, BCS 23405</em></p>
-<!-- /wp:paragraph -->
+#### **[Grand Velas Los Cabos](/go/grand-vela-los-cabos/)**
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">All-inclusive&nbsp; -&nbsp; Kids Club&nbsp; -&nbsp; Beach Club&nbsp; -&nbsp; Fitness Center&nbsp; -&nbsp; Onsite Restaurants&nbsp; -&nbsp; Free Parking&nbsp; -&nbsp; Spa&nbsp; -&nbsp; Pet Friendly&nbsp; -&nbsp; 2 Pools&nbsp; - Waterslide&nbsp; -&nbsp; Offsite Tours&nbsp; -&nbsp; Vegan Friendly&nbsp; -&nbsp; Free Wifi&nbsp; -&nbsp; Golf&nbsp; -&nbsp; Nightly Entertainment</p>
-<!-- /wp:paragraph -->
+*Carretera Transpeninsular Km. 17, San Jose del Cabo, BCS 23405*
 
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">The Dreams Los Cabos, is set along the sparkling Sea of Cortez and designed to highlight the beauty of traditional colonial Mexican style. As a guest of Dreams Los Cabos, your stay will include a number of exciting activities. Families can enjoy a variety of games, like euro-bungee, tennis, beach volleyball, bocce ball, horseshoes, darts, and bingo. The resort is surrounded by eight championship golf courses and you can enjoy a round of golf for a surcharge. Kids ages 3 to 12 will love hanging out at the Explorers Club where they can enjoy a climbing wall, splash park, playground, video games, campout adventures and sandcastle contests. There are two pools onsite with the main pool featuring an infinity pool, children’s swim area and waterslide. You can even enjoy pool volleyball.</p>
-<!-- /wp:paragraph -->
+All-inclusive&nbsp; -&nbsp; Kids Club&nbsp; -&nbsp; Teens Club&nbsp; -&nbsp; 8 Onsite Restaurants&nbsp; -&nbsp; Vegan Friendly&nbsp; -&nbsp; Free Parking &nbsp; -&nbsp; Spa&nbsp; -&nbsp; Fitness Center&nbsp; -&nbsp; Personal Plunge Pools&nbsp; -&nbsp; Infinity Pools&nbsp; -&nbsp; Nightly Live Entertainment&nbsp; -&nbsp; Free Wifi&nbsp;
 
-<!-- wp:paragraph -->
-<p>The whole family will love participating in the Dreaming of Freedom Turtle Release Program that happens every July through December where you can watch the baby sea turtles make their way to the ocean. There are a ton of onsite activities included in your stay, like water sports, snorkeling, language classes, cooking classes, Tequila tasting, movies under the stars, live musical performances, fire pits, and theme nights. You can even get off the resort and explore more of what Cabo has to offer by booking half and full day tours.&nbsp;</p>
-<!-- /wp:paragraph -->
+Grand Velas Los Cabos makes for a relaxing all-inclusive vacation experience for the whole family. Rooms feature personal plunge pools, ocean views, and private terraces that help to blend the outdoors with the indoors. The main pools are unique multi-tiered infinity pools with gorgeous views of the Sea of Cortez.&nbsp; Kids and Teens will both love spending some time in their own clubs. The Teens’ Club is for ages 13 to 18 and features a pool table, air and ice hockey table, ping pong, arcade games, sound system for playing music, karaoke system, round bar for serving non-alcoholic mocktails, and a dance floor.&nbsp; The Kids’ Club is for ages 4 to 12 and offers kids a fun day of activities, games and making new friends.
 
-<!-- wp:paragraph -->
-<p>Eat and drink to your heart’s content with 24-hour room service, numerous swim up bars, coffee bars, buffets and a variety of cuisine from French restaurants to Mediterranean restaurants and everything in between. Then after a long and fun-filled day relax at the spa, complete with hydrotherapy, saunas, steam room, hot tub, beauty salon and beachfront massages. If you upgrade your stay with the Dream Big package you will receive a 25-minute couple’s massage, a family welcome gift, a family photo session and more!&nbsp;</p>
-<!-- /wp:paragraph -->
+Spend your day lounging by pools, taking advantage of the resort’s Land and Sea Tours or dining until your stomachs burst with happiness. There are 8 onsite restaurants, 5 of which are fine dining, and there are 5 bars. End your perfect day with dancing to live music and enjoying those beautiful Cabo sunsets.&nbsp;
 
-<!-- wp:paragraph -->
+[See photos, reviews &amp; more](/go/grand-vela-los-cabos/)
 
-<!-- /wp:paragraph -->
+</div></section>
 
-<!-- wp:paragraph {"align":"right"} -->
-<p class="has-text-align-right"><a href="/go/dreams-los-cabos/" linkid="15769">See photos, reviews &amp; more</a></p>
-<!-- /wp:paragraph -->
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e0b94075"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+<figure id="barcelo-gran-faro-los-cabos-all-inclusive-family-resort">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/barcelo-gran-faro-los-cabos-all-inclusive-family-resort.jpg)](/wp-content/uploads/2022/04/barcelo-gran-faro-los-cabos-all-inclusive-family-resort.jpg)</figure>
 
-<!-- wp:paragraph -->
+#### **[Barcelo Gran Faro Los Cabos](/go/barcelo-gran-faro-los-cabos/)**
 
-<!-- /wp:paragraph --></div></section>
-<!-- /wp:uagb/section -->
+*Blvd. San Jose s/n, Zona Hotelera, San Jose del Cabo, BCS 23400*
 
-<!-- wp:block {"ref":16453} /-->
+All-inclusive&nbsp; -&nbsp; Kids Club&nbsp; -&nbsp; Free Wifi&nbsp; -&nbsp; 4 Pools&nbsp; -&nbsp; 5 Onsite Restaurants&nbsp; -&nbsp; Fitness Center&nbsp; -&nbsp; Spa&nbsp; -&nbsp; Vegan Friendly&nbsp;
 
-<!-- wp:uagb/section {"classMigrate":true,"block_id":"7f529210","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderStyle":"none"} -->
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7f529210"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":15759,"sizeSlug":"full","linkDestination":"media"} -->
-<figure id="grand-velas-los-cabos-all-inclusive-family-resort"><a href="/wp-content/uploads/2022/04/grand-velas-los-cabos-all-inclusive-family-resort.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/04/grand-velas-los-cabos-all-inclusive-family-resort.jpg" alt="" class="wp-image-15759" title="Grand Velas Family all-inclusive Cabo resort "/></a></figure>
-<!-- /wp:image -->
+Relax beachside with the family at Barcelo Gran Faro Los Cabos, where every room comes with a private balcony. There are 5 sparkling pools to spend your day splashing around. There is the central pool, 2 special pools for activities, an infinity pool with gorgeous sea views, and two whirlpools with one that is exclusively for adults. Additionally there are 5 onsite restaurants to dine and 3 onsite bars, including the The Lighthouse Sushi Bar that is located at the top of the El Faro building with beautiful panoramic views of the sea.&nbsp;&nbsp;
 
-<!-- wp:heading {"level":4} -->
-<h4 id="medieval-times"><strong><a href="/go/grand-vela-los-cabos/" linkid="15770">Grand Velas Los Cabos</a></strong></h4>
-<!-- /wp:heading -->
+Not only will the whole family enjoy their day swimming, dining and engaging in fun activities, the kids will enjoy some time on their own at The Turtle Barcy Club. Kids, ages 4 to 12, can enjoy fun indoor and outdoor activities, including a playground, children’s pool, movies, video games, puppet theater, karaoke, sports and more. Then spend the evening as a family enjoying nightly live entertainment.&nbsp;
 
-<!-- wp:paragraph -->
-<p><em>Carretera Transpeninsular Km. 17, San Jose del Cabo, BCS 23405</em> </p>
-<!-- /wp:paragraph -->
+[See photos, reviews &amp; more](/go/barcelo-gran-faro-los-cabos/)
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">All-inclusive&nbsp; -&nbsp; Kids Club&nbsp; -&nbsp; Teens Club&nbsp; -&nbsp; 8 Onsite Restaurants&nbsp; -&nbsp; Vegan Friendly&nbsp; -&nbsp; Free Parking &nbsp; -&nbsp; Spa&nbsp; -&nbsp; Fitness Center&nbsp; -&nbsp; Personal Plunge Pools&nbsp; -&nbsp; Infinity Pools&nbsp; -&nbsp; Nightly Live Entertainment&nbsp; -&nbsp; Free Wifi&nbsp;</p>
-<!-- /wp:paragraph -->
+</div></section>
 
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Grand Velas Los Cabos makes for a relaxing all-inclusive vacation experience for the whole family. Rooms feature personal plunge pools, ocean views, and private terraces that help to blend the outdoors with the indoors. The main pools are unique multi-tiered infinity pools with gorgeous views of the Sea of Cortez.&nbsp; Kids and Teens will both love spending some time in their own clubs. The Teens’ Club is for ages 13 to 18 and features a pool table, air and ice hockey table, ping pong, arcade games, sound system for playing music, karaoke system, round bar for serving non-alcoholic mocktails, and a dance floor.&nbsp; The Kids’ Club is for ages 4 to 12 and offers kids a fun day of activities, games and making new friends.</p>
-<!-- /wp:paragraph -->
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d5db043a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+<figure id="hyatt-ziva-los-cabos-all-inclusive-family-resort">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/hyatt-ziva-los-cabos-all-inclusive-family-resort.jpg)](/wp-content/uploads/2022/04/hyatt-ziva-los-cabos-all-inclusive-family-resort.jpg)</figure>
 
-<!-- wp:paragraph -->
-<p>Spend your day lounging by pools, taking advantage of the resort’s Land and Sea Tours or dining until your stomachs burst with happiness. There are 8 onsite restaurants, 5 of which are fine dining, and there are 5 bars. End your perfect day with dancing to live music and enjoying those beautiful Cabo sunsets.&nbsp;</p>
-<!-- /wp:paragraph -->
+#### **[Hyatt Ziva Los Cabos](/go/hyatt-ziva-los-cabos/)**
 
-<!-- wp:paragraph -->
+* Paseo Malecón SN L-5, San José del Cabo, BCS 23405*
 
-<!-- /wp:paragraph -->
+All-inclusive&nbsp; -&nbsp; Kids Club&nbsp; -&nbsp; Free Wifi&nbsp; -&nbsp; Fitness Center&nbsp; -&nbsp; 7 Onsite Restaurants&nbsp; -&nbsp; Pools&nbsp; -&nbsp; Vegan Friendly&nbsp; -&nbsp; Free Parking&nbsp; -&nbsp; Spa&nbsp; -&nbsp; Swim Up Suites&nbsp; -&nbsp; Nightly Entertainment
 
-<!-- wp:paragraph {"align":"right"} -->
-<p class="has-text-align-right"><a href="/go/grand-vela-los-cabos/" linkid="15770">See photos, reviews &amp; more</a></p>
-<!-- /wp:paragraph -->
+All you can eat. All you can drink. All you can do. All included in your room rate. That is what the Hyatt wants you to know to expect when you book a fun all-inclusive family vacation to Cabo. The day will be spent partaking in daily activities around the resort, like learning a new language, taking a dance class or competing in the Juegos Olimpicos (olympic games). For those of you who love to be active, there is a fully equipped gym, basketball, volleyball, and tennis&nbsp;courts. There are also several pools, including an infinity pool and a KidZ pool with mini waterpark, 5 slides and 2 water dump buckets. Parents, you will love the swim up bar for a nice refreshing poolside cocktail.&nbsp;
 
-<!-- wp:paragraph -->
+More for the kids to enjoy is the KidZ Club that is loaded with fun games, arts and crafts, and a play area outside with a jungle gym, playground, mini cars, and bikes. Throughout the day and evening the whole family will be indulged in delicious food and drink. There are 7 onsite restaurants to suit all tastes, including a fun Japanese teppanyaki grill and sushi restaurant. At night the family can gather for nightly live entertainment. There is a different signature show every night, including magic shows, tropical dance shows and live music. From sunup to sundown, you and your family will be having a blast.&nbsp;
 
-<!-- /wp:paragraph --></div></section>
-<!-- /wp:uagb/section -->
+[See photos, reviews &amp; more](/go/hyatt-ziva-los-cabos/)
 
-<!-- wp:block {"ref":16445} /-->
+</div></section>
 
-<!-- wp:uagb/section {"classMigrate":true,"block_id":"e0b94075","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderStyle":"none"} -->
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e0b94075"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":15760,"sizeSlug":"full","linkDestination":"media"} -->
-<figure id="barcelo-gran-faro-los-cabos-all-inclusive-family-resort"><a href="/wp-content/uploads/2022/04/barcelo-gran-faro-los-cabos-all-inclusive-family-resort.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/04/barcelo-gran-faro-los-cabos-all-inclusive-family-resort.jpg" alt="" class="wp-image-15760" title="Family all-inclusive resort Barcelo Gran Faro Los Cabos"/></a></figure>
-<!-- /wp:image -->
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9c54f5bb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+<figure id="riu-santa-fe-cabo-all-inclusive-family-resort">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/riu-santa-fe-cabo-all-inclusive-family-resort.jpg)](/wp-content/uploads/2022/04/riu-santa-fe-cabo-all-inclusive-family-resort.jpg)</figure>
 
-<!-- wp:heading {"level":4} -->
-<h4 id="medieval-times"><strong><a href="/go/barcelo-gran-faro-los-cabos/" linkid="15771">Barcelo Gran Faro Los Cabos</a></strong></h4>
-<!-- /wp:heading -->
+#### **[Riu Santa Fe](/go/riu-santa-fe-cabo-san-lucas/)**
 
-<!-- wp:paragraph -->
-<p><em>Blvd. San Jose s/n, Zona Hotelera, San Jose del Cabo, BCS 23400</em> </p>
-<!-- /wp:paragraph -->
+* Camino Viejo a San José, Tourist Corridor, El Medano, Cabo San Lucas, BCS 23453*
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">All-inclusive&nbsp; -&nbsp; Kids Club&nbsp; -&nbsp; Free Wifi&nbsp; -&nbsp; 4 Pools&nbsp; -&nbsp; 5 Onsite Restaurants&nbsp; -&nbsp; Fitness Center&nbsp; -&nbsp; Spa&nbsp; -&nbsp; Vegan Friendly&nbsp;</p>
-<!-- /wp:paragraph -->
+All-inclusive&nbsp; -&nbsp; Kids Club&nbsp; -&nbsp; Riu Pool Parties&nbsp; -&nbsp; Free Wifi&nbsp; -&nbsp; Fitness Center&nbsp; -&nbsp; Spa&nbsp; -&nbsp; 6 Onsite Restaurants&nbsp; -&nbsp; 7 Pools&nbsp; -&nbsp; Free Parking&nbsp; -&nbsp; Airport Shuttle&nbsp; -&nbsp; Waterpark&nbsp; -&nbsp; Scuba Diving Lessons
 
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Relax beachside with the family at Barcelo Gran Faro Los Cabos, where every room comes with a private balcony. There are 5 sparkling pools to spend your day splashing around. There is the central pool, 2 special pools for activities, an infinity pool with gorgeous sea views, and two whirlpools with one that is exclusively for adults. Additionally there are 5 onsite restaurants to dine and 3 onsite bars, including the The Lighthouse Sushi Bar that is located at the top of the El Faro building with beautiful panoramic views of the sea.&nbsp;&nbsp;</p>
-<!-- /wp:paragraph -->
+Spend the day cooling off at one the private beaches or at one of the 7 resort swimming pools, including a children's pool, complete with waterslides and Splash Water World waterpark. Parents, you will be happy to know that several of the pools offer a swim-up bar. Also by the pool, you can take one free scuba diving lesson. Kids, ages 4 to 12, will love RiuLand, the kids’ club that offers a special entertainment program to ensure that the kids have an amazing vacation. The whole family will love all the daily activities, entertainment and sports offered throughout the day.
 
-<!-- wp:paragraph -->
-<p>Not only will the whole family enjoy their day swimming, dining and engaging in fun activities, the kids will enjoy some time on their own at The Turtle Barcy Club. Kids, ages 4 to 12, can enjoy fun indoor and outdoor activities, including a playground, children’s pool, movies, video games, puppet theater, karaoke, sports and more. Then spend the evening as a family enjoying nightly live entertainment.&nbsp;</p>
-<!-- /wp:paragraph -->
+All that fun will surely work up an appetite, so take advantage of the buffets offered at breakfast, lunch and dinner or try a meal at one of the 5 themed restaurants. Then get ready to party the night away with discos, themed parties and live shows. As a guest at the resort you get entry and drinks at Pacha the resort night club. The popular Riu Pool Parties are for adults only and have a different theme every time. All the generations of this family Cabo vacation is sure to have a great time.&nbsp;
 
-<!-- wp:paragraph {"align":"right"} -->
-<p class="has-text-align-right"><a href="/go/barcelo-gran-faro-los-cabos/" linkid="15771">See photos, reviews &amp; more</a></p>
-<!-- /wp:paragraph -->
+[See photos, reviews &amp; more](/go/riu-santa-fe-cabo-san-lucas/)
 
-<!-- wp:paragraph -->
+</div></section>
 
-<!-- /wp:paragraph --></div></section>
-<!-- /wp:uagb/section -->
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c9bf95f7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+<figure id="riu-palace-cabo-san-lucas-all-inclusive-family-resort">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/riu-palace-cabo-san-lucas-all-inclusive-family-resort.jpg)](/wp-content/uploads/2022/04/riu-palace-cabo-san-lucas-all-inclusive-family-resort.jpg)</figure>
 
-<!-- wp:uagb/section {"classMigrate":true,"block_id":"d5db043a","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderStyle":"none"} -->
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d5db043a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":15761,"sizeSlug":"full","linkDestination":"media"} -->
-<figure id="hyatt-ziva-los-cabos-all-inclusive-family-resort"><a href="/wp-content/uploads/2022/04/hyatt-ziva-los-cabos-all-inclusive-family-resort.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/04/hyatt-ziva-los-cabos-all-inclusive-family-resort.jpg" alt="" class="wp-image-15761" title="Hyatt Ziva Los Cabos all-inclusive family resort "/></a></figure>
-<!-- /wp:image -->
+#### **[Riu Palace Cabo San Lucas](/go/riu-palace-cabo-san-lucas/)**
 
-<!-- wp:heading {"level":4} -->
-<h4 id="medieval-times"><strong><a href="/go/hyatt-ziva-los-cabos/" linkid="15772">Hyatt Ziva Los Cabos</a></strong></h4>
-<!-- /wp:heading -->
+*Camino Viejo a San José Km. 4.5, El Medano Ejidal, Cabo San Lucas, BCS 23453*
 
-<!-- wp:paragraph -->
-<p><em> Paseo Malecón SN L-5, San José del Cabo, BCS 23405</em> </p>
-<!-- /wp:paragraph -->
+All-inclusive&nbsp; -&nbsp; Kids Club&nbsp; -&nbsp; Beach Club&nbsp; -&nbsp; Free Wifi&nbsp; -&nbsp; 2 Fitness Center&nbsp; -&nbsp; Spa&nbsp; -&nbsp; Airport Shuttle&nbsp; - 6 Restaurants&nbsp; -&nbsp; 5 Pools&nbsp; -&nbsp; Vegan Friendly&nbsp; -&nbsp; Riu Pool Party&nbsp; -&nbsp; Swim-up Suites&nbsp; -&nbsp; Scuba Diving Lesson
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">All-inclusive&nbsp; -&nbsp; Kids Club&nbsp; -&nbsp; Free Wifi&nbsp; -&nbsp; Fitness Center&nbsp; -&nbsp; 7 Onsite Restaurants&nbsp; -&nbsp; Pools&nbsp; -&nbsp; Vegan Friendly&nbsp; -&nbsp; Free Parking&nbsp; -&nbsp; Spa&nbsp; -&nbsp; Swim Up Suites&nbsp; -&nbsp; Nightly Entertainment</p>
-<!-- /wp:paragraph -->
+Just like Riu Santa Fe, Riu Palace offers the same amenities with some extras. The whole family will still get to enjoy daily and nightly entertainment, theme parties and the Splash Water World waterpark. There is Riuland kids’ club with a very fun entertainment program just for kids and adults can enjoy Pacha night club and Riu Pool Parties. There are two heated pools, a paddling pool, and two pools with swim-up bars. Buffets are offered throughout the day with special themed buffets three times a week. In addition, there are 5 themed restaurants, including Indian, Japanese and steakhouse.&nbsp;
 
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">All you can eat. All you can drink. All you can do. All included in your room rate. That is what the Hyatt wants you to know to expect when you book a fun all-inclusive family vacation to Cabo. The day will be spent partaking in daily activities around the resort, like learning a new language, taking a dance class or competing in the Juegos Olimpicos (olympic games). For those of you who love to be active, there is a fully equipped gym, basketball, volleyball, and tennis&nbsp;courts. There are also several pools, including an infinity pool and a KidZ pool with mini waterpark, 5 slides and 2 water dump buckets. Parents, you will love the swim up bar for a nice refreshing poolside cocktail.&nbsp;</p>
-<!-- /wp:paragraph -->
+Some different offerings include adult-only swim-up suites, RiuFit program, additional bars and food selections and sporting courts. At Riu Palace there are two gyms and two floodlit hard surface tennis and volleyball courts. The RiuFit program offers more fitness activities and sport lessons, including diving lessons. Finally, there are 7 bars at this resort and a new patisserie and ice cream parlor, called Capuchino. Sounds like a great time!
 
-<!-- wp:paragraph -->
-<p>More for the kids to enjoy is the KidZ Club that is loaded with fun games, arts and crafts, and a play area outside with a jungle gym, playground, mini cars, and bikes. Throughout the day and evening the whole family will be indulged in delicious food and drink. There are 7 onsite restaurants to suit all tastes, including a fun Japanese teppanyaki grill and sushi restaurant. At night the family can gather for nightly live entertainment. There is a different signature show every night, including magic shows, tropical dance shows and live music. From sunup to sundown, you and your family will be having a blast.&nbsp;</p>
-<!-- /wp:paragraph -->
+[See photos, reviews &amp; more](/go/riu-palace-cabo-san-lucas/)
 
-<!-- wp:paragraph {"align":"right"} -->
-<p class="has-text-align-right"><a href="/go/hyatt-ziva-los-cabos/" linkid="15772">See photos, reviews &amp; more</a></p>
-<!-- /wp:paragraph -->
+</div></section>
 
-<!-- wp:paragraph -->
+<div class="wp-block-uagb-advanced-heading uagb-block-20741ed4">
 
-<!-- /wp:paragraph --></div></section>
-<!-- /wp:uagb/section -->
+## That's A Wrap!
 
-<!-- wp:uagb/section {"classMigrate":true,"block_id":"9c54f5bb","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderStyle":"none"} -->
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9c54f5bb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":15762,"sizeSlug":"full","linkDestination":"media"} -->
-<figure id="riu-santa-fe-cabo-all-inclusive-family-resort"><a href="/wp-content/uploads/2022/04/riu-santa-fe-cabo-all-inclusive-family-resort.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/04/riu-santa-fe-cabo-all-inclusive-family-resort.jpg" alt="" class="wp-image-15762" title="All-inclusive family resort in Cabo, Riu Santa Fe"/></a></figure>
-<!-- /wp:image -->
+<div class="uagb-separator"></div></div>
 
-<!-- wp:heading {"level":4} -->
-<h4 id="medieval-times"><strong><a href="/go/riu-santa-fe-cabo-san-lucas/" linkid="15773">Riu Santa Fe</a></strong></h4>
-<!-- /wp:heading -->
+If that doesn’t scream ultimate family vacation, I don’t know what does! When you stay at any of the options listed above, you are sure to have an amazing time. Just think, it is all included with your room rate!&nbsp;
 
-<!-- wp:paragraph -->
-<p><em> Camino Viejo a San José, Tourist Corridor, El Medano, Cabo San Lucas, BCS 23453</em> </p>
-<!-- /wp:paragraph -->
+As a travel agent, I do have special access to deals and promotions at all the Cabo San Lucas all-inclusive family resorts. If you would like me to help book your family a trip they won’t forget, [contact me](https://tap7.myagentgenie.com/hotmamatravel/contact/)today!
 
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">All-inclusive&nbsp; -&nbsp; Kids Club&nbsp; -&nbsp; Riu Pool Parties&nbsp; -&nbsp; Free Wifi&nbsp; -&nbsp; Fitness Center&nbsp; -&nbsp; Spa&nbsp; -&nbsp; 6 Onsite Restaurants&nbsp; -&nbsp; 7 Pools&nbsp; -&nbsp; Free Parking&nbsp; -&nbsp; Airport Shuttle&nbsp; -&nbsp; Waterpark&nbsp; -&nbsp; Scuba Diving Lessons</p>
-<!-- /wp:paragraph -->
+For more all-inclusive family-friendly resorts, explore our other destinations!
 
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Spend the day cooling off at one the private beaches or at one of the 7 resort swimming pools, including a children's pool, complete with waterslides and Splash Water World waterpark. Parents, you will be happy to know that several of the pools offer a swim-up bar. Also by the pool, you can take one free scuba diving lesson. Kids, ages 4 to 12, will love RiuLand, the kids’ club that offers a special entertainment program to ensure that the kids have an amazing vacation. The whole family will love all the daily activities, entertainment and sports offered throughout the day.</p>
-<!-- /wp:paragraph -->
+- [All-Inclusive Family Resorts Cancun](/all-inclusive-family-resorts-cancun/)
 
-<!-- wp:paragraph -->
-<p>All that fun will surely work up an appetite, so take advantage of the buffets offered at breakfast, lunch and dinner or try a meal at one of the 5 themed restaurants. Then get ready to party the night away with discos, themed parties and live shows. As a guest at the resort you get entry and drinks at Pacha the resort night club. The popular Riu Pool Parties are for adults only and have a different theme every time. All the generations of this family Cabo vacation is sure to have a great time.&nbsp;</p>
-<!-- /wp:paragraph -->
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3aa19d7a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 
-<!-- wp:paragraph -->
+**Like it? Pin it!**
 
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"align":"right"} -->
-<p class="has-text-align-right"><a href="/go/riu-santa-fe-cabo-san-lucas/" linkid="15773">See photos, reviews &amp; more</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-<!-- /wp:paragraph --></div></section>
-<!-- /wp:uagb/section -->
-
-<!-- wp:uagb/section {"classMigrate":true,"block_id":"c9bf95f7","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderStyle":"none"} -->
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c9bf95f7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":15763,"sizeSlug":"full","linkDestination":"media"} -->
-<figure id="riu-palace-cabo-san-lucas-all-inclusive-family-resort"><a href="/wp-content/uploads/2022/04/riu-palace-cabo-san-lucas-all-inclusive-family-resort.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/04/riu-palace-cabo-san-lucas-all-inclusive-family-resort.jpg" alt="" class="wp-image-15763" title="riu palace cabo san lucas family all-inclusive resort"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":4} -->
-<h4 id="medieval-times"><strong><a href="/go/riu-palace-cabo-san-lucas/" linkid="15774">Riu Palace Cabo San Lucas</a></strong></h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p><em>Camino Viejo a San José Km. 4.5, El Medano Ejidal, Cabo San Lucas, BCS 23453</em></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">All-inclusive&nbsp; -&nbsp; Kids Club&nbsp; -&nbsp; Beach Club&nbsp; -&nbsp; Free Wifi&nbsp; -&nbsp; 2 Fitness Center&nbsp; -&nbsp; Spa&nbsp; -&nbsp; Airport Shuttle&nbsp; - 6 Restaurants&nbsp; -&nbsp; 5 Pools&nbsp; -&nbsp; Vegan Friendly&nbsp; -&nbsp; Riu Pool Party&nbsp; -&nbsp; Swim-up Suites&nbsp; -&nbsp; Scuba Diving Lesson</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Just like Riu Santa Fe, Riu Palace offers the same amenities with some extras. The whole family will still get to enjoy daily and nightly entertainment, theme parties and the Splash Water World waterpark. There is Riuland kids’ club with a very fun entertainment program just for kids and adults can enjoy Pacha night club and Riu Pool Parties. There are two heated pools, a paddling pool, and two pools with swim-up bars. Buffets are offered throughout the day with special themed buffets three times a week. In addition, there are 5 themed restaurants, including Indian, Japanese and steakhouse.&nbsp;</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Some different offerings include adult-only swim-up suites, RiuFit program, additional bars and food selections and sporting courts. At Riu Palace there are two gyms and two floodlit hard surface tennis and volleyball courts. The RiuFit program offers more fitness activities and sport lessons, including diving lessons. Finally, there are 7 bars at this resort and a new patisserie and ice cream parlor, called Capuchino. Sounds like a great time!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"align":"right"} -->
-<p class="has-text-align-right"><a href="/go/riu-palace-cabo-san-lucas/" linkid="15774">See photos, reviews &amp; more</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-
-<!-- /wp:paragraph --></div></section>
-<!-- /wp:uagb/section -->
-
-<!-- wp:uagb/advanced-heading {"block_id":"20741ed4","classMigrate":true,"separatorColor":"#fa0d0d","seperatorStyle":"solid","separatorHeight":7,"separatorWidth":20,"subHeadFontFamily":""} -->
-<div class="wp-block-uagb-advanced-heading uagb-block-20741ed4"><h2 class="uagb-heading-text">That's A Wrap!</h2><div class="uagb-separator"></div></div>
-<!-- /wp:uagb/advanced-heading -->
-
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">If that doesn’t scream ultimate family vacation, I don’t know what does! When you stay at any of the options listed above, you are sure to have an amazing time. Just think, it is all included with your room rate!&nbsp;</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>As a travel agent, I do have special access to deals and promotions at all the Cabo San Lucas all-inclusive family resorts. If you would like me to help book your family a trip they won’t forget, <a href="https://tap7.myagentgenie.com/hotmamatravel/contact/" target="_blank" rel="noreferrer noopener nofollow">contact me </a>today!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>For more all-inclusive family-friendly resorts, explore our other destinations!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><!-- wp:list-item -->
-<li><a href="/all-inclusive-family-resorts-cancun/" target="_blank" rel="noreferrer noopener">All-Inclusive Family Resorts Cancun</a></li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:uagb/section {"classMigrate":true,"block_id":"3aa19d7a","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderStyle":"none"} -->
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3aa19d7a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:paragraph {"textColor":"vivid-red","fontSize":"large"} -->
-<p class="has-vivid-red-color has-text-color has-large-font-size"><strong>Like it? Pin it!</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":15765,"sizeSlug":"medium","linkDestination":"media","align":"left"} -->
-<figure id="8-Awesome-Cabo-San-Lucas-All-Inclusive-Family-Resorts"><a href="/images/2022/04/Cabo-All-Inclusive-Family-Resorts.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/04/Cabo-All-Inclusive-Family-Resorts-200x300.jpg" alt="" class="wp-image-15765" title="8 Awesome Cabo San Lucas All-Inclusive Family Resorts -HotMamaTravel"/></a></figure>
-<!-- /wp:image --></div></section>
-<!-- /wp:uagb/section -->
+<figure id="8-Awesome-Cabo-San-Lucas-All-Inclusive-Family-Resorts">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/Cabo-All-Inclusive-Family-Resorts-200x300.jpg)](/images/2022/04/Cabo-All-Inclusive-Family-Resorts.jpg)</figure>
+</div></section>

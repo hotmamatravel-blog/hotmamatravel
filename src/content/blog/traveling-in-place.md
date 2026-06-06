@@ -12,26 +12,41 @@ wpSlug: "traveling-in-place"
 author: "Amanda Keeley-Thurman"
 ---
 
-<span style="color: #000000;">It is no wonder I have a nomadic spirit. Growing up, there was always a new adventure around the corner; somewhere to go, something to see. My family didn’t necessarily travel to far and exotic places (mostly due to my mama’s extreme fear of flying), but we had plenty of fun road trips and weekend getaways. Even on the rare occasion that we weren’t traveling, we were surrounded by the excitement of travel. My parents taught me the skill of Traveling in Place!</span>
-<h2>Airports</h2>
-<span style="color: #000000;">When I was a child, long before airport security is what it is today, my parents would take us to the airport for dinner. Yes, the airport. As a kid I didn’t realized just how brilliant they were. All I knew was that I was entertained by watching the planes take off and land, while daydreaming about the places I would go someday.</span>
+It is no wonder I have a nomadic spirit. Growing up, there was always a new adventure around the corner; somewhere to go, something to see. My family didn’t necessarily travel to far and exotic places (mostly due to my mama’s extreme fear of flying), but we had plenty of fun road trips and weekend getaways. Even on the rare occasion that we weren’t traveling, we were surrounded by the excitement of travel. My parents taught me the skill of Traveling in Place!
 
-<a href="/traveling-in-place/"><img class="aligncenter wp-image-342" title="kids at airport" src="https://hotmamatravel.com/wp-content/uploads/2014/03/DSCN9369-1024x683.jpg" alt="kids at airport" width="640" height="427" /></a>
-<h2>Ship Ports</h2>
-<span style="color: #000000;">They would even take us to lunch at the local ship ports to watch the cruise ships that were docked. It was all so exciting as a child and judging by the giant grins on my parent’s faces, it was exciting for them too. Dining on the patio of a seaside restaurant, my niece and I would wave to the passengers as their cruise departed from the port. It was awe inspiring, thrilling and exhilarating to be so close to these amazing vessels.</span>
+## Airports
 
-<a href="/traveling-in-place/" rel="attachment wp-att-3880"><img class="aligncenter wp-image-3880" title="queen mary long beach ship" src="https://hotmamatravel.com/wp-content/uploads/2014/03/IMG_4600-1024x765.jpg" alt="queen mary long beach ship" width="640" height="478" /></a>
-<h2>Train Stations</h2>
-<span style="color: #000000;">Now, I’m a mama and the tradition lives on. Perplexed expressions are common when I tell people of <strong>my favorite happy hour venue;</strong> the train station. Yep, the train station has happy hour and we go fairly often. It sounds strange, but it is really enjoyable. With decent beers on tap and a quaint patio on the railway to sip them on, who wouldn’t love it? </span>
 
-<span style="color: #000000;">Everyone wins; this HotMama gets to enjoy a nice cold one, while the kids are happy to watch the trains come through the station as busy commuters scurry about. The trains are big, loud and fast; perfect for capturing the attention of my children just long enough to have an uninterrupted conversation with HotDaddy.</span>
+When I was a child, long before airport security is what it is today, my parents would take us to the airport for dinner. Yes, the airport. As a kid I didn’t realized just how brilliant they were. All I knew was that I was entertained by watching the planes take off and land, while daydreaming about the places I would go someday.
 
-<a href="/traveling-in-place/"><img class="aligncenter wp-image-344" title="kids in stroller at train station" src="https://hotmamatravel.com/wp-content/uploads/2014/03/DSCN6882-1024x768.jpg" alt="kids in stroller at train station" width="640" height="480" /></a>
-<h2>Hotel Lobbies</h2>
-<span style="color: #000000;">Another great way to feel like you are on vacation, without having to leave town (traveling in place) is hanging out a the local hotels. Hotels have a certain smell that immediately excites the senses. I love to grab a drink in the lobby, take a deep breath and let all the stress melt away, as if I were really on vacation. Many hotels allow you to use their pools for a small fee, which is great for taking the kids out for the day and still feeling like you are doing something more grand.</span>
+[![kids at airport](https://hotmamatravel.com/wp-content/uploads/2014/03/DSCN9369-1024x683.jpg)](/traveling-in-place/)
 
-<a href="/traveling-in-place/" rel="attachment wp-att-3881"><img class="aligncenter wp-image-3881" title="hotel lobby" src="https://hotmamatravel.com/wp-content/uploads/2014/03/DSCN9266-768x1024.jpg" alt="hotel lobby" width="640" height="853" /></a>
-<h2>That's A Wrap!</h2>
-<span style="color: #000000;">Even when money is tight and schedules are hectic, travel is never too far out of reach. Visiting ports, stations and hotels is an easy and exciting way to satisfy the restless travel bug without leaving your hometown. Also, eating global <span style="color: #ff0000;"><a style="color: #ff0000;" href="/developing-kids-global-palate/"><strong>cuisine </strong></a></span>and </span>cocktails <span style="color: #000000;">or attending local cultural events are great for Traveling in place. Rejuvenate the spirit and expose your kids to the possibilities, no travel needed.</span>
+## Ship Ports
 
-<span style="color: #000000;"><strong>What are your favorite stayaction activities?</strong></span>
+
+They would even take us to lunch at the local ship ports to watch the cruise ships that were docked. It was all so exciting as a child and judging by the giant grins on my parent’s faces, it was exciting for them too. Dining on the patio of a seaside restaurant, my niece and I would wave to the passengers as their cruise departed from the port. It was awe inspiring, thrilling and exhilarating to be so close to these amazing vessels.
+
+[![queen mary long beach ship](https://hotmamatravel.com/wp-content/uploads/2014/03/IMG_4600-1024x765.jpg)](/traveling-in-place/)
+
+## Train Stations
+
+
+Now, I’m a mama and the tradition lives on. Perplexed expressions are common when I tell people of **my favorite happy hour venue;** the train station. Yep, the train station has happy hour and we go fairly often. It sounds strange, but it is really enjoyable. With decent beers on tap and a quaint patio on the railway to sip them on, who wouldn’t love it?
+
+Everyone wins; this HotMama gets to enjoy a nice cold one, while the kids are happy to watch the trains come through the station as busy commuters scurry about. The trains are big, loud and fast; perfect for capturing the attention of my children just long enough to have an uninterrupted conversation with HotDaddy.
+
+[![kids in stroller at train station](https://hotmamatravel.com/wp-content/uploads/2014/03/DSCN6882-1024x768.jpg)](/traveling-in-place/)
+
+## Hotel Lobbies
+
+
+Another great way to feel like you are on vacation, without having to leave town (traveling in place) is hanging out a the local hotels. Hotels have a certain smell that immediately excites the senses. I love to grab a drink in the lobby, take a deep breath and let all the stress melt away, as if I were really on vacation. Many hotels allow you to use their pools for a small fee, which is great for taking the kids out for the day and still feeling like you are doing something more grand.
+
+[![hotel lobby](https://hotmamatravel.com/wp-content/uploads/2014/03/DSCN9266-768x1024.jpg)](/traveling-in-place/)
+
+## That's A Wrap!
+
+
+Even when money is tight and schedules are hectic, travel is never too far out of reach. Visiting ports, stations and hotels is an easy and exciting way to satisfy the restless travel bug without leaving your hometown. Also, eating global [**cuisine **](/developing-kids-global-palate/)and cocktails or attending local cultural events are great for Traveling in place. Rejuvenate the spirit and expose your kids to the possibilities, no travel needed.
+
+**What are your favorite stayaction activities?**

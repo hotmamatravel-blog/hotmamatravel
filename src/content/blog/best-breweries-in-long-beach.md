@@ -12,522 +12,522 @@ wpSlug: "best-breweries-in-long-beach"
 author: "Amanda Keeley-Thurman"
 ---
 
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Long Beach, California, is not only known for its stunning coastline and vibrant community but also for its flourishing craft beer scene. Whether you're a beer enthusiast, a family looking for a weekend outing, or someone searching for a pet-friendly spot, Long Beach has a variety of breweries that cater to everyone. Here, we've curated a detailed list of the best Long Beach breweries that are family-friendly with live music, events, and delicious offerings that make them must-visit destinations.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:block {"ref":12046} /-->
-
-<!-- wp:ugb/heading {"showSubtitle":false,"showBottomLine":true,"bottomLineColor":"#f10e0e","uniqueClass":"ugb-31045dd","contentAlign":"center"} -->
-<div class="wp-block-ugb-heading ugb-heading ugb-31045dd ugb-main-block"><style>.ugb-31045dd .ugb-heading__title{text-align:center}.ugb-31045dd .ugb-heading__bottom-line{background-color:#f10e0e !important;margin-left:auto !important;margin-right:auto !important}.ugb-31045dd .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><h2 class="ugb-heading__title">Family-Friendly Breweries in Long Beach</h2><div class="ugb-heading__bottom-line"></div></div></div></div>
-<!-- /wp:ugb/heading -->
-
-<!-- wp:uagb/image {"block_id":"0fe6268d","url":"https://hotmamatravel.com/wp-content/uploads/2024/01/long-beach-beer-lab-best-breweries-in-long-beach.jpg","urlTablet":"https://hotmamatravel.com/wp-content/uploads/2024/01/long-beach-beer-lab-best-breweries-in-long-beach.jpg","urlMobile":"https://hotmamatravel.com/wp-content/uploads/2024/01/long-beach-beer-lab-best-breweries-in-long-beach.jpg","alt":"Family-Friendly Long Beach Beer Labs Brewery Long Beach ","enableCaption":true,"caption":"Courtesy of Long Beach Beer Lab","id":19760,"href":"https://hotmamatravel.com/wp-content/uploads/2024/01/long-beach-beer-lab-best-breweries-in-long-beach.jpg","linkDestination":"media","naturalWidth":930,"naturalHeight":520,"sizeSlug":"full","sizeSlugTablet":"full","sizeSlugMobile":"full"} -->
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="long-beach-beer-lab-best-breweries-in-long-beach"><figure><a class="" href="/wp-content/uploads/2024/01/long-beach-beer-lab-best-breweries-in-long-beach.jpg" target="" rel="noopener"><img srcset="https://hotmamatravel.com/wp-content/uploads/2024/01/long-beach-beer-lab-best-breweries-in-long-beach.jpg ,https://hotmamatravel.com/wp-content/uploads/2024/01/long-beach-beer-lab-best-breweries-in-long-beach.jpg 780w, https://hotmamatravel.com/wp-content/uploads/2024/01/long-beach-beer-lab-best-breweries-in-long-beach.jpg 360w" sizes="(max-width: 480px) 150px" src="https://hotmamatravel.com/wp-content/uploads/2024/01/long-beach-beer-lab-best-breweries-in-long-beach.jpg" alt="Family-Friendly Long Beach Beer Labs Brewery Long Beach " class="uag-image-19760" width="930" height="520" title="" loading="lazy"/></a><figcaption class="uagb-image-caption">Courtesy of Long Beach Beer Lab</figcaption></figure></div>
-<!-- /wp:uagb/image -->
-
-<!-- wp:uagb/advanced-heading {"block_id":"42a30e40","classMigrate":true,"headingAlign":"left","subHeadingColor":"","headingTag":"h3","subHeadFontStyle":"italic"} -->
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40"><h3 class="uagb-heading-text"><a href="/go/long-beach-beer-lab-long-beach/" linkid="19759">Long Beach Beer Lab (Wrigley)</a></h3><p class="uagb-desc-text">518 W Willow St, Long Beach, CA 90806</p></div>
-<!-- /wp:uagb/advanced-heading -->
-
-<!-- wp:uagb/faq {"block_id":"40eb07e8","borderStyle":"","borderWidth":"","borderRadius":"","borderColor":"","schema":"{\u0022@context\u0022:\u0022https://schema.org\u0022,\u0022@type\u0022:\u0022FAQPage\u0022,\u0022@id\u0022:\u0022https://hotmamatravel.com/best-breweries-in-long-beach/\u0022,\u0022mainEntity\u0022:[{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003e Is Long Beach Beer Lab family-friendly?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Long Beach Beer Lab allows kids.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eIs Long Beach Beer Lab dog-friendly?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Long Beach Beer Lab is dog-friendly.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003e Does Long Beach Beer Lab have Live Music?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Long Beach Beer Labs does have live performances and live DJs too. \u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Long Beach Beer Lab host events?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Long Beach Beer Lab hosts a number exciting events, like paint and sip nights and trivia nights. \u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Long Beach Beer Labs have food?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Long Beach Beer Lab has a bakery and café with a variety of exciting food options.\u0022}}]}","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderTopLeftRadius":2,"overallBorderTopRightRadius":2,"overallBorderBottomLeftRadius":2,"overallBorderBottomRightRadius":2,"overallBorderStyle":"solid","overallBorderColor":"#D2D2D2"} -->
-<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-40eb07e8 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist"><!-- wp:uagb/faq-child {"block_id":"8806a4e9","question":"\u003cstrong\u003e Is Long Beach Beer Lab family-friendly?\u003c/strong\u003e","answer":"Yes, Long Beach Beer Lab allows kids."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8806a4e9" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong> Is Long Beach Beer Lab family-friendly?</strong></span></div><div class="uagb-faq-content"><p>Yes, Long Beach Beer Lab allows kids.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"1610c187","question":"\u003cstrong\u003eIs Long Beach Beer Lab dog-friendly?\u003c/strong\u003e","answer":"Yes, Long Beach Beer Lab is dog-friendly."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-1610c187" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Is Long Beach Beer Lab dog-friendly?</strong></span></div><div class="uagb-faq-content"><p>Yes, Long Beach Beer Lab is dog-friendly.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"7df0d9b1","question":"\u003cstrong\u003e Does Long Beach Beer Lab have Live Music?\u003c/strong\u003e","answer":"Yes, Long Beach Beer Labs does have live performances and live DJs too. "} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-7df0d9b1" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong> Does Long Beach Beer Lab have Live Music?</strong></span></div><div class="uagb-faq-content"><p>Yes, Long Beach Beer Labs does have live performances and live DJs too. </p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"b739d160","question":"\u003cstrong\u003eDoes Long Beach Beer Lab host events?\u003c/strong\u003e","answer":"Yes, Long Beach Beer Lab hosts a number exciting events, like paint and sip nights and trivia nights. "} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b739d160" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Long Beach Beer Lab host events?</strong></span></div><div class="uagb-faq-content"><p>Yes, Long Beach Beer Lab hosts a number exciting events, like paint and sip nights and trivia nights. </p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"adce9af8","question":"\u003cstrong\u003eDoes Long Beach Beer Labs have food?\u003c/strong\u003e","answer":"Yes, Long Beach Beer Lab has a bakery and café with a variety of exciting food options."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-adce9af8" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Long Beach Beer Labs have food?</strong></span></div><div class="uagb-faq-content"><p>Yes, Long Beach Beer Lab has a bakery and café with a variety of exciting food options.</p></div></div>
-<!-- /wp:uagb/faq-child --></div>
-<!-- /wp:uagb/faq -->
-
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Long Beach Beer Lab is recognized for its commitment to innovation in brewing. They often experiment with different ingredients, brewing techniques, and styles to create unique and flavorful beers. This focus on experimentation sets them apart in the craft beer scene. The microbrewery is known for its experimental and small-batch approach, creating a lineup of beers that are as diverse as the Long Beach community. From hop-forward IPAs to rich stouts, each brew is a testament to their craft and a unique journey for your taste buds.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://www.lbbeer.com/" target="_blank" rel="noreferrer noopener">Long Beach Beer Lab</a> warmly welcomes families, creating an atmosphere where beer enthusiasts of all ages can gather. The laid-back ambiance and spacious setting make it an ideal spot for a casual outing with loved ones. Kids and adults alike will love the arcade-style games, like pinball. So, bring the kids, share some laughs, and savor the spirit of Long Beach with a pint in hand.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>For those whose furry friends are an essential part of the family, Long Beach Beer Labs extends a friendly paw. The microbrewery is dog-friendly, allowing you to enjoy your brews in the company of your canine companion. It's a place where wagging tails and craft beer unite, adding an extra layer of joy to your visit. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>However, if you don't want to bring your doggie to the brewery or your visit in L.A extends beyond just a day out, finding exceptional <a href="https://www.ipetguides.com/best-dog-training-in-los-angeles-ca/" target="_blank" rel="noreferrer noopener">dog boarding in CA</a> is crucial.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Long Beach Beer Lab an onsite bakery and café with a variety of exciting menu items. They are known for their house-made sourdough bread, but the offer a wide-selection of pizzas, sandwiches, and salads. Full menu is served Friday through Sunday.  </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Long Beach Beer Labs often transforms into a live music venue, turning your visit into a harmonious experience. The eclectic sounds of local musicians provide the perfect backdrop for enjoying your favorite beer. Beyond the regular brews, Long Beach Beer Labs hosts events that elevate your brewery experience. From themed parties to special releases, there's always something happening at this Wrigley gem.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"align":"right"} -->
-<p class="has-text-align-right"><strong><a href="/go/long-beach-beer-lab-long-beach/" linkid="19759">See Photos, Reviews, &amp; More</a></strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:uagb/image {"block_id":"1ffdb7b3","url":"https://hotmamatravel.com/wp-content/uploads/2024/01/ballast-point-brewing-best-breweries-in-long-beach.jpg","urlTablet":"https://hotmamatravel.com/wp-content/uploads/2024/01/ballast-point-brewing-best-breweries-in-long-beach.jpg","urlMobile":"https://hotmamatravel.com/wp-content/uploads/2024/01/ballast-point-brewing-best-breweries-in-long-beach.jpg","alt":"Kid-Friendly Ballast Point Brewing Long Beach ","enableCaption":true,"caption":"Courtesy of Ballast Point Brewing Company","id":19762,"href":"https://hotmamatravel.com/wp-content/uploads/2024/01/ballast-point-brewing-best-breweries-in-long-beach.jpg","linkDestination":"media","naturalWidth":930,"naturalHeight":520,"sizeSlug":"full","sizeSlugTablet":"full","sizeSlugMobile":"full"} -->
-<div class="wp-block-uagb-image uagb-block-1ffdb7b3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="ballast-point-brewing-best-breweries-in-long-beach"><figure><a class="" href="/wp-content/uploads/2024/01/ballast-point-brewing-best-breweries-in-long-beach.jpg" target="" rel="noopener"><img srcset="https://hotmamatravel.com/wp-content/uploads/2024/01/ballast-point-brewing-best-breweries-in-long-beach.jpg ,https://hotmamatravel.com/wp-content/uploads/2024/01/ballast-point-brewing-best-breweries-in-long-beach.jpg 780w, https://hotmamatravel.com/wp-content/uploads/2024/01/ballast-point-brewing-best-breweries-in-long-beach.jpg 360w" sizes="(max-width: 480px) 150px" src="https://hotmamatravel.com/wp-content/uploads/2024/01/ballast-point-brewing-best-breweries-in-long-beach.jpg" alt="Kid-Friendly Ballast Point Brewing Long Beach " class="uag-image-19762" width="930" height="520" title="" loading="lazy"/></a><figcaption class="uagb-image-caption">Courtesy of Ballast Point Brewing Company</figcaption></figure></div>
-<!-- /wp:uagb/image -->
-
-<!-- wp:uagb/advanced-heading {"block_id":"ec623ea4","classMigrate":true,"headingAlign":"left","subHeadingColor":"","headingTag":"h3","subHeadFontStyle":"italic"} -->
-<div class="wp-block-uagb-advanced-heading uagb-block-ec623ea4"><h3 class="uagb-heading-text"><a href="/go/ballest-point-brewing-long-beach/" linkid="19753">Ballast Point Brewing Company</a></h3><p class="uagb-desc-text">110 N Marina Dr, Long Beach, CA 90803</p></div>
-<!-- /wp:uagb/advanced-heading -->
-
-<!-- wp:uagb/faq {"block_id":"6279d8b3","borderStyle":"","borderWidth":"","borderRadius":"","borderColor":"","schema":"{\u0022@context\u0022:\u0022https://schema.org\u0022,\u0022@type\u0022:\u0022FAQPage\u0022,\u0022@id\u0022:\u0022https://hotmamatravel.com/best-breweries-in-long-beach/\u0022,\u0022mainEntity\u0022:[{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eIs Ballast Point Brewing Company family-friendly?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, guests of all ages are welcomed at Ballast Point Brewing Company.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eIs Ballast Point Brewing Company Dog-Friendly?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, you can have your dogs on the patio at this Ballast Point location.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Ballast Point Brewing Company have live Music?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Ballast Point Brewing Company has live music on select days.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Ballast Point host events?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022While they don't curate their own events, they do offer private events. \u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Ballast Point Brewing Company offer food?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Ballast Point is a full restaurant in addition to a brewery with a wide selection of menu items. \u0022}}]}","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderTopLeftRadius":2,"overallBorderTopRightRadius":2,"overallBorderBottomLeftRadius":2,"overallBorderBottomRightRadius":2,"overallBorderStyle":"solid","overallBorderColor":"#D2D2D2"} -->
-<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-6279d8b3 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist"><!-- wp:uagb/faq-child {"block_id":"cfcb5ef4","question":"\u003cstrong\u003eIs Ballast Point Brewing Company family-friendly?\u003c/strong\u003e","answer":"Yes, guests of all ages are welcomed at Ballast Point Brewing Company."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-cfcb5ef4" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Is Ballast Point Brewing Company family-friendly?</strong></span></div><div class="uagb-faq-content"><p>Yes, guests of all ages are welcomed at Ballast Point Brewing Company.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"12a07a3f","question":"\u003cstrong\u003eIs Ballast Point Brewing Company Dog-Friendly?\u003c/strong\u003e","answer":"Yes, you can have your dogs on the patio at this Ballast Point location."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-12a07a3f" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Is Ballast Point Brewing Company Dog-Friendly?</strong></span></div><div class="uagb-faq-content"><p>Yes, you can have your dogs on the patio at this Ballast Point location.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"b6ddad35","question":"\u003cstrong\u003eDoes Ballast Point Brewing Company have live Music?\u003c/strong\u003e","answer":"Yes, Ballast Point Brewing Company has live music on select days."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b6ddad35" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Ballast Point Brewing Company have live Music?</strong></span></div><div class="uagb-faq-content"><p>Yes, Ballast Point Brewing Company has live music on select days.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"7a18fe97","question":"\u003cstrong\u003eDoes Ballast Point host events?\u003c/strong\u003e","answer":"While they don't curate their own events, they do offer private events. "} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-7a18fe97" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Ballast Point host events?</strong></span></div><div class="uagb-faq-content"><p>While they don't curate their own events, they do offer private events. </p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"aca8fc5f","question":"\u003cstrong\u003eDoes Ballast Point Brewing Company offer food?\u003c/strong\u003e","answer":"Yes, Ballast Point is a full restaurant in addition to a brewery with a wide selection of menu items. "} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-aca8fc5f" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Ballast Point Brewing Company offer food?</strong></span></div><div class="uagb-faq-content"><p>Yes, Ballast Point is a full restaurant in addition to a brewery with a wide selection of menu items. </p></div></div>
-<!-- /wp:uagb/faq-child --></div>
-<!-- /wp:uagb/faq -->
-
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Overlooking Alamitos Bay, <a href="https://ballastpoint.com/location/longbeach/" target="_blank" rel="noreferrer noopener">Ballast Point Brewing Company</a> is a waterfront gem offering not just great beer but also a family-friendly experience with a scenic view of the ocean. The expansive outdoor patio, complete with firepits, is perfect for families, providing a spacious setting for kids to play and adults to unwind. The brewery often hosts live music events, creating a lively atmosphere for all visitors. Ballast Point's beer menu is extensive, featuring over 60 beers on tap, everything from crisp lagers to robust stouts. Be sure to explore their innovative and experimental offerings. Pair your beer with a delicious meal from their on-site kitchen, and enjoy their weekday specials, like Burger Monday, Taco Tuesday, and Steak Wednesday. These menu items are designed to complement their diverse beer selection. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"align":"right"} -->
-<p class="has-text-align-right"><strong><a href="/go/ballest-point-brewing-long-beach/" linkid="19753">See Photos, Reviews, &amp; More</a></strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"align":"center","id":19772,"sizeSlug":"full","linkDestination":"media"} -->
-<figure id="beachwood-blendery-best-breweries-in-long-beach"><a href="/wp-content/uploads/2024/01/beachwood-blendery-best-breweries-in-long-beach.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/beachwood-blendery-best-breweries-in-long-beach.jpg" alt="" class="wp-image-19772" title="Family-friendly Long Beach brewery Beachwood Blendery"/></a><figcaption class="wp-element-caption">Courtesy of Beachwood Blendery</figcaption></figure>
-<!-- /wp:image -->
-
-<!-- wp:uagb/advanced-heading {"block_id":"87a63820","classMigrate":true,"headingAlign":"left","subHeadingColor":"","headingTag":"h3","subHeadFontStyle":"italic"} -->
-<div class="wp-block-uagb-advanced-heading uagb-block-87a63820"><h3 class="uagb-heading-text">Beachwood Blendery</h3><p class="uagb-desc-text">247 Long Beach Blvd, Long Beach, CA 90802</p></div>
-<!-- /wp:uagb/advanced-heading -->
-
-<!-- wp:uagb/faq {"block_id":"ea3e8cab","borderStyle":"","borderWidth":"","borderRadius":"","borderColor":"","schema":"{\u0022@context\u0022:\u0022https://schema.org\u0022,\u0022@type\u0022:\u0022FAQPage\u0022,\u0022@id\u0022:\u0022https://hotmamatravel.com/best-breweries-in-long-beach/\u0022,\u0022mainEntity\u0022:[{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eIs Beachwood Blendery family-friendly?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, kids are welcomed Beachwood Blendery in Long Beach. \u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eIs Beachwood Blendery dog-friendly?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, the cozy patio is dog-friendly.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Beachwood Blendery have live music?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Beachwood Blendery has live music performances during the evenings.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Beachwood Blendery host events?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Beachwood Blendery does hosts a variety of events, like paint nights and funk nights.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Beachwood Blendery have food?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Not, regularly. You are welcomed to bring your own food and on Tuesdays they have a food popup to mix things up.\u0022}}]}","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderTopLeftRadius":2,"overallBorderTopRightRadius":2,"overallBorderBottomLeftRadius":2,"overallBorderBottomRightRadius":2,"overallBorderStyle":"solid","overallBorderColor":"#D2D2D2"} -->
-<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-ea3e8cab uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist"><!-- wp:uagb/faq-child {"block_id":"ab6f2a0d","question":"\u003cstrong\u003eIs Beachwood Blendery family-friendly?\u003c/strong\u003e","answer":"Yes, kids are welcomed Beachwood Blendery in Long Beach. "} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-ab6f2a0d" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Is Beachwood Blendery family-friendly?</strong></span></div><div class="uagb-faq-content"><p>Yes, kids are welcomed Beachwood Blendery in Long Beach. </p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"c2fdf99c","question":"\u003cstrong\u003eIs Beachwood Blendery dog-friendly?\u003c/strong\u003e","answer":"Yes, the cozy patio is dog-friendly."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-c2fdf99c" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Is Beachwood Blendery dog-friendly?</strong></span></div><div class="uagb-faq-content"><p>Yes, the cozy patio is dog-friendly.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"a59748f9","question":"\u003cstrong\u003eDoes Beachwood Blendery have live music?\u003c/strong\u003e","answer":"Yes, Beachwood Blendery has live music performances during the evenings."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-a59748f9" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Beachwood Blendery have live music?</strong></span></div><div class="uagb-faq-content"><p>Yes, Beachwood Blendery has live music performances during the evenings.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"8da297e5","question":"\u003cstrong\u003eDoes Beachwood Blendery host events?\u003c/strong\u003e","answer":"Yes, Beachwood Blendery does hosts a variety of events, like paint nights and funk nights."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8da297e5" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Beachwood Blendery host events?</strong></span></div><div class="uagb-faq-content"><p>Yes, Beachwood Blendery does hosts a variety of events, like paint nights and funk nights.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"cd4b46f3","question":"\u003cstrong\u003eDoes Beachwood Blendery have food?\u003c/strong\u003e","answer":"Not, regularly. You are welcomed to bring your own food and on Tuesdays they have a food popup to mix things up."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-cd4b46f3" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Beachwood Blendery have food?</strong></span></div><div class="uagb-faq-content"><p>Not, regularly. You are welcomed to bring your own food and on Tuesdays they have a food popup to mix things up.</p></div></div>
-<!-- /wp:uagb/faq-child --></div>
-<!-- /wp:uagb/faq -->
-
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Nestled in the heart of downtown Long Beach, <a href="https://beachwoodbrewing.com/blendery.html" target="_blank" rel="noreferrer noopener">Beachwood Blendery</a> stands out as a craft beer haven with a unique twist. The brewery specializes in wild and sour ales, and Lambic-style Belgium brews, creating complex and flavorful blends that are sure to impress even the most discerning beer connoisseurs. Families will appreciate the spacious outdoor patio, complete with picnic tables and a relaxed atmosphere. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Bring your furry friends along, as the patio is dog-friendly. Beachwood Blendery frequently hosts live music events, enhancing the laid-back ambiance. They also host a variety of exciting events, like funk night, trivia nights, and paint and pints nights. Keep an eye out for their rotating food popup on Tuesdays, offering delectable bites that complement their diverse beer selection. You are also welcomed to bring your own food.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"align":"center","id":19773,"sizeSlug":"full","linkDestination":"media"} -->
-<figure id="beachwood-brewing-distilling-best-breweries-in-long-beach"><a href="/wp-content/uploads/2024/01/beachwood-brewing-distilling-best-breweries-in-long-beach.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/beachwood-brewing-distilling-best-breweries-in-long-beach.jpg" alt="" class="wp-image-19773" title="Live music at Beachwood Brewing &amp; Distilling in Long Beach"/></a><figcaption class="wp-element-caption">Courtesy of Beachwood Brewing &amp; Distilling</figcaption></figure>
-<!-- /wp:image -->
-
-<!-- wp:uagb/advanced-heading {"block_id":"6f40c2bd","classMigrate":true,"headingAlign":"left","subHeadingColor":"","headingTag":"h3","subHeadFontStyle":"italic"} -->
-<div class="wp-block-uagb-advanced-heading uagb-block-6f40c2bd"><h3 class="uagb-heading-text">Beachwood Brewing &amp; Distilling</h3><p class="uagb-desc-text">3630 Atlantic Ave., Long Beach, Ca 90807</p></div>
-<!-- /wp:uagb/advanced-heading -->
-
-<!-- wp:uagb/faq {"block_id":"19aa360b","borderStyle":"","borderWidth":"","borderRadius":"","borderColor":"","schema":"{\u0022@context\u0022:\u0022https://schema.org\u0022,\u0022@type\u0022:\u0022FAQPage\u0022,\u0022@id\u0022:\u0022https://hotmamatravel.com/best-breweries-in-long-beach/\u0022,\u0022mainEntity\u0022:[{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eIs Beachwood Brewing \u0026amp; Distilling family-friendly?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Beachwood Brewing \u0026amp; Distilling is kid-friendly.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eIs Beachwood Brewing \u0026amp; Distilling dog-friendly?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Beachwood Brewing \u0026amp; Distilling is dog-friendly?\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Beachwood Brewing \u0026amp; Distilling have live music?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Beachwood Brewing \u0026amp; Distilling has live music on Fridays at 7pm.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Beachwood Brewing \u0026amp; Distilling host events?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Beachwood Brewing \u0026amp; Distilling has fun live events, like trivia nights, pinball wizard night, and more. \u0022}}]}","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderTopLeftRadius":2,"overallBorderTopRightRadius":2,"overallBorderBottomLeftRadius":2,"overallBorderBottomRightRadius":2,"overallBorderStyle":"solid","overallBorderColor":"#D2D2D2"} -->
-<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-19aa360b uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist"><!-- wp:uagb/faq-child {"block_id":"adce304c","question":"\u003cstrong\u003eIs Beachwood Brewing \u0026amp; Distilling family-friendly?\u003c/strong\u003e","answer":"Yes, Beachwood Brewing \u0026amp; Distilling is kid-friendly."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-adce304c" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Is Beachwood Brewing &amp; Distilling family-friendly?</strong></span></div><div class="uagb-faq-content"><p>Yes, Beachwood Brewing &amp; Distilling is kid-friendly.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"dc3d9430","question":"\u003cstrong\u003eIs Beachwood Brewing \u0026amp; Distilling dog-friendly?\u003c/strong\u003e","answer":"Yes, Beachwood Brewing \u0026amp; Distilling is dog-friendly?"} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-dc3d9430" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Is Beachwood Brewing &amp; Distilling dog-friendly?</strong></span></div><div class="uagb-faq-content"><p>Yes, Beachwood Brewing &amp; Distilling is dog-friendly?</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"486fb6ac","question":"\u003cstrong\u003eDoes Beachwood Brewing \u0026amp; Distilling have live music?\u003c/strong\u003e","answer":"Yes, Beachwood Brewing \u0026amp; Distilling has live music on Fridays at 7pm."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-486fb6ac" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Beachwood Brewing &amp; Distilling have live music?</strong></span></div><div class="uagb-faq-content"><p>Yes, Beachwood Brewing &amp; Distilling has live music on Fridays at 7pm.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"6558e2c4","question":"\u003cstrong\u003eDoes Beachwood Brewing \u0026amp; Distilling host events?\u003c/strong\u003e","answer":"Yes, Beachwood Brewing \u0026amp; Distilling has fun live events, like trivia nights, pinball wizard night, and more. "} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-6558e2c4" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Beachwood Brewing &amp; Distilling host events?</strong></span></div><div class="uagb-faq-content"><p>Yes, Beachwood Brewing &amp; Distilling has fun live events, like trivia nights, pinball wizard night, and more. </p></div></div>
-<!-- /wp:uagb/faq-child --></div>
-<!-- /wp:uagb/faq -->
-
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Experience the harmonious blend of craft beer and live tunes at <a href="https://beachwoodbrewing.com/bixbyknolls.html" target="_blank" rel="noreferrer noopener">Beachwood Brewing &amp; Distilling</a>, making it a top contender among the best breweries in Long Beach. Live music performances elevate your brewery escapade. New artists perform every Friday starting at 7pm, and it’s free! </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The ultimate family-friendly destination amidst Long Beach's brew haven, Beachwood Brewing &amp; Distilling invites beer enthusiasts of all ages to relish its laid-back ambiance, ensuring a perfect outing for families seeking quality time and exceptional craft brews. Kids and adults will love playing the arcade-style games during their time at Beachwood. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Long Beach's best breweries aren't just for humans! Beachwood Brewing &amp; Distilling opens its doors to your furry companions, offering a dog-friendly haven where your pets can bask in the coastal atmosphere alongside you.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Beachwood Brewing &amp; Distilling crafts a symphony of unique beers that distinguish it as one of the best breweries in Long Beach. From hoppy IPAs to robust stouts, each sip reflects a commitment to quality ingredients and innovative brewing techniques, ensuring a flavorful and memorable experience.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Elevate your craft beer journey with Beachwood's enticing food offerings. As one of Long Beach's premier breweries, they offer a variety of menus by partnering with a number of popup restaurants that perfectly complement their outstanding beer selection, creating a culinary adventure that enhances your overall brewery experience. Be sure to check their <a href="https://beachwoodbrewing.com/events.html" target="_blank" rel="noreferrer noopener">events page</a> to see the current offerings. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Embark on a blissful journey through Long Beach's craft beer scene, with Beachwood Brewing &amp; Distilling leading the charge as the epitome of excellence. Revel in the perfect blend of craft, community, and coastal vibes at one of the best breweries Long Beach has to offer.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:uagb/advanced-heading {"block_id":"c9b68201","classMigrate":true,"headingAlign":"left","subHeadingColor":"","headingTag":"h3","subHeadFontStyle":"italic"} -->
-<div class="wp-block-uagb-advanced-heading uagb-block-c9b68201"><h3 class="uagb-heading-text"><a href="/go/steady-brew-long-beach/" linkid="19755">Steady Brewing</a></h3><p class="uagb-desc-text">2950 Clark Ave, Long Beach, CA 90815</p></div>
-<!-- /wp:uagb/advanced-heading -->
-
-<!-- wp:uagb/faq {"block_id":"c56a9d24","borderStyle":"","borderWidth":"","borderRadius":"","borderColor":"","schema":"{\u0022@context\u0022:\u0022https://schema.org\u0022,\u0022@type\u0022:\u0022FAQPage\u0022,\u0022@id\u0022:\u0022https://hotmamatravel.com/best-breweries-in-long-beach/\u0022,\u0022mainEntity\u0022:[{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eIs Steady Brewing family-friendly?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, guests of all ages are welcomed at Steady Brewing.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eIs Steady Brewing dog-friendly?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Steady Brewing dog-friendly.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Steady Brewing have live music? \u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Steady Brewing does have live music sometimes.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Steady Brewing host events?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Steady Brewing does have events, like paint and pint nights.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Steady Brewing offer food?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Steady Brewing partners with food popups to bring you a delicious selection of grub.\u0022}}]}","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderTopLeftRadius":2,"overallBorderTopRightRadius":2,"overallBorderBottomLeftRadius":2,"overallBorderBottomRightRadius":2,"overallBorderStyle":"solid","overallBorderColor":"#D2D2D2"} -->
-<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-c56a9d24 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist"><!-- wp:uagb/faq-child {"block_id":"8515d219","question":"\u003cstrong\u003eIs Steady Brewing family-friendly?\u003c/strong\u003e","answer":"Yes, guests of all ages are welcomed at Steady Brewing."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8515d219" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Is Steady Brewing family-friendly?</strong></span></div><div class="uagb-faq-content"><p>Yes, guests of all ages are welcomed at Steady Brewing.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"8011cac5","question":"\u003cstrong\u003eIs Steady Brewing dog-friendly?\u003c/strong\u003e","answer":"Yes, Steady Brewing dog-friendly."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8011cac5" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Is Steady Brewing dog-friendly?</strong></span></div><div class="uagb-faq-content"><p>Yes, Steady Brewing dog-friendly.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"a5f88b84","question":"\u003cstrong\u003eDoes Steady Brewing have live music? \u003c/strong\u003e","answer":"Yes, Steady Brewing does have live music sometimes."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-a5f88b84" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Steady Brewing have live music? </strong></span></div><div class="uagb-faq-content"><p>Yes, Steady Brewing does have live music sometimes.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"45e7b6fd","question":"\u003cstrong\u003eDoes Steady Brewing host events?\u003c/strong\u003e","answer":"Yes, Steady Brewing does have events, like paint and pint nights."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-45e7b6fd" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Steady Brewing host events?</strong></span></div><div class="uagb-faq-content"><p>Yes, Steady Brewing does have events, like paint and pint nights.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"1d881448","question":"\u003cstrong\u003eDoes Steady Brewing offer food?\u003c/strong\u003e","answer":"Yes, Steady Brewing partners with food popups to bring you a delicious selection of grub."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-1d881448" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Steady Brewing offer food?</strong></span></div><div class="uagb-faq-content"><p>Yes, Steady Brewing partners with food popups to bring you a delicious selection of grub.</p></div></div>
-<!-- /wp:uagb/faq-child --></div>
-<!-- /wp:uagb/faq -->
-
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Steady Brew isn't just a brewery; it's a meeting ground for locals and travelers alike. The welcoming atmosphere and friendly staff create an environment where strangers become friends over shared pints. The community vibes make <a href="https://steadybrewing.com/long-beach/" target="_blank" rel="noreferrer noopener">Steady Brew</a> not just a destination but a memory etched in the heart of Long Beach.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>What makes Steady Brew one of the best breweries in Long Beach is their dedication to the art of brewing. The brewmasters at Steady Brew craft each beer with precision, resulting in a diverse selection that caters to every palate. From hoppy ales to creative and fruity NuBrews, each brew tells a story of craftsmanship and creativity, making every sip a unique experience.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Steady Brew is more than a craft beer bar; it's a community hub. Families are not just welcome; they're embraced. The atmosphere is inviting for all ages, creating an inclusive space for quality time. And for our furry friends, Steady Brew extends a paw-friendly welcome – making it a true family and pet-friendly destination.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>At Steady Brewing, they often partner with restaurants to provide yummy grub to compliment your craft brews. You are also welcomed to bring your own food to enjoy while to sip and socialize! Be sure to pop by for some live music or fun event to make the night even sweeter.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"align":"right"} -->
-<p class="has-text-align-right"><strong><a href="/go/steady-brew-long-beach/" linkid="19755">See Photos, Reviews, &amp; More</a></strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:uagb/advanced-heading {"block_id":"4af01f50","classMigrate":true,"headingAlign":"left","subHeadingColor":"","headingTag":"h3","subHeadFontStyle":"italic"} -->
-<div class="wp-block-uagb-advanced-heading uagb-block-4af01f50"><h3 class="uagb-heading-text"><a href="/go/ten-mile-brewing-company-long-beach/" linkid="19756">Ten Mile Brewing Company</a></h3><p class="uagb-desc-text">1136 E Willow St, Signal Hill, CA 90755</p></div>
-<!-- /wp:uagb/advanced-heading -->
-
-<!-- wp:uagb/faq {"block_id":"8190029d","borderStyle":"","borderWidth":"","borderRadius":"","borderColor":"","schema":"{\u0022@context\u0022:\u0022https://schema.org\u0022,\u0022@type\u0022:\u0022FAQPage\u0022,\u0022@id\u0022:\u0022https://hotmamatravel.com/best-breweries-in-long-beach/\u0022,\u0022mainEntity\u0022:[{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eIs Ten Mile Brewing Company family-friendly?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Ten Mile Brewing Company is family and kid-friendly.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eIs Ten Mile Brewing Company dog-friendly?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, dogs are allowed on their outdoor patio at Ten Mile Brewing Company.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Ten Mile Brewing Company have live music?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Ten Mile Brewing Company does have live music.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Ten Mile Brewing Company host events?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Ten Mile Company host fun themed events throughout the year.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Ten Mile Brewing Company offer Food?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, they have a rotating menu and are best known for their house-made sourdough and pizzas. \u0022}}]}","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderTopLeftRadius":2,"overallBorderTopRightRadius":2,"overallBorderBottomLeftRadius":2,"overallBorderBottomRightRadius":2,"overallBorderStyle":"solid","overallBorderColor":"#D2D2D2"} -->
-<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-8190029d uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist"><!-- wp:uagb/faq-child {"block_id":"d65d22c7","question":"\u003cstrong\u003eIs Ten Mile Brewing Company family-friendly?\u003c/strong\u003e","answer":"Yes, Ten Mile Brewing Company is family and kid-friendly."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d65d22c7" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Is Ten Mile Brewing Company family-friendly?</strong></span></div><div class="uagb-faq-content"><p>Yes, Ten Mile Brewing Company is family and kid-friendly.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"d15ad4d8","question":"\u003cstrong\u003eIs Ten Mile Brewing Company dog-friendly?\u003c/strong\u003e","answer":"Yes, dogs are allowed on their outdoor patio at Ten Mile Brewing Company."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d15ad4d8" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Is Ten Mile Brewing Company dog-friendly?</strong></span></div><div class="uagb-faq-content"><p>Yes, dogs are allowed on their outdoor patio at Ten Mile Brewing Company.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"c0105156","question":"\u003cstrong\u003eDoes Ten Mile Brewing Company have live music?\u003c/strong\u003e","answer":"Yes, Ten Mile Brewing Company does have live music."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-c0105156" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Ten Mile Brewing Company have live music?</strong></span></div><div class="uagb-faq-content"><p>Yes, Ten Mile Brewing Company does have live music.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"d9f17844","question":"\u003cstrong\u003eDoes Ten Mile Brewing Company host events?\u003c/strong\u003e","answer":"Yes, Ten Mile Company host fun themed events throughout the year."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d9f17844" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Ten Mile Brewing Company host events?</strong></span></div><div class="uagb-faq-content"><p>Yes, Ten Mile Company host fun themed events throughout the year.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"42ad4b0a","question":"\u003cstrong\u003eDoes Ten Mile Brewing Company offer Food?\u003c/strong\u003e","answer":"Yes, they have a rotating menu and are best known for their house-made sourdough and pizzas. "} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-42ad4b0a" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Ten Mile Brewing Company offer Food?</strong></span></div><div class="uagb-faq-content"><p>Yes, they have a rotating menu and are best known for their house-made sourdough and pizzas. </p></div></div>
-<!-- /wp:uagb/faq-child --></div>
-<!-- /wp:uagb/faq -->
-
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">For a laid-back and family-friendly atmosphere, <a href="https://www.tenmilebrewing.com/" target="_blank" rel="noreferrer noopener">Ten Mile Brewing Company</a> is a must-visit destination in Signal Hill. The expansive indoor space is complemented by a spacious outdoor seating area, providing ample room for families and friends. The spacious outdoor patio is dog-friendly and great for enjoying the beautiful California sun. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>This brewery is known for its diverse beer selection, ranging from classic styles to experimental brews that showcase the brewers' creativity. There is even house-made Root Beer for the little ones to enjoy!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ten Mile Brewing frequently hosts family-oriented events, making it an ideal spot for a weekend outing. Check their events calendar for live music performances and community-driven activities. If you need some spirits to lift your spirit, check out Beer and Hymns days at Ten Mile. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>To complete your experience, indulge in the diverse offerings with a rotating kitchen menu and a variety of exciting pizzas with in-house made sourdough.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"align":"right"} -->
-<p class="has-text-align-right"><strong><a href="/go/ten-mile-brewing-company-long-beach/" linkid="19756">See Photos, Reviews, &amp; More</a></strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:uagb/image {"block_id":"c0111861","url":"https://hotmamatravel.com/wp-content/uploads/2024/01/steelcraft-best-breweries-in-long-beach.jpg","urlTablet":"https://hotmamatravel.com/wp-content/uploads/2024/01/steelcraft-best-breweries-in-long-beach.jpg","urlMobile":"https://hotmamatravel.com/wp-content/uploads/2024/01/steelcraft-best-breweries-in-long-beach.jpg","alt":"foodie haven at SteelCraft in Long Beach","enableCaption":true,"caption":"Courtesy of SteelCraft Long Beach","id":19777,"href":"https://hotmamatravel.com/wp-content/uploads/2024/01/steelcraft-best-breweries-in-long-beach.jpg","linkDestination":"media","naturalWidth":930,"naturalHeight":520,"sizeSlug":"full","sizeSlugTablet":"full","sizeSlugMobile":"full"} -->
-<div class="wp-block-uagb-image uagb-block-c0111861 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="steelcraft-best-breweries-in-long-beach"><figure><a class="" href="/wp-content/uploads/2024/01/steelcraft-best-breweries-in-long-beach.jpg" target="" rel="noopener"><img srcset="https://hotmamatravel.com/wp-content/uploads/2024/01/steelcraft-best-breweries-in-long-beach.jpg ,https://hotmamatravel.com/wp-content/uploads/2024/01/steelcraft-best-breweries-in-long-beach.jpg 780w, https://hotmamatravel.com/wp-content/uploads/2024/01/steelcraft-best-breweries-in-long-beach.jpg 360w" sizes="(max-width: 480px) 150px" src="https://hotmamatravel.com/wp-content/uploads/2024/01/steelcraft-best-breweries-in-long-beach.jpg" alt="foodie haven at SteelCraft in Long Beach" class="uag-image-19777" width="930" height="520" title="" loading="lazy"/></a><figcaption class="uagb-image-caption">Courtesy of SteelCraft Long Beach</figcaption></figure></div>
-<!-- /wp:uagb/image -->
-
-<!-- wp:uagb/advanced-heading {"block_id":"bab0e9ad","classMigrate":true,"headingAlign":"left","subHeadingColor":"","headingTag":"h3","subHeadFontStyle":"italic"} -->
-<div class="wp-block-uagb-advanced-heading uagb-block-bab0e9ad"><h3 class="uagb-heading-text"><a href="/go/steelcraft-long-beach/" linkid="19758">Smog City Brewing Co. @ SteelCraft Long Beach</a></h3><p class="uagb-desc-text">3768 Long Beach Blvd, Long Beach, CA 90807</p></div>
-<!-- /wp:uagb/advanced-heading -->
-
-<!-- wp:uagb/faq {"block_id":"e4a61287","borderStyle":"","borderWidth":"","borderRadius":"","borderColor":"","schema":"{\u0022@context\u0022:\u0022https://schema.org\u0022,\u0022@type\u0022:\u0022FAQPage\u0022,\u0022@id\u0022:\u0022https://hotmamatravel.com/best-breweries-in-long-beach/\u0022,\u0022mainEntity\u0022:[{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eIs SteelCraft Long Beach family-friendly?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, guests of all ages are allowed at SteelCraft Long Beach.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eIs SteelCraft Long Beach dog-friendly?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, SteelCraft Long Beach is dog-friendly.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes SteelCraft have live music?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, SteelCraft does have live music.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes SteelCraft host events?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, SteelCraft hosts many events, brunches, happy hours, and more. \u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes SteelCraft offer food?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, SteelCraft is a collection of exciting culinary urban eatery. \u0022}}]}","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderTopLeftRadius":2,"overallBorderTopRightRadius":2,"overallBorderBottomLeftRadius":2,"overallBorderBottomRightRadius":2,"overallBorderStyle":"solid","overallBorderColor":"#D2D2D2"} -->
-<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-e4a61287 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist"><!-- wp:uagb/faq-child {"block_id":"05f78bc6","question":"\u003cstrong\u003eIs SteelCraft Long Beach family-friendly?\u003c/strong\u003e","answer":"Yes, guests of all ages are allowed at SteelCraft Long Beach."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-05f78bc6" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Is SteelCraft Long Beach family-friendly?</strong></span></div><div class="uagb-faq-content"><p>Yes, guests of all ages are allowed at SteelCraft Long Beach.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"b5990b2e","question":"\u003cstrong\u003eIs SteelCraft Long Beach dog-friendly?\u003c/strong\u003e","answer":"Yes, SteelCraft Long Beach is dog-friendly."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b5990b2e" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Is SteelCraft Long Beach dog-friendly?</strong></span></div><div class="uagb-faq-content"><p>Yes, SteelCraft Long Beach is dog-friendly.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"2c847634","question":"\u003cstrong\u003eDoes SteelCraft have live music?\u003c/strong\u003e","answer":"Yes, SteelCraft does have live music."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-2c847634" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does SteelCraft have live music?</strong></span></div><div class="uagb-faq-content"><p>Yes, SteelCraft does have live music.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"6335f414","question":"\u003cstrong\u003eDoes SteelCraft host events?\u003c/strong\u003e","answer":"Yes, SteelCraft hosts many events, brunches, happy hours, and more. "} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-6335f414" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does SteelCraft host events?</strong></span></div><div class="uagb-faq-content"><p>Yes, SteelCraft hosts many events, brunches, happy hours, and more. </p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"8023041e","question":"\u003cstrong\u003eDoes SteelCraft offer food?\u003c/strong\u003e","answer":"Yes, SteelCraft is a collection of exciting culinary urban eatery. "} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8023041e" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does SteelCraft offer food?</strong></span></div><div class="uagb-faq-content"><p>Yes, SteelCraft is a collection of exciting culinary urban eatery. </p></div></div>
-<!-- /wp:uagb/faq-child --></div>
-<!-- /wp:uagb/faq -->
-
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">This is really a brewery per say, but rather a unique outdoor urban eatery. <a href="https://steelcraftlb.com/steelcraft-long-beach/" target="_blank" rel="noreferrer noopener">SteelCraft</a> is not just a place to dine; it's an experience that seamlessly blends culinary artistry, community vibes, and a touch of industrial-chic charm. Picture repurposed shipping containers transformed into chic eateries, creating a vibrant and communal dining space. The open-air layout invites patrons to savor their meals al fresco, surrounded by a mix of modern design and urban greenery.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>While SteelCraft Long Beach doesn't brew its own craft beers, it provides a platform for visitors to explore a selection of unique brews from different vendors within the complex. The craft beer offerings can vary depending on the individual establishments present at SteelCraft. For example, at Smog City Brewing Co, the taps flow with a symphony of sudsy perfection. From the hoppy crescendos of their IPAs to the deep, rich notes of their stouts, each brew is a masterpiece of craftsmanship. The brewers at Smog City are alchemists of flavor, constantly experimenting to bring you a dynamic and ever-evolving menu that tantalizes the taste buds.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>What sets SteelCraft apart is its curated selection of eateries, each housed in a unique shipping container. From artisanal tacos to gourmet burgers, poke bowls to craft coffee – the culinary diversity is a feast for every palate. The fusion of flavors and styles creates a dynamic culinary expedition within a single space.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Locals and visitors alike gather in this shared space to enjoy good food, lively conversations, and the unmistakable sense of camaraderie that permeates the air. The communal seating areas encourage interactions, turning every meal into a social affair.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>SteelCraft Long Beach welcomes families with open arms. The casual atmosphere and diverse food options make it an ideal spot for a family outing. Children can enjoy the open space, and the variety of eateries ensures there's something for even the pickiest eaters. Additionally, SteelCraft is pet-friendly, allowing furry companions to join in the fun, making it a perfect destination for the entire family.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>From live music performances to themed nights, the space comes alive with activities that go beyond dining. Check their events calendar for a schedule of happenings that add an extra layer of vibrancy to your visit.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"align":"right"} -->
-<p class="has-text-align-right"><strong><a href="/go/steelcraft-long-beach/" linkid="19758">See Photos, Reviews, &amp; More</a></strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:uagb/advanced-heading {"block_id":"6cf41ebc","classMigrate":true,"headingAlign":"left","subHeadingColor":"","headingTag":"h3","subHeadFontStyle":"italic"} -->
-<div class="wp-block-uagb-advanced-heading uagb-block-6cf41ebc"><h3 class="uagb-heading-text"><a href="/go/belmont-brewing-company-long-beach/" linkid="19778">Belmont Brewing Co</a></h3><p class="uagb-desc-text">25 39th Pl, Long Beach, CA 90803</p></div>
-<!-- /wp:uagb/advanced-heading -->
-
-<!-- wp:uagb/faq {"block_id":"a35a3356","borderStyle":"","borderWidth":"","borderRadius":"","borderColor":"","schema":"{\u0022@context\u0022:\u0022https://schema.org\u0022,\u0022@type\u0022:\u0022FAQPage\u0022,\u0022@id\u0022:\u0022https://hotmamatravel.com/best-breweries-in-long-beach/\u0022,\u0022mainEntity\u0022:[{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eIs Belmont Brewing Co family-friendly?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Belmont Brewing Co is family-friendly.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eIs Belmont Brewing Co dog-friendly?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022No, Belmont Brewing Co is not dog-friendly.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Belmont Brewing Co have live music?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Belmont Brewing Co has live music Wednesday through Saturday.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Belmont Brewing Co host events?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Belmont hosts many exciting events, like Salsa nights, Jazz nights, and more.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Belmont Brewing Co offer food?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Belmont Brewing Co is also a restaurant with a full menu of a variety of food options.\u0022}}]}","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderTopLeftRadius":2,"overallBorderTopRightRadius":2,"overallBorderBottomLeftRadius":2,"overallBorderBottomRightRadius":2,"overallBorderStyle":"solid","overallBorderColor":"#D2D2D2"} -->
-<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-a35a3356 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist"><!-- wp:uagb/faq-child {"block_id":"8caf6363","question":"\u003cstrong\u003eIs Belmont Brewing Co family-friendly?\u003c/strong\u003e","answer":"Yes, Belmont Brewing Co is family-friendly."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8caf6363" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Is Belmont Brewing Co family-friendly?</strong></span></div><div class="uagb-faq-content"><p>Yes, Belmont Brewing Co is family-friendly.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"b1d70871","question":"\u003cstrong\u003eIs Belmont Brewing Co dog-friendly?\u003c/strong\u003e","answer":"No, Belmont Brewing Co is not dog-friendly."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b1d70871" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Is Belmont Brewing Co dog-friendly?</strong></span></div><div class="uagb-faq-content"><p>No, Belmont Brewing Co is not dog-friendly.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"bb6b72f3","question":"\u003cstrong\u003eDoes Belmont Brewing Co have live music?\u003c/strong\u003e","answer":"Yes, Belmont Brewing Co has live music Wednesday through Saturday."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-bb6b72f3" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Belmont Brewing Co have live music?</strong></span></div><div class="uagb-faq-content"><p>Yes, Belmont Brewing Co has live music Wednesday through Saturday.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"238a81c7","question":"\u003cstrong\u003eDoes Belmont Brewing Co host events?\u003c/strong\u003e","answer":"Yes, Belmont hosts many exciting events, like Salsa nights, Jazz nights, and more."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-238a81c7" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Belmont Brewing Co host events?</strong></span></div><div class="uagb-faq-content"><p>Yes, Belmont hosts many exciting events, like Salsa nights, Jazz nights, and more.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"44d05519","question":"\u003cstrong\u003eDoes Belmont Brewing Co offer food?\u003c/strong\u003e","answer":"Yes, Belmont Brewing Co is also a restaurant with a full menu of a variety of food options."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-44d05519" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Belmont Brewing Co offer food?</strong></span></div><div class="uagb-faq-content"><p>Yes, Belmont Brewing Co is also a restaurant with a full menu of a variety of food options.</p></div></div>
-<!-- /wp:uagb/faq-child --></div>
-<!-- /wp:uagb/faq -->
-
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Belmont Brewing Co boasts a stellar lineup of craft beers that mirror the spirit of the sea. From crisp ales to robust stouts, each sip takes you on a journey through the diverse and carefully crafted brews. Their commitment to quality and innovation is evident in every pint, making <a href="https://www.belmontbrewing.com/" target="_blank" rel="noreferrer noopener">Belmont Brewing Co</a> a beacon for beer enthusiasts seeking coastal craftsmanship.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>What sets Belmont Brewing Co apart is the harmonious fusion of live music and the gentle ocean breeze. The brewery often transforms into a stage for local musicians, creating an ambiance where melodies dance with the sound of crashing waves. Be sure to pop in for Salsa lessons, Jazz night, and live music. Check their events calendar for live performances and themed gatherings, adding a rhythmic note to your seaside sipping experience.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Belmont Brewing Co welcomes families with open arms, making it more than just a brewery; it's a gathering place for all generations. The family-friendly atmosphere ensures that kids and adults alike can revel in the coastal charm. With spacious seating and a warm ambiance, Belmont Brewing Co is where family moments become lasting memories.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>As you soak in the maritime atmosphere, don't miss out on the culinary delights from Belmont Brewing Co's menu. From seafood specialties to pub classics, their offerings are a reflection of Long Beach's diverse culinary landscape. Savor the flavors of the coast with each bite, perfectly complementing the craft brews and ocean views.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>As you soak in the maritime atmosphere, don't miss out on the culinary delights from Belmont Brewing Co's menu. From seafood specialties to pub classics, their offerings are a reflection of Long Beach's diverse culinary landscape. Savor the flavors of the coast with each bite, perfectly complementing the craft brews and ocean views.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"align":"right"} -->
-<p class="has-text-align-right"><strong><a href="/go/belmont-brewing-company-long-beach/" linkid="19778">See Photos, Reviews, &amp; More</a></strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:uagb/advanced-heading {"block_id":"590dd5fc","classMigrate":true,"headingAlign":"left","subHeadingColor":"","headingTag":"h3","subHeadFontStyle":"italic"} -->
-<div class="wp-block-uagb-advanced-heading uagb-block-590dd5fc"><h3 class="uagb-heading-text"><a href="/go/dutchs-brewhouse-long-beach/" linkid="19789">Dutch's Brewhouse</a></h3><p class="uagb-desc-text">4244 Atlantic Ave, Long Beach, CA 90807</p></div>
-<!-- /wp:uagb/advanced-heading -->
-
-<!-- wp:uagb/faq {"block_id":"3d0dec8d","borderStyle":"","borderWidth":"","borderRadius":"","borderColor":"","schema":"{\u0022@context\u0022:\u0022https://schema.org\u0022,\u0022@type\u0022:\u0022FAQPage\u0022,\u0022@id\u0022:\u0022https://hotmamatravel.com/best-breweries-in-long-beach/\u0022,\u0022mainEntity\u0022:[{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eIs Dutch's Brewhouse family-friendly?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Dutch's Brewhouse is a family-friendly pub atmosphere. \u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eIs Dutch's Brewhouse dog-friendly?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Dutch's Brewhouse allows dogs.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Dutch's Brewhouse have live music?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Dutch's Brewhouse has live music on Thursdays from 11pm to 2pm.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Dutch's Brewhouse host events?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Dutch's Brewhouse hosts cool events, like karaoke nights on Wednesdays and brew your own beer sessions. \u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Dutch's Brewhouse offer food?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Dutch's Brewhouse offers pub-style appetizers, sandwiches, salads, pizzas and more. \u0022}}]}","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderTopLeftRadius":2,"overallBorderTopRightRadius":2,"overallBorderBottomLeftRadius":2,"overallBorderBottomRightRadius":2,"overallBorderStyle":"solid","overallBorderColor":"#D2D2D2"} -->
-<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-3d0dec8d uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist"><!-- wp:uagb/faq-child {"block_id":"8d469530","question":"\u003cstrong\u003eIs Dutch's Brewhouse family-friendly?\u003c/strong\u003e","answer":"Yes, Dutch's Brewhouse is a family-friendly pub atmosphere. "} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8d469530" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Is Dutch's Brewhouse family-friendly?</strong></span></div><div class="uagb-faq-content"><p>Yes, Dutch's Brewhouse is a family-friendly pub atmosphere. </p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"76b3cbc3","question":"\u003cstrong\u003eIs Dutch's Brewhouse dog-friendly?\u003c/strong\u003e","answer":"Yes, Dutch's Brewhouse allows dogs."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-76b3cbc3" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Is Dutch's Brewhouse dog-friendly?</strong></span></div><div class="uagb-faq-content"><p>Yes, Dutch's Brewhouse allows dogs.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"2d0996d1","question":"\u003cstrong\u003eDoes Dutch's Brewhouse have live music?\u003c/strong\u003e","answer":"Yes, Dutch's Brewhouse has live music on Thursdays from 11pm to 2pm."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-2d0996d1" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Dutch's Brewhouse have live music?</strong></span></div><div class="uagb-faq-content"><p>Yes, Dutch's Brewhouse has live music on Thursdays from 11pm to 2pm.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"86b7d55e","question":"\u003cstrong\u003eDoes Dutch's Brewhouse host events?\u003c/strong\u003e","answer":"Yes, Dutch's Brewhouse hosts cool events, like karaoke nights on Wednesdays and brew your own beer sessions. "} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-86b7d55e" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Dutch's Brewhouse host events?</strong></span></div><div class="uagb-faq-content"><p>Yes, Dutch's Brewhouse hosts cool events, like karaoke nights on Wednesdays and brew your own beer sessions. </p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"b974025c","question":"\u003cstrong\u003eDoes Dutch's Brewhouse offer food?\u003c/strong\u003e","answer":"Yes, Dutch's Brewhouse offers pub-style appetizers, sandwiches, salads, pizzas and more. "} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b974025c" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Dutch's Brewhouse offer food?</strong></span></div><div class="uagb-faq-content"><p>Yes, Dutch's Brewhouse offers pub-style appetizers, sandwiches, salads, pizzas and more. </p></div></div>
-<!-- /wp:uagb/faq-child --></div>
-<!-- /wp:uagb/faq -->
-
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Dutch's Brewhouse isn't just about hops and barley; it's about creating moments for the whole family. With a family-friendly atmosphere, kids can play, parents can relax, and everyone can savor the joy of a shared experience. It's a place where every sip is a celebration, and family time is the main course on the menu.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Your furry companions are more than welcome at Dutch's! This brewery wears its dog-friendly badge proudly, providing a pet-friendly patio where your pup can bask in the Long Beach sun while you explore the brew menu. It's a tail-wagging good time for all – because Dutch's knows that the best brews are enjoyed with your best buds, furry or not!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Dutch's isn't just a place to sip; it's a stage for entertainment. Check out their events calendar for live music performances and karaoke nights that turn your brewery visit into a symphony of sounds. Dutch's knows how to keep the fun vibes flowing, ensuring that every visit is a lively and memorable experience.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>What's the secret behind Dutch's cool factor? It's all in the brews! Crafted with precision and a touch of Dutch's magic, their beers are a testament to the art of brewing. From crisp lagers to bold IPAs, each sip unveils a world of flavor that reflects the creativity and expertise behind the brewhouse doors. It's the kind of cool you can taste in every pour.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Dutch's Brewhouse doesn't just serve up stellar suds; they've got a culinary lineup that's equally impressive. From beer-friendly bites to hearty meals, the menu is a gastronomic journey designed to elevate your beer-tasting experience. Expect a delicious array of options that pair perfectly with the diverse brews on offer.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"align":"right"} -->
-<p class="has-text-align-right"><strong><a href="/go/dutchs-brewhouse-long-beach/" linkid="19789">See Photos, Reviews, &amp; More</a></strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:uagb/image {"block_id":"850c7834","url":"https://hotmamatravel.com/wp-content/uploads/2024/01/trademark-brewing-best-breweries-in-long-beach.jpg","urlTablet":"https://hotmamatravel.com/wp-content/uploads/2024/01/trademark-brewing-best-breweries-in-long-beach.jpg","urlMobile":"https://hotmamatravel.com/wp-content/uploads/2024/01/trademark-brewing-best-breweries-in-long-beach.jpg","alt":"Trademark Brewing in Long Beach","enableCaption":true,"caption":"Courtesy of Trademark Brewing","id":19785,"href":"https://hotmamatravel.com/wp-content/uploads/2024/01/trademark-brewing-best-breweries-in-long-beach.jpg","linkDestination":"media","naturalWidth":930,"naturalHeight":520,"sizeSlug":"full","sizeSlugTablet":"full","sizeSlugMobile":"full"} -->
-<div class="wp-block-uagb-image uagb-block-850c7834 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="trademark-brewing-best-breweries-in-long-beach"><figure><a class="" href="/wp-content/uploads/2024/01/trademark-brewing-best-breweries-in-long-beach.jpg" target="" rel="noopener"><img srcset="https://hotmamatravel.com/wp-content/uploads/2024/01/trademark-brewing-best-breweries-in-long-beach.jpg ,https://hotmamatravel.com/wp-content/uploads/2024/01/trademark-brewing-best-breweries-in-long-beach.jpg 780w, https://hotmamatravel.com/wp-content/uploads/2024/01/trademark-brewing-best-breweries-in-long-beach.jpg 360w" sizes="(max-width: 480px) 150px" src="https://hotmamatravel.com/wp-content/uploads/2024/01/trademark-brewing-best-breweries-in-long-beach.jpg" alt="Trademark Brewing in Long Beach" class="uag-image-19785" width="930" height="520" title="" loading="lazy"/></a><figcaption class="uagb-image-caption">Courtesy of Trademark Brewing</figcaption></figure></div>
-<!-- /wp:uagb/image -->
-
-<!-- wp:uagb/advanced-heading {"block_id":"381bd0f8","classMigrate":true,"headingAlign":"left","subHeadingColor":"","headingTag":"h3","subHeadFontStyle":"italic"} -->
-<div class="wp-block-uagb-advanced-heading uagb-block-381bd0f8"><h3 class="uagb-heading-text"><a href="/go/trademark-brewing-long-beach/" linkid="19784">Trademark Brewing</a></h3><p class="uagb-desc-text">233 E Anaheim St, Long Beach, CA 90813</p></div>
-<!-- /wp:uagb/advanced-heading -->
-
-<!-- wp:uagb/faq {"block_id":"72f10850","borderStyle":"","borderWidth":"","borderRadius":"","borderColor":"","schema":"{\u0022@context\u0022:\u0022https://schema.org\u0022,\u0022@type\u0022:\u0022FAQPage\u0022,\u0022@id\u0022:\u0022https://hotmamatravel.com/best-breweries-in-long-beach/\u0022,\u0022mainEntity\u0022:[{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eIs Trademark Brewing family-friendly?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Trademark Brewing is family-friendly and welcomes kids.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eIs Trademark Brewing dog-friendly?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Trademark Brewing is dog-friendly.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Trademark Brewing have live music?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022No, Trademark Brewing does not at this time have a live music schedule. \u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Trademark Brewing host events?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Trademark Brewing host a variety of exciting events, like Beer Yoga, Line Dancing, and Trivia Night.\u0022}},{\u0022@type\u0022:\u0022Question\u0022,\u0022name\u0022:\u0022\u003cstrong\u003eDoes Trademark Brewing offer food?\u003c/strong\u003e\u0022,\u0022acceptedAnswer\u0022:{\u0022@type\u0022:\u0022Answer\u0022,\u0022text\u0022:\u0022Yes, Trademark Brewing offers a rotating lineup of fun food trucks. They also allow outside food. \u0022}}]}","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderTopLeftRadius":2,"overallBorderTopRightRadius":2,"overallBorderBottomLeftRadius":2,"overallBorderBottomRightRadius":2,"overallBorderStyle":"solid","overallBorderColor":"#D2D2D2"} -->
-<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-72f10850 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist"><!-- wp:uagb/faq-child {"block_id":"d1c37db1","question":"\u003cstrong\u003eIs Trademark Brewing family-friendly?\u003c/strong\u003e","answer":"Yes, Trademark Brewing is family-friendly and welcomes kids."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d1c37db1" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Is Trademark Brewing family-friendly?</strong></span></div><div class="uagb-faq-content"><p>Yes, Trademark Brewing is family-friendly and welcomes kids.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"e9a59f80","question":"\u003cstrong\u003eIs Trademark Brewing dog-friendly?\u003c/strong\u003e","answer":"Yes, Trademark Brewing is dog-friendly."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-e9a59f80" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Is Trademark Brewing dog-friendly?</strong></span></div><div class="uagb-faq-content"><p>Yes, Trademark Brewing is dog-friendly.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"7a7816b6","question":"\u003cstrong\u003eDoes Trademark Brewing have live music?\u003c/strong\u003e","answer":"No, Trademark Brewing does not at this time have a live music schedule. "} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-7a7816b6" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Trademark Brewing have live music?</strong></span></div><div class="uagb-faq-content"><p>No, Trademark Brewing does not at this time have a live music schedule. </p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"ab53e363","question":"\u003cstrong\u003eDoes Trademark Brewing host events?\u003c/strong\u003e","answer":"Yes, Trademark Brewing host a variety of exciting events, like Beer Yoga, Line Dancing, and Trivia Night."} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-ab53e363" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Trademark Brewing host events?</strong></span></div><div class="uagb-faq-content"><p>Yes, Trademark Brewing host a variety of exciting events, like Beer Yoga, Line Dancing, and Trivia Night.</p></div></div>
-<!-- /wp:uagb/faq-child -->
-
-<!-- wp:uagb/faq-child {"block_id":"23fe9d43","question":"\u003cstrong\u003eDoes Trademark Brewing offer food?\u003c/strong\u003e","answer":"Yes, Trademark Brewing offers a rotating lineup of fun food trucks. They also allow outside food. "} -->
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-23fe9d43" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><span class="uagb-icon uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg></span><span class="uagb-icon-active uagb-faq-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg></span><span class="uagb-question"><strong>Does Trademark Brewing offer food?</strong></span></div><div class="uagb-faq-content"><p>Yes, Trademark Brewing offers a rotating lineup of fun food trucks. They also allow outside food. </p></div></div>
-<!-- /wp:uagb/faq-child --></div>
-<!-- /wp:uagb/faq -->
-
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Get ready for some family shenanigans at one of the best breweries in Long Beach! <a href="https://trademarkbrewing.com/" target="_blank" rel="noreferrer noopener">Trademark Brewing</a> isn't just about crafty concoctions; they're about creating kick-back-and-relax moments for every age. Grab a pint, watch the kiddos play, and let the whole fam dive into the fun – because the Trademark Brewing is where families brew memories!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Forget "no dogs allowed" signs! Trademark Brewing in Long Beach rolls out the red carpet for your furry sidekicks. It's a paw-ty every day as your four-legged friend frolics in the sun-soaked outdoor areas. Grab a brew, let the tail-wagging commence, and revel in the fact that the best breweries are for both two and four-legged patrons! They even have dog bones for your furry baby to snack on. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>What makes Trademark Brewing unique is that it is one of the few breweries in California dedicated to sustainability. Their unique equipment and methods enable them to utilize less than half the water typically consumed by breweries of comparable size, along with a 30% reduction in energy consumption.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The jaw-dropping, taste bud-dazzling, flavor adventures that go beyond your average pint. From hoppy hoorahs to rich stouts, each sip is a rollercoaster of taste, a symphony of unique flavors that make breweries like Trademark champions of the craft beer scene. Try a fun fruity sour or cool down with a beer slushy! It is all their for your sipping pleasure. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Who needs a kitchen when you've got a parade of food trucks? At Trademark Brewing, it's a culinary carnival with rotating food trucks offering up bites that dance with your chosen brew. It's like a flavor festival, a foodie fiesta, and a brew-tasting bonanza – all rolled into one lip-smacking experience!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"align":"right"} -->
-<p class="has-text-align-right"><strong><a href="/go/trademark-brewing-long-beach/" linkid="19784">See Photos, Reviews, &amp; More</a></strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:block {"ref":17013} /-->
-
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Long Beach's family-friendly breweries are not just places to enjoy great beer; they're destinations that offer a unique blend of community, creativity, and craft. From the intricate blends at Beachwood Blendery to the waterfront charm of Ballast Point, each brewery contributes to the vibrant tapestry of Long Beach's craft beer culture. Plan your visit to Long Beach and embark on a journey of flavor, fun, and family-friendly festivities. Cheers!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>For more cool breweries in more cool cities, check out our <a href="/americas-best-breweries/" target="_blank" rel="noreferrer noopener">Best Breweries in America</a> page to explore. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:block {"ref":12046} /-->
-
-<!-- wp:uagb/container {"block_id":"1d0812dc","boxShadowVOffset":18,"boxShadowBlur":40,"boxShadowSpread":-10,"variationSelected":true,"isBlockRootParent":true} -->
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap"><!-- wp:paragraph -->
-<p>Like it? Pin it!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"id":19781,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-family-friendly-breweries-long-beach-california"><a href="/images/2024/01/best-family-friendly-breweries-long-beach-california.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/best-family-friendly-breweries-long-beach-california-200x300.jpg" alt="" class="wp-image-19781" title="The Best Family-Friendly Breweries in Long Beach Your Family Will Love - HotMamaTravel"/></a></figure>
-<!-- /wp:image --></div></div>
-<!-- /wp:uagb/container -->
+
+Long Beach, California, is not only known for its stunning coastline and vibrant community but also for its flourishing craft beer scene. Whether you're a beer enthusiast, a family looking for a weekend outing, or someone searching for a pet-friendly spot, Long Beach has a variety of breweries that cater to everyone. Here, we've curated a detailed list of the best Long Beach breweries that are family-friendly with live music, events, and delicious offerings that make them must-visit destinations.
+
+<div class="wp-block-ugb-heading ugb-heading ugb-31045dd ugb-main-block"><style>.ugb-31045dd .ugb-heading__title{text-align:center}.ugb-31045dd .ugb-heading__bottom-line{background-color:#f10e0e !important;margin-left:auto !important;margin-right:auto !important}.ugb-31045dd .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
+## Family-Friendly Breweries in Long Beach
+
+<div class="ugb-heading__bottom-line"></div></div></div></div>
+
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="long-beach-beer-lab-best-breweries-in-long-beach"><figure>[![Family-Friendly Long Beach Beer Labs Brewery Long Beach ](https://hotmamatravel.com/wp-content/uploads/2024/01/long-beach-beer-lab-best-breweries-in-long-beach.jpg)](/wp-content/uploads/2024/01/long-beach-beer-lab-best-breweries-in-long-beach.jpg)<figcaption class="uagb-image-caption">Courtesy of Long Beach Beer Lab</figcaption></figure></div>
+
+<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
+
+### [Long Beach Beer Lab (Wrigley)](/go/long-beach-beer-lab-long-beach/)
+
+518 W Willow St, Long Beach, CA 90806
+</div>
+
+<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-40eb07e8 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8806a4e9" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>** Is Long Beach Beer Lab family-friendly?**</div><div class="uagb-faq-content">
+Yes, Long Beach Beer Lab allows kids.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-1610c187" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Is Long Beach Beer Lab dog-friendly?**</div><div class="uagb-faq-content">
+Yes, Long Beach Beer Lab is dog-friendly.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-7df0d9b1" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>** Does Long Beach Beer Lab have Live Music?**</div><div class="uagb-faq-content">
+Yes, Long Beach Beer Labs does have live performances and live DJs too.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b739d160" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Long Beach Beer Lab host events?**</div><div class="uagb-faq-content">
+Yes, Long Beach Beer Lab hosts a number exciting events, like paint and sip nights and trivia nights.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-adce9af8" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Long Beach Beer Labs have food?**</div><div class="uagb-faq-content">
+Yes, Long Beach Beer Lab has a bakery and café with a variety of exciting food options.
+</div></div>
+</div>
+
+Long Beach Beer Lab is recognized for its commitment to innovation in brewing. They often experiment with different ingredients, brewing techniques, and styles to create unique and flavorful beers. This focus on experimentation sets them apart in the craft beer scene. The microbrewery is known for its experimental and small-batch approach, creating a lineup of beers that are as diverse as the Long Beach community. From hop-forward IPAs to rich stouts, each brew is a testament to their craft and a unique journey for your taste buds.
+
+[Long Beach Beer Lab](https://www.lbbeer.com/) warmly welcomes families, creating an atmosphere where beer enthusiasts of all ages can gather. The laid-back ambiance and spacious setting make it an ideal spot for a casual outing with loved ones. Kids and adults alike will love the arcade-style games, like pinball. So, bring the kids, share some laughs, and savor the spirit of Long Beach with a pint in hand.
+
+For those whose furry friends are an essential part of the family, Long Beach Beer Labs extends a friendly paw. The microbrewery is dog-friendly, allowing you to enjoy your brews in the company of your canine companion. It's a place where wagging tails and craft beer unite, adding an extra layer of joy to your visit.
+
+However, if you don't want to bring your doggie to the brewery or your visit in L.A extends beyond just a day out, finding exceptional [dog boarding in CA](https://www.ipetguides.com/best-dog-training-in-los-angeles-ca/) is crucial.
+
+Long Beach Beer Lab an onsite bakery and café with a variety of exciting menu items. They are known for their house-made sourdough bread, but the offer a wide-selection of pizzas, sandwiches, and salads. Full menu is served Friday through Sunday.
+
+Long Beach Beer Labs often transforms into a live music venue, turning your visit into a harmonious experience. The eclectic sounds of local musicians provide the perfect backdrop for enjoying your favorite beer. Beyond the regular brews, Long Beach Beer Labs hosts events that elevate your brewery experience. From themed parties to special releases, there's always something happening at this Wrigley gem.
+
+**[See Photos, Reviews, &amp; More](/go/long-beach-beer-lab-long-beach/)**
+
+<div class="wp-block-uagb-image uagb-block-1ffdb7b3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="ballast-point-brewing-best-breweries-in-long-beach"><figure>[![Kid-Friendly Ballast Point Brewing Long Beach ](https://hotmamatravel.com/wp-content/uploads/2024/01/ballast-point-brewing-best-breweries-in-long-beach.jpg)](/wp-content/uploads/2024/01/ballast-point-brewing-best-breweries-in-long-beach.jpg)<figcaption class="uagb-image-caption">Courtesy of Ballast Point Brewing Company</figcaption></figure></div>
+
+<div class="wp-block-uagb-advanced-heading uagb-block-ec623ea4">
+
+### [Ballast Point Brewing Company](/go/ballest-point-brewing-long-beach/)
+
+110 N Marina Dr, Long Beach, CA 90803
+</div>
+
+<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-6279d8b3 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-cfcb5ef4" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Is Ballast Point Brewing Company family-friendly?**</div><div class="uagb-faq-content">
+Yes, guests of all ages are welcomed at Ballast Point Brewing Company.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-12a07a3f" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Is Ballast Point Brewing Company Dog-Friendly?**</div><div class="uagb-faq-content">
+Yes, you can have your dogs on the patio at this Ballast Point location.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b6ddad35" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Ballast Point Brewing Company have live Music?**</div><div class="uagb-faq-content">
+Yes, Ballast Point Brewing Company has live music on select days.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-7a18fe97" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Ballast Point host events?**</div><div class="uagb-faq-content">
+While they don't curate their own events, they do offer private events.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-aca8fc5f" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Ballast Point Brewing Company offer food?**</div><div class="uagb-faq-content">
+Yes, Ballast Point is a full restaurant in addition to a brewery with a wide selection of menu items.
+</div></div>
+</div>
+
+Overlooking Alamitos Bay, [Ballast Point Brewing Company](https://ballastpoint.com/location/longbeach/) is a waterfront gem offering not just great beer but also a family-friendly experience with a scenic view of the ocean. The expansive outdoor patio, complete with firepits, is perfect for families, providing a spacious setting for kids to play and adults to unwind. The brewery often hosts live music events, creating a lively atmosphere for all visitors. Ballast Point's beer menu is extensive, featuring over 60 beers on tap, everything from crisp lagers to robust stouts. Be sure to explore their innovative and experimental offerings. Pair your beer with a delicious meal from their on-site kitchen, and enjoy their weekday specials, like Burger Monday, Taco Tuesday, and Steak Wednesday. These menu items are designed to complement their diverse beer selection.
+
+**[See Photos, Reviews, &amp; More](/go/ballest-point-brewing-long-beach/)**
+
+<figure id="beachwood-blendery-best-breweries-in-long-beach">[![](https://hotmamatravel.com/wp-content/uploads/2024/01/beachwood-blendery-best-breweries-in-long-beach.jpg)](/wp-content/uploads/2024/01/beachwood-blendery-best-breweries-in-long-beach.jpg)<figcaption class="wp-element-caption">Courtesy of Beachwood Blendery</figcaption></figure>
+
+<div class="wp-block-uagb-advanced-heading uagb-block-87a63820">
+
+### Beachwood Blendery
+
+247 Long Beach Blvd, Long Beach, CA 90802
+</div>
+
+<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-ea3e8cab uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-ab6f2a0d" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Is Beachwood Blendery family-friendly?**</div><div class="uagb-faq-content">
+Yes, kids are welcomed Beachwood Blendery in Long Beach.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-c2fdf99c" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Is Beachwood Blendery dog-friendly?**</div><div class="uagb-faq-content">
+Yes, the cozy patio is dog-friendly.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-a59748f9" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Beachwood Blendery have live music?**</div><div class="uagb-faq-content">
+Yes, Beachwood Blendery has live music performances during the evenings.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8da297e5" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Beachwood Blendery host events?**</div><div class="uagb-faq-content">
+Yes, Beachwood Blendery does hosts a variety of events, like paint nights and funk nights.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-cd4b46f3" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Beachwood Blendery have food?**</div><div class="uagb-faq-content">
+Not, regularly. You are welcomed to bring your own food and on Tuesdays they have a food popup to mix things up.
+</div></div>
+</div>
+
+Nestled in the heart of downtown Long Beach, [Beachwood Blendery](https://beachwoodbrewing.com/blendery.html) stands out as a craft beer haven with a unique twist. The brewery specializes in wild and sour ales, and Lambic-style Belgium brews, creating complex and flavorful blends that are sure to impress even the most discerning beer connoisseurs. Families will appreciate the spacious outdoor patio, complete with picnic tables and a relaxed atmosphere.
+
+Bring your furry friends along, as the patio is dog-friendly. Beachwood Blendery frequently hosts live music events, enhancing the laid-back ambiance. They also host a variety of exciting events, like funk night, trivia nights, and paint and pints nights. Keep an eye out for their rotating food popup on Tuesdays, offering delectable bites that complement their diverse beer selection. You are also welcomed to bring your own food.
+
+<figure id="beachwood-brewing-distilling-best-breweries-in-long-beach">[![](https://hotmamatravel.com/wp-content/uploads/2024/01/beachwood-brewing-distilling-best-breweries-in-long-beach.jpg)](/wp-content/uploads/2024/01/beachwood-brewing-distilling-best-breweries-in-long-beach.jpg)<figcaption class="wp-element-caption">Courtesy of Beachwood Brewing &amp; Distilling</figcaption></figure>
+
+<div class="wp-block-uagb-advanced-heading uagb-block-6f40c2bd">
+
+### Beachwood Brewing &amp; Distilling
+
+3630 Atlantic Ave., Long Beach, Ca 90807
+</div>
+
+<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-19aa360b uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-adce304c" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Is Beachwood Brewing &amp; Distilling family-friendly?**</div><div class="uagb-faq-content">
+Yes, Beachwood Brewing &amp; Distilling is kid-friendly.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-dc3d9430" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Is Beachwood Brewing &amp; Distilling dog-friendly?**</div><div class="uagb-faq-content">
+Yes, Beachwood Brewing &amp; Distilling is dog-friendly?
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-486fb6ac" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Beachwood Brewing &amp; Distilling have live music?**</div><div class="uagb-faq-content">
+Yes, Beachwood Brewing &amp; Distilling has live music on Fridays at 7pm.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-6558e2c4" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Beachwood Brewing &amp; Distilling host events?**</div><div class="uagb-faq-content">
+Yes, Beachwood Brewing &amp; Distilling has fun live events, like trivia nights, pinball wizard night, and more.
+</div></div>
+</div>
+
+Experience the harmonious blend of craft beer and live tunes at [Beachwood Brewing &amp; Distilling](https://beachwoodbrewing.com/bixbyknolls.html), making it a top contender among the best breweries in Long Beach. Live music performances elevate your brewery escapade. New artists perform every Friday starting at 7pm, and it’s free!
+
+The ultimate family-friendly destination amidst Long Beach's brew haven, Beachwood Brewing &amp; Distilling invites beer enthusiasts of all ages to relish its laid-back ambiance, ensuring a perfect outing for families seeking quality time and exceptional craft brews. Kids and adults will love playing the arcade-style games during their time at Beachwood.
+
+Long Beach's best breweries aren't just for humans! Beachwood Brewing &amp; Distilling opens its doors to your furry companions, offering a dog-friendly haven where your pets can bask in the coastal atmosphere alongside you.
+
+Beachwood Brewing &amp; Distilling crafts a symphony of unique beers that distinguish it as one of the best breweries in Long Beach. From hoppy IPAs to robust stouts, each sip reflects a commitment to quality ingredients and innovative brewing techniques, ensuring a flavorful and memorable experience.
+
+Elevate your craft beer journey with Beachwood's enticing food offerings. As one of Long Beach's premier breweries, they offer a variety of menus by partnering with a number of popup restaurants that perfectly complement their outstanding beer selection, creating a culinary adventure that enhances your overall brewery experience. Be sure to check their [events page](https://beachwoodbrewing.com/events.html) to see the current offerings.
+
+Embark on a blissful journey through Long Beach's craft beer scene, with Beachwood Brewing &amp; Distilling leading the charge as the epitome of excellence. Revel in the perfect blend of craft, community, and coastal vibes at one of the best breweries Long Beach has to offer.
+
+<div class="wp-block-uagb-advanced-heading uagb-block-c9b68201">
+
+### [Steady Brewing](/go/steady-brew-long-beach/)
+
+2950 Clark Ave, Long Beach, CA 90815
+</div>
+
+<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-c56a9d24 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8515d219" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Is Steady Brewing family-friendly?**</div><div class="uagb-faq-content">
+Yes, guests of all ages are welcomed at Steady Brewing.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8011cac5" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Is Steady Brewing dog-friendly?**</div><div class="uagb-faq-content">
+Yes, Steady Brewing dog-friendly.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-a5f88b84" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Steady Brewing have live music? **</div><div class="uagb-faq-content">
+Yes, Steady Brewing does have live music sometimes.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-45e7b6fd" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Steady Brewing host events?**</div><div class="uagb-faq-content">
+Yes, Steady Brewing does have events, like paint and pint nights.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-1d881448" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Steady Brewing offer food?**</div><div class="uagb-faq-content">
+Yes, Steady Brewing partners with food popups to bring you a delicious selection of grub.
+</div></div>
+</div>
+
+Steady Brew isn't just a brewery; it's a meeting ground for locals and travelers alike. The welcoming atmosphere and friendly staff create an environment where strangers become friends over shared pints. The community vibes make [Steady Brew](https://steadybrewing.com/long-beach/) not just a destination but a memory etched in the heart of Long Beach.
+
+What makes Steady Brew one of the best breweries in Long Beach is their dedication to the art of brewing. The brewmasters at Steady Brew craft each beer with precision, resulting in a diverse selection that caters to every palate. From hoppy ales to creative and fruity NuBrews, each brew tells a story of craftsmanship and creativity, making every sip a unique experience.
+
+Steady Brew is more than a craft beer bar; it's a community hub. Families are not just welcome; they're embraced. The atmosphere is inviting for all ages, creating an inclusive space for quality time. And for our furry friends, Steady Brew extends a paw-friendly welcome – making it a true family and pet-friendly destination.
+
+At Steady Brewing, they often partner with restaurants to provide yummy grub to compliment your craft brews. You are also welcomed to bring your own food to enjoy while to sip and socialize! Be sure to pop by for some live music or fun event to make the night even sweeter.
+
+**[See Photos, Reviews, &amp; More](/go/steady-brew-long-beach/)**
+
+<div class="wp-block-uagb-advanced-heading uagb-block-4af01f50">
+
+### [Ten Mile Brewing Company](/go/ten-mile-brewing-company-long-beach/)
+
+1136 E Willow St, Signal Hill, CA 90755
+</div>
+
+<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-8190029d uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d65d22c7" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Is Ten Mile Brewing Company family-friendly?**</div><div class="uagb-faq-content">
+Yes, Ten Mile Brewing Company is family and kid-friendly.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d15ad4d8" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Is Ten Mile Brewing Company dog-friendly?**</div><div class="uagb-faq-content">
+Yes, dogs are allowed on their outdoor patio at Ten Mile Brewing Company.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-c0105156" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Ten Mile Brewing Company have live music?**</div><div class="uagb-faq-content">
+Yes, Ten Mile Brewing Company does have live music.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d9f17844" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Ten Mile Brewing Company host events?**</div><div class="uagb-faq-content">
+Yes, Ten Mile Company host fun themed events throughout the year.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-42ad4b0a" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Ten Mile Brewing Company offer Food?**</div><div class="uagb-faq-content">
+Yes, they have a rotating menu and are best known for their house-made sourdough and pizzas.
+</div></div>
+</div>
+
+For a laid-back and family-friendly atmosphere, [Ten Mile Brewing Company](https://www.tenmilebrewing.com/) is a must-visit destination in Signal Hill. The expansive indoor space is complemented by a spacious outdoor seating area, providing ample room for families and friends. The spacious outdoor patio is dog-friendly and great for enjoying the beautiful California sun.
+
+This brewery is known for its diverse beer selection, ranging from classic styles to experimental brews that showcase the brewers' creativity. There is even house-made Root Beer for the little ones to enjoy!
+
+Ten Mile Brewing frequently hosts family-oriented events, making it an ideal spot for a weekend outing. Check their events calendar for live music performances and community-driven activities. If you need some spirits to lift your spirit, check out Beer and Hymns days at Ten Mile.
+
+To complete your experience, indulge in the diverse offerings with a rotating kitchen menu and a variety of exciting pizzas with in-house made sourdough.
+
+**[See Photos, Reviews, &amp; More](/go/ten-mile-brewing-company-long-beach/)**
+
+<div class="wp-block-uagb-image uagb-block-c0111861 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="steelcraft-best-breweries-in-long-beach"><figure>[![foodie haven at SteelCraft in Long Beach](https://hotmamatravel.com/wp-content/uploads/2024/01/steelcraft-best-breweries-in-long-beach.jpg)](/wp-content/uploads/2024/01/steelcraft-best-breweries-in-long-beach.jpg)<figcaption class="uagb-image-caption">Courtesy of SteelCraft Long Beach</figcaption></figure></div>
+
+<div class="wp-block-uagb-advanced-heading uagb-block-bab0e9ad">
+
+### [Smog City Brewing Co. @ SteelCraft Long Beach](/go/steelcraft-long-beach/)
+
+3768 Long Beach Blvd, Long Beach, CA 90807
+</div>
+
+<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-e4a61287 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-05f78bc6" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Is SteelCraft Long Beach family-friendly?**</div><div class="uagb-faq-content">
+Yes, guests of all ages are allowed at SteelCraft Long Beach.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b5990b2e" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Is SteelCraft Long Beach dog-friendly?**</div><div class="uagb-faq-content">
+Yes, SteelCraft Long Beach is dog-friendly.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-2c847634" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does SteelCraft have live music?**</div><div class="uagb-faq-content">
+Yes, SteelCraft does have live music.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-6335f414" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does SteelCraft host events?**</div><div class="uagb-faq-content">
+Yes, SteelCraft hosts many events, brunches, happy hours, and more.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8023041e" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does SteelCraft offer food?**</div><div class="uagb-faq-content">
+Yes, SteelCraft is a collection of exciting culinary urban eatery.
+</div></div>
+</div>
+
+This is really a brewery per say, but rather a unique outdoor urban eatery. [SteelCraft](https://steelcraftlb.com/steelcraft-long-beach/) is not just a place to dine; it's an experience that seamlessly blends culinary artistry, community vibes, and a touch of industrial-chic charm. Picture repurposed shipping containers transformed into chic eateries, creating a vibrant and communal dining space. The open-air layout invites patrons to savor their meals al fresco, surrounded by a mix of modern design and urban greenery.
+
+While SteelCraft Long Beach doesn't brew its own craft beers, it provides a platform for visitors to explore a selection of unique brews from different vendors within the complex. The craft beer offerings can vary depending on the individual establishments present at SteelCraft. For example, at Smog City Brewing Co, the taps flow with a symphony of sudsy perfection. From the hoppy crescendos of their IPAs to the deep, rich notes of their stouts, each brew is a masterpiece of craftsmanship. The brewers at Smog City are alchemists of flavor, constantly experimenting to bring you a dynamic and ever-evolving menu that tantalizes the taste buds.
+
+What sets SteelCraft apart is its curated selection of eateries, each housed in a unique shipping container. From artisanal tacos to gourmet burgers, poke bowls to craft coffee – the culinary diversity is a feast for every palate. The fusion of flavors and styles creates a dynamic culinary expedition within a single space.
+
+Locals and visitors alike gather in this shared space to enjoy good food, lively conversations, and the unmistakable sense of camaraderie that permeates the air. The communal seating areas encourage interactions, turning every meal into a social affair.
+
+SteelCraft Long Beach welcomes families with open arms. The casual atmosphere and diverse food options make it an ideal spot for a family outing. Children can enjoy the open space, and the variety of eateries ensures there's something for even the pickiest eaters. Additionally, SteelCraft is pet-friendly, allowing furry companions to join in the fun, making it a perfect destination for the entire family.
+
+From live music performances to themed nights, the space comes alive with activities that go beyond dining. Check their events calendar for a schedule of happenings that add an extra layer of vibrancy to your visit.
+
+**[See Photos, Reviews, &amp; More](/go/steelcraft-long-beach/)**
+
+<div class="wp-block-uagb-advanced-heading uagb-block-6cf41ebc">
+
+### [Belmont Brewing Co](/go/belmont-brewing-company-long-beach/)
+
+25 39th Pl, Long Beach, CA 90803
+</div>
+
+<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-a35a3356 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8caf6363" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Is Belmont Brewing Co family-friendly?**</div><div class="uagb-faq-content">
+Yes, Belmont Brewing Co is family-friendly.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b1d70871" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Is Belmont Brewing Co dog-friendly?**</div><div class="uagb-faq-content">
+No, Belmont Brewing Co is not dog-friendly.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-bb6b72f3" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Belmont Brewing Co have live music?**</div><div class="uagb-faq-content">
+Yes, Belmont Brewing Co has live music Wednesday through Saturday.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-238a81c7" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Belmont Brewing Co host events?**</div><div class="uagb-faq-content">
+Yes, Belmont hosts many exciting events, like Salsa nights, Jazz nights, and more.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-44d05519" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Belmont Brewing Co offer food?**</div><div class="uagb-faq-content">
+Yes, Belmont Brewing Co is also a restaurant with a full menu of a variety of food options.
+</div></div>
+</div>
+
+Belmont Brewing Co boasts a stellar lineup of craft beers that mirror the spirit of the sea. From crisp ales to robust stouts, each sip takes you on a journey through the diverse and carefully crafted brews. Their commitment to quality and innovation is evident in every pint, making [Belmont Brewing Co](https://www.belmontbrewing.com/) a beacon for beer enthusiasts seeking coastal craftsmanship.
+
+What sets Belmont Brewing Co apart is the harmonious fusion of live music and the gentle ocean breeze. The brewery often transforms into a stage for local musicians, creating an ambiance where melodies dance with the sound of crashing waves. Be sure to pop in for Salsa lessons, Jazz night, and live music. Check their events calendar for live performances and themed gatherings, adding a rhythmic note to your seaside sipping experience.
+
+Belmont Brewing Co welcomes families with open arms, making it more than just a brewery; it's a gathering place for all generations. The family-friendly atmosphere ensures that kids and adults alike can revel in the coastal charm. With spacious seating and a warm ambiance, Belmont Brewing Co is where family moments become lasting memories.
+
+As you soak in the maritime atmosphere, don't miss out on the culinary delights from Belmont Brewing Co's menu. From seafood specialties to pub classics, their offerings are a reflection of Long Beach's diverse culinary landscape. Savor the flavors of the coast with each bite, perfectly complementing the craft brews and ocean views.
+
+As you soak in the maritime atmosphere, don't miss out on the culinary delights from Belmont Brewing Co's menu. From seafood specialties to pub classics, their offerings are a reflection of Long Beach's diverse culinary landscape. Savor the flavors of the coast with each bite, perfectly complementing the craft brews and ocean views.
+
+**[See Photos, Reviews, &amp; More](/go/belmont-brewing-company-long-beach/)**
+
+<div class="wp-block-uagb-advanced-heading uagb-block-590dd5fc">
+
+### [Dutch's Brewhouse](/go/dutchs-brewhouse-long-beach/)
+
+4244 Atlantic Ave, Long Beach, CA 90807
+</div>
+
+<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-3d0dec8d uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8d469530" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Is Dutch's Brewhouse family-friendly?**</div><div class="uagb-faq-content">
+Yes, Dutch's Brewhouse is a family-friendly pub atmosphere.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-76b3cbc3" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Is Dutch's Brewhouse dog-friendly?**</div><div class="uagb-faq-content">
+Yes, Dutch's Brewhouse allows dogs.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-2d0996d1" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Dutch's Brewhouse have live music?**</div><div class="uagb-faq-content">
+Yes, Dutch's Brewhouse has live music on Thursdays from 11pm to 2pm.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-86b7d55e" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Dutch's Brewhouse host events?**</div><div class="uagb-faq-content">
+Yes, Dutch's Brewhouse hosts cool events, like karaoke nights on Wednesdays and brew your own beer sessions.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b974025c" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Dutch's Brewhouse offer food?**</div><div class="uagb-faq-content">
+Yes, Dutch's Brewhouse offers pub-style appetizers, sandwiches, salads, pizzas and more.
+</div></div>
+</div>
+
+Dutch's Brewhouse isn't just about hops and barley; it's about creating moments for the whole family. With a family-friendly atmosphere, kids can play, parents can relax, and everyone can savor the joy of a shared experience. It's a place where every sip is a celebration, and family time is the main course on the menu.
+
+Your furry companions are more than welcome at Dutch's! This brewery wears its dog-friendly badge proudly, providing a pet-friendly patio where your pup can bask in the Long Beach sun while you explore the brew menu. It's a tail-wagging good time for all – because Dutch's knows that the best brews are enjoyed with your best buds, furry or not!
+
+Dutch's isn't just a place to sip; it's a stage for entertainment. Check out their events calendar for live music performances and karaoke nights that turn your brewery visit into a symphony of sounds. Dutch's knows how to keep the fun vibes flowing, ensuring that every visit is a lively and memorable experience.
+
+What's the secret behind Dutch's cool factor? It's all in the brews! Crafted with precision and a touch of Dutch's magic, their beers are a testament to the art of brewing. From crisp lagers to bold IPAs, each sip unveils a world of flavor that reflects the creativity and expertise behind the brewhouse doors. It's the kind of cool you can taste in every pour.
+
+Dutch's Brewhouse doesn't just serve up stellar suds; they've got a culinary lineup that's equally impressive. From beer-friendly bites to hearty meals, the menu is a gastronomic journey designed to elevate your beer-tasting experience. Expect a delicious array of options that pair perfectly with the diverse brews on offer.
+
+**[See Photos, Reviews, &amp; More](/go/dutchs-brewhouse-long-beach/)**
+
+<div class="wp-block-uagb-image uagb-block-850c7834 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="trademark-brewing-best-breweries-in-long-beach"><figure>[![Trademark Brewing in Long Beach](https://hotmamatravel.com/wp-content/uploads/2024/01/trademark-brewing-best-breweries-in-long-beach.jpg)](/wp-content/uploads/2024/01/trademark-brewing-best-breweries-in-long-beach.jpg)<figcaption class="uagb-image-caption">Courtesy of Trademark Brewing</figcaption></figure></div>
+
+<div class="wp-block-uagb-advanced-heading uagb-block-381bd0f8">
+
+### [Trademark Brewing](/go/trademark-brewing-long-beach/)
+
+233 E Anaheim St, Long Beach, CA 90813
+</div>
+
+<div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-72f10850 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d1c37db1" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Is Trademark Brewing family-friendly?**</div><div class="uagb-faq-content">
+Yes, Trademark Brewing is family-friendly and welcomes kids.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-e9a59f80" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Is Trademark Brewing dog-friendly?**</div><div class="uagb-faq-content">
+Yes, Trademark Brewing is dog-friendly.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-7a7816b6" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Trademark Brewing have live music?**</div><div class="uagb-faq-content">
+No, Trademark Brewing does not at this time have a live music schedule.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-ab53e363" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Trademark Brewing host events?**</div><div class="uagb-faq-content">
+Yes, Trademark Brewing host a variety of exciting events, like Beer Yoga, Line Dancing, and Trivia Night.
+</div></div>
+
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-23fe9d43" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
+</path></svg>**Does Trademark Brewing offer food?**</div><div class="uagb-faq-content">
+Yes, Trademark Brewing offers a rotating lineup of fun food trucks. They also allow outside food.
+</div></div>
+</div>
+
+Get ready for some family shenanigans at one of the best breweries in Long Beach! [Trademark Brewing](https://trademarkbrewing.com/) isn't just about crafty concoctions; they're about creating kick-back-and-relax moments for every age. Grab a pint, watch the kiddos play, and let the whole fam dive into the fun – because the Trademark Brewing is where families brew memories!
+
+Forget "no dogs allowed" signs! Trademark Brewing in Long Beach rolls out the red carpet for your furry sidekicks. It's a paw-ty every day as your four-legged friend frolics in the sun-soaked outdoor areas. Grab a brew, let the tail-wagging commence, and revel in the fact that the best breweries are for both two and four-legged patrons! They even have dog bones for your furry baby to snack on.
+
+What makes Trademark Brewing unique is that it is one of the few breweries in California dedicated to sustainability. Their unique equipment and methods enable them to utilize less than half the water typically consumed by breweries of comparable size, along with a 30% reduction in energy consumption.
+
+The jaw-dropping, taste bud-dazzling, flavor adventures that go beyond your average pint. From hoppy hoorahs to rich stouts, each sip is a rollercoaster of taste, a symphony of unique flavors that make breweries like Trademark champions of the craft beer scene. Try a fun fruity sour or cool down with a beer slushy! It is all their for your sipping pleasure.
+
+Who needs a kitchen when you've got a parade of food trucks? At Trademark Brewing, it's a culinary carnival with rotating food trucks offering up bites that dance with your chosen brew. It's like a flavor festival, a foodie fiesta, and a brew-tasting bonanza – all rolled into one lip-smacking experience!
+
+**[See Photos, Reviews, &amp; More](/go/trademark-brewing-long-beach/)**
+
+Long Beach's family-friendly breweries are not just places to enjoy great beer; they're destinations that offer a unique blend of community, creativity, and craft. From the intricate blends at Beachwood Blendery to the waterfront charm of Ballast Point, each brewery contributes to the vibrant tapestry of Long Beach's craft beer culture. Plan your visit to Long Beach and embark on a journey of flavor, fun, and family-friendly festivities. Cheers!
+
+For more cool breweries in more cool cities, check out our [Best Breweries in America](/americas-best-breweries/) page to explore.
+
+<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
+Like it? Pin it!
+
+<figure id="best-family-friendly-breweries-long-beach-california">[![](https://hotmamatravel.com/wp-content/uploads/2024/01/best-family-friendly-breweries-long-beach-california-200x300.jpg)](/images/2024/01/best-family-friendly-breweries-long-beach-california.jpg)</figure>
+</div></div>

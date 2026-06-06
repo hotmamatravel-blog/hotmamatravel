@@ -12,8 +12,8 @@ wpSlug: "family-travel-uncensored"
 author: "Amanda Keeley-Thurman"
 ---
 
-UNCENSOREDabout the wonderful insanity of traveling with kidsLet's face it, being a parent is <strong>HARD</strong>. <em>And traveling with kids is</em> <em>even harder</em>. The truth is that we can learn so much from other peoples' experiences.
+UNCENSOREDabout the wonderful insanity of traveling with kidsLet's face it, being a parent is **HARD**. *And traveling with kids is* *even harder*. The truth is that we can learn so much from other peoples' experiences.
 
-This curated collection of true stories from real families will make you <strong>laugh</strong>. They will make you <strong>cry</strong>. They will teach you <strong>invaluable lessons</strong>. They will make you a <strong>better, safer</strong> traveler. And perhaps most importantly, they will make you feel that you are not alone in this.
+This curated collection of true stories from real families will make you **laugh**. They will make you **cry**. They will teach you **invaluable lessons**. They will make you a **better, safer** traveler. And perhaps most importantly, they will make you feel that you are not alone in this.
 
-<em></em>
+**

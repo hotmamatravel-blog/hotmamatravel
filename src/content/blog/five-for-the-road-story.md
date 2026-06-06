@@ -36,7 +36,7 @@ So we figured driving was the best option seeing as we could just rent a car for
 
 I am happy we went with driving because we learned a lot about what it’s like to depend on each other. We experienced what it’s like to be stuck in a car for three days with each other, and that we can take on anything as a family.
 
-If you are a parent you know that whether you are going to the store for an hour or a 1,200-mile road trip, you <strong>MUST</strong> prep and pack. I packed all the essentials for a family road trip, and in case you are interested, <em>I go into all the details on my own blog</em> <a href="https://www.fivefortheroad.com/essential-tips-family-road-trip/" target="_blank" rel="noopener noreferrer"><span style="color: #ff0000;"><strong>HERE</strong></span></a>.
+If you are a parent you know that whether you are going to the store for an hour or a 1,200-mile road trip, you **MUST** prep and pack. I packed all the essentials for a family road trip, and in case you are interested, *I go into all the details on my own blog* [**HERE**](https://www.fivefortheroad.com/essential-tips-family-road-trip/).
 
 In short, a road trip basically requires food, drinks, and entertainment. I packed our car with goldfish, everyone’s favorite snacks, bottles, juice, and other goodies to last us longer than the three-day drive.
 
@@ -48,15 +48,15 @@ We create a playlist of our favorite songs and burn them to a CD that becomes ou
 
 Then we checked the weather.
 
-A <em>huge</em> snowstorm was moving across the country and would be directly over where we were headed through New York state and Pennsylvania.
+A *huge* snowstorm was moving across the country and would be directly over where we were headed through New York state and Pennsylvania.
 
-I thought, “<em>We can’t let a little snowstorm stop us from sunshine and warm weather</em>”. So we moved the trip up a day and decided to start our journey to Florida a day earlier.
+I thought, “*We can’t let a little snowstorm stop us from sunshine and warm weather*”. So we moved the trip up a day and decided to start our journey to Florida a day earlier.
 
 It was freezing and early as we packed into the car for our first part of the trip. Our goal was to drive 600 miles (about 10 hours) from Rochester, NY to Rocky Mount, North Carolina.
 
 We quietly carried each kid wrapped in their blanket to their car seat, buckled them in, and hoped they would fall back to sleep. They didn’t, but it was quiet and they did eventually fall asleep about an hour into the drive.
 
-As we drove on the quiet, snowy, dark streets I felt accomplished. I thought, “<em>We could totally do this</em>”.The sun was rising and we had been driving for about 3 hours, so we decided to make a quick stop for breakfast. Dunkin Donuts would be easy and quick, I thought.
+As we drove on the quiet, snowy, dark streets I felt accomplished. I thought, “*We could totally do this*”.The sun was rising and we had been driving for about 3 hours, so we decided to make a quick stop for breakfast. Dunkin Donuts would be easy and quick, I thought.
 
 And it was. Our stop took less than 15 minutes and we didn’t even have to get out of the car.
 
@@ -66,7 +66,7 @@ Imagine us - playing our Jammy Jam, looking out the window at America’s beauti
 
 But about 15 minutes after breakfast it started.
 
-I was watching the scenery pass me be when I heard it - the <em>sound</em> that no mother ever wants to hear coming from her child.
+I was watching the scenery pass me be when I heard it - the *sound* that no mother ever wants to hear coming from her child.
 
 Especially from her child stuck helplessly in the back row of a van surrounded by a maze of blankets, suitcases, coolers and stuffed animals.
 
@@ -88,7 +88,7 @@ Twenty dollars later I had every sprayer, disinfectant, and cleaner I could find
 
 He discovered that there was no way we could save the car seat.
 
-It was <em>completely</em> <em>covered</em> and there was just no way we could clean it up enough for my son to sit in it for the long drive ahead of us. I couldn’t believe it. I did heroically try to fix it with my gas station cleaning supplies but eventually I, too, had no choice but to admit defeat.
+It was *completely* *covered* and there was just no way we could clean it up enough for my son to sit in it for the long drive ahead of us. I couldn’t believe it. I did heroically try to fix it with my gas station cleaning supplies but eventually I, too, had no choice but to admit defeat.
 
 Now what? I honestly didn’t know what to do.
 
@@ -102,7 +102,7 @@ We arrived at the store and waited about 15 minutes for it to open. While my hus
 
 We think it was a mix of the rolling Pennsylvania hills, the juice box, and that frosted doughnut early in the morning that did him in.
 
-Thankfully they had plenty of car seats in stock and we were installed and back on the road within 20 minutes. It was one of those moments where I looked at my husband and proudly thought, “<em>We got this</em>”.Traveling with a family is funny – you have these crazy moments, there are tears and yelling, frustration and a range of emotions - but then the moment passes.
+Thankfully they had plenty of car seats in stock and we were installed and back on the road within 20 minutes. It was one of those moments where I looked at my husband and proudly thought, “*We got this*”.Traveling with a family is funny – you have these crazy moments, there are tears and yelling, frustration and a range of emotions - but then the moment passes.
 
 And in the end, amazingly, you are left feeling stronger.
 
@@ -116,7 +116,7 @@ Was this trip easy? NO!
 
 Would I do it again? Yes. Of course.
 
-Thankfully I have gotten better at planning road trips, <em>like our trip to Myrtle Beach that you can read about</em> <a href="https://www.fivefortheroad.com/road-trip-myrtle-beach/" target="_blank" rel="noopener noreferrer"><strong><span style="color: #ff0000;">HERE</span></strong></a>, and the kids have gotten older and more accustomed to traveling.
+Thankfully I have gotten better at planning road trips, *like our trip to Myrtle Beach that you can read about* [**HERE**](https://www.fivefortheroad.com/road-trip-myrtle-beach/), and the kids have gotten older and more accustomed to traveling.
 
 But our New York to Florida road trip is one of my favorite family memories. It has stayed with me all these years because it felt like we accomplished something special.
 
@@ -124,10 +124,10 @@ We made it to the sunshine state as a family and it started us on a bigger journ
 
 That one road trip laid the foundation for us to really prioritize family travel and make family time one of our prized goals.
 
-I will always remember all the crazy moments from our road trips, but mostly, I remember all the good ways it has connected our family.<strong>To learn more about Leah and her family, please visit her blog at</strong> <span style="color: #ff0000;"><strong><a style="color: #ff0000;" href="https://www.fivefortheroad.com/" target="_blank" rel="noopener noreferrer">Five For The Road</a></strong></span>.
+I will always remember all the crazy moments from our road trips, but mostly, I remember all the good ways it has connected our family.**To learn more about Leah and her family, please visit her blog at** **[Five For The Road](https://www.fivefortheroad.com/)**.
 
-<em>Want to read more TRUE stories like this!? Navigate to our main page:</em> <span style="color: #ff0000;"><strong><a style="color: #ff0000;" href="/real-family-travel-stories/" target="_blank" rel="noopener noreferrer">Family Travel Uncensored</a></strong></span>
+*Want to read more TRUE stories like this!? Navigate to our main page:* **[Family Travel Uncensored](/real-family-travel-stories/)**
 
-<strong><span style="color: #ff0000;">Like it? Pin it!</span></strong>
+**Like it? Pin it!**
 
-<img class="alignleft wp-image-9966 size-large" src="https://hotmamatravel.com/wp-content/uploads/2018/11/Five-for-the-road-pin-683x1024.jpg" alt="Family Travel Uncensored - A little Barf is just a Bump in the Road for this Road Trippin’ Family" width="683" height="1024" />
+![Family Travel Uncensored - A little Barf is just a Bump in the Road for this Road Trippin’ Family](https://hotmamatravel.com/wp-content/uploads/2018/11/Five-for-the-road-pin-683x1024.jpg)

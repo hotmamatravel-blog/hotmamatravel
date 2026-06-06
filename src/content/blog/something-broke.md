@@ -12,10 +12,10 @@ wpSlug: "something-broke"
 author: "Amanda Keeley-Thurman"
 ---
 
-<strong><span style="color: #000000;"> <a href="/something-broke/"><img class=" wp-image-2940 alignleft" src="https://hotmamatravel.com/wp-content/uploads/2015/08/IMG_2358-e1439598687175-1024x681.jpg" alt="OH NO" width="393" height="261" /></a>      I'm sorry! You've found a broken link or requested a page          that is no longer available. </span></strong>
-<strong>         But there is good news!</strong>
+** [![OH NO](https://hotmamatravel.com/wp-content/uploads/2015/08/IMG_2358-e1439598687175-1024x681.jpg)](/something-broke/)      I'm sorry! You've found a broken link or requested a page          that is no longer available. **
+**         But there is good news!**
 
-<strong>         You can go back to the <a href="/">Home Page</a> and start over.</strong>
+**         You can go back to the [Home Page](/) and start over.**
 &nbsp;
 If you are looking for more information about family travel, you should sign up for for my weekly updates.
 

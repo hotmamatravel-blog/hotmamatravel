@@ -10,7 +10,7 @@ wpSlug: "disclosure-policy"
 author: "Amanda Keeley-Thurman"
 ---
 
-<span style="color: #808080;"><em>This policy is valid from 05 November 2017</em></span>
+*This policy is valid from 05 November 2017*
 
 HotMamaTravel.com is a personal blog written and edited by me. This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
 
@@ -20,7 +20,7 @@ The owner(s) of this blog is compensated to provide opinion on products, service
 
 Amazon Affiliate Disclosure:
 
-<em>HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing advice in helping you to decide on your purchase if you use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!</em>
+*HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing advice in helping you to decide on your purchase if you use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
 This blog does not contain any content which might present a conflict of interest.
 

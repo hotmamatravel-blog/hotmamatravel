@@ -12,80 +12,72 @@ wpSlug: "airports-flights-children-survival-guide"
 author: "Amanda Keeley-Thurman"
 ---
 
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Traveling with young children can be a daunting task, especially when it involves navigating airports and flights. It may even make some parents think twice before planning a holiday! However, with proper preparation and the right attitude, travelling with young children can actually be a fun and rewarding experience for both parents and kids. Yes, really! This survival guide provides practical tips to help parents successfully navigate airports and flights with young children.</p>
-<!-- /wp:paragraph -->
 
-<!-- wp:block {"ref":12046} /-->
+Traveling with young children can be a daunting task, especially when it involves navigating airports and flights. It may even make some parents think twice before planning a holiday! However, with proper preparation and the right attitude, travelling with young children can actually be a fun and rewarding experience for both parents and kids. Yes, really! This survival guide provides practical tips to help parents successfully navigate airports and flights with young children.
 
-<!-- wp:uagb/advanced-heading {"block_id":"42a30e40","classMigrate":true,"headingDescToggle":false,"headingAlign":"left","subHeadingColor":"","headingTag":"h3","subHeadFontStyle":"italic"} -->
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40"><h3 class="uagb-heading-text">Get your ducks in a row early</h3></div>
-<!-- /wp:uagb/advanced-heading -->
+<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">One of the keys to a successful travel experience with young children lies in early preparation. Ensure your child's identification and travel documents are in order, and if needed, inform the airline about any special requirements or requests. Make a checklist of essential items such as diapers,<a href="https://www.huggies.com.au/baby-wipes" target="_blank" rel="noreferrer noopener"> wipes</a>, snacks, toys, and any necessary medications. Plan your route to the airport and make sure to leave plenty of time for unexpected delays. By getting organized early, you can avoid unnecessary stress and focus on enjoying your trip.</p>
-<!-- /wp:paragraph -->
+### Get your ducks in a row early
 
-<!-- wp:uagb/advanced-heading {"block_id":"3fbc7ec5","classMigrate":true,"headingDescToggle":false,"headingAlign":"left","subHeadingColor":"","headingTag":"h3","subHeadFontStyle":"italic"} -->
-<div class="wp-block-uagb-advanced-heading uagb-block-3fbc7ec5"><h3 class="uagb-heading-text">Choose child-friendly airlines</h3></div>
-<!-- /wp:uagb/advanced-heading -->
+</div>
 
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">When doing your research for the travel ahead, consider choosing an airline that caters well to families. Selecting child-friendly airlines can have a positive impact on the overall travel experience. Some airlines offer amenities such as pre-boarding, baby bassinets, children's meals, and entertainment options tailored to different age groups. If possible, book direct flights to avoid the hassle of layovers and connections.</p>
-<!-- /wp:paragraph -->
+One of the keys to a successful travel experience with young children lies in early preparation. Ensure your child's identification and travel documents are in order, and if needed, inform the airline about any special requirements or requests. Make a checklist of essential items such as diapers,[wipes](https://www.huggies.com.au/baby-wipes), snacks, toys, and any necessary medications. Plan your route to the airport and make sure to leave plenty of time for unexpected delays. By getting organized early, you can avoid unnecessary stress and focus on enjoying your trip.
 
-<!-- wp:uagb/advanced-heading {"block_id":"dbe58b0b","classMigrate":true,"headingDescToggle":false,"headingAlign":"left","subHeadingColor":"","headingTag":"h3","subHeadFontStyle":"italic"} -->
-<div class="wp-block-uagb-advanced-heading uagb-block-dbe58b0b"><h3 class="uagb-heading-text">Plan strategically</h3></div>
-<!-- /wp:uagb/advanced-heading -->
+<div class="wp-block-uagb-advanced-heading uagb-block-3fbc7ec5">
 
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">It's all about timing. Consider scheduling your flights during your child's naptime or bedtime to increase the likelihood of a peaceful journey. Choose direct flights to minimize layovers and reduce overall travel time. Plan for some buffer time to account for unexpected delays or extended security checks. Additionally, try to pick seats near the front of the plane or in a bulkhead row for extra legroom and easier access to bathrooms. Some airlines have seating delegated specifically for families with young children.</p>
-<!-- /wp:paragraph -->
+### Choose child-friendly airlines
 
-<!-- wp:uagb/advanced-heading {"block_id":"c4b68a1a","classMigrate":true,"headingDescToggle":false,"headingAlign":"left","subHeadingColor":"","headingTag":"h3","subHeadFontStyle":"italic"} -->
-<div class="wp-block-uagb-advanced-heading uagb-block-c4b68a1a"><h3 class="uagb-heading-text">Pack a carry-on essentials bag</h3></div>
-<!-- /wp:uagb/advanced-heading -->
+</div>
 
-<!-- wp:paragraph -->
-<p>Long flights can be especially challenging for young children who may become bored or restless easily. Create a well-stocked carry-on bag with essential items to keep your child entertained and comfortable during the flight. Include snacks, water, extra clothes, diapers, wipes, a favorite blanket or toy, and any necessary medications. Packing a variety of distractions, such as coloring books, small games, or electronic devices, can help keep your child engaged during the flight.</p>
-<!-- /wp:paragraph -->
+When doing your research for the travel ahead, consider choosing an airline that caters well to families. Selecting child-friendly airlines can have a positive impact on the overall travel experience. Some airlines offer amenities such as pre-boarding, baby bassinets, children's meals, and entertainment options tailored to different age groups. If possible, book direct flights to avoid the hassle of layovers and connections.
 
-<!-- wp:uagb/advanced-heading {"block_id":"b9eb1f5e","classMigrate":true,"headingDescToggle":false,"headingAlign":"left","subHeadingColor":"","headingTag":"h3","subHeadFontStyle":"italic"} -->
-<div class="wp-block-uagb-advanced-heading uagb-block-b9eb1f5e"><h3 class="uagb-heading-text">Protect your items</h3></div>
-<!-- /wp:uagb/advanced-heading -->
+<div class="wp-block-uagb-advanced-heading uagb-block-dbe58b0b">
 
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Traveling with kids means packing a lot of extra items and valuables. To keep everything safe, pack important documents such as passports, tickets, and identification cards in a secure and easily accessible location. Use luggage locks to prevent theft or tampering with your bags. Additionally, consider investing in travel insurance to cover any potential<a href="https://auspost.com.au/travel-insurance" target="_blank" rel="noreferrer noopener"> loss or damage</a> to your belongings. It's always better to be safe than sorry.</p>
-<!-- /wp:paragraph -->
+### Plan strategically
 
-<!-- wp:uagb/advanced-heading {"block_id":"ed4b37cf","classMigrate":true,"headingDescToggle":false,"headingAlign":"left","subHeadingColor":"","headingTag":"h3","subHeadFontStyle":"italic"} -->
-<div class="wp-block-uagb-advanced-heading uagb-block-ed4b37cf"><h3 class="uagb-heading-text">Dress comfortably</h3></div>
-<!-- /wp:uagb/advanced-heading -->
+</div>
 
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Ensure you and your child are dressed comfortably for the journey. Choose layers for varying temperatures in the airport and on the plane. Avoid complicated outfits that may make diaper changes or restroom visits challenging. Comfortable shoes are essential, especially for walking through large airports. Keep in mind that you may have to carry your child and any additional luggage, so choose practical and comfortable clothing for both of you.</p>
-<!-- /wp:paragraph -->
+It's all about timing. Consider scheduling your flights during your child's naptime or bedtime to increase the likelihood of a peaceful journey. Choose direct flights to minimize layovers and reduce overall travel time. Plan for some buffer time to account for unexpected delays or extended security checks. Additionally, try to pick seats near the front of the plane or in a bulkhead row for extra legroom and easier access to bathrooms. Some airlines have seating delegated specifically for families with young children.
 
-<!-- wp:uagb/advanced-heading {"block_id":"bdd04934","classMigrate":true,"headingDescToggle":false,"headingAlign":"left","subHeadingColor":"","headingTag":"h3","subHeadFontStyle":"italic"} -->
-<div class="wp-block-uagb-advanced-heading uagb-block-bdd04934"><h3 class="uagb-heading-text">Be prepared for security checks</h3></div>
-<!-- /wp:uagb/advanced-heading -->
+<div class="wp-block-uagb-advanced-heading uagb-block-c4b68a1a">
 
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Security procedures can be tedious and stressful, especially with young children. Make sure to pack all liquids in a clear, zip-lock bag and have them easily accessible during security checks. Familiarize yourself with the<a href="https://www.tsa.gov/travel/tsa-cares/traveling-children" target="_blank" rel="noreferrer noopener"> rules</a> regarding baby items, such as formula, breast milk, and baby food. Wear easily removable shoes and jackets to speed up the process. If travelling with a stroller or car seat, check with your airline for regulations on checking them in. It may be easier to use a carrier or sling instead of bringing a stroller through security.</p>
-<!-- /wp:paragraph -->
+### Pack a carry-on essentials bag
 
-<!-- wp:uagb/advanced-heading {"block_id":"566027b7","classMigrate":true,"headingDescToggle":false,"headingAlign":"left","subHeadingColor":"","headingTag":"h3","subHeadFontStyle":"italic"} -->
-<div class="wp-block-uagb-advanced-heading uagb-block-566027b7"><h3 class="uagb-heading-text">Utilize airport assistance</h3></div>
-<!-- /wp:uagb/advanced-heading -->
+</div>
 
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Many airports offer assistance for families traveling with young children. Check with the airport staff about available services, such as stroller rentals, family restrooms, and priority boarding. Take advantage of these amenities to make your journey more convenient. Some airlines also offer pre-boarding for families with young children, allowing you to get settled on the plane before other passengers. This can be especially helpful if you have a lot of carry-on luggage or need extra time to get your child comfortable.</p>
-<!-- /wp:paragraph -->
+Long flights can be especially challenging for young children who may become bored or restless easily. Create a well-stocked carry-on bag with essential items to keep your child entertained and comfortable during the flight. Include snacks, water, extra clothes, diapers, wipes, a favorite blanket or toy, and any necessary medications. Packing a variety of distractions, such as coloring books, small games, or electronic devices, can help keep your child engaged during the flight.
 
-<!-- wp:block {"ref":17013} /-->
+<div class="wp-block-uagb-advanced-heading uagb-block-b9eb1f5e">
 
-<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Traveling with young children may pose its challenges, but with careful planning and a positive attitude, it can also be a rewarding and memorable experience for the entire family. It's important to note that the experience may vary depending on the age and needs of your child - a newborn will have different requirements compared to a toddler or young child. It is best to plan accordingly, taking into consideration factors such as nap time, meal times, and entertainment. Be patient and flexible, and remember to enjoy the journey along the way.</p>
-<!-- /wp:paragraph -->
+### Protect your items
 
-<!-- wp:block {"ref":12046} /-->
+</div>
+
+Traveling with kids means packing a lot of extra items and valuables. To keep everything safe, pack important documents such as passports, tickets, and identification cards in a secure and easily accessible location. Use luggage locks to prevent theft or tampering with your bags. Additionally, consider investing in travel insurance to cover any potential[loss or damage](https://auspost.com.au/travel-insurance) to your belongings. It's always better to be safe than sorry.
+
+<div class="wp-block-uagb-advanced-heading uagb-block-ed4b37cf">
+
+### Dress comfortably
+
+</div>
+
+Ensure you and your child are dressed comfortably for the journey. Choose layers for varying temperatures in the airport and on the plane. Avoid complicated outfits that may make diaper changes or restroom visits challenging. Comfortable shoes are essential, especially for walking through large airports. Keep in mind that you may have to carry your child and any additional luggage, so choose practical and comfortable clothing for both of you.
+
+<div class="wp-block-uagb-advanced-heading uagb-block-bdd04934">
+
+### Be prepared for security checks
+
+</div>
+
+Security procedures can be tedious and stressful, especially with young children. Make sure to pack all liquids in a clear, zip-lock bag and have them easily accessible during security checks. Familiarize yourself with the[rules](https://www.tsa.gov/travel/tsa-cares/traveling-children) regarding baby items, such as formula, breast milk, and baby food. Wear easily removable shoes and jackets to speed up the process. If travelling with a stroller or car seat, check with your airline for regulations on checking them in. It may be easier to use a carrier or sling instead of bringing a stroller through security.
+
+<div class="wp-block-uagb-advanced-heading uagb-block-566027b7">
+
+### Utilize airport assistance
+
+</div>
+
+Many airports offer assistance for families traveling with young children. Check with the airport staff about available services, such as stroller rentals, family restrooms, and priority boarding. Take advantage of these amenities to make your journey more convenient. Some airlines also offer pre-boarding for families with young children, allowing you to get settled on the plane before other passengers. This can be especially helpful if you have a lot of carry-on luggage or need extra time to get your child comfortable.
+
+Traveling with young children may pose its challenges, but with careful planning and a positive attitude, it can also be a rewarding and memorable experience for the entire family. It's important to note that the experience may vary depending on the age and needs of your child - a newborn will have different requirements compared to a toddler or young child. It is best to plan accordingly, taking into consideration factors such as nap time, meal times, and entertainment. Be patient and flexible, and remember to enjoy the journey along the way.
+

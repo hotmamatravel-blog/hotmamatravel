@@ -18,11 +18,11 @@ It was a black tie affair and it was going to be a supremely chic event for such
 
 We got him a little tuxedo, complete with a vest and cummerbund, with fancy black shoes. We couldn’t get over just how CUTE he was all dressed up for such a glamorous occasion!
 
-We even joked that he was a “little celebrity”, like a miniature George Clooney. Little did we know that would turn out to be true!Since the wedding was in Italy, we thought it would be fun to extend our trip by doing a cruise around the Mediterranean prior to the wedding. <em>You can read more about the trip on my blog </em><span style="color: #ff0000;"><strong><a style="color: #ff0000;" href="https://www.marcieinmommyland.com/cruising-with-a-toddler/" target="_blank" rel="noopener noreferrer">HERE</a></strong></span><em>.</em>
+We even joked that he was a “little celebrity”, like a miniature George Clooney. Little did we know that would turn out to be true!Since the wedding was in Italy, we thought it would be fun to extend our trip by doing a cruise around the Mediterranean prior to the wedding. *You can read more about the trip on my blog ***[HERE](https://www.marcieinmommyland.com/cruising-with-a-toddler/)***.*
 
 I had never been on a cruise before, but I heard they were kid-friendly. It was such a good choice because it was the most relaxing vacation we’d been on so far with a toddler.
 
-We had been nervous about the flight from Seattle to Rome, but it ended up being a breeze! I made a few <strong><span style="color: #ff0000;"><a style="color: #ff0000;" href="https://www.marcieinmommyland.com/preschool-busy-bag-ideas-airplane-flights/" target="_blank" rel="noopener noreferrer">busy bags</a></span></strong> full of airplane activities and we brought a ton of snacks.
+We had been nervous about the flight from Seattle to Rome, but it ended up being a breeze! I made a few **[busy bags](https://www.marcieinmommyland.com/preschool-busy-bag-ideas-airplane-flights/)** full of airplane activities and we brought a ton of snacks.
 
 When we boarded our Royal Caribbean cruise, it was like all our cares just melted away. We could grab food whenever anyone was hungry and they had a nursery available to watch our toddler so we could get a massage, read a book, or have a kid-free dinner.
 
@@ -34,7 +34,7 @@ And it was the first time we didn’t feel like we had to apologize for travelin
 
 We chose to do several cruise excursions throughout the trip. We saw the site of the first Olympic games, relaxed on a beach in Mykonos, and climbed the stairs in Oia to see the iconic blue doors.
 
-<em>Side note: If you go to Oia with a toddler during a heatwave in August, be prepared to be lectured by shopkeepers if he’s not wearing a hat!</em>
+*Side note: If you go to Oia with a toddler during a heatwave in August, be prepared to be lectured by shopkeepers if he’s not wearing a hat!*
 
 On the day we disembarked the cruise, we signed up to do one last excursion around Rome before we met up with family members who flew into Rome for the wedding festivities.
 
@@ -60,7 +60,7 @@ He looked a bit dazed at first with his binky in his mouth, but he stood still a
 
 But then, things got a little bit crazy.
 
-One by one, the Chinese tourists started taking turns <em>posing</em> <em>WITH</em> <em>my son</em> for photos!
+One by one, the Chinese tourists started taking turns *posing* *WITH* *my son* for photos!
 
 See, my husband’s family is from Hong Kong and so my son is half Chinese and half Caucasian. This usually gets some attention when we’re traveling, but nothing like this!
 
@@ -68,7 +68,7 @@ I wasn’t really sure what to do, but I’m all about turning awkward situation
 
 Since my son and I were taking Mandarin classes at home, I said “Ni hao!” and waved. That got a lot more excitement and pretty soon the tourists were speaking Chinese to me loudly and it caused a bit of a scene.
 
-I tend to talk with my hands, so my arms were flailing about while people were <em>still</em> taking selfies with my son.
+I tend to talk with my hands, so my arms were flailing about while people were *still* taking selfies with my son.
 
 Something was clearly lost in translation here, and we were all starting to become the center of a very disruptive scene - at the Vatican of all places!
 
@@ -80,7 +80,7 @@ So, my son and I had to patiently wait out in the hot August sunshine until my h
 
 See, they went with my nephew (who is also half Chinese and half Caucasian) and kept getting stopped everywhere they went so people could take photos of him.
 
-Get this! At one point a shopkeeper took my then-4-year-old nephew <em>out</em> of the booth to bring him to <em>another</em> random booth to take photos with him!
+Get this! At one point a shopkeeper took my then-4-year-old nephew *out* of the booth to bring him to *another* random booth to take photos with him!
 
 Of course, panic ensued and everyone held his hand tightly the rest of the trip.
 
@@ -94,7 +94,7 @@ Our time at the Vatican was quite a memorable experience and it made for a great
 
 My son did a great job walking down the aisle and the wedding was absolutely stunning!
 
-We’ve gone on quite a few adventures with kids since then, including <a href="https://www.marcieinmommyland.com/see-paris-baby-preschooler/" target="_blank" rel="noopener noreferrer">Paris</a>, <a href="https://www.marcieinmommyland.com/barcelonas-park-guell-baby-preschooler/" target="_blank" rel="noopener noreferrer">Barcelona</a>, and <a href="https://www.marcieinmommyland.com/family-guide-to-oahu/" target="_blank" rel="noopener noreferrer">Hawaii</a>, to name a few. But, this is still one of our most unique experiences that gives us a good chuckle ever now and then.
+We’ve gone on quite a few adventures with kids since then, including [Paris](https://www.marcieinmommyland.com/see-paris-baby-preschooler/), [Barcelona](https://www.marcieinmommyland.com/barcelonas-park-guell-baby-preschooler/), and [Hawaii](https://www.marcieinmommyland.com/family-guide-to-oahu/), to name a few. But, this is still one of our most unique experiences that gives us a good chuckle ever now and then.
 
 Kids bring a whole new level to travel. We have noticed that locals are more engaging when we have our kids with us and we end up chatting with many other tourists while traveling abroad with kids.
 
@@ -102,10 +102,10 @@ Because of our kids, we have created meaningful experiences in other countries t
 
 Whenever I hear a news story about the Vatican or people asking me for tips for Rome with kids, I always picture my son and the swarm of Chinese tourists and it just makes me smile warmly and laugh inside.
 
-And every once in awhile, I think back and wonder how many vacation photos in China my son must be featured in!To learn more about Marcie and her family, please visit her wonderful blog at <strong><span style="color: #ff0000;"><a style="color: #ff0000;" href="https://www.marcieinmommyland.com/" target="_blank" rel="noopener noreferrer">Marcie in Mommyland</a></span></strong>
+And every once in awhile, I think back and wonder how many vacation photos in China my son must be featured in!To learn more about Marcie and her family, please visit her wonderful blog at **[Marcie in Mommyland](https://www.marcieinmommyland.com/)**
 
-<em>Want to read more stories like this!? Navigate to our main page:</em> <span style="color: #ff0000;"><strong><a style="color: #ff0000;" href="/real-family-travel-stories/" target="_blank" rel="noopener noreferrer">Family Travel Uncensored</a></strong></span>
+*Want to read more stories like this!? Navigate to our main page:* **[Family Travel Uncensored](/real-family-travel-stories/)**
 
-<strong><span style="color: #ff0000;">Like it? Pin it!</span></strong>
+**Like it? Pin it!**
 
-<img class="size-large wp-image-10007 alignleft" src="https://hotmamatravel.com/wp-content/uploads/2018/11/Marcie-in-mommyland-family-travel-story-683x1024.jpg" alt="We visited Rome and now I think my son is Famous in China" width="683" height="1024" />
+![We visited Rome and now I think my son is Famous in China](https://hotmamatravel.com/wp-content/uploads/2018/11/Marcie-in-mommyland-family-travel-story-683x1024.jpg)
