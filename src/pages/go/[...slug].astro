@@ -1,90 +1,12 @@
 ---
 // src/pages/go/[...slug].astro — Handles ThirstyAffiliates redirects automatically
-import { readFileSync, existsSync } from 'fs';
-import { join } from 'path';
+import redirectsData from '../../data/affiliate-redirects.json';
 
 export async function getStaticPaths() {
-  const xmlPath = join(process.cwd(), 'wp-export.xml');
-  
-  if (!existsSync(xmlPath)) {
-    console.warn('⚠️ wp-export.xml not found during build. No affiliate redirects will be generated.');
-    return [];
-  }
-
-  const xml = readFileSync(xmlPath, 'utf8');
-  const itemRegex = /<item>([\s\S]*?)<\/item>/g;
-  let match;
-  const redirects = [];
-
-  while ((match = itemRegex.exec(xml)) !== null) {
-    const itemXml = match[1];
-    
-    if (itemXml.includes('<wp:post_type><![CDATA[thirstylink]]></wp:post_type>') || itemXml.includes('<wp:post_type>thirstylink</wp:post_type>')) {
-      // Extract status
-      const statusMatch = itemXml.match(/<wp:status><\!\[CDATA\[(.*?)\]\]><\/wp:status>/) || itemXml.match(/<wp:status>(.*?)<\/wp:status>/);
-      const status = statusMatch ? statusMatch[1] : '';
-      
-      if (status === 'publish') {
-        // Extract slug (wp:post_name)
-        const slugMatch = itemXml.match(/<wp:post_name><\!\[CDATA\[(.*?)\]\]><\/wp:post_name>/) || itemXml.match(/<wp:post_name>(.*?)<\/wp:post_name>/);
-        const slug = slugMatch ? slugMatch[1] : '';
-        
-        // Extract destination URL
-        const destMatch = itemXml.match(/<wp:meta_key><\!\[CDATA\[_ta_destination_url\]\]><\/wp:meta_key>[\s\S]*?<wp:meta_value><\!\[CDATA\[(.*?)\]\]><\/wp:meta_value>/);
-        const destUrl = destMatch ? destMatch[1] : '';
-        
-        if (slug && destUrl) {
-          // Decode destination URL (sometimes HTML entities are encoded in XML)
-          const cleanDestUrl = destUrl
-            .replace(/&amp;/g, '&')
-            .replace(/&#038;/g, '&')
-            .trim();
-
-          let finalDestUrl = cleanDestUrl;
-
-          // 1. Clean TripAdvisor links inside CJ affiliate tracking URLs
-          const isCJLink = /anrdoezrs\.net|jdoqocy\.com|kqzyfj\.com|tkqlhce\.com|dpbolvw\.net/i.test(finalDestUrl);
-          if (isCJLink && finalDestUrl.toLowerCase().includes('tripadvisor.com')) {
-            if (finalDestUrl.includes('?url=')) {
-              const urlParamMatch = finalDestUrl.match(/[?&]url=([^&]+)/i);
-              if (urlParamMatch) {
-                try {
-                  finalDestUrl = decodeURIComponent(urlParamMatch[1]);
-                } catch (e) {
-                  // Fallback if decode fails
-                }
-              }
-            } else if (finalDestUrl.toLowerCase().includes('/links/8336032/type/dlg/http')) {
-              const parts = finalDestUrl.split('/links/8336032/type/dlg/');
-              if (parts.length > 1) {
-                finalDestUrl = parts[1];
-              }
-            }
-          }
-
-          // 2. Clean Airbnb links
-          if (finalDestUrl.toLowerCase().includes('airbnb.com')) {
-            if (finalDestUrl.toLowerCase().includes('/rooms/')) {
-              const roomMatch = finalDestUrl.match(/(https?:\/\/(?:www\.)?airbnb\.com\/rooms\/\d+)/i);
-              if (roomMatch) {
-                finalDestUrl = roomMatch[1];
-              }
-            } else if (finalDestUrl.toLowerCase().includes('/associates/')) {
-              finalDestUrl = 'https://www.airbnb.com/';
-            }
-          }
-
-          redirects.push({
-            params: { slug },
-            props: { destUrl: finalDestUrl }
-          });
-        }
-      }
-    }
-  }
-
-  console.log(`🔗 Generated ${redirects.length} affiliate redirects from ThirstyAffiliates.`);
-  return redirects;
+  return redirectsData.map((item) => ({
+    params: { slug: item.slug },
+    props: { destUrl: item.destUrl }
+  }));
 }
 
 const { destUrl } = Astro.props;
