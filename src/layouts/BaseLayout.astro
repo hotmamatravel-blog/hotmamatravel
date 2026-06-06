@@ -80,6 +80,11 @@ const props = Astro.props;
           if (isAffiliate || (isExternal && !isSameDomain)) {
             link.setAttribute('target', '_blank');
             link.setAttribute('rel', 'noopener noreferrer');
+          } else {
+            if (link.getAttribute('target') === '_blank') {
+              link.removeAttribute('target');
+              link.removeAttribute('rel');
+            }
           }
         });
       }
