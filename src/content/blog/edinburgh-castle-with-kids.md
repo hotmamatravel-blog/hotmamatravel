@@ -107,7 +107,7 @@ Exploring Scotland with Kids, including our visit to Edinburgh Castle
 
 <span style="color: #000000;">My kids and my parents were tired, hungry and grumpy. I had to think fast. I grabbed a cab and told him to take us somewhere amazing, but not loaded with tourists (even though we are tourists). Our driver drove, drove... and drove. He took us to a local favorite, <strong>Sheep’s Heid</strong>. It was really fantastic!</span>
 
-<a href="/wp-content/uploads/2015/07/sheepheid2.jpg"><img class="aligncenter wp-image-2778 size-large" title="Edinburgh Castle with Kids" src="https://hotmamatravel.com/wp-content/uploads/2015/07/sheepheid2-1024x862.jpg" alt="Edinburgh Castle with Kids" width="640" height="539"/></a>
+<a href="/images/2015/07/sheepheid2.jpg"><img class="aligncenter wp-image-2778 size-large" title="Edinburgh Castle with Kids" src="https://hotmamatravel.com/wp-content/uploads/2015/07/sheepheid2-1024x862.jpg" alt="Edinburgh Castle with Kids" width="640" height="539"/></a>
 <h2><span style="color: #000000;"><em><strong>That’s A Wrap:</strong></em></span></h2>
 <span style="color: #000000;">All in all, we had a great day visiting Edinburgh Castle with kids. I can’t stress enough to try and plan your visit during off-season (if there is one). Summer and weekends get really crowded. If you have no choice, then be sure to get there early. If you are with kids, pack snacks. It may be hard to find somewhere to eat if the town is busy and hungry kids do not make for a happy time.</span>
 

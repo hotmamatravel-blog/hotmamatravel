@@ -370,6 +370,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":17464,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="things-to-do-st-pete-beach-with-kids"><a href="/wp-content/uploads/2023/03/st-pete-beach-for-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/03/st-pete-beach-for-kids-200x300.jpg" alt="" class="wp-image-17464" title="Ultimate family travel guide for things to do in St Pete Beach with kids- HotMamaTravel"/></a></figure>
+<figure id="things-to-do-st-pete-beach-with-kids"><a href="/images/2023/03/st-pete-beach-for-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/03/st-pete-beach-for-kids-200x300.jpg" alt="" class="wp-image-17464" title="Ultimate family travel guide for things to do in St Pete Beach with kids- HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

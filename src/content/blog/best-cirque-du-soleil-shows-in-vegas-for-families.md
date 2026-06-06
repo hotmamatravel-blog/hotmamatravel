@@ -266,6 +266,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":17290,"sizeSlug":"medium","linkDestination":"media","align":"left"} -->
-<figure id="kid-friendly-cirque-du-soleil-show-in-vegas-for-kids"><a href="/wp-content/uploads/2023/03/kid-friendly-cirque-du-soleil-show-in-vegas-for-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/03/kid-friendly-cirque-du-soleil-show-in-vegas-for-kids-200x300.jpg" alt="" class="wp-image-17290" title="Best Cirque du Soleil show in Vegas for family - HotMamaTravel"/></a></figure>
+<figure id="kid-friendly-cirque-du-soleil-show-in-vegas-for-kids"><a href="/images/2023/03/kid-friendly-cirque-du-soleil-show-in-vegas-for-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/03/kid-friendly-cirque-du-soleil-show-in-vegas-for-kids-200x300.jpg" alt="" class="wp-image-17290" title="Best Cirque du Soleil show in Vegas for family - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

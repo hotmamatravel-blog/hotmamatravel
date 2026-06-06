@@ -207,6 +207,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":17606,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="tips-traveling-with-children-"><a href="/wp-content/uploads/2023/04/tips-traveling-with-children-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/tips-traveling-with-children--200x300.jpg" alt="" class="wp-image-17606" title="Tips to help new parents traveling with children - HotMamaTravel"/></a></figure>
+<figure id="tips-traveling-with-children-"><a href="/images/2023/04/tips-traveling-with-children-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/tips-traveling-with-children--200x300.jpg" alt="" class="wp-image-17606" title="Tips to help new parents traveling with children - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

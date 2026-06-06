@@ -280,6 +280,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":20836,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-ghost-towns-around-las-vegas-for-families"><a href="/wp-content/uploads/2024/05/best-ghost-towns-around-las-vegas-for-families.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/05/best-ghost-towns-around-las-vegas-for-families-200x300.jpg" alt="Best Ghost Towns Around Las Vegas for Families" class="wp-image-20836" title="Best Ghost Towns Around Las Vegas for Families - HotMamaTravel"/></a></figure>
+<figure id="best-ghost-towns-around-las-vegas-for-families"><a href="/images/2024/05/best-ghost-towns-around-las-vegas-for-families.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/05/best-ghost-towns-around-las-vegas-for-families-200x300.jpg" alt="Best Ghost Towns Around Las Vegas for Families" class="wp-image-20836" title="Best Ghost Towns Around Las Vegas for Families - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

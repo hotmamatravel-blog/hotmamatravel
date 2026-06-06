@@ -111,6 +111,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":18425,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="Why-Knowing-How-To-Cook-Is-a-Great-Travel-Skill"><a href="/wp-content/uploads/2023/07/Why-Knowing-How-To-Cook-Is-a-Great-Travel-Skill.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/07/Why-Knowing-How-To-Cook-Is-a-Great-Travel-Skill-200x300.jpg" alt="" class="wp-image-18425" title="Why Knowing How To Cook Is a Great Travel Skill  - HotMamaTravel"/></a></figure>
+<figure id="Why-Knowing-How-To-Cook-Is-a-Great-Travel-Skill"><a href="/images/2023/07/Why-Knowing-How-To-Cook-Is-a-Great-Travel-Skill.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/07/Why-Knowing-How-To-Cook-Is-a-Great-Travel-Skill-200x300.jpg" alt="" class="wp-image-18425" title="Why Knowing How To Cook Is a Great Travel Skill  - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

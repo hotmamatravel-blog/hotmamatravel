@@ -231,7 +231,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:image {"id":18665,"sizeSlug":"medium","linkDestination":"media","className":"essb-block-image","pindesc":"Ready for a spooktacular stay in the Rockies? Discover the most haunted hotels in Colorado for families — where ghost stories meet cozy stays! From the legendary Stanley Hotel to elegant haunted hideaways, these family-friendly destinations mix chills, charm, and mountain views.  \n#HauntedHotels #FamilyTravel #ColoradoTravel #HauntedColorado #GhostStories #SpookyGetaway #HotMamaTravel"} -->
 <figure id="haunte-hotels-colorado" data-essb-pin-description="Ready for a spooktacular stay in the Rockies? Discover the most haunted hotels in Colorado for families — where ghost stories meet cozy stays! From the legendary Stanley Hotel to elegant haunted hideaways, these family-friendly destinations mix chills, charm, and mountain views.  
-#HauntedHotels #FamilyTravel #ColoradoTravel #HauntedColorado #GhostStories #SpookyGetaway #HotMamaTravel"><a href="/wp-content/uploads/2023/08/haunted-hotels-colorado.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/08/haunted-hotels-colorado-200x300.jpg" alt="Most Haunted Hotels Colorado for Families" class="wp-image-18665"/></a></figure>
+#HauntedHotels #FamilyTravel #ColoradoTravel #HauntedColorado #GhostStories #SpookyGetaway #HotMamaTravel"><a href="/images/2023/08/haunted-hotels-colorado.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/08/haunted-hotels-colorado-200x300.jpg" alt="Most Haunted Hotels Colorado for Families" class="wp-image-18665"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->
 
@@ -241,6 +241,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":18665,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="beautiful-haunted-hotels-colorado"><a href="/wp-content/uploads/2023/08/haunted-hotels-colorado.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/08/haunted-hotels-colorado-200x300.jpg" alt="" class="wp-image-18665" title="Haunted Hotels in Colorado that you will WANT to Stay In - HotMamaTravel"/></a></figure>
+<figure id="beautiful-haunted-hotels-colorado"><a href="/images/2023/08/haunted-hotels-colorado.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/08/haunted-hotels-colorado-200x300.jpg" alt="" class="wp-image-18665" title="Haunted Hotels in Colorado that you will WANT to Stay In - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

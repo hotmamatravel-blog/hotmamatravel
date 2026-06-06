@@ -238,6 +238,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":21000,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="taxi-fare-from-cancun-airport-to-tulum-mexico"><a href="/wp-content/uploads/2024/05/taxi-fare-from-cancun-to-tulum-mexico.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/05/taxi-fare-from-cancun-to-tulum-mexico-200x300.jpg" alt="Taxi Fare from Cancun Airport to Tulum What to Expect" class="wp-image-21000" title="Taxi fare from Cancun Airport to Tulum -HotMamaTravel"/></a></figure>
+<figure id="taxi-fare-from-cancun-airport-to-tulum-mexico"><a href="/images/2024/05/taxi-fare-from-cancun-to-tulum-mexico.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/05/taxi-fare-from-cancun-to-tulum-mexico-200x300.jpg" alt="Taxi Fare from Cancun Airport to Tulum What to Expect" class="wp-image-21000" title="Taxi fare from Cancun Airport to Tulum -HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

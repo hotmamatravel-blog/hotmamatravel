@@ -179,6 +179,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":17787,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="importance-self-care-when-traveling"><a href="/wp-content/uploads/2023/04/importance-self-care-when-traveling.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/importance-self-care-when-traveling-200x300.jpg" alt="" class="wp-image-17787" title="How to prioritize self-care when traveling - HotMamaTravel"/></a></figure>
+<figure id="importance-self-care-when-traveling"><a href="/images/2023/04/importance-self-care-when-traveling.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/importance-self-care-when-traveling-200x300.jpg" alt="" class="wp-image-17787" title="How to prioritize self-care when traveling - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

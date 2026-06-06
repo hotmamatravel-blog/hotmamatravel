@@ -32,7 +32,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"9500744e","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9500744e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17758,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="legoland-florida-water-park-florida-water-parks"><a href="/wp-content/uploads/2023/04/legoland-florida-water-park-florida-water-parks.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/legoland-florida-water-park-florida-water-parks-1024x576.jpg" alt="" class="wp-image-17758" title="Legoland Florida Water Park Winter Haven"/></a></figure>
+<figure id="legoland-florida-water-park-florida-water-parks"><a href="/images/2023/04/legoland-florida-water-park-florida-water-parks.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/legoland-florida-water-park-florida-water-parks-1024x576.jpg" alt="" class="wp-image-17758" title="Legoland Florida Water Park Winter Haven"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -70,7 +70,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"5b6a58de","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5b6a58de"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17761,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="universal-volcano-bay-florida-water-parks"><a href="/wp-content/uploads/2023/04/universal-volcano-bay-florida-water-parks.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/universal-volcano-bay-florida-water-parks-1024x576.jpg" alt="" class="wp-image-17761" title="Universal Volcano Bay Florida Water Park in Orlando"/></a></figure>
+<figure id="universal-volcano-bay-florida-water-parks"><a href="/images/2023/04/universal-volcano-bay-florida-water-parks.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/universal-volcano-bay-florida-water-parks-1024x576.jpg" alt="" class="wp-image-17761" title="Universal Volcano Bay Florida Water Park in Orlando"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
@@ -112,7 +112,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"bca62b5e","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bca62b5e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17764,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="aquatica-orlando-florida-water-parks"><a href="/wp-content/uploads/2023/04/aquatica-orlando-florida-water-parks.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/aquatica-orlando-florida-water-parks-1024x576.jpg" alt="" class="wp-image-17764" title="Aquatica Florida Water Park for kids in Orlando"/></a></figure>
+<figure id="aquatica-orlando-florida-water-parks"><a href="/images/2023/04/aquatica-orlando-florida-water-parks.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/aquatica-orlando-florida-water-parks-1024x576.jpg" alt="" class="wp-image-17764" title="Aquatica Florida Water Park for kids in Orlando"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -158,7 +158,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"8c266caa","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8c266caa"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17766,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="adventure-island-tampa-florida-water-parks"><a href="/wp-content/uploads/2023/04/adventure-island-tampa-florida-water-parks.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/adventure-island-tampa-florida-water-parks-1024x576.jpg" alt="" class="wp-image-17766" title="Adventure Island in Tampa Florida Water Park for kids"/></a></figure>
+<figure id="adventure-island-tampa-florida-water-parks"><a href="/images/2023/04/adventure-island-tampa-florida-water-parks.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/adventure-island-tampa-florida-water-parks-1024x576.jpg" alt="" class="wp-image-17766" title="Adventure Island in Tampa Florida Water Park for kids"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -200,7 +200,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"dd8367a7","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-dd8367a7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17769,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="rapids-water-park-florida-water-parks"><a href="/wp-content/uploads/2023/04/rapids-water-park-florida-water-parks.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/rapids-water-park-florida-water-parks-1024x576.jpg" alt="" class="wp-image-17769" title="Rapids water park for kid Florida"/></a></figure>
+<figure id="rapids-water-park-florida-water-parks"><a href="/images/2023/04/rapids-water-park-florida-water-parks.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/rapids-water-park-florida-water-parks-1024x576.jpg" alt="" class="wp-image-17769" title="Rapids water park for kid Florida"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -242,7 +242,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"3e468d87","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3e468d87"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17772,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="sun-splash-family-water-park-florida-water-parks"><a href="/wp-content/uploads/2023/04/sun-splash-family-water-park-florida-water-parks.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/sun-splash-family-water-park-florida-water-parks-1024x576.jpg" alt="" class="wp-image-17772" title="Sun Splash Family Water Park Florida"/></a></figure>
+<figure id="sun-splash-family-water-park-florida-water-parks"><a href="/images/2023/04/sun-splash-family-water-park-florida-water-parks.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/sun-splash-family-water-park-florida-water-parks-1024x576.jpg" alt="" class="wp-image-17772" title="Sun Splash Family Water Park Florida"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -314,6 +314,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":17775,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="family-travel-guide-best-florida-water-parks-for-kids"><a href="/wp-content/uploads/2023/04/family-travel-guide-best-florida-water-parks-for-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/family-travel-guide-best-florida-water-parks-for-kids-200x300.jpg" alt="" class="wp-image-17775" title="Explore Florida's Top Water Parks for Kids - HotMamaTravel"/></a></figure>
+<figure id="family-travel-guide-best-florida-water-parks-for-kids"><a href="/images/2023/04/family-travel-guide-best-florida-water-parks-for-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/family-travel-guide-best-florida-water-parks-for-kids-200x300.jpg" alt="" class="wp-image-17775" title="Explore Florida's Top Water Parks for Kids - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

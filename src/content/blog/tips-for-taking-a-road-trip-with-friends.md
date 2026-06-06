@@ -121,6 +121,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19138,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="tips-for-taking-road-trips-with-friends"><a href="/wp-content/uploads/2023/10/Tips-for-road-trips-with-friends-2.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/10/Tips-for-road-trips-with-friends-2-200x300.jpg" alt="" class="wp-image-19138" title="Tips for Taking a Road Trip with Friends - HotMamaTravel"/></a></figure>
+<figure id="tips-for-taking-road-trips-with-friends"><a href="/images/2023/10/Tips-for-road-trips-with-friends-2.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/10/Tips-for-road-trips-with-friends-2-200x300.jpg" alt="" class="wp-image-19138" title="Tips for Taking a Road Trip with Friends - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

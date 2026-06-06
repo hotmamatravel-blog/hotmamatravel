@@ -369,6 +369,6 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:image {"id":22348,"sizeSlug":"medium","linkDestination":"media","className":"essb-block-image","pindesc":"Planning a spooky family getaway? These haunted hotels in San Diego are perfect for families who love history, mystery, and maybe a ghost or two! 👀\n#HauntedHotelsSanDiego #FamilyTravel #SpookyTravel #HotMamaTravel"} -->
 <figure data-essb-pin-description="Planning a spooky family getaway? These haunted hotels in San Diego are perfect for families who love history, mystery, and maybe a ghost or two! 👀
-#HauntedHotelsSanDiego #FamilyTravel #SpookyTravel #HotMamaTravel"><a href="/wp-content/uploads/2022/10/haunted-hotels-san-diego-for-familes.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/10/haunted-hotels-san-diego-for-familes-200x300.jpg" alt="haunted hotels in san diego for families" class="wp-image-22348"/></a></figure>
+#HauntedHotelsSanDiego #FamilyTravel #SpookyTravel #HotMamaTravel"><a href="/images/2022/10/haunted-hotels-san-diego-for-familes.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/10/haunted-hotels-san-diego-for-familes-200x300.jpg" alt="haunted hotels in san diego for families" class="wp-image-22348"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

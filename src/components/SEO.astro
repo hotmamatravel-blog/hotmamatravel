@@ -14,7 +14,7 @@ interface Props {
 
 const {
   title,
-  description = 'Family travel with a twist! HotMamaTravel helps parents explore the world with their kids—from haunted hotels to kid-friendly breweries—without losing their Saturday-night selves.',
+  description,
   image = '/images/hmt-og-default.jpg',
   canonicalUrl,
   pubDate,
@@ -23,6 +23,9 @@ const {
   tags = [],
   type = 'website',
 } = Astro.props;
+
+const fallbackDescription = 'Family travel with a twist! HotMamaTravel helps parents explore the world with their kids—from haunted hotels to kid-friendly breweries—without losing their Saturday-night selves.';
+const finalDescription = (description && description.trim() !== '') ? description.trim() : fallbackDescription;
 
 const siteUrl = 'https://hotmamatravel.com';
 const resolvedCanonical = canonicalUrl ?? new URL(Astro.url.pathname, siteUrl).href;
@@ -34,7 +37,7 @@ const fullTitle = title === 'HotMamaTravel'
 
 <!-- Primary Meta -->
 <title>{fullTitle}</title>
-<meta name="description" content={description} />
+<meta name="description" content={finalDescription} />
 <meta name="author" content={author} />
 {tags.length > 0 && <meta name="keywords" content={tags.join(', ')} />}
 <link rel="canonical" href={resolvedCanonical} />
@@ -43,7 +46,7 @@ const fullTitle = title === 'HotMamaTravel'
 <meta property="og:type" content={type} />
 <meta property="og:url" content={resolvedCanonical} />
 <meta property="og:title" content={fullTitle} />
-<meta property="og:description" content={description} />
+<meta property="og:description" content={finalDescription} />
 <meta property="og:image" content={resolvedImage} />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
@@ -55,7 +58,7 @@ const fullTitle = title === 'HotMamaTravel'
 <meta name="twitter:site" content="@hotmamatravel" />
 <meta name="twitter:creator" content="@hotmamatravel" />
 <meta name="twitter:title" content={fullTitle} />
-<meta name="twitter:description" content={description} />
+<meta name="twitter:description" content={finalDescription} />
 <meta name="twitter:image" content={resolvedImage} />
 
 <!-- Article-specific meta -->
@@ -78,7 +81,7 @@ const fullTitle = title === 'HotMamaTravel'
     "@context": "https://schema.org",
     "@type": "BlogPosting",
     "headline": title,
-    "description": description,
+    "description": finalDescription,
     "image": resolvedImage,
     "url": resolvedCanonical,
     "datePublished": pubDate?.toISOString(),

@@ -254,6 +254,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6584,"sizeSlug":"medium","linkDestination":"media","className":"essb-block-image","pindesc":"Make Christmas magic happen! A full family guide to the Polar Express Arizona—tips, tricks, and what to expect. #polarexpress #arizona #christmas #familytravel"} -->
-<figure data-essb-pin-description="Make Christmas magic happen! A full family guide to the Polar Express Arizona—tips, tricks, and what to expect. #polarexpress #arizona #christmas #familytravel"><a href="/wp-content/uploads/2016/11/PE-10.png"><img src="https://hotmamatravel.com/wp-content/uploads/2016/11/PE-10-200x300.png" alt="Why We Love Polar Express Arizona" class="wp-image-6584"/></a></figure>
+<figure data-essb-pin-description="Make Christmas magic happen! A full family guide to the Polar Express Arizona—tips, tricks, and what to expect. #polarexpress #arizona #christmas #familytravel"><a href="/images/2016/11/PE-10.png"><img src="https://hotmamatravel.com/wp-content/uploads/2016/11/PE-10-200x300.png" alt="Why We Love Polar Express Arizona" class="wp-image-6584"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

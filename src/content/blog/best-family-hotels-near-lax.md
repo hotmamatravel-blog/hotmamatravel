@@ -396,6 +396,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19681,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure><a href="/wp-content/uploads/2023/12/best-family-hotels-near-lax-1.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/12/best-family-hotels-near-lax-1-200x300.jpg" alt="Best Family Hotels Near LAX" class="wp-image-19681"/></a></figure>
+<figure><a href="/images/2023/12/best-family-hotels-near-lax-1.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/12/best-family-hotels-near-lax-1-200x300.jpg" alt="Best Family Hotels Near LAX" class="wp-image-19681"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

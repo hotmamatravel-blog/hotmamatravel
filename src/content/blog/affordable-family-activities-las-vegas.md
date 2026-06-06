@@ -412,6 +412,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":20963,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-affordable-family-activities-las-vegas"><a href="/wp-content/uploads/2024/05/best-affordable-family-activities-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/05/best-affordable-family-activities-las-vegas-200x300.jpg" alt="" class="wp-image-20963" title="Best Affordable Family Activities in Las Vegas - HotMamaTravel"/></a></figure>
+<figure id="best-affordable-family-activities-las-vegas"><a href="/images/2024/05/best-affordable-family-activities-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/05/best-affordable-family-activities-las-vegas-200x300.jpg" alt="" class="wp-image-20963" title="Best Affordable Family Activities in Las Vegas - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

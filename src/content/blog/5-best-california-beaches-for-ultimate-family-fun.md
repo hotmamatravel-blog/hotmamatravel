@@ -152,6 +152,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":16123,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-beaches-california-family-fun"><a href="/wp-content/uploads/2022/07/best-california-beaches-for-families.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/07/best-california-beaches-for-families-200x300.jpg" alt="" class="wp-image-16123" title="5 of the Best Family Beaches in California- HotMamaTravel"/></a></figure>
+<figure id="best-beaches-california-family-fun"><a href="/images/2022/07/best-california-beaches-for-families.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/07/best-california-beaches-for-families-200x300.jpg" alt="" class="wp-image-16123" title="5 of the Best Family Beaches in California- HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

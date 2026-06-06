@@ -150,6 +150,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19075,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="Traveling-Turkey-beyond-istanbul"><a href="/wp-content/uploads/2023/09/Traveling-Turkey-beyond-istanbul.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/09/Traveling-Turkey-beyond-istanbul-200x300.jpg" alt="" class="wp-image-19075" title="Traveling Turkey: 5 Destinations that aren't Istanbul"/></a></figure>
+<figure id="Traveling-Turkey-beyond-istanbul"><a href="/images/2023/09/Traveling-Turkey-beyond-istanbul.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/09/Traveling-Turkey-beyond-istanbul-200x300.jpg" alt="" class="wp-image-19075" title="Traveling Turkey: 5 Destinations that aren't Istanbul"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

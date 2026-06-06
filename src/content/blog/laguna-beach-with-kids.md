@@ -20,7 +20,7 @@ author: "Amanda Keeley-Thurman"
 <h2><span style="color: #000000;"><strong>Money Saving Tips:</strong></span></h2>
 <span style="color: #000000;">Laguna Beach has a reputation for being expensive, but it is actually quite easy to have a reasonable experience. First of all, the beach is free. No one will charge you to plant you bum on the sand and have fun with the family. Secondly, most of the restaurants offer a happy hour, which is a great way to enjoy small plates and discounted cocktails. Plus, there are plenty of inexpensive dining options to choose from. Third, on the weekends the beach trolley is free! Hop on the blue trolley and take it around the city. If you are visiting Disneyland, this is definitely one of the<strong> <span style="color: #ff0000;"><a style="color: #ff0000;" title="Best Beaches Near Anaheim" href="/beaches-near-anaheim/" target="_blank" rel="noopener noreferrer">best beaches</a></span></strong> to visit near Anaheim.</span>
 
-<a href="/wp-content/uploads/2015/10/LB-68.jpg"><img class="aligncenter wp-image-3327 size-large" title="Laguna Beach shuttle" src="https://hotmamatravel.com/wp-content/uploads/2015/10/LB-68-768x1024.jpg" alt="Laguna Beach shuttle" width="768" height="1024" /></a>
+<a href="/images/2015/10/LB-68.jpg"><img class="aligncenter wp-image-3327 size-large" title="Laguna Beach shuttle" src="https://hotmamatravel.com/wp-content/uploads/2015/10/LB-68-768x1024.jpg" alt="Laguna Beach shuttle" width="768" height="1024" /></a>
 <h2><span style="color: #000000;"><strong>Where to stay in Laguna Beach with kids:</strong></span></h2>
 <span style="color: #000000;">Laguna Beach is a resort town, so finding a place to stay is easy peasy. Trip and you will land on a hotel. No matter your budget, no matter your requirements, you will find a spot to rest your pretty head.</span>
 
@@ -48,13 +48,13 @@ author: "Amanda Keeley-Thurman"
 
 <a href="/wp-content/uploads/2015/10/The-Cliff-Food.jpg"><img class="aligncenter wp-image-3331 size-large" title="Food in Laguna Beach" src="https://hotmamatravel.com/wp-content/uploads/2015/10/The-Cliff-Food-1024x1024.jpg" alt="Food in Laguna Beach" width="1024" height="1024" /></a>
 
-<a href="/wp-content/uploads/2015/10/The-Cliff-us.jpg"><img class="aligncenter wp-image-3332 size-large" title="Laguna Beach with kids Lunch The Cliff" src="https://hotmamatravel.com/wp-content/uploads/2015/10/The-Cliff-us-1024x1024.jpg" alt="Laguna Beach with kids Lunch The Cliff" width="1024" height="1024" /></a>
+<a href="/images/2015/10/The-Cliff-us.jpg"><img class="aligncenter wp-image-3332 size-large" title="Laguna Beach with kids Lunch The Cliff" src="https://hotmamatravel.com/wp-content/uploads/2015/10/The-Cliff-us-1024x1024.jpg" alt="Laguna Beach with kids Lunch The Cliff" width="1024" height="1024" /></a>
 <h3><strong>Greeter’s Corner:</strong></h3>
 <span style="color: #000000;">Known as the corner restaurant, Greeter’s is perfect for breakfast or casual lunch. The neighborhood diner, Greeter’s is walking distance from the main beach, playground with beautiful views and low(er) prices.</span>
 
 <a href="/wp-content/uploads/2015/10/LB-94.jpg"><img class="aligncenter wp-image-3334 size-large" title="Greeter's Corner Laguna Beach" src="https://hotmamatravel.com/wp-content/uploads/2015/10/LB-94-1024x683.jpg" alt="Greeter's Corner Laguna Beach" width="1024" height="683" /></a>
 
-<a href="/wp-content/uploads/2015/10/Greeters.jpg"><img class="aligncenter wp-image-3335 size-large" title="Kid friendly Greeters Corner Laguna" src="https://hotmamatravel.com/wp-content/uploads/2015/10/Greeters-1024x687.jpg" alt="Kid friendly Greeters Corner Laguna" width="1024" height="687" /></a>
+<a href="/images/2015/10/Greeters.jpg"><img class="aligncenter wp-image-3335 size-large" title="Kid friendly Greeters Corner Laguna" src="https://hotmamatravel.com/wp-content/uploads/2015/10/Greeters-1024x687.jpg" alt="Kid friendly Greeters Corner Laguna" width="1024" height="687" /></a>
 <h3><strong>C’est la Vie:</strong></h3>
 <span style="color: #000000;">Don’t be intimidated by the glassware, table clothes and fancy atmosphere. This lovely French restaurant overlooking the main beach is non-pretentious. After a long day out in the sun, our kids were done, but we still wanted to have fun. Free parking, great food, wine, views and live music? Sign me up. I was a bit hesitant to roll into this romantic establishment with my crazy crew, but the staff was so sweet, warm and welcoming. It is the perfect spot for a relaxing, a mouthwatering dinner and a bottle of wine.</span>
 

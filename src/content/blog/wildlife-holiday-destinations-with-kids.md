@@ -175,6 +175,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":15738,"sizeSlug":"medium","linkDestination":"media"} -->
-<div id="6-Best-Wildlife-Destinations-Traveling-With-Kids" class="wp-block-image"><figure class="alignleft size-medium"><a href="/wp-content/uploads/2022/04/Wildlife-Destinations.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/04/Wildlife-Destinations-200x300.jpg" alt="" class="wp-image-15738" title="6 Ideal Wildlife Holiday Destinations When Traveling With Kids- HotMamaTravel"/></a></figure></div>
+<div id="6-Best-Wildlife-Destinations-Traveling-With-Kids" class="wp-block-image"><figure class="alignleft size-medium"><a href="/images/2022/04/Wildlife-Destinations.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/04/Wildlife-Destinations-200x300.jpg" alt="" class="wp-image-15738" title="6 Ideal Wildlife Holiday Destinations When Traveling With Kids- HotMamaTravel"/></a></figure></div>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

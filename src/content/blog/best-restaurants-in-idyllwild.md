@@ -220,7 +220,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":20191,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-restaurants-in-idyllwild-for-families-and-fun"><a href="/wp-content/uploads/2024/01/best-restaurants-in-idyllwild-for-families-and-fun.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/best-restaurants-in-idyllwild-for-families-and-fun-200x300.jpg" alt="Best Restaurants in Idyllwild Families will Love #idyllwild #idyllwildrestaurants #familytravel " class="wp-image-20191" title="Best Restaurants in Idyllwild for Families Who Love Good Food and Fun - HotMamaTravel"/></a></figure>
+<figure id="best-restaurants-in-idyllwild-for-families-and-fun"><a href="/images/2024/01/best-restaurants-in-idyllwild-for-families-and-fun.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/best-restaurants-in-idyllwild-for-families-and-fun-200x300.jpg" alt="Best Restaurants in Idyllwild Families will Love #idyllwild #idyllwildrestaurants #familytravel " class="wp-image-20191" title="Best Restaurants in Idyllwild for Families Who Love Good Food and Fun - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->
 

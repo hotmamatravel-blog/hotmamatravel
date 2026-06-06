@@ -31,7 +31,7 @@ author: "Amanda Keeley-Thurman"
 <!-- wp:block {"ref":12046} /-->
 
 <!-- wp:image {"id":16382,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="Haunted-Old-Towne-Orange-Circle-ghost-boys"><a href="/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-ghost-boys.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-ghost-boys-1024x576.jpg" alt="Two boys haunt orange circle" class="wp-image-16382" title="Two Ghost Boys in Old Towne Orange Circle"/></a></figure>
+<figure id="Haunted-Old-Towne-Orange-Circle-ghost-boys"><a href="/images/2022/09/Haunted-Old-Towne-Orange-Circle-ghost-boys.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-ghost-boys-1024x576.jpg" alt="Two boys haunt orange circle" class="wp-image-16382" title="Two Ghost Boys in Old Towne Orange Circle"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -75,7 +75,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":16370,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="Haunted-Old-Towne-Orange-Circle-Antique-Station"><a href="/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Antique-Station.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Antique-Station-1024x576.jpg" alt="Antique Station Orange Circle" class="wp-image-16370" title="Haunted Row at Antique Station in Old Towne Orange"/></a></figure>
+<figure id="Haunted-Old-Towne-Orange-Circle-Antique-Station"><a href="/images/2022/09/Haunted-Old-Towne-Orange-Circle-Antique-Station.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Antique-Station-1024x576.jpg" alt="Antique Station Orange Circle" class="wp-image-16370" title="Haunted Row at Antique Station in Old Towne Orange"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -99,7 +99,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":16371,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="Haunted-Old-Towne-Orange-Circle-Army-Navy-Store"><a href="/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Army-Navy-Store.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Army-Navy-Store-1024x576.jpg" alt="Army Navy Store Orange Circle" class="wp-image-16371" title="Haunted Army Navy Store Old Towne Orange"/></a></figure>
+<figure id="Haunted-Old-Towne-Orange-Circle-Army-Navy-Store"><a href="/images/2022/09/Haunted-Old-Towne-Orange-Circle-Army-Navy-Store.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Army-Navy-Store-1024x576.jpg" alt="Army Navy Store Orange Circle" class="wp-image-16371" title="Haunted Army Navy Store Old Towne Orange"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -119,7 +119,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":16372,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="Haunted-Old-Towne-Orange-Circle-Chapman-University"><a href="/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Chapman-University.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Chapman-University-1024x576.jpg" alt="Chapman University in Orange" class="wp-image-16372" title="Haunted Chapman University Old Towne Orange "/></a></figure>
+<figure id="Haunted-Old-Towne-Orange-Circle-Chapman-University"><a href="/images/2022/09/Haunted-Old-Towne-Orange-Circle-Chapman-University.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Chapman-University-1024x576.jpg" alt="Chapman University in Orange" class="wp-image-16372" title="Haunted Chapman University Old Towne Orange "/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -143,7 +143,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":16373,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="Haunted-Old-Towne-Orange-Circle-Elliot-Alumni-House"><a href="/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Elliot-Alumni-House.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Elliot-Alumni-House-1024x576.jpg" alt="Elliot Alumni House in Orange " class="wp-image-16373" title="Haunted Elliot Alumni House Old Towne Orange"/></a></figure>
+<figure id="Haunted-Old-Towne-Orange-Circle-Elliot-Alumni-House"><a href="/images/2022/09/Haunted-Old-Towne-Orange-Circle-Elliot-Alumni-House.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Elliot-Alumni-House-1024x576.jpg" alt="Elliot Alumni House in Orange " class="wp-image-16373" title="Haunted Elliot Alumni House Old Towne Orange"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -167,7 +167,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":16375,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="Haunted-Old-Towne-Orange-Circle-Matoska-Trading-Company"><a href="/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Matoska-Trading-Company.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Matoska-Trading-Company-1024x576.jpg" alt="Matoska Trading Company Orange" class="wp-image-16375" title="Haunted Matoska Trading Company Store in Old Towne Orange Circle"/></a></figure>
+<figure id="Haunted-Old-Towne-Orange-Circle-Matoska-Trading-Company"><a href="/images/2022/09/Haunted-Old-Towne-Orange-Circle-Matoska-Trading-Company.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Matoska-Trading-Company-1024x576.jpg" alt="Matoska Trading Company Orange" class="wp-image-16375" title="Haunted Matoska Trading Company Store in Old Towne Orange Circle"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -187,7 +187,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":16376,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="Haunted-Old-Towne-Orange-Circle-Royer-Mansion"><a href="/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Royer-Mansion.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Royer-Mansion-1024x576.jpg" alt="Royer Mansion Orange California" class="wp-image-16376" title="Haunted Royer Mansion Old Towne Orange"/></a></figure>
+<figure id="Haunted-Old-Towne-Orange-Circle-Royer-Mansion"><a href="/images/2022/09/Haunted-Old-Towne-Orange-Circle-Royer-Mansion.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Royer-Mansion-1024x576.jpg" alt="Royer Mansion Orange California" class="wp-image-16376" title="Haunted Royer Mansion Old Towne Orange"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -207,7 +207,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":16377,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="Haunted-Old-Towne-Orange-Circle-Rutabegorz"><a href="/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Rutabegorz.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Rutabegorz-1024x576.jpg" alt="Rutabegorz Restaurant Orange California" class="wp-image-16377" title="Haunted Rutabegorz Restaurant Old Towne Orange Circle"/></a></figure>
+<figure id="Haunted-Old-Towne-Orange-Circle-Rutabegorz"><a href="/images/2022/09/Haunted-Old-Towne-Orange-Circle-Rutabegorz.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Rutabegorz-1024x576.jpg" alt="Rutabegorz Restaurant Orange California" class="wp-image-16377" title="Haunted Rutabegorz Restaurant Old Towne Orange Circle"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -248,6 +248,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":16378,"sizeSlug":"medium","linkDestination":"media","className":"essb-block-image","pindesc":"Step into Old Towne Orange Circle—where history, hauntings, and family fun collide! From vintage vibes to ghostly encounters, this OC gem has it all.  #HauntedPlaces #OrangeCounty"} -->
-<figure data-essb-pin-description="Step into Old Towne Orange Circle—where history, hauntings, and family fun collide! From vintage vibes to ghostly encounters, this OC gem has it all.  #HauntedPlaces #OrangeCounty"><a href="/wp-content/uploads/2022/09/Haunted-Places-Old-Towne-Orange-Circle.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Places-Old-Towne-Orange-Circle-200x300.jpg" alt="Haunted Places in Old Towne Orange Circle" class="wp-image-16378"/></a></figure>
+<figure data-essb-pin-description="Step into Old Towne Orange Circle—where history, hauntings, and family fun collide! From vintage vibes to ghostly encounters, this OC gem has it all.  #HauntedPlaces #OrangeCounty"><a href="/images/2022/09/Haunted-Places-Old-Towne-Orange-Circle.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Places-Old-Towne-Orange-Circle-200x300.jpg" alt="Haunted Places in Old Towne Orange Circle" class="wp-image-16378"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

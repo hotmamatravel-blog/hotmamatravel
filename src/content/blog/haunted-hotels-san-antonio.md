@@ -314,6 +314,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":18573,"sizeSlug":"medium","linkDestination":"media","className":"essb-block-image","pindesc":"Stay in one of these family-friendly haunted hotels in San Antonio"} -->
-<figure data-essb-pin-description="Stay in one of these family-friendly haunted hotels in San Antonio"><a href="/wp-content/uploads/2023/08/Haunted-Hotels-San-Antonio.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/08/Haunted-Hotels-San-Antonio-200x300.jpg" alt="Family-Friendly Haunted Hotels in San Antonio" class="wp-image-18573"/></a></figure>
+<figure data-essb-pin-description="Stay in one of these family-friendly haunted hotels in San Antonio"><a href="/images/2023/08/Haunted-Hotels-San-Antonio.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/08/Haunted-Hotels-San-Antonio-200x300.jpg" alt="Family-Friendly Haunted Hotels in San Antonio" class="wp-image-18573"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

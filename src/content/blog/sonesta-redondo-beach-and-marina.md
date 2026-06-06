@@ -198,6 +198,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19448,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="why-you-will-love-sonesta-redondo-beach-and-marina"><a href="/wp-content/uploads/2023/11/Sonesta-Redondo-Beach.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/11/Sonesta-Redondo-Beach-200x300.jpg" alt="" class="wp-image-19448" title="Why you will love Sonesta Redondo Beach &amp; Marina Hotel - HotMamaTravel"/></a></figure>
+<figure id="why-you-will-love-sonesta-redondo-beach-and-marina"><a href="/images/2023/11/Sonesta-Redondo-Beach.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/11/Sonesta-Redondo-Beach-200x300.jpg" alt="" class="wp-image-19448" title="Why you will love Sonesta Redondo Beach &amp; Marina Hotel - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

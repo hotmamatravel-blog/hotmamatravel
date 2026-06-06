@@ -228,6 +228,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":15689,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure><a href="/wp-content/uploads/2022/03/5-best-kid-friendly-sonoma-wineries.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/03/5-best-kid-friendly-sonoma-wineries-200x300.jpg" alt="" class="wp-image-15689"/></a></figure>
+<figure><a href="/images/2022/03/5-best-kid-friendly-sonoma-wineries.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/03/5-best-kid-friendly-sonoma-wineries-200x300.jpg" alt="" class="wp-image-15689"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

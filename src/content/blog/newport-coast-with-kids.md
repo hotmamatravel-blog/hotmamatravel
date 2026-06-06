@@ -737,6 +737,6 @@ author: "Amanda Keeley-Thurman"
 
 Save this for your next California trip planning and get more family travel ideas at HotMamaTravel.com 🌴✨
 
-#NewportBeach #NewportCoast #OrangeCounty #CaliforniaWithKids #FamilyTravel #KidsActivities #BeachVacation #TravelWithKids #OCBeaches #CaliforniaTravel #FamilyVacation #TravelGuide #BeachDay #MomTravel #HotMamaTravel"><a href="/wp-content/uploads/2020/09/things-to-do-newport-coast-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2020/09/things-to-do-newport-coast-with-kids-200x300.jpg" alt="things to do in Newport Coast with kids" class="wp-image-23161"/></a></figure>
+#NewportBeach #NewportCoast #OrangeCounty #CaliforniaWithKids #FamilyTravel #KidsActivities #BeachVacation #TravelWithKids #OCBeaches #CaliforniaTravel #FamilyVacation #TravelGuide #BeachDay #MomTravel #HotMamaTravel"><a href="/images/2020/09/things-to-do-newport-coast-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2020/09/things-to-do-newport-coast-with-kids-200x300.jpg" alt="things to do in Newport Coast with kids" class="wp-image-23161"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

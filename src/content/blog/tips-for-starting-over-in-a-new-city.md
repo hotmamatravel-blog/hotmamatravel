@@ -107,6 +107,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":20980,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="tips-for-starting-over-in-a-new-city"><a href="/wp-content/uploads/2024/05/tips-for-starting-over-in-new-city-Pinterest-Pin.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/05/tips-for-starting-over-in-new-city-Pinterest-Pin-200x300.jpg" alt="" class="wp-image-20980" title="Tips for starting over in a New City - HotMamaTravel"/></a></figure>
+<figure id="tips-for-starting-over-in-a-new-city"><a href="/images/2024/05/tips-for-starting-over-in-new-city-Pinterest-Pin.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/05/tips-for-starting-over-in-new-city-Pinterest-Pin-200x300.jpg" alt="" class="wp-image-20980" title="Tips for starting over in a New City - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

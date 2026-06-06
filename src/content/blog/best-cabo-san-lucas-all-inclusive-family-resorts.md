@@ -365,6 +365,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":15765,"sizeSlug":"medium","linkDestination":"media","align":"left"} -->
-<figure id="8-Awesome-Cabo-San-Lucas-All-Inclusive-Family-Resorts"><a href="/wp-content/uploads/2022/04/Cabo-All-Inclusive-Family-Resorts.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/04/Cabo-All-Inclusive-Family-Resorts-200x300.jpg" alt="" class="wp-image-15765" title="8 Awesome Cabo San Lucas All-Inclusive Family Resorts -HotMamaTravel"/></a></figure>
+<figure id="8-Awesome-Cabo-San-Lucas-All-Inclusive-Family-Resorts"><a href="/images/2022/04/Cabo-All-Inclusive-Family-Resorts.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/04/Cabo-All-Inclusive-Family-Resorts-200x300.jpg" alt="" class="wp-image-15765" title="8 Awesome Cabo San Lucas All-Inclusive Family Resorts -HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

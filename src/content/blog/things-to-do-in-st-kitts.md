@@ -332,6 +332,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":16620,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="things-to-do-in-st-kitts"><a href="/wp-content/uploads/2023/01/10-things-to-do-st-kitts.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/01/10-things-to-do-st-kitts-200x300.jpg" alt="" class="wp-image-16620" title="10 Awesome things to do in St. Kitts - HotMamaTravel"/></a></figure>
+<figure id="things-to-do-in-st-kitts"><a href="/images/2023/01/10-things-to-do-st-kitts.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/01/10-things-to-do-st-kitts-200x300.jpg" alt="" class="wp-image-16620" title="10 Awesome things to do in St. Kitts - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

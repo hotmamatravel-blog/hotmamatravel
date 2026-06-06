@@ -209,7 +209,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19458,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="Citizenship-Guide-by-Global-Residence-Index"><a href="/wp-content/uploads/2023/11/Citizenship-Guide-by-Global-Residence-Index.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/11/Citizenship-Guide-by-Global-Residence-Index-200x300.jpg" alt="" class="wp-image-19458" title="Turkey’s Attraction for Global Citizens: Citizenship Guide by Global Residence Index - HotMamaTravel"/></a></figure>
+<figure id="Citizenship-Guide-by-Global-Residence-Index"><a href="/images/2023/11/Citizenship-Guide-by-Global-Residence-Index.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/11/Citizenship-Guide-by-Global-Residence-Index-200x300.jpg" alt="" class="wp-image-19458" title="Turkey’s Attraction for Global Citizens: Citizenship Guide by Global Residence Index - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->
 

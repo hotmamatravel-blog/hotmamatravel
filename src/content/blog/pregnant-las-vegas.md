@@ -523,6 +523,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":20049,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-guide-for-being-pregnant-in-las-vegas"><a href="/wp-content/uploads/2024/01/best-guide-for-being-pregnant-in-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/best-guide-for-being-pregnant-in-las-vegas-200x300.jpg" alt="" class="wp-image-20049" title="Best Guide For Being Pregnant in Las Vegas for Expecting Mamas - HotMamaTravel"/></a></figure>
+<figure id="best-guide-for-being-pregnant-in-las-vegas"><a href="/images/2024/01/best-guide-for-being-pregnant-in-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/best-guide-for-being-pregnant-in-las-vegas-200x300.jpg" alt="" class="wp-image-20049" title="Best Guide For Being Pregnant in Las Vegas for Expecting Mamas - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

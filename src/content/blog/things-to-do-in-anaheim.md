@@ -1014,6 +1014,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":21908,"sizeSlug":"medium","linkDestination":"media","className":"essb-block-image","pindesc":"Best Things To Do In Anaheim With Kids (Besides Disney)"} -->
-<figure data-essb-pin-description="Best Things To Do In Anaheim With Kids (Besides Disney)"><a href="/wp-content/uploads/2023/11/Best-Things-to-do-in-Anaheim-with-kids-1.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/11/Best-Things-to-do-in-Anaheim-with-kids-1-200x300.jpg" alt="Best things to do in Anaheim with kids besides Disney" class="wp-image-21908"/></a></figure>
+<figure data-essb-pin-description="Best Things To Do In Anaheim With Kids (Besides Disney)"><a href="/images/2023/11/Best-Things-to-do-in-Anaheim-with-kids-1.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/11/Best-Things-to-do-in-Anaheim-with-kids-1-200x300.jpg" alt="Best things to do in Anaheim with kids besides Disney" class="wp-image-21908"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

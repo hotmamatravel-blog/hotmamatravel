@@ -221,6 +221,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":14611,"sizeSlug":"medium","linkDestination":"media"} -->
-<div id="7-best-golf-courses-temecula-ca" class="wp-block-image"><figure class="alignleft size-medium"><a href="/wp-content/uploads/2021/06/7-best-golf-courses-temecula-ca.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/06/7-best-golf-courses-temecula-ca-200x300.jpg" alt="" class="wp-image-14611" title="7 Beautiful and Challenging Temecula Golf Courses that you will love - HotMamaTravel"/></a></figure></div>
+<div id="7-best-golf-courses-temecula-ca" class="wp-block-image"><figure class="alignleft size-medium"><a href="/images/2021/06/7-best-golf-courses-temecula-ca.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/06/7-best-golf-courses-temecula-ca-200x300.jpg" alt="" class="wp-image-14611" title="7 Beautiful and Challenging Temecula Golf Courses that you will love - HotMamaTravel"/></a></figure></div>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

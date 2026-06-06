@@ -71,6 +71,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19853,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="4-fun-things-to-do-in-texas-with-your-kids"><a href="/wp-content/uploads/2024/01/4-fun-things-to-do-in-texas-with-your-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/4-fun-things-to-do-in-texas-with-your-kids-200x300.jpg" alt="" class="wp-image-19853" title="4 Fun Things to do in Texas with Your Kids - HotMamaTravel"/></a></figure>
+<figure id="4-fun-things-to-do-in-texas-with-your-kids"><a href="/images/2024/01/4-fun-things-to-do-in-texas-with-your-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/4-fun-things-to-do-in-texas-with-your-kids-200x300.jpg" alt="" class="wp-image-19853" title="4 Fun Things to do in Texas with Your Kids - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

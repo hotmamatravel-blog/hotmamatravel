@@ -85,6 +85,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":18637,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="Top-Tips-for-a-Stress-Free-Road-Trip"><a href="/wp-content/uploads/2023/08/Top-Tips-for-a-Stress-Free-Road-Trip.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/08/Top-Tips-for-a-Stress-Free-Road-Trip-200x300.jpg" alt="" class="wp-image-18637" title="Top tips for a stress-free road trip with your family - HotMamaTravel"/></a></figure>
+<figure id="Top-Tips-for-a-Stress-Free-Road-Trip"><a href="/images/2023/08/Top-Tips-for-a-Stress-Free-Road-Trip.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/08/Top-Tips-for-a-Stress-Free-Road-Trip-200x300.jpg" alt="" class="wp-image-18637" title="Top tips for a stress-free road trip with your family - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

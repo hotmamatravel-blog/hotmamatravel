@@ -334,6 +334,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":18416,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-family-resorts-palm-springs"><a href="/wp-content/uploads/2023/07/best-family-resorts-palm-springs.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/07/best-family-resorts-palm-springs-200x300.jpg" alt="" class="wp-image-18416" title="Best Family Resorts in Palm Springs for Kids - HotMamaTravel"/></a></figure>
+<figure id="best-family-resorts-palm-springs"><a href="/images/2023/07/best-family-resorts-palm-springs.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/07/best-family-resorts-palm-springs-200x300.jpg" alt="" class="wp-image-18416" title="Best Family Resorts in Palm Springs for Kids - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

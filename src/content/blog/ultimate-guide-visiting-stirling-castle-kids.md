@@ -71,15 +71,15 @@ author: "Amanda Keeley-Thurman"
 <h3><span style="color: #000000;"><strong>Kid-Friendly Stirling Castle Activities</strong></span></h3>
 <span style="color: #000000;">At Stirling Castle there is a whole section devoted to kids with interactive activities for the kids to play and explore. Some castles can get boring for little kids, because they can’t appreciate the history and touring decorated room after room is…YAWN. But, at Stirling Castle kids are encouraged to learn about daily life at the castle through activities and games. My kids had a blast at Stirling Castle!</span>
 
-<a href="/wp-content/uploads/2015/08/jester.jpg"><img class="wp-image-2853 size-large aligncenter" title="Visiting Stirling Castle" src="https://hotmamatravel.com/wp-content/uploads/2015/08/jester-817x1024.jpg" alt="Visiting Stirling Castle" width="640" height="802" /></a>
+<a href="/images/2015/08/jester.jpg"><img class="wp-image-2853 size-large aligncenter" title="Visiting Stirling Castle" src="https://hotmamatravel.com/wp-content/uploads/2015/08/jester-817x1024.jpg" alt="Visiting Stirling Castle" width="640" height="802" /></a>
 
-<a href="/wp-content/uploads/2015/08/Music.jpg"><img class="wp-image-2854 size-large aligncenter" title="Visiting Stirling Castle" src="https://hotmamatravel.com/wp-content/uploads/2015/08/Music-1024x928.jpg" alt="Visiting Stirling Castle" width="640" height="580" /></a>
+<a href="/images/2015/08/Music.jpg"><img class="wp-image-2854 size-large aligncenter" title="Visiting Stirling Castle" src="https://hotmamatravel.com/wp-content/uploads/2015/08/Music-1024x928.jpg" alt="Visiting Stirling Castle" width="640" height="580" /></a>
 
-<a href="/wp-content/uploads/2015/08/Paint.jpg"><img class="wp-image-2855 size-large aligncenter" title="Visiting Stirling Castle" src="https://hotmamatravel.com/wp-content/uploads/2015/08/Paint-817x1024.jpg" alt="Visiting Stirling Castle" width="640" height="802" /></a>
+<a href="/images/2015/08/Paint.jpg"><img class="wp-image-2855 size-large aligncenter" title="Visiting Stirling Castle" src="https://hotmamatravel.com/wp-content/uploads/2015/08/Paint-817x1024.jpg" alt="Visiting Stirling Castle" width="640" height="802" /></a>
 
-<a href="/wp-content/uploads/2015/08/Tailor.jpg"><img class="wp-image-2856 size-large aligncenter" title="Visiting Stirling Castle" src="https://hotmamatravel.com/wp-content/uploads/2015/08/Tailor-1024x1024.jpg" alt="Visiting Stirling Castle" width="640" height="640" /></a>
+<a href="/images/2015/08/Tailor.jpg"><img class="wp-image-2856 size-large aligncenter" title="Visiting Stirling Castle" src="https://hotmamatravel.com/wp-content/uploads/2015/08/Tailor-1024x1024.jpg" alt="Visiting Stirling Castle" width="640" height="640" /></a>
 
-<a href="/wp-content/uploads/2015/08/wood.jpg"><img class="wp-image-2857 size-large aligncenter" title="Visiting Stirling Castle" src="https://hotmamatravel.com/wp-content/uploads/2015/08/wood-836x1024.jpg" alt="Visiting Stirling Castle" width="640" height="784" /></a>
+<a href="/images/2015/08/wood.jpg"><img class="wp-image-2857 size-large aligncenter" title="Visiting Stirling Castle" src="https://hotmamatravel.com/wp-content/uploads/2015/08/wood-836x1024.jpg" alt="Visiting Stirling Castle" width="640" height="784" /></a>
 
 <span style="color: #000000;">Ghosts!! Most places in Scotland claim to be haunted, especially the castles. I don’t doubt it, but it is really something to see it yourself! Check out this photo I snapped at Stirling Castle. Do you see what I see???</span>
 
@@ -108,7 +108,7 @@ author: "Amanda Keeley-Thurman"
 <h2><a href="/ultimate-guide-visiting-stirling-castle-kids/"><img class="aligncenter wp-image-2873 size-large" title="Visiting Stirling Castle" src="https://hotmamatravel.com/wp-content/uploads/2015/08/DSCN0526-1024x768.jpg" alt="Visiting Stirling Castle" width="640" height="480" /></a><span style="color: #000000;"><em><strong>Places to eat near Stirling Castle</strong></em></span></h2>
 <span style="color: #000000;">The town of Stirling is much smaller than that of Edinburgh, which I liked. It made it more manageable. Finding a restaurant was not difficult either. There were a few really nice places walking distance from the castle, but nothing beat the convenience of The Portcullis. Built in 1787, it was originally a school for boys and where King James VI was educated! It was the perfect atmosphere to enjoy a delicious and reasonable lunch after an exhilarating day of castle exploring.</span>
 
-<a href="/wp-content/uploads/2015/07/Portcullis.jpg"><img class="aligncenter wp-image-2788 size-large" title="Visiting Stirling Castle" src="https://hotmamatravel.com/wp-content/uploads/2015/07/Portcullis-1024x967.jpg" alt="Visiting Stirling Castle" width="640" height="604" /></a>
+<a href="/images/2015/07/Portcullis.jpg"><img class="aligncenter wp-image-2788 size-large" title="Visiting Stirling Castle" src="https://hotmamatravel.com/wp-content/uploads/2015/07/Portcullis-1024x967.jpg" alt="Visiting Stirling Castle" width="640" height="604" /></a>
 
 <a href="/ultimate-guide-visiting-stirling-castle-kids/"><img class="aligncenter wp-image-2789 size-large" title="Visiting Stirling Castle" src="https://hotmamatravel.com/wp-content/uploads/2015/07/DSCN0450-1024x768.jpg" alt="Visiting Stirling Castle" width="640" height="480" /></a>
 <h2><span style="color: #000000;"><em><strong>Where to Grab a Pint</strong></em></span></h2>

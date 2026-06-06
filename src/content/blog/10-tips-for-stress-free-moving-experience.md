@@ -139,6 +139,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19657,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="10-essential-tips-for-stress-free-moving-experience"><a href="/wp-content/uploads/2023/12/10-essential-tips-for-stress-free-moving-experience.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/12/10-essential-tips-for-stress-free-moving-experience-200x300.jpg" alt="" class="wp-image-19657" title="10 Essential Tips for a Stress-Free Moving Experience - HotMamaTravel"/></a></figure>
+<figure id="10-essential-tips-for-stress-free-moving-experience"><a href="/images/2023/12/10-essential-tips-for-stress-free-moving-experience.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/12/10-essential-tips-for-stress-free-moving-experience-200x300.jpg" alt="" class="wp-image-19657" title="10 Essential Tips for a Stress-Free Moving Experience - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

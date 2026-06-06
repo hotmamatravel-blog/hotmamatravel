@@ -240,6 +240,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":21113,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-arcades-in-las-vegas-for-families"><a href="/wp-content/uploads/2024/06/best-arcades-in-las-vegas-for-families.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/06/best-arcades-in-las-vegas-for-families-200x300.jpg" alt="Arcades in Las Vegas kids and teens will love" class="wp-image-21113" title="Arcades in Las Vegas Kids and Teens Will Love -HotMamaTravel"/></a></figure>
+<figure id="best-arcades-in-las-vegas-for-families"><a href="/images/2024/06/best-arcades-in-las-vegas-for-families.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/06/best-arcades-in-las-vegas-for-families-200x300.jpg" alt="Arcades in Las Vegas kids and teens will love" class="wp-image-21113" title="Arcades in Las Vegas Kids and Teens Will Love -HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

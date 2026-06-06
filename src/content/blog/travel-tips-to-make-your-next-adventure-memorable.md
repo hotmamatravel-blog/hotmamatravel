@@ -143,6 +143,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":18646,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="tips-to-make-your-next-adventure-memorable"><a href="/wp-content/uploads/2023/08/memorable-travel-tips.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/08/memorable-travel-tips-200x300.jpg" alt="" class="wp-image-18646" title="Make you next adventure extra memorable with these travel tips - HotMamaTravel"/></a></figure>
+<figure id="tips-to-make-your-next-adventure-memorable"><a href="/images/2023/08/memorable-travel-tips.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/08/memorable-travel-tips-200x300.jpg" alt="" class="wp-image-18646" title="Make you next adventure extra memorable with these travel tips - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

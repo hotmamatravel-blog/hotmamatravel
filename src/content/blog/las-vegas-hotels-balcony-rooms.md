@@ -161,6 +161,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":17017,"sizeSlug":"medium","linkDestination":"media","align":"left"} -->
-<figure id="Rare-Las-Vegas-Hotels-Balcony-Rooms"><a href="/wp-content/uploads/2023/02/Rare-Las-Vegas-Hotels-Balcony-Rooms.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/02/Rare-Las-Vegas-Hotels-Balcony-Rooms-200x300.jpg" alt="" class="wp-image-17017" title="Rare Las Vegas Hotels with Balcony Rooms- HotMamaTravel"/></a></figure>
+<figure id="Rare-Las-Vegas-Hotels-Balcony-Rooms"><a href="/images/2023/02/Rare-Las-Vegas-Hotels-Balcony-Rooms.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/02/Rare-Las-Vegas-Hotels-Balcony-Rooms-200x300.jpg" alt="" class="wp-image-17017" title="Rare Las Vegas Hotels with Balcony Rooms- HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

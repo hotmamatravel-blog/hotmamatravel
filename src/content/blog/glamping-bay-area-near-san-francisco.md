@@ -308,6 +308,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":14062,"sizeSlug":"medium","linkDestination":"media","UAGDay":[]} -->
-<figure id="glamping-bay-area-near-san-francisco-ca"><a href="/wp-content/uploads/2020/12/5-Best-glamping-bay-area-near-san-francisco-ca.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2020/12/5-Best-glamping-bay-area-near-san-francisco-ca-200x300.jpg" alt="" class="wp-image-14062" title="5 best Bay Area glamping near San Francisco California - HotMamaTravel"/></a></figure>
+<figure id="glamping-bay-area-near-san-francisco-ca"><a href="/images/2020/12/5-Best-glamping-bay-area-near-san-francisco-ca.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2020/12/5-Best-glamping-bay-area-near-san-francisco-ca-200x300.jpg" alt="" class="wp-image-14062" title="5 best Bay Area glamping near San Francisco California - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

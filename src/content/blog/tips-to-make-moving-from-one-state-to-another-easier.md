@@ -169,6 +169,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19154,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="tips-for-moving-to-another-state"><a href="/wp-content/uploads/2023/10/tips-for-moving-to-another-state.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/10/tips-for-moving-to-another-state-200x300.jpg" alt="" class="wp-image-19154" title="Tips for moving from one state to another - HotMamaTravel"/></a></figure>
+<figure id="tips-for-moving-to-another-state"><a href="/images/2023/10/tips-for-moving-to-another-state.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/10/tips-for-moving-to-another-state-200x300.jpg" alt="" class="wp-image-19154" title="Tips for moving from one state to another - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

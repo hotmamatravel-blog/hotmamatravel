@@ -199,6 +199,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":21077,"sizeSlug":"medium","linkDestination":"media","className":"essb-block-image","pindesc":"Best Time Of Year To Go To Las Vegas With Kids"} -->
-<figure id="best-time-of-year-to-go-to-las-vegas" data-essb-pin-description="Best Time Of Year To Go To Las Vegas With Kids"><a href="/wp-content/uploads/2024/06/best-time-of-year-to-go-to-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/06/best-time-of-year-to-go-to-las-vegas-200x300.jpg" alt="Best Of Year To Go To Las Vegas With Family" class="wp-image-21077" title="Best Of Year To Go To Las Vegas With Family - HotMamaTravel "/></a></figure>
+<figure id="best-time-of-year-to-go-to-las-vegas" data-essb-pin-description="Best Time Of Year To Go To Las Vegas With Kids"><a href="/images/2024/06/best-time-of-year-to-go-to-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/06/best-time-of-year-to-go-to-las-vegas-200x300.jpg" alt="Best Of Year To Go To Las Vegas With Family" class="wp-image-21077" title="Best Of Year To Go To Las Vegas With Family - HotMamaTravel "/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

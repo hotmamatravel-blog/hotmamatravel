@@ -287,6 +287,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":14829,"sizeSlug":"medium","linkDestination":"media","UAGDay":[]} -->
-<figure id="5-beautiful-sites-glamping-upstate-new-york"><a href="/wp-content/uploads/2021/08/5-beautiful-sites-glamping-upstate-new-york.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/08/5-beautiful-sites-glamping-upstate-new-york-200x300.jpg" alt="" class="wp-image-14829" title="From Treehouses and Cabins to Yurts and Canvas Tents, Embrace Nature When You go Glamping in Upstate New York."/></a></figure>
+<figure id="5-beautiful-sites-glamping-upstate-new-york"><a href="/images/2021/08/5-beautiful-sites-glamping-upstate-new-york.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/08/5-beautiful-sites-glamping-upstate-new-york-200x300.jpg" alt="" class="wp-image-14829" title="From Treehouses and Cabins to Yurts and Canvas Tents, Embrace Nature When You go Glamping in Upstate New York."/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

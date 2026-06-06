@@ -222,6 +222,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":16432,"sizeSlug":"medium","linkDestination":"media","className":"essb-block-image","pindesc":"Discover the best haunted hotels in Salem, MA for families! Explore family-friendly spooky stays with ghost stories, history, and New England charm. #SalemTravel #FamilyTravel #HauntedHotels #SpookyGetaway #HotMamaTravel"} -->
-<figure data-essb-pin-description="Discover the best haunted hotels in Salem, MA for families! Explore family-friendly spooky stays with ghost stories, history, and New England charm. #SalemTravel #FamilyTravel #HauntedHotels #SpookyGetaway #HotMamaTravel"><a href="/wp-content/uploads/2022/10/Haunted-Hotels-Salem-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/10/Haunted-Hotels-Salem--200x300.jpg" alt="Haunted Hotels Salem MA" class="wp-image-16432"/></a></figure>
+<figure data-essb-pin-description="Discover the best haunted hotels in Salem, MA for families! Explore family-friendly spooky stays with ghost stories, history, and New England charm. #SalemTravel #FamilyTravel #HauntedHotels #SpookyGetaway #HotMamaTravel"><a href="/images/2022/10/Haunted-Hotels-Salem-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/10/Haunted-Hotels-Salem--200x300.jpg" alt="Haunted Hotels Salem MA" class="wp-image-16432"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

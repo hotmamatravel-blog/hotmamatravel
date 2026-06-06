@@ -562,6 +562,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":14654,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-things-to-do-in-temecula-ca"><a href="/wp-content/uploads/2021/06/best-things-to-do-in-temecula-ca.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/06/best-things-to-do-in-temecula-ca-200x300.jpg" alt="" class="wp-image-14654" title="Where to eat, sleep and play: A list of the best things to do in Temecula, ca"/></a></figure>
+<figure id="best-things-to-do-in-temecula-ca"><a href="/images/2021/06/best-things-to-do-in-temecula-ca.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/06/best-things-to-do-in-temecula-ca-200x300.jpg" alt="" class="wp-image-14654" title="Where to eat, sleep and play: A list of the best things to do in Temecula, ca"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

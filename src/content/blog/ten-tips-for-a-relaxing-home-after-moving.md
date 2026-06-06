@@ -135,6 +135,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19716,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="10-tips-for-a-relaxing-home-after-moving"><a href="/wp-content/uploads/2023/12/10-tips-for-a-relaxing-home-after-moving.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/12/10-tips-for-a-relaxing-home-after-moving-200x300.jpg" alt="" class="wp-image-19716" title="Ten Tips for a Relaxing Home After Moving - HotMamaTravel"/></a></figure>
+<figure id="10-tips-for-a-relaxing-home-after-moving"><a href="/images/2023/12/10-tips-for-a-relaxing-home-after-moving.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/12/10-tips-for-a-relaxing-home-after-moving-200x300.jpg" alt="" class="wp-image-19716" title="Ten Tips for a Relaxing Home After Moving - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

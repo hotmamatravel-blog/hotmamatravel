@@ -79,6 +79,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":21388,"sizeSlug":"medium","linkDestination":"media","className":"essb-block-image","pindesc":"Traveling across America in comfort as a family - HotMamaTravel"} -->
-<figure data-essb-pin-description="Traveling across America in comfort as a family - HotMamaTravel"><a href="/wp-content/uploads/2024/07/traveling-across-america-in-comfort-as-a-family.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/07/traveling-across-america-in-comfort-as-a-family-200x300.jpg" alt="Traveling across America in comfort as a family - HotMamaTravel" class="wp-image-21388"/></a></figure>
+<figure data-essb-pin-description="Traveling across America in comfort as a family - HotMamaTravel"><a href="/images/2024/07/traveling-across-america-in-comfort-as-a-family.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/07/traveling-across-america-in-comfort-as-a-family-200x300.jpg" alt="Traveling across America in comfort as a family - HotMamaTravel" class="wp-image-21388"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

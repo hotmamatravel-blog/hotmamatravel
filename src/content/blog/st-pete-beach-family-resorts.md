@@ -345,6 +345,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":17495,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-st-pete-beach-family-resorts"><a href="/wp-content/uploads/2023/03/best-st-pete-beach-family-resorts.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/03/best-st-pete-beach-family-resorts-200x300.jpg" alt="" class="wp-image-17495" title="The Best Beachfront St. Pete Beach Family Resorts - HotMamaTravel"/></a></figure>
+<figure id="best-st-pete-beach-family-resorts"><a href="/images/2023/03/best-st-pete-beach-family-resorts.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/03/best-st-pete-beach-family-resorts-200x300.jpg" alt="" class="wp-image-17495" title="The Best Beachfront St. Pete Beach Family Resorts - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

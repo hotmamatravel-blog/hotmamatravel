@@ -99,6 +99,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19170,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="good-reasons-to-rent-out-holiday-home"><a href="/wp-content/uploads/2023/10/good-reasons-to-rent-out-holiday-home.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/10/good-reasons-to-rent-out-holiday-home-200x300.jpg" alt="" class="wp-image-19170" title="Good Reason Why You Should Consider Renting Out a Holiday Home - HotMamaTravel"/></a></figure>
+<figure id="good-reasons-to-rent-out-holiday-home"><a href="/images/2023/10/good-reasons-to-rent-out-holiday-home.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/10/good-reasons-to-rent-out-holiday-home-200x300.jpg" alt="" class="wp-image-19170" title="Good Reason Why You Should Consider Renting Out a Holiday Home - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

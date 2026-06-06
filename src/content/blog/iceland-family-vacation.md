@@ -175,6 +175,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":16148,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="must-do-see-things-iceland-family-vacation"><a href="/wp-content/uploads/2022/07/iceland-family-vacation.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/07/iceland-family-vacation-200x300.jpg" alt="" class="wp-image-16148" title="6 Cool Things to do on your Iceland family vacation - HotMamaTravel"/></a></figure>
+<figure id="must-do-see-things-iceland-family-vacation"><a href="/images/2022/07/iceland-family-vacation.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/07/iceland-family-vacation-200x300.jpg" alt="" class="wp-image-16148" title="6 Cool Things to do on your Iceland family vacation - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

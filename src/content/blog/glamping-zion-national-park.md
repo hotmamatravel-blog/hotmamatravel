@@ -278,6 +278,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":14694,"sizeSlug":"medium","linkDestination":"media","UAGDay":[]} -->
-<figure id="5-best-glamping-sites-zion-utah"><a href="/wp-content/uploads/2021/06/5-best-glamping-sites-zion-utah.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/06/5-best-glamping-sites-zion-utah-200x300.jpg" alt="" class="wp-image-14694" title="Yurts, Covered Wagons and Glamping Tents. 5 Mind-blowing sites for Glamping in Zion that you will love! - HotMamaTravel"/></a></figure>
+<figure id="5-best-glamping-sites-zion-utah"><a href="/images/2021/06/5-best-glamping-sites-zion-utah.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/06/5-best-glamping-sites-zion-utah-200x300.jpg" alt="" class="wp-image-14694" title="Yurts, Covered Wagons and Glamping Tents. 5 Mind-blowing sites for Glamping in Zion that you will love! - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

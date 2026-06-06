@@ -320,6 +320,6 @@ author: "Amanda Keeley-Thurman"
 
 Find the full list now on HotMamaTravel.com ✨
 
-#Temecula #TemeculaWineCountry #FamilyTravel #KidFriendly #CaliforniaTravel #TemeculaWineries #TravelWithKids #FamilyVacation #WineCountry #HotMamaTravel"><a href="/wp-content/uploads/2021/05/8-best-kid-friendly-wineries-temecula.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/05/8-best-kid-friendly-wineries-temecula-200x300.jpg" alt="Best kid-friendly wineries in temecula" class="wp-image-14538" title="8 Kid-friendly wineries in Temecula with live music - HotMamaTravel"/></a></figure>
+#Temecula #TemeculaWineCountry #FamilyTravel #KidFriendly #CaliforniaTravel #TemeculaWineries #TravelWithKids #FamilyVacation #WineCountry #HotMamaTravel"><a href="/images/2021/05/8-best-kid-friendly-wineries-temecula.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/05/8-best-kid-friendly-wineries-temecula-200x300.jpg" alt="Best kid-friendly wineries in temecula" class="wp-image-14538" title="8 Kid-friendly wineries in Temecula with live music - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

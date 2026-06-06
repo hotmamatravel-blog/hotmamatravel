@@ -37,7 +37,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"f6f125a7","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f6f125a7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17733,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="ernest-hemingway-house-key-west-family-vacation"><a href="/wp-content/uploads/2023/04/ernest-hemingway-house-key-west-family-vacation.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/ernest-hemingway-house-key-west-family-vacation-1024x576.jpg" alt="" class="wp-image-17733" title="Key West family activities visiting the home of Ernest Hemingway"/></a></figure>
+<figure id="ernest-hemingway-house-key-west-family-vacation"><a href="/images/2023/04/ernest-hemingway-house-key-west-family-vacation.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/ernest-hemingway-house-key-west-family-vacation-1024x576.jpg" alt="" class="wp-image-17733" title="Key West family activities visiting the home of Ernest Hemingway"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -85,7 +85,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"b4d6db7e","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b4d6db7e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17734,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="dry-tortugas-national-park-key-west-family-vacation"><a href="/wp-content/uploads/2023/04/dry-tortugas-national-park-key-west-family-vacation.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/dry-tortugas-national-park-key-west-family-vacation-1024x576.jpg" alt="" class="wp-image-17734" title="Visit Dry Tortugas National Park for things to do in Florida Keys with kids"/></a></figure>
+<figure id="dry-tortugas-national-park-key-west-family-vacation"><a href="/images/2023/04/dry-tortugas-national-park-key-west-family-vacation.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/dry-tortugas-national-park-key-west-family-vacation-1024x576.jpg" alt="" class="wp-image-17734" title="Visit Dry Tortugas National Park for things to do in Florida Keys with kids"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -107,7 +107,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"cda9e9e4","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-cda9e9e4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17735,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="harry-s-truman-little-white-house-key-west-family-vacation"><a href="/wp-content/uploads/2023/04/harry-s-truman-little-white-house-key-west-family-vacation.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/harry-s-truman-little-white-house-key-west-family-vacation-1024x576.jpg" alt="" class="wp-image-17735" title="Harry S. Truman Little White House Key West kid friendly activities "/></a></figure>
+<figure id="harry-s-truman-little-white-house-key-west-family-vacation"><a href="/images/2023/04/harry-s-truman-little-white-house-key-west-family-vacation.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/harry-s-truman-little-white-house-key-west-family-vacation-1024x576.jpg" alt="" class="wp-image-17735" title="Harry S. Truman Little White House Key West kid friendly activities "/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -155,7 +155,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"4f0cea34","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4f0cea34"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17737,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="duval-street-key-west-family-vacation"><a href="/wp-content/uploads/2023/04/duval-street-key-west-family-vacation.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/duval-street-key-west-family-vacation-1024x576.jpg" alt="" class="wp-image-17737" title="hangout on Duval Street in Key West with kids"/></a></figure>
+<figure id="duval-street-key-west-family-vacation"><a href="/images/2023/04/duval-street-key-west-family-vacation.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/duval-street-key-west-family-vacation-1024x576.jpg" alt="" class="wp-image-17737" title="hangout on Duval Street in Key West with kids"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -189,7 +189,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"0ad6cb67","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0ad6cb67"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17738,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="fort-zachary-taylor-historic-state-park-key-west-family-vacation"><a href="/wp-content/uploads/2023/04/fort-zachary-taylor-historic-state-park-key-west-family-vacation.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/fort-zachary-taylor-historic-state-park-key-west-family-vacation-1024x576.jpg" alt="" class="wp-image-17738" title="Visit Fort Zachary Taylor Historic State Park Key West kids activities"/></a></figure>
+<figure id="fort-zachary-taylor-historic-state-park-key-west-family-vacation"><a href="/images/2023/04/fort-zachary-taylor-historic-state-park-key-west-family-vacation.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/fort-zachary-taylor-historic-state-park-key-west-family-vacation-1024x576.jpg" alt="" class="wp-image-17738" title="Visit Fort Zachary Taylor Historic State Park Key West kids activities"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -273,7 +273,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"d22fd1a3","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d22fd1a3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17739,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="overseas-highway-key-west-family-vacation"><a href="/wp-content/uploads/2023/04/overseas-highway-key-west-family-vacation.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/overseas-highway-key-west-family-vacation-1024x576.jpg" alt="" class="wp-image-17739" title="Take the overseas highway on a family vacation Florida Feys"/></a></figure>
+<figure id="overseas-highway-key-west-family-vacation"><a href="/images/2023/04/overseas-highway-key-west-family-vacation.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/overseas-highway-key-west-family-vacation-1024x576.jpg" alt="" class="wp-image-17739" title="Take the overseas highway on a family vacation Florida Feys"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -317,7 +317,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"0482bcb7","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0482bcb7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17740,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="southern-most-point-key-west-family-vacation"><a href="/wp-content/uploads/2023/04/southern-most-point-key-west-family-vacation.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/southern-most-point-key-west-family-vacation-1024x576.jpg" alt="" class="wp-image-17740" title="Visit the Southernmost Point on a Key West family vacation"/></a></figure>
+<figure id="southern-most-point-key-west-family-vacation"><a href="/images/2023/04/southern-most-point-key-west-family-vacation.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/southern-most-point-key-west-family-vacation-1024x576.jpg" alt="" class="wp-image-17740" title="Visit the Southernmost Point on a Key West family vacation"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -397,7 +397,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"adb703f7","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-adb703f7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17742,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="lighthouse-keepers-museum-key-west-family-vacation"><a href="/wp-content/uploads/2023/04/lighthouse-keepers-museum-key-west-family-vacation.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/lighthouse-keepers-museum-key-west-family-vacation-1024x576.jpg" alt="" class="wp-image-17742" title="Key West family activities at the Key West Lighthouse and Keeper's Quarters Museum"/></a></figure>
+<figure id="lighthouse-keepers-museum-key-west-family-vacation"><a href="/images/2023/04/lighthouse-keepers-museum-key-west-family-vacation.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/lighthouse-keepers-museum-key-west-family-vacation-1024x576.jpg" alt="" class="wp-image-17742" title="Key West family activities at the Key West Lighthouse and Keeper's Quarters Museum"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -535,6 +535,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":17746,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="family-travel-guide-things-to-do-in-key-west-with-kids"><a href="/wp-content/uploads/2023/04/family-travel-guide-things-to-do-in-key-west-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/family-travel-guide-things-to-do-in-key-west-with-kids-200x300.jpg" alt="" class="wp-image-17746" title="Ultimate family travel guide for things to do in Key West with kids - HotMamaTravel"/></a></figure>
+<figure id="family-travel-guide-things-to-do-in-key-west-with-kids"><a href="/images/2023/04/family-travel-guide-things-to-do-in-key-west-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/family-travel-guide-things-to-do-in-key-west-with-kids-200x300.jpg" alt="" class="wp-image-17746" title="Ultimate family travel guide for things to do in Key West with kids - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

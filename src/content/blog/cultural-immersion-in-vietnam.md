@@ -127,6 +127,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":18452,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="cultural-immersion-vietnam-traditions-local-life"><a href="/wp-content/uploads/2023/07/Cultural-Immersion-vietnam-traditions-and-local-life.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/07/Cultural-Immersion-vietnam-traditions-and-local-life-200x300.jpg" alt="" class="wp-image-18452" title="Cultural Immersion Vietnam Travel Experiencing Traditions and Local Life  - HotMamaTravel"/></a></figure>
+<figure id="cultural-immersion-vietnam-traditions-local-life"><a href="/images/2023/07/Cultural-Immersion-vietnam-traditions-and-local-life.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/07/Cultural-Immersion-vietnam-traditions-and-local-life-200x300.jpg" alt="" class="wp-image-18452" title="Cultural Immersion Vietnam Travel Experiencing Traditions and Local Life  - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

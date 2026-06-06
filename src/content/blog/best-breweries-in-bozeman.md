@@ -304,6 +304,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19504,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-breweries-in-bozeman-families-live-music-pets"><a href="/wp-content/uploads/2023/11/best-breweries-in-bozeman-families-live-music-pets.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/11/best-breweries-in-bozeman-families-live-music-pets-200x300.jpg" alt="" class="wp-image-19504" title="Best Breweries in Bozeman, Montana to Enjoy with Family, Friends, and Furbabies - HotMamaTravel"/></a></figure>
+<figure id="best-breweries-in-bozeman-families-live-music-pets"><a href="/images/2023/11/best-breweries-in-bozeman-families-live-music-pets.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/11/best-breweries-in-bozeman-families-live-music-pets-200x300.jpg" alt="" class="wp-image-19504" title="Best Breweries in Bozeman, Montana to Enjoy with Family, Friends, and Furbabies - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

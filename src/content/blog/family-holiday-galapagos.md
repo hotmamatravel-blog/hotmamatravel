@@ -211,6 +211,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":16164,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="Things-to-do-Family-Holiday-Galapagos"><a href="/wp-content/uploads/2022/07/Things-to-do-Family-Holiday-Galapagos.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/07/Things-to-do-Family-Holiday-Galapagos-200x300.jpg" alt="" class="wp-image-16164" title="Why you should travel with your family to the Galapagos - HotMamaTravel"/></a></figure>
+<figure id="Things-to-do-Family-Holiday-Galapagos"><a href="/images/2022/07/Things-to-do-Family-Holiday-Galapagos.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/07/Things-to-do-Family-Holiday-Galapagos-200x300.jpg" alt="" class="wp-image-16164" title="Why you should travel with your family to the Galapagos - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

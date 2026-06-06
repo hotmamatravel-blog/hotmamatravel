@@ -208,6 +208,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":10101,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure><a href="/wp-content/uploads/2016/12/Christmas-1.png"><img src="https://hotmamatravel.com/wp-content/uploads/2016/12/Christmas-1-200x300.png" alt="A truly magical holiday escape during Christmas at the Apple Farm Inn in San Luis Obispo California" class="wp-image-10101"/></a></figure>
+<figure><a href="/images/2016/12/Christmas-1.png"><img src="https://hotmamatravel.com/wp-content/uploads/2016/12/Christmas-1-200x300.png" alt="A truly magical holiday escape during Christmas at the Apple Farm Inn in San Luis Obispo California" class="wp-image-10101"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

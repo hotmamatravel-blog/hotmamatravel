@@ -131,6 +131,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19632,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="how-to-choose-the-perfect-vacation-home-for-your-next-family-adventure"><a href="/wp-content/uploads/2023/12/how-to-choose-the-perfect-vacation-home-for-your-next-family-adventure.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/12/how-to-choose-the-perfect-vacation-home-for-your-next-family-adventure-200x300.jpg" alt="" class="wp-image-19632" title="How to choose the perfect vacation home for your next family adventure - HotMamaTravel"/></a></figure>
+<figure id="how-to-choose-the-perfect-vacation-home-for-your-next-family-adventure"><a href="/images/2023/12/how-to-choose-the-perfect-vacation-home-for-your-next-family-adventure.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/12/how-to-choose-the-perfect-vacation-home-for-your-next-family-adventure-200x300.jpg" alt="" class="wp-image-19632" title="How to choose the perfect vacation home for your next family adventure - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

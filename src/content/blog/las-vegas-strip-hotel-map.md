@@ -31,7 +31,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:ugb/heading -->
 
 <!-- wp:image {"id":21620,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="Las-Vegas-Strip-Hotel-Map"><a href="/wp-content/uploads/2024/03/Las-Vegas-Strip-Hotel-Map-2024.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/03/Las-Vegas-Strip-Hotel-Map-2024-683x1024.jpg" alt="Las Vegas Hotel Map 2024" class="wp-image-21620" title="Best Las Vegas Strip Hotel Map For Families"/></a></figure>
+<figure id="Las-Vegas-Strip-Hotel-Map"><a href="/images/2024/03/Las-Vegas-Strip-Hotel-Map-2024.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/03/Las-Vegas-Strip-Hotel-Map-2024-683x1024.jpg" alt="Las Vegas Hotel Map 2024" class="wp-image-21620" title="Best Las Vegas Strip Hotel Map For Families"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:ugb/heading {"showSubtitle":false,"showBottomLine":true,"bottomLineColor":"#ff0000","uniqueClass":"ugb-3f8c026","contentAlign":"center"} -->
@@ -170,6 +170,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":21623,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="Las-Vegas-Strip-Hotel-Map"><a href="/wp-content/uploads/2024/03/Las-Vegas-Strip-Hotel-Map-2024-1.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/03/Las-Vegas-Strip-Hotel-Map-2024-1-200x300.jpg" alt="Best Map of Las Vegas Hotels for Families" class="wp-image-21623" title="Best Las Vegas Strip Hotel Map for Families - HotMamaTravel"/></a></figure>
+<figure id="Las-Vegas-Strip-Hotel-Map"><a href="/images/2024/03/Las-Vegas-Strip-Hotel-Map-2024-1.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/03/Las-Vegas-Strip-Hotel-Map-2024-1-200x300.jpg" alt="Best Map of Las Vegas Hotels for Families" class="wp-image-21623" title="Best Las Vegas Strip Hotel Map for Families - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

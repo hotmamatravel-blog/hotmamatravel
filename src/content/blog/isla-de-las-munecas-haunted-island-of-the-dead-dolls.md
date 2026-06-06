@@ -441,6 +441,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19708,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls"><a href="/wp-content/uploads/2023/12/ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/12/ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls-200x300.jpg" alt="" class="wp-image-19708" title="Ultimate Guide to Visiting Isla De Las Munecas The Haunted Island of Dead Dolls - HotMamaTravel"/></a></figure>
+<figure id="ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls"><a href="/images/2023/12/ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/12/ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls-200x300.jpg" alt="" class="wp-image-19708" title="Ultimate Guide to Visiting Isla De Las Munecas The Haunted Island of Dead Dolls - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

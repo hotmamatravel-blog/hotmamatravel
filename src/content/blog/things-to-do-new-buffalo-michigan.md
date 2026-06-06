@@ -394,6 +394,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":16664,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="things-to-do-in-new-buffalo-michigan-with-kids"><a href="/wp-content/uploads/2023/01/things-to-do-in-new-buffalo-michigan-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/01/things-to-do-in-new-buffalo-michigan-with-kids-200x300.jpg" alt="" class="wp-image-16664" title="9 Awesome things to do in New Buffalo Michigan with kids- HotMamaTravel"/></a></figure>
+<figure id="things-to-do-in-new-buffalo-michigan-with-kids"><a href="/images/2023/01/things-to-do-in-new-buffalo-michigan-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/01/things-to-do-in-new-buffalo-michigan-with-kids-200x300.jpg" alt="" class="wp-image-16664" title="9 Awesome things to do in New Buffalo Michigan with kids- HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

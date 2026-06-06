@@ -99,6 +99,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19729,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="cut-the-stress-from-packing"><a href="/wp-content/uploads/2023/12/cut-the-stress-from-packing.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/12/cut-the-stress-from-packing-200x300.jpg" alt="" class="wp-image-19729" title="How to cut the stress from packing for travel - HotMamaTravel"/></a></figure>
+<figure id="cut-the-stress-from-packing"><a href="/images/2023/12/cut-the-stress-from-packing.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/12/cut-the-stress-from-packing-200x300.jpg" alt="" class="wp-image-19729" title="How to cut the stress from packing for travel - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

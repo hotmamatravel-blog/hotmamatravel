@@ -286,6 +286,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":14669,"sizeSlug":"medium","linkDestination":"media","UAGDay":[]} -->
-<figure id="5-best-glamping-florida-sites"><a href="/wp-content/uploads/2021/06/5-best-glamping-florida-sites.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/06/5-best-glamping-florida-sites-200x300.jpg" alt="" class="wp-image-14669" title="Treehouses, Yurts and Chickee Huts. 5 Unique Sites for Glamping in Florida your family will love! - HotMamaTravel"/></a></figure>
+<figure id="5-best-glamping-florida-sites"><a href="/images/2021/06/5-best-glamping-florida-sites.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/06/5-best-glamping-florida-sites-200x300.jpg" alt="" class="wp-image-14669" title="Treehouses, Yurts and Chickee Huts. 5 Unique Sites for Glamping in Florida your family will love! - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

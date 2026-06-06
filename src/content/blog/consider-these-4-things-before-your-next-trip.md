@@ -87,6 +87,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19737,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="consider-these-4-things-before-your-next-trip"><a href="/wp-content/uploads/2023/12/consider-these-4-things-before-your-next-trip.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/12/consider-these-4-things-before-your-next-trip-200x300.jpg" alt="" class="wp-image-19737" title="Consider these 4 things before you next trip - HotMamaTravel"/></a></figure>
+<figure id="consider-these-4-things-before-your-next-trip"><a href="/images/2023/12/consider-these-4-things-before-your-next-trip.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/12/consider-these-4-things-before-your-next-trip-200x300.jpg" alt="" class="wp-image-19737" title="Consider these 4 things before you next trip - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

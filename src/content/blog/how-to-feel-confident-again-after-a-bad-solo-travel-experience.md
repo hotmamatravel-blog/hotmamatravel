@@ -181,6 +181,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":18444,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="How-to-feel-confident-solo-travel-after-bad-experience"><a href="/wp-content/uploads/2023/07/How-to-feel-confident-solo-travel-after-bad-experience.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/07/How-to-feel-confident-solo-travel-after-bad-experience-200x300.jpg" alt="" class="wp-image-18444" title="How To Feel Confident Again After A Bad Solo Travel Experience  - HotMamaTravel"/></a></figure>
+<figure id="How-to-feel-confident-solo-travel-after-bad-experience"><a href="/images/2023/07/How-to-feel-confident-solo-travel-after-bad-experience.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/07/How-to-feel-confident-solo-travel-after-bad-experience-200x300.jpg" alt="" class="wp-image-18444" title="How To Feel Confident Again After A Bad Solo Travel Experience  - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

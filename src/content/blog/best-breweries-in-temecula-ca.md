@@ -434,6 +434,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":14591,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure><a href="/wp-content/uploads/2021/06/best-temecula-breweries.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/06/best-temecula-breweries-200x300.jpg" alt="" class="wp-image-14591" title="14 Brewtastic Breweries in Temecula that will quench your thirst - HotMamaTravel "/></a></figure>
+<figure><a href="/images/2021/06/best-temecula-breweries.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/06/best-temecula-breweries-200x300.jpg" alt="" class="wp-image-14591" title="14 Brewtastic Breweries in Temecula that will quench your thirst - HotMamaTravel "/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

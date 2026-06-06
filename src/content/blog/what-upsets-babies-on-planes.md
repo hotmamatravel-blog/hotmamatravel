@@ -107,7 +107,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":20850,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="what-upsets-babies-on-planes-what-to-avoid"><a href="/wp-content/uploads/2024/05/what-upsets-babies-on-planes-1.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/05/what-upsets-babies-on-planes-1-200x300.jpg" alt="What Upsets Babies On Planes, 5 Things To Know In Advance
+<figure id="what-upsets-babies-on-planes-what-to-avoid"><a href="/images/2024/05/what-upsets-babies-on-planes-1.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/05/what-upsets-babies-on-planes-1-200x300.jpg" alt="What Upsets Babies On Planes, 5 Things To Know In Advance
 " class="wp-image-20850" title="What Upsets Babies On Planes: 5 Things To Know In Advance -HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

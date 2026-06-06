@@ -220,6 +220,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19591,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-breweries-in-Santa-Cruz-families-live-music-pets"><a href="/wp-content/uploads/2023/12/best-breweries-in-Santa-Cruz-families-live-music-pets.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/12/best-breweries-in-Santa-Cruz-families-live-music-pets-200x300.jpg" alt="" class="wp-image-19591" title="Best Breweries in Santa Cruz to Enjoy with Kids, Pets and Friends - HotMamaTravel"/></a></figure>
+<figure id="best-breweries-in-Santa-Cruz-families-live-music-pets"><a href="/images/2023/12/best-breweries-in-Santa-Cruz-families-live-music-pets.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/12/best-breweries-in-Santa-Cruz-families-live-music-pets-200x300.jpg" alt="" class="wp-image-19591" title="Best Breweries in Santa Cruz to Enjoy with Kids, Pets and Friends - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

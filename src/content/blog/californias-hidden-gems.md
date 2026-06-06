@@ -336,6 +336,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":17216,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="unique-off-beaten-path-california-hidden-gems"><a href="/wp-content/uploads/2023/03/unique-off-beaten-path-california-hidden-gems.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/03/unique-off-beaten-path-california-hidden-gems-200x300.jpg" alt="" class="wp-image-17216" title="California's Best Hidden Gems- Unique Activities Off The Beaten Path - HotMamaTravel"/></a></figure>
+<figure id="unique-off-beaten-path-california-hidden-gems"><a href="/images/2023/03/unique-off-beaten-path-california-hidden-gems.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/03/unique-off-beaten-path-california-hidden-gems-200x300.jpg" alt="" class="wp-image-17216" title="California's Best Hidden Gems- Unique Activities Off The Beaten Path - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

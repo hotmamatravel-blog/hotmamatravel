@@ -10,7 +10,7 @@ wpSlug: "confirmation"
 author: "Amanda Keeley-Thurman"
 ---
 
-<h1><span style="color: #ff0000;">You Did it!</span></h1>
+<h2><span style="color: #ff0000;">You Did it!</span></h2>
 You've confirmed <span style="color: #000000;">your subscription to HotMamaTravel.</span>
 
 <br /><br />

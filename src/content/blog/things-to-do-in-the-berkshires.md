@@ -370,6 +370,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":16700,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="things-to-do-in-the-berkshires-for-families"><a href="/wp-content/uploads/2023/01/things-to-do-in-the-berkshires-for-families.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/01/things-to-do-in-the-berkshires-for-families-200x300.jpg" alt="" class="wp-image-16700" title="Best things to do in the Berkshires with your family- HotMamaTravel"/></a></figure>
+<figure id="things-to-do-in-the-berkshires-for-families"><a href="/images/2023/01/things-to-do-in-the-berkshires-for-families.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/01/things-to-do-in-the-berkshires-for-families-200x300.jpg" alt="" class="wp-image-16700" title="Best things to do in the Berkshires with your family- HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

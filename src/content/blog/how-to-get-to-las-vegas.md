@@ -312,6 +312,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":21156,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="how-to-get-to-las-vegas-for-families"><a href="/wp-content/uploads/2024/06/how-to-get-to-las-vegas-for-families-1.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/06/how-to-get-to-las-vegas-for-families-1-200x300.jpg" alt="How to get to Las Vegas with kids" class="wp-image-21156" title="How To Get To Las Vegas With Your Family - HotMamaTravel"/></a></figure>
+<figure id="how-to-get-to-las-vegas-for-families"><a href="/images/2024/06/how-to-get-to-las-vegas-for-families-1.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/06/how-to-get-to-las-vegas-for-families-1-200x300.jpg" alt="How to get to Las Vegas with kids" class="wp-image-21156" title="How To Get To Las Vegas With Your Family - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

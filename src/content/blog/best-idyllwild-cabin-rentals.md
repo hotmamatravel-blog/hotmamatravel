@@ -184,6 +184,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":20206,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-idyllwild-cabin-rentalsfor-families"><a href="/wp-content/uploads/2024/01/best-idyllwild-cabin-rentalsfor-families.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/best-idyllwild-cabin-rentalsfor-families-200x300.jpg" alt="Best Idyllwild Cabin Rentals for Families" class="wp-image-20206" title="Best Idyllwild Cabin Rentals for Families - HotMamaTravel"/></a></figure>
+<figure id="best-idyllwild-cabin-rentalsfor-families"><a href="/images/2024/01/best-idyllwild-cabin-rentalsfor-families.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/best-idyllwild-cabin-rentalsfor-families-200x300.jpg" alt="Best Idyllwild Cabin Rentals for Families" class="wp-image-20206" title="Best Idyllwild Cabin Rentals for Families - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

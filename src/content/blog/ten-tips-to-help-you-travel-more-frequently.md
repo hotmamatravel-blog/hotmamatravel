@@ -143,6 +143,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19797,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="tne-tips-to-help-you-travel-more-frequently"><a href="/wp-content/uploads/2024/01/tne-tips-to-help-you-travel-more-frequently.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/tne-tips-to-help-you-travel-more-frequently-200x300.jpg" alt="" class="wp-image-19797" title="10 Tips you help you travel more frequently - HotMamaTravel"/></a></figure>
+<figure id="tne-tips-to-help-you-travel-more-frequently"><a href="/images/2024/01/tne-tips-to-help-you-travel-more-frequently.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/tne-tips-to-help-you-travel-more-frequently-200x300.jpg" alt="" class="wp-image-19797" title="10 Tips you help you travel more frequently - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

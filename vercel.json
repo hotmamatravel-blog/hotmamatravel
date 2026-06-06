@@ -39,48 +39,123 @@
   ],
   "redirects": [
     {
+      "source": "/web-stories/:path*",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/real-family-travel-stories",
+      "destination": "/tag/family-travel/",
+      "permanent": true
+    },
+    {
+      "source": "/real-family-travel-stories/",
+      "destination": "/tag/family-travel/",
+      "permanent": true
+    },
+    {
+      "source": "/mexico-family-travel",
+      "destination": "/tag/mexico/",
+      "permanent": true
+    },
+    {
+      "source": "/mexico-family-travel/",
+      "destination": "/tag/mexico/",
+      "permanent": true
+    },
+    {
+      "source": "/europe-family-travel",
+      "destination": "/tag/europe/",
+      "permanent": true
+    },
+    {
+      "source": "/europe-family-travel/",
+      "destination": "/tag/europe/",
+      "permanent": true
+    },
+    {
+      "source": "/haunted-places/family-friendly-haunted-hotels",
+      "destination": "/tag/family-friendly-haunted-hotels/",
+      "permanent": true
+    },
+    {
+      "source": "/haunted-places/family-friendly-haunted-hotels/",
+      "destination": "/tag/family-friendly-haunted-hotels/",
+      "permanent": true
+    },
+    {
+      "source": "/palm-springs-airbnb",
+      "destination": "/tag/california/",
+      "permanent": true
+    },
+    {
+      "source": "/palm-springs-airbnb/",
+      "destination": "/tag/california/",
+      "permanent": true
+    },
+    {
+      "source": "/las-vegas-airbnb",
+      "destination": "/tag/las-vegas/",
+      "permanent": true
+    },
+    {
+      "source": "/las-vegas-airbnb/",
+      "destination": "/tag/las-vegas/",
+      "permanent": true
+    },
+    {
+      "source": "/hotel-reviews",
+      "destination": "/tag/family-hotels/",
+      "permanent": true
+    },
+    {
+      "source": "/hotel-reviews/",
+      "destination": "/tag/family-hotels/",
+      "permanent": true
+    },
+    {
       "source": "/wp-content/uploads/:path*",
       "destination": "/images/:path*",
       "permanent": true
     },
     {
       "source": "/best-backpack-diaper-bag",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/best-backpack-diaper-bag/",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/best-etsy-shops-travel",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/best-etsy-shops-travel/",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/best-kids-luggage-sets-boys-girls",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/best-kids-luggage-sets-boys-girls/",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/best-portable-chargers-for-travelers",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/best-portable-chargers-for-travelers/",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
@@ -95,62 +170,62 @@
     },
     {
       "source": "/best-travel-system-strollers",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/best-travel-system-strollers/",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/best-wine-suitcase-wine-travel-bag",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/best-wine-suitcase-wine-travel-bag/",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/best-womens-travel-vest",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/best-womens-travel-vest/",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/diaper-backpack-for-dad",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/diaper-backpack-for-dad/",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/lugabug",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/lugabug/",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/mothers-day-gift-guide-for-travel",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/mothers-day-gift-guide-for-travel/",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
@@ -165,12 +240,12 @@
     },
     {
       "source": "/tag/buyers-guides",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/tag/buyers-guides/",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
@@ -345,22 +420,22 @@
     },
     {
       "source": "/family-travel-videos",
-      "destination": "/tag/video",
+      "destination": "/tag/family-travel/",
       "permanent": true
     },
     {
       "source": "/family-travel-videos/",
-      "destination": "/tag/video",
+      "destination": "/tag/family-travel/",
       "permanent": true
     },
     {
       "source": "/buyers-guides-busy-moms",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/buyers-guides-busy-moms/",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
@@ -487,7 +562,7 @@
           "value": "travel-advice"
         }
       ],
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
@@ -511,7 +586,7 @@
           "value": "exotic-holidays"
         }
       ],
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
@@ -526,12 +601,12 @@
     },
     {
       "source": "/airboat",
-      "destination": "/everglades-airboat-tour-with-kids/",
+      "destination": "/everglades-airboat-tour-kids/",
       "permanent": true
     },
     {
       "source": "/airboat/",
-      "destination": "/everglades-airboat-tour-with-kids/",
+      "destination": "/everglades-airboat-tour-kids/",
       "permanent": true
     },
     {
@@ -629,17 +704,17 @@
           "value": "201305"
         }
       ],
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/cast-of-characters-3",
-      "destination": "/who-is-hot-mama/cast-of-characters/",
+      "destination": "/cast-of-characters/",
       "permanent": true
     },
     {
       "source": "/cast-of-characters-3/",
-      "destination": "/who-is-hot-mama/cast-of-characters/",
+      "destination": "/cast-of-characters/",
       "permanent": true
     },
     {
@@ -687,7 +762,7 @@
           "value": "201401"
         }
       ],
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
@@ -699,7 +774,7 @@
           "value": "27"
         }
       ],
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
@@ -711,7 +786,7 @@
           "value": "121"
         }
       ],
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
@@ -731,17 +806,17 @@
     },
     {
       "source": "/hot-tips-advice:suffix*",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/hello-coordination",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/hello-coordination/",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
@@ -761,12 +836,12 @@
     },
     {
       "source": "/hot-guest-bloggers",
-      "destination": "/who-is-hot-mama/hot-press-media/",
+      "destination": "/hot-press-media/",
       "permanent": true
     },
     {
       "source": "/hot-guest-bloggers/",
-      "destination": "/who-is-hot-mama/hot-press-media/",
+      "destination": "/hot-press-media/",
       "permanent": true
     },
     {
@@ -874,23 +949,23 @@
       "permanent": true
     },
     {
-      "source": "/solvang-w​ith-kids/www.greenhousesolvang.com",
-      "destination": "/solvang-w​ith-kids/",
+      "source": "/solvang-with-kids/www.greenhousesolvang.com",
+      "destination": "/solvang-with-kids/",
       "permanent": true
     },
     {
-      "source": "/solvang-w​ith-kids/www.greenhousesolvang.com/",
-      "destination": "/solvang-w​ith-kids/",
+      "source": "/solvang-with-kids/www.greenhousesolvang.com/",
+      "destination": "/solvang-with-kids/",
       "permanent": true
     },
     {
       "source": "/hot-advic​e/hotmama-picks",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/hot-advic​e/hotmama-picks/",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
@@ -905,17 +980,17 @@
     },
     {
       "source": "/hot-tips-​n-advice:suffix*",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/travels/united-states/georgia",
-      "destination": "/travel-destinations/united-states-travel/georgia/",
+      "destination": "/tag/georgia/",
       "permanent": true
     },
     {
       "source": "/travels/united-states/georgia/",
-      "destination": "/travel-destinations/united-states-travel/georgia/",
+      "destination": "/tag/georgia/",
       "permanent": true
     },
     {
@@ -957,7 +1032,7 @@
     },
     {
       "source": "/hot-advice:suffix*",
-      "destination": "/tag/travel-tips/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
@@ -989,7 +1064,7 @@
           "value": "hotel-reviews"
         }
       ],
-      "destination": "/tag/hotel-reviews/",
+      "destination": "/tag/family-hotels/",
       "permanent": true
     },
     {
@@ -1023,12 +1098,12 @@
     },
     {
       "source": "/10-tips-for-international-travel",
-      "destination": "/10-tips-for-overseas-travel/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {
       "source": "/10-tips-for-international-travel/",
-      "destination": "/10-tips-for-overseas-travel/",
+      "destination": "/tag/hot-tips/",
       "permanent": true
     },
     {

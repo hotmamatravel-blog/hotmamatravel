@@ -79,6 +79,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19521,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="4-travel-ideas-for-an-unforgettable-trip"><a href="/wp-content/uploads/2023/11/4-travel-ideas-for-an-unforgettable-trip.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/11/4-travel-ideas-for-an-unforgettable-trip-200x300.jpg" alt="" class="wp-image-19521" title="4 Travel Ideas for an Unforgettable Trip - HotMamaTravel"/></a></figure>
+<figure id="4-travel-ideas-for-an-unforgettable-trip"><a href="/images/2023/11/4-travel-ideas-for-an-unforgettable-trip.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/11/4-travel-ideas-for-an-unforgettable-trip-200x300.jpg" alt="" class="wp-image-19521" title="4 Travel Ideas for an Unforgettable Trip - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

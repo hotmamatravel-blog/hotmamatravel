@@ -414,6 +414,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19412,"sizeSlug":"medium","linkDestination":"media","className":"essb-block-image","pindesc":"Best Breweries in Anaheim to Enjoy with Friends and Family - HotMamaTravel"} -->
-<figure id="best-breweries-in-anaheim-for-families" data-essb-pin-description="Best Breweries in Anaheim to Enjoy with Friends and Family - HotMamaTravel"><a href="/wp-content/uploads/2023/11/best-breweries-in-anaheim-for-families.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/11/best-breweries-in-anaheim-for-families-200x300.jpg" alt="" class="wp-image-19412" title="Best Breweries in Anaheim to Enjoy with Friends and Family - HotMamaTravel"/></a></figure>
+<figure id="best-breweries-in-anaheim-for-families" data-essb-pin-description="Best Breweries in Anaheim to Enjoy with Friends and Family - HotMamaTravel"><a href="/images/2023/11/best-breweries-in-anaheim-for-families.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/11/best-breweries-in-anaheim-for-families-200x300.jpg" alt="" class="wp-image-19412" title="Best Breweries in Anaheim to Enjoy with Friends and Family - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

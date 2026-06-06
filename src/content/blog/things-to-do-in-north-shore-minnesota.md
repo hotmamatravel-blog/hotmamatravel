@@ -442,6 +442,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":16776,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="Things-to-do-in-North-Shore-Minnesota-With-Kids"><a href="/wp-content/uploads/2023/01/Things-to-do-in-North-Shore-Minnesota-With-Kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/01/Things-to-do-in-North-Shore-Minnesota-With-Kids-200x300.jpg" alt="" class="wp-image-16776" title="Awesome Things to do in North Shore, Minnesota with Kids - HotMamaTravel"/></a></figure>
+<figure id="Things-to-do-in-North-Shore-Minnesota-With-Kids"><a href="/images/2023/01/Things-to-do-in-North-Shore-Minnesota-With-Kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/01/Things-to-do-in-North-Shore-Minnesota-With-Kids-200x300.jpg" alt="" class="wp-image-16776" title="Awesome Things to do in North Shore, Minnesota with Kids - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

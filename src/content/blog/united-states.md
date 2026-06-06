@@ -17,7 +17,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong><a href="/who-is-hot-mama/" target="_blank" rel="noreferrer noopener">We are from</a> </strong>Southern California and therefore provide a ton of resources and advice for visiting Orange County, Los Angeles and San Diego with kids.</p>
+<p><strong><a href="/about/" target="_blank" rel="noreferrer noopener">We are from</a> </strong>Southern California and therefore provide a ton of resources and advice for visiting Orange County, Los Angeles and San Diego with kids.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

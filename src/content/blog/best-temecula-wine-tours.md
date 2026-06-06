@@ -228,7 +228,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":14500,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="5-unique-temecula-wine-tours-lunch-included"><a href="/wp-content/uploads/2021/05/5-unique-temecula-wine-tours-lunch-included.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/05/5-unique-temecula-wine-tours-lunch-included-200x300.jpg" alt="" class="wp-image-14500" title="Whether you want to cruise in a historic cable, take a back road adventure by jeep or party in limo bus, you don't have to worry about a thing when you book one of these unique Temecula Wine Tours - HotMamaTravel"/></a></figure>
+<figure id="5-unique-temecula-wine-tours-lunch-included"><a href="/images/2021/05/5-unique-temecula-wine-tours-lunch-included.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/05/5-unique-temecula-wine-tours-lunch-included-200x300.jpg" alt="" class="wp-image-14500" title="Whether you want to cruise in a historic cable, take a back road adventure by jeep or party in limo bus, you don't have to worry about a thing when you book one of these unique Temecula Wine Tours - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->
 

@@ -348,6 +348,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":21207,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="getting-around-las-vegas-without-a-car-for-families"><a href="/wp-content/uploads/2024/06/getting-around-las-vegas-without-a-car-for-families.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/06/getting-around-las-vegas-without-a-car-for-families-200x300.jpg" alt="Tips For Getting Around Las Vegas Without A Car for Families" class="wp-image-21207" title="Tips for getting around Las Vegas without a car for families - HotMamaTravel"/></a></figure>
+<figure id="getting-around-las-vegas-without-a-car-for-families"><a href="/images/2024/06/getting-around-las-vegas-without-a-car-for-families.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/06/getting-around-las-vegas-without-a-car-for-families-200x300.jpg" alt="Tips For Getting Around Las Vegas Without A Car for Families" class="wp-image-21207" title="Tips for getting around Las Vegas without a car for families - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

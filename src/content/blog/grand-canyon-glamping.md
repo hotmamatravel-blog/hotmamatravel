@@ -298,6 +298,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":14717,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="5-best-glamping-sites-grand-canyon"><a href="/wp-content/uploads/2021/07/5-best-glamping-sites-grand-canyon.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/07/5-best-glamping-sites-grand-canyon-200x300.jpg" alt="" class="wp-image-14717" title="5 Awesome Grand Canyon Glamping Sites That Will Make You Feel Like A Real Cowboy! - HotMamaTravel"/></a></figure>
+<figure id="5-best-glamping-sites-grand-canyon"><a href="/images/2021/07/5-best-glamping-sites-grand-canyon.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/07/5-best-glamping-sites-grand-canyon-200x300.jpg" alt="" class="wp-image-14717" title="5 Awesome Grand Canyon Glamping Sites That Will Make You Feel Like A Real Cowboy! - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

@@ -139,6 +139,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":17520,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="Electric-hybrid-car-family-road-trip-ready"><a href="/wp-content/uploads/2023/04/Electric-hybrid-car-family-road-trip-ready.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/Electric-hybrid-car-family-road-trip-ready-200x300.jpg" alt="" class="wp-image-17520" title="Ensure you electric or hybrid car is ready for a long distance family road trip - HotMamaTravel"/></a></figure>
+<figure id="Electric-hybrid-car-family-road-trip-ready"><a href="/images/2023/04/Electric-hybrid-car-family-road-trip-ready.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/Electric-hybrid-car-family-road-trip-ready-200x300.jpg" alt="" class="wp-image-17520" title="Ensure you electric or hybrid car is ready for a long distance family road trip - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

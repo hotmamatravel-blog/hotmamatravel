@@ -296,7 +296,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":15811,"sizeSlug":"medium","linkDestination":"media"} -->
-<div id="Top-10-activities-for-kids-st-george-utah" class="wp-block-image"><figure class="alignleft size-medium"><a href="/wp-content/uploads/2022/04/Top-10-activities-for-kids-st-george-utah.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/04/Top-10-activities-for-kids-st-george-utah-200x300.jpg" alt="" class="wp-image-15811" title="Top 10 things to do in St. George, Utah with kids -HotMamaTravel"/></a></figure></div>
+<div id="Top-10-activities-for-kids-st-george-utah" class="wp-block-image"><figure class="alignleft size-medium"><a href="/images/2022/04/Top-10-activities-for-kids-st-george-utah.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/04/Top-10-activities-for-kids-st-george-utah-200x300.jpg" alt="" class="wp-image-15811" title="Top 10 things to do in St. George, Utah with kids -HotMamaTravel"/></a></figure></div>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->
 

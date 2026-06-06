@@ -119,6 +119,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19165,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="tips-for-planning-a-luxury-road-trip"><a href="/wp-content/uploads/2023/10/tips-for-planning-a-luxury-road-trip.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/10/tips-for-planning-a-luxury-road-trip-200x300.jpg" alt="" class="wp-image-19165" title="How to plan a perfect luxury road trip - HotMamaTravel"/></a></figure>
+<figure id="tips-for-planning-a-luxury-road-trip"><a href="/images/2023/10/tips-for-planning-a-luxury-road-trip.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/10/tips-for-planning-a-luxury-road-trip-200x300.jpg" alt="" class="wp-image-19165" title="How to plan a perfect luxury road trip - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

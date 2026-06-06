@@ -291,6 +291,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":16317,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="benefits-summer-camp-children"><a href="/wp-content/uploads/2022/09/13-Benefits-of-Summer-Camp-for-Kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/13-Benefits-of-Summer-Camp-for-Kids-200x300.jpg" alt="" class="wp-image-16317" title="13 Benefits of Summer Camp for Busy Moms and Children - HotMamaTravel"/></a></figure>
+<figure id="benefits-summer-camp-children"><a href="/images/2022/09/13-Benefits-of-Summer-Camp-for-Kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/13-Benefits-of-Summer-Camp-for-Kids-200x300.jpg" alt="" class="wp-image-16317" title="13 Benefits of Summer Camp for Busy Moms and Children - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

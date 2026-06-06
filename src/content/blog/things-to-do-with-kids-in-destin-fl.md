@@ -32,7 +32,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"3ff98ffb","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3ff98ffb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17610,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="destin-harbor-boardwalk-marina-destin-activities-for-families-"><a href="/wp-content/uploads/2023/04/destin-harbor-boardwalk-marina-destin-activities-for-families-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/destin-harbor-boardwalk-marina-destin-activities-for-families--1024x576.jpg" alt="" class="wp-image-17610" title="Things to do in Destin FL with kids at the Destin Harbor Boardwalk &amp; Marina"/></a></figure>
+<figure id="destin-harbor-boardwalk-marina-destin-activities-for-families-"><a href="/images/2023/04/destin-harbor-boardwalk-marina-destin-activities-for-families-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/destin-harbor-boardwalk-marina-destin-activities-for-families--1024x576.jpg" alt="" class="wp-image-17610" title="Things to do in Destin FL with kids at the Destin Harbor Boardwalk &amp; Marina"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -70,7 +70,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"34022879","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-34022879"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17615,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="henderson-state-park-destin-activities-for-families-"><a href="/wp-content/uploads/2023/04/henderson-state-park-destin-activities-for-families-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/henderson-state-park-destin-activities-for-families--1024x576.jpg" alt="" class="wp-image-17615" title="family beach Henderson state park in Destin FL"/></a></figure>
+<figure id="henderson-state-park-destin-activities-for-families-"><a href="/images/2023/04/henderson-state-park-destin-activities-for-families-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/henderson-state-park-destin-activities-for-families--1024x576.jpg" alt="" class="wp-image-17615" title="family beach Henderson state park in Destin FL"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -112,7 +112,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"b95bcebb","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b95bcebb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17612,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="jolee-island-nature-park-destin-activities-for-families-"><a href="/wp-content/uploads/2023/04/jolee-island-nature-park-destin-activities-for-families-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/jolee-island-nature-park-destin-activities-for-families--1024x576.jpg" alt="" class="wp-image-17612" title="Jolee Island Nature Park Destin activities for families"/></a></figure>
+<figure id="jolee-island-nature-park-destin-activities-for-families-"><a href="/images/2023/04/jolee-island-nature-park-destin-activities-for-families-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/jolee-island-nature-park-destin-activities-for-families--1024x576.jpg" alt="" class="wp-image-17612" title="Jolee Island Nature Park Destin activities for families"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -154,7 +154,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"d914295d","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d914295d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17618,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="village-baytowne-wharf-destin-activities-for-families-"><a href="/wp-content/uploads/2023/04/village-baytowne-wharf-destin-activities-for-families-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/village-baytowne-wharf-destin-activities-for-families--1024x576.jpg" alt="" class="wp-image-17618" title="Fun things to do with kids Destin FL at Baytowne Wharf"/></a></figure>
+<figure id="village-baytowne-wharf-destin-activities-for-families-"><a href="/images/2023/04/village-baytowne-wharf-destin-activities-for-families-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/village-baytowne-wharf-destin-activities-for-families--1024x576.jpg" alt="" class="wp-image-17618" title="Fun things to do with kids Destin FL at Baytowne Wharf"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -192,7 +192,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"d4ef7fd9","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d4ef7fd9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17621,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="sandcastle-lessons-destin-activities-for-families-"><a href="/wp-content/uploads/2023/04/sandcastle-lessons-destin-activities-for-families-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/sandcastle-lessons-destin-activities-for-families--1024x576.jpg" alt="" class="wp-image-17621" title="things to do in destin with kids SandCastle Lessons"/></a></figure>
+<figure id="sandcastle-lessons-destin-activities-for-families-"><a href="/images/2023/04/sandcastle-lessons-destin-activities-for-families-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/sandcastle-lessons-destin-activities-for-families--1024x576.jpg" alt="" class="wp-image-17621" title="things to do in destin with kids SandCastle Lessons"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -226,7 +226,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"f3c3da3c","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f3c3da3c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17627,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="crab-island-pontoon-destin-activities-for-families-"><a href="/wp-content/uploads/2023/04/crab-island-pontoon-destin-activities-for-families-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/crab-island-pontoon-destin-activities-for-families--1024x576.jpg" alt="" class="wp-image-17627" title="charter a private pontoon to Crab Island in Destin FL with kids"/></a></figure>
+<figure id="crab-island-pontoon-destin-activities-for-families-"><a href="/images/2023/04/crab-island-pontoon-destin-activities-for-families-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/crab-island-pontoon-destin-activities-for-families--1024x576.jpg" alt="" class="wp-image-17627" title="charter a private pontoon to Crab Island in Destin FL with kids"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -260,7 +260,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"fba7303e","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-fba7303e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17628,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="dolphin-watching-destin-activities-for-families-"><a href="/wp-content/uploads/2023/04/dolphin-watching-destin-activities-for-families-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/dolphin-watching-destin-activities-for-families--1024x576.jpg" alt="" class="wp-image-17628" title="dolphin watching, fun destin fl attractions with kids "/></a></figure>
+<figure id="dolphin-watching-destin-activities-for-families-"><a href="/images/2023/04/dolphin-watching-destin-activities-for-families-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/dolphin-watching-destin-activities-for-families--1024x576.jpg" alt="" class="wp-image-17628" title="dolphin watching, fun destin fl attractions with kids "/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -294,7 +294,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"fe2c8c8f","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-fe2c8c8f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17626,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="destin-commons-destin-activities-for-families-"><a href="/wp-content/uploads/2023/04/destin-commons-destin-activities-for-families-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/destin-commons-destin-activities-for-families--1024x576.jpg" alt="" class="wp-image-17626" title="family-friendly shopping Destin Fl at Destin Commons"/></a></figure>
+<figure id="destin-commons-destin-activities-for-families-"><a href="/images/2023/04/destin-commons-destin-activities-for-families-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/destin-commons-destin-activities-for-families--1024x576.jpg" alt="" class="wp-image-17626" title="family-friendly shopping Destin Fl at Destin Commons"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -332,7 +332,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"f5dc5014","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f5dc5014"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17630,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="destin-history-fishing-museum-destin-activities-for-families-"><a href="/wp-content/uploads/2023/04/destin-history-fishing-museum-destin-activities-for-families-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/destin-history-fishing-museum-destin-activities-for-families--1024x576.jpg" alt="" class="wp-image-17630" title="things to do in Destin FL with kids is visit the Destin History &amp; Fishing Museum"/></a></figure>
+<figure id="destin-history-fishing-museum-destin-activities-for-families-"><a href="/images/2023/04/destin-history-fishing-museum-destin-activities-for-families-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/destin-history-fishing-museum-destin-activities-for-families--1024x576.jpg" alt="" class="wp-image-17630" title="things to do in Destin FL with kids is visit the Destin History &amp; Fishing Museum"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -394,6 +394,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":17633,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="things-to-do-with-kids-destin-fl"><a href="/wp-content/uploads/2023/04/things-to-do-with-kids-destin-fl.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/things-to-do-with-kids-destin-fl-200x300.jpg" alt="" class="wp-image-17633" title="Family Travel Guide Things to do with kids in Destin FL - HotMamaTravel"/></a></figure>
+<figure id="things-to-do-with-kids-destin-fl"><a href="/images/2023/04/things-to-do-with-kids-destin-fl.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/things-to-do-with-kids-destin-fl-200x300.jpg" alt="" class="wp-image-17633" title="Family Travel Guide Things to do with kids in Destin FL - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

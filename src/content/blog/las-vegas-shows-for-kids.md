@@ -595,7 +595,7 @@ author: "Amanda Keeley-Thurman"
 <!-- wp:image {"id":18138,"sizeSlug":"medium","linkDestination":"media","align":"left","pindesc":"The best family-friendly shows in Las Vegas—honest reviews, must-see picks, and tips to keep kids entertained the whole trip 🎭✨ From Cirque du Soleil to dinner shows and magic, don’t miss these unforgettable experiences!\n\n#LasVegasWithKids #FamilyTravel #VegasShows #FamilyVacation #TravelWithKids #CirqueDuSoleil #VegasTips #FamilyFun #TravelIdeas #KidFriendlyTravel"} -->
 <figure id="best-las-vegas-shows-for-kids" data-essb-pin-description="The best family-friendly shows in Las Vegas—honest reviews, must-see picks, and tips to keep kids entertained the whole trip 🎭✨ From Cirque du Soleil to dinner shows and magic, don’t miss these unforgettable experiences!
 
-#LasVegasWithKids #FamilyTravel #VegasShows #FamilyVacation #TravelWithKids #CirqueDuSoleil #VegasTips #FamilyFun #TravelIdeas #KidFriendlyTravel"><a href="/wp-content/uploads/2023/06/best-shows-for-kids-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/06/best-shows-for-kids-las-vegas-200x300.jpg" alt="Best Vegas show for kids" class="wp-image-18138" title="Best shows in Las Vegas for Kids and Teens"/></a></figure>
+#LasVegasWithKids #FamilyTravel #VegasShows #FamilyVacation #TravelWithKids #CirqueDuSoleil #VegasTips #FamilyFun #TravelIdeas #KidFriendlyTravel"><a href="/images/2023/06/best-shows-for-kids-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/06/best-shows-for-kids-las-vegas-200x300.jpg" alt="Best Vegas show for kids" class="wp-image-18138" title="Best shows in Las Vegas for Kids and Teens"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

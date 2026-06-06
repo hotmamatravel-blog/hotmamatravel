@@ -518,7 +518,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":18814,"sizeSlug":"medium","linkDestination":"media","className":"essb-block-image","pindesc":"Most haunted hotels in New York that are also family-friendly! "} -->
-<figure id="haunted-hotels-new-york" data-essb-pin-description="Most haunted hotels in New York that are also family-friendly! "><a href="/wp-content/uploads/2023/09/haunted-hotels-new-york.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/09/haunted-hotels-new-york-200x300.jpg" alt="Most Haunted family-friendly hotels in New York
+<figure id="haunted-hotels-new-york" data-essb-pin-description="Most haunted hotels in New York that are also family-friendly! "><a href="/images/2023/09/haunted-hotels-new-york.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/09/haunted-hotels-new-york-200x300.jpg" alt="Most Haunted family-friendly hotels in New York
 " class="wp-image-18814" title="haunted hotels new york"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

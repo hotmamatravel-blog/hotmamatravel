@@ -88,6 +88,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":21276,"sizeSlug":"medium","linkDestination":"media","className":"essb-block-image","pindesc":"Educational weekend getaway in Washington DC with Kids - HotMamaTravel"} -->
-<figure id="educational-weekend-washington-dc-kids" data-essb-pin-description="Educational weekend getaway in Washington DC with Kids - HotMamaTravel"><a href="/wp-content/uploads/2024/07/educational-weekend-washington-dc-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/07/educational-weekend-washington-dc-with-kids-200x300.jpg" alt="Educational weekend getaway with kids in Washington DC" class="wp-image-21276" title="Educational weekend getaway with kids in Washington DC"/></a></figure>
+<figure id="educational-weekend-washington-dc-kids" data-essb-pin-description="Educational weekend getaway in Washington DC with Kids - HotMamaTravel"><a href="/images/2024/07/educational-weekend-washington-dc-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/07/educational-weekend-washington-dc-with-kids-200x300.jpg" alt="Educational weekend getaway with kids in Washington DC" class="wp-image-21276" title="Educational weekend getaway with kids in Washington DC"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

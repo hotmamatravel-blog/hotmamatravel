@@ -916,7 +916,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":16273,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="malta-travel-specialist"><a href="/wp-content/uploads/2022/07/Malta-Specialist-cert.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/07/Malta-Specialist-cert-300x224.jpg" alt="" class="wp-image-16273" title="Malta Travel Specialist"/></a></figure>
+<figure id="malta-travel-specialist"><a href="/images/2022/07/Malta-Specialist-cert.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/07/Malta-Specialist-cert-300x224.jpg" alt="" class="wp-image-16273" title="Malta Travel Specialist"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
@@ -933,6 +933,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":16268,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="things-to-do-in-Malta-with-kids"><a href="/wp-content/uploads/2022/07/things-to-do-in-Malta-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/07/things-to-do-in-Malta-with-kids-200x300.jpg" alt="" class="wp-image-16268" title="7 interesting activities to consider for your next family vacation - HotMamaTravel"/></a></figure>
+<figure id="things-to-do-in-Malta-with-kids"><a href="/images/2022/07/things-to-do-in-Malta-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/07/things-to-do-in-Malta-with-kids-200x300.jpg" alt="" class="wp-image-16268" title="7 interesting activities to consider for your next family vacation - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

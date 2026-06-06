@@ -314,6 +314,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19294,"sizeSlug":"medium","linkDestination":"media","className":"essb-block-image","pindesc":"Discover the best Christmas hotels in NYC for families — from festive lobbies to holiday magic around every corner. 🏙️🎅 Your perfect New York winter getaway starts here! ❄️ #FamilyTravel #NYCChristmas #HotMamaTravel"} -->
-<figure data-essb-pin-description="Discover the best Christmas hotels in NYC for families — from festive lobbies to holiday magic around every corner. 🏙️🎅 Your perfect New York winter getaway starts here! ❄️ #FamilyTravel #NYCChristmas #HotMamaTravel"><a href="/wp-content/uploads/2023/10/best-christmas-hotels-nyc-for-families.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/10/best-christmas-hotels-nyc-for-families-200x300.jpg" alt="Best Christmas Hotels in NYC" class="wp-image-19294"/></a></figure>
+<figure data-essb-pin-description="Discover the best Christmas hotels in NYC for families — from festive lobbies to holiday magic around every corner. 🏙️🎅 Your perfect New York winter getaway starts here! ❄️ #FamilyTravel #NYCChristmas #HotMamaTravel"><a href="/images/2023/10/best-christmas-hotels-nyc-for-families.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/10/best-christmas-hotels-nyc-for-families-200x300.jpg" alt="Best Christmas Hotels in NYC" class="wp-image-19294"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

@@ -318,6 +318,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":18024,"sizeSlug":"medium","linkDestination":"media","align":"left"} -->
-<figure id="las-vegas-hotels-without-resort-fees-near-or-on-the-strip"><a href="/wp-content/uploads/2023/05/las-vegas-hotels-without-resort-fees-near-or-on-the-strip.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/05/las-vegas-hotels-without-resort-fees-near-or-on-the-strip-200x300.jpg" alt="" class="wp-image-18024" title="Cool Las Vegas Hotels without Resort Fees - HotMamaTravel"/></a></figure>
+<figure id="las-vegas-hotels-without-resort-fees-near-or-on-the-strip"><a href="/images/2023/05/las-vegas-hotels-without-resort-fees-near-or-on-the-strip.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/05/las-vegas-hotels-without-resort-fees-near-or-on-the-strip-200x300.jpg" alt="" class="wp-image-18024" title="Cool Las Vegas Hotels without Resort Fees - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

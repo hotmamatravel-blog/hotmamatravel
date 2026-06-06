@@ -392,6 +392,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":20548,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-shows-in-las-vegas-for-teens"><a href="/wp-content/uploads/2024/03/best-shows-in-las-vegas-for-teens.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/03/best-shows-in-las-vegas-for-teens-200x300.jpg" alt="" class="wp-image-20548" title="Best Las Vegas Shows for Teens - HotMamaTravel"/></a></figure>
+<figure id="best-shows-in-las-vegas-for-teens"><a href="/images/2024/03/best-shows-in-las-vegas-for-teens.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/03/best-shows-in-las-vegas-for-teens-200x300.jpg" alt="" class="wp-image-20548" title="Best Las Vegas Shows for Teens - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

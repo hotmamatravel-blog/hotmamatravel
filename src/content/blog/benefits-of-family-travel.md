@@ -135,6 +135,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":22664,"sizeSlug":"medium","linkDestination":"media","pindesc":"Why just take a vacation when you can shape your kids’ future? 🌟✈️ Family travel boosts learning, creativity, confidence, and unforgettable memories. #FamilyTravel #TravelWithKids #HotMamaTravel #KidsWhoTravel #EducationalTravel #FamilyAdventure"} -->
-<figure data-essb-pin-description="Why just take a vacation when you can shape your kids’ future? 🌟✈️ Family travel boosts learning, creativity, confidence, and unforgettable memories. #FamilyTravel #TravelWithKids #HotMamaTravel #KidsWhoTravel #EducationalTravel #FamilyAdventure"><a href="/wp-content/uploads/2018/02/benefits-of-family-travel-blog.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2018/02/benefits-of-family-travel-blog-200x300.jpg" alt="benefits of family travel " class="wp-image-22664"/></a></figure>
+<figure data-essb-pin-description="Why just take a vacation when you can shape your kids’ future? 🌟✈️ Family travel boosts learning, creativity, confidence, and unforgettable memories. #FamilyTravel #TravelWithKids #HotMamaTravel #KidsWhoTravel #EducationalTravel #FamilyAdventure"><a href="/images/2018/02/benefits-of-family-travel-blog.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2018/02/benefits-of-family-travel-blog-200x300.jpg" alt="benefits of family travel " class="wp-image-22664"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

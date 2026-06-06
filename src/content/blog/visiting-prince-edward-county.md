@@ -90,6 +90,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19147,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="4-things-to-know-before-visting-prince-edward-county"><a href="/wp-content/uploads/2023/10/4-things-to-know-before-visting-prince-edward-county.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/10/4-things-to-know-before-visting-prince-edward-county-200x300.jpg" alt="" class="wp-image-19147" title="4 Things to Know Before Visiting Prince Edward County"/></a></figure>
+<figure id="4-things-to-know-before-visting-prince-edward-county"><a href="/images/2023/10/4-things-to-know-before-visting-prince-edward-county.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/10/4-things-to-know-before-visting-prince-edward-county-200x300.jpg" alt="" class="wp-image-19147" title="4 Things to Know Before Visiting Prince Edward County"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

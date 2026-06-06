@@ -1853,6 +1853,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19214,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-small-group-tours-in-ireland-for-families"><a href="/wp-content/uploads/2023/10/best-small-group-tours-in-ireland-for-families.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/10/best-small-group-tours-in-ireland-for-families-200x300.jpg" alt="" class="wp-image-19214" title="Best Small Group Tours in Ireland for Families - HotMamaTravel"/></a></figure>
+<figure id="best-small-group-tours-in-ireland-for-families"><a href="/images/2023/10/best-small-group-tours-in-ireland-for-families.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/10/best-small-group-tours-in-ireland-for-families-200x300.jpg" alt="" class="wp-image-19214" title="Best Small Group Tours in Ireland for Families - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

@@ -3,5 +3,6 @@ Allow: /
 
 Disallow: /admin/
 Disallow: /api/
+Disallow: /go/
 
 Sitemap: https://hotmamatravel.com/sitemap-index.xml

@@ -248,6 +248,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":20990,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-las-vegas-family-suites"><a href="/wp-content/uploads/2024/05/best-las-vegas-family-suites-1.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/05/best-las-vegas-family-suites-1-200x300.jpg" alt="Best Las Vegas Family Suites for Big Families " class="wp-image-20990" title="Best Las Vegas Family Suites for Big Families -HotMamaTravel"/></a></figure>
+<figure id="best-las-vegas-family-suites"><a href="/images/2024/05/best-las-vegas-family-suites-1.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/05/best-las-vegas-family-suites-1-200x300.jpg" alt="Best Las Vegas Family Suites for Big Families " class="wp-image-20990" title="Best Las Vegas Family Suites for Big Families -HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

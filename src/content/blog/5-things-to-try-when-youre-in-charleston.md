@@ -137,6 +137,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19056,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="5-Things-To-Try-When-You're-In-Charleston"><a href="/wp-content/uploads/2023/09/5-Things-To-Try-When-Youre-In-Charleston.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/09/5-Things-To-Try-When-Youre-In-Charleston-200x300.jpg" alt="" class="wp-image-19056" title="5 Things to tray when you're in Charleston"/></a></figure>
+<figure id="5-Things-To-Try-When-You're-In-Charleston"><a href="/images/2023/09/5-Things-To-Try-When-Youre-In-Charleston.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/09/5-Things-To-Try-When-Youre-In-Charleston-200x300.jpg" alt="" class="wp-image-19056" title="5 Things to tray when you're in Charleston"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

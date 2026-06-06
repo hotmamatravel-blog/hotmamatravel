@@ -117,7 +117,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":21476,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="tips-solo-travel"><a href="/wp-content/uploads/2024/08/8-tips-solo-travel.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/08/8-tips-solo-travel-200x300.jpg" alt="Tips for Traveling Solo" class="wp-image-21476" title="8 Tips for Traveling Solo"/></a></figure>
+<figure id="tips-solo-travel"><a href="/images/2024/08/8-tips-solo-travel.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/08/8-tips-solo-travel-200x300.jpg" alt="Tips for Traveling Solo" class="wp-image-21476" title="8 Tips for Traveling Solo"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->
 

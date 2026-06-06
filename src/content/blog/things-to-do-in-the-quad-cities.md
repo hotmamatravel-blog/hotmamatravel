@@ -422,6 +422,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":16828,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="Things-to-do-in-the-quad-cities"><a href="/wp-content/uploads/2023/01/Things-to-do-in-the-quad-cities.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/01/Things-to-do-in-the-quad-cities-200x300.jpg" alt="" class="wp-image-16828" title="Fun Things to do in the Quad Cities  - HotMamaTravel"/></a></figure>
+<figure id="Things-to-do-in-the-quad-cities"><a href="/images/2023/01/Things-to-do-in-the-quad-cities.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/01/Things-to-do-in-the-quad-cities-200x300.jpg" alt="" class="wp-image-16828" title="Fun Things to do in the Quad Cities  - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

@@ -236,6 +236,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":15717,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="5-best-kid-friendly-wineries-napa-california"><a href="/wp-content/uploads/2022/04/5-best-kid-friendly-wineries-napa-california.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/04/5-best-kid-friendly-wineries-napa-california-200x300.jpg" alt="" class="wp-image-15717" title="5 of the best kid-friendly winery in Napa, California "/></a></figure>
+<figure id="5-best-kid-friendly-wineries-napa-california"><a href="/images/2022/04/5-best-kid-friendly-wineries-napa-california.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/04/5-best-kid-friendly-wineries-napa-california-200x300.jpg" alt="" class="wp-image-15717" title="5 of the best kid-friendly winery in Napa, California "/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

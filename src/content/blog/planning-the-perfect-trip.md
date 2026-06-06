@@ -87,6 +87,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":21270,"sizeSlug":"medium","linkDestination":"media","className":"essb-block-image","pindesc":"Planning the perfect trip from start to finish - HotMamaTravel"} -->
-<figure id="planning-the-perfect-trip" data-essb-pin-description="Planning the perfect trip from start to finish - HotMamaTravel"><a href="/wp-content/uploads/2024/07/tips-for-planning-the-perfect-trip.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/07/tips-for-planning-the-perfect-trip-200x300.jpg" alt="planning the perfect trip" class="wp-image-21270" title="Planning the perfect trip from start to finish - HotMamaTravel"/></a></figure>
+<figure id="planning-the-perfect-trip" data-essb-pin-description="Planning the perfect trip from start to finish - HotMamaTravel"><a href="/images/2024/07/tips-for-planning-the-perfect-trip.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/07/tips-for-planning-the-perfect-trip-200x300.jpg" alt="planning the perfect trip" class="wp-image-21270" title="Planning the perfect trip from start to finish - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

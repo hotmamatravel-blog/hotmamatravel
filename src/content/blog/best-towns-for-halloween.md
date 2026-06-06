@@ -774,6 +774,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":18999,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="halloween-towns-us"><a href="/wp-content/uploads/2023/09/best-halloween-towns-worth-visiting-with-your-family.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/09/best-halloween-towns-worth-visiting-with-your-family-200x300.jpg" alt="Best Halloween Towns in the US" class="wp-image-18999" title="Best Halloween Towns in the US"/></a></figure>
+<figure id="halloween-towns-us"><a href="/images/2023/09/best-halloween-towns-worth-visiting-with-your-family.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/09/best-halloween-towns-worth-visiting-with-your-family-200x300.jpg" alt="Best Halloween Towns in the US" class="wp-image-18999" title="Best Halloween Towns in the US"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

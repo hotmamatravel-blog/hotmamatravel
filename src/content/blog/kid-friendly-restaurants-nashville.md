@@ -294,6 +294,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":7626,"sizeSlug":"medium","linkDestination":"media","align":"left"} -->
-<figure id="Kid-Friendly-Nashville-Restaurants-with-live-Music"><a href="/wp-content/uploads/2018/01/Nashville-Restaurants.png"><img src="https://hotmamatravel.com/wp-content/uploads/2018/01/Nashville-Restaurants-200x300.png" alt="" class="wp-image-7626" title="Kid-friendly Nashville Restaurants with Live Music - HotMamaTravel"/></a></figure>
+<figure id="Kid-Friendly-Nashville-Restaurants-with-live-Music"><a href="/images/2018/01/Nashville-Restaurants.png"><img src="https://hotmamatravel.com/wp-content/uploads/2018/01/Nashville-Restaurants-200x300.png" alt="" class="wp-image-7626" title="Kid-friendly Nashville Restaurants with Live Music - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

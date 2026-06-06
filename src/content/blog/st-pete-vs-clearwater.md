@@ -163,6 +163,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":21758,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="st-pete-vs-clearwater"><a href="/wp-content/uploads/2025/02/ST.-PETE-VS-CLEARWATER-1.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2025/02/ST.-PETE-VS-CLEARWATER-1-200x300.jpg" alt="St. Pete vs. Clearwater which beach is best for families?" class="wp-image-21758" title="St. Pete vs. Clearwater "/></a></figure>
+<figure id="st-pete-vs-clearwater"><a href="/images/2025/02/ST.-PETE-VS-CLEARWATER-1.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2025/02/ST.-PETE-VS-CLEARWATER-1-200x300.jpg" alt="St. Pete vs. Clearwater which beach is best for families?" class="wp-image-21758" title="St. Pete vs. Clearwater "/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

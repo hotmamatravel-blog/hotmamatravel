@@ -370,7 +370,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":18502,"sizeSlug":"medium","linkDestination":"media","align":"left","className":"essb-block-image","pindesc":"Best Family Pools in Las Vegas"} -->
-<figure id="best-family-pools-las-vegas" data-essb-pin-description="Best Family Pools in Las Vegas"><a href="/wp-content/uploads/2023/07/best-family-pools-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/07/best-family-pools-las-vegas-200x300.jpg" alt="Best Family Pools in Las Vegas" class="wp-image-18502" title="Best Family Pools in Las Vegas - HotMamaTravel"/></a></figure>
+<figure id="best-family-pools-las-vegas" data-essb-pin-description="Best Family Pools in Las Vegas"><a href="/images/2023/07/best-family-pools-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/07/best-family-pools-las-vegas-200x300.jpg" alt="Best Family Pools in Las Vegas" class="wp-image-18502" title="Best Family Pools in Las Vegas - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->
 

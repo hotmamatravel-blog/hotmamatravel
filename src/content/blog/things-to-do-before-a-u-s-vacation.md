@@ -101,6 +101,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":18585,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="tips-for-planning-a-US-vacation"><a href="/wp-content/uploads/2023/08/tips-for-planning-a-US-vacation.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/08/tips-for-planning-a-US-vacation-200x300.jpg" alt="" class="wp-image-18585" title="3 Tip to help you plan your U.S vacation - HotMamaTravel"/></a></figure>
+<figure id="tips-for-planning-a-US-vacation"><a href="/images/2023/08/tips-for-planning-a-US-vacation.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/08/tips-for-planning-a-US-vacation-200x300.jpg" alt="" class="wp-image-18585" title="3 Tip to help you plan your U.S vacation - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

@@ -392,6 +392,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19578,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-breweries-on-seneca-lake-families-live-music-pets"><a href="/wp-content/uploads/2023/11/best-breweries-on-seneca-lake-families-live-music-pets.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/11/best-breweries-on-seneca-lake-families-live-music-pets-200x300.jpg" alt="" class="wp-image-19578" title="Best Breweries on Seneca Lake for families, fur babies and live music - HotMamaTravel"/></a></figure>
+<figure id="best-breweries-on-seneca-lake-families-live-music-pets"><a href="/images/2023/11/best-breweries-on-seneca-lake-families-live-music-pets.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/11/best-breweries-on-seneca-lake-families-live-music-pets-200x300.jpg" alt="" class="wp-image-19578" title="Best Breweries on Seneca Lake for families, fur babies and live music - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

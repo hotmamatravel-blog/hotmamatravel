@@ -322,6 +322,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":16949,"sizeSlug":"medium","linkDestination":"media","align":"left"} -->
-<figure id="best-las-vegas-dinner-and-show-packages"><a href="/wp-content/uploads/2023/02/best-las-vegas-dinner-and-show-packages.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/02/best-las-vegas-dinner-and-show-packages-200x300.jpg" alt="Best Dinner and Show Packages in Las Vegas" class="wp-image-16949" title="Amazing Las Vegas Dinner and Show Packages for Families- HotMamaTravel"/></a></figure>
+<figure id="best-las-vegas-dinner-and-show-packages"><a href="/images/2023/02/best-las-vegas-dinner-and-show-packages.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/02/best-las-vegas-dinner-and-show-packages-200x300.jpg" alt="Best Dinner and Show Packages in Las Vegas" class="wp-image-16949" title="Amazing Las Vegas Dinner and Show Packages for Families- HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

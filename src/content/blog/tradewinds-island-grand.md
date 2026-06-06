@@ -493,6 +493,6 @@ author: "Amanda Keeley-Thurman"
 
 ✨ Click for my full guide to St. Pete Beach family fun &amp; top resorts!
 
-#FamilyTravel #StPeteBeach #FloridaVacation #BeachResorts #FamilyFun #TravelWithKids #HotMamaTravel #FloridaFamilyTrip #ResortLife #BeachVacation"><a href="/wp-content/uploads/2017/02/Tradewinds-Island-Grand-Family-Review.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2017/02/Tradewinds-Island-Grand-Family-Review-200x300.jpg" alt="Tradewinds Island Grand Family Review" class="wp-image-23087"/></a></figure>
+#FamilyTravel #StPeteBeach #FloridaVacation #BeachResorts #FamilyFun #TravelWithKids #HotMamaTravel #FloridaFamilyTrip #ResortLife #BeachVacation"><a href="/images/2017/02/Tradewinds-Island-Grand-Family-Review.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2017/02/Tradewinds-Island-Grand-Family-Review-200x300.jpg" alt="Tradewinds Island Grand Family Review" class="wp-image-23087"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

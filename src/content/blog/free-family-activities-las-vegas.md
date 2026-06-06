@@ -548,6 +548,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":20725,"sizeSlug":"medium","linkDestination":"media","align":"left"} -->
-<figure id="best-free-family-activities-las-vegas"><a href="/wp-content/uploads/2024/04/best-free-family-activities-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/04/best-free-family-activities-las-vegas-200x300.jpg" alt="" class="wp-image-20725" title="Free Family Activities Las Vegas - HotMamaTravel"/></a></figure>
+<figure id="best-free-family-activities-las-vegas"><a href="/images/2024/04/best-free-family-activities-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/04/best-free-family-activities-las-vegas-200x300.jpg" alt="" class="wp-image-20725" title="Free Family Activities Las Vegas - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

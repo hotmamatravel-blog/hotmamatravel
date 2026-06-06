@@ -1,0 +1,152 @@
+---
+// src/pages/404.astro — Custom Page Not Found (404)
+import BaseLayout from '@/layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Page Not Found (404)"
+  description="Oops! The page you are looking for does not exist. Let's get you back on track."
+>
+  <div class="error-page-container">
+    <div class="container--sm text-center">
+      <div class="error-badge">404</div>
+      <h1 class="error-title">Oops! Page not found</h1>
+      <p class="error-message">
+        It looks like the link you followed might be broken, or the page has been moved or renamed. 
+        Don't worry, family adventures are still waiting for you!
+      </p>
+      
+      <div class="error-actions">
+        <a href="/" class="btn btn-primary">Back to Homepage</a>
+        <a href="/blog/" class="btn btn-ghost">Browse Blog Posts</a>
+      </div>
+
+      <div class="error-shortcuts">
+        <h2>Popular Destinations & Content</h2>
+        <ul class="shortcuts-list">
+          <li>
+            <a href="/family-friendly-vegas/">
+              <span class="shortcut-icon">🎰</span> 
+              <strong>Las Vegas with Kids</strong>
+            </a>
+          </li>
+          <li>
+            <a href="/destinations/">
+              <span class="shortcut-icon">🗺️</span> 
+              <strong>Explore Destinations</strong>
+            </a>
+          </li>
+          <li>
+            <a href="/about/">
+              <span class="shortcut-icon">👩</span> 
+              <strong>About Amanda & Family</strong>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .error-page-container {
+    padding: clamp(60px, 10vw, 120px) 0 clamp(80px, 12vw, 140px);
+    background: linear-gradient(180deg, var(--hmt-bg-warm) 0%, #ffffff 100%);
+    border-bottom: 1px solid var(--hmt-border);
+  }
+
+  .text-center {
+    text-align: center;
+    max-width: 600px;
+    margin-inline: auto;
+    padding-inline: 16px;
+  }
+
+  .error-badge {
+    font-size: clamp(4rem, 12vw, 7rem);
+    font-weight: 900;
+    line-height: 1;
+    font-family: var(--font-sans);
+    color: rgba(232, 35, 42, 0.12);
+    margin-bottom: 16px;
+    letter-spacing: -0.05em;
+  }
+
+  .error-title {
+    font-family: var(--font-serif);
+    font-size: clamp(1.8rem, 5vw, 2.5rem);
+    font-weight: 800;
+    color: var(--hmt-dark);
+    margin-bottom: 16px;
+  }
+
+  .error-message {
+    font-size: 1.125rem;
+    color: var(--hmt-slate);
+    line-height: 1.6;
+    margin-bottom: 36px;
+  }
+
+  .error-actions {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 56px;
+  }
+
+  .error-shortcuts {
+    border-top: 1px dashed var(--hmt-border);
+    padding-top: 36px;
+  }
+
+  .error-shortcuts h2 {
+    font-family: var(--font-serif);
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--hmt-dark);
+    margin-bottom: 24px;
+  }
+
+  .shortcuts-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 16px;
+  }
+
+  .shortcuts-list li a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 16px;
+    background: white;
+    border: 1px solid var(--hmt-border);
+    border-radius: var(--radius-md);
+    text-decoration: none;
+    transition: all 200ms var(--ease);
+  }
+
+  .shortcuts-list li a:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-md);
+    border-color: var(--hmt-red);
+  }
+
+  .shortcut-icon {
+    font-size: 1.75rem;
+    margin-bottom: 8px;
+  }
+
+  .shortcuts-list li a strong {
+    font-size: 0.9rem;
+    color: var(--hmt-dark);
+    transition: color 200ms;
+  }
+
+  .shortcuts-list li a:hover strong {
+    color: var(--hmt-red);
+  }
+</style>

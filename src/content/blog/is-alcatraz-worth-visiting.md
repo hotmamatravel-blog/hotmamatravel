@@ -538,6 +538,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":18897,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure><a href="/wp-content/uploads/2023/09/is-visiting-alcatraz-worth-it-hauntings-escapes-tips.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/09/is-visiting-alcatraz-worth-it-hauntings-escapes-tips-200x300.jpg" alt="Is Visiting Alcatraz Worth it with kids?" class="wp-image-18897" title="Visiting Alcatraz Tips for Families for Pinterest"/></a></figure>
+<figure><a href="/images/2023/09/is-visiting-alcatraz-worth-it-hauntings-escapes-tips.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/09/is-visiting-alcatraz-worth-it-hauntings-escapes-tips-200x300.jpg" alt="Is Visiting Alcatraz Worth it with kids?" class="wp-image-18897" title="Visiting Alcatraz Tips for Families for Pinterest"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

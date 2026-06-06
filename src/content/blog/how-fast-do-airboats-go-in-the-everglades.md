@@ -105,6 +105,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":20419,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="how-fast-do-airboats-go-in-the-everglades"><a href="/wp-content/uploads/2024/02/how-fast-do-airboats-go-in-the-everglades.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/02/how-fast-do-airboats-go-in-the-everglades-200x300.jpg" alt="" class="wp-image-20419" title="Want to know how fast airboats go in the Everglades? This article has everything you need to know -HotMamaTravel"/></a></figure>
+<figure id="how-fast-do-airboats-go-in-the-everglades"><a href="/images/2024/02/how-fast-do-airboats-go-in-the-everglades.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/02/how-fast-do-airboats-go-in-the-everglades-200x300.jpg" alt="" class="wp-image-20419" title="Want to know how fast airboats go in the Everglades? This article has everything you need to know -HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

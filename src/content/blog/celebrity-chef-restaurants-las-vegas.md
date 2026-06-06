@@ -558,6 +558,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":16928,"sizeSlug":"medium","linkDestination":"media","align":"left"} -->
-<figure id="best-celebrity-restaurants-las-vegas"><a href="/wp-content/uploads/2023/02/best-celebrity-restaurants-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/02/best-celebrity-restaurants-las-vegas-200x300.jpg" alt="Top Celebrity Restaurants Las Vegas " class="wp-image-16928" title="Best Celebrity-Owned and Celebrity Chef Restaurants in Las Vegas- HotMamaTravel"/></a></figure>
+<figure id="best-celebrity-restaurants-las-vegas"><a href="/images/2023/02/best-celebrity-restaurants-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/02/best-celebrity-restaurants-las-vegas-200x300.jpg" alt="Top Celebrity Restaurants Las Vegas " class="wp-image-16928" title="Best Celebrity-Owned and Celebrity Chef Restaurants in Las Vegas- HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

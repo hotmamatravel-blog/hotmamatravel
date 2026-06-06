@@ -133,7 +133,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"2bf6881f","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderStyle":"none","UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2bf6881f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":14739,"sizeSlug":"large","linkDestination":"media","className":"Glamping Tents Piney River Ranch Colorado"} -->
-<figure id="piney-river-ranch-glamping-colorado"><a href="/wp-content/uploads/2021/07/piney-river-ranch-glamping-colorado.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/07/piney-river-ranch-glamping-colorado-1024x573.jpg" alt="" class="wp-image-14739"/></a></figure>
+<figure id="piney-river-ranch-glamping-colorado"><a href="/images/2021/07/piney-river-ranch-glamping-colorado.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/07/piney-river-ranch-glamping-colorado-1024x573.jpg" alt="" class="wp-image-14739"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4,"UAGDay":[]} -->
@@ -283,7 +283,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":14733,"sizeSlug":"medium","linkDestination":"media","UAGDay":[]} -->
-<figure id="5-best-tent-glamping-colorado"><a href="/wp-content/uploads/2021/07/5-best-tent-glamping-colorado.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/07/5-best-tent-glamping-colorado-200x300.jpg" alt="" class="wp-image-14733" title="5 beautiful tent glamping sites in Colorado that will allow to you to enjoy the great outdoors like never before  - HotMamaTravel"/></a></figure>
+<figure id="5-best-tent-glamping-colorado"><a href="/images/2021/07/5-best-tent-glamping-colorado.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/07/5-best-tent-glamping-colorado-200x300.jpg" alt="" class="wp-image-14733" title="5 beautiful tent glamping sites in Colorado that will allow to you to enjoy the great outdoors like never before  - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->
 

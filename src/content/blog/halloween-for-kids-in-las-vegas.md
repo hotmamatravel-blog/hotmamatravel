@@ -400,6 +400,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":21371,"sizeSlug":"medium","linkDestination":"media","className":"essb-block-image","pindesc":"Spooktacular Halloween for kids in Las Vegas"} -->
-<figure id="halloween-for-kids-las-vegas" data-essb-pin-description="Spooktacular Halloween for kids in Las Vegas"><a href="/wp-content/uploads/2024/07/best-halloween-for-kids-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/07/best-halloween-for-kids-las-vegas-200x300.jpg" alt="Spooky Halloween for Kids in Las Vegas " class="wp-image-21371" title="Spooktacular Halloween for Kids in Las Vegas - HotMamaTravel"/></a></figure>
+<figure id="halloween-for-kids-las-vegas" data-essb-pin-description="Spooktacular Halloween for kids in Las Vegas"><a href="/images/2024/07/best-halloween-for-kids-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/07/best-halloween-for-kids-las-vegas-200x300.jpg" alt="Spooky Halloween for Kids in Las Vegas " class="wp-image-21371" title="Spooktacular Halloween for Kids in Las Vegas - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

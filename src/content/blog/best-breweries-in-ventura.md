@@ -252,6 +252,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19477,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-breweries-in-ventura-families-live-music-pets"><a href="/wp-content/uploads/2023/11/best-breweries-in-ventura-families-live-music-pets.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/11/best-breweries-in-ventura-families-live-music-pets-200x300.jpg" alt="Best Breweries in Ventura to enjoy beer and live music with your family, fur babies, friends - HotMamaTravel" class="wp-image-19477" title="Best Breweries in Ventura to enjoy beer and live music with your family, fur babies, friends - HotMamaTravel"/></a></figure>
+<figure id="best-breweries-in-ventura-families-live-music-pets"><a href="/images/2023/11/best-breweries-in-ventura-families-live-music-pets.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/11/best-breweries-in-ventura-families-live-music-pets-200x300.jpg" alt="Best Breweries in Ventura to enjoy beer and live music with your family, fur babies, friends - HotMamaTravel" class="wp-image-19477" title="Best Breweries in Ventura to enjoy beer and live music with your family, fur babies, friends - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

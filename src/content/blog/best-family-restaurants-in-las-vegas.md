@@ -543,6 +543,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":20305,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-family-restaurants-in-las-vegas"><a href="/wp-content/uploads/2024/02/best-family-restaurants-in-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/02/best-family-restaurants-in-las-vegas-200x300.jpg" alt="best family restaurants in las vegas" class="wp-image-20305" title="Best family restaurants in Las Vegas kids will love! - HotMamaTravel"/></a></figure>
+<figure id="best-family-restaurants-in-las-vegas"><a href="/images/2024/02/best-family-restaurants-in-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/02/best-family-restaurants-in-las-vegas-200x300.jpg" alt="best family restaurants in las vegas" class="wp-image-20305" title="Best family restaurants in Las Vegas kids will love! - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

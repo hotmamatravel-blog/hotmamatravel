@@ -181,7 +181,7 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"72bbdda9","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-72bbdda9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17745,"sizeSlug":"large","linkDestination":"media"} -->
-<figure id="things-to-do-key-west-florida"><a href="/wp-content/uploads/2023/04/things-to-do-in-key-west-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/things-to-do-in-key-west-with-kids-1024x576.jpg" alt="Family Travel Guide for things to do in Key West with kids" class="wp-image-17745" title="Things to do in Key West on your babymoon to Florida Keys"/></a></figure>
+<figure id="things-to-do-key-west-florida"><a href="/images/2023/04/things-to-do-in-key-west-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/things-to-do-in-key-west-with-kids-1024x576.jpg" alt="Family Travel Guide for things to do in Key West with kids" class="wp-image-17745" title="Things to do in Key West on your babymoon to Florida Keys"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4} -->
@@ -287,6 +287,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":17890,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="planning-perfect-babymoon-florida-keys-"><a href="/wp-content/uploads/2023/04/planning-perfect-babymoon-florida-keys-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/planning-perfect-babymoon-florida-keys--200x300.jpg" alt="" class="wp-image-17890" title="Everything You Need to Know to Plan the Perfect Babymoon in Florida Keys - HotMamaTravel"/></a></figure>
+<figure id="planning-perfect-babymoon-florida-keys-"><a href="/images/2023/04/planning-perfect-babymoon-florida-keys-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/planning-perfect-babymoon-florida-keys--200x300.jpg" alt="" class="wp-image-17890" title="Everything You Need to Know to Plan the Perfect Babymoon in Florida Keys - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

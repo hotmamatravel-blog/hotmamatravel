@@ -298,6 +298,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":22477,"sizeSlug":"medium","linkDestination":"media","className":"essb-block-image","pindesc":"Looking for some holiday magic? Check out these exciting Christmas hotels in Southern California to take your family travels to the next level. #christmashotels #southerncalifornia #familytravel #holidaytravel"} -->
-<figure data-essb-pin-description="Looking for some holiday magic? Check out these exciting Christmas hotels in Southern California to take your family travels to the next level. #christmashotels #southerncalifornia #familytravel #holidaytravel"><a href="/wp-content/uploads/2023/10/Best-Christmas-Hotels-in-Southern-California.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/10/Best-Christmas-Hotels-in-Southern-California-200x300.jpg" alt="Best Christmas Hotels in Southern California that Families Will Love." class="wp-image-22477"/></a></figure>
+<figure data-essb-pin-description="Looking for some holiday magic? Check out these exciting Christmas hotels in Southern California to take your family travels to the next level. #christmashotels #southerncalifornia #familytravel #holidaytravel"><a href="/images/2023/10/Best-Christmas-Hotels-in-Southern-California.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/10/Best-Christmas-Hotels-in-Southern-California-200x300.jpg" alt="Best Christmas Hotels in Southern California that Families Will Love." class="wp-image-22477"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

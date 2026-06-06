@@ -149,6 +149,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":16359,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-travel-apps-that-travelers-must-have"><a href="/wp-content/uploads/2022/09/best-travel-apps-for-travelers.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/best-travel-apps-for-travelers-200x300.jpg" alt="" class="wp-image-16359" title="Must Have Travel Apps to Make Travel Easier - HotMamaTravel"/></a></figure>
+<figure id="best-travel-apps-that-travelers-must-have"><a href="/images/2022/09/best-travel-apps-for-travelers.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/best-travel-apps-for-travelers-200x300.jpg" alt="" class="wp-image-16359" title="Must Have Travel Apps to Make Travel Easier - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

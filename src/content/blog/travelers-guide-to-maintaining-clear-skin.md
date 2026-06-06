@@ -131,6 +131,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19814,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="maintaining-skincare-while-traveling-the-world"><a href="/wp-content/uploads/2024/01/maintaining-skincare-while-traveling-the-world.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/maintaining-skincare-while-traveling-the-world-200x300.jpg" alt="" class="wp-image-19814" title="Exploring the World's Best Kept Secrets: Traveler's Guide to Skincare - HotMamaTravel"/></a></figure>
+<figure id="maintaining-skincare-while-traveling-the-world"><a href="/images/2024/01/maintaining-skincare-while-traveling-the-world.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/maintaining-skincare-while-traveling-the-world-200x300.jpg" alt="" class="wp-image-19814" title="Exploring the World's Best Kept Secrets: Traveler's Guide to Skincare - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

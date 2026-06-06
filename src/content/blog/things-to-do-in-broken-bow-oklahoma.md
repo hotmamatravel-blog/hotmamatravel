@@ -305,6 +305,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":16731,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="things-to-do-in-broken-bow-oklahoma-with-kids"><a href="/wp-content/uploads/2023/01/things-to-do-in-broken-bow-oklahoma-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/01/things-to-do-in-broken-bow-oklahoma-with-kids-200x300.jpg" alt="" class="wp-image-16731" title="Cool things to do in Broken Bow, Oklahoma with your family - HotMamaTravel"/></a></figure>
+<figure id="things-to-do-in-broken-bow-oklahoma-with-kids"><a href="/images/2023/01/things-to-do-in-broken-bow-oklahoma-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/01/things-to-do-in-broken-bow-oklahoma-with-kids-200x300.jpg" alt="" class="wp-image-16731" title="Cool things to do in Broken Bow, Oklahoma with your family - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

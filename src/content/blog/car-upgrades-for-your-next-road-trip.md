@@ -123,6 +123,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19531,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="8-car-upgrades-for-your-next-road-trip"><a href="/wp-content/uploads/2023/11/8-car-upgrades-for-your-next-road-trip-1.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/11/8-car-upgrades-for-your-next-road-trip-1-200x300.jpg" alt="" class="wp-image-19531" title="8 Car Upgrades for Your Next Family Road Trip - HotMamaTravel"/></a></figure>
+<figure id="8-car-upgrades-for-your-next-road-trip"><a href="/images/2023/11/8-car-upgrades-for-your-next-road-trip-1.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/11/8-car-upgrades-for-your-next-road-trip-1-200x300.jpg" alt="" class="wp-image-19531" title="8 Car Upgrades for Your Next Family Road Trip - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

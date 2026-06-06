@@ -213,6 +213,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":16530,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-kid-friendly-hotels-malta-travel"><a href="/wp-content/uploads/2022/11/best-kid-friendly-hotels-malta-travel.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/11/best-kid-friendly-hotels-malta-travel-200x300.jpg" alt="" class="wp-image-16530" title="5 Best Kid-Friendly Hotels in Malta - HotMamaTravel"/></a></figure>
+<figure id="best-kid-friendly-hotels-malta-travel"><a href="/images/2022/11/best-kid-friendly-hotels-malta-travel.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/11/best-kid-friendly-hotels-malta-travel-200x300.jpg" alt="" class="wp-image-16530" title="5 Best Kid-Friendly Hotels in Malta - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

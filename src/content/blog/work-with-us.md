@@ -13,7 +13,7 @@ author: "Amanda Keeley-Thurman"
 ---
 
 If you have got a great product or service that is relevant to our readers, we can help <strong>promote your brand to <em>thousands</em> of travelers</strong>.
-<p style="text-align: center;">[<em>Click <span style="color: #ff0000;"><a style="color: #ff0000;" href="/wp-content/uploads/2019/12/Media-Kit-HotMamaTravel-DEC2019.pdf" target="_blank" rel="noopener noreferrer"><strong>here</strong></a></span> to view our professional media kit</em>]</p>
+<p style="text-align: center;">[<em>Click <span style="color: #ff0000;"><a style="color: #ff0000;" href="/images/2019/12/Media-Kit-HotMamaTravel-DEC2019.pdf" target="_blank" rel="noopener noreferrer"><strong>here</strong></a></span> to view our professional media kit</em>]</p>
 HotMamaTravel is a high-quality family travel blog that provides information and inspiration to help parents travel, and travel often. We provide honest hotel and restaurant reviews, destination guides, and information about tours, museums, transportation - basically anything related to the travel needs and desires of our readers.
 
 Most importantly, we give this information a personal touch so that our avid readers feel that we are traveling along with them!
@@ -82,4 +82,4 @@ You can contact us by email: hotmamatravel@gmail.com
 <em>NOTE: We receive several requests as well as some spam mail per day, so it is much easier to sort through the messages if you please simply use <strong>ATTN: </strong>"message from your brand" in the title of the email.</em>
 
 Thank you for your interest in partnering with HotMamaTravel!
-<p style="text-align: center;">Click <span style="color: #ff0000;"><a style="color: #ff0000;" href="/wp-content/uploads/2019/12/Media-Kit-HotMamaTravel-DEC2019.pdf" target="_blank" rel="noopener noreferrer"><strong>here</strong></a></span> to view our media kit</p>
+<p style="text-align: center;">Click <span style="color: #ff0000;"><a style="color: #ff0000;" href="/images/2019/12/Media-Kit-HotMamaTravel-DEC2019.pdf" target="_blank" rel="noopener noreferrer"><strong>here</strong></a></span> to view our media kit</p>

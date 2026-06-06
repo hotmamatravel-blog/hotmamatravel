@@ -139,6 +139,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":17692,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="struggles-of-traveling-with-kids-and-solutions"><a href="/wp-content/uploads/2023/04/struggles-of-traveling-with-kids-and-solutions.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/struggles-of-traveling-with-kids-and-solutions-200x300.jpg" alt="" class="wp-image-17692" title="The struggles of parents traveling with kids the their solutions - HotMamaTravel"/></a></figure>
+<figure id="struggles-of-traveling-with-kids-and-solutions"><a href="/images/2023/04/struggles-of-traveling-with-kids-and-solutions.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/struggles-of-traveling-with-kids-and-solutions-200x300.jpg" alt="" class="wp-image-17692" title="The struggles of parents traveling with kids the their solutions - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

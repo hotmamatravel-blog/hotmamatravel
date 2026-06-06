@@ -1241,6 +1241,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":14324,"sizeSlug":"medium","linkDestination":"media","UAGDay":[]} -->
-<figure id="things-to-do-charleston-with-kids"><a href="/wp-content/uploads/2021/02/things-to-do-charleston-with-kids.png"><img src="https://hotmamatravel.com/wp-content/uploads/2021/02/things-to-do-charleston-with-kids-200x300.png" alt="" class="wp-image-14324" title="Unique things to do in Charleston, South Carolina with kids"/></a></figure>
+<figure id="things-to-do-charleston-with-kids"><a href="/images/2021/02/things-to-do-charleston-with-kids.png"><img src="https://hotmamatravel.com/wp-content/uploads/2021/02/things-to-do-charleston-with-kids-200x300.png" alt="" class="wp-image-14324" title="Unique things to do in Charleston, South Carolina with kids"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

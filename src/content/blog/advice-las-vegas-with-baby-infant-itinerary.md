@@ -314,6 +314,6 @@ author: "Amanda Keeley-Thurman"
 
 Save this for your next trip and head to HotMamaTravel.com for the full itinerary and family travel tips.
 
-#VegasWithBaby #FamilyTravelTips #LasVegasWithKids #TravelWithBaby #HotMamaTravel"><a href="/wp-content/uploads/2024/01/Vegas-with-baby-FAQ-and-itinerary.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/Vegas-with-baby-FAQ-and-itinerary-200x300.jpg" alt="vegas with baby faq itinerary" class="wp-image-22864" title="Mama's Guide to Las Vegas with a Baby, Plus 2 Day Itinerary - HotMamaTravel "/></a></figure>
+#VegasWithBaby #FamilyTravelTips #LasVegasWithKids #TravelWithBaby #HotMamaTravel"><a href="/images/2024/01/Vegas-with-baby-FAQ-and-itinerary.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/Vegas-with-baby-FAQ-and-itinerary-200x300.jpg" alt="vegas with baby faq itinerary" class="wp-image-22864" title="Mama's Guide to Las Vegas with a Baby, Plus 2 Day Itinerary - HotMamaTravel "/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

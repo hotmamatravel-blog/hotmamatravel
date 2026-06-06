@@ -360,6 +360,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":21992,"sizeSlug":"medium","linkDestination":"media","className":"essb-block-image","pindesc":"Best weekend road trips from Las Vegas your family will love."} -->
-<figure data-essb-pin-description="Best weekend road trips from Las Vegas your family will love."><a href="/wp-content/uploads/2024/05/Best-weekend-road-trips-from-Las-Vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/05/Best-weekend-road-trips-from-Las-Vegas-200x300.jpg" alt="Weekend road trips from  Las Vegas" class="wp-image-21992"/></a></figure>
+<figure data-essb-pin-description="Best weekend road trips from Las Vegas your family will love."><a href="/images/2024/05/Best-weekend-road-trips-from-Las-Vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/05/Best-weekend-road-trips-from-Las-Vegas-200x300.jpg" alt="Weekend road trips from  Las Vegas" class="wp-image-21992"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

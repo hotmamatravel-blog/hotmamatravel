@@ -228,6 +228,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":21717,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="las-vegas-with-toddler-tips"><a href="/wp-content/uploads/2025/02/Best-things-to-do-in-las-vegas-with-a-toddler.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2025/02/Best-things-to-do-in-las-vegas-with-a-toddler-200x300.jpg" alt="Best things to do in Las Vegas with a toddler" class="wp-image-21717" title="Tips For Visiting Las Vegas With A Toddler -HotMamaTravel"/></a></figure>
+<figure id="las-vegas-with-toddler-tips"><a href="/images/2025/02/Best-things-to-do-in-las-vegas-with-a-toddler.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2025/02/Best-things-to-do-in-las-vegas-with-a-toddler-200x300.jpg" alt="Best things to do in Las Vegas with a toddler" class="wp-image-21717" title="Tips For Visiting Las Vegas With A Toddler -HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

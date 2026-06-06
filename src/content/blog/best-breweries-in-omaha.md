@@ -474,6 +474,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19834,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-family-friendly-breweries-omaha"><a href="/wp-content/uploads/2024/01/best-family-friendly-breweries-omaha.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/best-family-friendly-breweries-omaha-200x300.jpg" alt="" class="wp-image-19834" title="Crafting Family Memories at the Best Breweries in Omaha - HotMamaTravel"/></a></figure>
+<figure id="best-family-friendly-breweries-omaha"><a href="/images/2024/01/best-family-friendly-breweries-omaha.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/best-family-friendly-breweries-omaha-200x300.jpg" alt="" class="wp-image-19834" title="Crafting Family Memories at the Best Breweries in Omaha - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

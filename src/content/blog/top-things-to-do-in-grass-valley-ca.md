@@ -426,6 +426,6 @@ author: "Amanda Keeley-Thurman"
 
 Check out our full guide to the best family activities in Grass Valley on HotMamaTravel.com
 
-#GrassValley #NorthernCalifornia #FamilyTravel #CaliforniaRoadTrip #TravelWithKids #VisitCalifornia #FamilyVacation #GoldCountry #CaliforniaWithKids #HotMamaTravel"><a href="/wp-content/uploads/2021/05/Best-Things-to-do-in-Grass-Valley-Ca-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/05/Best-Things-to-do-in-Grass-Valley-Ca-with-kids-200x300.jpg" alt="Best things to do in grass valley, ca with kids " class="wp-image-23245"/></a></figure>
+#GrassValley #NorthernCalifornia #FamilyTravel #CaliforniaRoadTrip #TravelWithKids #VisitCalifornia #FamilyVacation #GoldCountry #CaliforniaWithKids #HotMamaTravel"><a href="/images/2021/05/Best-Things-to-do-in-Grass-Valley-Ca-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/05/Best-Things-to-do-in-Grass-Valley-Ca-with-kids-200x300.jpg" alt="Best things to do in grass valley, ca with kids " class="wp-image-23245"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

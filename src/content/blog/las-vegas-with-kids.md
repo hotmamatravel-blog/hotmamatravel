@@ -365,6 +365,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":20293,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-travel-guide-to-las-vegas-with-kids"><a href="/wp-content/uploads/2024/01/best-travel-guide-to-las-vegas-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/best-travel-guide-to-las-vegas-with-kids-200x300.jpg" alt="" class="wp-image-20293" title="Your Ultimate Guide To Doing Las Vegas With Kids Right! - HotMamaTravel"/></a></figure>
+<figure id="best-travel-guide-to-las-vegas-with-kids"><a href="/images/2024/01/best-travel-guide-to-las-vegas-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/best-travel-guide-to-las-vegas-with-kids-200x300.jpg" alt="" class="wp-image-20293" title="Your Ultimate Guide To Doing Las Vegas With Kids Right! - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

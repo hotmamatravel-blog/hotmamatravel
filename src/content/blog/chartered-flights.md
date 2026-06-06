@@ -181,6 +181,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":17509,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="How-chartered-flights-can-optimize-family-travel"><a href="/wp-content/uploads/2023/04/How-chartered-flights-can-optimize-family-travel.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/How-chartered-flights-can-optimize-family-travel-200x300.jpg" alt="" class="wp-image-17509" title="How chartered flights can optimize family travel - HotMamaTravel"/></a></figure>
+<figure id="How-chartered-flights-can-optimize-family-travel"><a href="/images/2023/04/How-chartered-flights-can-optimize-family-travel.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/How-chartered-flights-can-optimize-family-travel-200x300.jpg" alt="" class="wp-image-17509" title="How chartered flights can optimize family travel - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

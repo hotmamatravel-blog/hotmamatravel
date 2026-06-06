@@ -87,6 +87,6 @@ Las Vegas kids frequently asked questions" class="wp-image-20292"/></a></figure>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":21986,"sizeSlug":"medium","linkDestination":"media","className":"essb-block-image","pindesc":"Most Frequently Asked Questions About Taking Your Kids to Las Vegas With Honest Answers!"} -->
-<figure data-essb-pin-description="Most Frequently Asked Questions About Taking Your Kids to Las Vegas With Honest Answers!"><a href="/wp-content/uploads/2024/05/Most-Frequently-Asked-Questions-Las-Vegas-With-Kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/05/Most-Frequently-Asked-Questions-Las-Vegas-With-Kids-200x300.jpg" alt="Las Vegas with Kids Most Frequently Asked Questions" class="wp-image-21986"/></a></figure>
+<figure data-essb-pin-description="Most Frequently Asked Questions About Taking Your Kids to Las Vegas With Honest Answers!"><a href="/images/2024/05/Most-Frequently-Asked-Questions-Las-Vegas-With-Kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/05/Most-Frequently-Asked-Questions-Las-Vegas-With-Kids-200x300.jpg" alt="Las Vegas with Kids Most Frequently Asked Questions" class="wp-image-21986"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

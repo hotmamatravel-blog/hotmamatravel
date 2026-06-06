@@ -528,6 +528,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19781,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-family-friendly-breweries-long-beach-california"><a href="/wp-content/uploads/2024/01/best-family-friendly-breweries-long-beach-california.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/best-family-friendly-breweries-long-beach-california-200x300.jpg" alt="" class="wp-image-19781" title="The Best Family-Friendly Breweries in Long Beach Your Family Will Love - HotMamaTravel"/></a></figure>
+<figure id="best-family-friendly-breweries-long-beach-california"><a href="/images/2024/01/best-family-friendly-breweries-long-beach-california.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/01/best-family-friendly-breweries-long-beach-california-200x300.jpg" alt="" class="wp-image-19781" title="The Best Family-Friendly Breweries in Long Beach Your Family Will Love - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

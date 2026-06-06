@@ -58,7 +58,7 @@ author: "Amanda Keeley-Thurman"
 
 <span style="color: #000000;">Ever see those people who look like statues and then bust into a robot dance? Well, while visiting Seaport Village, there was a man painted silver. He stood completely still for a long time until FireCracker felt safe enough to approach him. Once she touched him, he moved his hand and sent her running in fear. Luckily, HotDaddy got the whole thing on camera!! We laughed forever about this one.</span>
 
-<a href="/wp-content/uploads/2016/01/seaport.jpg"><img class="aligncenter wp-image-3693" title="Seaport Village street performer for Kids" src="https://hotmamatravel.com/wp-content/uploads/2016/01/seaport-1024x1024.jpg" alt="Seaport Village street performer for Kids" width="640" height="640"/></a>
+<a href="/images/2016/01/seaport.jpg"><img class="aligncenter wp-image-3693" title="Seaport Village street performer for Kids" src="https://hotmamatravel.com/wp-content/uploads/2016/01/seaport-1024x1024.jpg" alt="Seaport Village street performer for Kids" width="640" height="640"/></a>
 
 <span style="color: #000000;">What kids doesn't like sweet treats? There are a few different sweet shops, but Frost Me Gourmet Cupcakes has an aroma that will lure you in.</span>
 
@@ -71,6 +71,6 @@ author: "Amanda Keeley-Thurman"
 <strong><span style="color: #ff0000;">Like it? Pin it!</span>
 </strong>
 
-<a href="/wp-content/uploads/2016/01/SDSPV-1.jpg"><img class="aligncenter wp-image-3696 size-large" title="Seaport Village with Kids" src="https://hotmamatravel.com/wp-content/uploads/2016/01/SDSPV-1-683x1024.jpg" alt="Seaport Village with Kids" width="640" height="960"/></a>
+<a href="/images/2016/01/SDSPV-1.jpg"><img class="aligncenter wp-image-3696 size-large" title="Seaport Village with Kids" src="https://hotmamatravel.com/wp-content/uploads/2016/01/SDSPV-1-683x1024.jpg" alt="Seaport Village with Kids" width="640" height="960"/></a>
 
 <strong>&nbsp;</strong>

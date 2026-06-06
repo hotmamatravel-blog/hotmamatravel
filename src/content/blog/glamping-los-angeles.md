@@ -248,6 +248,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":14454,"sizeSlug":"medium","linkDestination":"media","UAGDay":[]} -->
-<figure id="4-best-glamping-site-los-angeles-ca"><a href="/wp-content/uploads/2021/05/4-best-glamping-site-los-angeles-ca.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/05/4-best-glamping-site-los-angeles-ca-200x300.jpg" alt="" class="wp-image-14454" title="Teepees, Conestoga Wagons, Safari Tents, Cabins and more! Unique options for family glamping in Los Angeles, California every will love! - HotMamaTravel"/></a></figure>
+<figure id="4-best-glamping-site-los-angeles-ca"><a href="/images/2021/05/4-best-glamping-site-los-angeles-ca.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/05/4-best-glamping-site-los-angeles-ca-200x300.jpg" alt="" class="wp-image-14454" title="Teepees, Conestoga Wagons, Safari Tents, Cabins and more! Unique options for family glamping in Los Angeles, California every will love! - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

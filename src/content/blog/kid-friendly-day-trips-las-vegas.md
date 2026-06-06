@@ -549,7 +549,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":17995,"sizeSlug":"medium","linkDestination":"media","align":"left"} -->
-<figure id="8-Amazing-kid-friendly-day-trips-from-Las-Vegas"><a href="/wp-content/uploads/2023/05/family-day-trips-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/05/family-day-trips-las-vegas-200x300.jpg" alt="8 kid-friendly day trips from Las Vegas" class="wp-image-17995" title="Unique and Amazing 8 Kid-friendly Day Trips from Las Vegas Your Family will LOVE - HotMamaTravel"/></a></figure>
+<figure id="8-Amazing-kid-friendly-day-trips-from-Las-Vegas"><a href="/images/2023/05/family-day-trips-las-vegas.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/05/family-day-trips-las-vegas-200x300.jpg" alt="8 kid-friendly day trips from Las Vegas" class="wp-image-17995" title="Unique and Amazing 8 Kid-friendly Day Trips from Las Vegas Your Family will LOVE - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->
 

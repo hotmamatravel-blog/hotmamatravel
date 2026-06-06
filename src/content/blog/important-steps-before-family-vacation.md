@@ -167,6 +167,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":16339,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="6-important-steps-before-family-vacation"><a href="/wp-content/uploads/2022/09/Before-You-Go-Guide-to-Family-Travel.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/Before-You-Go-Guide-to-Family-Travel-200x300.jpg" alt="" class="wp-image-16339" title="6 Important steps: Before you go guide for family travel- HotMamaTravel"/></a></figure>
+<figure id="6-important-steps-before-family-vacation"><a href="/images/2022/09/Before-You-Go-Guide-to-Family-Travel.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2022/09/Before-You-Go-Guide-to-Family-Travel-200x300.jpg" alt="" class="wp-image-16339" title="6 Important steps: Before you go guide for family travel- HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

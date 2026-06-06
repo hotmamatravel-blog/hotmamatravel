@@ -133,6 +133,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":18511,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="family-vacation-planning-tips-to-maintain-control"><a href="/wp-content/uploads/2023/07/family-vacation-planning-tips-to-maintain-control.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/07/family-vacation-planning-tips-to-maintain-control-200x300.jpg" alt="" class="wp-image-18511" title="Family Vacation Planning Tips to Help You Maintain Control  - HotMamaTravel"/></a></figure>
+<figure id="family-vacation-planning-tips-to-maintain-control"><a href="/images/2023/07/family-vacation-planning-tips-to-maintain-control.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/07/family-vacation-planning-tips-to-maintain-control-200x300.jpg" alt="" class="wp-image-18511" title="Family Vacation Planning Tips to Help You Maintain Control  - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

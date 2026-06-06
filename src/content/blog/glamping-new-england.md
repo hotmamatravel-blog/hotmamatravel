@@ -283,6 +283,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":14768,"sizeSlug":"medium","linkDestination":"media","align":"left"} -->
-<figure id="5-best-tent-yurt-airstream-glamping-new-england"><a href="/wp-content/uploads/2021/07/5-best-tent-yurt-airstream-glamping-new-england.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/07/5-best-tent-yurt-airstream-glamping-new-england-200x300.jpg" alt="" class="wp-image-14768" title="5 Stuunning Tent, Yurt and Airstream Sites for Glamping New England That Your Family Will Love!"/></a></figure>
+<figure id="5-best-tent-yurt-airstream-glamping-new-england"><a href="/images/2021/07/5-best-tent-yurt-airstream-glamping-new-england.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2021/07/5-best-tent-yurt-airstream-glamping-new-england-200x300.jpg" alt="" class="wp-image-14768" title="5 Stuunning Tent, Yurt and Airstream Sites for Glamping New England That Your Family Will Love!"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

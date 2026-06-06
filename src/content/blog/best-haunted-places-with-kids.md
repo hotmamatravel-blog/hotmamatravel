@@ -718,6 +718,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":22412,"sizeSlug":"medium","linkDestination":"media","className":"essb-block-image","pindesc":"Looking for haunted places with kids that mix history, mystery, and a little mayhem? These spooky family adventures are unforgettable, ghosts included! #familytravel #hauntedplaces #spookytravel"} -->
-<figure data-essb-pin-description="Looking for haunted places with kids that mix history, mystery, and a little mayhem? These spooky family adventures are unforgettable, ghosts included! #familytravel #hauntedplaces #spookytravel"><a href="/wp-content/uploads/2019/08/best-haunted-places-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2019/08/best-haunted-places-with-kids-200x300.jpg" alt="Best haunted places to visit with kids" class="wp-image-22412"/></a></figure>
+<figure data-essb-pin-description="Looking for haunted places with kids that mix history, mystery, and a little mayhem? These spooky family adventures are unforgettable, ghosts included! #familytravel #hauntedplaces #spookytravel"><a href="/images/2019/08/best-haunted-places-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2019/08/best-haunted-places-with-kids-200x300.jpg" alt="Best haunted places to visit with kids" class="wp-image-22412"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

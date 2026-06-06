@@ -431,6 +431,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":20378,"sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="best-family-restaurants-in-st-pete-beach"><a href="/wp-content/uploads/2024/02/best-family-restaurants-in-st-pete-beach.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/02/best-family-restaurants-in-st-pete-beach-200x300.jpg" alt="" class="wp-image-20378" title="Best Restaurants in St Pete Beach for Families - HotMamaTravel"/></a></figure>
+<figure id="best-family-restaurants-in-st-pete-beach"><a href="/images/2024/02/best-family-restaurants-in-st-pete-beach.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2024/02/best-family-restaurants-in-st-pete-beach-200x300.jpg" alt="" class="wp-image-20378" title="Best Restaurants in St Pete Beach for Families - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->

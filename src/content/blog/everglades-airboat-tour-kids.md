@@ -464,6 +464,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":17595,"sizeSlug":"medium","linkDestination":"media","align":"left"} -->
-<figure id="what-you-know-about-everglades-airboat-tours-with-kids"><a href="/wp-content/uploads/2023/04/what-you-know-about-everglades-airboat-tours-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/what-you-know-about-everglades-airboat-tours-with-kids-200x300.jpg" alt="" class="wp-image-17595" title="What you should know about taking an Everglades airboat tour with kids - HotMamaTravel"/></a></figure>
+<figure id="what-you-know-about-everglades-airboat-tours-with-kids"><a href="/images/2023/04/what-you-know-about-everglades-airboat-tours-with-kids.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/what-you-know-about-everglades-airboat-tours-with-kids-200x300.jpg" alt="" class="wp-image-17595" title="What you should know about taking an Everglades airboat tour with kids - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></section>
 <!-- /wp:uagb/section -->

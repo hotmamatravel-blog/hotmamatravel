@@ -89,6 +89,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":19722,"width":"730px","height":"auto","sizeSlug":"medium","linkDestination":"media"} -->
-<figure id="tips-for-perfect-cross-country-move-planning"><a href="/wp-content/uploads/2023/12/tips-for-perfect-cross-country-move-planning.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/12/tips-for-perfect-cross-country-move-planning-200x300.jpg" alt="" class="wp-image-19722" style="width:730px;height:auto" title="Tips for planning the perfect cross-country move - HotMamaTravel"/></a></figure>
+<figure id="tips-for-perfect-cross-country-move-planning"><a href="/images/2023/12/tips-for-perfect-cross-country-move-planning.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/12/tips-for-perfect-cross-country-move-planning-200x300.jpg" alt="" class="wp-image-19722" style="width:730px;height:auto" title="Tips for planning the perfect cross-country move - HotMamaTravel"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:uagb/container -->
