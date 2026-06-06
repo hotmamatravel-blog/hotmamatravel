@@ -4,7 +4,7 @@ import { getCollection } from 'astro:content';
 import type { APIContext } from 'astro';
 
 export async function GET(context: APIContext) {
-  const STATIC_PAGES = ['about', 'contact', 'disclosure-policy', 'privacy-policy', 'destinations', 'destinations-3'];
+  const STATIC_PAGES = ['about', 'contact', 'disclosure-policy', 'privacy-policy', 'destinations', 'destinations-3', 'cookie-policy', 'terms-of-use', 'subscribe-hotmamatravel', 'confirmation', 'work-with-us', 'campaign-portfolio', 'something-broke'];
   const posts = await getCollection('blog', ({ data, slug }) => !data.draft && !STATIC_PAGES.includes(slug));
   const sortedPosts = posts.sort((a, b) =>
     b.data.pubDate.valueOf() - a.data.pubDate.valueOf()

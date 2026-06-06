@@ -4,7 +4,7 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import PostCard from '@/components/PostCard.astro';
 import { getCollection } from 'astro:content';
 
-const STATIC_PAGES = ['about', 'contact', 'disclosure-policy', 'privacy-policy', 'destinations', 'destinations-3'];
+const STATIC_PAGES = ['about', 'contact', 'disclosure-policy', 'privacy-policy', 'destinations', 'destinations-3', 'cookie-policy', 'terms-of-use', 'subscribe-hotmamatravel', 'confirmation', 'work-with-us', 'campaign-portfolio', 'something-broke'];
 
 const allPosts = await getCollection('blog', ({ data, slug }) => !data.draft && !STATIC_PAGES.includes(slug));
 const sortedPosts = allPosts.sort((a, b) =>

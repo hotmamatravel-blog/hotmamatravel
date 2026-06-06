@@ -1,5 +1,7 @@
 ---
 title: "Best Of Massachusetts Family Travel"
+heroImage: "/images/2023/01/Mount-Greylock-Berkshires-Massachusetts.jpg"
+heroImageAlt: "Best Of Massachusetts Family Travel"
 description: ""
 pubDate: 2025-10-21
 category: "Family Travel"

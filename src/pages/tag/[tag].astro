@@ -7,7 +7,7 @@ import { getCollection } from 'astro:content';
 import { slugifyTag } from '@/utils/slugify';
 
 export async function getStaticPaths() {
-  const STATIC_PAGES = ['about', 'contact', 'disclosure-policy', 'privacy-policy', 'destinations', 'destinations-3'];
+  const STATIC_PAGES = ['about', 'contact', 'disclosure-policy', 'privacy-policy', 'destinations', 'destinations-3', 'cookie-policy', 'terms-of-use', 'subscribe-hotmamatravel', 'confirmation', 'work-with-us', 'campaign-portfolio', 'something-broke'];
   const allPosts = await getCollection('blog', ({ data, slug }) => !data.draft && !STATIC_PAGES.includes(slug));
 
   // Collect all unique tags from all posts, including category as a tag

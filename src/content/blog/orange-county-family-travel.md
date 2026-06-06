@@ -1,5 +1,7 @@
 ---
 title: "Best Of Orange County Family Travel"
+heroImage: "/images/2017/05/things-to-do-anaheim-besides-disney.png"
+heroImageAlt: "Best Of Orange County Family Travel"
 description: ""
 pubDate: 2024-07-29
 updatedDate: 2026-04-14
