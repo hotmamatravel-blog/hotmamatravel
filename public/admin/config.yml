@@ -25,6 +25,11 @@ collections:
     slug: "{{slug}}"
     preview_path: "/{{slug}}/"
     identifier_field: title
+    view_filters:
+      - { label: "Drafts Only", field: "draft", pattern: true }
+      - { label: "Published Only", field: "draft", pattern: false }
+    view_groups:
+      - { label: "Publish Status", field: "draft" }
     fields:
       - { label: "Title", name: "title", widget: "string", hint: "The main headline — make it descriptive and keyword-rich" }
       - { label: "Description / Excerpt", name: "description", widget: "text", required: false, hint: "1-2 sentence summary for SEO and social sharing (160 chars max)" }
