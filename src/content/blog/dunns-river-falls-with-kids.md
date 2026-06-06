@@ -3,7 +3,7 @@ title: "What You Should Know about Climbing Dunn's River Falls with Kids"
 description: ""
 pubDate: 2017-01-19
 updatedDate: 2022-10-28
-heroImage: "/images/2017/01/DSCN1701-1024x684.jpg"
+heroImage: "/images/DSCN1701-1024x684.jpg"
 heroImageAlt: "Dunns River Falls with kids"
 category: "Hot Caribbean"
 tags: ["Hot Caribbean", "Hot Family Travels", "Hot Tips"]

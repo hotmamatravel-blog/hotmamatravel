@@ -1,6 +1,6 @@
 ---
 title: "Family-Friendly Vegas"
-heroImage: "/images/2023/05/family-friendly-las-vegas.jpg"
+heroImage: "/images/family-friendly-las-vegas.jpg"
 heroImageAlt: "Family-Friendly Vegas"
 description: ""
 pubDate: 2023-05-02

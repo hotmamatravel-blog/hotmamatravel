@@ -3,7 +3,7 @@ title: "Best Guide For Being Pregnant in Las Vegas 2026"
 description: ""
 pubDate: 2024-03-14
 updatedDate: 2026-03-25
-heroImage: "/images/2015/01/Pregnant-in-Las-Vegas.png"
+heroImage: "/images/Pregnant-in-Las-Vegas.png"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot Tips", "Hot United States", "Featured"]
 wpId: 1824
@@ -280,5 +280,5 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 Like it? Pin it!
 
-<figure id="best-guide-for-being-pregnant-in-las-vegas">[![](https://hotmamatravel.com/wp-content/uploads/2024/01/best-guide-for-being-pregnant-in-las-vegas-200x300.jpg)](/images/2024/01/best-guide-for-being-pregnant-in-las-vegas.jpg)</figure>
+<figure id="best-guide-for-being-pregnant-in-las-vegas">[![](https://hotmamatravel.com/wp-content/uploads/2024/01/best-guide-for-being-pregnant-in-las-vegas-200x300.jpg)](/images/best-guide-for-being-pregnant-in-las-vegas.jpg)</figure>
 </div></div>

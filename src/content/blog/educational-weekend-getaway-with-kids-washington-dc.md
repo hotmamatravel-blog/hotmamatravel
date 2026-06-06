@@ -3,7 +3,7 @@ title: "An Educational Weekend Getaway with the Kids in Washington, D.C."
 description: ""
 pubDate: 2024-07-20
 updatedDate: 2024-07-22
-heroImage: "/images/2024/07/educational-weekend-washington-dc-with-kids-200x300.jpg"
+heroImage: "/images/educational-weekend-washington-dc-with-kids-200x300.jpg"
 heroImageAlt: "Educational weekend getaway with kids in Washington DC"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot United States", "Hot Washington DC", "Partnership"]
@@ -65,5 +65,5 @@ Washington, D.C. and its surroundings offer an unparalleled combination of histo
 
 Like it? Pin it!
 
-<figure id="educational-weekend-washington-dc-kids" data-essb-pin-description="Educational weekend getaway in Washington DC with Kids - HotMamaTravel">[![Educational weekend getaway with kids in Washington DC](https://hotmamatravel.com/wp-content/uploads/2024/07/educational-weekend-washington-dc-with-kids-200x300.jpg)](/images/2024/07/educational-weekend-washington-dc-with-kids.jpg)</figure>
+<figure id="educational-weekend-washington-dc-kids" data-essb-pin-description="Educational weekend getaway in Washington DC with Kids - HotMamaTravel">[![Educational weekend getaway with kids in Washington DC](https://hotmamatravel.com/wp-content/uploads/2024/07/educational-weekend-washington-dc-with-kids-200x300.jpg)](/images/educational-weekend-washington-dc-with-kids.jpg)</figure>
 </div></div>

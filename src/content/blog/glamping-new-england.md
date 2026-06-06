@@ -3,7 +3,7 @@ title: "5 Stunning Sites for Glamping in New England to truly Love"
 description: ""
 pubDate: 2023-06-27
 updatedDate: 2024-07-20
-heroImage: "/images/2021/07/sandy-pines-tent-glamping-new-england.jpg"
+heroImage: "/images/sandy-pines-tent-glamping-new-england.jpg"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Hot Connecticut", "Hot Massachusetts", "Hot United States", "Featured"]
 wpId: 14766
@@ -143,5 +143,5 @@ If you love glamping and want more places to sleep in luxury while enjoying the 
 
 **Like it? Pin it!**
 
-<figure id="5-best-tent-yurt-airstream-glamping-new-england">[![](https://hotmamatravel.com/wp-content/uploads/2021/07/5-best-tent-yurt-airstream-glamping-new-england-200x300.jpg)](/images/2021/07/5-best-tent-yurt-airstream-glamping-new-england.jpg)</figure>
+<figure id="5-best-tent-yurt-airstream-glamping-new-england">[![](https://hotmamatravel.com/wp-content/uploads/2021/07/5-best-tent-yurt-airstream-glamping-new-england-200x300.jpg)](/images/5-best-tent-yurt-airstream-glamping-new-england.jpg)</figure>
 </div></section>

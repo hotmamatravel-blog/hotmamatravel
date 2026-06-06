@@ -3,7 +3,7 @@ title: "How to Spend a Day in Cozumel With Kids"
 description: ""
 pubDate: 2017-01-26
 updatedDate: 2019-06-19
-heroImage: "/images/2017/01/cozumel6-928x1024.jpg"
+heroImage: "/images/cozumel6-928x1024.jpg"
 heroImageAlt: "Cozumel with Kids"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot Mexico"]

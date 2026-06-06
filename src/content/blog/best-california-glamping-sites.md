@@ -2,7 +2,7 @@
 title: "8 Best California Glamping Sites you will love!"
 description: ""
 pubDate: 2023-06-27
-heroImage: "/images/2020/09/living-desert-starry-safari-family-glamping-palm-springs-ca.jpg"
+heroImage: "/images/living-desert-starry-safari-family-glamping-palm-springs-ca.jpg"
 heroImageAlt: "teepee glamping at living desert starry safari- palm springs glamping"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Hot California", "Hot United States", "Featured"]

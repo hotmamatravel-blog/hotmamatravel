@@ -2,7 +2,7 @@
 title: "Top 10 Fun Activities in St. George, Utah for Kids"
 description: ""
 pubDate: 2022-04-26
-heroImage: "/images/2022/04/snow-canyon-state-park-utah.jpg"
+heroImage: "/images/snow-canyon-state-park-utah.jpg"
 category: "Guest Blog"
 tags: ["Guest Blog", "Hot United States", "Featured"]
 wpId: 15781
@@ -194,7 +194,7 @@ For More Utah family travel tips, see guide on [mind-blowing glamping sites in Z
 
 **Like it? Pin it!**
 
-<div id="Top-10-activities-for-kids-st-george-utah" class="wp-block-image"><figure class="alignleft size-medium">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/Top-10-activities-for-kids-st-george-utah-200x300.jpg)](/images/2022/04/Top-10-activities-for-kids-st-george-utah.jpg)</figure></div>
+<div id="Top-10-activities-for-kids-st-george-utah" class="wp-block-image"><figure class="alignleft size-medium">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/Top-10-activities-for-kids-st-george-utah-200x300.jpg)](/images/Top-10-activities-for-kids-st-george-utah.jpg)</figure></div>
 </div></section>
 
 **Author Bio**

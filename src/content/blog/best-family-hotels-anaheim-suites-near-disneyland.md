@@ -3,7 +3,7 @@ title: "10 Best Family Hotels In Anaheim Near Disneyland 2026"
 description: ""
 pubDate: 2024-07-30
 updatedDate: 2026-04-13
-heroImage: "/images/2019/07/majestic-garden-anaheim-hotel-swimming-pool.jpg"
+heroImage: "/images/majestic-garden-anaheim-hotel-swimming-pool.jpg"
 heroImageAlt: "Anaheim Majestic Garden Family Hotel near Disneyland"
 category: "Disney Travel"
 tags: ["Disney Travel", "Family Hotels", "Hot California", "Hot Orange County", "Hot United States"]

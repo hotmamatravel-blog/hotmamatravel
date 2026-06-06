@@ -3,7 +3,7 @@ title: "Hotel Spotlight: Best Western Plus Inn of Williams - Family Trip to the 
 description: ""
 pubDate: 2019-04-14
 updatedDate: 2019-07-03
-heroImage: "/images/2019/04/driving-historic-route-66-arizona.jpg"
+heroImage: "/images/driving-historic-route-66-arizona.jpg"
 heroImageAlt: "Route 66 in Arizona Springtime flowers"
 category: "Hot Arizona"
 tags: ["Hot Arizona", "Hot Road Trips", "Hot United States"]

@@ -3,7 +3,7 @@ title: "49 Best Family Restaurants in Las Vegas 2026"
 description: ""
 pubDate: 2024-02-01
 updatedDate: 2026-03-25
-heroImage: "/images/2018/07/NYNY-Vegas-family-friendly-restaurants.jpg"
+heroImage: "/images/NYNY-Vegas-family-friendly-restaurants.jpg"
 heroImageAlt: "Il Fornaio NYNY Las Vegas Restaurant"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]
@@ -327,5 +327,5 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 Like it? Pin it!
 
-<figure id="best-family-restaurants-in-las-vegas">[![best family restaurants in las vegas](https://hotmamatravel.com/wp-content/uploads/2024/02/best-family-restaurants-in-las-vegas-200x300.jpg)](/images/2024/02/best-family-restaurants-in-las-vegas.jpg)</figure>
+<figure id="best-family-restaurants-in-las-vegas">[![best family restaurants in las vegas](https://hotmamatravel.com/wp-content/uploads/2024/02/best-family-restaurants-in-las-vegas-200x300.jpg)](/images/best-family-restaurants-in-las-vegas.jpg)</figure>
 </div></div>

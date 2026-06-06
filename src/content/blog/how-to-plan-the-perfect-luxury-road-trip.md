@@ -3,7 +3,7 @@ title: "How To Plan The Perfect Luxury Road Trip"
 description: ""
 pubDate: 2023-10-07
 updatedDate: 2025-06-01
-heroImage: "/images/2023/10/tips-for-planning-a-luxury-road-trip-200x300.jpg"
+heroImage: "/images/tips-for-planning-a-luxury-road-trip-200x300.jpg"
 category: "Hot Road Trips"
 tags: ["Hot Road Trips", "Hot Tips", "Partnership"]
 wpId: 19159
@@ -98,5 +98,5 @@ A luxury road trip is an activity to indulge in whenever possible, and these tip
 
 Like it? Pin it!
 
-<figure id="tips-for-planning-a-luxury-road-trip">[![](https://hotmamatravel.com/wp-content/uploads/2023/10/tips-for-planning-a-luxury-road-trip-200x300.jpg)](/images/2023/10/tips-for-planning-a-luxury-road-trip.jpg)</figure>
+<figure id="tips-for-planning-a-luxury-road-trip">[![](https://hotmamatravel.com/wp-content/uploads/2023/10/tips-for-planning-a-luxury-road-trip-200x300.jpg)](/images/tips-for-planning-a-luxury-road-trip.jpg)</figure>
 </div></div>

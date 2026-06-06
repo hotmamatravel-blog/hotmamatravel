@@ -3,7 +3,7 @@ title: "16 Best Las Vegas Christmas Activities For Kids 2026"
 description: ""
 pubDate: 2025-11-21
 updatedDate: 2026-03-25
-heroImage: "/images/2023/02/tournament-of-kings-las-vegas-dinner-show-packages.jpg"
+heroImage: "/images/tournament-of-kings-las-vegas-dinner-show-packages.jpg"
 heroImageAlt: "Tournament of Kings at Excalibur family las vegas show"
 category: "Holiday Travel"
 tags: ["Holiday Travel", "Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]
@@ -197,5 +197,5 @@ Also, check out my **[Las Vegas family travel guides](/family-friendly-vegas/)**
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Make Christmas magical for the whole family in Las Vegas! From twinkling lights and festive shows to holiday suites and winter wonderlands—Vegas delivers unforgettable holiday fun for kids of all ages. #LasVegasChristmas #FamilyTravel #HolidayFun #VegasWithKids #ChristmasMagic">[![christmas in las vegas with kids](https://hotmamatravel.com/wp-content/uploads/2025/11/Christmas-in-Las-Vegas-with-Kids-200x300.jpg)](/images/2025/11/Christmas-in-Las-Vegas-with-Kids.jpg)</figure>
+<figure data-essb-pin-description="Make Christmas magical for the whole family in Las Vegas! From twinkling lights and festive shows to holiday suites and winter wonderlands—Vegas delivers unforgettable holiday fun for kids of all ages. #LasVegasChristmas #FamilyTravel #HolidayFun #VegasWithKids #ChristmasMagic">[![christmas in las vegas with kids](https://hotmamatravel.com/wp-content/uploads/2025/11/Christmas-in-Las-Vegas-with-Kids-200x300.jpg)](/images/Christmas-in-Las-Vegas-with-Kids.jpg)</figure>
 </div></div>

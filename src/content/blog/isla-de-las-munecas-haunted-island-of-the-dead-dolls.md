@@ -2,7 +2,7 @@
 title: "Isla De Las Muñecas: Haunted Island of the Dead Dolls"
 description: ""
 pubDate: 2023-12-18
-heroImage: "/images/2023/12/the-truth-about-Isla-De-Las-Munecas-Haunted-Island-of-Dead-Dolls.jpg"
+heroImage: "/images/the-truth-about-Isla-De-Las-Munecas-Haunted-Island-of-Dead-Dolls.jpg"
 heroImageAlt: "True Story Behind the Haunted Island of Dead Dolls in Mexio"
 category: "Guest Blog"
 tags: ["Guest Blog", "Haunted Places", "Hot Mexico", "Featured"]
@@ -366,5 +366,5 @@ If you’re looking for a less touristy experience in Mexico, you might be inter
 
 Like it? Pin it!
 
-<figure id="ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls">[![](https://hotmamatravel.com/wp-content/uploads/2023/12/ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls-200x300.jpg)](/images/2023/12/ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls.jpg)</figure>
+<figure id="ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls">[![](https://hotmamatravel.com/wp-content/uploads/2023/12/ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls-200x300.jpg)](/images/ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls.jpg)</figure>
 </div></div>

@@ -3,7 +3,7 @@ title: "Genius List of Road Trip Car Games for kids"
 description: ""
 pubDate: 2020-02-17
 updatedDate: 2022-11-06
-heroImage: "/images/2020/02/Best-road-trip-games-for-kids-in-the-car.jpg"
+heroImage: "/images/Best-road-trip-games-for-kids-in-the-car.jpg"
 category: "Hot Road Trips"
 tags: ["Hot Road Trips", "Hot Tips", "Featured"]
 wpId: 12822

@@ -1,6 +1,6 @@
 ---
 title: "Family Travel Videos"
-heroImage: "/images/2017/12/Hi-Res-HotMamaTravel-Banner-with-a-Twist-500p.png"
+heroImage: "/images/Hi-Res-HotMamaTravel-Banner-with-a-Twist-500p.png"
 heroImageAlt: "Family Travel Videos"
 description: ""
 pubDate: 2018-12-22

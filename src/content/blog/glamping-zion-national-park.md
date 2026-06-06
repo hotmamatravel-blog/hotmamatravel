@@ -2,7 +2,7 @@
 title: "5 Mind-blowing Glamping Sites in Zion that you will Love"
 description: ""
 pubDate: 2023-06-27
-heroImage: "/images/2021/06/under-canvas-zion-family-glamping-tents.jpg"
+heroImage: "/images/under-canvas-zion-family-glamping-tents.jpg"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Hot United States", "Featured"]
 wpId: 14682
@@ -144,5 +144,5 @@ If you love glamping and want more, check out my many glamp site guides!
 
 **Like it? Pin it!**
 
-<figure id="5-best-glamping-sites-zion-utah">[![](https://hotmamatravel.com/wp-content/uploads/2021/06/5-best-glamping-sites-zion-utah-200x300.jpg)](/images/2021/06/5-best-glamping-sites-zion-utah.jpg)</figure>
+<figure id="5-best-glamping-sites-zion-utah">[![](https://hotmamatravel.com/wp-content/uploads/2021/06/5-best-glamping-sites-zion-utah-200x300.jpg)](/images/5-best-glamping-sites-zion-utah.jpg)</figure>
 </div></section>

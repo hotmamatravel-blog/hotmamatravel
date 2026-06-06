@@ -3,7 +3,7 @@ title: "7 Haunted Hotels in Arizona for Spooky Families 2025"
 description: ""
 pubDate: 2023-09-04
 updatedDate: 2025-10-09
-heroImage: "/images/2023/09/hotel-congress-haunted-hotels-arizona.jpg"
+heroImage: "/images/hotel-congress-haunted-hotels-arizona.jpg"
 heroImageAlt: "Haunted Hotel Congress in Tuscan Arizona"
 category: "Family-Friendly Haunted Hotels"
 tags: ["Family-Friendly Haunted Hotels", "Haunted Places", "Hot Arizona", "Hot United States", "Featured"]
@@ -288,5 +288,5 @@ Like it? Pin it!
 
 <figure data-essb-pin-description="Ready for a haunted family adventure? Discover the most haunted hotels in Arizona that are perfect for families—where spooky stories meet history, comfort, and adventure. From Jerome to Bisbee, these stays mix ghostly thrills, family-friendly amenities, and unforgettable Arizona charm. 👨‍👩‍👧‍👦💀
 
-🕯️ Plan your next family-friendly haunted getaway in Arizona → 7 Haunted Hotels in Arizona for Spooky Families">[![Haunted Hotels in Arizona](https://hotmamatravel.com/wp-content/uploads/2023/09/haunted-hotels-arizona-200x300.jpg)](/images/2023/09/haunted-hotels-arizona.jpg)</figure>
+🕯️ Plan your next family-friendly haunted getaway in Arizona → 7 Haunted Hotels in Arizona for Spooky Families">[![Haunted Hotels in Arizona](https://hotmamatravel.com/wp-content/uploads/2023/09/haunted-hotels-arizona-200x300.jpg)](/images/haunted-hotels-arizona.jpg)</figure>
 </div></div>

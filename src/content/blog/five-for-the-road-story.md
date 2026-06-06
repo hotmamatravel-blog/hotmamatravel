@@ -3,7 +3,7 @@ title: "A little Barf is just a Bump in the Road for this Road Trippin’ Family
 description: ""
 pubDate: 2018-11-12
 updatedDate: 2019-07-04
-heroImage: "/images/2018/11/Five-for-the-road-pin-683x1024.jpg"
+heroImage: "/images/Five-for-the-road-pin-683x1024.jpg"
 heroImageAlt: "Family Travel Uncensored - A little Barf is just a Bump in the Road for this Road Trippin’ Family"
 category: "Family Travel Uncensored"
 tags: ["Family Travel Uncensored"]

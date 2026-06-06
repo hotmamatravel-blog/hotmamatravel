@@ -3,7 +3,7 @@ title: "6 Important Steps to Take Before Going on a Family Vacation"
 description: ""
 pubDate: 2022-09-01
 updatedDate: 2025-06-01
-heroImage: "/images/2022/09/Before-You-Go-Guide-to-Family-Travel-200x300.jpg"
+heroImage: "/images/Before-You-Go-Guide-to-Family-Travel-200x300.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership"]
 wpId: 16335
@@ -82,5 +82,5 @@ Emergency cash, cleaning prior the trip, pet management plans, cutting edge secu
 
 **Like it? Pin it!**
 
-<figure id="6-important-steps-before-family-vacation">[![](https://hotmamatravel.com/wp-content/uploads/2022/09/Before-You-Go-Guide-to-Family-Travel-200x300.jpg)](/images/2022/09/Before-You-Go-Guide-to-Family-Travel.jpg)</figure>
+<figure id="6-important-steps-before-family-vacation">[![](https://hotmamatravel.com/wp-content/uploads/2022/09/Before-You-Go-Guide-to-Family-Travel-200x300.jpg)](/images/Before-You-Go-Guide-to-Family-Travel.jpg)</figure>
 </div></section>

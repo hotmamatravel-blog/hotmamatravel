@@ -3,7 +3,7 @@ title: "7 Amazing Las Vegas Dinner and Show Packages for Families 2026"
 description: ""
 pubDate: 2024-04-14
 updatedDate: 2026-03-25
-heroImage: "/images/2023/02/Amazing-Las-Vegas-Dinner-and-Show-Packages.jpg"
+heroImage: "/images/Amazing-Las-Vegas-Dinner-and-Show-Packages.jpg"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot Las Vegas", "Hot United States", "Featured"]
 wpId: 16861
@@ -173,5 +173,5 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 **Like it? Pin it!**
 
-<figure id="best-las-vegas-dinner-and-show-packages">[![Best Dinner and Show Packages in Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/best-las-vegas-dinner-and-show-packages-200x300.jpg)](/images/2023/02/best-las-vegas-dinner-and-show-packages.jpg)</figure>
+<figure id="best-las-vegas-dinner-and-show-packages">[![Best Dinner and Show Packages in Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/best-las-vegas-dinner-and-show-packages-200x300.jpg)](/images/best-las-vegas-dinner-and-show-packages.jpg)</figure>
 </div></section>

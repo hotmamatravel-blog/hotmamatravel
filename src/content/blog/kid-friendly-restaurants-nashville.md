@@ -3,7 +3,7 @@ title: "9 Best Kid-Friendly Restaurants in Nashville with Live Music 2025!"
 description: ""
 pubDate: 2024-01-12
 updatedDate: 2025-04-14
-heroImage: "/images/2024/01/miranda-lamberts-casa-rosa-nashville.jpg"
+heroImage: "/images/miranda-lamberts-casa-rosa-nashville.jpg"
 heroImageAlt: "Miranda Lambert"
 category: "Hot Tennessee"
 tags: ["Hot Tennessee", "Hot United States"]
@@ -195,5 +195,5 @@ If you are looking to extend your stay indefinitely, check out [**The Best Neigh
 
 **Like it? Pin it!**
 
-<figure id="Kid-Friendly-Nashville-Restaurants-with-live-Music">[![](https://hotmamatravel.com/wp-content/uploads/2018/01/Nashville-Restaurants-200x300.png)](/images/2018/01/Nashville-Restaurants.png)</figure>
+<figure id="Kid-Friendly-Nashville-Restaurants-with-live-Music">[![](https://hotmamatravel.com/wp-content/uploads/2018/01/Nashville-Restaurants-200x300.png)](/images/Nashville-Restaurants.png)</figure>
 </div></section>

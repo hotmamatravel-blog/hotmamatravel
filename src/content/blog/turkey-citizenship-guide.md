@@ -3,7 +3,7 @@ title: "Turkey’s Attraction for Global Citizens: Citizenship Guide by Global R
 description: ""
 pubDate: 2023-11-11
 updatedDate: 2025-06-01
-heroImage: "/images/2023/11/Citizenship-Guide-by-Global-Residence-Index-200x300.jpg"
+heroImage: "/images/Citizenship-Guide-by-Global-Residence-Index-200x300.jpg"
 category: "Hot Europe"
 tags: ["Hot Europe", "Hot Tips", "Partnership"]
 wpId: 19451
@@ -173,6 +173,6 @@ With such a quick and streamlined visa process, apply today for citizenship in T
 
 Like it? Pin it!
 
-<figure id="Citizenship-Guide-by-Global-Residence-Index">[![](https://hotmamatravel.com/wp-content/uploads/2023/11/Citizenship-Guide-by-Global-Residence-Index-200x300.jpg)](/images/2023/11/Citizenship-Guide-by-Global-Residence-Index.jpg)</figure>
+<figure id="Citizenship-Guide-by-Global-Residence-Index">[![](https://hotmamatravel.com/wp-content/uploads/2023/11/Citizenship-Guide-by-Global-Residence-Index-200x300.jpg)](/images/Citizenship-Guide-by-Global-Residence-Index.jpg)</figure>
 </div></div>
 

@@ -2,7 +2,7 @@
 title: "What to do in Old Town San Diego with Kids - Live Music, Haunted Places and More"
 description: ""
 pubDate: 2023-03-22
-heroImage: "/images/2020/04/kid-activity-tobys-candle-soap-shop-old-town-san-diego.jpg"
+heroImage: "/images/kid-activity-tobys-candle-soap-shop-old-town-san-diego.jpg"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot United States", "Featured"]
 wpId: 556

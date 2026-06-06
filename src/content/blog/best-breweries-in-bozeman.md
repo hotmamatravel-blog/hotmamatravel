@@ -3,7 +3,7 @@ title: "7 Best Breweries in Bozeman For Families"
 description: ""
 pubDate: 2023-11-16
 updatedDate: 2024-01-19
-heroImage: "/images/2023/11/bozeman-brewing-company-best-breweries-bozeman.jpg"
+heroImage: "/images/bozeman-brewing-company-best-breweries-bozeman.jpg"
 heroImageAlt: "Bozeman Brewing Company in Bozeman MT"
 category: "Best Breweries For Families"
 tags: ["Best Breweries For Families", "Hot Montana", "Hot United States", "Featured"]
@@ -196,5 +196,5 @@ Explore more [cool breweries in more cool cities](/americas-best-breweries/).
 
 Like it? Pin it!
 
-<figure id="best-breweries-in-bozeman-families-live-music-pets">[![](https://hotmamatravel.com/wp-content/uploads/2023/11/best-breweries-in-bozeman-families-live-music-pets-200x300.jpg)](/images/2023/11/best-breweries-in-bozeman-families-live-music-pets.jpg)</figure>
+<figure id="best-breweries-in-bozeman-families-live-music-pets">[![](https://hotmamatravel.com/wp-content/uploads/2023/11/best-breweries-in-bozeman-families-live-music-pets-200x300.jpg)](/images/best-breweries-in-bozeman-families-live-music-pets.jpg)</figure>
 </div></div>

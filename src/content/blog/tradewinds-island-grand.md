@@ -2,7 +2,7 @@
 title: "Why Our Family Loves Tradewinds Island Grand St. Pete"
 description: ""
 pubDate: 2026-04-07
-heroImage: "/images/2017/02/Rooms-at-Tradewinds-Island-Grand.jpg"
+heroImage: "/images/Rooms-at-Tradewinds-Island-Grand.jpg"
 heroImageAlt: "rooms at Tradewinds Island Grand"
 category: "Family Hotels"
 tags: ["Family Hotels", "Hot Florida", "Hot St. Pete Beach", "Hot United States"]
@@ -273,5 +273,5 @@ Like it? Pin it!
 
 ✨ Click for my full guide to St. Pete Beach family fun &amp; top resorts!
 
-#FamilyTravel #StPeteBeach #FloridaVacation #BeachResorts #FamilyFun #TravelWithKids #HotMamaTravel #FloridaFamilyTrip #ResortLife #BeachVacation">[![Tradewinds Island Grand Family Review](https://hotmamatravel.com/wp-content/uploads/2017/02/Tradewinds-Island-Grand-Family-Review-200x300.jpg)](/images/2017/02/Tradewinds-Island-Grand-Family-Review.jpg)</figure>
+#FamilyTravel #StPeteBeach #FloridaVacation #BeachResorts #FamilyFun #TravelWithKids #HotMamaTravel #FloridaFamilyTrip #ResortLife #BeachVacation">[![Tradewinds Island Grand Family Review](https://hotmamatravel.com/wp-content/uploads/2017/02/Tradewinds-Island-Grand-Family-Review-200x300.jpg)](/images/Tradewinds-Island-Grand-Family-Review.jpg)</figure>
 </div></div>

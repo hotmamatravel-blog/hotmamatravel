@@ -2,7 +2,7 @@
 title: "5 Best Glamping Spots in Joshua Tree National Park"
 description: ""
 pubDate: 2023-06-28
-heroImage: "/images/2021/08/joshua-tree-glamping-hicksville-trailer-palace.jpg"
+heroImage: "/images/joshua-tree-glamping-hicksville-trailer-palace.jpg"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Hot California", "Featured"]
 wpId: 13871

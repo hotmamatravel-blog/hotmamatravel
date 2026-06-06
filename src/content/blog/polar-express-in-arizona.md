@@ -3,7 +3,7 @@ title: "A Magical Family Adventure on the Polar Express Arizona 2025"
 description: ""
 pubDate: 2023-10-31
 updatedDate: 2025-11-16
-heroImage: "/images/2023/10/grand-canyon-railway-hotel-Polar-express-williams-arizona.jpg"
+heroImage: "/images/grand-canyon-railway-hotel-Polar-express-williams-arizona.jpg"
 heroImageAlt: "Polar Express Package at Grand Canyon Railway Hotel"
 category: "Holiday Travel"
 tags: ["Holiday Travel", "Hot Arizona", "Hot Family Travels", "Hot United States"]
@@ -173,5 +173,5 @@ If you’re hungry for even more holiday cheer, don’t stop here. **[I’ve got
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Make Christmas magic happen! A full family guide to the Polar Express Arizona—tips, tricks, and what to expect. #polarexpress #arizona #christmas #familytravel">[![Why We Love Polar Express Arizona](https://hotmamatravel.com/wp-content/uploads/2016/11/PE-10-200x300.png)](/images/2016/11/PE-10.png)</figure>
+<figure data-essb-pin-description="Make Christmas magic happen! A full family guide to the Polar Express Arizona—tips, tricks, and what to expect. #polarexpress #arizona #christmas #familytravel">[![Why We Love Polar Express Arizona](https://hotmamatravel.com/wp-content/uploads/2016/11/PE-10-200x300.png)](/images/PE-10.png)</figure>
 </div></div>

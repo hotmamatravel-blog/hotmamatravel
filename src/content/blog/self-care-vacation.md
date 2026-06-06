@@ -1,6 +1,6 @@
 ---
 title: "Self Care Vacation: Looking After Yourself During Your Travels"
-heroImage: "/images/2023/05/SELF-CARE-VACATION.jpg"
+heroImage: "/images/SELF-CARE-VACATION.jpg"
 heroImageAlt: "Self Care Vacation: Looking After Yourself During Your Travels"
 description: ""
 pubDate: 2023-05-12

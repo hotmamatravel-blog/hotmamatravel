@@ -1,6 +1,6 @@
 ---
 title: "Top 10 Things to Consider When You Move to a New City"
-heroImage: "/images/2024/03/moving-to-a-new-city.jpg"
+heroImage: "/images/moving-to-a-new-city.jpg"
 heroImageAlt: "Top 10 Things to Consider When You Move to a New City"
 description: ""
 pubDate: 2024-03-27

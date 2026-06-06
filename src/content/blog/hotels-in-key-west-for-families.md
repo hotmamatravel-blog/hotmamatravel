@@ -2,7 +2,7 @@
 title: "Best Hotels in Key West for Families"
 description: ""
 pubDate: 2023-04-26
-heroImage: "/images/2023/04/casa-marina-key-west-best-hotels-in-key-west-for-families.jpg"
+heroImage: "/images/casa-marina-key-west-best-hotels-in-key-west-for-families.jpg"
 category: "Hot Florida"
 tags: ["Hot Florida", "Hot United States", "Featured"]
 wpId: 17390
@@ -280,5 +280,5 @@ If you want more information on planning your trip, check out our [guide for thi
 
 **Like it? Pin it!**
 
-<figure id="best-hotels-in-key-west-for-families-kid-friendly-florida-keys-resorts">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/best-hotels-in-key-west-for-families-kid-friendly-florida-keys-resorts-200x300.jpg)](/images/2023/04/best-hotels-in-key-west-for-families-kid-friendly-florida-keys-resorts.jpg)</figure>
+<figure id="best-hotels-in-key-west-for-families-kid-friendly-florida-keys-resorts">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/best-hotels-in-key-west-for-families-kid-friendly-florida-keys-resorts-200x300.jpg)](/images/best-hotels-in-key-west-for-families-kid-friendly-florida-keys-resorts.jpg)</figure>
 </div></section>

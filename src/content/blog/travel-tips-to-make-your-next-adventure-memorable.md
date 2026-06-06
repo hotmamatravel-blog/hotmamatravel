@@ -3,7 +3,7 @@ title: "Travel Tips to Make Your Next Adventure Memorable"
 description: ""
 pubDate: 2023-08-30
 updatedDate: 2025-06-01
-heroImage: "/images/2023/08/memorable-travel-tips-200x300.jpg"
+heroImage: "/images/memorable-travel-tips-200x300.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership"]
 wpId: 18643
@@ -126,5 +126,5 @@ It isn't hard to make travel experience memorable, but adding some unique change
 
 Like it? Pin it!
 
-<figure id="tips-to-make-your-next-adventure-memorable">[![](https://hotmamatravel.com/wp-content/uploads/2023/08/memorable-travel-tips-200x300.jpg)](/images/2023/08/memorable-travel-tips.jpg)</figure>
+<figure id="tips-to-make-your-next-adventure-memorable">[![](https://hotmamatravel.com/wp-content/uploads/2023/08/memorable-travel-tips-200x300.jpg)](/images/memorable-travel-tips.jpg)</figure>
 </div></div>

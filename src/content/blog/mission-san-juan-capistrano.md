@@ -3,7 +3,7 @@ title: "Family Guide to Mission San Juan Capistrano with kids - Where to eat & p
 description: ""
 pubDate: 2017-04-25
 updatedDate: 2019-07-05
-heroImage: "/images/2015/09/IMG_8790-e1492840054405-1024x882.jpg"
+heroImage: "/images/IMG_8790-e1492840054405-1024x882.jpg"
 heroImageAlt: "Mission San Juan Capistrano"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot Orange County", "Hot United States"]

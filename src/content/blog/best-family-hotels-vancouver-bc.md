@@ -3,7 +3,7 @@ title: "7 Best Family Hotels in Vancouver, BC 2026"
 description: ""
 pubDate: 2024-01-18
 updatedDate: 2026-05-07
-heroImage: "/images/2019/09/family-friendly-vancouver-hotel-fairmont-waterfront-front.jpg"
+heroImage: "/images/family-friendly-vancouver-hotel-fairmont-waterfront-front.jpg"
 heroImageAlt: "Fairmont Waterfront Vancouver kid friendly hotel"
 category: "Family Hotels"
 tags: ["Family Hotels", "Hot Canada", "Featured"]
@@ -224,6 +224,6 @@ Like it? Pin it!
 
 <figure id="best-family-hotels-in-vancouver-bc" data-essb-pin-description="Planning a family trip to Vancouver BC? 🇨🇦 From hotels with pools and spacious family suites to walkable locations near top attractions, these are the best family-friendly hotels in Vancouver for an unforgettable vacation with kids. Explore where to stay in Vancouver with families, plus insider travel tips, nearby activities, and must-know recommendations to make your trip easier (and way more fun). ✨
 
-#VancouverBC #FamilyTravel #FamilyVacation #VancouverWithKids #CanadaTravel #FamilyHotels #TravelWithKids #VancouverHotels #FamilyFriendlyTravel #HotMamaTravel">[![Family hotels in Vancouver BC](https://hotmamatravel.com/wp-content/uploads/2024/01/best-family-hotels-in-vancouver-bc-200x300.jpg)](/images/2024/01/best-family-hotels-in-vancouver-bc.jpg)</figure>
+#VancouverBC #FamilyTravel #FamilyVacation #VancouverWithKids #CanadaTravel #FamilyHotels #TravelWithKids #VancouverHotels #FamilyFriendlyTravel #HotMamaTravel">[![Family hotels in Vancouver BC](https://hotmamatravel.com/wp-content/uploads/2024/01/best-family-hotels-in-vancouver-bc-200x300.jpg)](/images/best-family-hotels-in-vancouver-bc.jpg)</figure>
 </div></div>
 

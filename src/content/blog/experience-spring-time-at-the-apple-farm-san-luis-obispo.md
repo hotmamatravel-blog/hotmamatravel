@@ -3,7 +3,7 @@ title: "Hotel Spotlight: Spring time at Apple Farm Inn is lovely in San Luis Obi
 description: ""
 pubDate: 2018-04-20
 updatedDate: 2020-02-10
-heroImage: "/images/2018/04/Apple-Farm-Inn-Spring-Family-1.jpg"
+heroImage: "/images/Apple-Farm-Inn-Spring-Family-1.jpg"
 heroImageAlt: "Family at Apple Farm Inn San Luis Obispo"
 category: "Hot California"
 tags: ["Hot California", "Hot United States"]

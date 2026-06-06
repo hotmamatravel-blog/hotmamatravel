@@ -3,7 +3,7 @@ title: "Family Guide to visiting Kingman, AZ and other classic Route 66 stops"
 description: ""
 pubDate: 2019-06-09
 updatedDate: 2019-07-04
-heroImage: "/images/2019/06/Route-66-kids-3.jpg"
+heroImage: "/images/Route-66-kids-3.jpg"
 heroImageAlt: "Kids on Route 66 family road trip"
 category: "Hot Arizona"
 tags: ["Hot Arizona", "Hot Family Travels", "Hot Road Trips", "Hot United States"]

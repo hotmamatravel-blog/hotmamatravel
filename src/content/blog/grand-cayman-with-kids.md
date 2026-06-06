@@ -3,7 +3,7 @@ title: "Family Guide to Grand Cayman with kids - Fun things to do"
 description: ""
 pubDate: 2017-02-18
 updatedDate: 2019-07-05
-heroImage: "/images/2017/02/DSC07979-1024x683.jpg"
+heroImage: "/images/DSC07979-1024x683.jpg"
 heroImageAlt: "Grand Cayman with Kids"
 category: "Hot Caribbean"
 tags: ["Hot Caribbean", "Hot Family Travels"]

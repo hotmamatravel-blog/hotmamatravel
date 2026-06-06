@@ -3,7 +3,7 @@ title: "Newport Dunes Resort Glamping With Kids: 2026 Guide"
 description: ""
 pubDate: 2026-03-15
 updatedDate: 2026-03-16
-heroImage: "/images/2017/06/Newport-Dunes-Beach-Cottages.jpg"
+heroImage: "/images/Newport-Dunes-Beach-Cottages.jpg"
 heroImageAlt: "Newport Dunes Beach Cottages"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Hot California", "Hot Family Travels", "Hot Orange County", "Hot United States"]
@@ -265,5 +265,5 @@ For more ideas on family-friendly adventures across the Golden State, check out 
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Dreaming of a family glamping getaway in Southern California? 🌴✨ Discover Newport Dunes Resort—from cozy cottages and beachfront RV sites to calm bay waters, playgrounds, pools, water sports, and seasonal events. Perfect for kids, parents, and RV travelers! Check out our ultimate 2026 guide for tips, rentals, and all the best activities. #newportdunes #familytravel #glamping #newportbeach #californiatravel">[![Glamping Newport Dunes](https://hotmamatravel.com/wp-content/uploads/2017/06/glamping-newport-dunes-200x300.jpg)](/images/2017/06/glamping-newport-dunes.jpg)</figure>
+<figure data-essb-pin-description="Dreaming of a family glamping getaway in Southern California? 🌴✨ Discover Newport Dunes Resort—from cozy cottages and beachfront RV sites to calm bay waters, playgrounds, pools, water sports, and seasonal events. Perfect for kids, parents, and RV travelers! Check out our ultimate 2026 guide for tips, rentals, and all the best activities. #newportdunes #familytravel #glamping #newportbeach #californiatravel">[![Glamping Newport Dunes](https://hotmamatravel.com/wp-content/uploads/2017/06/glamping-newport-dunes-200x300.jpg)](/images/glamping-newport-dunes.jpg)</figure>
 </div></div>

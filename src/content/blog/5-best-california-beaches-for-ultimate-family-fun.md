@@ -2,7 +2,7 @@
 title: "5 Best California Beaches for Ultimate Family Fun"
 description: ""
 pubDate: 2022-07-13
-heroImage: "/images/2022/07/Long-Beach.jpg"
+heroImage: "/images/Long-Beach.jpg"
 category: "Hot California"
 tags: ["Hot California", "Hot United States"]
 wpId: 16114
@@ -78,5 +78,5 @@ There are so many great beaches in California, but these are just 5 worth checki
 
 **Like it? Pin it!**
 
-<figure id="best-beaches-california-family-fun">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/best-california-beaches-for-families-200x300.jpg)](/images/2022/07/best-california-beaches-for-families.jpg)</figure>
+<figure id="best-beaches-california-family-fun">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/best-california-beaches-for-families-200x300.jpg)](/images/best-california-beaches-for-families.jpg)</figure>
 </div></section>

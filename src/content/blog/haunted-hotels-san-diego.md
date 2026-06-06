@@ -3,7 +3,7 @@ title: "3 Best Family-Friendly Haunted Hotels in San Diego 2025"
 description: ""
 pubDate: 2022-10-12
 updatedDate: 2025-10-23
-heroImage: "/images/2020/04/cosmopolitan-hotel-old-town-san-diego.jpg"
+heroImage: "/images/cosmopolitan-hotel-old-town-san-diego.jpg"
 heroImageAlt: "Haunted Cosmopolitan Hotel Old Town San Diego"
 category: "Family-Friendly Haunted Hotels"
 tags: ["Family-Friendly Haunted Hotels", "Haunted Places", "Hot California", "Hot United States"]
@@ -190,5 +190,5 @@ Wherever your travels take you, whether it’s a haunted suite or a sunny Califo
 Like it? Pin it!
 
 <figure data-essb-pin-description="Planning a spooky family getaway? These haunted hotels in San Diego are perfect for families who love history, mystery, and maybe a ghost or two! 👀
-#HauntedHotelsSanDiego #FamilyTravel #SpookyTravel #HotMamaTravel">[![haunted hotels in san diego for families](https://hotmamatravel.com/wp-content/uploads/2022/10/haunted-hotels-san-diego-for-familes-200x300.jpg)](/images/2022/10/haunted-hotels-san-diego-for-familes.jpg)</figure>
+#HauntedHotelsSanDiego #FamilyTravel #SpookyTravel #HotMamaTravel">[![haunted hotels in san diego for families](https://hotmamatravel.com/wp-content/uploads/2022/10/haunted-hotels-san-diego-for-familes-200x300.jpg)](/images/haunted-hotels-san-diego-for-familes.jpg)</figure>
 </div></div>

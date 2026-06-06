@@ -3,7 +3,7 @@ title: "Family Guide to visiting Santa Fe with kids - Where to eat, stay & play"
 description: ""
 pubDate: 2019-04-26
 updatedDate: 2020-01-18
-heroImage: "/images/2019/04/Front-BW-plus-santa-fe-new-mexico.jpg"
+heroImage: "/images/Front-BW-plus-santa-fe-new-mexico.jpg"
 heroImageAlt: "Hot Mama in front of Best Western Plus Inn of Santa Fe"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot New Mexico", "Hot Road Trips", "Hot United States"]

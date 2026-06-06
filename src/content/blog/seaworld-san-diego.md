@@ -3,7 +3,7 @@ title: "Family Guide to SeaWorld San Diego with kids - Fun things to do"
 description: ""
 pubDate: 2017-06-02
 updatedDate: 2019-07-05
-heroImage: "/images/2014/07/IMG_6052-1024x1024.jpg"
+heroImage: "/images/IMG_6052-1024x1024_201407.jpg"
 heroImageAlt: "Drink beer SeaWorld San Diego"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot United States"]

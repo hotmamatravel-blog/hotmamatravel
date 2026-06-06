@@ -3,7 +3,7 @@ title: "Family Guide to Mission Bay RV Resort with kids - Fun things to do"
 description: ""
 pubDate: 2017-04-11
 updatedDate: 2019-07-05
-heroImage: "/images/2014/09/Collage-Bay.png"
+heroImage: "/images/Collage-Bay.png"
 heroImageAlt: "Mission Bay RV Resort"
 category: "Hot California"
 tags: ["Hot California", "Hot United States"]
@@ -20,7 +20,7 @@ Location, location, location, the thing I love the most about Mission Bay RV Res
 
 There are plenty of options for great lots. It really depends on what is important to you. Some have views of the bay, some are located near the beach and the rest are scattered in between. We like spots 252 through 260, because there is a “no pull through” zone that is perfect for allowing the kids to play safely. Daily rates range from $95 to $65 depending on the site location.** Mission Bay RV Resort** also offers monthly rates ranging from $1275 to $875.
 
-[![Mission Bay RV Resort](https://hotmamatravel.com/wp-content/uploads/2014/09/Collage-DYB-e1491924871229.png)](/images/2014/09/Collage-DYB.png)
+[![Mission Bay RV Resort](https://hotmamatravel.com/wp-content/uploads/2014/09/Collage-DYB-e1491924871229.png)](/images/Collage-DYB.png)
 
 ## ***Get Your Grub On at Mission Bay RV Resort***
 
@@ -34,7 +34,7 @@ The most popular item for sure, is the shaved ice! For $3 the shaved iced comes 
 
 If you want to venture of the RV resort, there are plenty of dining options nearby. When we stay at Mission Bay RV Resort we always sent a day aside for Old Town San Diego. Good food. Great drinks. Good times. For more information on Old Town click **[HERE](/old-town-san-diego-with-kids/)** or where to drink in Old Town click **[HERE](/where-to-drink-in-old-town-san-diego/)**.
 
-[![Mission Bay RV Resort](https://hotmamatravel.com/wp-content/uploads/2014/09/Collage-SS2-e1491924925536.png)](/images/2014/09/Collage-SS2.png)
+[![Mission Bay RV Resort](https://hotmamatravel.com/wp-content/uploads/2014/09/Collage-SS2-e1491924925536.png)](/images/Collage-SS2.png)
 
 ## ***Chug-A-Lug at Mission Bay RV Resort***
 

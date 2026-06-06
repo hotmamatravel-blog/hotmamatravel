@@ -3,7 +3,7 @@ title: "3 Places Worth Flying to for an Insane Family Vacation"
 description: ""
 pubDate: 2018-03-03
 updatedDate: 2024-03-13
-heroImage: "/images/2018/03/melbourne-star-observation-wheel.png"
+heroImage: "/images/melbourne-star-observation-wheel.png"
 heroImageAlt: "Melbourne Star Observation Wheel"
 category: "Guest Blog"
 tags: ["Guest Blog", "Hot Family Travels"]

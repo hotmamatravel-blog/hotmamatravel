@@ -3,7 +3,7 @@ title: "Family Guide for visiting George Washington's Mount Vernon - Things to d
 description: ""
 pubDate: 2019-02-17
 updatedDate: 2022-05-27
-heroImage: "/images/2019/02/restaurant-mount-vernon-with-kids.jpg"
+heroImage: "/images/restaurant-mount-vernon-with-kids.jpg"
 heroImageAlt: "Inside Mount Vernon Inn Restaurant Lobby"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot United States", "Hot Washington DC"]

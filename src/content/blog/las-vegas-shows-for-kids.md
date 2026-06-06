@@ -3,7 +3,7 @@ title: "20 Epic Las Vegas Shows For Families With Kids 2026"
 description: ""
 pubDate: 2024-02-07
 updatedDate: 2026-05-22
-heroImage: "/images/2019/01/Baby-in-Las-Vegas-Show-Tournament-of-kings.gif"
+heroImage: "/images/Baby-in-Las-Vegas-Show-Tournament-of-kings.gif"
 heroImageAlt: "Baby at Las Vegas Show Tournament of Kings"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States"]
@@ -498,5 +498,5 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 <figure id="best-las-vegas-shows-for-kids" data-essb-pin-description="The best family-friendly shows in Las Vegas—honest reviews, must-see picks, and tips to keep kids entertained the whole trip 🎭✨ From Cirque du Soleil to dinner shows and magic, don’t miss these unforgettable experiences!
 
-#LasVegasWithKids #FamilyTravel #VegasShows #FamilyVacation #TravelWithKids #CirqueDuSoleil #VegasTips #FamilyFun #TravelIdeas #KidFriendlyTravel">[![Best Vegas show for kids](https://hotmamatravel.com/wp-content/uploads/2023/06/best-shows-for-kids-las-vegas-200x300.jpg)](/images/2023/06/best-shows-for-kids-las-vegas.jpg)</figure>
+#LasVegasWithKids #FamilyTravel #VegasShows #FamilyVacation #TravelWithKids #CirqueDuSoleil #VegasTips #FamilyFun #TravelIdeas #KidFriendlyTravel">[![Best Vegas show for kids](https://hotmamatravel.com/wp-content/uploads/2023/06/best-shows-for-kids-las-vegas-200x300.jpg)](/images/best-shows-for-kids-las-vegas.jpg)</figure>
 

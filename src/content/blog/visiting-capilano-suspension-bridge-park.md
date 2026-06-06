@@ -3,7 +3,7 @@ title: "Family Guide to visiting Capilano Suspension Bridge Park in Vancouver wi
 description: ""
 pubDate: 2018-09-23
 updatedDate: 2022-05-27
-heroImage: "/images/2018/09/kids-at-capilano-suspension-bridge-park.jpg"
+heroImage: "/images/kids-at-capilano-suspension-bridge-park.jpg"
 heroImageAlt: "Raining at Capilano Suspension Bridge Park"
 category: "Hot Canada"
 tags: ["Hot Canada", "Hot Family Travels"]

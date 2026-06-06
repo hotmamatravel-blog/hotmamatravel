@@ -3,7 +3,7 @@ title: "Must See and Do: Things to do for the Ultimate Iceland Family Vacation"
 description: ""
 pubDate: 2022-07-15
 updatedDate: 2024-03-25
-heroImage: "/images/2022/07/Blue-Lagoon-Iceland.jpg"
+heroImage: "/images/Blue-Lagoon-Iceland.jpg"
 category: "Hot Europe"
 tags: ["Hot Europe"]
 wpId: 16129
@@ -94,5 +94,5 @@ Iceland is a land full of breathtaking landscapes and Viking history, that you w
 
 **Like it? Pin it!**
 
-<figure id="must-do-see-things-iceland-family-vacation">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/iceland-family-vacation-200x300.jpg)](/images/2022/07/iceland-family-vacation.jpg)</figure>
+<figure id="must-do-see-things-iceland-family-vacation">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/iceland-family-vacation-200x300.jpg)](/images/iceland-family-vacation.jpg)</figure>
 </div></section>

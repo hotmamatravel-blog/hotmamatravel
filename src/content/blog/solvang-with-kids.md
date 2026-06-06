@@ -3,7 +3,7 @@ title: "Family Guide to Solvang with Kids: Where to eat, play & stay"
 description: ""
 pubDate: 2019-11-14
 updatedDate: 2020-01-18
-heroImage: "/images/2019/11/family-friendly-solvang-ca-things-to-do.jpg"
+heroImage: "/images/family-friendly-solvang-ca-things-to-do.jpg"
 heroImageAlt: "Family in Solvang CA"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot United States"]

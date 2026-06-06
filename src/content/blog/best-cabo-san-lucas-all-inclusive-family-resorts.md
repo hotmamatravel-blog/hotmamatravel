@@ -3,7 +3,7 @@ title: "8 Awesome Cabo San Lucas All-inclusive Family Resorts"
 description: ""
 pubDate: 2022-04-22
 updatedDate: 2024-05-29
-heroImage: "/images/2022/04/grand-fiesta-americana-family-resort-cabo-all-inclusive.jpg"
+heroImage: "/images/grand-fiesta-americana-family-resort-cabo-all-inclusive.jpg"
 category: "Hot Mexico"
 tags: ["Hot Mexico", "Featured"]
 wpId: 15751
@@ -176,5 +176,5 @@ For more all-inclusive family-friendly resorts, explore our other destinations!
 
 **Like it? Pin it!**
 
-<figure id="8-Awesome-Cabo-San-Lucas-All-Inclusive-Family-Resorts">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/Cabo-All-Inclusive-Family-Resorts-200x300.jpg)](/images/2022/04/Cabo-All-Inclusive-Family-Resorts.jpg)</figure>
+<figure id="8-Awesome-Cabo-San-Lucas-All-Inclusive-Family-Resorts">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/Cabo-All-Inclusive-Family-Resorts-200x300.jpg)](/images/Cabo-All-Inclusive-Family-Resorts.jpg)</figure>
 </div></section>

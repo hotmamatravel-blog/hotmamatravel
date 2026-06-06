@@ -3,7 +3,7 @@ title: "3 Best Family Resorts in Palm Springs, CA with kids"
 description: ""
 pubDate: 2023-07-12
 updatedDate: 2023-07-20
-heroImage: "/images/2018/09/palm-springs-weather-graph.jpg"
+heroImage: "/images/palm-springs-weather-graph.jpg"
 heroImageAlt: "Graph of annual Palm Springs weather"
 category: "Hot California"
 tags: ["Hot California", "Hot United States", "Featured"]
@@ -455,5 +455,5 @@ Also, before you plan your next visit, be sure to check out our ultimate guide f
 
 **Like it? Pin it!**
 
-<figure id="best-family-resorts-palm-springs">[![](https://hotmamatravel.com/wp-content/uploads/2023/07/best-family-resorts-palm-springs-200x300.jpg)](/images/2023/07/best-family-resorts-palm-springs.jpg)</figure>
+<figure id="best-family-resorts-palm-springs">[![](https://hotmamatravel.com/wp-content/uploads/2023/07/best-family-resorts-palm-springs-200x300.jpg)](/images/best-family-resorts-palm-springs.jpg)</figure>
 </div></section>

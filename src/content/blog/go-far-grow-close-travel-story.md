@@ -3,7 +3,7 @@ title: "An unexpected encounter with a real-life Bengal Tiger on safari with my 
 description: ""
 pubDate: 2019-06-20
 updatedDate: 2019-10-24
-heroImage: "/images/2019/06/family-travel-uncensored-bengal-tiger-story-pin-683x1024.jpg"
+heroImage: "/images/family-travel-uncensored-bengal-tiger-story-pin-683x1024.jpg"
 heroImageAlt: "An unexpected encounter with a real-life Bengal Tiger on safari with my 4 teens"
 category: "Family Travel Uncensored"
 tags: ["Family Travel Uncensored"]

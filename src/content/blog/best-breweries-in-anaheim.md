@@ -3,7 +3,7 @@ title: "11 Best Breweries in Anaheim for Friends and Family 2025"
 description: ""
 pubDate: 2023-11-06
 updatedDate: 2025-03-04
-heroImage: "/images/2023/11/brewery-x-best-breweries-in-anaheim.jpg"
+heroImage: "/images/brewery-x-best-breweries-in-anaheim.jpg"
 heroImageAlt: "brewery x is one of the best breweries in Anaheim"
 category: "Best Breweries For Families"
 tags: ["Best Breweries For Families", "Hot California", "Hot Orange County", "Hot United States", "Featured"]
@@ -269,5 +269,5 @@ For [more cool breweries in more cool cities](/americas-best-breweries/), check 
 
 Like it? Pin it!
 
-<figure id="best-breweries-in-anaheim-for-families" data-essb-pin-description="Best Breweries in Anaheim to Enjoy with Friends and Family - HotMamaTravel">[![](https://hotmamatravel.com/wp-content/uploads/2023/11/best-breweries-in-anaheim-for-families-200x300.jpg)](/images/2023/11/best-breweries-in-anaheim-for-families.jpg)</figure>
+<figure id="best-breweries-in-anaheim-for-families" data-essb-pin-description="Best Breweries in Anaheim to Enjoy with Friends and Family - HotMamaTravel">[![](https://hotmamatravel.com/wp-content/uploads/2023/11/best-breweries-in-anaheim-for-families-200x300.jpg)](/images/best-breweries-in-anaheim-for-families.jpg)</figure>
 </div></div>

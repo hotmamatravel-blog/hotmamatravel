@@ -3,7 +3,7 @@ title: "7 Breathtaking Winery Hotels in Temecula you will Love"
 description: ""
 pubDate: 2021-06-02
 updatedDate: 2022-09-29
-heroImage: "/images/2022/09/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg"
+heroImage: "/images/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg"
 category: "Hot California"
 tags: ["Hot California", "Hot United States", "Featured"]
 wpId: 14520

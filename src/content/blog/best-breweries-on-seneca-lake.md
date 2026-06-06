@@ -3,7 +3,7 @@ title: "11 Best Breweries on Seneca Lake Families Love 2024"
 description: ""
 pubDate: 2023-11-30
 updatedDate: 2024-01-18
-heroImage: "/images/2023/11/scale-house-brewery-best-breweries-seneca-lake.jpg"
+heroImage: "/images/scale-house-brewery-best-breweries-seneca-lake.jpg"
 heroImageAlt: "Family Friendly Live Musica at Scale House Brewery Seneca Lake"
 category: "Best Breweries For Families"
 tags: ["Best Breweries For Families", "Hot New York", "Hot United States", "Featured"]
@@ -256,5 +256,5 @@ Check out [more awesome breweries in more awesome places](/americas-best-breweri
 
 Like it? Pin it!
 
-<figure id="best-breweries-on-seneca-lake-families-live-music-pets">[![](https://hotmamatravel.com/wp-content/uploads/2023/11/best-breweries-on-seneca-lake-families-live-music-pets-200x300.jpg)](/images/2023/11/best-breweries-on-seneca-lake-families-live-music-pets.jpg)</figure>
+<figure id="best-breweries-on-seneca-lake-families-live-music-pets">[![](https://hotmamatravel.com/wp-content/uploads/2023/11/best-breweries-on-seneca-lake-families-live-music-pets-200x300.jpg)](/images/best-breweries-on-seneca-lake-families-live-music-pets.jpg)</figure>
 </div></div>

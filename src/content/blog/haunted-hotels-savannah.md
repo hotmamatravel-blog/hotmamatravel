@@ -3,7 +3,7 @@ title: "4 Most Family-Friendly Haunted Hotels in Savannah 2025"
 description: ""
 pubDate: 2022-12-21
 updatedDate: 2025-10-17
-heroImage: "/images/2022/12/Haunted-hotels-savannah-marshall-house.jpg"
+heroImage: "/images/Haunted-hotels-savannah-marshall-house.jpg"
 heroImageAlt: "The Marshall House Savannah Georgia"
 category: "Family-Friendly Haunted Hotels"
 tags: ["Family-Friendly Haunted Hotels", "Haunted Places", "Hot Georgia", "Hot United States", "Featured"]
@@ -99,6 +99,6 @@ If you would like to see more of what Georgia has to offer, check out our [**Geo
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="👻✨ Looking for a spooky and stylish family getaway? These haunted hotels in Savannah, Georgia mix Southern charm with spine-tingling stories—perfect for adventurous families who love a little ghostly fun with their history! #FamilyTravelWithATwist #HauntedHotels #SavannahGeorgia #FamilyAdventure">[![most haunted hotels in savannah georgia](https://hotmamatravel.com/wp-content/uploads/2022/12/Haunted-Hotels-in-Savannah-Georgia-for-Families-200x300.jpg)](/images/2022/12/Haunted-Hotels-in-Savannah-Georgia-for-Families.jpg)</figure>
+<figure data-essb-pin-description="👻✨ Looking for a spooky and stylish family getaway? These haunted hotels in Savannah, Georgia mix Southern charm with spine-tingling stories—perfect for adventurous families who love a little ghostly fun with their history! #FamilyTravelWithATwist #HauntedHotels #SavannahGeorgia #FamilyAdventure">[![most haunted hotels in savannah georgia](https://hotmamatravel.com/wp-content/uploads/2022/12/Haunted-Hotels-in-Savannah-Georgia-for-Families-200x300.jpg)](/images/Haunted-Hotels-in-Savannah-Georgia-for-Families.jpg)</figure>
 </div></div>
 

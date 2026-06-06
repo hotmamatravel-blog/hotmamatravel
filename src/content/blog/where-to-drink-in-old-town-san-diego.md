@@ -3,7 +3,7 @@ title: "Where to Drink in Old Town San Diego"
 description: ""
 pubDate: 2016-11-03
 updatedDate: 2019-06-19
-heroImage: "/images/2014/07/IMG_4242-1024x768.jpg"
+heroImage: "/images/IMG_4242-1024x768.jpg"
 heroImageAlt: "Where to drink in Old San Diego"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels"]
@@ -55,7 +55,7 @@ With a great selection of tequila and scrumptious street tacos, this makes for a
 
 If you love tequila or really want to try, I encourage you to check out this place. They have over 2000 different tequilas displayed throughout the restaurant, making it a tequila museum of sorts. They even have their own brand of tequila. It is up a ways from the main plaza and not extremely kid- friendly, so we don’t make trek up there often.
 
-[![Where to drink in Old San Diego](https://hotmamatravel.com/wp-content/uploads/2014/06/El-Agave-2-1024x667.jpg)](/images/2014/06/El-Agave-2.jpg)
+[![Where to drink in Old San Diego](https://hotmamatravel.com/wp-content/uploads/2014/06/El-Agave-2-1024x667.jpg)](/images/El-Agave-2.jpg)
 
 ## Tequila Factory:
 

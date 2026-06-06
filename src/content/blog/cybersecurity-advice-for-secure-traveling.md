@@ -1,6 +1,6 @@
 ---
 title: "Essential Cybersecurity Advice for Secure Traveling"
-heroImage: "/images/2023/08/cyber-security-while-traveling.jpg"
+heroImage: "/images/cyber-security-while-traveling.jpg"
 heroImageAlt: "Essential Cybersecurity Advice for Secure Traveling"
 description: ""
 pubDate: 2023-08-21

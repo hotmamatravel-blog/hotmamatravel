@@ -1,6 +1,6 @@
 ---
 title: "Best Of Georgia Family Travel"
-heroImage: "/images/2019/11/paris-market-savannah-georgia.jpg"
+heroImage: "/images/paris-market-savannah-georgia.jpg"
 heroImageAlt: "Best Of Georgia Family Travel"
 description: ""
 pubDate: 2025-10-17

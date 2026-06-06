@@ -1,6 +1,6 @@
 ---
 title: "Christmas Getaways for Families"
-heroImage: "/images/2024/01/family-christmas-vacations.jpg"
+heroImage: "/images/family-christmas-vacations.jpg"
 heroImageAlt: "Christmas Getaways for Families"
 description: ""
 pubDate: 2024-01-03

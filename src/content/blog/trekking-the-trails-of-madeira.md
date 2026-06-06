@@ -1,6 +1,6 @@
 ---
 title: "Trekking the Trails of Madeira: A Blend of Culture and Natural Beauty"
-heroImage: "/images/2024/05/trekking-madiera.jpg"
+heroImage: "/images/trekking-madiera.jpg"
 heroImageAlt: "Trekking the Trails of Madeira: A Blend of Culture and Natural Beauty"
 description: ""
 pubDate: 2024-05-21

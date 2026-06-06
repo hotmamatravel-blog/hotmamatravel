@@ -3,7 +3,7 @@ title: "Epic Family Road Trip Preview: #Hot Mama Does America"
 description: ""
 pubDate: 2017-05-16
 updatedDate: 2019-07-05
-heroImage: "/images/2017/05/An-Epic-U.S.-683x1024.png"
+heroImage: "/images/An-Epic-U.S.-683x1024.png"
 heroImageAlt: "Epic Family Road Trip"
 category: "Hot Road Trips"
 tags: ["Hot Road Trips"]

@@ -3,7 +3,7 @@ title: "Hot Press & Media"
 description: ""
 pubDate: 2016-12-14
 updatedDate: 2026-05-20
-heroImage: "/images/2016/11/10612559_826331157398907_8983998816816530687_n-150x150.png"
+heroImage: "/images/10612559_826331157398907_8983998816816530687_n-150x150.png"
 heroImageAlt: "Press &amp; Media"
 category: "Family Travel"
 tags: []

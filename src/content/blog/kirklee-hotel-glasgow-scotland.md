@@ -3,7 +3,7 @@ title: "Hotel Spotlight: Family review of The Kirklee Hotel in Glasgow, Scotland
 description: ""
 pubDate: 2017-04-18
 updatedDate: 2025-06-01
-heroImage: "/images/2015/07/DSCN9475-1024x768.jpg"
+heroImage: "/images/DSCN9475-1024x768.jpg"
 heroImageAlt: "The Kirklee Hotel Glasgow Scotland"
 category: "Hot Europe"
 tags: ["Hot Europe"]

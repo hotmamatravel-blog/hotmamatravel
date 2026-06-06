@@ -3,7 +3,7 @@ title: "Ultimate Guide to Big Bear with Kids"
 description: ""
 pubDate: 2016-07-30
 updatedDate: 2019-06-19
-heroImage: "/images/2012/11/RSCN7240-1024x683.jpg"
+heroImage: "/images/RSCN7240-1024x683_201211.jpg"
 heroImageAlt: "Big Bear with kids"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot United States"]
@@ -16,7 +16,7 @@ author: "Amanda Keeley-Thurman"
 Escaping to the mountains is exactly that, an escape. The surrounding nature, the crisp fresh air and the simplistic way of life instantly melts way the any pent-up stress. Whether it’s a romantic weekend with that special someone or an action-packed adventure with the family, Big Bear has all the ingredients for a fantastic getaway. Here is my guide to Big Bear with kids.
 
 
-[![Big Bear with kids](https://hotmamatravel.com/wp-content/uploads/2012/11/RSCN7240-1024x683.jpg)](/images/2012/11/RSCN7240.jpg) **Our family at Big Bear Lake**
+[![Big Bear with kids](https://hotmamatravel.com/wp-content/uploads/2012/11/RSCN7240-1024x683.jpg)](/images/RSCN7240.jpg) **Our family at Big Bear Lake**
 
 ## ***Money Saving Tip***
 
@@ -33,7 +33,7 @@ Whether you choose to stay in a cabin, a resort or rough it camping, there are a
 
 The price range varies depending on the owner, the size of cabin and the season rented, but you can find some really great specials. Usually when dealing with cabin rentals, owners are eager to have their cabin rented so they will offer incentives for guests such as free lift tickets. For someone like my husband, who loves to snowboard, this is the perfect type of enticement.
 
-[![Big Bear cabin with baby in snow](https://hotmamatravel.com/wp-content/uploads/2012/12/P1010081-1024x768.jpg)](/images/2012/12/P1010081.jpg) **Our cabin: Mama Bear**
+[![Big Bear cabin with baby in snow](https://hotmamatravel.com/wp-content/uploads/2012/12/P1010081-1024x768.jpg)](/images/P1010081.jpg) **Our cabin: Mama Bear**
 
 ### ***Hot Mama’s Picks:***
 
@@ -102,7 +102,7 @@ First thing I love about Big Bear Mountain Brewery is that they brew their own b
 
 We all know that drinking at home is way more cost-effective than drinking out, but what makes this liquor store totally awesome and deserving of a shout out is that they deliver!!
 
-[![Big Bear brewery](https://hotmamatravel.com/wp-content/uploads/2012/12/P1010068-1024x768.jpg)](/images/2012/12/P1010068.jpg)
+[![Big Bear brewery](https://hotmamatravel.com/wp-content/uploads/2012/12/P1010068-1024x768.jpg)](/images/P1010068.jpg)
 
 ## *** Fun Things to do in Big Bear with Kids***
 

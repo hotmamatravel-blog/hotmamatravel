@@ -3,7 +3,7 @@ title: "5 Beautiful Glamping Colorado Spots that you will Love"
 description: ""
 pubDate: 2023-06-27
 updatedDate: 2025-10-12
-heroImage: "/images/2021/07/echo-canyon-campground-glamping-colorado.jpg"
+heroImage: "/images/echo-canyon-campground-glamping-colorado.jpg"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Hot Colorado", "Hot United States", "Featured"]
 wpId: 14730
@@ -68,7 +68,7 @@ Onsite, each tent gets two bikes for exploring the campsite or taking on nearby 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2bf6881f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="piney-river-ranch-glamping-colorado">[![](https://hotmamatravel.com/wp-content/uploads/2021/07/piney-river-ranch-glamping-colorado-1024x573.jpg)](/images/2021/07/piney-river-ranch-glamping-colorado.jpg)</figure>
+<figure id="piney-river-ranch-glamping-colorado">[![](https://hotmamatravel.com/wp-content/uploads/2021/07/piney-river-ranch-glamping-colorado-1024x573.jpg)](/images/piney-river-ranch-glamping-colorado.jpg)</figure>
 
 #### [Piney River Ranch](/go/piney-river-ranch-glamping-colorado/)
 
@@ -143,6 +143,6 @@ There’s no doubt that after reading about these amazing glamping Colorado site
 
 **Like it? Pin it!**
 
-<figure id="5-best-tent-glamping-colorado">[![](https://hotmamatravel.com/wp-content/uploads/2021/07/5-best-tent-glamping-colorado-200x300.jpg)](/images/2021/07/5-best-tent-glamping-colorado.jpg)</figure>
+<figure id="5-best-tent-glamping-colorado">[![](https://hotmamatravel.com/wp-content/uploads/2021/07/5-best-tent-glamping-colorado-200x300.jpg)](/images/5-best-tent-glamping-colorado.jpg)</figure>
 </div></section>
 

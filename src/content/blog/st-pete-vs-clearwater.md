@@ -2,7 +2,7 @@
 title: "St. Pete vs Clearwater Which Family Beach Wins?"
 description: ""
 pubDate: 2025-02-14
-heroImage: "/images/2025/02/ST.-PETE-VS-CLEARWATER-1-200x300.jpg"
+heroImage: "/images/ST.-PETE-VS-CLEARWATER-1-200x300.jpg"
 heroImageAlt: "St. Pete vs. Clearwater which beach is best for families?"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot Florida", "Hot St. Pete Beach", "Hot United States", "Featured"]
@@ -94,5 +94,5 @@ To plan the ultimate Florida vacation, check out our other[Florida family travel
 
 Like it? Pin it!
 
-<figure id="st-pete-vs-clearwater">[![St. Pete vs. Clearwater which beach is best for families?](https://hotmamatravel.com/wp-content/uploads/2025/02/ST.-PETE-VS-CLEARWATER-1-200x300.jpg)](/images/2025/02/ST.-PETE-VS-CLEARWATER-1.jpg)</figure>
+<figure id="st-pete-vs-clearwater">[![St. Pete vs. Clearwater which beach is best for families?](https://hotmamatravel.com/wp-content/uploads/2025/02/ST.-PETE-VS-CLEARWATER-1-200x300.jpg)](/images/ST.-PETE-VS-CLEARWATER-1.jpg)</figure>
 </div></div>

@@ -3,7 +3,7 @@ title: "Best Things to Do in Vancouver with Kids 2026"
 description: ""
 pubDate: 2026-05-08
 updatedDate: 2026-06-02
-heroImage: "/images/2018/10/gastown-vancouver.jpg"
+heroImage: "/images/gastown-vancouver.jpg"
 heroImageAlt: "Gastown Vancouver with kids"
 category: "Hot Canada"
 tags: ["Hot Canada", "Hot Family Travels"]
@@ -231,5 +231,5 @@ Discover the best things to do in Vancouver with kids, family-friendly restauran
 
 Because family vacations should be fun for parents too.
 
-#VancouverWithKids #VancouverBC #FamilyTravel #CanadaWithKids #FamilyVacationIdeas #ThingsToDoInVancouver #VancouverTravel #CanadaTravel #FamilyTravelBlog #TravelWithKids #Gastown #CapilanoSuspensionBridge #HotMamaTravel">[![Things to do in Vancouver with kids](https://hotmamatravel.com/wp-content/uploads/2018/10/Family-Guide-Vancouver-with-kids-200x300.jpg)](/images/2018/10/Family-Guide-Vancouver-with-kids.jpg)</figure>
+#VancouverWithKids #VancouverBC #FamilyTravel #CanadaWithKids #FamilyVacationIdeas #ThingsToDoInVancouver #VancouverTravel #CanadaTravel #FamilyTravelBlog #TravelWithKids #Gastown #CapilanoSuspensionBridge #HotMamaTravel">[![Things to do in Vancouver with kids](https://hotmamatravel.com/wp-content/uploads/2018/10/Family-Guide-Vancouver-with-kids-200x300.jpg)](/images/Family-Guide-Vancouver-with-kids.jpg)</figure>
 </div></div>

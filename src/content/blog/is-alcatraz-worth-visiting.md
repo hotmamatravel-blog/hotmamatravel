@@ -3,7 +3,7 @@ title: "Is Alcatraz Worth Visiting in 2025? Ghosts &amp; Family Tips"
 description: ""
 pubDate: 2023-09-12
 updatedDate: 2025-09-27
-heroImage: "/images/2023/09/military-fort-alcatraz.jpg"
+heroImage: "/images/military-fort-alcatraz.jpg"
 heroImageAlt: "Cannon at Alcatraz "
 category: "Haunted Places"
 tags: ["Haunted Places", "Hot California", "Hot United States", "Featured"]
@@ -374,5 +374,5 @@ So, if you're seeking an adventure that combines history, intrigue, and breathta
 
 Like it? Pin it!
 
-<figure>[![Is Visiting Alcatraz Worth it with kids?](https://hotmamatravel.com/wp-content/uploads/2023/09/is-visiting-alcatraz-worth-it-hauntings-escapes-tips-200x300.jpg)](/images/2023/09/is-visiting-alcatraz-worth-it-hauntings-escapes-tips.jpg)</figure>
+<figure>[![Is Visiting Alcatraz Worth it with kids?](https://hotmamatravel.com/wp-content/uploads/2023/09/is-visiting-alcatraz-worth-it-hauntings-escapes-tips-200x300.jpg)](/images/is-visiting-alcatraz-worth-it-hauntings-escapes-tips.jpg)</figure>
 </div></div>

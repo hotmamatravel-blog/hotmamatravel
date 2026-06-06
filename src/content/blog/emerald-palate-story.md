@@ -3,7 +3,7 @@ title: "How a police escort saved my family going to NYC in the dead of night"
 description: ""
 pubDate: 2019-01-06
 updatedDate: 2019-07-04
-heroImage: "/images/2019/01/Family-travel-uncensored-Adria-Saracino-683x1024.jpg"
+heroImage: "/images/Family-travel-uncensored-Adria-Saracino-683x1024.jpg"
 heroImageAlt: "How a police escort saved my family going to NYC in the dead of night"
 category: "Family Travel Uncensored"
 tags: ["Family Travel Uncensored"]

@@ -3,7 +3,7 @@ title: "Best Las Vegas With Baby FAQ + 2 Day Itinerary 2026"
 description: ""
 pubDate: 2024-01-26
 updatedDate: 2026-03-25
-heroImage: "/images/2019/01/kids-luxor-las-vegas-interaction.gif"
+heroImage: "/images/kids-luxor-las-vegas-interaction.gif"
 heroImageAlt: "Kids playing in Las Vegas"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]
@@ -181,5 +181,5 @@ Like it? Pin it!
 
 Save this for your next trip and head to HotMamaTravel.com for the full itinerary and family travel tips.
 
-#VegasWithBaby #FamilyTravelTips #LasVegasWithKids #TravelWithBaby #HotMamaTravel">[![vegas with baby faq itinerary](https://hotmamatravel.com/wp-content/uploads/2024/01/Vegas-with-baby-FAQ-and-itinerary-200x300.jpg)](/images/2024/01/Vegas-with-baby-FAQ-and-itinerary.jpg)</figure>
+#VegasWithBaby #FamilyTravelTips #LasVegasWithKids #TravelWithBaby #HotMamaTravel">[![vegas with baby faq itinerary](https://hotmamatravel.com/wp-content/uploads/2024/01/Vegas-with-baby-FAQ-and-itinerary-200x300.jpg)](/images/Vegas-with-baby-FAQ-and-itinerary.jpg)</figure>
 </div></div>

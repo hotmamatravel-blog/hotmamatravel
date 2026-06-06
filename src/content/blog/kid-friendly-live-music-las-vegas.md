@@ -3,7 +3,7 @@ title: "6 Rocking Kid Friendly Live Music Las Vegas Restaurants 2026"
 description: ""
 pubDate: 2024-05-02
 updatedDate: 2026-03-25
-heroImage: "/images/2024/05/nine-fine-irishmen-las-vegas.jpg"
+heroImage: "/images/nine-fine-irishmen-las-vegas.jpg"
 heroImageAlt: "Kid friendly live music las vegas Nine Fine Irishmen"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]
@@ -133,5 +133,5 @@ Like it? Pin it!
 
 <figure id="kid-friendly-live-music-las-vegas" data-essb-pin-description="Looking for kid-friendly live music in Las Vegas? Yes, it exists—and it’s actually fun for parents too. 🎶✨ From family-friendly shows and interactive concerts to outdoor live music venues and holiday performances, Las Vegas offers plenty of ways to enjoy live entertainment with kids. This guide shares the best live music experiences for families visiting Las Vegas, including shows that welcome children, daytime performances, and venues perfect for all ages. Whether you’re planning a Vegas family vacation, traveling with toddlers or teens, or searching for unique things to do in Las Vegas with kids, this list makes it easy to plan unforgettable music-filled memories.
 
-#LasVegasWithKids #KidFriendlyVegas #FamilyTravelVegas #LasVegasFamilyVacation #LiveMusicVegas #FamilyFriendlyActivities #ThingsToDoInLasVegasWithKids #HotMamaTravel">[![Las Vegas Restaurants with Live Music for kids](https://hotmamatravel.com/wp-content/uploads/2024/05/Best-Kid-Friendly-Las-Vegas-Restaurants-With-Live-Music-200x300.jpg)](/images/2024/05/Best-Kid-Friendly-Las-Vegas-Restaurants-With-Live-Music.jpg)</figure>
+#LasVegasWithKids #KidFriendlyVegas #FamilyTravelVegas #LasVegasFamilyVacation #LiveMusicVegas #FamilyFriendlyActivities #ThingsToDoInLasVegasWithKids #HotMamaTravel">[![Las Vegas Restaurants with Live Music for kids](https://hotmamatravel.com/wp-content/uploads/2024/05/Best-Kid-Friendly-Las-Vegas-Restaurants-With-Live-Music-200x300.jpg)](/images/Best-Kid-Friendly-Las-Vegas-Restaurants-With-Live-Music.jpg)</figure>
 </div></div>

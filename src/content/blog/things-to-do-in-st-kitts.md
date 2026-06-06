@@ -2,7 +2,7 @@
 title: "10 Amazing Things To Do In St Kitts"
 description: ""
 pubDate: 2023-01-05
-heroImage: "/images/2023/01/Brimstone-Hill-Fortress-National-Park.jpg"
+heroImage: "/images/Brimstone-Hill-Fortress-National-Park.jpg"
 category: "Hot Caribbean"
 tags: ["Hot Caribbean", "Featured"]
 wpId: 16594
@@ -171,5 +171,5 @@ St Kitts &amp; Nevis is truly a gem in the Caribbean that gives you the opportun
 
 **Like it? Pin it!**
 
-<figure id="things-to-do-in-st-kitts">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/10-things-to-do-st-kitts-200x300.jpg)](/images/2023/01/10-things-to-do-st-kitts.jpg)</figure>
+<figure id="things-to-do-in-st-kitts">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/10-things-to-do-st-kitts-200x300.jpg)](/images/10-things-to-do-st-kitts.jpg)</figure>
 </div></section>

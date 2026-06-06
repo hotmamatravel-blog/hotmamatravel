@@ -3,7 +3,7 @@ title: "Tips For Prefect Cross-Country Move Planning"
 description: ""
 pubDate: 2023-12-21
 updatedDate: 2025-05-31
-heroImage: "/images/2023/12/tips-for-perfect-cross-country-move-planning-200x300.jpg"
+heroImage: "/images/tips-for-perfect-cross-country-move-planning-200x300.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership"]
 wpId: 19719
@@ -67,5 +67,5 @@ In conclusion, orchestrating the perfect cross-country move requires meticulous 
 
 Like it? Pin it!
 
-<figure id="tips-for-perfect-cross-country-move-planning">[![](https://hotmamatravel.com/wp-content/uploads/2023/12/tips-for-perfect-cross-country-move-planning-200x300.jpg)](/images/2023/12/tips-for-perfect-cross-country-move-planning.jpg)</figure>
+<figure id="tips-for-perfect-cross-country-move-planning">[![](https://hotmamatravel.com/wp-content/uploads/2023/12/tips-for-perfect-cross-country-move-planning-200x300.jpg)](/images/tips-for-perfect-cross-country-move-planning.jpg)</figure>
 </div></div>

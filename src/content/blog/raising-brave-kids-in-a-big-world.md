@@ -3,7 +3,7 @@ title: "No Fear and Family Travel: Raising Brave Kids in a Big World"
 description: ""
 pubDate: 2016-12-10
 updatedDate: 2019-06-19
-heroImage: "/images/2016/06/IMG_6528-768x1024.jpg"
+heroImage: "/images/IMG_6528-768x1024.jpg"
 heroImageAlt: "No Fear and Family Travel: Raising Brave kids in a big world"
 category: "Hot Tips"
 tags: ["Hot Tips"]

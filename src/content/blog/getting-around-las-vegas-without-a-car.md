@@ -3,7 +3,7 @@ title: "Getting Around Las Vegas Without A Car For Families 2026"
 description: ""
 pubDate: 2024-06-24
 updatedDate: 2026-03-25
-heroImage: "/images/2024/06/map-free-las-vegas-monorail.jpg"
+heroImage: "/images/map-free-las-vegas-monorail.jpg"
 heroImageAlt: "map of free las vegas monorail"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]
@@ -195,5 +195,5 @@ Also, check out our other [**Las Vegas family travel guides**](/family-friendly-
 
 Like it? Pin it!
 
-<figure id="getting-around-las-vegas-without-a-car-for-families">[![Tips For Getting Around Las Vegas Without A Car for Families](https://hotmamatravel.com/wp-content/uploads/2024/06/getting-around-las-vegas-without-a-car-for-families-200x300.jpg)](/images/2024/06/getting-around-las-vegas-without-a-car-for-families.jpg)</figure>
+<figure id="getting-around-las-vegas-without-a-car-for-families">[![Tips For Getting Around Las Vegas Without A Car for Families](https://hotmamatravel.com/wp-content/uploads/2024/06/getting-around-las-vegas-without-a-car-for-families-200x300.jpg)](/images/getting-around-las-vegas-without-a-car-for-families.jpg)</figure>
 </div></div>

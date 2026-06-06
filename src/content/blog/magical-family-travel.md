@@ -3,7 +3,7 @@ title: "Magical Family Travel. Do You Believe in Magic?"
 description: ""
 pubDate: 2016-09-10
 updatedDate: 2019-06-19
-heroImage: "/images/2014/04/IMG_4517-1024x1024.jpg"
+heroImage: "/images/IMG_4517-1024x1024.jpg"
 heroImageAlt: "magical family travel"
 category: "Hot Tips"
 tags: ["Hot Tips"]

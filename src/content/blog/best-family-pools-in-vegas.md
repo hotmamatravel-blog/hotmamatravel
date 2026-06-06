@@ -3,7 +3,7 @@ title: "10 Best Family Pools in Vegas for Kids 2026"
 description: ""
 pubDate: 2024-06-03
 updatedDate: 2026-03-25
-heroImage: "/images/2023/02/mandalay-bay-lazy-river-things-to-do-in-vegas-pregnant.jpg"
+heroImage: "/images/mandalay-bay-lazy-river-things-to-do-in-vegas-pregnant.jpg"
 heroImageAlt: "best Family Pools in Vegas Mandalay Bay"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]
@@ -194,6 +194,6 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 **Like it? Pin it!**
 
-<figure id="best-family-pools-las-vegas" data-essb-pin-description="Best Family Pools in Las Vegas">[![Best Family Pools in Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/07/best-family-pools-las-vegas-200x300.jpg)](/images/2023/07/best-family-pools-las-vegas.jpg)</figure>
+<figure id="best-family-pools-las-vegas" data-essb-pin-description="Best Family Pools in Las Vegas">[![Best Family Pools in Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/07/best-family-pools-las-vegas-200x300.jpg)](/images/best-family-pools-las-vegas.jpg)</figure>
 </div></section>
 

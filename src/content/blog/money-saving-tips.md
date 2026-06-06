@@ -1,6 +1,6 @@
 ---
 title: "Money Saving Tips For The Traveler"
-heroImage: "/images/2017/03/money-saving-tips-for-travelers.png"
+heroImage: "/images/money-saving-tips-for-travelers.png"
 heroImageAlt: "Money Saving Tips For The Traveler"
 description: ""
 pubDate: 2017-03-30

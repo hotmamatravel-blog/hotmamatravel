@@ -3,7 +3,7 @@ title: "Ultimate Guide to Knott's Berry Farm with Kids"
 description: ""
 pubDate: 2016-07-18
 updatedDate: 2025-11-06
-heroImage: "/images/2014/06/DSCN1066-1024x683.jpg"
+heroImage: "/images/DSCN1066-1024x683.jpg"
 heroImageAlt: "Knott"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot Orange County", "Hot United States"]

@@ -1,6 +1,6 @@
 ---
 title: "Cast of Characters"
-heroImage: "/images/2015/03/HEADER-Scotland.jpg"
+heroImage: "/images/HEADER-Scotland.jpg"
 heroImageAlt: "Cast of Characters"
 description: ""
 pubDate: 2015-03-02

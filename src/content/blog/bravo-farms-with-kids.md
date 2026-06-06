@@ -3,7 +3,7 @@ title: "Family Activities at Bravo Farms with Kids"
 description: ""
 pubDate: 2016-07-11
 updatedDate: 2025-04-14
-heroImage: "/images/2014/07/DSCN0655-1024x682.jpg"
+heroImage: "/images/DSCN0655-1024x682.jpg"
 heroImageAlt: "Little Girl feeding cows"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot United States"]

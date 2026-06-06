@@ -3,7 +3,7 @@ title: "Top Things to do in Temecula for a Fun Family Getaway!"
 description: ""
 pubDate: 2021-06-15
 updatedDate: 2022-09-29
-heroImage: "/images/2022/09/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg"
+heroImage: "/images/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg"
 heroImageAlt: "Get your VinArmour wine travel case today"
 category: "Hot California"
 tags: ["Hot California", "Hot United States", "Featured"]
@@ -339,5 +339,5 @@ Wow, that’s a lot of fun for one little town right? Next time you are looking 
 
 **Like it? Pin it!**
 
-<figure id="best-things-to-do-in-temecula-ca">[![](https://hotmamatravel.com/wp-content/uploads/2021/06/best-things-to-do-in-temecula-ca-200x300.jpg)](/images/2021/06/best-things-to-do-in-temecula-ca.jpg)</figure>
+<figure id="best-things-to-do-in-temecula-ca">[![](https://hotmamatravel.com/wp-content/uploads/2021/06/best-things-to-do-in-temecula-ca-200x300.jpg)](/images/best-things-to-do-in-temecula-ca.jpg)</figure>
 </div></section>

@@ -2,7 +2,7 @@
 title: "New York's Five Boroughs: A Treasure Trove of Experiences"
 description: ""
 pubDate: 2023-06-09
-heroImage: "/images/2023/06/manhattan-new-york-five-boroughs.jpg"
+heroImage: "/images/manhattan-new-york-five-boroughs.jpg"
 category: "Hot New York"
 tags: ["Hot New York", "Hot United States", "Featured"]
 wpId: 18195

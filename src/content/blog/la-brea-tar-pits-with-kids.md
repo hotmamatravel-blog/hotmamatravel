@@ -3,7 +3,7 @@ title: "Stepping Back in Time at the La Brea Tar Pits with Kids"
 description: ""
 pubDate: 2016-09-01
 updatedDate: 2019-06-19
-heroImage: "/images/2016/09/IMG_3566-1024x1024.jpg"
+heroImage: "/images/IMG_3566-1024x1024.jpg"
 heroImageAlt: "La Brea Tar Pits with kids"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot United States"]

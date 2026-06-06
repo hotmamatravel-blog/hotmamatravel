@@ -3,7 +3,7 @@ title: "12 Best Las Vegas Shows For Teens 2026 That Will Blow Their Minds!"
 description: ""
 pubDate: 2024-03-07
 updatedDate: 2026-03-25
-heroImage: "/images/2020/03/criss-angel-mindfreak-planet-hollywood.jpg"
+heroImage: "/images/criss-angel-mindfreak-planet-hollywood.jpg"
 heroImageAlt: "Criss Angel Mindfreak best Las Vegas shows for teens"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]
@@ -263,5 +263,5 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 Like it? Pin it!
 
-<figure id="best-shows-in-las-vegas-for-teens">[![](https://hotmamatravel.com/wp-content/uploads/2024/03/best-shows-in-las-vegas-for-teens-200x300.jpg)](/images/2024/03/best-shows-in-las-vegas-for-teens.jpg)</figure>
+<figure id="best-shows-in-las-vegas-for-teens">[![](https://hotmamatravel.com/wp-content/uploads/2024/03/best-shows-in-las-vegas-for-teens-200x300.jpg)](/images/best-shows-in-las-vegas-for-teens.jpg)</figure>
 </div></div>

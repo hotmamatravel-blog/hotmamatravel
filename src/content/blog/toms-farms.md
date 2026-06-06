@@ -3,7 +3,7 @@ title: "How to Spend a Cheap Fun Day at Tom's Farms"
 description: ""
 pubDate: 2015-10-26
 updatedDate: 2025-04-14
-heroImage: "/images/2015/10/DSCN9952-683x1024.jpg"
+heroImage: "/images/DSCN9952-683x1024.jpg"
 heroImageAlt: "Tom"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot United States"]

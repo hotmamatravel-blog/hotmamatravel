@@ -3,7 +3,7 @@ title: "7 Haunted Places With Kids for Spooky Families 2025"
 description: ""
 pubDate: 2019-08-19
 updatedDate: 2025-10-30
-heroImage: "/images/2019/08/eastern-state-penitentiary-.jpg"
+heroImage: "/images/eastern-state-penitentiary-.jpg"
 heroImageAlt: "Eastern State Penitentiary "
 category: "Haunted Places"
 tags: ["Haunted Places", "Hot Arizona", "Hot California", "Hot Georgia", "Hot Pennsylvania", "Hot Tips", "Hot United States"]
@@ -377,5 +377,5 @@ So if theme parks and beach resorts have started to feel a little *been there, d
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Looking for haunted places with kids that mix history, mystery, and a little mayhem? These spooky family adventures are unforgettable, ghosts included! #familytravel #hauntedplaces #spookytravel">[![Best haunted places to visit with kids](https://hotmamatravel.com/wp-content/uploads/2019/08/best-haunted-places-with-kids-200x300.jpg)](/images/2019/08/best-haunted-places-with-kids.jpg)</figure>
+<figure data-essb-pin-description="Looking for haunted places with kids that mix history, mystery, and a little mayhem? These spooky family adventures are unforgettable, ghosts included! #familytravel #hauntedplaces #spookytravel">[![Best haunted places to visit with kids](https://hotmamatravel.com/wp-content/uploads/2019/08/best-haunted-places-with-kids-200x300.jpg)](/images/best-haunted-places-with-kids.jpg)</figure>
 </div></div>

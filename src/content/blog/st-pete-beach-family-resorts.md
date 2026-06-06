@@ -3,7 +3,7 @@ title: "Best St Pete Beach Family Resorts Your Kids will Love"
 description: ""
 pubDate: 2023-04-03
 updatedDate: 2023-03-30
-heroImage: "/images/2023/03/tradewinds-island-grand-st-pete-beach-family-resorts.jpg"
+heroImage: "/images/tradewinds-island-grand-st-pete-beach-family-resorts.jpg"
 category: "Hot Florida"
 tags: ["Hot Florida", "Hot United States", "Featured"]
 wpId: 17382
@@ -168,5 +168,5 @@ For a full guide on visiting St. Petersburg, Florida, see our [Things to do in S
 
 **Like it? Pin it!**
 
-<figure id="best-st-pete-beach-family-resorts">[![](https://hotmamatravel.com/wp-content/uploads/2023/03/best-st-pete-beach-family-resorts-200x300.jpg)](/images/2023/03/best-st-pete-beach-family-resorts.jpg)</figure>
+<figure id="best-st-pete-beach-family-resorts">[![](https://hotmamatravel.com/wp-content/uploads/2023/03/best-st-pete-beach-family-resorts-200x300.jpg)](/images/best-st-pete-beach-family-resorts.jpg)</figure>
 </div></section>

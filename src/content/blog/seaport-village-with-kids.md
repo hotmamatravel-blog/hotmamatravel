@@ -3,7 +3,7 @@ title: "Family Guide to San Diego's Seaport Village with kids - Where to eat, st
 description: ""
 pubDate: 2017-03-25
 updatedDate: 2019-07-05
-heroImage: "/images/2016/01/DSCN1761-1024x684.jpg"
+heroImage: "/images/DSCN1761-1024x684.jpg"
 heroImageAlt: "family at Seaport Village"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot United States"]
@@ -80,7 +80,7 @@ One time a bird-man offered to let my nephew "hold" his birds for a tip. It made
 
 Ever see those people who look like statues and then bust into a robot dance? Well, while visiting Seaport Village, there was a man painted silver. He stood completely still for a long time until FireCracker felt safe enough to approach him. Once she touched him, he moved his hand and sent her running in fear. Luckily, HotDaddy got the whole thing on camera!! We laughed forever about this one.
 
-[![Seaport Village street performer for Kids](https://hotmamatravel.com/wp-content/uploads/2016/01/seaport-1024x1024.jpg)](/images/2016/01/seaport.jpg)
+[![Seaport Village street performer for Kids](https://hotmamatravel.com/wp-content/uploads/2016/01/seaport-1024x1024.jpg)](/images/seaport.jpg)
 
 What kids doesn't like sweet treats? There are a few different sweet shops, but Frost Me Gourmet Cupcakes has an aroma that will lure you in.
 
@@ -95,6 +95,6 @@ Fun little shops, yummy restaurants and quirky entertainment, make Seaport Villa
 **Like it? Pin it!
 **
 
-[![Seaport Village with Kids](https://hotmamatravel.com/wp-content/uploads/2016/01/SDSPV-1-683x1024.jpg)](/images/2016/01/SDSPV-1.jpg)
+[![Seaport Village with Kids](https://hotmamatravel.com/wp-content/uploads/2016/01/SDSPV-1-683x1024.jpg)](/images/SDSPV-1.jpg)
 
 **&nbsp;**

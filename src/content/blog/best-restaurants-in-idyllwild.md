@@ -3,7 +3,7 @@ title: "9 Best Restaurants In Idyllwild For Families 2026"
 description: ""
 pubDate: 2024-01-24
 updatedDate: 2026-02-05
-heroImage: "/images/2023/06/gastrognome-restaurants-in-idyllwild.jpg"
+heroImage: "/images/gastrognome-restaurants-in-idyllwild.jpg"
 heroImageAlt: "family friendly gastrognome best restaurants in Idyllwild"
 category: "Hot California"
 tags: ["Hot California", "Hot United States", "Featured"]
@@ -163,6 +163,6 @@ And if California is calling your name for more family travel escapades, explore
 
 Like it? Pin it!
 
-<figure id="best-restaurants-in-idyllwild-for-families-and-fun">[![Best Restaurants in Idyllwild Families will Love #idyllwild #idyllwildrestaurants #familytravel ](https://hotmamatravel.com/wp-content/uploads/2024/01/best-restaurants-in-idyllwild-for-families-and-fun-200x300.jpg)](/images/2024/01/best-restaurants-in-idyllwild-for-families-and-fun.jpg)</figure>
+<figure id="best-restaurants-in-idyllwild-for-families-and-fun">[![Best Restaurants in Idyllwild Families will Love #idyllwild #idyllwildrestaurants #familytravel ](https://hotmamatravel.com/wp-content/uploads/2024/01/best-restaurants-in-idyllwild-for-families-and-fun-200x300.jpg)](/images/best-restaurants-in-idyllwild-for-families-and-fun.jpg)</figure>
 </div></div>
 

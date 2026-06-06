@@ -3,7 +3,7 @@ title: "Tips to Make Moving from One State to Another Easier"
 description: ""
 pubDate: 2023-10-05
 updatedDate: 2025-06-01
-heroImage: "/images/2023/10/tips-for-moving-to-another-state-200x300.jpg"
+heroImage: "/images/tips-for-moving-to-another-state-200x300.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership"]
 wpId: 19149
@@ -129,5 +129,5 @@ By following these tips, you can ensure that your move to Fort Lauderdale is as 
 
 Like it? Pin it!
 
-<figure id="tips-for-moving-to-another-state">[![](https://hotmamatravel.com/wp-content/uploads/2023/10/tips-for-moving-to-another-state-200x300.jpg)](/images/2023/10/tips-for-moving-to-another-state.jpg)</figure>
+<figure id="tips-for-moving-to-another-state">[![](https://hotmamatravel.com/wp-content/uploads/2023/10/tips-for-moving-to-another-state-200x300.jpg)](/images/tips-for-moving-to-another-state.jpg)</figure>
 </div></div>

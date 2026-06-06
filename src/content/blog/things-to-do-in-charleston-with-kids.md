@@ -3,7 +3,7 @@ title: "Awesome Things to do in Charleston SC with Kids the Family will Love"
 description: ""
 pubDate: 2021-03-03
 updatedDate: 2023-09-20
-heroImage: "/images/2021/02/charleston-city-market-charleston-sc.jpg"
+heroImage: "/images/charleston-city-market-charleston-sc.jpg"
 category: "Hot South Carolina"
 tags: ["Hot South Carolina", "Hot United States", "Featured"]
 wpId: 14252
@@ -664,5 +664,5 @@ Charleston is an amazing city and I hope this list helps to make your trip extra
 
 **Like it? Pin it!**
 
-<figure id="things-to-do-charleston-with-kids">[![](https://hotmamatravel.com/wp-content/uploads/2021/02/things-to-do-charleston-with-kids-200x300.png)](/images/2021/02/things-to-do-charleston-with-kids.png)</figure>
+<figure id="things-to-do-charleston-with-kids">[![](https://hotmamatravel.com/wp-content/uploads/2021/02/things-to-do-charleston-with-kids-200x300.png)](/images/things-to-do-charleston-with-kids.png)</figure>
 </div></section>

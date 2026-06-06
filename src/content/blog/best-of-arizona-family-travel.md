@@ -1,6 +1,6 @@
 ---
 title: "Best of Arizona Family Travel"
-heroImage: "/images/2017/10/Arizona.jpg"
+heroImage: "/images/Arizona.jpg"
 heroImageAlt: "Best of Arizona Family Travel"
 description: ""
 pubDate: 2025-10-09

@@ -3,7 +3,7 @@ title: "10 Insane (But True) Facts About Glasgow"
 description: ""
 pubDate: 2017-04-28
 updatedDate: 2019-06-19
-heroImage: "/images/2015/10/DSCN9440-1024x681.jpg"
+heroImage: "/images/DSCN9440-1024x681.jpg"
 heroImageAlt: "Curlers Rest bar Glasgow"
 category: "Hot Europe"
 tags: ["Hot Europe", "Hot Tips"]
@@ -46,7 +46,7 @@ My best travel rewards and biggest credit limit are on my AMEX card, which is wh
 
 I’m from Southern California and if you don’t have a car, you are pretty much screwed. I absolutely LOVED the public transportation in Glasgow. I had so much freedom!! Cabs are just lined up waiting to take you wherever you want to go and if you call they show up right away. The Subway and trains run like clockwork! Best part? I was able to maneuver around this big city with my kids with ease! Glasgow’s public transportation is clean, inexpensive and efficient.
 
-[![Glasgow Transportation](https://hotmamatravel.com/wp-content/uploads/2015/10/Public-Transport-1024x1024.jpg)](/images/2015/10/Public-Transport.jpg)
+[![Glasgow Transportation](https://hotmamatravel.com/wp-content/uploads/2015/10/Public-Transport-1024x1024.jpg)](/images/Public-Transport.jpg)
 
 ## ***5. Drink the Tap Water!!***
 
@@ -58,7 +58,7 @@ Many places I’ve traveled, you can’t drink the tap water or you will get sic
 
 Did you know that there is a bit of a rivalry between the cities? Is Glasgow friendly and creative or tacky and scruffy? Is Edinburgh snooty and boring or sophisticated? I guess that is for you to decided. When you visit you will notice snarky comments made about either city, depending on where you are visiting. It is kind of funny. For instance, a popular quote you’ll hear is, “The best thing out of Edinburgh is the train back to Glasgow.”Although both cities are amazing, I have to say I felt more comfortable in Glasgow. I found the city well organized, easier to get around and less touristy. They have culture, art, music, university, museums, amazing restaurants and awesome people!
 
-[![Edinburgh vs Glasgow](https://hotmamatravel.com/wp-content/uploads/2015/10/edinburgh-v-Glasgow-1024x512.jpg)](/images/2015/10/edinburgh-v-Glasgow.jpg)
+[![Edinburgh vs Glasgow](https://hotmamatravel.com/wp-content/uploads/2015/10/edinburgh-v-Glasgow-1024x512.jpg)](/images/edinburgh-v-Glasgow.jpg)
 
 ## ***7. Rough and Tough History:***
 

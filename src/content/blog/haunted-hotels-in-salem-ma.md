@@ -3,7 +3,7 @@ title: "4 Spellbinding Haunted Hotels in Salem for Families 2025"
 description: ""
 pubDate: 2022-10-25
 updatedDate: 2025-10-21
-heroImage: "/images/2022/10/Hawthrone-Hotel.jpg"
+heroImage: "/images/Hawthrone-Hotel.jpg"
 heroImageAlt: "Haunted Hawthorne Hotel Salem Ma"
 category: "Family-Friendly Haunted Hotels"
 tags: ["Family-Friendly Haunted Hotels", "Haunted Places", "Hot Massachusetts", "Hot United States", "Featured"]
@@ -117,5 +117,5 @@ So who is ready for a spirited stay at one of these awesome haunted hotels in Sa
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Discover the best haunted hotels in Salem, MA for families! Explore family-friendly spooky stays with ghost stories, history, and New England charm. #SalemTravel #FamilyTravel #HauntedHotels #SpookyGetaway #HotMamaTravel">[![Haunted Hotels Salem MA](https://hotmamatravel.com/wp-content/uploads/2022/10/Haunted-Hotels-Salem--200x300.jpg)](/images/2022/10/Haunted-Hotels-Salem-.jpg)</figure>
+<figure data-essb-pin-description="Discover the best haunted hotels in Salem, MA for families! Explore family-friendly spooky stays with ghost stories, history, and New England charm. #SalemTravel #FamilyTravel #HauntedHotels #SpookyGetaway #HotMamaTravel">[![Haunted Hotels Salem MA](https://hotmamatravel.com/wp-content/uploads/2022/10/Haunted-Hotels-Salem--200x300.jpg)](/images/Haunted-Hotels-Salem-.jpg)</figure>
 </div></div>

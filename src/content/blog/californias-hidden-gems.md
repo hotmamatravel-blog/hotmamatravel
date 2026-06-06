@@ -2,7 +2,7 @@
 title: "Discovering California's Hidden Gems: 11 Unique Activities off the Beaten Path"
 description: ""
 pubDate: 2023-03-10
-heroImage: "/images/2023/03/hot-air-balloon-rides-temecula-california.jpg"
+heroImage: "/images/hot-air-balloon-rides-temecula-california.jpg"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot United States", "Featured"]
 wpId: 17188
@@ -152,5 +152,5 @@ As you can see, California is full of hidden gems waiting to be discovered. Whet
 
 **Like it? Pin it!**
 
-<figure id="unique-off-beaten-path-california-hidden-gems">[![](https://hotmamatravel.com/wp-content/uploads/2023/03/unique-off-beaten-path-california-hidden-gems-200x300.jpg)](/images/2023/03/unique-off-beaten-path-california-hidden-gems.jpg)</figure>
+<figure id="unique-off-beaten-path-california-hidden-gems">[![](https://hotmamatravel.com/wp-content/uploads/2023/03/unique-off-beaten-path-california-hidden-gems-200x300.jpg)](/images/unique-off-beaten-path-california-hidden-gems.jpg)</figure>
 </div></section>

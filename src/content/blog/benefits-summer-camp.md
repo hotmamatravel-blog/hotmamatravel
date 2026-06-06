@@ -3,7 +3,7 @@ title: "13 Benefits of Summer Camp for Busy Moms and Children"
 description: ""
 pubDate: 2022-09-01
 updatedDate: 2025-06-01
-heroImage: "/images/2022/09/engage-and-play.jpg"
+heroImage: "/images/engage-and-play.jpg"
 category: "Guest Blog"
 tags: ["Guest Blog", "Partnership"]
 wpId: 16315
@@ -139,5 +139,5 @@ As a busy mom, you no longer have to worry about your children when schools clos
 
 **Like it? Pin it!**
 
-<figure id="benefits-summer-camp-children">[![](https://hotmamatravel.com/wp-content/uploads/2022/09/13-Benefits-of-Summer-Camp-for-Kids-200x300.jpg)](/images/2022/09/13-Benefits-of-Summer-Camp-for-Kids.jpg)</figure>
+<figure id="benefits-summer-camp-children">[![](https://hotmamatravel.com/wp-content/uploads/2022/09/13-Benefits-of-Summer-Camp-for-Kids-200x300.jpg)](/images/13-Benefits-of-Summer-Camp-for-Kids.jpg)</figure>
 </div></section>

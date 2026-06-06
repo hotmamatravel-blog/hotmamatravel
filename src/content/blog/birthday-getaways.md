@@ -3,7 +3,7 @@ title: "Parenting Tip: Celebrating Life With Birthday Getaways"
 description: ""
 pubDate: 2017-03-16
 updatedDate: 2019-07-05
-heroImage: "/images/2012/07/DSCN0273-1024x768.jpg"
+heroImage: "/images/DSCN0273-1024x768.jpg"
 heroImageAlt: "Birthday Getaways"
 category: "Hot Tips"
 tags: ["Hot Tips"]

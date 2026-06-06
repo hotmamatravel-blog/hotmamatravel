@@ -3,7 +3,7 @@ title: "Guide for Visiting Pretend City Children's Museum in Irvine CA"
 description: ""
 pubDate: 2015-10-29
 updatedDate: 2025-04-14
-heroImage: "/images/2015/10/IMG_9309-e1446149634855-1024x573.jpg"
+heroImage: "/images/IMG_9309-e1446149634855-1024x573.jpg"
 heroImageAlt: "Pretend City"
 category: "Hot California"
 tags: ["Hot California", "Hot Orange County", "Hot United States"]

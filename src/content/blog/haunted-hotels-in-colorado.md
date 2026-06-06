@@ -3,7 +3,7 @@ title: "4 Most Haunted Hotels in Colorado For Families 2025"
 description: ""
 pubDate: 2023-08-30
 updatedDate: 2025-10-12
-heroImage: "/images/2023/08/The-Stanley-Hotel-Haunted-Hotels-Colorado.jpg"
+heroImage: "/images/The-Stanley-Hotel-Haunted-Hotels-Colorado.jpg"
 heroImageAlt: "The Stanley Hotel one of the Most Haunted Hotels in Colorado"
 category: "Family-Friendly Haunted Hotels"
 tags: ["Family-Friendly Haunted Hotels", "Haunted Places", "Hot Colorado", "Hot United States", "Featured"]
@@ -140,12 +140,12 @@ Because in Colorado, adventure never rests… and apparently, neither do the gho
 Like it? Pin it!
 
 <figure id="haunte-hotels-colorado" data-essb-pin-description="Ready for a spooktacular stay in the Rockies? Discover the most haunted hotels in Colorado for families — where ghost stories meet cozy stays! From the legendary Stanley Hotel to elegant haunted hideaways, these family-friendly destinations mix chills, charm, and mountain views.
-#HauntedHotels #FamilyTravel #ColoradoTravel #HauntedColorado #GhostStories #SpookyGetaway #HotMamaTravel">[![Most Haunted Hotels Colorado for Families](https://hotmamatravel.com/wp-content/uploads/2023/08/haunted-hotels-colorado-200x300.jpg)](/images/2023/08/haunted-hotels-colorado.jpg)</figure>
+#HauntedHotels #FamilyTravel #ColoradoTravel #HauntedColorado #GhostStories #SpookyGetaway #HotMamaTravel">[![Most Haunted Hotels Colorado for Families](https://hotmamatravel.com/wp-content/uploads/2023/08/haunted-hotels-colorado-200x300.jpg)](/images/haunted-hotels-colorado.jpg)</figure>
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
 
 Like it? Pin it!
 
-<figure id="beautiful-haunted-hotels-colorado">[![](https://hotmamatravel.com/wp-content/uploads/2023/08/haunted-hotels-colorado-200x300.jpg)](/images/2023/08/haunted-hotels-colorado.jpg)</figure>
+<figure id="beautiful-haunted-hotels-colorado">[![](https://hotmamatravel.com/wp-content/uploads/2023/08/haunted-hotels-colorado-200x300.jpg)](/images/haunted-hotels-colorado.jpg)</figure>
 </div></div>

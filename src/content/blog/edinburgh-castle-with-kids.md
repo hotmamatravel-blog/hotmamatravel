@@ -3,7 +3,7 @@ title: "Family Guide to visiting Edinburgh Castle with kids - Fun things to do"
 description: ""
 pubDate: 2017-03-02
 updatedDate: 2019-07-05
-heroImage: "/images/2015/09/DSCN0064-1024x768.jpg"
+heroImage: "/images/DSCN0064-1024x768.jpg"
 heroImageAlt: "Edinburgh Castle with Kids"
 category: "Hot Europe"
 tags: ["Hot Europe", "Hot Family Travels"]
@@ -133,7 +133,7 @@ In fact, it was crazy busy and every place we went was small, hot and loaded wit
 
 My kids and my parents were tired, hungry and grumpy. I had to think fast. I grabbed a cab and told him to take us somewhere amazing, but not loaded with tourists (even though we are tourists). Our driver drove, drove... and drove. He took us to a local favorite, **Sheep’s Heid**. It was really fantastic!
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/07/sheepheid2-1024x862.jpg)](/images/2015/07/sheepheid2.jpg)
+[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/07/sheepheid2-1024x862.jpg)](/images/sheepheid2.jpg)
 
 ## ***That’s A Wrap:***
 

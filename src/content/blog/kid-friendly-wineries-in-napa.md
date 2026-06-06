@@ -3,7 +3,7 @@ title: "5 Kid-Friendly Wineries in Napa That You Will Love"
 description: ""
 pubDate: 2022-04-01
 updatedDate: 2022-10-28
-heroImage: "/images/2022/09/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg"
+heroImage: "/images/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg"
 heroImageAlt: "Get your VinArmour wine travel case today"
 category: "Hot California"
 tags: ["Hot California", "Hot United States", "Featured"]
@@ -119,5 +119,5 @@ For more family-friendly wineries in California, check out other articles on bes
 
 **Like it? Pin it!**
 
-<figure id="5-best-kid-friendly-wineries-napa-california">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/5-best-kid-friendly-wineries-napa-california-200x300.jpg)](/images/2022/04/5-best-kid-friendly-wineries-napa-california.jpg)</figure>
+<figure id="5-best-kid-friendly-wineries-napa-california">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/5-best-kid-friendly-wineries-napa-california-200x300.jpg)](/images/5-best-kid-friendly-wineries-napa-california.jpg)</figure>
 </div></section>

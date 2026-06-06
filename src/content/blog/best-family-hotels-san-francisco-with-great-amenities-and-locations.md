@@ -2,7 +2,7 @@
 title: "Best Family Hotels San Francisco with Great Amenities and Locations"
 description: ""
 pubDate: 2023-10-02
-heroImage: "/images/2023/10/fairmont-san-francisco-haunted-hotels-san-francisco-1.jpg"
+heroImage: "/images/fairmont-san-francisco-haunted-hotels-san-francisco-1.jpg"
 heroImageAlt: "Fairmont Family hotel in San Francisco"
 category: "Family Hotels"
 tags: ["Family Hotels", "Hot California", "Hot United States", "Featured"]
@@ -260,5 +260,5 @@ Whether it's a cable car ride, a stroll along Fisherman's Wharf, or a visit to a
 
 Like it? Pin it!
 
-<figure id="family-hotels-san-francisco-for-families-with-kids">[![](https://hotmamatravel.com/wp-content/uploads/2023/10/family-hotels-san-francisco-for-families-with-kids-200x300.jpg)](/images/2023/10/family-hotels-san-francisco-for-families-with-kids.jpg)</figure>
+<figure id="family-hotels-san-francisco-for-families-with-kids">[![](https://hotmamatravel.com/wp-content/uploads/2023/10/family-hotels-san-francisco-for-families-with-kids-200x300.jpg)](/images/family-hotels-san-francisco-for-families-with-kids.jpg)</figure>
 </div></div>

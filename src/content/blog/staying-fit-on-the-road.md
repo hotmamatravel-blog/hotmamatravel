@@ -3,7 +3,7 @@ title: "5 Easy Ways to Staying Fit On The Road"
 description: ""
 pubDate: 2017-04-14
 updatedDate: 2019-07-05
-heroImage: "/images/2015/01/DSCN7491-1024x768.jpg"
+heroImage: "/images/DSCN7491-1024x768.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips"]
 wpId: 3517
@@ -41,7 +41,7 @@ Other great tools I use when squeezing in a hotel room workout include apps like
 
 I also really love[Fitness Blender](https://www.fitnessblender.com/videos). They have a wide range of workouts that accommodate differing fitness levels, equipment available, or time constraints. Many of their workouts are perfect for hotel rooms, because they are fast, effective and easy done without gym equipment.
 
-[![Staying Fit on the Road](https://hotmamatravel.com/wp-content/uploads/2015/11/work-1024x768.jpg)](/images/2015/11/work.jpg)
+[![Staying Fit on the Road](https://hotmamatravel.com/wp-content/uploads/2015/11/work-1024x768.jpg)](/images/work.jpg)
 
 ## ***Playground:***
 
@@ -55,7 +55,7 @@ I love to use the stairs for deep lunges or triceps dips. The monkey bars are gr
 
 What is really cool is when a park has and fitness center. We stumbled upon one while in Glasgow at the Botanical Gardens. They had everything you need for an easy circuit workout. There was even a sign with a routine laid-out for you! If you would like to read more about that trip, click **[HERE](/glasgow-with-kids/)**.
 
-[![Staying Fit on the Road](https://hotmamatravel.com/wp-content/uploads/2015/07/Botanical-garden-fitness-1024x788.jpg)](/images/2015/07/Botanical-garden-fitness.jpg)
+[![Staying Fit on the Road](https://hotmamatravel.com/wp-content/uploads/2015/07/Botanical-garden-fitness-1024x788.jpg)](/images/Botanical-garden-fitness.jpg)
 
 ## ***Pool:***
 

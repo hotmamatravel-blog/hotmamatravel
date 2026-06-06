@@ -3,7 +3,7 @@ title: "Stay at Little River Inn in Mendocino with Kids"
 description: ""
 pubDate: 2023-08-31
 updatedDate: 2026-05-12
-heroImage: "/images/2023/08/Little-River-Inn-Family-Home.jpg"
+heroImage: "/images/Little-River-Inn-Family-Home.jpg"
 heroImageAlt: "Little River Inn Built in 1853"
 category: "Hot California"
 tags: ["Hot California", "Hot United States", "Featured"]
@@ -211,5 +211,5 @@ Like it? Pin it!
 
 <figure id="Little-River-Inn-Mendocino-Family-Friendly-Hotel" data-essb-pin-description="Dreaming of a cozy Northern California coast getaway? 🌲🌊 Our stay at Little River Inn in Mendocino was pure magic — ocean views, foggy mornings, giant redwoods nearby, and one of the most relaxing family-friendly stays on the California coast. If you’re planning a Mendocino road trip with kids, this charming inn deserves a spot on your list.
 Read our full Little River Inn review + Mendocino family travel tips on https://hotmamatravel.com/little-river-inn/
-#Mendocino #LittleRiverInn #NorthernCalifornia #CaliforniaCoast #FamilyTravel #FamilyVacation #VisitCalifornia #RoadTrip #TravelWithKids #MendocinoCoast #HotMamaTravel ">[![Review of Little River Inn in Mendocino](https://hotmamatravel.com/wp-content/uploads/2023/08/Little-River-Inn-Mendocino-Family-Friendly-Hotel-200x300.jpg)](/images/2023/08/Little-River-Inn-Mendocino-Family-Friendly-Hotel.jpg)</figure>
+#Mendocino #LittleRiverInn #NorthernCalifornia #CaliforniaCoast #FamilyTravel #FamilyVacation #VisitCalifornia #RoadTrip #TravelWithKids #MendocinoCoast #HotMamaTravel ">[![Review of Little River Inn in Mendocino](https://hotmamatravel.com/wp-content/uploads/2023/08/Little-River-Inn-Mendocino-Family-Friendly-Hotel-200x300.jpg)](/images/Little-River-Inn-Mendocino-Family-Friendly-Hotel.jpg)</figure>
 </div></div>

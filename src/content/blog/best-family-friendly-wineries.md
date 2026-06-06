@@ -1,6 +1,6 @@
 ---
 title: "Best Family-Friendly Wineries"
-heroImage: "/images/2024/01/Family-friendly-wineries.jpg"
+heroImage: "/images/Family-friendly-wineries.jpg"
 heroImageAlt: "Best Family-Friendly Wineries"
 description: ""
 pubDate: 2024-01-03

@@ -3,7 +3,7 @@ title: "Guide to Rving at Vail Lake Resort with Kids"
 description: ""
 pubDate: 2017-02-16
 updatedDate: 2025-11-06
-heroImage: "/images/2014/06/DSCN2942-1024x683.jpg"
+heroImage: "/images/DSCN2942-1024x683.jpg"
 heroImageAlt: "Scenic shot of Vail Lake Resort lake and mountains"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot United States"]

@@ -2,7 +2,7 @@
 title: "5 Unique Sites For Glamping In Florida That Will Blow Your Mind"
 description: ""
 pubDate: 2023-06-27
-heroImage: "/images/2021/06/trail-lakes-campground-glamping-florida.jpg"
+heroImage: "/images/trail-lakes-campground-glamping-florida.jpg"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Hot Florida", "Hot United States", "Featured"]
 wpId: 14661
@@ -150,5 +150,5 @@ If you would more information on glamping in the United States, please see our o
 
 **Like it? Pin it!**
 
-<figure id="5-best-glamping-florida-sites">[![](https://hotmamatravel.com/wp-content/uploads/2021/06/5-best-glamping-florida-sites-200x300.jpg)](/images/2021/06/5-best-glamping-florida-sites.jpg)</figure>
+<figure id="5-best-glamping-florida-sites">[![](https://hotmamatravel.com/wp-content/uploads/2021/06/5-best-glamping-florida-sites-200x300.jpg)](/images/5-best-glamping-florida-sites.jpg)</figure>
 </div></section>

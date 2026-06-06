@@ -3,7 +3,7 @@ title: "Queen Mary With Kids: What Families Need to Know 2026"
 description: ""
 pubDate: 2016-09-23
 updatedDate: 2026-02-03
-heroImage: "/images/2016/09/Guide-to-visiting-the-Queen-Mary-with-Kids-200x300.jpg"
+heroImage: "/images/Guide-to-visiting-the-Queen-Mary-with-Kids-200x300.jpg"
 heroImageAlt: "Family Guide Visiting The Queen Mary With Kids"
 category: "Family Hotels"
 tags: ["Family Hotels", "Family-Friendly Haunted Hotels", "Haunted Places", "Hot California", "Hot Family Travels", "Hot United States"]
@@ -474,5 +474,5 @@ And if you’re ready to keep the adventure going, head over to my[** California
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Explore the Queen Mary with kids! From spooky stories and haunted legends to hands-on exhibits, seasonal events, and even overnight stays, this historic ocean liner in Long Beach is perfect for family adventures. #FamilyTravel #QueenMary #HauntedPlaces #CaliforniaTravel #KidFriendly">[![Family Guide Visiting The Queen Mary With Kids](https://hotmamatravel.com/wp-content/uploads/2016/09/Guide-to-visiting-the-Queen-Mary-with-Kids-200x300.jpg)](/images/2016/09/Guide-to-visiting-the-Queen-Mary-with-Kids.jpg)</figure>
+<figure data-essb-pin-description="Explore the Queen Mary with kids! From spooky stories and haunted legends to hands-on exhibits, seasonal events, and even overnight stays, this historic ocean liner in Long Beach is perfect for family adventures. #FamilyTravel #QueenMary #HauntedPlaces #CaliforniaTravel #KidFriendly">[![Family Guide Visiting The Queen Mary With Kids](https://hotmamatravel.com/wp-content/uploads/2016/09/Guide-to-visiting-the-Queen-Mary-with-Kids-200x300.jpg)](/images/Guide-to-visiting-the-Queen-Mary-with-Kids.jpg)</figure>
 </div></div>

@@ -3,7 +3,7 @@ title: "10 Tips for Overseas Travel"
 description: ""
 pubDate: 2015-08-24
 updatedDate: 2025-04-14
-heroImage: "/images/2015/08/IMG_5357-1024x1024.jpg"
+heroImage: "/images/IMG_5357-1024x1024_201508.jpg"
 heroImageAlt: "Keeping kids entertained during overseas travel"
 category: "Hot Tips"
 tags: ["Hot Tips"]

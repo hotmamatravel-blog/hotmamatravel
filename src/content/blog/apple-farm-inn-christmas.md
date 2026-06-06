@@ -3,7 +3,7 @@ title: "Have a Holly Jolly Christmas at the Apple Farm Inn, San Luis Obispo, CA"
 description: ""
 pubDate: 2016-12-01
 updatedDate: 2025-11-14
-heroImage: "/images/2016/12/Apple-Farm.jpg"
+heroImage: "/images/Apple-Farm.jpg"
 heroImageAlt: "Christmas-at-Apple-Farm-HotMamaTravel"
 category: "Holiday Travel"
 tags: ["Holiday Travel", "Hot California", "Hot United States"]
@@ -129,5 +129,5 @@ For those who love the holidays, Apple Farm Inn is a holiday heaven. The décor 
 
 Like it? Pin it!
 
-<figure>[![A truly magical holiday escape during Christmas at the Apple Farm Inn in San Luis Obispo California](https://hotmamatravel.com/wp-content/uploads/2016/12/Christmas-1-200x300.png)](/images/2016/12/Christmas-1.png)</figure>
+<figure>[![A truly magical holiday escape during Christmas at the Apple Farm Inn in San Luis Obispo California](https://hotmamatravel.com/wp-content/uploads/2016/12/Christmas-1-200x300.png)](/images/Christmas-1.png)</figure>
 </div></div>

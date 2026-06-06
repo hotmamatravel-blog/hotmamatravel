@@ -3,7 +3,7 @@ title: "Destinations"
 description: ""
 pubDate: 2017-10-15
 updatedDate: 2025-04-06
-heroImage: "/images/2017/10/United-States.jpg"
+heroImage: "/images/United-States.jpg"
 heroImageAlt: "United States Travel Card"
 category: "Family Travel"
 tags: []

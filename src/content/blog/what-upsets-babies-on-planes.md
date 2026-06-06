@@ -2,7 +2,7 @@
 title: "What Upsets Babies On Planes: 5 Things To Know In Advance"
 description: ""
 pubDate: 2024-05-07
-heroImage: "/images/2024/05/what-upsets-babies-on-planes-1-200x300.jpg"
+heroImage: "/images/what-upsets-babies-on-planes-1-200x300.jpg"
 heroImageAlt: "What Upsets Babies On Planes, 5 Things To Know In Advance\n"
 category: "Hot Tips"
 tags: ["Hot Tips"]
@@ -79,5 +79,5 @@ Equipped with this knowledge, families can approach air travel with confidence, 
 Like it? Pin it!
 
 <figure id="what-upsets-babies-on-planes-what-to-avoid">[![What Upsets Babies On Planes, 5 Things To Know In Advance
-](https://hotmamatravel.com/wp-content/uploads/2024/05/what-upsets-babies-on-planes-1-200x300.jpg)](/images/2024/05/what-upsets-babies-on-planes-1.jpg)</figure>
+](https://hotmamatravel.com/wp-content/uploads/2024/05/what-upsets-babies-on-planes-1-200x300.jpg)](/images/what-upsets-babies-on-planes-1.jpg)</figure>
 </div></div>

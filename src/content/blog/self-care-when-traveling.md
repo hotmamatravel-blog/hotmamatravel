@@ -3,7 +3,7 @@ title: "How To Prioritize Self-Care When Traveling"
 description: ""
 pubDate: 2023-04-24
 updatedDate: 2025-06-01
-heroImage: "/images/2023/04/importance-self-care-when-traveling-200x300.jpg"
+heroImage: "/images/importance-self-care-when-traveling-200x300.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership", "Featured"]
 wpId: 17782
@@ -94,5 +94,5 @@ Furthermore, there are plenty of ways in which you can continue to practice self
 
 **Like it? Pin it!**
 
-<figure id="importance-self-care-when-traveling">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/importance-self-care-when-traveling-200x300.jpg)](/images/2023/04/importance-self-care-when-traveling.jpg)</figure>
+<figure id="importance-self-care-when-traveling">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/importance-self-care-when-traveling-200x300.jpg)](/images/importance-self-care-when-traveling.jpg)</figure>
 </div></section>

@@ -3,7 +3,7 @@ title: "8 Things to Do in Sayulita in 2023"
 description: ""
 pubDate: 2023-07-28
 updatedDate: 2025-06-01
-heroImage: "/images/2023/07/sunset-carricitos-beach-sayulita-mexico.jpg"
+heroImage: "/images/sunset-carricitos-beach-sayulita-mexico.jpg"
 category: "Hot Mexico"
 tags: ["Hot Mexico", "Partnership"]
 wpId: 18516
@@ -155,5 +155,5 @@ travel moments with us.
 
 **Like it? Pin it!**
 
-<figure id="best-things-to-do-in-sayulita-mexico">[![](https://hotmamatravel.com/wp-content/uploads/2023/07/best-things-to-do-in-sayulita-mexico-200x300.jpg)](/images/2023/07/best-things-to-do-in-sayulita-mexico.jpg)</figure>
+<figure id="best-things-to-do-in-sayulita-mexico">[![](https://hotmamatravel.com/wp-content/uploads/2023/07/best-things-to-do-in-sayulita-mexico-200x300.jpg)](/images/best-things-to-do-in-sayulita-mexico.jpg)</figure>
 </div></section>

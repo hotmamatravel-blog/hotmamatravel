@@ -3,7 +3,7 @@ title: "3 Historic Haunted Hotels In New Orleans For Families 2025"
 description: ""
 pubDate: 2019-10-18
 updatedDate: 2025-10-23
-heroImage: "/images/2019/10/haunted-hotel-new-olreans-dauphine-orleans-hotel-ghost.jpg"
+heroImage: "/images/haunted-hotel-new-olreans-dauphine-orleans-hotel-ghost.jpg"
 heroImageAlt: "Haunted New Orleans Hotel Dauphine French Quarter"
 category: "Family-Friendly Haunted Hotels"
 tags: ["Family-Friendly Haunted Hotels", "Haunted Places", "Hot Louisiana", "Hot United States"]
@@ -172,5 +172,5 @@ Until next time, keep it fun, keep it curious, and remember, it’s just a bunch
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Looking for a spooky family adventure? 👻 Check out the best haunted hotels in New Orleans for families! From ghostly guests to historic charm, these haunted stays are packed with stories, mystery, and a touch of Southern magic. Perfect for Halloween—or any time you’re craving chills with your beignets! 🍩🎺 #HauntedHotels #FamilyTravel #NewOrleans #HotMamaTravel">[![haunted hotels in new orleans](https://hotmamatravel.com/wp-content/uploads/2019/10/haunted-hotels-new-orleans-200x300.jpg)](/images/2019/10/haunted-hotels-new-orleans.jpg)</figure>
+<figure data-essb-pin-description="Looking for a spooky family adventure? 👻 Check out the best haunted hotels in New Orleans for families! From ghostly guests to historic charm, these haunted stays are packed with stories, mystery, and a touch of Southern magic. Perfect for Halloween—or any time you’re craving chills with your beignets! 🍩🎺 #HauntedHotels #FamilyTravel #NewOrleans #HotMamaTravel">[![haunted hotels in new orleans](https://hotmamatravel.com/wp-content/uploads/2019/10/haunted-hotels-new-orleans-200x300.jpg)](/images/haunted-hotels-new-orleans.jpg)</figure>
 </div></div>

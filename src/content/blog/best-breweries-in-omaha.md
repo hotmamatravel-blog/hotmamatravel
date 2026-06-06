@@ -3,7 +3,7 @@ title: "10 Best Breweries In Omaha For Brews & Family Fun 2024"
 description: ""
 pubDate: 2024-01-08
 updatedDate: 2024-01-18
-heroImage: "/images/2024/01/zipline-brewing-co-best-breweries-in-omaha.jpg"
+heroImage: "/images/zipline-brewing-co-best-breweries-in-omaha.jpg"
 heroImageAlt: "Zipline Brewing Co Taproom and Beer Lounge in Omaha"
 category: "Best Breweries For Families"
 tags: ["Best Breweries For Families", "Hot Nebraska", "Hot United States", "Featured"]
@@ -524,5 +524,5 @@ See my post on [Best Breweries in America](/americas-best-breweries/) for more c
 
 Like it? Pin it!
 
-<figure id="best-family-friendly-breweries-omaha">[![](https://hotmamatravel.com/wp-content/uploads/2024/01/best-family-friendly-breweries-omaha-200x300.jpg)](/images/2024/01/best-family-friendly-breweries-omaha.jpg)</figure>
+<figure id="best-family-friendly-breweries-omaha">[![](https://hotmamatravel.com/wp-content/uploads/2024/01/best-family-friendly-breweries-omaha-200x300.jpg)](/images/best-family-friendly-breweries-omaha.jpg)</figure>
 </div></div>

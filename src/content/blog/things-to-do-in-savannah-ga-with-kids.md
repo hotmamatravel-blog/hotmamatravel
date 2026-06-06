@@ -3,7 +3,7 @@ title: "26 Fun things to do in Savannah GA with kids"
 description: ""
 pubDate: 2019-11-04
 updatedDate: 2023-09-20
-heroImage: "/images/2019/11/paris-market-savannah-georgia.jpg"
+heroImage: "/images/paris-market-savannah-georgia.jpg"
 heroImageAlt: "Paris Market Savannah "
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot Georgia", "Hot United States"]

@@ -1,6 +1,6 @@
 ---
 title: "Family Travel Uncensored: Insane true stories about traveling with kids"
-heroImage: "/images/2018/10/family-travel-uncensored-head.jpg"
+heroImage: "/images/family-travel-uncensored-head.jpg"
 heroImageAlt: "Family Travel Uncensored: Insane true stories about traveling with kids"
 description: ""
 pubDate: 2018-12-25

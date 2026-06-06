@@ -3,7 +3,7 @@ title: "Global Cuisine in the OC"
 description: ""
 pubDate: 2015-01-12
 updatedDate: 2025-03-26
-heroImage: "/images/2015/01/Global-Cuisine.png"
+heroImage: "/images/Global-Cuisine.png"
 heroImageAlt: "Global Cuisine in the OC"
 category: "Hot California"
 tags: ["Hot California", "Hot Orange County"]

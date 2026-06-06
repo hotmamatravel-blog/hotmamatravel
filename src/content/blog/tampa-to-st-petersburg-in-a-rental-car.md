@@ -3,7 +3,7 @@ title: "Hot Tips: Tampa to St. Petersburg in a rental car"
 description: ""
 pubDate: 2020-01-30
 updatedDate: 2020-02-07
-heroImage: "/images/2020/01/tampa-sunset.jpg"
+heroImage: "/images/tampa-sunset.jpg"
 heroImageAlt: "Sunset in Tampa FL"
 category: "Hot Florida"
 tags: ["Hot Florida", "Hot Tips", "Hot United States"]

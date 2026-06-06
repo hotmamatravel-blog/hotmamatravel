@@ -1,6 +1,6 @@
 ---
 title: "Unforgettable Milestone Holiday: Why Dubai Should Be Your Destination"
-heroImage: "/images/2024/06/Why-Dubai-Should-Be-Your-Destination.jpg"
+heroImage: "/images/Why-Dubai-Should-Be-Your-Destination.jpg"
 heroImageAlt: "Unforgettable Milestone Holiday: Why Dubai Should Be Your Destination"
 description: ""
 pubDate: 2024-06-19

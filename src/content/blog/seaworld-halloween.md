@@ -3,7 +3,7 @@ title: "Why a SeaWorld Halloween is Spooktacular!"
 description: ""
 pubDate: 2016-10-20
 updatedDate: 2019-06-19
-heroImage: "/images/2014/10/DSCN7748-1024x683.jpg"
+heroImage: "/images/DSCN7748-1024x683.jpg"
 heroImageAlt: "SeaWorld Halloween"
 category: "Holiday Travel"
 tags: ["Holiday Travel", "Hot California", "Hot United States"]

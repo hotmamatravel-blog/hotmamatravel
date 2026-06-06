@@ -2,7 +2,7 @@
 title: "Plan the Perfect Babymoon in the Florida Keys 2024"
 description: ""
 pubDate: 2024-01-26
-heroImage: "/images/2023/04/amara-cay-resort-florida-keys-kid-friendly-resorts.jpg"
+heroImage: "/images/amara-cay-resort-florida-keys-kid-friendly-resorts.jpg"
 heroImageAlt: "babymoon florida keys at Bliss Cay Resort"
 category: "Hot Florida"
 tags: ["Hot Florida", "Hot United States", "Featured"]
@@ -98,7 +98,7 @@ A babymoon is a special time for couples to spend quality time together before t
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-72bbdda9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="things-to-do-key-west-florida">[![Family Travel Guide for things to do in Key West with kids](https://hotmamatravel.com/wp-content/uploads/2023/04/things-to-do-in-key-west-with-kids-1024x576.jpg)](/images/2023/04/things-to-do-in-key-west-with-kids.jpg)</figure>
+<figure id="things-to-do-key-west-florida">[![Family Travel Guide for things to do in Key West with kids](https://hotmamatravel.com/wp-content/uploads/2023/04/things-to-do-in-key-west-with-kids-1024x576.jpg)](/images/things-to-do-in-key-west-with-kids.jpg)</figure>
 
 #### [Visit Key West](/things-to-do-in-key-west-with-kids/)
 
@@ -156,5 +156,5 @@ Explore of what [Florida has offer for family travel](/florida-family-holidays/)
 
 **Like it? Pin it!**
 
-<figure id="planning-perfect-babymoon-florida-keys-">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/planning-perfect-babymoon-florida-keys--200x300.jpg)](/images/2023/04/planning-perfect-babymoon-florida-keys-.jpg)</figure>
+<figure id="planning-perfect-babymoon-florida-keys-">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/planning-perfect-babymoon-florida-keys--200x300.jpg)](/images/planning-perfect-babymoon-florida-keys-.jpg)</figure>
 </div></section>

@@ -3,7 +3,7 @@ title: "5 Family-Friendly Haunted Hotels in San Antonio 2025"
 description: ""
 pubDate: 2023-08-08
 updatedDate: 2025-10-12
-heroImage: "/images/2023/08/menger-hotel-haunted-hotels-san-antonio.jpg"
+heroImage: "/images/menger-hotel-haunted-hotels-san-antonio.jpg"
 heroImageAlt: "Haunted Menger Hotel San Antonio"
 category: "Family-Friendly Haunted Hotels"
 tags: ["Family-Friendly Haunted Hotels", "Haunted Places", "Hot Texas", "Hot United States", "Featured"]
@@ -165,5 +165,5 @@ Explore more [**haunted hotels in Texas**](/haunted-hotels-texas/) as well as ac
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Stay in one of these family-friendly haunted hotels in San Antonio">[![Family-Friendly Haunted Hotels in San Antonio](https://hotmamatravel.com/wp-content/uploads/2023/08/Haunted-Hotels-San-Antonio-200x300.jpg)](/images/2023/08/Haunted-Hotels-San-Antonio.jpg)</figure>
+<figure data-essb-pin-description="Stay in one of these family-friendly haunted hotels in San Antonio">[![Family-Friendly Haunted Hotels in San Antonio](https://hotmamatravel.com/wp-content/uploads/2023/08/Haunted-Hotels-San-Antonio-200x300.jpg)](/images/Haunted-Hotels-San-Antonio.jpg)</figure>
 </div></div>

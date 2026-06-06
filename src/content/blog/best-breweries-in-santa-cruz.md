@@ -3,7 +3,7 @@ title: "5 Best Breweries In Santa Cruz For Cool Families 2024"
 description: ""
 pubDate: 2023-12-05
 updatedDate: 2024-01-18
-heroImage: "/images/2023/12/santa-cruz-moutain-brewing-best-breweries-santa-cruz.jpg"
+heroImage: "/images/santa-cruz-moutain-brewing-best-breweries-santa-cruz.jpg"
 heroImageAlt: "Womenn-owned and operated Santa Cruz Mountain Brewing"
 category: "Best Breweries For Families"
 tags: ["Best Breweries For Families", "Hot California", "Hot United States", "Featured"]
@@ -142,5 +142,5 @@ Hope you enjoyed this journey through the best breweries in Santa Cruz, where ea
 
 Like it? Pin it!
 
-<figure id="best-breweries-in-Santa-Cruz-families-live-music-pets">[![](https://hotmamatravel.com/wp-content/uploads/2023/12/best-breweries-in-Santa-Cruz-families-live-music-pets-200x300.jpg)](/images/2023/12/best-breweries-in-Santa-Cruz-families-live-music-pets.jpg)</figure>
+<figure id="best-breweries-in-Santa-Cruz-families-live-music-pets">[![](https://hotmamatravel.com/wp-content/uploads/2023/12/best-breweries-in-Santa-Cruz-families-live-music-pets-200x300.jpg)](/images/best-breweries-in-Santa-Cruz-families-live-music-pets.jpg)</figure>
 </div></div>

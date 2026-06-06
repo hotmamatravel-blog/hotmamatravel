@@ -3,7 +3,7 @@ title: "Easy Route 66 Family Road Trip Itinerary (LA to Santa Fe)"
 description: ""
 pubDate: 2019-02-05
 updatedDate: 2026-01-29
-heroImage: "/images/2019/02/Route-66-Family-Road-Trip.jpg"
+heroImage: "/images/Route-66-Family-Road-Trip.jpg"
 category: "Hot Arizona"
 tags: ["Hot Arizona", "Hot California", "Hot New Mexico", "Hot Road Trips", "Hot United States"]
 wpId: 10353
@@ -233,5 +233,5 @@ Like it? Pin it!
 <figure data-essb-pin-description="Route 66 Family Road Trip Itinerary (LA to Santa Fe) 🚗✨
 Plan the ultimate Route 66 road trip with kids, featuring must-see roadside attractions, family-friendly stops, diners, classic motels, and fun things to do in California, Arizona, and New Mexico. Perfect for families planning a nostalgic, budget-friendly road trip adventure!
 
-#Route66 #Route66RoadTrip #FamilyRoadTrip #RoadTripWithKids #MotherRoad #LAtoSantaFe #SouthwestRoadTrip #ArizonaTravel #NewMexicoTravel #CaliforniaTravel #FamilyTravelTips #RoadTripIdeas #USAFamilyTravel #HotMamaTravel #TravelInspiration #RoadTripPlanning #TravelWithKids">[![route 66 family road trip itinerary](https://hotmamatravel.com/wp-content/uploads/2019/02/Route-66-family-road-trip-itinerary-200x300.jpg)](/images/2019/02/Route-66-family-road-trip-itinerary.jpg)</figure>
+#Route66 #Route66RoadTrip #FamilyRoadTrip #RoadTripWithKids #MotherRoad #LAtoSantaFe #SouthwestRoadTrip #ArizonaTravel #NewMexicoTravel #CaliforniaTravel #FamilyTravelTips #RoadTripIdeas #USAFamilyTravel #HotMamaTravel #TravelInspiration #RoadTripPlanning #TravelWithKids">[![route 66 family road trip itinerary](https://hotmamatravel.com/wp-content/uploads/2019/02/Route-66-family-road-trip-itinerary-200x300.jpg)](/images/Route-66-family-road-trip-itinerary.jpg)</figure>
 </div></div>

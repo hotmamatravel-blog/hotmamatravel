@@ -3,7 +3,7 @@ title: "Traveling Turkey: 5 Destinations That Aren’t Istanbul"
 description: ""
 pubDate: 2023-09-22
 updatedDate: 2025-06-01
-heroImage: "/images/2023/09/bodrum-turkey.jpg"
+heroImage: "/images/bodrum-turkey.jpg"
 heroImageAlt: "Bodrum Turkey"
 category: "Hot Europe"
 tags: ["Hot Europe", "Partnership"]
@@ -108,5 +108,5 @@ While Istanbul is undeniably captivating, Turkey has so much more to offer. From
 
 Like it? Pin it!
 
-<figure id="Traveling-Turkey-beyond-istanbul">[![](https://hotmamatravel.com/wp-content/uploads/2023/09/Traveling-Turkey-beyond-istanbul-200x300.jpg)](/images/2023/09/Traveling-Turkey-beyond-istanbul.jpg)</figure>
+<figure id="Traveling-Turkey-beyond-istanbul">[![](https://hotmamatravel.com/wp-content/uploads/2023/09/Traveling-Turkey-beyond-istanbul-200x300.jpg)](/images/Traveling-Turkey-beyond-istanbul.jpg)</figure>
 </div></div>

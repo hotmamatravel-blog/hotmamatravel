@@ -3,7 +3,7 @@ title: "Family Guide to Memphis with kids - Where to eat, stay & play"
 description: ""
 pubDate: 2018-01-08
 updatedDate: 2019-07-05
-heroImage: "/images/2018/01/Peabody.jpg"
+heroImage: "/images/Peabody.jpg"
 heroImageAlt: "The beautiful Peabody Hotel Memphis TN"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot Tennessee", "Hot United States"]

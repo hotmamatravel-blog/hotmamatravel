@@ -2,7 +2,7 @@
 title: "Interesting Things to do in North Shore, MN with Kids"
 description: ""
 pubDate: 2023-01-25
-heroImage: "/images/2023/01/Family-Nature-Walks-Superior-Hiking-Trail-North-Shore-Minnesota.jpg"
+heroImage: "/images/Family-Nature-Walks-Superior-Hiking-Trail-North-Shore-Minnesota.jpg"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot United States", "Featured"]
 wpId: 16741
@@ -210,5 +210,5 @@ When planning your next family vacation, you'll find there is no shortage of fun
 
 **Like it? Pin it!**
 
-<figure id="Things-to-do-in-North-Shore-Minnesota-With-Kids">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/Things-to-do-in-North-Shore-Minnesota-With-Kids-200x300.jpg)](/images/2023/01/Things-to-do-in-North-Shore-Minnesota-With-Kids.jpg)</figure>
+<figure id="Things-to-do-in-North-Shore-Minnesota-With-Kids">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/Things-to-do-in-North-Shore-Minnesota-With-Kids-200x300.jpg)](/images/Things-to-do-in-North-Shore-Minnesota-With-Kids.jpg)</figure>
 </div></section>

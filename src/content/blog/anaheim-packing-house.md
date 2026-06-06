@@ -3,7 +3,7 @@ title: "Anaheim Packing House Review and Guide for Families"
 description: ""
 pubDate: 2014-08-25
 updatedDate: 2025-03-07
-heroImage: "/images/2014/08/IMG_3138-1024x684.jpg"
+heroImage: "/images/IMG_3138-1024x684.jpg"
 heroImageAlt: "IMG_3138"
 category: "Hot California"
 tags: ["Hot California", "Hot Orange County"]

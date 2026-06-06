@@ -1,6 +1,6 @@
 ---
 title: "6 Things to Know If You Want to Learn to Fly"
-heroImage: "/images/2022/06/learn-to-fly.jpg"
+heroImage: "/images/learn-to-fly.jpg"
 heroImageAlt: "6 Things to Know If You Want to Learn to Fly"
 description: ""
 pubDate: 2022-06-02

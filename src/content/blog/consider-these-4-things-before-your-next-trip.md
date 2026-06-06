@@ -3,7 +3,7 @@ title: "Consider These 4 Things Before Your Next Trip"
 description: ""
 pubDate: 2023-12-28
 updatedDate: 2025-05-31
-heroImage: "/images/2023/12/consider-these-4-things-before-your-next-trip-200x300.jpg"
+heroImage: "/images/consider-these-4-things-before-your-next-trip-200x300.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership"]
 wpId: 19732
@@ -72,5 +72,5 @@ By considering these four key aspects, you empower yourself to embark on a trip 
 
 Like it? Pin it!
 
-<figure id="consider-these-4-things-before-your-next-trip">[![](https://hotmamatravel.com/wp-content/uploads/2023/12/consider-these-4-things-before-your-next-trip-200x300.jpg)](/images/2023/12/consider-these-4-things-before-your-next-trip.jpg)</figure>
+<figure id="consider-these-4-things-before-your-next-trip">[![](https://hotmamatravel.com/wp-content/uploads/2023/12/consider-these-4-things-before-your-next-trip-200x300.jpg)](/images/consider-these-4-things-before-your-next-trip.jpg)</figure>
 </div></div>

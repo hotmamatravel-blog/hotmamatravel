@@ -1,6 +1,6 @@
 ---
 title: "9 Tips That Can Make Long-Distance Moving Easier"
-heroImage: "/images/2023/10/make-moving-long-distance-easier.jpg"
+heroImage: "/images/make-moving-long-distance-easier.jpg"
 heroImageAlt: "9 Tips That Can Make Long-Distance Moving Easier"
 description: ""
 pubDate: 2023-10-30

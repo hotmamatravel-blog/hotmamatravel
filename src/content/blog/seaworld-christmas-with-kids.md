@@ -3,7 +3,7 @@ title: "Things to Do at SeaWorld Christmas Celebration 2025"
 description: ""
 pubDate: 2016-12-17
 updatedDate: 2025-11-15
-heroImage: "/images/2016/12/SeaWorld-Christmas-Celebration-200x300.jpg"
+heroImage: "/images/SeaWorld-Christmas-Celebration-200x300.jpg"
 heroImageAlt: "Guide to SeaWorld Christmas Celebration"
 category: "Holiday Travel"
 tags: ["Holiday Travel", "Hot California", "Hot Family Travels", "Hot United States"]
@@ -147,5 +147,5 @@ Now go keep that adventure energy rolling. Your next family memory is just a cli
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Make the holidays magical at SeaWorld Christmas Celebration! From festive shows and Santa’s reindeer to holiday treats and interactive fun, this guide has everything families need to plan the ultimate Christmas adventure. #FamilyTravel #SeaWorldChristmas #CaliforniaWithKids #HotMamaTravel">[![Guide to SeaWorld Christmas Celebration](https://hotmamatravel.com/wp-content/uploads/2016/12/SeaWorld-Christmas-Celebration-200x300.jpg)](/images/2016/12/SeaWorld-Christmas-Celebration.jpg)</figure>
+<figure data-essb-pin-description="Make the holidays magical at SeaWorld Christmas Celebration! From festive shows and Santa’s reindeer to holiday treats and interactive fun, this guide has everything families need to plan the ultimate Christmas adventure. #FamilyTravel #SeaWorldChristmas #CaliforniaWithKids #HotMamaTravel">[![Guide to SeaWorld Christmas Celebration](https://hotmamatravel.com/wp-content/uploads/2016/12/SeaWorld-Christmas-Celebration-200x300.jpg)](/images/SeaWorld-Christmas-Celebration.jpg)</figure>
 </div></div>

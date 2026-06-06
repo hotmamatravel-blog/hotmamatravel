@@ -3,7 +3,7 @@ title: "Blog Roundup: What is \"Kid Friendly\"? We asked 14 family travel blogge
 description: ""
 pubDate: 2018-01-29
 updatedDate: 2019-07-05
-heroImage: "/images/2018/01/kids-dancing-in-new-orleans-live-music-jazz.gif"
+heroImage: "/images/kids-dancing-in-new-orleans-live-music-jazz.gif"
 heroImageAlt: "kids dancing in new orleans to live jazz music Market Cafe"
 category: "Hot Tips"
 tags: ["Hot Tips"]

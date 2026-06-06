@@ -3,7 +3,7 @@ title: "Hotel Spotlight: Family review of Best Western Plus Belle Meade Inn & Su
 description: ""
 pubDate: 2017-10-30
 updatedDate: 2019-07-05
-heroImage: "/images/2017/10/DSC01991.jpg"
+heroImage: "/images/DSC01991.jpg"
 heroImageAlt: "Belle Meade Plantation"
 category: "Hot Tennessee"
 tags: ["Hot Tennessee", "Hot United States"]

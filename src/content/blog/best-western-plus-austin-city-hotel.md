@@ -3,7 +3,7 @@ title: "Hotel Spotlight: Family review of Best Western Plus Austin City Hotel"
 description: ""
 pubDate: 2017-11-20
 updatedDate: 2019-07-05
-heroImage: "/images/2017/11/SOCO-e1511206983108.jpg"
+heroImage: "/images/SOCO-e1511206983108.jpg"
 heroImageAlt: "SOCO Austin"
 category: "Hot Texas"
 tags: ["Hot Texas", "Hot United States"]

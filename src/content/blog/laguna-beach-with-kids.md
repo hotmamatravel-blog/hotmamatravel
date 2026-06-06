@@ -3,7 +3,7 @@ title: "Family Guide to Laguna Beach with kids - Where to eat, stay & play"
 description: ""
 pubDate: 2017-04-21
 updatedDate: 2019-07-05
-heroImage: "/images/2015/10/LB-68-768x1024.jpg"
+heroImage: "/images/LB-68-768x1024.jpg"
 heroImageAlt: "Laguna Beach shuttle"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot Orange County", "Hot United States"]
@@ -22,7 +22,7 @@ Natural lovers will love the miles of untouched coastline, hiking trails and tid
 
 Laguna Beach has a reputation for being expensive, but it is actually quite easy to have a reasonable experience. First of all, the beach is free. No one will charge you to plant you bum on the sand and have fun with the family. Secondly, most of the restaurants offer a happy hour, which is a great way to enjoy small plates and discounted cocktails. Plus, there are plenty of inexpensive dining options to choose from. Third, on the weekends the beach trolley is free! Hop on the blue trolley and take it around the city. If you are visiting Disneyland, this is definitely one of the** [best beaches](/beaches-near-anaheim/)** to visit near Anaheim.
 
-[![Laguna Beach shuttle](https://hotmamatravel.com/wp-content/uploads/2015/10/LB-68-768x1024.jpg)](/images/2015/10/LB-68.jpg)
+[![Laguna Beach shuttle](https://hotmamatravel.com/wp-content/uploads/2015/10/LB-68-768x1024.jpg)](/images/LB-68.jpg)
 
 ## **Where to stay in Laguna Beach with kids:**
 
@@ -64,7 +64,7 @@ Connected to the Laguna Village shops, this gorgeous, yet casual restaurant has 
 
 [![Food in Laguna Beach](https://hotmamatravel.com/wp-content/uploads/2015/10/The-Cliff-Food-1024x1024.jpg)](/wp-content/uploads/2015/10/The-Cliff-Food.jpg)
 
-[![Laguna Beach with kids Lunch The Cliff](https://hotmamatravel.com/wp-content/uploads/2015/10/The-Cliff-us-1024x1024.jpg)](/images/2015/10/The-Cliff-us.jpg)
+[![Laguna Beach with kids Lunch The Cliff](https://hotmamatravel.com/wp-content/uploads/2015/10/The-Cliff-us-1024x1024.jpg)](/images/The-Cliff-us.jpg)
 
 ### **Greeter’s Corner:**
 
@@ -72,7 +72,7 @@ Known as the corner restaurant, Greeter’s is perfect for breakfast or casual l
 
 [![Greeter](https://hotmamatravel.com/wp-content/uploads/2015/10/LB-94-1024x683.jpg)](/wp-content/uploads/2015/10/LB-94.jpg)
 
-[![Kid friendly Greeters Corner Laguna](https://hotmamatravel.com/wp-content/uploads/2015/10/Greeters-1024x687.jpg)](/images/2015/10/Greeters.jpg)
+[![Kid friendly Greeters Corner Laguna](https://hotmamatravel.com/wp-content/uploads/2015/10/Greeters-1024x687.jpg)](/images/Greeters.jpg)
 
 ### **C’est la Vie:**
 

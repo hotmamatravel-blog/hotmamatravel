@@ -2,7 +2,7 @@
 title: "Best Pools in Palm Springs for Families"
 description: ""
 pubDate: 2023-07-20
-heroImage: "/images/2023/07/saguaro-pools-palm-springs.jpg"
+heroImage: "/images/saguaro-pools-palm-springs.jpg"
 category: "Hot California"
 tags: ["Hot California", "Hot United States", "Featured"]
 wpId: 18421
@@ -122,5 +122,5 @@ For more information on visiting Palm Springs, check out our awesome family guid
 
 **Like it? Pin it!**
 
-<figure id="best-pools-palm-springs-for-families-with-kids">[![](https://hotmamatravel.com/wp-content/uploads/2023/07/best-pools-palm-springs-for-families-with-kids-200x300.jpg)](/images/2023/07/best-pools-palm-springs-for-families-with-kids.jpg)</figure>
+<figure id="best-pools-palm-springs-for-families-with-kids">[![](https://hotmamatravel.com/wp-content/uploads/2023/07/best-pools-palm-springs-for-families-with-kids-200x300.jpg)](/images/best-pools-palm-springs-for-families-with-kids.jpg)</figure>
 </div></section>

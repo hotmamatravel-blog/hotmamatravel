@@ -3,7 +3,7 @@ title: "✈️ Meet Hot Mama"
 description: ""
 pubDate: 2015-03-02
 updatedDate: 2025-05-31
-heroImage: "/images/2025/02/Las-Vegas-with-a-toddler.jpg"
+heroImage: "/images/Las-Vegas-with-a-toddler.jpg"
 heroImageAlt: "Guide to Las Vegas with a toddler"
 category: "Family Travel"
 tags: []

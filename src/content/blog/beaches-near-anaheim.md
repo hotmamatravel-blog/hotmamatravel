@@ -3,7 +3,7 @@ title: "3 Best Beaches near Anaheim - Family Guide for first-time visitors to th
 description: ""
 pubDate: 2017-05-02
 updatedDate: 2019-07-16
-heroImage: "/images/2017/05/newport-beach-sail-boats-balboa-island.jpg"
+heroImage: "/images/newport-beach-sail-boats-balboa-island.jpg"
 heroImageAlt: "Newport beach sail boats near Balboa island"
 category: "Hot California"
 tags: ["Hot California", "Hot Orange County", "Hot Tips", "Hot United States"]

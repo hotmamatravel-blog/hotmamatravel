@@ -3,7 +3,7 @@ title: "Family Travel Guide for Unique Things to do in St. Augustine with Kids"
 description: ""
 pubDate: 2023-04-19
 updatedDate: 2023-04-26
-heroImage: "/images/2023/04/hop-on-hop-off-trolley-tour-family-activities-st-augustine-fl-1024x576.jpg"
+heroImage: "/images/hop-on-hop-off-trolley-tour-family-activities-st-augustine-fl-1024x576.jpg"
 category: "Hot Florida"
 tags: ["Hot Florida", "Hot United States", "Featured"]
 wpId: 17386
@@ -17,7 +17,7 @@ Welcome to the charming and historic city of St. Augustine, Florida, where fun a
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-aea151dc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="hop-on-hop-off-trolley-tour-family-activities-st-augustine-fl">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/hop-on-hop-off-trolley-tour-family-activities-st-augustine-fl-1024x576.jpg)](/images/2023/04/hop-on-hop-off-trolley-tour-family-activities-st-augustine-fl.jpg)</figure>
+<figure id="hop-on-hop-off-trolley-tour-family-activities-st-augustine-fl">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/hop-on-hop-off-trolley-tour-family-activities-st-augustine-fl-1024x576.jpg)](/images/hop-on-hop-off-trolley-tour-family-activities-st-augustine-fl.jpg)</figure>
 
 #### [St. Augustine Hop-On Hop-Off Trolley Tour](/go/hop-on-hop-off-trolley-tour-st-augustine-fl/)
 
@@ -44,7 +44,7 @@ If your family loves a good spooky adventure (like my family), then a St. August
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a1466de0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="airboat-ride-family-activities-st-augustine-fl">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/airboat-ride-family-activities-st-augustine-fl-1024x576.jpg)](/images/2023/04/airboat-ride-family-activities-st-augustine-fl.jpg)</figure>
+<figure id="airboat-ride-family-activities-st-augustine-fl">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/airboat-ride-family-activities-st-augustine-fl-1024x576.jpg)](/images/airboat-ride-family-activities-st-augustine-fl.jpg)</figure>
 
 #### [Airboat Adventure in Saint Augustine with a Guide](/go/airboat-tour-st-augustine-fl/)
 
@@ -57,7 +57,7 @@ Looking for a fun family activity that will get you up close and personal with t
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d75e7307"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="historic-walking-tour-family-activities-st-augustine-fl">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/historic-walking-tour-family-activities-st-augustine-fl-1024x576.jpg)](/images/2023/04/historic-walking-tour-family-activities-st-augustine-fl.jpg)</figure>
+<figure id="historic-walking-tour-family-activities-st-augustine-fl">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/historic-walking-tour-family-activities-st-augustine-fl-1024x576.jpg)](/images/historic-walking-tour-family-activities-st-augustine-fl.jpg)</figure>
 
 #### [Walking History Tour of St. Augustine's Historic District](/go/historic-walking-tour-st-augustine-fl/)
 
@@ -82,7 +82,7 @@ Looking for a fun family activity that offers breathtaking views of St. Augustin
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-92cf2815"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="lighthouse-maritime-museum-family-activities-st-augustine-fl">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/lighthouse-maritime-museum-family-activities-st-augustine-fl-1024x576.jpg)](/images/2023/04/lighthouse-maritime-museum-family-activities-st-augustine-fl.jpg)</figure>
+<figure id="lighthouse-maritime-museum-family-activities-st-augustine-fl">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/lighthouse-maritime-museum-family-activities-st-augustine-fl-1024x576.jpg)](/images/lighthouse-maritime-museum-family-activities-st-augustine-fl.jpg)</figure>
 
 #### [St. Augustine Lighthouse &amp; Maritime Museum, Inc.](/go/lighthouse-maritime-museum-st-augustine-fl/)
 
@@ -95,7 +95,7 @@ Looking for a family-friendly activity that's both fun and educational? Look no 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6d5ddbd5"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="castillo-de-san-marcos-family-activities-st-augustine-fl">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/castillo-de-san-marcos-family-activities-st-augustine-fl-1024x576.jpg)](/images/2023/04/castillo-de-san-marcos-family-activities-st-augustine-fl.jpg)</figure>
+<figure id="castillo-de-san-marcos-family-activities-st-augustine-fl">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/castillo-de-san-marcos-family-activities-st-augustine-fl-1024x576.jpg)](/images/castillo-de-san-marcos-family-activities-st-augustine-fl.jpg)</figure>
 
 #### [Castillo de San Marcos National Monument](/go/castillo-de-san-marcos-st-augustine-fl/)
 
@@ -120,7 +120,7 @@ This incredible wildlife sanctuary is home to a variety of exotic animals, from 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d018d914"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="st-augustine-beach-family-activities-st-augustine-fl">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/st-augustine-beach-family-activities-st-augustine-fl-1024x576.jpg)](/images/2023/04/st-augustine-beach-family-activities-st-augustine-fl.jpg)</figure>
+<figure id="st-augustine-beach-family-activities-st-augustine-fl">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/st-augustine-beach-family-activities-st-augustine-fl-1024x576.jpg)](/images/st-augustine-beach-family-activities-st-augustine-fl.jpg)</figure>
 
 #### [St. Augustine Beach](/go/st-augustine-beach-st-augustine-fl/)
 
@@ -131,7 +131,7 @@ Augustine Beach offers something for everyone, whether you're looking to soak up
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f4577e17"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="alligator-farm--family-activities-st-augustine-fl">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/alligator-farm-family-activities-st-augustine-fl-1024x576.jpg)](/images/2023/04/alligator-farm-family-activities-st-augustine-fl.jpg)</figure>
+<figure id="alligator-farm--family-activities-st-augustine-fl">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/alligator-farm-family-activities-st-augustine-fl-1024x576.jpg)](/images/alligator-farm-family-activities-st-augustine-fl.jpg)</figure>
 
 #### [St. Augustine Alligator Farm Zoological Park](/go/alligator-farm-zoological-park-st-augustine-fl/)
 
@@ -156,7 +156,7 @@ This historic jailhouse has been restored to its 19th-century glory, complete wi
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f7d4221d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="pirate-treasure-museum-family-activities-st-augustine-fl">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/pirate-treasure-museum-family-activities-st-augustine-fl-1024x576.jpg)](/images/2023/04/pirate-treasure-museum-family-activities-st-augustine-fl.jpg)</figure>
+<figure id="pirate-treasure-museum-family-activities-st-augustine-fl">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/pirate-treasure-museum-family-activities-st-augustine-fl-1024x576.jpg)](/images/pirate-treasure-museum-family-activities-st-augustine-fl.jpg)</figure>
 
 #### [St. Augustine Pirate &amp; Treasure Museum](/go/pirate-treasure-museum-st-augustine-fl/)
 
@@ -175,7 +175,7 @@ And let's not forget about the treasure! The museum has a real treasure chest fi
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-25b2adbb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="mission-nombre-de-dios-family-activities-st-augustine-fl">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/mission-nombre-de-dios-family-activities-st-augustine-fl-1024x576.jpg)](/images/2023/04/mission-nombre-de-dios-family-activities-st-augustine-fl.jpg)</figure>
+<figure id="mission-nombre-de-dios-family-activities-st-augustine-fl">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/mission-nombre-de-dios-family-activities-st-augustine-fl-1024x576.jpg)](/images/mission-nombre-de-dios-family-activities-st-augustine-fl.jpg)</figure>
 
 #### [National Shrine of Our Lady of La Leche at Mission Nombre de Dios](/go/mission-nombre-de-dios-st-augustine-fl/)
 
@@ -212,7 +212,7 @@ And let's not forget about the fun factor! Your little ones will be thrilled to 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9d495e7b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="st-george-street-family-activities-st-augustine-fl">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/st-george-street-family-activities-st-augustine-fl-1024x576.jpg)](/images/2023/04/st-george-street-family-activities-st-augustine-fl.jpg)</figure>
+<figure id="st-george-street-family-activities-st-augustine-fl">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/st-george-street-family-activities-st-augustine-fl-1024x576.jpg)](/images/st-george-street-family-activities-st-augustine-fl.jpg)</figure>
 
 #### [St. George Street](/go/st-george-street-st-augustine-fl/)
 
@@ -258,5 +258,5 @@ St. Augustine is a fantastic destination for families with so many cool and uniq
 
 **Like it? Pin it!**
 
-<figure id="things-to-do-in-st-augustine-with-kids">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/things-to-do-in-st-augustine-with-kids-200x300.jpg)](/images/2023/04/things-to-do-in-st-augustine-with-kids.jpg)</figure>
+<figure id="things-to-do-in-st-augustine-with-kids">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/things-to-do-in-st-augustine-with-kids-200x300.jpg)](/images/things-to-do-in-st-augustine-with-kids.jpg)</figure>
 </div></section>

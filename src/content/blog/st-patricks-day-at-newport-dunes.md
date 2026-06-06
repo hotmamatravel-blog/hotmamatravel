@@ -2,7 +2,7 @@
 title: "Why Families Love St. Patrick’s Day at Newport Dunes"
 description: ""
 pubDate: 2026-03-16
-heroImage: "/images/2017/03/Birthdays-at-Newport-Dunes.jpg"
+heroImage: "/images/Birthdays-at-Newport-Dunes.jpg"
 heroImageAlt: "St. Patrick"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Holiday Travel", "Hot California", "Hot Orange County", "Hot United States"]
@@ -114,5 +114,5 @@ Looking for even more adventures? Don’t miss our **[California Family Travel G
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="☘️ Looking for a family-friendly way to celebrate St. Patrick’s Day? Discover why we love celebrating at Newport Dunes Waterfront Resort &amp; Marina—calm bay waters, beach fun, glamping cottages, and the perfect spot for family celebrations. #stpatricksday #newportdunes #orangecounty #californiatravel #familytravel #glamping">[![St. Patrick](https://hotmamatravel.com/wp-content/uploads/2017/03/Guide-to-St.-Patricks-Day-At-Newport-Dunes-200x300.jpg)](/images/2017/03/Guide-to-St.-Patricks-Day-At-Newport-Dunes.jpg)</figure>
+<figure data-essb-pin-description="☘️ Looking for a family-friendly way to celebrate St. Patrick’s Day? Discover why we love celebrating at Newport Dunes Waterfront Resort &amp; Marina—calm bay waters, beach fun, glamping cottages, and the perfect spot for family celebrations. #stpatricksday #newportdunes #orangecounty #californiatravel #familytravel #glamping">[![St. Patrick](https://hotmamatravel.com/wp-content/uploads/2017/03/Guide-to-St.-Patricks-Day-At-Newport-Dunes-200x300.jpg)](/images/Guide-to-St.-Patricks-Day-At-Newport-Dunes.jpg)</figure>
 </div></div>

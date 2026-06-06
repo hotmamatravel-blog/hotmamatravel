@@ -2,7 +2,7 @@
 title: "8 Tips For Traveling Alone"
 description: ""
 pubDate: 2024-08-10
-heroImage: "/images/2024/08/8-tips-solo-travel-200x300.jpg"
+heroImage: "/images/8-tips-solo-travel-200x300.jpg"
 heroImageAlt: "Tips for Traveling Solo"
 category: "Partnership"
 tags: ["Partnership"]
@@ -96,7 +96,7 @@ So throw yourself into it all. We’re sure you’ll have a great time, and, in 
 
 Like it? Pin it!
 
-<figure id="tips-solo-travel">[![Tips for Traveling Solo](https://hotmamatravel.com/wp-content/uploads/2024/08/8-tips-solo-travel-200x300.jpg)](/images/2024/08/8-tips-solo-travel.jpg)</figure>
+<figure id="tips-solo-travel">[![Tips for Traveling Solo](https://hotmamatravel.com/wp-content/uploads/2024/08/8-tips-solo-travel-200x300.jpg)](/images/8-tips-solo-travel.jpg)</figure>
 </div></div>
 
 

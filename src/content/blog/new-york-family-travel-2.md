@@ -1,6 +1,6 @@
 ---
 title: "Best Of New York Family Travel"
-heroImage: "/images/2023/06/manhattan-new-york-five-boroughs.jpg"
+heroImage: "/images/manhattan-new-york-five-boroughs.jpg"
 heroImageAlt: "Best Of New York Family Travel"
 description: ""
 pubDate: 2025-10-01

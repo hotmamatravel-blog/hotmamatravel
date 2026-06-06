@@ -1,6 +1,6 @@
 ---
 title: "How to Approach Planning Your Next Trip"
-heroImage: "/images/2023/06/travel-planning.jpg"
+heroImage: "/images/travel-planning.jpg"
 heroImageAlt: "How to Approach Planning Your Next Trip"
 description: ""
 pubDate: 2023-06-13

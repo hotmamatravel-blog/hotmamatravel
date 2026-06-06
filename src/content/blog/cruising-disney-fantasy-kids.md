@@ -2,7 +2,7 @@
 title: "Family Guide to Disney Fantasy Cruise with kids - Everything you need to know"
 description: ""
 pubDate: 2023-01-19
-heroImage: "/images/2016/12/237-24207386-Embrk-Terminal-21509_GPR-1024x819.jpg"
+heroImage: "/images/237-24207386-Embrk-Terminal-21509_GPR-1024x819_201612.jpg"
 heroImageAlt: "Welcome Aboard Disney Fantasy Photo"
 category: "Disney Travel"
 tags: ["Disney Travel", "Hot Family Travels"]

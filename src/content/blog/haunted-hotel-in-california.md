@@ -3,7 +3,7 @@ title: "7 Family-Friendly Haunted Hotels in California 2026"
 description: ""
 pubDate: 2023-08-21
 updatedDate: 2026-01-07
-heroImage: "/images/2021/05/Holbrooke-hotel-grass-valley-hotels.jpg"
+heroImage: "/images/Holbrooke-hotel-grass-valley-hotels.jpg"
 heroImageAlt: "Holbrooke-hotel-grass-valley-hotels"
 category: "Family-Friendly Haunted Hotels"
 tags: ["Family-Friendly Haunted Hotels", "Haunted Places", "Hot California", "Hot United States", "Featured"]
@@ -230,5 +230,5 @@ Be sure to visit our [**California Family Travel**](/california-family-travel/) 
 
 Like it? Pin it!
 
-<figure id="most-haunted-hotel-california" data-essb-pin-description="Ready to sleep where the spirits roam? These haunted family hotels in California mix ghostly legends with gorgeous stays—so you can chase chills and relax in style. Perfect for adventurous families who love a story with their sleepover! #FamilyTravelWithATwist #HauntedHotels #CaliforniaTravel #FamilyAdventure">[![Most Haunted Family Hotels in California ](https://hotmamatravel.com/wp-content/uploads/2023/08/most-haunted-hotel-california-200x300.jpg)](/images/2023/08/most-haunted-hotel-california.jpg)</figure>
+<figure id="most-haunted-hotel-california" data-essb-pin-description="Ready to sleep where the spirits roam? These haunted family hotels in California mix ghostly legends with gorgeous stays—so you can chase chills and relax in style. Perfect for adventurous families who love a story with their sleepover! #FamilyTravelWithATwist #HauntedHotels #CaliforniaTravel #FamilyAdventure">[![Most Haunted Family Hotels in California ](https://hotmamatravel.com/wp-content/uploads/2023/08/most-haunted-hotel-california-200x300.jpg)](/images/most-haunted-hotel-california.jpg)</figure>
 </div></div>

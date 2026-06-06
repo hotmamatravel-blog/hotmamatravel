@@ -3,7 +3,7 @@ title: "5 Most Unique Temecula Wine Tours that include Lunch!"
 description: ""
 pubDate: 2021-05-28
 updatedDate: 2022-09-29
-heroImage: "/images/2022/09/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg"
+heroImage: "/images/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg"
 heroImageAlt: "Get your VinArmour wine travel case today"
 category: "Hot California"
 tags: ["Hot California", "Hot United States", "Featured"]
@@ -116,6 +116,6 @@ Who is thirsty? I know I am. Turn an ordinary day into a celebration with one of
 
 **Like it? Pin it!**
 
-<figure id="5-unique-temecula-wine-tours-lunch-included">[![](https://hotmamatravel.com/wp-content/uploads/2021/05/5-unique-temecula-wine-tours-lunch-included-200x300.jpg)](/images/2021/05/5-unique-temecula-wine-tours-lunch-included.jpg)</figure>
+<figure id="5-unique-temecula-wine-tours-lunch-included">[![](https://hotmamatravel.com/wp-content/uploads/2021/05/5-unique-temecula-wine-tours-lunch-included-200x300.jpg)](/images/5-unique-temecula-wine-tours-lunch-included.jpg)</figure>
 </div></section>
 

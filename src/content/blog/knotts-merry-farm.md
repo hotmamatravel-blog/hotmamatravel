@@ -3,7 +3,7 @@ title: "Knott’s Merry Farm 2026 Guide for Families with Kids"
 description: ""
 pubDate: 2016-11-26
 updatedDate: 2026-01-07
-heroImage: "/images/2016/11/Christmas-Craft-Village-Knotts-Merry-Farm-1.jpg"
+heroImage: "/images/Christmas-Craft-Village-Knotts-Merry-Farm-1.jpg"
 heroImageAlt: "Knott"
 category: "Holiday Travel"
 tags: ["Holiday Travel", "Hot California", "Hot Family Travels", "Hot Orange County", "Hot United States"]
@@ -121,5 +121,5 @@ If you’re planning a trip to the area, make sure to explore more **[family-fri
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Your complete guide to Knott’s Merry Farm from festive shows and holiday treats to twinkling rides and family fun! Discover the best things to do at Knott’s Merry Farm with kids and make this Christmas one to remember. 🎅❤️ #KnottsMerryFarm #FamilyTravel #HotMamaTravel">[![Things to do at Knott](https://hotmamatravel.com/wp-content/uploads/2016/11/Guide-to-Knotts-Merry-Farm-200x300.jpg)](/images/2016/11/Guide-to-Knotts-Merry-Farm.jpg)</figure>
+<figure data-essb-pin-description="Your complete guide to Knott’s Merry Farm from festive shows and holiday treats to twinkling rides and family fun! Discover the best things to do at Knott’s Merry Farm with kids and make this Christmas one to remember. 🎅❤️ #KnottsMerryFarm #FamilyTravel #HotMamaTravel">[![Things to do at Knott](https://hotmamatravel.com/wp-content/uploads/2016/11/Guide-to-Knotts-Merry-Farm-200x300.jpg)](/images/Guide-to-Knotts-Merry-Farm.jpg)</figure>
 </div></div>

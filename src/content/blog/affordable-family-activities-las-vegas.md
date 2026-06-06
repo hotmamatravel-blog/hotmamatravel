@@ -3,7 +3,7 @@ title: "Top 12 Affordable Family Activities Las Vegas 2026"
 description: ""
 pubDate: 2024-05-29
 updatedDate: 2026-03-25
-heroImage: "/images/2022/08/Las-Vegas-Eiffel-Tower.jpg"
+heroImage: "/images/Las-Vegas-Eiffel-Tower.jpg"
 heroImageAlt: "Eiffel tower paris hotel las vegas"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]
@@ -268,5 +268,5 @@ Check out more of our [**Las Vegas family travel guides**](/family-friendly-vega
 
 Like it? Pin it!
 
-<figure id="best-affordable-family-activities-las-vegas">[![](https://hotmamatravel.com/wp-content/uploads/2024/05/best-affordable-family-activities-las-vegas-200x300.jpg)](/images/2024/05/best-affordable-family-activities-las-vegas.jpg)</figure>
+<figure id="best-affordable-family-activities-las-vegas">[![](https://hotmamatravel.com/wp-content/uploads/2024/05/best-affordable-family-activities-las-vegas-200x300.jpg)](/images/best-affordable-family-activities-las-vegas.jpg)</figure>
 </div></div>

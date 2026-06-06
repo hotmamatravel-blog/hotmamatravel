@@ -2,7 +2,7 @@
 title: "Should you rent a minivan when visiting Orlando?"
 description: ""
 pubDate: 2020-02-07
-heroImage: "/images/2017/03/Disney-epcot-drinking-around-the-world-challenge-with-kids.png"
+heroImage: "/images/Disney-epcot-drinking-around-the-world-challenge-with-kids.png"
 heroImageAlt: "Drink Around the World Disney Epcot with Kids"
 category: "Hot Florida"
 tags: ["Hot Florida", "Hot Tips"]

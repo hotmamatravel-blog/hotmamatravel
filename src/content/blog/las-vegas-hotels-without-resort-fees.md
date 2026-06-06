@@ -3,7 +3,7 @@ title: "7 Rare And Cool Las Vegas Hotels Without Resort Fees 2026"
 description: ""
 pubDate: 2024-03-22
 updatedDate: 2026-03-25
-heroImage: "/images/2023/05/travelodge-wyndham-las-vegas-hotels-without-resort-fees.jpg"
+heroImage: "/images/travelodge-wyndham-las-vegas-hotels-without-resort-fees.jpg"
 heroImageAlt: "Travelodge by Wyndham Las Vegas Hotels without resort fees"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]
@@ -174,5 +174,5 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 **Like it? Pin it!**
 
-<figure id="las-vegas-hotels-without-resort-fees-near-or-on-the-strip">[![](https://hotmamatravel.com/wp-content/uploads/2023/05/las-vegas-hotels-without-resort-fees-near-or-on-the-strip-200x300.jpg)](/images/2023/05/las-vegas-hotels-without-resort-fees-near-or-on-the-strip.jpg)</figure>
+<figure id="las-vegas-hotels-without-resort-fees-near-or-on-the-strip">[![](https://hotmamatravel.com/wp-content/uploads/2023/05/las-vegas-hotels-without-resort-fees-near-or-on-the-strip-200x300.jpg)](/images/las-vegas-hotels-without-resort-fees-near-or-on-the-strip.jpg)</figure>
 </div></section>

@@ -3,7 +3,7 @@ title: "6 Best Glamping San Diego Sites that All Ages Will Love"
 description: ""
 pubDate: 2023-06-08
 updatedDate: 2023-06-27
-heroImage: "/images/2020/10/San-Diego-Koa-Glamping-Cabins.jpg"
+heroImage: "/images/San-Diego-Koa-Glamping-Cabins.jpg"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Hot California", "Featured"]
 wpId: 13757

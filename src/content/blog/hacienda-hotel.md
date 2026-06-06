@@ -3,7 +3,7 @@ title: "Hotel Spotlight: Family review of Best Western Plus Hacienda Hotel in Ol
 description: ""
 pubDate: 2016-11-07
 updatedDate: 2019-03-28
-heroImage: "/images/2014/07/DSCN6802-768x1024.jpg"
+heroImage: "/images/DSCN6802-768x1024.jpg"
 heroImageAlt: "Best Western Hacienda Hotel Old Town San Diego"
 category: "Hot California"
 tags: ["Hot California", "Hot United States"]

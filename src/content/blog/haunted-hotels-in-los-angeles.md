@@ -3,7 +3,7 @@ title: "7 Haunted Hotels in Los Angeles for Spooky Families 2026"
 description: ""
 pubDate: 2022-12-13
 updatedDate: 2026-01-07
-heroImage: "/images/2023/08/queen-mary-haunted-hotels-california.jpg"
+heroImage: "/images/queen-mary-haunted-hotels-california.jpg"
 heroImageAlt: "Queen Mary Haunted Hotel Los Angeles"
 category: "Family-Friendly Haunted Hotels"
 tags: ["Family-Friendly Haunted Hotels", "Haunted Places", "Hot California", "Hot United States", "Featured"]
@@ -159,5 +159,5 @@ Like it? Pin it!
 
 <figure id="haunted-hotels-los-angeles" data-essb-pin-description="Think haunted hotels aren’t kid-friendly? 👻✨ Think again. From legendary ghost stories to historic stays with just the right amount of spooky, these most haunted hotels in Los Angeles are surprisingly fun for families who love a thrill without the nightmares. Perfect for curious kids, brave parents, and memory-making stays.
 
-#HauntedHotels #LosAngelesWithKids #FamilyTravel #SpookyFamilyFun #HauntedLA #TravelWithKids #HotMamaTravel">[![Most Haunted Hotels in Los Angeles  for Familes ](https://hotmamatravel.com/wp-content/uploads/2022/12/Haunted-hotels-los-angeles-1-200x300.jpg)](/images/2022/12/Haunted-hotels-los-angeles-1.jpg)</figure>
+#HauntedHotels #LosAngelesWithKids #FamilyTravel #SpookyFamilyFun #HauntedLA #TravelWithKids #HotMamaTravel">[![Most Haunted Hotels in Los Angeles  for Familes ](https://hotmamatravel.com/wp-content/uploads/2022/12/Haunted-hotels-los-angeles-1-200x300.jpg)](/images/Haunted-hotels-los-angeles-1.jpg)</figure>
 </div></div>

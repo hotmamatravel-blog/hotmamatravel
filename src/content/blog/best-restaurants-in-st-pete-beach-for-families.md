@@ -2,7 +2,7 @@
 title: "14 Best Restaurants in St Pete Beach For Families 2024"
 description: ""
 pubDate: 2024-02-15
-heroImage: "/images/2023/03/snappers-kid-friendly-restaurants-st-pete-beach.jpg"
+heroImage: "/images/snappers-kid-friendly-restaurants-st-pete-beach.jpg"
 heroImageAlt: "snappers seafood grill, best restaurants in st pete beach for families"
 category: "Hot Florida"
 tags: ["Hot Florida", "Hot United States", "Featured"]
@@ -246,5 +246,5 @@ Be sure to explore more of [St. Pete Beach](/st-pete-beach-with-kids/) and more 
 
 Like it? Pin it!
 
-<figure id="best-family-restaurants-in-st-pete-beach">[![](https://hotmamatravel.com/wp-content/uploads/2024/02/best-family-restaurants-in-st-pete-beach-200x300.jpg)](/images/2024/02/best-family-restaurants-in-st-pete-beach.jpg)</figure>
+<figure id="best-family-restaurants-in-st-pete-beach">[![](https://hotmamatravel.com/wp-content/uploads/2024/02/best-family-restaurants-in-st-pete-beach-200x300.jpg)](/images/best-family-restaurants-in-st-pete-beach.jpg)</figure>
 </div></div>

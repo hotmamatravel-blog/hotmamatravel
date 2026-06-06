@@ -3,7 +3,7 @@ title: "Work with us"
 description: ""
 pubDate: 2017-11-05
 updatedDate: 2019-12-04
-heroImage: "/images/2017/11/Brands-We-work-with.png"
+heroImage: "/images/Brands-We-work-with.png"
 heroImageAlt: "Image of brand HotMamaTravel work with"
 category: "Family Travel"
 tags: []
@@ -14,7 +14,7 @@ author: "Amanda Keeley-Thurman"
 
 If you have got a great product or service that is relevant to our readers, we can help **promote your brand to *thousands* of travelers**.
 
-[*Click [**here**](/images/2019/12/Media-Kit-HotMamaTravel-DEC2019.pdf) to view our professional media kit*]
+[*Click [**here**](/images/Media-Kit-HotMamaTravel-DEC2019.pdf) to view our professional media kit*]
 
 HotMamaTravel is a high-quality family travel blog that provides information and inspiration to help parents travel, and travel often. We provide honest hotel and restaurant reviews, destination guides, and information about tours, museums, transportation - basically anything related to the travel needs and desires of our readers.
 
@@ -93,4 +93,4 @@ You can contact us by email: hotmamatravel@gmail.com
 
 Thank you for your interest in partnering with HotMamaTravel!
 
-Click [**here**](/images/2019/12/Media-Kit-HotMamaTravel-DEC2019.pdf) to view our media kit
+Click [**here**](/images/Media-Kit-HotMamaTravel-DEC2019.pdf) to view our media kit

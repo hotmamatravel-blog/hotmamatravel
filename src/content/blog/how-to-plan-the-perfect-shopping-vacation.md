@@ -1,6 +1,6 @@
 ---
 title: "How to Plan the Perfect Shopping Vacation"
-heroImage: "/images/2023/07/how-to-plan-for-a-shopping-vacation.jpg"
+heroImage: "/images/how-to-plan-for-a-shopping-vacation.jpg"
 heroImageAlt: "How to Plan the Perfect Shopping Vacation"
 description: ""
 pubDate: 2023-07-14

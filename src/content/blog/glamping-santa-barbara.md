@@ -2,7 +2,7 @@
 title: "4 Rustic Santa Barbara Glamping Spots you'll Love"
 description: ""
 pubDate: 2023-06-27
-heroImage: "/images/2020/10/glamping-el-capitan-canyon-santa-barbara.jpg"
+heroImage: "/images/glamping-el-capitan-canyon-santa-barbara.jpg"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Hot California", "Hot United States", "Featured"]
 wpId: 14017

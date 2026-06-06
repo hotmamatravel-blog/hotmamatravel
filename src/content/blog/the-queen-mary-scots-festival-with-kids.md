@@ -3,7 +3,7 @@ title: "Ultimate Guide to The Queen Mary Scots Festival with Kids"
 description: ""
 pubDate: 2017-02-04
 updatedDate: 2019-06-19
-heroImage: "/images/2017/02/Queen-Mary-Ship.png"
+heroImage: "/images/Queen-Mary-Ship.png"
 heroImageAlt: "Queen Mary Ship with Sign"
 category: "Hot California"
 tags: ["Hot California", "Hot Orange County", "Hot United States"]
@@ -44,14 +44,14 @@ For the kiddos there are Kid-friendly versions of the highland games for free. M
 
 [![Wee Highland Games: Tug O](https://hotmamatravel.com/wp-content/uploads/2015/04/DSCN8863-1024x768.jpg)](/the-queen-mary-scots-festival-with-kids/) **Tug O' War: Firecracker is one boy team**
 
-[![Kids enjoying the Wee Highland Games at the Queen Mary Scots Fest](https://hotmamatravel.com/wp-content/uploads/2015/04/WEE-ATHLETICS-1024x768.jpg)](/images/2015/04/WEE-ATHLETICS.jpg) **Archery, Caber Toss and Sack Races**
+[![Kids enjoying the Wee Highland Games at the Queen Mary Scots Fest](https://hotmamatravel.com/wp-content/uploads/2015/04/WEE-ATHLETICS-1024x768.jpg)](/images/WEE-ATHLETICS.jpg) **Archery, Caber Toss and Sack Races**
 
 In addition to the Wee Athletics are other exciting activities for the kids like the Balmoral Bounce House face paintings, meeting royalty at Queen Mary’s Quest Knighting’s &amp; Coronations. Yes, your kid could get knighted (for fun).
 
 [![The kids meeting Queen Mary of Scots at the Queen Mary Scottish Festival](https://hotmamatravel.com/wp-content/uploads/2015/04/DSCN8882-682x1024.jpg)](/the-queen-mary-scots-festival-with-kids/)
 [![Getting a special mission from the Queen at the Queen Mary Scots Fest](https://hotmamatravel.com/wp-content/uploads/2015/04/DSCN8884-1024x683.jpg)](/the-queen-mary-scots-festival-with-kids/) Firecracker is sent on a special mission by the Queen
 
-[![Kids getting their face painted during the Queen Mary Scots Fest](https://hotmamatravel.com/wp-content/uploads/2015/04/FACE-PAINTING-1024x768.jpg)](/images/2015/04/FACE-PAINTING.jpg)
+[![Kids getting their face painted during the Queen Mary Scots Fest](https://hotmamatravel.com/wp-content/uploads/2015/04/FACE-PAINTING-1024x768.jpg)](/images/FACE-PAINTING.jpg)
 
 [![Bounce house fun at the Queen Mary](https://hotmamatravel.com/wp-content/uploads/2015/04/DSCN8865-1024x684.jpg)](/the-queen-mary-scots-festival-with-kids/)
 
@@ -96,7 +96,7 @@ There are various beer gardens set up around the Scots Festival, but I prefer to
 
 [![Drinks at the Tavern at the Queen Mary Scots Fest](https://hotmamatravel.com/wp-content/uploads/2015/04/DSCN8845-1024x768.jpg)](/the-queen-mary-scots-festival-with-kids/)
 
-[![Hanging out at the fun Observation Bar on the Queen Mary](https://hotmamatravel.com/wp-content/uploads/2015/04/OBSERVATION-BAR-1024x768.jpg)](/images/2015/04/OBSERVATION-BAR.jpg)
+[![Hanging out at the fun Observation Bar on the Queen Mary](https://hotmamatravel.com/wp-content/uploads/2015/04/OBSERVATION-BAR-1024x768.jpg)](/images/OBSERVATION-BAR.jpg)
 
 ## ***That’s a Wrap:***
 

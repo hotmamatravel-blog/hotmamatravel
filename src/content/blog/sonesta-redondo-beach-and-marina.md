@@ -3,7 +3,7 @@ title: "Why You Will Love Sonesta Redondo Beach and Marina"
 description: ""
 pubDate: 2023-11-10
 updatedDate: 2023-11-14
-heroImage: "/images/2023/11/family-friendly-Sonesta-Redondo-Beach-and-Marina.jpg"
+heroImage: "/images/family-friendly-Sonesta-Redondo-Beach-and-Marina.jpg"
 heroImageAlt: "Family-friendly Sonesta Redondo Beach Hotel"
 category: "Family Hotels"
 tags: ["Family Hotels", "Hot California", "Hot United States", "Featured"]
@@ -132,5 +132,5 @@ Sonesta Redondo Beach &amp; Marina isn't just a hotel; it's a coastal haven that
 
 Like it? Pin it!
 
-<figure id="why-you-will-love-sonesta-redondo-beach-and-marina">[![](https://hotmamatravel.com/wp-content/uploads/2023/11/Sonesta-Redondo-Beach-200x300.jpg)](/images/2023/11/Sonesta-Redondo-Beach.jpg)</figure>
+<figure id="why-you-will-love-sonesta-redondo-beach-and-marina">[![](https://hotmamatravel.com/wp-content/uploads/2023/11/Sonesta-Redondo-Beach-200x300.jpg)](/images/Sonesta-Redondo-Beach.jpg)</figure>
 </div></div>

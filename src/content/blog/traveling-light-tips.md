@@ -1,6 +1,6 @@
 ---
 title: "Traveling Light: How To Make It Work"
-heroImage: "/images/2024/03/tips-for-traveling-light.jpg"
+heroImage: "/images/tips-for-traveling-light.jpg"
 heroImageAlt: "Traveling Light: How To Make It Work"
 description: ""
 pubDate: 2024-03-23

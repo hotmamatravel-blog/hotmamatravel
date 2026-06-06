@@ -3,7 +3,7 @@ title: "6 Awesome Things To Do In Las Vegas With A Toddler 2026"
 description: ""
 pubDate: 2025-02-05
 updatedDate: 2026-03-25
-heroImage: "/images/2025/02/Best-things-to-do-in-las-vegas-with-a-toddler-200x300.jpg"
+heroImage: "/images/Best-things-to-do-in-las-vegas-with-a-toddler-200x300.jpg"
 heroImageAlt: "Best things to do in Las Vegas with a toddler"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]
@@ -123,5 +123,5 @@ Also, check my **[family travel guides for Las Vegas](/family-friendly-vegas/)**
 
 Like it? Pin it!
 
-<figure id="las-vegas-with-toddler-tips">[![Best things to do in Las Vegas with a toddler](https://hotmamatravel.com/wp-content/uploads/2025/02/Best-things-to-do-in-las-vegas-with-a-toddler-200x300.jpg)](/images/2025/02/Best-things-to-do-in-las-vegas-with-a-toddler.jpg)</figure>
+<figure id="las-vegas-with-toddler-tips">[![Best things to do in Las Vegas with a toddler](https://hotmamatravel.com/wp-content/uploads/2025/02/Best-things-to-do-in-las-vegas-with-a-toddler-200x300.jpg)](/images/Best-things-to-do-in-las-vegas-with-a-toddler.jpg)</figure>
 </div></div>

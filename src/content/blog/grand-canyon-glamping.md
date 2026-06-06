@@ -2,7 +2,7 @@
 title: "5 Epic Grand Canyon Glamping Sites that you will love"
 description: ""
 pubDate: 2023-06-27
-heroImage: "/images/2021/07/under-canvas-grand-canyon-tent-glamping.jpg"
+heroImage: "/images/under-canvas-grand-canyon-tent-glamping.jpg"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Hot Arizona", "Hot United States", "Featured"]
 wpId: 14708
@@ -148,5 +148,5 @@ If you love glamping and just can’t get enough we have a more locations for yo
 
 **Like it? Pin it!**
 
-<figure id="5-best-glamping-sites-grand-canyon">[![](https://hotmamatravel.com/wp-content/uploads/2021/07/5-best-glamping-sites-grand-canyon-200x300.jpg)](/images/2021/07/5-best-glamping-sites-grand-canyon.jpg)</figure>
+<figure id="5-best-glamping-sites-grand-canyon">[![](https://hotmamatravel.com/wp-content/uploads/2021/07/5-best-glamping-sites-grand-canyon-200x300.jpg)](/images/5-best-glamping-sites-grand-canyon.jpg)</figure>
 </div></section>

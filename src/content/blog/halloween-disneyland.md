@@ -3,7 +3,7 @@ title: "Everything You Need to Know about Halloween at Disneyland"
 description: ""
 pubDate: 2016-10-27
 updatedDate: 2025-03-07
-heroImage: "/images/2014/10/IMG_1548-1024x1024.jpg"
+heroImage: "/images/IMG_1548-1024x1024.jpg"
 heroImageAlt: "Halloween at Disneyland"
 category: "Disney Travel"
 tags: ["Disney Travel", "Holiday Travel", "Hot California", "Hot United States"]

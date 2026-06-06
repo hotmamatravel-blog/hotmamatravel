@@ -3,7 +3,7 @@ title: "Best Las Vegas Accommodations Large Family Group 2026"
 description: ""
 pubDate: 2024-05-20
 updatedDate: 2026-03-25
-heroImage: "/images/2024/05/las-vegas-accommodations-large-family-group.jpg"
+heroImage: "/images/las-vegas-accommodations-large-family-group.jpg"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]
 wpId: 9462

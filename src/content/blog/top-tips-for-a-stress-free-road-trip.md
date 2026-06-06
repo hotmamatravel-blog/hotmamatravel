@@ -3,7 +3,7 @@ title: "Top Tips For A Stress-Free Road Trip"
 description: ""
 pubDate: 2023-08-23
 updatedDate: 2025-06-01
-heroImage: "/images/2023/08/Top-Tips-for-a-Stress-Free-Road-Trip-200x300.jpg"
+heroImage: "/images/Top-Tips-for-a-Stress-Free-Road-Trip-200x300.jpg"
 category: "Hot Road Trips"
 tags: ["Hot Road Trips", "Hot Tips", "Partnership"]
 wpId: 18635
@@ -75,5 +75,5 @@ Your road trip will be one of the best experiences of your life, but there is st
 
 Like it? Pin it!
 
-<figure id="Top-Tips-for-a-Stress-Free-Road-Trip">[![](https://hotmamatravel.com/wp-content/uploads/2023/08/Top-Tips-for-a-Stress-Free-Road-Trip-200x300.jpg)](/images/2023/08/Top-Tips-for-a-Stress-Free-Road-Trip.jpg)</figure>
+<figure id="Top-Tips-for-a-Stress-Free-Road-Trip">[![](https://hotmamatravel.com/wp-content/uploads/2023/08/Top-Tips-for-a-Stress-Free-Road-Trip-200x300.jpg)](/images/Top-Tips-for-a-Stress-Free-Road-Trip.jpg)</figure>
 </div></div>

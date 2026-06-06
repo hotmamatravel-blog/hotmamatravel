@@ -3,7 +3,7 @@ title: "Traveling in Place and Embracing Local Travel"
 description: ""
 pubDate: 2016-08-15
 updatedDate: 2019-06-19
-heroImage: "/images/2014/03/DSCN9369-1024x683.jpg"
+heroImage: "/images/DSCN9369-1024x683.jpg"
 heroImageAlt: "kids at airport"
 category: "Hot Tips"
 tags: ["Hot Tips"]

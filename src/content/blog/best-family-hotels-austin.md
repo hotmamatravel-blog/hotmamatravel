@@ -3,7 +3,7 @@ title: "5 Best Family Hotels in Austin, TX with kids"
 description: ""
 pubDate: 2019-08-09
 updatedDate: 2024-01-11
-heroImage: "/images/2019/08/austin-family-pool-hyatt-regency-austin.jpg"
+heroImage: "/images/austin-family-pool-hyatt-regency-austin.jpg"
 heroImageAlt: "Pool at the Hyatt Regency Austin"
 category: "Hot Texas"
 tags: ["Hot Texas", "Hot United States"]

@@ -3,7 +3,7 @@ title: "7 Beautiful & Challenging Temecula Golf Courses you will Love"
 description: ""
 pubDate: 2021-06-12
 updatedDate: 2021-06-13
-heroImage: "/images/2021/06/legends-golf-club-temeku-hills-temecula-ca.jpg"
+heroImage: "/images/legends-golf-club-temeku-hills-temecula-ca.jpg"
 category: "Hot California"
 tags: ["Hot California", "Hot United States", "Featured"]
 wpId: 14601
@@ -121,5 +121,5 @@ Hey while you're out there, be sure to hit up some [wineries](/kid-friendly-wine
 
 **Like it? Pin it!**
 
-<div id="7-best-golf-courses-temecula-ca" class="wp-block-image"><figure class="alignleft size-medium">[![](https://hotmamatravel.com/wp-content/uploads/2021/06/7-best-golf-courses-temecula-ca-200x300.jpg)](/images/2021/06/7-best-golf-courses-temecula-ca.jpg)</figure></div>
+<div id="7-best-golf-courses-temecula-ca" class="wp-block-image"><figure class="alignleft size-medium">[![](https://hotmamatravel.com/wp-content/uploads/2021/06/7-best-golf-courses-temecula-ca-200x300.jpg)](/images/7-best-golf-courses-temecula-ca.jpg)</figure></div>
 </div></section>

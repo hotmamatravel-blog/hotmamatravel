@@ -3,7 +3,7 @@ title: "5 Family-Friendly Haunted Hotels in Texas 2025"
 description: ""
 pubDate: 2023-09-04
 updatedDate: 2025-10-09
-heroImage: "/images/2023/08/menger-hotel-haunted-hotels-san-antonio.jpg"
+heroImage: "/images/menger-hotel-haunted-hotels-san-antonio.jpg"
 heroImageAlt: "Haunted Menger Hotel in San Antonio Texas"
 category: "Family-Friendly Haunted Hotels"
 tags: ["Family-Friendly Haunted Hotels", "Haunted Places", "Hot Texas", "Hot United States", "Featured"]
@@ -238,5 +238,5 @@ Explore more haunted places in Texas as wells as across America, in the **[best 
 
 Like it? Pin it!
 
-<figure id="most-haunted-hotels-texas" data-essb-pin-description="Step back in time at the haunted Magnolia Hotel in Seguin, TX 👻. This historic bed &amp; breakfast gives your family the entire second floor to yourselves—if you dare spend the night with its ghostly guests! Perfect for spooky history buffs and adventurous families looking for a unique Texas stay. #HauntedHotel #SeguinTX #FamilyTravelWithATwist">[![Most Haunted Hotels in Texas for Families](https://hotmamatravel.com/wp-content/uploads/2023/09/haunted-hotels-texas-200x300.jpg)](/images/2023/09/haunted-hotels-texas.jpg)</figure>
+<figure id="most-haunted-hotels-texas" data-essb-pin-description="Step back in time at the haunted Magnolia Hotel in Seguin, TX 👻. This historic bed &amp; breakfast gives your family the entire second floor to yourselves—if you dare spend the night with its ghostly guests! Perfect for spooky history buffs and adventurous families looking for a unique Texas stay. #HauntedHotel #SeguinTX #FamilyTravelWithATwist">[![Most Haunted Hotels in Texas for Families](https://hotmamatravel.com/wp-content/uploads/2023/09/haunted-hotels-texas-200x300.jpg)](/images/haunted-hotels-texas.jpg)</figure>
 </div></div>

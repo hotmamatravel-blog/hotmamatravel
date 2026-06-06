@@ -3,7 +3,7 @@ title: "7 interesting Activities to Consider on Your Next Family Vacation"
 description: ""
 pubDate: 2022-06-14
 updatedDate: 2025-06-01
-heroImage: "/images/2022/06/family-beach-vacation.jpg"
+heroImage: "/images/family-beach-vacation.jpg"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Partnership", "Featured"]
 wpId: 16062

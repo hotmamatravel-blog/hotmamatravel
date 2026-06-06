@@ -2,7 +2,7 @@
 title: "5 Things To Try When You're In Charleston"
 description: ""
 pubDate: 2023-09-22
-heroImage: "/images/2021/02/charleston-city-market-charleston-sc.jpg"
+heroImage: "/images/charleston-city-market-charleston-sc.jpg"
 heroImageAlt: "Visit the Charleston City Market "
 category: "Hot South Carolina"
 tags: ["Hot South Carolina", "Hot United States"]
@@ -101,5 +101,5 @@ You’ll have plenty of options to choose from, and some of them can be more app
 
 Like it? Pin it!
 
-<figure id="5-Things-To-Try-When-You're-In-Charleston">[![](https://hotmamatravel.com/wp-content/uploads/2023/09/5-Things-To-Try-When-Youre-In-Charleston-200x300.jpg)](/images/2023/09/5-Things-To-Try-When-Youre-In-Charleston.jpg)</figure>
+<figure id="5-Things-To-Try-When-You're-In-Charleston">[![](https://hotmamatravel.com/wp-content/uploads/2023/09/5-Things-To-Try-When-Youre-In-Charleston-200x300.jpg)](/images/5-Things-To-Try-When-Youre-In-Charleston.jpg)</figure>
 </div></div>

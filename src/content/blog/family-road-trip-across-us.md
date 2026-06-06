@@ -3,7 +3,7 @@ title: "Family Road Trip Across US: See our Route, 19 states in 60 days"
 description: ""
 pubDate: 2017-12-15
 updatedDate: 2020-02-18
-heroImage: "/images/2017/12/gloucester-city-nj-travel-collage.jpg"
+heroImage: "/images/gloucester-city-nj-travel-collage.jpg"
 heroImageAlt: "gloucester city travel photos"
 category: "Hot Road Trips"
 tags: ["Hot Road Trips", "Hot United States"]

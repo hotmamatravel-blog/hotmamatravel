@@ -3,7 +3,7 @@ title: "3 Unforgettable Weekend Road Trips from Las Vegas 2026"
 description: ""
 pubDate: 2024-05-13
 updatedDate: 2026-03-25
-heroImage: "/images/2024/05/oatman-arizona.jpg"
+heroImage: "/images/oatman-arizona.jpg"
 heroImageAlt: "Wild Burros in Oatman Arizona"
 category: "Hot Arizona"
 tags: ["Hot Arizona", "Hot Las Vegas", "Hot Nevada", "Hot Road Trips", "Hot United States", "Hot Utah", "Featured"]
@@ -206,5 +206,5 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Best weekend road trips from Las Vegas your family will love.">[![Weekend road trips from  Las Vegas](https://hotmamatravel.com/wp-content/uploads/2024/05/Best-weekend-road-trips-from-Las-Vegas-200x300.jpg)](/images/2024/05/Best-weekend-road-trips-from-Las-Vegas.jpg)</figure>
+<figure data-essb-pin-description="Best weekend road trips from Las Vegas your family will love.">[![Weekend road trips from  Las Vegas](https://hotmamatravel.com/wp-content/uploads/2024/05/Best-weekend-road-trips-from-Las-Vegas-200x300.jpg)](/images/Best-weekend-road-trips-from-Las-Vegas.jpg)</figure>
 </div></div>

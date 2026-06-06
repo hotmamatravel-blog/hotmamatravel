@@ -3,7 +3,7 @@ title: "Ultimate Guide to Disney California Adventure with Kids"
 description: ""
 pubDate: 2017-02-09
 updatedDate: 2025-03-07
-heroImage: "/images/2014/06/DSCN5741-1024x768.jpg"
+heroImage: "/images/DSCN5741-1024x768.jpg"
 heroImageAlt: "Disney California Adventure with kids"
 category: "Disney Travel"
 tags: ["Disney Travel", "Hot California", "Hot Family Travels", "Hot Orange County", "Hot United States"]

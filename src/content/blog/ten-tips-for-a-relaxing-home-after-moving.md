@@ -3,7 +3,7 @@ title: "Ten Tips for a Relaxing Home After Moving"
 description: ""
 pubDate: 2023-12-18
 updatedDate: 2025-06-01
-heroImage: "/images/2023/12/10-tips-for-a-relaxing-home-after-moving-200x300.jpg"
+heroImage: "/images/10-tips-for-a-relaxing-home-after-moving-200x300.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership"]
 wpId: 19710
@@ -132,5 +132,5 @@ Creating a relaxing home, especially after the physically, mentally, and emotion
 
 Like it? Pin it!
 
-<figure id="10-tips-for-a-relaxing-home-after-moving">[![](https://hotmamatravel.com/wp-content/uploads/2023/12/10-tips-for-a-relaxing-home-after-moving-200x300.jpg)](/images/2023/12/10-tips-for-a-relaxing-home-after-moving.jpg)</figure>
+<figure id="10-tips-for-a-relaxing-home-after-moving">[![](https://hotmamatravel.com/wp-content/uploads/2023/12/10-tips-for-a-relaxing-home-after-moving-200x300.jpg)](/images/10-tips-for-a-relaxing-home-after-moving.jpg)</figure>
 </div></div>

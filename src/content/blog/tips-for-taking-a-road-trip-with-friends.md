@@ -3,7 +3,7 @@ title: "Tips For Taking A Road Trip With Friends"
 description: ""
 pubDate: 2023-10-03
 updatedDate: 2025-06-01
-heroImage: "/images/2023/10/Tips-for-road-trips-with-friends-2-200x300.jpg"
+heroImage: "/images/Tips-for-road-trips-with-friends-2-200x300.jpg"
 category: "Hot Road Trips"
 tags: ["Hot Road Trips", "Hot Tips", "Partnership"]
 wpId: 19134
@@ -98,5 +98,5 @@ These are just a few top tips for a road trip with friends that are sure to help
 
 Like it? Pin it!
 
-<figure id="tips-for-taking-road-trips-with-friends">[![](https://hotmamatravel.com/wp-content/uploads/2023/10/Tips-for-road-trips-with-friends-2-200x300.jpg)](/images/2023/10/Tips-for-road-trips-with-friends-2.jpg)</figure>
+<figure id="tips-for-taking-road-trips-with-friends">[![](https://hotmamatravel.com/wp-content/uploads/2023/10/Tips-for-road-trips-with-friends-2-200x300.jpg)](/images/Tips-for-road-trips-with-friends-2.jpg)</figure>
 </div></div>

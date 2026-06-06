@@ -1,6 +1,6 @@
 ---
 title: "Best Of Texas Family Travel"
-heroImage: "/images/2020/05/rio-san-antonio-cruise-family-fun-activities.jpg"
+heroImage: "/images/rio-san-antonio-cruise-family-fun-activities.jpg"
 heroImageAlt: "Best Of Texas Family Travel"
 description: ""
 pubDate: 2025-10-02

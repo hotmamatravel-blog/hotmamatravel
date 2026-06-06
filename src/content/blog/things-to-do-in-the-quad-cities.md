@@ -2,7 +2,7 @@
 title: "Fun Things to do in the Quad Cities with Kids"
 description: ""
 pubDate: 2023-01-30
-heroImage: "/images/2023/01/Mississippi-Riverfront-quad-cities.jpg"
+heroImage: "/images/Mississippi-Riverfront-quad-cities.jpg"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot United States", "Featured"]
 wpId: 16781
@@ -203,5 +203,5 @@ Knock out four cities in one trip with a trip to the Quad Cities. Hope this list
 
 **Like it? Pin it!**
 
-<figure id="Things-to-do-in-the-quad-cities">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/Things-to-do-in-the-quad-cities-200x300.jpg)](/images/2023/01/Things-to-do-in-the-quad-cities.jpg)</figure>
+<figure id="Things-to-do-in-the-quad-cities">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/Things-to-do-in-the-quad-cities-200x300.jpg)](/images/Things-to-do-in-the-quad-cities.jpg)</figure>
 </div></section>

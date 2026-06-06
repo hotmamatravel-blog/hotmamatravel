@@ -3,7 +3,7 @@ title: "17 Best Free Family Activities Las Vegas 2026"
 description: ""
 pubDate: 2024-04-18
 updatedDate: 2026-03-25
-heroImage: "/images/2020/03/las-vegas-teens.jpg"
+heroImage: "/images/las-vegas-teens.jpg"
 heroImageAlt: "free family activities las vegas strip"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]
@@ -320,5 +320,5 @@ Check out more of our great **[Vegas for kids guides](/family-friendly-vegas/), 
 
 **Like it? Pin it!**
 
-<figure id="best-free-family-activities-las-vegas">[![](https://hotmamatravel.com/wp-content/uploads/2024/04/best-free-family-activities-las-vegas-200x300.jpg)](/images/2024/04/best-free-family-activities-las-vegas.jpg)</figure>
+<figure id="best-free-family-activities-las-vegas">[![](https://hotmamatravel.com/wp-content/uploads/2024/04/best-free-family-activities-las-vegas-200x300.jpg)](/images/best-free-family-activities-las-vegas.jpg)</figure>
 </div></section>

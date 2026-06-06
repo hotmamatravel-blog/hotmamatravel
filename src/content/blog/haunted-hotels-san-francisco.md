@@ -3,7 +3,7 @@ title: "4 Haunted San Francisco Hotels Families Will Love 2026"
 description: ""
 pubDate: 2023-10-02
 updatedDate: 2026-05-13
-heroImage: "/images/2023/08/queen-anne-hotel-haunted-hotels-california.jpg"
+heroImage: "/images/queen-anne-hotel-haunted-hotels-california.jpg"
 heroImageAlt: "Haunted hotels in San Francisco California, The Queen Anne Hotel"
 category: "Family-Friendly Haunted Hotels"
 tags: ["Family-Friendly Haunted Hotels", "Haunted Places", "Hot California", "Hot United States", "Featured"]
@@ -179,5 +179,5 @@ And to expand your vacation, check out more [**California family travel ideas**]
 
 Like it? Pin it!
 
-<figure id="haunted-hotels-san-francisco" data-essb-pin-description="Explore the spookier side of San Francisco! Discover haunted hotels that are perfect for families, complete with ghostly tales, historic charm, and kid-friendly perks. Plus, tips for visiting Alcatraz make this a must-read guide for curious adventurers.">[![most haunted hotels San Francisco](https://hotmamatravel.com/wp-content/uploads/2023/10/most-haunted-hotels-san-francisco-to-stay-in-200x300.jpg)](/images/2023/10/most-haunted-hotels-san-francisco-to-stay-in.jpg)</figure>
+<figure id="haunted-hotels-san-francisco" data-essb-pin-description="Explore the spookier side of San Francisco! Discover haunted hotels that are perfect for families, complete with ghostly tales, historic charm, and kid-friendly perks. Plus, tips for visiting Alcatraz make this a must-read guide for curious adventurers.">[![most haunted hotels San Francisco](https://hotmamatravel.com/wp-content/uploads/2023/10/most-haunted-hotels-san-francisco-to-stay-in-200x300.jpg)](/images/most-haunted-hotels-san-francisco-to-stay-in.jpg)</figure>
 </div></div>

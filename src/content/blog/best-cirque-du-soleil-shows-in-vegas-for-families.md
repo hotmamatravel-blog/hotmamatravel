@@ -3,7 +3,7 @@ title: "5 Best Cirque du Soleil Shows in Vegas for Families in 2026"
 description: ""
 pubDate: 2024-06-04
 updatedDate: 2026-03-25
-heroImage: "/images/2024/06/Mystere-Cirque-du-soleil-las-vegas-show.jpg"
+heroImage: "/images/Mystere-Cirque-du-soleil-las-vegas-show.jpg"
 heroImageAlt: "Mystere Las Vegas Cirque Show for kids"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States"]
@@ -178,5 +178,5 @@ Also, be sure to join our **[Las Vegas With Kids Facebook Group](https://www.fac
 
 **Like it? Pin it!**
 
-<figure id="kid-friendly-cirque-du-soleil-show-in-vegas-for-kids">[![](https://hotmamatravel.com/wp-content/uploads/2023/03/kid-friendly-cirque-du-soleil-show-in-vegas-for-kids-200x300.jpg)](/images/2023/03/kid-friendly-cirque-du-soleil-show-in-vegas-for-kids.jpg)</figure>
+<figure id="kid-friendly-cirque-du-soleil-show-in-vegas-for-kids">[![](https://hotmamatravel.com/wp-content/uploads/2023/03/kid-friendly-cirque-du-soleil-show-in-vegas-for-kids-200x300.jpg)](/images/kid-friendly-cirque-du-soleil-show-in-vegas-for-kids.jpg)</figure>
 </div></section>

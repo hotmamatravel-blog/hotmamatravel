@@ -3,7 +3,7 @@ title: "6 Powerful things I learned driving cross country with my kids and paren
 description: ""
 pubDate: 2018-01-15
 updatedDate: 2019-12-31
-heroImage: "/images/2018/01/kids-on-road-trip-hotmamatravel.png"
+heroImage: "/images/kids-on-road-trip-hotmamatravel.png"
 heroImageAlt: "family road trip across country with kids in minivan"
 category: "Hot Road Trips"
 tags: ["Hot Road Trips", "Hot Tips", "Hot United States"]

@@ -3,7 +3,7 @@ title: "Our 9 Best Ideas for Celebrating Christmas in Texas 2025"
 description: ""
 pubDate: 2019-11-29
 updatedDate: 2025-11-19
-heroImage: "/images/2019/11/Horseback-riding-texas.jpg"
+heroImage: "/images/Horseback-riding-texas.jpg"
 heroImageAlt: "Riding horse in Texas"
 category: "Holiday Travel"
 tags: ["Holiday Travel", "Hot Texas", "Hot United States", "Partnership"]
@@ -159,5 +159,5 @@ If this has you itching to pack your boots and go, make sure to explore even mor
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Christmas in Texas is bigger, brighter, and full of family magic! From rodeos and river parades to German markets and twinkling small-town charm, discover the best holiday attractions, events, and festive towns across the Lone Star State. Save this guide for your next Christmas family vacation! #familytravel #christmastexas #texastravel #holidaytravelideas">[![Travel Ideas for Christmas in Texas](https://hotmamatravel.com/wp-content/uploads/2019/11/Christmas-in-Texas-200x300.jpg)](/images/2019/11/Christmas-in-Texas.jpg)</figure>
+<figure data-essb-pin-description="Christmas in Texas is bigger, brighter, and full of family magic! From rodeos and river parades to German markets and twinkling small-town charm, discover the best holiday attractions, events, and festive towns across the Lone Star State. Save this guide for your next Christmas family vacation! #familytravel #christmastexas #texastravel #holidaytravelideas">[![Travel Ideas for Christmas in Texas](https://hotmamatravel.com/wp-content/uploads/2019/11/Christmas-in-Texas-200x300.jpg)](/images/Christmas-in-Texas.jpg)</figure>
 </div></div>

@@ -3,7 +3,7 @@ title: "Hotel Spotlight: A night at the Historical Best Western Plus Windsor Hot
 description: ""
 pubDate: 2017-07-28
 updatedDate: 2019-07-05
-heroImage: "/images/2017/07/DSC03168-e1501597617807.jpg"
+heroImage: "/images/DSC03168-e1501597617807.jpg"
 heroImageAlt: "The Windsor Hotel"
 category: "Hot Georgia"
 tags: ["Hot Georgia", "Hot United States"]

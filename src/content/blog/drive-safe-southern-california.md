@@ -3,7 +3,7 @@ title: "Reasons to Fall in Love (and drive safely) in Southern California"
 description: ""
 pubDate: 2018-07-04
 updatedDate: 2025-06-01
-heroImage: "/images/2018/07/Anaheim-Sunset-Palm-Trees.jpg"
+heroImage: "/images/Anaheim-Sunset-Palm-Trees.jpg"
 heroImageAlt: "Sunset in Anaheim CA"
 category: "Hot California"
 tags: ["Hot California", "Partnership"]

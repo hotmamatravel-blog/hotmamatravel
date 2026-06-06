@@ -3,7 +3,7 @@ title: "Struggles Parents Have to Deal with When Traveling With Children and The
 description: ""
 pubDate: 2023-04-20
 updatedDate: 2025-06-01
-heroImage: "/images/2023/04/struggles-of-traveling-with-kids-and-solutions-200x300.jpg"
+heroImage: "/images/struggles-of-traveling-with-kids-and-solutions-200x300.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership", "Featured"]
 wpId: 17685
@@ -74,5 +74,5 @@ By being prepared and taking the right measures, parents can make traveling with
 
 **Like it? Pin it!**
 
-<figure id="struggles-of-traveling-with-kids-and-solutions">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/struggles-of-traveling-with-kids-and-solutions-200x300.jpg)](/images/2023/04/struggles-of-traveling-with-kids-and-solutions.jpg)</figure>
+<figure id="struggles-of-traveling-with-kids-and-solutions">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/struggles-of-traveling-with-kids-and-solutions-200x300.jpg)](/images/struggles-of-traveling-with-kids-and-solutions.jpg)</figure>
 </div></section>

@@ -3,7 +3,7 @@ title: "Annapolis Live Music: Best Kid friendly restaurants with FREE live music
 description: ""
 pubDate: 2018-07-01
 updatedDate: 2019-07-04
-heroImage: "/images/2018/07/Annapolis-Maryland-Downtown.jpg"
+heroImage: "/images/Annapolis-Maryland-Downtown.jpg"
 heroImageAlt: "View of Annapolis Downtown near Harbor"
 category: "Hot Maryland"
 tags: ["Hot Maryland", "Hot United States"]

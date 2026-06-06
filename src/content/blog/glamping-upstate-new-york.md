@@ -3,7 +3,7 @@ title: "5 Relaxing Sites for Glamping in Upstate New York you will Love"
 description: ""
 pubDate: 2023-06-27
 updatedDate: 2025-10-01
-heroImage: "/images/2021/08/firelight-camps-tents-glamping-upstate-new-york.jpg"
+heroImage: "/images/firelight-camps-tents-glamping-upstate-new-york.jpg"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Hot New York", "Hot United States", "Featured"]
 wpId: 14818
@@ -143,5 +143,5 @@ Start planning your spring and summer family vacations now and book a stay at on
 
 **Like it? Pin it!**
 
-<figure id="5-beautiful-sites-glamping-upstate-new-york">[![](https://hotmamatravel.com/wp-content/uploads/2021/08/5-beautiful-sites-glamping-upstate-new-york-200x300.jpg)](/images/2021/08/5-beautiful-sites-glamping-upstate-new-york.jpg)</figure>
+<figure id="5-beautiful-sites-glamping-upstate-new-york">[![](https://hotmamatravel.com/wp-content/uploads/2021/08/5-beautiful-sites-glamping-upstate-new-york-200x300.jpg)](/images/5-beautiful-sites-glamping-upstate-new-york.jpg)</figure>
 </div></section>

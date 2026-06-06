@@ -1,6 +1,6 @@
 ---
 title: "Unveiling America's Best Breweries for Families"
-heroImage: "/images/2023/12/best-breweries-america.jpg"
+heroImage: "/images/best-breweries-america.jpg"
 heroImageAlt: "Unveiling America"
 description: ""
 pubDate: 2023-12-05

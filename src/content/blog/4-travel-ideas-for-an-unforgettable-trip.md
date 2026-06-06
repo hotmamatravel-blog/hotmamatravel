@@ -3,7 +3,7 @@ title: "4 Travel Ideas for an Unforgettable Trip"
 description: ""
 pubDate: 2023-11-17
 updatedDate: 2025-06-01
-heroImage: "/images/2023/11/4-travel-ideas-for-an-unforgettable-trip-200x300.jpg"
+heroImage: "/images/4-travel-ideas-for-an-unforgettable-trip-200x300.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership", "Featured"]
 wpId: 19520
@@ -66,5 +66,5 @@ As we wrap up this exploration of travel ideas, let your wanderlust be your guid
 
 Like it? Pin it!
 
-<figure id="4-travel-ideas-for-an-unforgettable-trip">[![](https://hotmamatravel.com/wp-content/uploads/2023/11/4-travel-ideas-for-an-unforgettable-trip-200x300.jpg)](/images/2023/11/4-travel-ideas-for-an-unforgettable-trip.jpg)</figure>
+<figure id="4-travel-ideas-for-an-unforgettable-trip">[![](https://hotmamatravel.com/wp-content/uploads/2023/11/4-travel-ideas-for-an-unforgettable-trip-200x300.jpg)](/images/4-travel-ideas-for-an-unforgettable-trip.jpg)</figure>
 </div></div>

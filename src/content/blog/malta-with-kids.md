@@ -3,7 +3,7 @@ title: "Ultimate List of Things to do in Malta with Kids!"
 description: ""
 pubDate: 2022-07-28
 updatedDate: 2023-08-03
-heroImage: "/images/2022/07/the-malta-experience-family-malta-attraction.jpg"
+heroImage: "/images/the-malta-experience-family-malta-attraction.jpg"
 category: "Hot Europe"
 tags: ["Hot Europe", "Featured"]
 wpId: 16179
@@ -503,7 +503,7 @@ If you are looking for the perfect Mediterranean getaway, complete with history,
 
 If you would like help planning your next family vacation, contact me directly. I am a travel agent and a Malta Travel Specialist. My services are free and I can assist in all your travel needs.
 
-<figure id="malta-travel-specialist">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/Malta-Specialist-cert-300x224.jpg)](/images/2022/07/Malta-Specialist-cert.jpg)</figure>
+<figure id="malta-travel-specialist">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/Malta-Specialist-cert-300x224.jpg)](/images/Malta-Specialist-cert.jpg)</figure>
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
@@ -513,5 +513,5 @@ If you would like help planning your next family vacation, contact me directly. 
 
 **Like it? Pin it!**
 
-<figure id="things-to-do-in-Malta-with-kids">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/things-to-do-in-Malta-with-kids-200x300.jpg)](/images/2022/07/things-to-do-in-Malta-with-kids.jpg)</figure>
+<figure id="things-to-do-in-Malta-with-kids">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/things-to-do-in-Malta-with-kids-200x300.jpg)](/images/things-to-do-in-Malta-with-kids.jpg)</figure>
 </div></section>

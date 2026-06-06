@@ -3,7 +3,7 @@ title: "How to Celebrate 4th of July at Big Bear Lake"
 description: ""
 pubDate: 2016-07-04
 updatedDate: 2025-04-14
-heroImage: "/images/2014/07/DSCN6473-1024x687.jpg"
+heroImage: "/images/DSCN6473-1024x687.jpg"
 heroImageAlt: "4th of July at Big Bear Lake"
 category: "Holiday Travel"
 tags: ["Holiday Travel", "Hot California", "Hot Family Travels", "Hot United States"]

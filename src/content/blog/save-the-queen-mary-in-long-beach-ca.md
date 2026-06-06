@@ -3,7 +3,7 @@ title: "Save The Queen Mary in Long Beach, CA"
 description: ""
 pubDate: 2022-03-04
 updatedDate: 2022-03-05
-heroImage: "/images/2022/02/Queen-Mary-9.jpg"
+heroImage: "/images/Queen-Mary-9.jpg"
 category: "Hot California"
 tags: ["Hot California", "Hot United States", "Featured"]
 wpId: 15489
