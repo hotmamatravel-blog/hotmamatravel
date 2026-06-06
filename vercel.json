@@ -39,6 +39,11 @@
   ],
   "redirects": [
     {
+      "source": "/wp-content/uploads/:path*",
+      "destination": "/images/:path*",
+      "permanent": true
+    },
+    {
       "source": "/best-backpack-diaper-bag",
       "destination": "/tag/travel-tips/",
       "permanent": true
