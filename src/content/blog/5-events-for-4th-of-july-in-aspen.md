@@ -24,20 +24,6 @@ author: "Amanda Keeley-Thurman"
 
 <!-- wp:block {"ref":12046} /-->
 
-<!-- wp:html -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7441103393530118"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7441103393530118"
-     data-ad-slot="5244695694"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- /wp:html -->
-
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"33296f04","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-33296f04"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:heading {"level":4,"UAGDay":[]} -->
 <h4 id="medieval-times">Aspen’s Old Fashioned 4th of July Celebration</h4>
@@ -197,20 +183,6 @@ author: "Amanda Keeley-Thurman"
 
 <!-- /wp:paragraph --></div></section>
 <!-- /wp:uagb/section -->
-
-<!-- wp:html -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7441103393530118"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7441103393530118"
-     data-ad-slot="4781661267"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- /wp:html -->
 
 <!-- wp:block {"ref":17013} /-->
 

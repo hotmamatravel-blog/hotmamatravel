@@ -42,10 +42,6 @@ author: "Amanda Keeley-Thurman"
 
 <!-- /wp:spacer -->
 
-<!-- wp:html -->
-<a href="https://vegas.vdvm.net/c/1226937/268706/4221" target="_top" id="268706" rel="noopener"><img src="//a.impactradius-go.com/display-ad/4221-268706" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://vegas.vdvm.net/i/1226937/268706/4221" style="position:absolute;visibility:hidden;" border="0" />
-<!-- /wp:html -->
-
 <!-- wp:spacer {"height":"61px"} -->
 
 <!-- /wp:spacer -->

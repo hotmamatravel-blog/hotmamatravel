@@ -3,7 +3,7 @@ title: "Best Gadgets for Traveling with Kids"
 description: ""
 pubDate: 2016-08-11
 updatedDate: 2019-06-19
-heroImage: "https://ir-na.amazon-adsystem.com/e/ir?t=hotm03b-20&amp;l=as2&amp;o=1&amp;a=B00TSL2UJ6"
+heroImage: "https://hotmamatravel.com/wp-content/uploads/2016/08/Gagdets-for-traveling-with-kids.png"
 category: "Hot Tips"
 tags: ["Hot Tips"]
 wpId: 154

@@ -3,7 +3,7 @@ title: "5 Reasons Best Western Is Our Go-To Hotel for Family Travel"
 description: ""
 pubDate: 2019-07-01
 updatedDate: 2026-01-22
-heroImage: "https://www.awltovhc.com/image-8336032-12535113"
+heroImage: "https://hotmamatravel.com/wp-content/uploads/2018/02/sunset-suites-best-western-plus-san-antonio-hotel-review-header.png"
 category: "Family Hotels"
 tags: ["Family Hotels", "Hot Family Travels", "Hot Tips"]
 wpId: 11422
@@ -38,11 +38,6 @@ author: "Amanda Keeley-Thurman"
 <!-- wp:spacer {"height":"49px"} -->
 
 <!-- /wp:spacer -->
-
-<!-- wp:html -->
-<a href="https://www.dpbolvw.net/click-8336032-12535113" target="_top">
-<img src="https://www.awltovhc.com/image-8336032-12535113" width="150" height="150" alt="" border="0"/></a>
-<!-- /wp:html -->
 
 <!-- wp:spacer {"height":"49px"} -->
 

@@ -35,20 +35,6 @@ author: "Amanda Keeley-Thurman"
 <p class="has-small-font-size"><strong>Disclaimer</strong>: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! <em>You can read more on our <a href="/disclosure-policy/">disclosure policy</a>.</em></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7441103393530118"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7441103393530118"
-     data-ad-slot="7989406395"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- /wp:html -->
-
 <!-- wp:ugb/heading {"showSubtitle":false,"showBottomLine":true,"bottomLineColor":"#fe0b0b","bottomLineWidth":282,"uniqueClass":"ugb-e362496","contentAlign":"center"} -->
 <div class="wp-block-ugb-heading ugb-heading ugb-e362496 ugb-main-block"><style>.ugb-e362496 .ugb-heading__title{text-align:center}.ugb-e362496 .ugb-heading__bottom-line{background-color:#fe0b0b !important;width:282px !important;margin-left:auto !important;margin-right:auto !important}.ugb-e362496 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><h2 class="ugb-heading__title">Let the Hudson Valley summer adventure begin!</h2><div class="ugb-heading__bottom-line"></div></div></div></div>
 <!-- /wp:ugb/heading -->
@@ -176,20 +162,6 @@ author: "Amanda Keeley-Thurman"
 
 <!-- /wp:paragraph --></div></section>
 <!-- /wp:uagb/section -->
-
-<!-- wp:html -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7441103393530118"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7441103393530118"
-     data-ad-slot="5244695694"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- /wp:html -->
 
 <!-- wp:ugb/heading {"showSubtitle":false,"showBottomLine":true,"bottomLineColor":"#cf2e2e","uniqueClass":"ugb-0ddb509","contentAlign":"center"} -->
 <div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><h2 class="ugb-heading__title">That's A Wrap!</h2><div class="ugb-heading__bottom-line"></div></div></div></div>

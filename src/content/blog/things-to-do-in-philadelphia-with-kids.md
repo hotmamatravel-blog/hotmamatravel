@@ -3,7 +3,7 @@ title: "Family guide to Philadelphia with Kids - Where to eat, stay & play"
 description: ""
 pubDate: 2017-10-02
 updatedDate: 2019-07-05
-heroImage: "http://www.awltovhc.com/image-8336032-11357050"
+heroImage: "https://hotmamatravel.com/wp-content/uploads/2018/02/things-to-do-philadelphia-with-kids-header.png"
 heroImageAlt: "Save up to 70% on LivingSocial deals!"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot Pennsylvania", "Hot United States"]
@@ -25,10 +25,7 @@ author: "Amanda Keeley-Thurman"
 <span style="color: #000000;">Philly is a big city and that means there are a lot of options for a variety of budgets. There are a ton of free things to do in Philadelphia with kids. In fact, the Liberty Bell and Independence Hall are free to visit. The other historical sites in Philadelphia have a small entrance fee.</span>
 
 <span style="color: #000000;">If there are Philadelphia attractions that aren’t free that you would like to see, I would recommend getting a City Pass for great savings. <a href="http://www.kqzyfj.com/click-8336032-10758699" target="_blank" rel="nofollow noopener noreferrer"><span style="color: #ff0000;"><strong>Get your City Pass</strong></span></a>. Living Social also offers a lot of great deals on dining and attractions in Philadelphia.<strong> <a href="http://www.dpbolvw.net/click-8336032-11355808" target="_blank" rel="nofollow noopener noreferrer"><span style="color: #ff0000;">See Deals</span></a></strong>. All in all, we found that Philadelphia can be a very affordable city.</span>
-<a href="http://www.jdoqocy.com/click-8336032-10762925" target="_top" rel="nofollow noopener noreferrer">
-</a><a href="http://www.jdoqocy.com/click-8336032-11357050" target="_blank" rel="nofollow noopener noreferrer"><img class="alignleft" src="http://www.awltovhc.com/image-8336032-11357050" alt="Save up to 70% on LivingSocial deals!" width="300" height="250" border="0" /></a><a href="http://www.jdoqocy.com/click-8336032-10762925" target="_blank" rel="nofollow noopener noreferrer"><img class="aligncenter" src="http://www.tqlkg.com/image-8336032-10762925" alt="Philadelphia_300x250" width="300" height="250" border="0" /></a>
-<a href="http://www.jdoqocy.com/click-8336032-11357050" target="_top" rel="nofollow noopener noreferrer">
-</a>
+
 <h2><em><span style="color: #000000;">Where to stay in Philadelphia
 </span></em></h2>
 <span style="color: #000000;">This is a big city, so there are a ton of options for hotels in the Philadelphia area. There are a lot of neighborhoods in Philadelphia, all with a distinct personality. In my opinion, the best places to stay in Philadelphia are in Philadelphia Center City, because there are a lot of things to do in center city Philadelphia. Center City encompasses some of the cities’ most popular neighborhoods, Philadelphia attractions and best Philadelphia hotels. <a href="http://www.kqzyfj.com/click-8336032-10517623" target="_blank" rel="nofollow noopener noreferrer"><span style="color: #ff0000;"><strong>Check rates and availability</strong></span></a>.

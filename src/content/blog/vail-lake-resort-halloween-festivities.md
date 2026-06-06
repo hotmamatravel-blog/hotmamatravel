@@ -20,11 +20,9 @@ author: "Amanda Keeley-Thurman"
 <span style="color: #000000;">By night, the laid-back vibe becomes a lively Halloween bash, filled with activities the whole family can enjoy. So load up the RV, pack the costumes and get yourself to Vail Lake Resort for the Terror in the Oaks Festival!</span>
 
 <a href="/wp-content/uploads/2014/10/Halloween.jpg" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-3402" title="Vail Lake Resort Halloween Festivities" src="https://hotmamatravel.com/wp-content/uploads/2014/10/Halloween.jpg" alt="Vail Lake Resort Halloween Festivities" width="640" height="257" /></a>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle" style="display: block; text-align: center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-7441103393530118" data-ad-slot="9543659902"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
+
+
 
 <h2>Staying at Vail Lake</h2>
 <span style="color: #000000;">During the month of October rates for lots are $110 a night. The rates are higher this month, because of the popularity of the Halloween events. Vail Lake Resort sells out of spots every year. I recommend to booking a year in advance for a spot. If at first you don't succeed, try, try again, because a spot could open up later.

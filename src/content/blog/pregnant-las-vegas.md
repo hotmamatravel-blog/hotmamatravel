@@ -3,7 +3,7 @@ title: "Best Guide For Being Pregnant in Las Vegas 2026"
 description: ""
 pubDate: 2024-03-14
 updatedDate: 2026-03-25
-heroImage: "//a.impactradius-go.com/display-ad/4221-271012"
+heroImage: "https://hotmamatravel.com/wp-content/uploads/2015/01/Pregnant-in-Las-Vegas.png"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot Tips", "Hot United States", "Featured"]
 wpId: 1824
@@ -30,7 +30,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:spacer -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure><a href="//vegas.7eer.net/c/1226937/271012/4221"><img src="//a.impactradius-go.com/display-ad/4221-271012" alt=""/></a></figure>
+
 <!-- /wp:image -->
 
 <!-- wp:spacer {"height":"40px"} -->

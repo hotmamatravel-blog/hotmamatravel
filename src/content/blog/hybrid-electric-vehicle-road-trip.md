@@ -27,20 +27,6 @@ author: "Amanda Keeley-Thurman"
 
 <!-- /wp:spacer -->
 
-<!-- wp:html -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7441103393530118"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7441103393530118"
-     data-ad-slot="7989406395"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- /wp:html -->
-
 <!-- wp:spacer {"height":"41px"} -->
 
 <!-- /wp:spacer -->
@@ -126,20 +112,6 @@ author: "Amanda Keeley-Thurman"
 <!-- wp:spacer {"height":"51px"} -->
 
 <!-- /wp:spacer -->
-
-<!-- wp:html -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7441103393530118"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7441103393530118"
-     data-ad-slot="4781661267"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- /wp:html -->
 
 <!-- wp:spacer {"height":"50px"} -->
 

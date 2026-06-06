@@ -30,20 +30,6 @@ author: "Amanda Keeley-Thurman"
 
 <!-- /wp:spacer -->
 
-<!-- wp:html -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7441103393530118"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7441103393530118"
-     data-ad-slot="7989406395"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- /wp:html -->
-
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"3ff98ffb","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3ff98ffb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17610,"sizeSlug":"large","linkDestination":"media"} -->
 <figure id="destin-harbor-boardwalk-marina-destin-activities-for-families-"><a href="/wp-content/uploads/2023/04/destin-harbor-boardwalk-marina-destin-activities-for-families-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/destin-harbor-boardwalk-marina-destin-activities-for-families--1024x576.jpg" alt="" class="wp-image-17610" title="Things to do in Destin FL with kids at the Destin Harbor Boardwalk &amp; Marina"/></a></figure>
@@ -166,20 +152,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph --></div></section>
 <!-- /wp:uagb/section -->
 
-<!-- wp:html -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7441103393530118"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7441103393530118"
-     data-ad-slot="4781661267"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- /wp:html -->
-
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"d914295d","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d914295d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":17618,"sizeSlug":"large","linkDestination":"media"} -->
 <figure id="village-baytowne-wharf-destin-activities-for-families-"><a href="/wp-content/uploads/2023/04/village-baytowne-wharf-destin-activities-for-families-.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/04/village-baytowne-wharf-destin-activities-for-families--1024x576.jpg" alt="" class="wp-image-17618" title="Fun things to do with kids Destin FL at Baytowne Wharf"/></a></figure>
@@ -281,20 +253,6 @@ author: "Amanda Keeley-Thurman"
 
 <!-- /wp:paragraph --></div></section>
 <!-- /wp:uagb/section -->
-
-<!-- wp:html -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7441103393530118"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7441103393530118"
-     data-ad-slot="5244695694"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- /wp:html -->
 
 <!-- wp:spacer {"height":"41px"} -->
 
@@ -405,20 +363,6 @@ author: "Amanda Keeley-Thurman"
 
 <!-- /wp:paragraph --></div></section>
 <!-- /wp:uagb/section -->
-
-<!-- wp:html -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7441103393530118"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7441103393530118"
-     data-ad-slot="8146191208"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- /wp:html -->
 
 <!-- wp:ugb/heading {"showSubtitle":false,"showBottomLine":true,"bottomLineColor":"#cf2e2e","uniqueClass":"ugb-0ddb509","contentAlign":"center"} -->
 <div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><h2 class="ugb-heading__title">That's A Wrap!</h2><div class="ugb-heading__bottom-line"></div></div></div></div>

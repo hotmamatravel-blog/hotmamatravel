@@ -3,7 +3,7 @@ title: "7 Amazing Las Vegas Dinner and Show Packages for Families 2026"
 description: ""
 pubDate: 2024-04-14
 updatedDate: 2026-03-25
-heroImage: "//a.impactradius-go.com/display-ad/4221-271414"
+heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/02/Amazing-Las-Vegas-Dinner-and-Show-Packages.jpg"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot Las Vegas", "Hot United States", "Featured"]
 wpId: 16861
@@ -24,12 +24,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:spacer -->
 
 <!-- wp:block {"ref":12046} /-->
-
-<!-- wp:html -->
-<a rel="sponsored"
-           href="https://vegas.vdvm.net/c/1226937/271414/4221" target="_top" id="271414">
-<img src="//a.impactradius-go.com/display-ad/4221-271414" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://vegas.vdvm.net/i/1226937/271414/4221" style="position:absolute;visibility:hidden;" border="0" />
-<!-- /wp:html -->
 
 <!-- wp:ugb/heading {"showSubtitle":false,"showBottomLine":true,"bottomLineColor":"#ff0000","uniqueClass":"ugb-fc8fd7d","contentAlign":"center"} -->
 <div class="wp-block-ugb-heading ugb-heading ugb-fc8fd7d ugb-main-block"><style>.ugb-fc8fd7d .ugb-heading__title{text-align:center}.ugb-fc8fd7d .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-fc8fd7d .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><h2 class="ugb-heading__title">Las Vegas Dinner and Show Packages</h2><div class="ugb-heading__bottom-line"></div></div></div></div>
@@ -192,12 +186,6 @@ author: "Amanda Keeley-Thurman"
 <p class="has-text-align-right"><a linkid="16866" href="/go/rat-pack-is-back-dinner-show-las-vegas/"><strong>See photos, reviews &amp; more</strong></a></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<a rel="sponsored"
-           href="https://vegas.vdvm.net/c/1226937/271012/4221" target="_top" id="271012">
-<img src="//a.impactradius-go.com/display-ad/4221-271012" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://vegas.vdvm.net/i/1226937/271012/4221" style="position:absolute;visibility:hidden;" border="0" />
-<!-- /wp:html -->
-
 <!-- wp:image {"id":16945,"sizeSlug":"full","linkDestination":"media"} -->
 <figure id="Vegas-the-show-las-vegas-dinner-show-packages"><a href="/wp-content/uploads/2023/02/Vegas-the-show-las-vegas-dinner-show-packages.jpg"><img src="https://hotmamatravel.com/wp-content/uploads/2023/02/Vegas-the-show-las-vegas-dinner-show-packages.jpg" alt="Vegas the Show Dinner and Show Package " class="wp-image-16945" title="Family-Friendly Las Vegas Dinner and Show Package, Vegas! The Show"/></a><figcaption class="wp-element-caption">Courtesy of Vegas.com</figcaption></figure>
 <!-- /wp:image -->
@@ -325,12 +313,6 @@ author: "Amanda Keeley-Thurman"
 <!-- wp:paragraph -->
 <p>Also, be sure to join my <a href="https://www.facebook.com/groups/lasvegaswithkidstips" target="_blank" rel="noreferrer noopener"><strong>Las Vegas With Kids Facebook Group</strong></a>! This is where our community gathers to share the most up-to-date Vegas news and tips for families.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:html -->
-<a rel="sponsored"
-           href="https://vegas.vdvm.net/c/1226937/271414/4221" target="_top" id="271414">
-<img src="//a.impactradius-go.com/display-ad/4221-271414" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://vegas.vdvm.net/i/1226937/271414/4221" style="position:absolute;visibility:hidden;" border="0" />
-<!-- /wp:html -->
 
 <!-- wp:block {"ref":12046} /-->
 

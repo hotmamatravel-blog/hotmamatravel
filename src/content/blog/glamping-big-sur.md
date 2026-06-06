@@ -24,20 +24,6 @@ author: "Amanda Keeley-Thurman"
 <p class="has-small-font-size"><strong>Disclaimer</strong>: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. AirBnB, TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! <em>You can read more on our <a href="/disclosure-policy/">disclosure policy</a>.</em></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:html -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7441103393530118"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7441103393530118"
-     data-ad-slot="7989406395"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- /wp:html -->
-
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"920eacb3","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderStyle":"none","UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-920eacb3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":13987,"sizeSlug":"large","UAGDay":[]} -->
 <figure id="treebones-resort-big-sur-glamping"><img src="https://hotmamatravel.com/wp-content/uploads/2020/10/treebones-resort-glamping-yurts-big-sur.jpg" alt="yurt glamping at Treebones Resort in Big Sur California" class="wp-image-13987" title="Treebones Resort Big Sur glamping"/><figcaption class="wp-element-caption">Courtesy of Treebones Resort</figcaption></figure>
@@ -76,20 +62,6 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph --></div></section>
 <!-- /wp:uagb/section -->
 
-<!-- wp:html -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7441103393530118"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7441103393530118"
-     data-ad-slot="4781661267"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- /wp:html -->
-
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"311d832c","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderStyle":"none","UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-311d832c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":13985,"sizeSlug":"large","UAGDay":[]} -->
 <figure id="glen-oaks-big-sur-glamping"><img src="https://hotmamatravel.com/wp-content/uploads/2020/10/glen-oaks-glamping-cabins-big-sur.jpg" alt="glamping cabins at Glen Oaks Resort in Big Sur California" class="wp-image-13985" title="Glamping in Big Sur Glen Oaks Big Sur"/><figcaption class="wp-element-caption">Courtesy of Glen Oaks Big Sur</figcaption></figure>
@@ -127,20 +99,6 @@ author: "Amanda Keeley-Thurman"
 
 <!-- /wp:paragraph --></div></section>
 <!-- /wp:uagb/section -->
-
-<!-- wp:html -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7441103393530118"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7441103393530118"
-     data-ad-slot="5244695694"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<!-- /wp:html -->
 
 <!-- wp:uagb/section {"classMigrate":true,"block_id":"2cecc3de","borderStyle":"","borderWidth":"","gradientValue":"","overallBorderTopWidth":1,"overallBorderLeftWidth":1,"overallBorderRightWidth":1,"overallBorderBottomWidth":1,"overallBorderStyle":"none","UAGDay":[]} -->
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2cecc3de"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"><!-- wp:image {"id":13982,"sizeSlug":"large","UAGDay":[]} -->

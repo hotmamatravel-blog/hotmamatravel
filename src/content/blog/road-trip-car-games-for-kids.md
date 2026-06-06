@@ -3,7 +3,7 @@ title: "Genius List of Road Trip Car Games for kids"
 description: ""
 pubDate: 2020-02-17
 updatedDate: 2022-11-06
-heroImage: "//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=0763695807&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=hmt016-20&amp;language=en_US"
+heroImage: "https://hotmamatravel.com/wp-content/uploads/2020/02/Best-road-trip-games-for-kids-in-the-car.jpg"
 category: "Hot Road Trips"
 tags: ["Hot Road Trips", "Hot Tips", "Featured"]
 wpId: 12822

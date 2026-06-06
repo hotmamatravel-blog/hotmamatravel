@@ -694,3 +694,71 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: center;
   text-decoration: none !important;
 }
+
+/* 3. UAGB Info Box Icons & CTA Buttons */
+.uagb-ifb-icon-wrap,
+.uagb-ifb-icon {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 40px !important;
+  height: 40px !important;
+  margin-bottom: 15px !important;
+  color: var(--hmt-slate) !important;
+}
+.uagb-ifb-icon-wrap svg,
+.uagb-ifb-icon svg {
+  width: 100% !important;
+  height: 100% !important;
+  display: block !important;
+  fill: currentColor !important;
+}
+
+.uagb-infobox-cta-link,
+.uagb-ifb-button-icon {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  text-decoration: none !important;
+}
+.uagb-infobox-cta-link svg,
+.uagb-ifb-button-icon svg,
+.uagb-ifb-button-wrapper svg {
+  width: 18px !important;
+  height: 18px !important;
+  display: inline-block !important;
+  flex-shrink: 0 !important;
+  fill: currentColor !important;
+}
+
+/* 4. UAGB FAQ Accordion Icons */
+.uagb-faq-icon-wrap {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 18px !important;
+  height: 18px !important;
+  flex-shrink: 0 !important;
+  color: var(--hmt-slate) !important;
+}
+.uagb-faq-icon-wrap svg {
+  width: 100% !important;
+  height: 100% !important;
+  display: block !important;
+  fill: currentColor !important;
+}
+
+/* 5. Generic Icon List Child Fixes */
+.uagb-icon-list__source-icon {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 20px !important;
+  height: 20px !important;
+}
+.uagb-icon-list__source-icon svg {
+  width: 100% !important;
+  height: 100% !important;
+  display: block !important;
+}
+

@@ -3,7 +3,7 @@ title: "Best Las Vegas Accommodations Large Family Group 2026"
 description: ""
 pubDate: 2024-05-20
 updatedDate: 2026-03-25
-heroImage: "//a.impactradius-go.com/display-ad/4221-271012"
+heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/05/las-vegas-accommodations-large-family-group.jpg"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]
 wpId: 9462
@@ -32,7 +32,7 @@ author: "Amanda Keeley-Thurman"
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"linkDestination":"custom"} -->
-<figure><a href="//vegas.7eer.net/c/1226937/271012/4221"><img src="//a.impactradius-go.com/display-ad/4221-271012" alt=""/></a></figure>
+
 <!-- /wp:image -->
 
 <!-- wp:block {"ref":12046} /-->
