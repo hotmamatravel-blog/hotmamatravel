@@ -3,7 +3,7 @@ title: "Countdown to Fun: 6 Spectacular Summer Adventures in the Hudson Valley"
 description: ""
 pubDate: 2023-06-26
 updatedDate: 2025-10-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/06/kaaterskill-falls-hudson-vally-new-york.jpg"
+heroImage: "/images/2023/06/kaaterskill-falls-hudson-vally-new-york.jpg"
 category: "Hot New York"
 tags: ["Hot New York", "Hot United States", "Featured"]
 wpId: 18273

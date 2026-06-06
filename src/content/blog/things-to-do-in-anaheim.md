@@ -3,7 +3,7 @@ title: "Top 38 Anaheim Activities for Kids in 2026 (Besides Disney)"
 description: ""
 pubDate: 2025-05-21
 updatedDate: 2026-01-07
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2017/05/things-to-do-anaheim-besides-disney.png"
+heroImage: "/images/2017/05/things-to-do-anaheim-besides-disney.png"
 heroImageAlt: "Fun things to do in Anaheim CA besides Disneyland"
 category: "Hot California"
 tags: ["Hot California", "Hot Orange County", "Hot United States", "Featured"]

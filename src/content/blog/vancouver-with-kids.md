@@ -3,7 +3,7 @@ title: "Best Things to Do in Vancouver with Kids 2026"
 description: ""
 pubDate: 2026-05-08
 updatedDate: 2026-06-02
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2018/10/gastown-vancouver.jpg"
+heroImage: "/images/2018/10/gastown-vancouver.jpg"
 heroImageAlt: "Gastown Vancouver with kids"
 category: "Hot Canada"
 tags: ["Hot Canada", "Hot Family Travels"]

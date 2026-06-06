@@ -3,7 +3,7 @@ title: "15 Fun Things to do in Idyllwild with Kids 2026"
 description: ""
 pubDate: 2024-01-25
 updatedDate: 2026-02-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/06/shopping-things-to-do-in-idyllwild-ca-1.jpg"
+heroImage: "/images/2023/06/shopping-things-to-do-in-idyllwild-ca-1.jpg"
 heroImageAlt: "Shopping in Idyllwild"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot United States", "Featured"]

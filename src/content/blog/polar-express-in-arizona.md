@@ -3,7 +3,7 @@ title: "A Magical Family Adventure on the Polar Express Arizona 2025"
 description: ""
 pubDate: 2023-10-31
 updatedDate: 2025-11-16
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/10/grand-canyon-railway-hotel-Polar-express-williams-arizona.jpg"
+heroImage: "/images/2023/10/grand-canyon-railway-hotel-Polar-express-williams-arizona.jpg"
 heroImageAlt: "Polar Express Package at Grand Canyon Railway Hotel"
 category: "Holiday Travel"
 tags: ["Holiday Travel", "Hot Arizona", "Hot Family Travels", "Hot United States"]

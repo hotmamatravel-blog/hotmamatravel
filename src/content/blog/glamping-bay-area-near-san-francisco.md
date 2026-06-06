@@ -2,7 +2,7 @@
 title: "Glamping Bay Area: 5 Best sites near San Francisco"
 description: ""
 pubDate: 2023-06-27
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2020/12/family-glamping-bay-area-ca-safari-west.jpg"
+heroImage: "/images/2020/12/family-glamping-bay-area-ca-safari-west.jpg"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Hot California", "Hot United States", "Featured"]
 wpId: 14045

@@ -3,7 +3,7 @@ title: "4 Most Family-Friendly Haunted Hotels in Savannah 2025"
 description: ""
 pubDate: 2022-12-21
 updatedDate: 2025-10-17
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2022/12/Haunted-hotels-savannah-marshall-house.jpg"
+heroImage: "/images/2022/12/Haunted-hotels-savannah-marshall-house.jpg"
 heroImageAlt: "The Marshall House Savannah Georgia"
 category: "Family-Friendly Haunted Hotels"
 tags: ["Family-Friendly Haunted Hotels", "Haunted Places", "Hot Georgia", "Hot United States", "Featured"]

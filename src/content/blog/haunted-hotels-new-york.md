@@ -3,7 +3,7 @@ title: "6 Hauntingly Wonderful Haunted Hotels in New York 2025"
 description: ""
 pubDate: 2023-09-05
 updatedDate: 2025-10-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/09/hotel-chelsea-haunted-hotels-new-york.jpg"
+heroImage: "/images/2023/09/hotel-chelsea-haunted-hotels-new-york.jpg"
 heroImageAlt: "Haunted Hotel Chelsea in New York New York"
 category: "Family-Friendly Haunted Hotels"
 tags: ["Family-Friendly Haunted Hotels", "Haunted Places", "Hot New York", "Hot United States", "Featured"]

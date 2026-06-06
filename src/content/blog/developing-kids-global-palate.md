@@ -3,7 +3,7 @@ title: "Developing Kids' Global Palate"
 description: ""
 pubDate: 2017-02-11
 updatedDate: 2019-06-19
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2014/11/DSCN8446-1024x768.jpg"
+heroImage: "/images/2014/11/DSCN8446-1024x768.jpg"
 heroImageAlt: "Developing kids"
 category: "Hot Tips"
 tags: ["Hot Tips"]

@@ -2,7 +2,7 @@
 title: "8 Best Breweries In Temecula For Families 2024"
 description: ""
 pubDate: 2024-01-20
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2021/06/aftershock-brewing-company-breweries-temecula.jpg"
+heroImage: "/images/2021/06/aftershock-brewing-company-breweries-temecula.jpg"
 category: "Best Breweries For Families"
 tags: ["Best Breweries For Families", "Hot California", "Hot United States", "Featured"]
 wpId: 14564

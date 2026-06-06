@@ -3,7 +3,7 @@ title: "3 Rare Las Vegas Hotels with Balcony Rooms 2026"
 description: ""
 pubDate: 2024-04-11
 updatedDate: 2026-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/02/Las-Vegas-Hotels-Balcony-Rooms.jpg"
+heroImage: "/images/2023/02/Las-Vegas-Hotels-Balcony-Rooms.jpg"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]
 wpId: 16987

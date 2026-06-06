@@ -3,7 +3,7 @@ title: "How Memorial Day Inspired Family Travel"
 description: ""
 pubDate: 2017-05-29
 updatedDate: 2019-07-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2016/05/13th-pen.png"
+heroImage: "/images/2016/05/13th-pen.png"
 heroImageAlt: "Memorial Day "
 category: "Holiday Travel"
 tags: ["Holiday Travel", "Hot Georgia", "Hot United States"]

@@ -3,7 +3,7 @@ title: "3 Best Family-Friendly Haunted Hotels in San Diego 2025"
 description: ""
 pubDate: 2022-10-12
 updatedDate: 2025-10-23
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2020/04/cosmopolitan-hotel-old-town-san-diego.jpg"
+heroImage: "/images/2020/04/cosmopolitan-hotel-old-town-san-diego.jpg"
 heroImageAlt: "Haunted Cosmopolitan Hotel Old Town San Diego"
 category: "Family-Friendly Haunted Hotels"
 tags: ["Family-Friendly Haunted Hotels", "Haunted Places", "Hot California", "Hot United States"]

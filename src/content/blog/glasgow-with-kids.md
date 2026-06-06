@@ -3,7 +3,7 @@ title: "Family Guide to Glasgow with kids - Where to eat, stay & play"
 description: ""
 pubDate: 2022-04-21
 updatedDate: 2024-01-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2020/04/science-center-glasgow-scotland.jpg"
+heroImage: "/images/2020/04/science-center-glasgow-scotland.jpg"
 category: "Hot Europe"
 tags: ["Hot Europe", "Hot Family Travels", "Featured"]
 wpId: 2322

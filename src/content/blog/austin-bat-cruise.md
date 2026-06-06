@@ -3,7 +3,7 @@ title: "Family Guide to seeing Austin bats on a Lone star riverboat Austin bat c
 description: ""
 pubDate: 2018-01-16
 updatedDate: 2019-07-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2018/01/BATS.jpg"
+heroImage: "/images/2018/01/BATS.jpg"
 heroImageAlt: "Watching the Austin Bats on a sunset river cruise"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot Texas", "Hot United States"]

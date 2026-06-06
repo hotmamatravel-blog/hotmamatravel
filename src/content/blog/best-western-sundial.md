@@ -3,7 +3,7 @@ title: "Hotel Spotlight: Family review of Best Western Plus Sundial in Scottsdal
 description: ""
 pubDate: 2017-12-05
 updatedDate: 2019-07-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2017/12/BWP-POOL-1.jpg"
+heroImage: "/images/2017/12/BWP-POOL-1.jpg"
 heroImageAlt: "The Pool at Best Western Sundial"
 category: "Hot Arizona"
 tags: ["Hot Arizona", "Hot United States"]

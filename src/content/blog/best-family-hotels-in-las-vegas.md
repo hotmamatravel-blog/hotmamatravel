@@ -3,7 +3,7 @@ title: "Best Family Hotels in Las Vegas Kids Will Love 2026"
 description: ""
 pubDate: 2024-03-19
 updatedDate: 2026-05-19
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/03/Best-Family-Hotels-in-Las-Vegas.jpg"
+heroImage: "/images/2024/03/Best-Family-Hotels-in-Las-Vegas.jpg"
 category: "Family Hotels"
 tags: ["Family Hotels", "Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]
 wpId: 8418

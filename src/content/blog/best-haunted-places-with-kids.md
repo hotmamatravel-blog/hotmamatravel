@@ -3,7 +3,7 @@ title: "7 Haunted Places With Kids for Spooky Families 2025"
 description: ""
 pubDate: 2019-08-19
 updatedDate: 2025-10-30
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2019/08/eastern-state-penitentiary-.jpg"
+heroImage: "/images/2019/08/eastern-state-penitentiary-.jpg"
 heroImageAlt: "Eastern State Penitentiary "
 category: "Haunted Places"
 tags: ["Haunted Places", "Hot Arizona", "Hot California", "Hot Georgia", "Hot Pennsylvania", "Hot Tips", "Hot United States"]

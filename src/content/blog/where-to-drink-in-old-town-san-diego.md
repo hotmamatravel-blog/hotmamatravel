@@ -3,7 +3,7 @@ title: "Where to Drink in Old Town San Diego"
 description: ""
 pubDate: 2016-11-03
 updatedDate: 2019-06-19
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2014/07/IMG_4242-1024x768.jpg"
+heroImage: "/images/2014/07/IMG_4242-1024x768.jpg"
 heroImageAlt: "Where to drink in Old San Diego"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels"]

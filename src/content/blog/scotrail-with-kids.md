@@ -3,7 +3,7 @@ title: "Why You Should Ride ScotRail With Kids"
 description: ""
 pubDate: 2017-03-04
 updatedDate: 2019-06-19
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2015/08/scotrail-1024x512.jpg"
+heroImage: "/images/2015/08/scotrail-1024x512.jpg"
 heroImageAlt: "Scotrail with kids"
 category: "Hot Europe"
 tags: ["Hot Europe", "Hot Family Travels", "Hot Tips"]

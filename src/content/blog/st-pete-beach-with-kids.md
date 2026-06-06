@@ -3,7 +3,7 @@ title: "Best Family Things To Do In St Pete Beach with Kids 2025"
 description: ""
 pubDate: 2024-02-13
 updatedDate: 2025-02-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/03/pirate-ship-adventure-st-pete-for-kids.jpg"
+heroImage: "/images/2023/03/pirate-ship-adventure-st-pete-for-kids.jpg"
 heroImageAlt: "kid-friendly pirate ship st pete with kids"
 category: "Hot Florida"
 tags: ["Hot Florida", "Hot United States", "Featured"]

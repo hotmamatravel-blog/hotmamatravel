@@ -3,7 +3,7 @@ title: "Is Alcatraz Worth Visiting in 2025? Ghosts &amp; Family Tips"
 description: ""
 pubDate: 2023-09-12
 updatedDate: 2025-09-27
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/09/military-fort-alcatraz.jpg"
+heroImage: "/images/2023/09/military-fort-alcatraz.jpg"
 heroImageAlt: "Cannon at Alcatraz "
 category: "Haunted Places"
 tags: ["Haunted Places", "Hot California", "Hot United States", "Featured"]

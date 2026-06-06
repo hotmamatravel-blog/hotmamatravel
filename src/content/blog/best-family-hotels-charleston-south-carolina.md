@@ -2,7 +2,7 @@
 title: "5 Best Family Hotels In Charleston, SC 2024"
 description: ""
 pubDate: 2024-01-22
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2019/10/charleston-family-pool-beach-club-harbor-resort-marina.jpg"
+heroImage: "/images/2019/10/charleston-family-pool-beach-club-harbor-resort-marina.jpg"
 heroImageAlt: "Beach club Charleston Harbor Family-friendly pool"
 category: "Hot South Carolina"
 tags: ["Hot South Carolina", "Hot United States", "Featured"]

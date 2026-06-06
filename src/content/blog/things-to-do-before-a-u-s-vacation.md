@@ -3,7 +3,7 @@ title: "3 Things To Do Before A U.S Vacation"
 description: ""
 pubDate: 2023-08-09
 updatedDate: 2025-06-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/08/tips-for-planning-a-US-vacation-200x300.jpg"
+heroImage: "/images/2023/08/tips-for-planning-a-US-vacation-200x300.jpg"
 category: "Hot United States"
 tags: ["Hot United States", "Partnership"]
 wpId: 18577

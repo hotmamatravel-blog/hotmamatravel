@@ -3,7 +3,7 @@ title: "Everything You Need to Know About RVing with Kids"
 description: ""
 pubDate: 2016-08-27
 updatedDate: 2019-06-19
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2014/05/DSCN5887-e1401301103119-1024x562.jpg"
+heroImage: "/images/2014/05/DSCN5887-e1401301103119-1024x562.jpg"
 heroImageAlt: "Rving with kids"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels"]

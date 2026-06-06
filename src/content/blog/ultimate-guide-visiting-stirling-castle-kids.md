@@ -3,7 +3,7 @@ title: "Ultimate Guide to Visiting Stirling Castle With Kids"
 description: ""
 pubDate: 2017-01-12
 updatedDate: 2019-06-19
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2015/08/IMG_7729-1024x768.jpg"
+heroImage: "/images/2015/08/IMG_7729-1024x768.jpg"
 heroImageAlt: "Visiting Stirling Castle"
 category: "Hot Europe"
 tags: ["Hot Europe", "Hot Family Travels"]

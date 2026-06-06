@@ -3,7 +3,7 @@ title: "Hotel Spotlight: Family review of historical Arizona Inn in Tucson, AZ"
 description: ""
 pubDate: 2017-02-02
 updatedDate: 2019-06-19
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2016/04/IMG_1383-1024x1024.jpg"
+heroImage: "/images/2016/04/IMG_1383-1024x1024.jpg"
 heroImageAlt: "Arizona Inn with Kids"
 category: "Hot Arizona"
 tags: ["Hot Arizona", "Hot United States"]

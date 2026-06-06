@@ -3,7 +3,7 @@ title: "Family Guide to Balboa Fun Zone with kids - Where to eat, stay & play"
 description: ""
 pubDate: 2017-05-15
 updatedDate: 2019-07-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2016/03/DSCN9911-1024x768.jpg"
+heroImage: "/images/2016/03/DSCN9911-1024x768.jpg"
 heroImageAlt: "Family Photo at Balboa Fun Zone"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot Orange County", "Hot United States"]

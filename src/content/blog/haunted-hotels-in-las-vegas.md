@@ -3,7 +3,7 @@ title: "5 Best Spooky Haunted Hotels in Las Vegas For Families 2026"
 description: ""
 pubDate: 2024-08-20
 updatedDate: 2026-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/08/horseshoe-las-vegas-haunted-hotel.jpg"
+heroImage: "/images/2024/08/horseshoe-las-vegas-haunted-hotel.jpg"
 heroImageAlt: "Haunted Horseshoe Hotels Las Vegas"
 category: "Family Hotels"
 tags: ["Family Hotels", "Family-Friendly Haunted Hotels", "Haunted Places", "Hot Family Travels", "Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]

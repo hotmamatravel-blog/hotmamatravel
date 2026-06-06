@@ -3,7 +3,7 @@ title: "7 Best Christmas Hotels in Southern California 2026"
 description: ""
 pubDate: 2023-10-20
 updatedDate: 2026-01-07
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2019/11/pendry-san-diego-hotel-with-kids-breakfast.jpg"
+heroImage: "/images/2019/11/pendry-san-diego-hotel-with-kids-breakfast.jpg"
 heroImageAlt: "Pendry San Diego Hotel Christmas Breakfast"
 category: "Holiday Travel"
 tags: ["Holiday Travel", "Hot California", "Hot United States"]

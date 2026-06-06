@@ -3,7 +3,7 @@ title: "Downtown Disney: Review of places to eat and things to do with kids"
 description: ""
 pubDate: 2014-10-07
 updatedDate: 2019-06-19
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2014/10/IMG_3606-1024x764.jpg"
+heroImage: "/images/2014/10/IMG_3606-1024x764.jpg"
 heroImageAlt: "IMG_3606"
 category: "Disney Travel"
 tags: ["Disney Travel", "Hot California", "Hot Orange County"]

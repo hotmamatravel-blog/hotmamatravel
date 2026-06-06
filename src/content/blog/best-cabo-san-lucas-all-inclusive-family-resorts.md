@@ -3,7 +3,7 @@ title: "8 Awesome Cabo San Lucas All-inclusive Family Resorts"
 description: ""
 pubDate: 2022-04-22
 updatedDate: 2024-05-29
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2022/04/grand-fiesta-americana-family-resort-cabo-all-inclusive.jpg"
+heroImage: "/images/2022/04/grand-fiesta-americana-family-resort-cabo-all-inclusive.jpg"
 category: "Hot Mexico"
 tags: ["Hot Mexico", "Featured"]
 wpId: 15751

@@ -3,7 +3,7 @@ title: "Best Arcades In Las Vegas Kids &amp; Teens Will Love 2026"
 description: ""
 pubDate: 2024-06-11
 updatedDate: 2026-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/06/Big-Apple-Arcade-NYNY-Las-Vegas.jpg"
+heroImage: "/images/2024/06/Big-Apple-Arcade-NYNY-Las-Vegas.jpg"
 heroImageAlt: "Big Apple Arcade at New York New York Las Vegas"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]

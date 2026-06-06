@@ -3,7 +3,7 @@ title: "5 Best Family Hotels in Clearwater Beach, FL with kids"
 description: ""
 pubDate: 2019-08-29
 updatedDate: 2024-01-11
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2019/08/clearwater-beach-family-pool-hyatt-regency.jpg"
+heroImage: "/images/2019/08/clearwater-beach-family-pool-hyatt-regency.jpg"
 heroImageAlt: "Hyatt Regency Clearwater Pool"
 category: "Hot Florida"
 tags: ["Hot Florida", "Hot United States", "Featured"]

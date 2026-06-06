@@ -3,7 +3,7 @@ title: "10 Insane (But True) Facts About Glasgow"
 description: ""
 pubDate: 2017-04-28
 updatedDate: 2019-06-19
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2015/10/DSCN9440-1024x681.jpg"
+heroImage: "/images/2015/10/DSCN9440-1024x681.jpg"
 heroImageAlt: "Curlers Rest bar Glasgow"
 category: "Hot Europe"
 tags: ["Hot Europe", "Hot Tips"]

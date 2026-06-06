@@ -3,7 +3,7 @@ title: "The Benefits of Family Travel For Kids"
 description: ""
 pubDate: 2018-02-09
 updatedDate: 2026-01-18
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2018/02/benefits-of-family-travel-1.jpg"
+heroImage: "/images/2018/02/benefits-of-family-travel-1.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips"]
 wpId: 7883

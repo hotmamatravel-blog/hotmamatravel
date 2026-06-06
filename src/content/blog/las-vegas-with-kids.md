@@ -3,7 +3,7 @@ title: "Las Vegas With Kids: The Ultimate Family Travel Guide 2026"
 description: ""
 pubDate: 2024-02-01
 updatedDate: 2026-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/05/Best-Guide-Las-Vegas-with-Kids.jpg"
+heroImage: "/images/2023/05/Best-Guide-Las-Vegas-with-Kids.jpg"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]
 wpId: 38

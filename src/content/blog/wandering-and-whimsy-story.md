@@ -3,7 +3,7 @@ title: "A simple day at the Beach turns into “Revenge of the Squeegulls!”"
 description: ""
 pubDate: 2018-12-09
 updatedDate: 2019-07-04
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2018/12/A-simple-day-at-the-Beach-turns-into-Revenge-of-the-Squeegulls-683x1024.jpg"
+heroImage: "/images/2018/12/A-simple-day-at-the-Beach-turns-into-Revenge-of-the-Squeegulls-683x1024.jpg"
 heroImageAlt: "A simple day at the Beach turns into “Revenge of the Squeegulls!”"
 category: "Family Travel Uncensored"
 tags: ["Family Travel Uncensored"]

@@ -3,7 +3,7 @@ title: "Hot United States"
 description: ""
 pubDate: 2017-10-15
 updatedDate: 2025-10-21
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/03/Alabama-Travel-Card-1.jpg"
+heroImage: "/images/2023/03/Alabama-Travel-Card-1.jpg"
 heroImageAlt: "Alabama Family Travel Guides"
 category: "Family Travel"
 tags: []

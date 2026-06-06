@@ -3,7 +3,7 @@ title: "7 Haunted Hotels in Los Angeles for Spooky Families 2026"
 description: ""
 pubDate: 2022-12-13
 updatedDate: 2026-01-07
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/08/queen-mary-haunted-hotels-california.jpg"
+heroImage: "/images/2023/08/queen-mary-haunted-hotels-california.jpg"
 heroImageAlt: "Queen Mary Haunted Hotel Los Angeles"
 category: "Family-Friendly Haunted Hotels"
 tags: ["Family-Friendly Haunted Hotels", "Haunted Places", "Hot California", "Hot United States", "Featured"]

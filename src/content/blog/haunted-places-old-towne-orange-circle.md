@@ -3,7 +3,7 @@ title: "Haunted Places in Old Towne Orange Circle"
 description: ""
 pubDate: 2022-09-27
 updatedDate: 2025-10-15
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-ghost-boys-1024x576.jpg"
+heroImage: "/images/2022/09/Haunted-Old-Towne-Orange-Circle-ghost-boys-1024x576.jpg"
 heroImageAlt: "Two boys haunt orange circle"
 category: "Haunted Places"
 tags: ["Haunted Places", "Hot California", "Hot Orange County", "Hot United States", "Featured"]

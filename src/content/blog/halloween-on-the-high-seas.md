@@ -3,7 +3,7 @@ title: "Family Guide to Disney Cruise Line's Halloween on the High Seas"
 description: ""
 pubDate: 2018-08-26
 updatedDate: 2019-07-04
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2016/10/DSC07676-1024x683.jpg"
+heroImage: "/images/2016/10/DSC07676-1024x683.jpg"
 heroImageAlt: "Mickey and Minnie Halloween High Seas"
 category: "Disney Travel"
 tags: ["Disney Travel", "Holiday Travel", "Hot Family Travels"]

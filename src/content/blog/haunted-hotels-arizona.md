@@ -3,7 +3,7 @@ title: "7 Haunted Hotels in Arizona for Spooky Families 2025"
 description: ""
 pubDate: 2023-09-04
 updatedDate: 2025-10-09
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/09/hotel-congress-haunted-hotels-arizona.jpg"
+heroImage: "/images/2023/09/hotel-congress-haunted-hotels-arizona.jpg"
 heroImageAlt: "Haunted Hotel Congress in Tuscan Arizona"
 category: "Family-Friendly Haunted Hotels"
 tags: ["Family-Friendly Haunted Hotels", "Haunted Places", "Hot Arizona", "Hot United States", "Featured"]

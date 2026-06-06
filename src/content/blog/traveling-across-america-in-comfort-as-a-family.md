@@ -2,7 +2,7 @@
 title: "Traveling Across America In Comfort As A Family"
 description: ""
 pubDate: 2024-07-26
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/07/traveling-across-america-in-comfort-as-a-family-200x300.jpg"
+heroImage: "/images/2024/07/traveling-across-america-in-comfort-as-a-family-200x300.jpg"
 heroImageAlt: "Traveling across America in comfort as a family - HotMamaTravel"
 category: "Partnership"
 tags: ["Partnership"]

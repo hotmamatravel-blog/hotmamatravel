@@ -3,7 +3,7 @@ title: "3 Unforgettable Weekend Road Trips from Las Vegas 2026"
 description: ""
 pubDate: 2024-05-13
 updatedDate: 2026-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/05/oatman-arizona.jpg"
+heroImage: "/images/2024/05/oatman-arizona.jpg"
 heroImageAlt: "Wild Burros in Oatman Arizona"
 category: "Hot Arizona"
 tags: ["Hot Arizona", "Hot Las Vegas", "Hot Nevada", "Hot Road Trips", "Hot United States", "Hot Utah", "Featured"]

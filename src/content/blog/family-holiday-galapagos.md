@@ -3,7 +3,7 @@ title: "Why You Should Spend Your Next Family Holiday in Galapagos"
 description: ""
 pubDate: 2022-07-25
 updatedDate: 2022-07-26
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2022/07/Family-Holiday-Galapagos-Beaches.jpg"
+heroImage: "/images/2022/07/Family-Holiday-Galapagos-Beaches.jpg"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels"]
 wpId: 16155

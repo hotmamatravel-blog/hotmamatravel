@@ -3,7 +3,7 @@ title: "The Getty Center with Kids"
 description: ""
 pubDate: 2016-01-25
 updatedDate: 2025-04-14
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2016/01/IMG_0352-682x1024.jpg"
+heroImage: "/images/2016/01/IMG_0352-682x1024.jpg"
 heroImageAlt: "The tram"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot United States"]

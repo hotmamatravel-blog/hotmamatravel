@@ -3,7 +3,7 @@ title: "Epic list of fun things to do in Palm Springs with kids"
 description: ""
 pubDate: 2023-07-08
 updatedDate: 2023-07-20
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2018/09/Palm-Springs-sign.jpg"
+heroImage: "/images/2018/09/Palm-Springs-sign.jpg"
 heroImageAlt: "Palm Springs Sign"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot United States", "Featured"]

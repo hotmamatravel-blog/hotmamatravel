@@ -3,7 +3,7 @@ title: "How to Ensure Your Hybrid or Electric Vehicle Goes the Distance on a Roa
 description: ""
 pubDate: 2023-04-12
 updatedDate: 2025-06-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/04/Electric-hybrid-car-family-road-trip-ready-200x300.jpg"
+heroImage: "/images/2023/04/Electric-hybrid-car-family-road-trip-ready-200x300.jpg"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot Road Trips", "Hot Tips", "Partnership", "Featured"]
 wpId: 17515

@@ -3,7 +3,7 @@ title: "8 Car Upgrades For Your Next Road Trip"
 description: ""
 pubDate: 2023-11-26
 updatedDate: 2025-06-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/11/8-car-upgrades-for-your-next-road-trip-1-200x300.jpg"
+heroImage: "/images/2023/11/8-car-upgrades-for-your-next-road-trip-1-200x300.jpg"
 category: "Hot Road Trips"
 tags: ["Hot Road Trips", "Hot Tips", "Partnership"]
 wpId: 19528

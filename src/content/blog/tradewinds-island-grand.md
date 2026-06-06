@@ -2,7 +2,7 @@
 title: "Why Our Family Loves Tradewinds Island Grand St. Pete"
 description: ""
 pubDate: 2026-04-07
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2017/02/Rooms-at-Tradewinds-Island-Grand.jpg"
+heroImage: "/images/2017/02/Rooms-at-Tradewinds-Island-Grand.jpg"
 heroImageAlt: "rooms at Tradewinds Island Grand"
 category: "Family Hotels"
 tags: ["Family Hotels", "Hot Florida", "Hot St. Pete Beach", "Hot United States"]

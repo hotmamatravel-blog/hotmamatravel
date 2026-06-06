@@ -2,7 +2,7 @@
 title: "Best Hotels in Key West for Families"
 description: ""
 pubDate: 2023-04-26
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/04/casa-marina-key-west-best-hotels-in-key-west-for-families.jpg"
+heroImage: "/images/2023/04/casa-marina-key-west-best-hotels-in-key-west-for-families.jpg"
 category: "Hot Florida"
 tags: ["Hot Florida", "Hot United States", "Featured"]
 wpId: 17390

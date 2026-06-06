@@ -3,7 +3,7 @@ title: "Big Bear Shores RV Resort with Kids"
 description: ""
 pubDate: 2016-07-25
 updatedDate: 2025-04-14
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2014/07/DSCN6409-683x1024.jpg"
+heroImage: "/images/2014/07/DSCN6409-683x1024.jpg"
 heroImageAlt: "Welcome to Big Bear"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels"]

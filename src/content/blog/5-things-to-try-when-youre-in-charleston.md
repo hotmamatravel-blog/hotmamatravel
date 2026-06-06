@@ -2,7 +2,7 @@
 title: "5 Things To Try When You're In Charleston"
 description: ""
 pubDate: 2023-09-22
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2021/02/charleston-city-market-charleston-sc.jpg"
+heroImage: "/images/2021/02/charleston-city-market-charleston-sc.jpg"
 heroImageAlt: "Visit the Charleston City Market "
 category: "Hot South Carolina"
 tags: ["Hot South Carolina", "Hot United States"]

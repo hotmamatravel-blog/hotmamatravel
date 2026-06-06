@@ -3,7 +3,7 @@ title: "16 Best Las Vegas Christmas Activities For Kids 2026"
 description: ""
 pubDate: 2025-11-21
 updatedDate: 2026-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/02/tournament-of-kings-las-vegas-dinner-show-packages.jpg"
+heroImage: "/images/2023/02/tournament-of-kings-las-vegas-dinner-show-packages.jpg"
 heroImageAlt: "Tournament of Kings at Excalibur family las vegas show"
 category: "Holiday Travel"
 tags: ["Holiday Travel", "Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]

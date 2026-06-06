@@ -3,7 +3,7 @@ title: "What Mom Never Told You About Family Travel"
 description: ""
 pubDate: 2015-11-30
 updatedDate: 2025-04-14
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2015/11/IMG_2358-1024x765.jpg"
+heroImage: "/images/2015/11/IMG_2358-1024x765.jpg"
 heroImageAlt: "CuddleBear Meltdown at Disney"
 category: "Hot Tips"
 tags: ["Hot Tips"]

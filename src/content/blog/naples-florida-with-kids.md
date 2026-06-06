@@ -2,7 +2,7 @@
 title: "Cool Things to do in to Naples FL with kids - Ultimate Family Travel Guide"
 description: ""
 pubDate: 2023-04-13
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/04/naples-pier-naples-fl-family-vacations.jpg"
+heroImage: "/images/2023/04/naples-pier-naples-fl-family-vacations.jpg"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot Florida", "Hot United States", "Featured"]
 wpId: 242

@@ -3,7 +3,7 @@ title: "9 Best Kid-Friendly Restaurants in Nashville with Live Music 2025!"
 description: ""
 pubDate: 2024-01-12
 updatedDate: 2025-04-14
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/01/miranda-lamberts-casa-rosa-nashville.jpg"
+heroImage: "/images/2024/01/miranda-lamberts-casa-rosa-nashville.jpg"
 heroImageAlt: "Miranda Lambert"
 category: "Hot Tennessee"
 tags: ["Hot Tennessee", "Hot United States"]

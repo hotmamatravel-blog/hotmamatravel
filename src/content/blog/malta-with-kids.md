@@ -3,7 +3,7 @@ title: "Ultimate List of Things to do in Malta with Kids!"
 description: ""
 pubDate: 2022-07-28
 updatedDate: 2023-08-03
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2022/07/the-malta-experience-family-malta-attraction.jpg"
+heroImage: "/images/2022/07/the-malta-experience-family-malta-attraction.jpg"
 category: "Hot Europe"
 tags: ["Hot Europe", "Featured"]
 wpId: 16179

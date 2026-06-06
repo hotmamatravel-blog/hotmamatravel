@@ -2,7 +2,7 @@
 title: "5 Best Family Hotels in Destin, Florida With Kids 2026"
 description: ""
 pubDate: 2026-04-08
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2020/03/destin-kid-friendly-hotel-henderson-lazy-river.jpg"
+heroImage: "/images/2020/03/destin-kid-friendly-hotel-henderson-lazy-river.jpg"
 category: "Family Hotels"
 tags: ["Family Hotels", "Hot Florida", "Hot United States", "Featured"]
 wpId: 13267

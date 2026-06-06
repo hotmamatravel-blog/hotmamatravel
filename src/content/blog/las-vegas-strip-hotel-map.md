@@ -3,7 +3,7 @@ title: "Best Las Vegas Strip Hotel Map 2026: 21 Hotels on the Vegas Strip"
 description: ""
 pubDate: 2024-03-14
 updatedDate: 2026-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/03/Las-Vegas-Strip-Hotel-Map-2024-683x1024.jpg"
+heroImage: "/images/2024/03/Las-Vegas-Strip-Hotel-Map-2024-683x1024.jpg"
 heroImageAlt: "Las Vegas Hotel Map 2024"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States"]

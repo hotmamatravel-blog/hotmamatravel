@@ -3,7 +3,7 @@ title: "3 Historic Haunted Hotels In New Orleans For Families 2025"
 description: ""
 pubDate: 2019-10-18
 updatedDate: 2025-10-23
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2019/10/haunted-hotel-new-olreans-dauphine-orleans-hotel-ghost.jpg"
+heroImage: "/images/2019/10/haunted-hotel-new-olreans-dauphine-orleans-hotel-ghost.jpg"
 heroImageAlt: "Haunted New Orleans Hotel Dauphine French Quarter"
 category: "Family-Friendly Haunted Hotels"
 tags: ["Family-Friendly Haunted Hotels", "Haunted Places", "Hot Louisiana", "Hot United States"]

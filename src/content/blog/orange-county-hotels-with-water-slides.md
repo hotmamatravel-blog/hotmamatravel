@@ -2,7 +2,7 @@
 title: "Best Orange County Hotels With Water Slides For Families 2026"
 description: ""
 pubDate: 2026-04-15
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2020/09/Hyatt-Regency-Newport-Beach.jpg"
+heroImage: "/images/2020/09/Hyatt-Regency-Newport-Beach.jpg"
 heroImageAlt: "hyatt regency newport beach"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels"]

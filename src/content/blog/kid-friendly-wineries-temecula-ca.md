@@ -3,7 +3,7 @@ title: "8 Best Kid-Friendly Wineries in Temecula  2026 You'll Love!"
 description: ""
 pubDate: 2024-01-11
 updatedDate: 2026-05-26
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2021/05/Wilson-Creek-Winery-kid-friendly-wineries-temecula.jpg"
+heroImage: "/images/2021/05/Wilson-Creek-Winery-kid-friendly-wineries-temecula.jpg"
 heroImageAlt: "Wilson Creek Winery"
 category: "Family-Friendly Wineries"
 tags: ["Family-Friendly Wineries", "Hot California", "Hot United States", "Featured"]

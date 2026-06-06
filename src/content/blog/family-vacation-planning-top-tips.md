@@ -3,7 +3,7 @@ title: "Family Vacation Planning: Top Tips To Help You Maintain Control"
 description: ""
 pubDate: 2023-07-26
 updatedDate: 2025-06-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/07/family-vacation-planning-tips-to-maintain-control-200x300.jpg"
+heroImage: "/images/2023/07/family-vacation-planning-tips-to-maintain-control-200x300.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership"]
 wpId: 18509

@@ -3,7 +3,7 @@ title: "Basic Travel Apps Everyone Must Have"
 description: ""
 pubDate: 2022-09-12
 updatedDate: 2025-06-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2022/09/best-travel-apps-for-travelers-200x300.jpg"
+heroImage: "/images/2022/09/best-travel-apps-for-travelers-200x300.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership"]
 wpId: 16354

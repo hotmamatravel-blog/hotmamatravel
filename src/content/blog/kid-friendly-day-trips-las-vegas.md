@@ -3,7 +3,7 @@ title: "8 Kid-Friendly Day Trips from Las Vegas That Rock 2026"
 description: ""
 pubDate: 2024-02-07
 updatedDate: 2026-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2018/08/Family-day-trip-tours-near-Las-Vegas-Header.jpg"
+heroImage: "/images/2018/08/Family-day-trip-tours-near-Las-Vegas-Header.jpg"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]
 wpId: 9523

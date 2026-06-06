@@ -3,7 +3,7 @@ title: "Unforgettable Palm Springs Tours that Families will Love"
 description: ""
 pubDate: 2023-07-17
 updatedDate: 2023-07-20
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/07/palm-springs-aerial-tramway.jpg"
+heroImage: "/images/2023/07/palm-springs-aerial-tramway.jpg"
 category: "Hot California"
 tags: ["Hot California", "Hot United States", "Featured"]
 wpId: 18384

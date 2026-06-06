@@ -3,7 +3,7 @@ title: "Top 12 Affordable Family Activities Las Vegas 2026"
 description: ""
 pubDate: 2024-05-29
 updatedDate: 2026-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2022/08/Las-Vegas-Eiffel-Tower.jpg"
+heroImage: "/images/2022/08/Las-Vegas-Eiffel-Tower.jpg"
 heroImageAlt: "Eiffel tower paris hotel las vegas"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]

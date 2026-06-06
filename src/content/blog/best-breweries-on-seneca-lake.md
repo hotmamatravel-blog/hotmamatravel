@@ -3,7 +3,7 @@ title: "11 Best Breweries on Seneca Lake Families Love 2024"
 description: ""
 pubDate: 2023-11-30
 updatedDate: 2024-01-18
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/11/scale-house-brewery-best-breweries-seneca-lake.jpg"
+heroImage: "/images/2023/11/scale-house-brewery-best-breweries-seneca-lake.jpg"
 heroImageAlt: "Family Friendly Live Musica at Scale House Brewery Seneca Lake"
 category: "Best Breweries For Families"
 tags: ["Best Breweries For Families", "Hot New York", "Hot United States", "Featured"]

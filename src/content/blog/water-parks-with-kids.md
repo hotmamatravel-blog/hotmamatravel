@@ -3,7 +3,7 @@ title: "Water Parks with kids: A Survival Guide for Parents!"
 description: ""
 pubDate: 2016-08-25
 updatedDate: 2019-06-19
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2016/08/DSCN0938-682x1024.jpg"
+heroImage: "/images/2016/08/DSCN0938-682x1024.jpg"
 heroImageAlt: "water parks with kids"
 category: "Hot Tips"
 tags: ["Hot Tips"]

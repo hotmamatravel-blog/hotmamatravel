@@ -3,7 +3,7 @@ title: "Traveling Turkey: 5 Destinations That Aren’t Istanbul"
 description: ""
 pubDate: 2023-09-22
 updatedDate: 2025-06-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/09/bodrum-turkey.jpg"
+heroImage: "/images/2023/09/bodrum-turkey.jpg"
 heroImageAlt: "Bodrum Turkey"
 category: "Hot Europe"
 tags: ["Hot Europe", "Partnership"]

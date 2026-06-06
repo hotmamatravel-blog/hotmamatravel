@@ -2,7 +2,7 @@
 title: "5 Best California Beaches for Ultimate Family Fun"
 description: ""
 pubDate: 2022-07-13
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2022/07/Long-Beach.jpg"
+heroImage: "/images/2022/07/Long-Beach.jpg"
 category: "Hot California"
 tags: ["Hot California", "Hot United States"]
 wpId: 16114

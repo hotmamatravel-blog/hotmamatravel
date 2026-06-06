@@ -3,7 +3,7 @@ title: "My Night at the Game of Thrones Popup Bar with Kids"
 description: ""
 pubDate: 2017-07-14
 updatedDate: 2019-07-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2017/07/GOT-PUB-1-e1500042098779.jpg"
+heroImage: "/images/2017/07/GOT-PUB-1-e1500042098779.jpg"
 heroImageAlt: "Game of Thrones Popup Bar with Kids"
 category: "Hot United States"
 tags: ["Hot United States", "Hot Washington DC"]

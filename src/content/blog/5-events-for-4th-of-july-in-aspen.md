@@ -2,7 +2,7 @@
 title: "Celebrate Independence in Style: 5 Glamorous Events for 4th of July in Aspen"
 description: ""
 pubDate: 2023-06-26
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/06/ajax-taven-aspen-colorado.jpg"
+heroImage: "/images/2023/06/ajax-taven-aspen-colorado.jpg"
 category: "Hot Colorado"
 tags: ["Hot Colorado", "Hot United States", "Featured"]
 wpId: 18248

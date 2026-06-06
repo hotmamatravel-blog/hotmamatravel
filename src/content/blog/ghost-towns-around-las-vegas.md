@@ -3,7 +3,7 @@ title: "6 Best Ghost Towns Around Las Vegas Families Will Love 2026"
 description: ""
 pubDate: 2024-05-06
 updatedDate: 2026-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/05/calico-ghost-towns-around-las-vegas.jpg"
+heroImage: "/images/2024/05/calico-ghost-towns-around-las-vegas.jpg"
 heroImageAlt: "Calico Ghost Towns Around Las Vegas"
 category: "Haunted Places"
 tags: ["Haunted Places", "Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]

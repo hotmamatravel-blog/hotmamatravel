@@ -3,7 +3,7 @@ title: "Top 19 Celebrity Chef Restaurants Las Vegas 2026"
 description: ""
 pubDate: 2024-04-25
 updatedDate: 2026-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/02/gordon-ramsay-steak-celebrity-chef-restaurant-las-vegas.jpg"
+heroImage: "/images/2023/02/gordon-ramsay-steak-celebrity-chef-restaurant-las-vegas.jpg"
 heroImageAlt: "Las Vegas Celebrity Restaurants Gordon Ramsay Steak at Paris Las Vegas"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]

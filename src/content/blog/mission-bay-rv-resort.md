@@ -3,7 +3,7 @@ title: "Family Guide to Mission Bay RV Resort with kids - Fun things to do"
 description: ""
 pubDate: 2017-04-11
 updatedDate: 2019-07-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2014/09/Collage-Bay.png"
+heroImage: "/images/2014/09/Collage-Bay.png"
 heroImageAlt: "Mission Bay RV Resort"
 category: "Hot California"
 tags: ["Hot California", "Hot United States"]

@@ -3,7 +3,7 @@ title: "Family Guide to Laguna Beach with kids - Where to eat, stay & play"
 description: ""
 pubDate: 2017-04-21
 updatedDate: 2019-07-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2015/10/LB-68-768x1024.jpg"
+heroImage: "/images/2015/10/LB-68-768x1024.jpg"
 heroImageAlt: "Laguna Beach shuttle"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot Orange County", "Hot United States"]

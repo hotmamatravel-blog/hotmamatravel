@@ -3,7 +3,7 @@ title: "How To Prioritize Self-Care When Traveling"
 description: ""
 pubDate: 2023-04-24
 updatedDate: 2025-06-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/04/importance-self-care-when-traveling-200x300.jpg"
+heroImage: "/images/2023/04/importance-self-care-when-traveling-200x300.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership", "Featured"]
 wpId: 17782

@@ -2,7 +2,7 @@
 title: "Best Small Group Tours in Ireland for Families 2026"
 description: ""
 pubDate: 2026-04-02
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/10/exoticca-ireland-scotland-15-days-small-group-tours-in-ireland.jpg"
+heroImage: "/images/2023/10/exoticca-ireland-scotland-15-days-small-group-tours-in-ireland.jpg"
 heroImageAlt: "private family tour in ireland"
 category: "Hot Europe"
 tags: ["Hot Europe", "Featured"]

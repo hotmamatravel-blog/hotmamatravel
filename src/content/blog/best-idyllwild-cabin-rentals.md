@@ -3,7 +3,7 @@ title: "6 Best Idyllwild Cabin Rentals for Families 2026"
 description: ""
 pubDate: 2024-01-25
 updatedDate: 2026-02-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/06/Fireside-idyllwild-places-to-stay.jpg"
+heroImage: "/images/2023/06/Fireside-idyllwild-places-to-stay.jpg"
 heroImageAlt: "Fireside Inn Idyllwild Cabin Rentals"
 category: "Family Hotels"
 tags: ["Family Hotels", "Hot California", "Hot United States", "Featured"]

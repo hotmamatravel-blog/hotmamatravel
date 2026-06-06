@@ -2,7 +2,7 @@
 title: "Plan the Perfect Babymoon in the Florida Keys 2024"
 description: ""
 pubDate: 2024-01-26
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/04/amara-cay-resort-florida-keys-kid-friendly-resorts.jpg"
+heroImage: "/images/2023/04/amara-cay-resort-florida-keys-kid-friendly-resorts.jpg"
 heroImageAlt: "babymoon florida keys at Bliss Cay Resort"
 category: "Hot Florida"
 tags: ["Hot Florida", "Hot United States", "Featured"]

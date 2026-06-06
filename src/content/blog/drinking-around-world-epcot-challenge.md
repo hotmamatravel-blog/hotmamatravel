@@ -3,7 +3,7 @@ title: "The Drinking Around The World Epcot Challenge...with kids!?"
 description: ""
 pubDate: 2017-03-23
 updatedDate: 2019-07-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2017/03/EC-844x1024.jpg"
+heroImage: "/images/2017/03/EC-844x1024.jpg"
 heroImageAlt: "The Drinking Around The World Epcot Challenge"
 category: "Disney Travel"
 tags: ["Disney Travel", "Hot Florida", "Hot Tips", "Hot United States"]

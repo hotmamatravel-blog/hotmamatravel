@@ -3,7 +3,7 @@ title: "9 Tips for Starting Over in a New City"
 description: ""
 pubDate: 2024-05-30
 updatedDate: 2024-07-24
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/05/tips-for-starting-over-in-new-city-Pinterest-Pin-200x300.jpg"
+heroImage: "/images/2024/05/tips-for-starting-over-in-new-city-Pinterest-Pin-200x300.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership"]
 wpId: 20976

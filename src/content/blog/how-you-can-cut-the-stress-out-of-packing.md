@@ -3,7 +3,7 @@ title: "How You Can Cut the Stress Out of Packing"
 description: ""
 pubDate: 2023-12-21
 updatedDate: 2025-05-31
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/12/cut-the-stress-from-packing-200x300.jpg"
+heroImage: "/images/2023/12/cut-the-stress-from-packing-200x300.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership"]
 wpId: 19726

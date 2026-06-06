@@ -2,7 +2,7 @@
 title: "Top 10 Fun Activities in St. George, Utah for Kids"
 description: ""
 pubDate: 2022-04-26
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2022/04/snow-canyon-state-park-utah.jpg"
+heroImage: "/images/2022/04/snow-canyon-state-park-utah.jpg"
 category: "Guest Blog"
 tags: ["Guest Blog", "Hot United States", "Featured"]
 wpId: 15781

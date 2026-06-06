@@ -3,7 +3,7 @@ title: "Top 8 family-friendly US cities to visit in 2020 by season"
 description: ""
 pubDate: 2020-01-07
 updatedDate: 2025-06-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2019/12/san-diego-california.jpg"
+heroImage: "/images/2019/12/san-diego-california.jpg"
 heroImageAlt: "San Diego Coastline train"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels"]

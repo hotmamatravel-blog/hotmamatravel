@@ -3,7 +3,7 @@ title: "Fireside Inn Idyllwild Review for Families"
 description: ""
 pubDate: 2017-01-09
 updatedDate: 2026-02-06
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2017/01/Fireside-Idyllwild-Couples-Retreat-.jpg"
+heroImage: "/images/2017/01/Fireside-Idyllwild-Couples-Retreat-.jpg"
 heroImageAlt: "Fireside Idyllwild Romantic Getaway "
 category: "Family Hotels"
 tags: ["Family Hotels", "Hot California", "Hot United States"]

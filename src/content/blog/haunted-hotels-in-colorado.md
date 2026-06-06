@@ -3,7 +3,7 @@ title: "4 Most Haunted Hotels in Colorado For Families 2025"
 description: ""
 pubDate: 2023-08-30
 updatedDate: 2025-10-12
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/08/The-Stanley-Hotel-Haunted-Hotels-Colorado.jpg"
+heroImage: "/images/2023/08/The-Stanley-Hotel-Haunted-Hotels-Colorado.jpg"
 heroImageAlt: "The Stanley Hotel one of the Most Haunted Hotels in Colorado"
 category: "Family-Friendly Haunted Hotels"
 tags: ["Family-Friendly Haunted Hotels", "Haunted Places", "Hot Colorado", "Hot United States", "Featured"]

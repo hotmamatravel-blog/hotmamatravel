@@ -3,7 +3,7 @@ title: "5 Kid-Friendly Wineries in Sonoma Your Family will Love!"
 description: ""
 pubDate: 2022-03-22
 updatedDate: 2022-09-29
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2022/09/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg"
+heroImage: "/images/2022/09/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg"
 heroImageAlt: "Get your VinArmour wine travel case today"
 category: "Hot California"
 tags: ["Hot California", "Hot United States", "Featured"]

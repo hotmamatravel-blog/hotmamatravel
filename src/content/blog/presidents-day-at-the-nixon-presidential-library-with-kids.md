@@ -3,7 +3,7 @@ title: "President's Day at the Nixon Presidential Library with Kids"
 description: ""
 pubDate: 2016-02-15
 updatedDate: 2025-04-14
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2016/02/DSCN8963-1024x683.jpg"
+heroImage: "/images/2016/02/DSCN8963-1024x683.jpg"
 heroImageAlt: "President"
 category: "Holiday Travel"
 tags: ["Holiday Travel", "Hot California", "Hot Orange County"]

@@ -3,7 +3,7 @@ title: "Family Guide to visiting Edinburgh Castle with kids - Fun things to do"
 description: ""
 pubDate: 2017-03-02
 updatedDate: 2019-07-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2015/09/DSCN0064-1024x768.jpg"
+heroImage: "/images/2015/09/DSCN0064-1024x768.jpg"
 heroImageAlt: "Edinburgh Castle with Kids"
 category: "Hot Europe"
 tags: ["Hot Europe", "Hot Family Travels"]

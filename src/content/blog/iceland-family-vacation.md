@@ -3,7 +3,7 @@ title: "Must See and Do: Things to do for the Ultimate Iceland Family Vacation"
 description: ""
 pubDate: 2022-07-15
 updatedDate: 2024-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2022/07/Blue-Lagoon-Iceland.jpg"
+heroImage: "/images/2022/07/Blue-Lagoon-Iceland.jpg"
 category: "Hot Europe"
 tags: ["Hot Europe"]
 wpId: 16129

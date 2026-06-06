@@ -3,7 +3,7 @@ title: "5 Best Family Hotels in Boston, MA with kids"
 description: ""
 pubDate: 2019-08-03
 updatedDate: 2024-01-11
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2019/08/family-hotel-boston-Residence-Harbor-tudor-whart-front.jpg"
+heroImage: "/images/2019/08/family-hotel-boston-Residence-Harbor-tudor-whart-front.jpg"
 heroImageAlt: "Residence Inn on the Harbor in Tudor Wharf Boston"
 category: "Hot Massachusetts"
 tags: ["Hot Massachusetts", "Hot United States"]

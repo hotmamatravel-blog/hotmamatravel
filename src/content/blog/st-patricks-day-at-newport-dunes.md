@@ -2,7 +2,7 @@
 title: "Why Families Love St. Patrick’s Day at Newport Dunes"
 description: ""
 pubDate: 2026-03-16
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2017/03/Birthdays-at-Newport-Dunes.jpg"
+heroImage: "/images/2017/03/Birthdays-at-Newport-Dunes.jpg"
 heroImageAlt: "St. Patrick"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Holiday Travel", "Hot California", "Hot Orange County", "Hot United States"]

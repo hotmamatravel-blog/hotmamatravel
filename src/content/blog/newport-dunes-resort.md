@@ -3,7 +3,7 @@ title: "Newport Dunes Resort Glamping With Kids: 2026 Guide"
 description: ""
 pubDate: 2026-03-15
 updatedDate: 2026-03-16
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2017/06/Newport-Dunes-Beach-Cottages.jpg"
+heroImage: "/images/2017/06/Newport-Dunes-Beach-Cottages.jpg"
 heroImageAlt: "Newport Dunes Beach Cottages"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Hot California", "Hot Family Travels", "Hot Orange County", "Hot United States"]

@@ -3,7 +3,7 @@ title: "Ultimate Guide to San Diego Zoo and Safari Park"
 description: ""
 pubDate: 2015-04-20
 updatedDate: 2025-06-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2015/04/DSCN8720-1024x684.jpg"
+heroImage: "/images/2015/04/DSCN8720-1024x684.jpg"
 heroImageAlt: "Safari Park"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot United States"]

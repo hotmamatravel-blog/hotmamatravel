@@ -3,7 +3,7 @@ title: "How Fast Do Airboats Go in the Everglades?"
 description: ""
 pubDate: 2024-02-26
 updatedDate: 2026-04-11
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/02/how-fast-do-airboats-go-in-the-everglades-200x300.jpg"
+heroImage: "/images/2024/02/how-fast-do-airboats-go-in-the-everglades-200x300.jpg"
 category: "Hot Florida"
 tags: ["Hot Florida", "Hot United States"]
 wpId: 20416

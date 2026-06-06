@@ -3,7 +3,7 @@ title: "Taxi Fare From Cancun Airport To Tulum: What to Expect in 2024"
 description: ""
 pubDate: 2024-05-31
 updatedDate: 2025-01-17
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/05/taxi-fare-from-cancun-to-tulum-mexico-200x300.jpg"
+heroImage: "/images/2024/05/taxi-fare-from-cancun-to-tulum-mexico-200x300.jpg"
 heroImageAlt: "Taxi Fare from Cancun Airport to Tulum What to Expect"
 category: "Hot Mexico"
 tags: ["Hot Mexico", "Partnership"]

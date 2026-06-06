@@ -3,7 +3,7 @@ title: "7 Best Family Hotels in Vancouver, BC 2026"
 description: ""
 pubDate: 2024-01-18
 updatedDate: 2026-05-07
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2019/09/family-friendly-vancouver-hotel-fairmont-waterfront-front.jpg"
+heroImage: "/images/2019/09/family-friendly-vancouver-hotel-fairmont-waterfront-front.jpg"
 heroImageAlt: "Fairmont Waterfront Vancouver kid friendly hotel"
 category: "Family Hotels"
 tags: ["Family Hotels", "Hot Canada", "Featured"]

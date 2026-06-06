@@ -2,7 +2,7 @@
 title: "Isla De Las Muñecas: Haunted Island of the Dead Dolls"
 description: ""
 pubDate: 2023-12-18
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/12/the-truth-about-Isla-De-Las-Munecas-Haunted-Island-of-Dead-Dolls.jpg"
+heroImage: "/images/2023/12/the-truth-about-Isla-De-Las-Munecas-Haunted-Island-of-Dead-Dolls.jpg"
 heroImageAlt: "True Story Behind the Haunted Island of Dead Dolls in Mexio"
 category: "Guest Blog"
 tags: ["Guest Blog", "Haunted Places", "Hot Mexico", "Featured"]

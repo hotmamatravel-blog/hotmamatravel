@@ -3,7 +3,7 @@ title: "An Educational Weekend Getaway with the Kids in Washington, D.C."
 description: ""
 pubDate: 2024-07-20
 updatedDate: 2024-07-22
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/07/educational-weekend-washington-dc-with-kids-200x300.jpg"
+heroImage: "/images/2024/07/educational-weekend-washington-dc-with-kids-200x300.jpg"
 heroImageAlt: "Educational weekend getaway with kids in Washington DC"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot United States", "Hot Washington DC", "Partnership"]

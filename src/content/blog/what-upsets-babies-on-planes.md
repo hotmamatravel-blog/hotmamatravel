@@ -2,7 +2,7 @@
 title: "What Upsets Babies On Planes: 5 Things To Know In Advance"
 description: ""
 pubDate: 2024-05-07
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/05/what-upsets-babies-on-planes-1-200x300.jpg"
+heroImage: "/images/2024/05/what-upsets-babies-on-planes-1-200x300.jpg"
 heroImageAlt: "What Upsets Babies On Planes, 5 Things To Know In Advance\n"
 category: "Hot Tips"
 tags: ["Hot Tips"]

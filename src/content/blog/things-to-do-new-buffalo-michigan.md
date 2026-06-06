@@ -2,7 +2,7 @@
 title: "9 Awesome Things to do in New Buffalo Michigan with Kids"
 description: ""
 pubDate: 2023-01-06
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/01/New-Buffalo-Beach-Michigan.jpg"
+heroImage: "/images/2023/01/New-Buffalo-Beach-Michigan.jpg"
 category: "Hot United States"
 tags: ["Hot United States", "Featured"]
 wpId: 16623

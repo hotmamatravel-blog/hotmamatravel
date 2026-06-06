@@ -3,7 +3,7 @@ title: "Cool Things To Do In Tombstone With Kids 2025"
 description: ""
 pubDate: 2016-04-28
 updatedDate: 2025-04-14
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2016/04/DSCN2076-683x1024.jpg"
+heroImage: "/images/2016/04/DSCN2076-683x1024.jpg"
 heroImageAlt: "Tombstone with kids"
 category: "Hot Arizona"
 tags: ["Hot Arizona", "Hot Family Travels", "Hot United States"]

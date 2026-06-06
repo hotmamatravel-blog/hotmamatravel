@@ -3,7 +3,7 @@ title: "Family Guide to Old Town Scottsdale with kids - Where to eat, stay, & pl
 description: ""
 pubDate: 2020-03-03
 updatedDate: 2022-10-28
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2020/03/camelback-mountain-scottsdale-az.jpg"
+heroImage: "/images/2020/03/camelback-mountain-scottsdale-az.jpg"
 heroImageAlt: "Scottsdale Arizona Camelback Mountain"
 category: "Hot Arizona"
 tags: ["Hot Arizona", "Hot Family Travels", "Hot United States"]

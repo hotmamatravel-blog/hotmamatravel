@@ -3,7 +3,7 @@ title: "4 Fun Things To Do In Texas With Your Kids"
 description: ""
 pubDate: 2024-01-09
 updatedDate: 2025-10-09
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/01/4-fun-things-to-do-in-texas-with-your-kids-200x300.jpg"
+heroImage: "/images/2024/01/4-fun-things-to-do-in-texas-with-your-kids-200x300.jpg"
 category: "Hot Texas"
 tags: ["Hot Texas", "Hot Tips", "Hot United States"]
 wpId: 19851

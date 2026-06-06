@@ -3,7 +3,7 @@ title: "Family guide to Philadelphia with Kids - Where to eat, stay & play"
 description: ""
 pubDate: 2017-10-02
 updatedDate: 2019-07-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2018/02/things-to-do-philadelphia-with-kids-header.png"
+heroImage: "/images/2018/02/things-to-do-philadelphia-with-kids-header.png"
 heroImageAlt: "Save up to 70% on LivingSocial deals!"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot Pennsylvania", "Hot United States"]

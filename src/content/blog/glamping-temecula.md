@@ -3,7 +3,7 @@ title: "5 Country Spots for Glamping in Temecula You Will Love"
 description: ""
 pubDate: 2023-06-20
 updatedDate: 2023-06-27
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2021/05/double-yurt-bailys-palomar-mountain-glamping-temecula.jpg"
+heroImage: "/images/2021/05/double-yurt-bailys-palomar-mountain-glamping-temecula.jpg"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Hot California", "Hot United States", "Featured"]
 wpId: 14468

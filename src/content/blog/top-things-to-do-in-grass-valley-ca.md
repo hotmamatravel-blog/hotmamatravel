@@ -3,7 +3,7 @@ title: "Top Things To Do In Grass Valley, CA With Kids 2026"
 description: ""
 pubDate: 2021-05-17
 updatedDate: 2026-05-13
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2021/05/empire-mine-state-park-cottage-grass-valley-ca.jpg"
+heroImage: "/images/2021/05/empire-mine-state-park-cottage-grass-valley-ca.jpg"
 heroImageAlt: "Empire Mine Park Grass Valley"
 category: "Hot California"
 tags: ["Hot California", "Hot United States", "Featured"]

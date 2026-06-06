@@ -3,7 +3,7 @@ title: "How to go RVing for Thanksgiving in Big Bear"
 description: ""
 pubDate: 2016-11-19
 updatedDate: 2025-11-06
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2014/11/RSCN7240-1024x683.jpg"
+heroImage: "/images/2014/11/RSCN7240-1024x683.jpg"
 heroImageAlt: "Thanksgiving in Big Bear with kids"
 category: "Holiday Travel"
 tags: ["Holiday Travel", "Hot California", "Hot United States"]

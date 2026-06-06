@@ -3,7 +3,7 @@ title: "Best Time Of Year To Go To Las Vegas With Your Family"
 description: ""
 pubDate: 2024-06-06
 updatedDate: 2026-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/06/graph-of-temperature-in-las-vegas-nv.png"
+heroImage: "/images/2024/06/graph-of-temperature-in-las-vegas-nv.png"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]
 wpId: 21052

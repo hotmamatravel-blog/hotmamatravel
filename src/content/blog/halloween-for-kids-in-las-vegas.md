@@ -3,7 +3,7 @@ title: "14 Spooky Halloween For Kids In Las Vegas 2026"
 description: ""
 pubDate: 2024-07-22
 updatedDate: 2026-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2020/03/zak-bagans-haunted-museum-church.jpg"
+heroImage: "/images/2020/03/zak-bagans-haunted-museum-church.jpg"
 heroImageAlt: "Zak Bagans Haunted Museum in Las Vegas"
 category: "Haunted Places"
 tags: ["Haunted Places", "Hot Family Travels", "Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]

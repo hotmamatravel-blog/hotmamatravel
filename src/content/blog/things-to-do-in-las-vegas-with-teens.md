@@ -3,7 +3,7 @@ title: "14 Best Things To Do in Las Vegas With Teens 2026"
 description: ""
 pubDate: 2024-05-01
 updatedDate: 2026-05-26
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2020/03/piff-magic-dragon-vegas-show-for-teens.jpg"
+heroImage: "/images/2020/03/piff-magic-dragon-vegas-show-for-teens.jpg"
 heroImageAlt: "Piff the Magic Dragon Las Vegas show for teens"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]

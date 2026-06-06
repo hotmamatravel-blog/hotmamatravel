@@ -2,7 +2,7 @@
 title: "Planning The Perfect Trip From Start To Finish"
 description: ""
 pubDate: 2024-07-20
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/07/tips-for-planning-the-perfect-trip-200x300.jpg"
+heroImage: "/images/2024/07/tips-for-planning-the-perfect-trip-200x300.jpg"
 heroImageAlt: "planning the perfect trip"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership"]

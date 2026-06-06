@@ -2,7 +2,7 @@
 title: "5 Mind-blowing Glamping Sites in Zion that you will Love"
 description: ""
 pubDate: 2023-06-27
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2021/06/under-canvas-zion-family-glamping-tents.jpg"
+heroImage: "/images/2021/06/under-canvas-zion-family-glamping-tents.jpg"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Hot United States", "Featured"]
 wpId: 14682

@@ -3,7 +3,7 @@ title: "Ultimate Guide to visiting Disneyland with Kids"
 description: ""
 pubDate: 2016-09-30
 updatedDate: 2025-03-07
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2014/06/DSCN8844-1-1024x682.jpg"
+heroImage: "/images/2014/06/DSCN8844-1-1024x682.jpg"
 heroImageAlt: "Kids with Mickey Ears"
 category: "Disney Travel"
 tags: ["Disney Travel", "Hot California", "Hot Orange County", "Hot United States"]

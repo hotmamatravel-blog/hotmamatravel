@@ -3,7 +3,7 @@ title: "Our Top 11 kid-friendly places with live music across the US"
 description: ""
 pubDate: 2019-03-06
 updatedDate: 2020-01-18
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2019/03/kid-friendly-places-live-music-across-usa-pin-683x1024.jpg"
+heroImage: "/images/2019/03/kid-friendly-places-live-music-across-usa-pin-683x1024.jpg"
 heroImageAlt: "11 Best Kid Friendly Places with Live Music across the US"
 category: "Hot Tips"
 tags: ["Hot Tips", "Hot United States"]

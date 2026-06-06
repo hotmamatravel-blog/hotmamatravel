@@ -3,7 +3,7 @@ title: "Our favorite spooky Halloween events and activities for Families"
 description: ""
 pubDate: 2018-10-04
 updatedDate: 2019-07-04
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2016/10/spooky-halloween-interior-decor.jpg"
+heroImage: "/images/2016/10/spooky-halloween-interior-decor.jpg"
 heroImageAlt: "Halloween house decorations"
 category: "Holiday Travel"
 tags: ["Holiday Travel", "Hot Tips"]

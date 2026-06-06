@@ -3,7 +3,7 @@ title: "Capturing Spectacular Photos When Traveling With Kids: 6 Simple Tips"
 description: ""
 pubDate: 2022-07-12
 updatedDate: 2025-06-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2022/07/capturing-kids-photos.jpg"
+heroImage: "/images/2022/07/capturing-kids-photos.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership"]
 wpId: 16092

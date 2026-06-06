@@ -3,7 +3,7 @@ title: "Sweatpants in Scotland, Tantrums in Airports, & Super Nanny to the Rescu
 description: ""
 pubDate: 2018-10-29
 updatedDate: 2019-07-04
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2018/10/HotMamaTravel-family-travel-uncensored-pin-683x1024.jpg"
+heroImage: "/images/2018/10/HotMamaTravel-family-travel-uncensored-pin-683x1024.jpg"
 heroImageAlt: "Family Travel Uncensored - Sweatpants in Scotland, Tantrums in Airports, &amp; Super Nanny to the Rescue"
 category: "Family Travel Uncensored"
 tags: ["Family Travel Uncensored"]

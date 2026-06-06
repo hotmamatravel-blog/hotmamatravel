@@ -2,7 +2,7 @@
 title: "Newport Coast with Kids Family Guide 2026"
 description: ""
 pubDate: 2026-04-14
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2017/02/fun-things-to-do-newport-coast-with-kids-orange-county.png"
+heroImage: "/images/2017/02/fun-things-to-do-newport-coast-with-kids-orange-county.png"
 heroImageAlt: "Things to do with kids on Newport Coast OC"
 category: "Hot California"
 tags: ["Hot California", "Hot Orange County", "Hot United States"]

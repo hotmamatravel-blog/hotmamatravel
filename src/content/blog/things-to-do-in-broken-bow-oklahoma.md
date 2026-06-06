@@ -3,7 +3,7 @@ title: "Exciting Things to do in Broken Bow Oklahoma with Kids"
 description: ""
 pubDate: 2023-01-17
 updatedDate: 2023-01-18
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/01/Beavers-Bend-State-Park-broken-bow-oklahoma.jpg"
+heroImage: "/images/2023/01/Beavers-Bend-State-Park-broken-bow-oklahoma.jpg"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot United States", "Featured"]
 wpId: 16707

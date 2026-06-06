@@ -3,7 +3,7 @@ title: "What You Should Know About Everglades Airboat Tour with Kids"
 description: ""
 pubDate: 2023-04-14
 updatedDate: 2026-04-10
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/04/everglades-airboat-tours.jpg"
+heroImage: "/images/2023/04/everglades-airboat-tours.jpg"
 heroImageAlt: "everglades tour with kids"
 category: "Hot Florida"
 tags: ["Hot Florida", "Hot Tips", "Hot United States", "Featured"]

@@ -3,7 +3,7 @@ title: "6 Rocking Kid Friendly Live Music Las Vegas Restaurants 2026"
 description: ""
 pubDate: 2024-05-02
 updatedDate: 2026-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/05/nine-fine-irishmen-las-vegas.jpg"
+heroImage: "/images/2024/05/nine-fine-irishmen-las-vegas.jpg"
 heroImageAlt: "Kid friendly live music las vegas Nine Fine Irishmen"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]

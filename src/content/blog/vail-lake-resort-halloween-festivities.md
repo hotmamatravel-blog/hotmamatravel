@@ -3,7 +3,7 @@ title: "Terror in the Oaks: Vail Lake Resort Halloween Festivities"
 description: ""
 pubDate: 2016-10-13
 updatedDate: 2025-11-06
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2014/06/DSCN5771-1024x449.jpg"
+heroImage: "/images/2014/06/DSCN5771-1024x449.jpg"
 heroImageAlt: "Vail Lake Resort Halloween Festivities"
 category: "Holiday Travel"
 tags: ["Holiday Travel", "Hot California", "Hot United States"]

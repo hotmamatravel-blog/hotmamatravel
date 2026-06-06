@@ -3,7 +3,7 @@ title: "5 Beautiful Glamping Colorado Spots that you will Love"
 description: ""
 pubDate: 2023-06-27
 updatedDate: 2025-10-12
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2021/07/echo-canyon-campground-glamping-colorado.jpg"
+heroImage: "/images/2021/07/echo-canyon-campground-glamping-colorado.jpg"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Hot Colorado", "Hot United States", "Featured"]
 wpId: 14730

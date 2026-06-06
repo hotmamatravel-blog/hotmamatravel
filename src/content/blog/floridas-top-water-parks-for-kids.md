@@ -2,7 +2,7 @@
 title: "A Splash of Fun: Exploring Florida’s Top Water Parks for Kids"
 description: ""
 pubDate: 2023-04-21
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/04/legoland-florida-water-park-florida-water-parks-1024x576.jpg"
+heroImage: "/images/2023/04/legoland-florida-water-park-florida-water-parks-1024x576.jpg"
 category: "Hot Florida"
 tags: ["Hot Florida", "Hot United States", "Featured"]
 wpId: 17753

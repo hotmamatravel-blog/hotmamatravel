@@ -2,7 +2,7 @@
 title: "Cool Things to do in the Berkshires for Families"
 description: ""
 pubDate: 2023-01-12
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/01/Mount-Greylock-Berkshires-Massachusetts.jpg"
+heroImage: "/images/2023/01/Mount-Greylock-Berkshires-Massachusetts.jpg"
 category: "Hot Massachusetts"
 tags: ["Hot Massachusetts", "Hot United States", "Featured"]
 wpId: 16670

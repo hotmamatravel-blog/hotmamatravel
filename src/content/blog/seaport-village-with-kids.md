@@ -3,7 +3,7 @@ title: "Family Guide to San Diego's Seaport Village with kids - Where to eat, st
 description: ""
 pubDate: 2017-03-25
 updatedDate: 2019-07-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2016/01/DSCN1761-1024x684.jpg"
+heroImage: "/images/2016/01/DSCN1761-1024x684.jpg"
 heroImageAlt: "family at Seaport Village"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot United States"]

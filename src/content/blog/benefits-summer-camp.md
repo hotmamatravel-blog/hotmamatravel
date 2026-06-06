@@ -3,7 +3,7 @@ title: "13 Benefits of Summer Camp for Busy Moms and Children"
 description: ""
 pubDate: 2022-09-01
 updatedDate: 2025-06-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2022/09/engage-and-play.jpg"
+heroImage: "/images/2022/09/engage-and-play.jpg"
 category: "Guest Blog"
 tags: ["Guest Blog", "Partnership"]
 wpId: 16315

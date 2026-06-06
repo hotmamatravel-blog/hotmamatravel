@@ -3,7 +3,7 @@ title: "5 Best Breweries in Ventura for Beer Lovers"
 description: ""
 pubDate: 2023-11-14
 updatedDate: 2024-01-19
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/11/topa-topa-brewing-company-best-breweries-in-ventura.jpg"
+heroImage: "/images/2023/11/topa-topa-brewing-company-best-breweries-in-ventura.jpg"
 heroImageAlt: "Topa Topa Brewing Company in Ventura"
 category: "Best Breweries For Families"
 tags: ["Best Breweries For Families", "Hot California", "Hot Tips", "Hot United States", "Featured"]

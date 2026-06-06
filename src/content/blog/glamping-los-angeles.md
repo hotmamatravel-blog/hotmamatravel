@@ -2,7 +2,7 @@
 title: "4 Awesome Glamping Sites in Los Angeles you will Love"
 description: ""
 pubDate: 2023-06-27
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2021/05/ventura-ranch-koa-wagon-glamping-los-angeles-ca.jpg"
+heroImage: "/images/2021/05/ventura-ranch-koa-wagon-glamping-los-angeles-ca.jpg"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Hot California", "Hot United States", "Featured"]
 wpId: 14448

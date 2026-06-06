@@ -3,7 +3,7 @@ title: "5 Best Glamping sites near Palm Springs you will love!"
 description: ""
 pubDate: 2023-06-28
 updatedDate: 2023-07-20
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2020/09/palm-springs-rv-resort-family-glamping-palm-springs-ca.jpg"
+heroImage: "/images/2020/09/palm-springs-rv-resort-family-glamping-palm-springs-ca.jpg"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Hot California", "Hot Family Travels", "Hot United States", "Featured"]
 wpId: 13877

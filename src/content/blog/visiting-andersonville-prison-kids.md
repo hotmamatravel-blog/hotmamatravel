@@ -3,7 +3,7 @@ title: "Family Guide to visiting Andersonville Prison in Georgia with kids"
 description: ""
 pubDate: 2017-09-05
 updatedDate: 2019-07-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2017/09/DSC03307.jpg"
+heroImage: "/images/2017/09/DSC03307.jpg"
 heroImageAlt: "Andersonville POW Museum"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot Georgia", "Hot United States"]

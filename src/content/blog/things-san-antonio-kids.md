@@ -3,7 +3,7 @@ title: "Family Guide to San Antonio with kids - Where to eat, stay & play"
 description: ""
 pubDate: 2020-05-15
 updatedDate: 2020-05-16
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2020/05/rio-san-antonio-cruise-family-fun-activities.jpg"
+heroImage: "/images/2020/05/rio-san-antonio-cruise-family-fun-activities.jpg"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot Texas", "Hot United States", "Featured"]
 wpId: 6106

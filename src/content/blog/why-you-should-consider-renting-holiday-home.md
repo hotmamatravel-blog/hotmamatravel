@@ -3,7 +3,7 @@ title: "Good Reasons Why You Should Consider Renting Out a Holiday Home"
 description: ""
 pubDate: 2023-10-09
 updatedDate: 2025-06-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/10/good-reasons-to-rent-out-holiday-home-200x300.jpg"
+heroImage: "/images/2023/10/good-reasons-to-rent-out-holiday-home-200x300.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership"]
 wpId: 19167

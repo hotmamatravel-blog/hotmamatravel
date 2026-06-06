@@ -3,7 +3,7 @@ title: "How to pick a good Travel Blog Name: Ideas and Strategy for long-term su
 description: ""
 pubDate: 2019-10-01
 updatedDate: 2019-10-07
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2019/09/hostgator-register-domain-example-1024x417.jpg"
+heroImage: "/images/2019/09/hostgator-register-domain-example-1024x417.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips"]
 wpId: 12293

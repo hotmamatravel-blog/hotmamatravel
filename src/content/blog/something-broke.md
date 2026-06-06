@@ -3,7 +3,7 @@ title: "Oh No! Something Broke!"
 description: ""
 pubDate: 2015-08-15
 updatedDate: 2017-05-19
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2015/08/IMG_2358-e1439598687175-1024x681.jpg"
+heroImage: "/images/2015/08/IMG_2358-e1439598687175-1024x681.jpg"
 heroImageAlt: "OH NO"
 category: "Family Travel"
 tags: []

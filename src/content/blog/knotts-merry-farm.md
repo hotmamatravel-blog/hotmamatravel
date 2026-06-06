@@ -3,7 +3,7 @@ title: "Knott’s Merry Farm 2026 Guide for Families with Kids"
 description: ""
 pubDate: 2016-11-26
 updatedDate: 2026-01-07
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2016/11/Christmas-Craft-Village-Knotts-Merry-Farm-1.jpg"
+heroImage: "/images/2016/11/Christmas-Craft-Village-Knotts-Merry-Farm-1.jpg"
 heroImageAlt: "Knott"
 category: "Holiday Travel"
 tags: ["Holiday Travel", "Hot California", "Hot Family Travels", "Hot Orange County", "Hot United States"]

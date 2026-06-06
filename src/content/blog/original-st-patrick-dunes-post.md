@@ -2,7 +2,7 @@
 title: "Original St patrick dunes post"
 description: ""
 pubDate: 2026-04-14
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2014/03/IMG_2189-1024x1024.jpg"
+heroImage: "/images/2014/03/IMG_2189-1024x1024.jpg"
 heroImageAlt: "St. Patrick"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels"]

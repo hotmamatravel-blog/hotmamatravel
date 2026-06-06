@@ -3,7 +3,7 @@ title: "20 Epic Las Vegas Shows For Families With Kids 2026"
 description: ""
 pubDate: 2024-02-07
 updatedDate: 2026-05-22
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2019/01/Baby-in-Las-Vegas-Show-Tournament-of-kings.gif"
+heroImage: "/images/2019/01/Baby-in-Las-Vegas-Show-Tournament-of-kings.gif"
 heroImageAlt: "Baby at Las Vegas Show Tournament of Kings"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States"]

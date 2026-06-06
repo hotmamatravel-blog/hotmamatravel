@@ -3,7 +3,7 @@ title: "7 Rare And Cool Las Vegas Hotels Without Resort Fees 2026"
 description: ""
 pubDate: 2024-03-22
 updatedDate: 2026-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/05/travelodge-wyndham-las-vegas-hotels-without-resort-fees.jpg"
+heroImage: "/images/2023/05/travelodge-wyndham-las-vegas-hotels-without-resort-fees.jpg"
 heroImageAlt: "Travelodge by Wyndham Las Vegas Hotels without resort fees"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]

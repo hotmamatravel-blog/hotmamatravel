@@ -3,7 +3,7 @@ title: "Easy Route 66 Family Road Trip Itinerary (LA to Santa Fe)"
 description: ""
 pubDate: 2019-02-05
 updatedDate: 2026-01-29
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2019/02/Route-66-Family-Road-Trip.jpg"
+heroImage: "/images/2019/02/Route-66-Family-Road-Trip.jpg"
 category: "Hot Arizona"
 tags: ["Hot Arizona", "Hot California", "Hot New Mexico", "Hot Road Trips", "Hot United States"]
 wpId: 10353

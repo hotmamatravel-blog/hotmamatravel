@@ -3,7 +3,7 @@ title: "Best Sites for Family Glamping in Texas"
 description: ""
 pubDate: 2023-06-06
 updatedDate: 2023-06-27
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/06/yogi-bears-jellystone-park-camp-glamping-texas.jpg"
+heroImage: "/images/2023/06/yogi-bears-jellystone-park-camp-glamping-texas.jpg"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Hot Texas", "Hot United States", "Featured"]
 wpId: 18149

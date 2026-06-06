@@ -2,7 +2,7 @@
 title: "Family Guide to Buena Park with kids - Where to eat, stay & play"
 description: ""
 pubDate: 2023-04-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2020/03/Knotts-Berry-Farm-Buena-Park-1.jpg"
+heroImage: "/images/2020/03/Knotts-Berry-Farm-Buena-Park-1.jpg"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot Orange County", "Hot United States", "Featured"]
 wpId: 3760

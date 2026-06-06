@@ -3,7 +3,7 @@ title: "Family Travel Guide for Unique Things to do in St. Augustine with Kids"
 description: ""
 pubDate: 2023-04-19
 updatedDate: 2023-04-26
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/04/hop-on-hop-off-trolley-tour-family-activities-st-augustine-fl-1024x576.jpg"
+heroImage: "/images/2023/04/hop-on-hop-off-trolley-tour-family-activities-st-augustine-fl-1024x576.jpg"
 category: "Hot Florida"
 tags: ["Hot Florida", "Hot United States", "Featured"]
 wpId: 17386

@@ -3,7 +3,7 @@ title: "Tips to Make Moving from One State to Another Easier"
 description: ""
 pubDate: 2023-10-05
 updatedDate: 2025-06-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/10/tips-for-moving-to-another-state-200x300.jpg"
+heroImage: "/images/2023/10/tips-for-moving-to-another-state-200x300.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership"]
 wpId: 19149

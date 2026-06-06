@@ -3,7 +3,7 @@ title: "Ultimate Family Travel Guide for Things to do in Key West with Kids"
 description: ""
 pubDate: 2023-04-20
 updatedDate: 2023-09-20
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/04/ernest-hemingway-house-key-west-family-vacation-1024x576.jpg"
+heroImage: "/images/2023/04/ernest-hemingway-house-key-west-family-vacation-1024x576.jpg"
 category: "Hot Florida"
 tags: ["Hot Florida", "Hot United States", "Featured"]
 wpId: 17388

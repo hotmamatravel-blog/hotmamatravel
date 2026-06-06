@@ -3,7 +3,7 @@ title: "Are You A New Parent? Here's An Ultimate Guide To Traveling With Childre
 description: ""
 pubDate: 2023-04-17
 updatedDate: 2025-06-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/04/tips-traveling-with-children--200x300.jpg"
+heroImage: "/images/2023/04/tips-traveling-with-children--200x300.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership", "Featured"]
 wpId: 17602

@@ -3,7 +3,7 @@ title: "The Best Kid-friendly Hotels in Malta"
 description: ""
 pubDate: 2022-11-29
 updatedDate: 2023-02-15
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2022/11/The-Westin-Dragonara-Resort-Malta.jpg"
+heroImage: "/images/2022/11/The-Westin-Dragonara-Resort-Malta.jpg"
 category: "Hot Europe"
 tags: ["Hot Europe", "Featured"]
 wpId: 16510

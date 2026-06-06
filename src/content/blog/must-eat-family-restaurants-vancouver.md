@@ -2,7 +2,7 @@
 title: "Must-Eat Family Restaurants Vancouver"
 description: ""
 pubDate: 2026-05-08
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2018/10/Vancouver-Old-Spaghetti-Factory.jpg"
+heroImage: "/images/2018/10/Vancouver-Old-Spaghetti-Factory.jpg"
 heroImageAlt: "Old Spaghetti Factory Vancouver"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels"]

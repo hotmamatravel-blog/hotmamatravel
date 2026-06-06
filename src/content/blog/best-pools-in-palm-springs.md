@@ -2,7 +2,7 @@
 title: "Best Pools in Palm Springs for Families"
 description: ""
 pubDate: 2023-07-20
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/07/saguaro-pools-palm-springs.jpg"
+heroImage: "/images/2023/07/saguaro-pools-palm-springs.jpg"
 category: "Hot California"
 tags: ["Hot California", "Hot United States", "Featured"]
 wpId: 18421

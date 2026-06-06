@@ -2,7 +2,7 @@
 title: "8 Tips For Traveling Alone"
 description: ""
 pubDate: 2024-08-10
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/08/8-tips-solo-travel-200x300.jpg"
+heroImage: "/images/2024/08/8-tips-solo-travel-200x300.jpg"
 heroImageAlt: "Tips for Traveling Solo"
 category: "Partnership"
 tags: ["Partnership"]

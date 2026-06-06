@@ -3,7 +3,7 @@ title: "Consider These 4 Things Before Your Next Trip"
 description: ""
 pubDate: 2023-12-28
 updatedDate: 2025-05-31
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/12/consider-these-4-things-before-your-next-trip-200x300.jpg"
+heroImage: "/images/2023/12/consider-these-4-things-before-your-next-trip-200x300.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership"]
 wpId: 19732

@@ -3,7 +3,7 @@ title: "10 Family Travel Taboos You Should Break"
 description: ""
 pubDate: 2017-04-04
 updatedDate: 2019-07-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2015/05/IMG_5357-1024x1024.jpg"
+heroImage: "/images/2015/05/IMG_5357-1024x1024.jpg"
 heroImageAlt: "Keeping kids entertained during flights"
 category: "Hot Tips"
 tags: ["Hot Tips"]

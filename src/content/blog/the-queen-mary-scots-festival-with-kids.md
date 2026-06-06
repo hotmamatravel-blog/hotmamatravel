@@ -3,7 +3,7 @@ title: "Ultimate Guide to The Queen Mary Scots Festival with Kids"
 description: ""
 pubDate: 2017-02-04
 updatedDate: 2019-06-19
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2017/02/Queen-Mary-Ship.png"
+heroImage: "/images/2017/02/Queen-Mary-Ship.png"
 heroImageAlt: "Queen Mary Ship with Sign"
 category: "Hot California"
 tags: ["Hot California", "Hot Orange County", "Hot United States"]

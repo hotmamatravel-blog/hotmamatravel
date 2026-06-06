@@ -3,7 +3,7 @@ title: "Work with us"
 description: ""
 pubDate: 2017-11-05
 updatedDate: 2019-12-04
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2017/11/Brands-We-work-with.png"
+heroImage: "/images/2017/11/Brands-We-work-with.png"
 heroImageAlt: "Image of brand HotMamaTravel work with"
 category: "Family Travel"
 tags: []

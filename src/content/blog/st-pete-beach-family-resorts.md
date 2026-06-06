@@ -3,7 +3,7 @@ title: "Best St Pete Beach Family Resorts Your Kids will Love"
 description: ""
 pubDate: 2023-04-03
 updatedDate: 2023-03-30
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/03/tradewinds-island-grand-st-pete-beach-family-resorts.jpg"
+heroImage: "/images/2023/03/tradewinds-island-grand-st-pete-beach-family-resorts.jpg"
 category: "Hot Florida"
 tags: ["Hot Florida", "Hot United States", "Featured"]
 wpId: 17382

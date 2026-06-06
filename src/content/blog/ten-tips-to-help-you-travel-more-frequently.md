@@ -3,7 +3,7 @@ title: "Wanderlust: Ten tips to help you travel more frequently"
 description: ""
 pubDate: 2024-01-03
 updatedDate: 2025-05-31
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/01/tne-tips-to-help-you-travel-more-frequently-200x300.jpg"
+heroImage: "/images/2024/01/tne-tips-to-help-you-travel-more-frequently-200x300.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership"]
 wpId: 19793

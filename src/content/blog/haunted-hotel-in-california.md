@@ -3,7 +3,7 @@ title: "7 Family-Friendly Haunted Hotels in California 2026"
 description: ""
 pubDate: 2023-08-21
 updatedDate: 2026-01-07
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2021/05/Holbrooke-hotel-grass-valley-hotels.jpg"
+heroImage: "/images/2021/05/Holbrooke-hotel-grass-valley-hotels.jpg"
 heroImageAlt: "Holbrooke-hotel-grass-valley-hotels"
 category: "Family-Friendly Haunted Hotels"
 tags: ["Family-Friendly Haunted Hotels", "Haunted Places", "Hot California", "Hot United States", "Featured"]

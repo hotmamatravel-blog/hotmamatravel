@@ -3,7 +3,7 @@ title: "Awesome Things to do in Charleston SC with Kids the Family will Love"
 description: ""
 pubDate: 2021-03-03
 updatedDate: 2023-09-20
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2021/02/charleston-city-market-charleston-sc.jpg"
+heroImage: "/images/2021/02/charleston-city-market-charleston-sc.jpg"
 category: "Hot South Carolina"
 tags: ["Hot South Carolina", "Hot United States", "Featured"]
 wpId: 14252

@@ -3,7 +3,7 @@ title: "Family Guide to visiting Belle Meade Plantation in Nashville with kids"
 description: ""
 pubDate: 2017-11-06
 updatedDate: 2019-07-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2017/11/DSC02085.jpg"
+heroImage: "/images/2017/11/DSC02085.jpg"
 heroImageAlt: "Stream at Belle Meade Plantation"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot Tennessee", "Hot United States"]

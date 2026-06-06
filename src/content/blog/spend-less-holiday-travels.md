@@ -3,7 +3,7 @@ title: "How to Spend Less during Your Holiday Travels"
 description: ""
 pubDate: 2017-12-05
 updatedDate: 2025-06-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2017/12/Airport-1.jpg"
+heroImage: "/images/2017/12/Airport-1.jpg"
 heroImageAlt: "Busy Airports during the holidays"
 category: "Partnership"
 tags: ["Partnership"]

@@ -2,7 +2,7 @@
 title: "10 Amazing Things To Do In St Kitts"
 description: ""
 pubDate: 2023-01-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/01/Brimstone-Hill-Fortress-National-Park.jpg"
+heroImage: "/images/2023/01/Brimstone-Hill-Fortress-National-Park.jpg"
 category: "Hot Caribbean"
 tags: ["Hot Caribbean", "Featured"]
 wpId: 16594

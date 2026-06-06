@@ -3,7 +3,7 @@ title: "6 Ideal Wildlife Holiday Destinations When Traveling With Kids"
 description: ""
 pubDate: 2022-04-20
 updatedDate: 2025-06-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2022/04/South-Africa.jpg"
+heroImage: "/images/2022/04/South-Africa.jpg"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Partnership", "Featured"]
 wpId: 15727

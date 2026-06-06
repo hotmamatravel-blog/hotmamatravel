@@ -3,7 +3,7 @@ title: "Best Guide For Walking Las Vegas Strip with Kids 2026"
 description: ""
 pubDate: 2024-04-25
 updatedDate: 2026-05-28
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2017/07/Caesars-palace-forum-shoppes-entrance.png"
+heroImage: "/images/2017/07/Caesars-palace-forum-shoppes-entrance.png"
 heroImageAlt: "The forum Shjops at Caesars Palace Vegas"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]

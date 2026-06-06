@@ -3,7 +3,7 @@ title: "How to Get to Las Vegas: 10 Easy Tips for Traveling with Kids"
 description: ""
 pubDate: 2024-06-16
 updatedDate: 2026-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/06/map-harry-reid-las-vegas-airport.jpg"
+heroImage: "/images/2024/06/map-harry-reid-las-vegas-airport.jpg"
 heroImageAlt: "Map of terminals at Harry Reid Las Vegas Airport"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]

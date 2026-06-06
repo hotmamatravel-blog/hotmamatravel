@@ -3,7 +3,7 @@ title: "Best All-Inclusive Family Resorts Cancun You Have to See 2023"
 description: ""
 pubDate: 2023-02-27
 updatedDate: 2023-03-09
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/02/best-inclusive-family-resorts-cancun.jpg"
+heroImage: "/images/2023/02/best-inclusive-family-resorts-cancun.jpg"
 heroImageAlt: "Kids and teens stay free at Beach palace Cancun."
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot Mexico", "Featured"]

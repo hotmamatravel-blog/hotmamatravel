@@ -3,7 +3,7 @@ title: "8 Awesome Tips to Make Flying with Kids Easier"
 description: ""
 pubDate: 2016-08-20
 updatedDate: 2019-06-19
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2013/05/DSCN93691-1024x683.jpg"
+heroImage: "/images/2013/05/DSCN93691-1024x683.jpg"
 heroImageAlt: "Flying with kids"
 category: "Hot Tips"
 tags: ["Hot Tips"]

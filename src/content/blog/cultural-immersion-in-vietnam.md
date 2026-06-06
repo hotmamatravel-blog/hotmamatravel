@@ -3,7 +3,7 @@ title: "A Cultural Immersion in Vietnam: Experiencing Traditions and Local Life"
 description: ""
 pubDate: 2023-07-19
 updatedDate: 2025-06-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/07/Vietnam-temple.jpg"
+heroImage: "/images/2023/07/Vietnam-temple.jpg"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Partnership"]
 wpId: 18449

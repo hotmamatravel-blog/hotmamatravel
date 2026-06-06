@@ -3,7 +3,7 @@ title: "Best Las Vegas With Baby FAQ + 2 Day Itinerary 2026"
 description: ""
 pubDate: 2024-01-26
 updatedDate: 2026-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2019/01/kids-luxor-las-vegas-interaction.gif"
+heroImage: "/images/2019/01/kids-luxor-las-vegas-interaction.gif"
 heroImageAlt: "Kids playing in Las Vegas"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]

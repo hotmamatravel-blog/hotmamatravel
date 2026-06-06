@@ -3,7 +3,7 @@ title: "10 Best Breweries in Long Beach for Families 2024"
 description: ""
 pubDate: 2024-01-03
 updatedDate: 2024-02-26
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/01/long-beach-beer-lab-best-breweries-in-long-beach.jpg"
+heroImage: "/images/2024/01/long-beach-beer-lab-best-breweries-in-long-beach.jpg"
 heroImageAlt: "Family-Friendly Long Beach Beer Labs Brewery Long Beach "
 category: "Best Breweries For Families"
 tags: ["Best Breweries For Families", "Hot California", "Hot Family Travels", "Hot United States", "Featured"]

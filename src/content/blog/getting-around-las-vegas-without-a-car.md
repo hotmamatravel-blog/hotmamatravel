@@ -3,7 +3,7 @@ title: "Getting Around Las Vegas Without A Car For Families 2026"
 description: ""
 pubDate: 2024-06-24
 updatedDate: 2026-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/06/map-free-las-vegas-monorail.jpg"
+heroImage: "/images/2024/06/map-free-las-vegas-monorail.jpg"
 heroImageAlt: "map of free las vegas monorail"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]

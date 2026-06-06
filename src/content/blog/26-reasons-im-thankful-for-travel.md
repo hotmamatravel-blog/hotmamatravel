@@ -3,7 +3,7 @@ title: "26 Reasons I'm Thankful for Travel"
 description: ""
 pubDate: 2016-11-12
 updatedDate: 2025-06-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2015/06/DSCN9302-1024x684.jpg"
+heroImage: "/images/2015/06/DSCN9302-1024x684.jpg"
 heroImageAlt: "Thankful for Travel"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels"]

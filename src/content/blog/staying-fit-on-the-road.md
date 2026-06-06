@@ -3,7 +3,7 @@ title: "5 Easy Ways to Staying Fit On The Road"
 description: ""
 pubDate: 2017-04-14
 updatedDate: 2019-07-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2015/01/DSCN7491-1024x768.jpg"
+heroImage: "/images/2015/01/DSCN7491-1024x768.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips"]
 wpId: 3517

@@ -3,7 +3,7 @@ title: "Things to Do at SeaWorld Christmas Celebration 2025"
 description: ""
 pubDate: 2016-12-17
 updatedDate: 2025-11-15
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2016/12/SeaWorld-Christmas-Celebration-200x300.jpg"
+heroImage: "/images/2016/12/SeaWorld-Christmas-Celebration-200x300.jpg"
 heroImageAlt: "Guide to SeaWorld Christmas Celebration"
 category: "Holiday Travel"
 tags: ["Holiday Travel", "Hot California", "Hot Family Travels", "Hot United States"]

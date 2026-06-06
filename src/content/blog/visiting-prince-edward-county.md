@@ -2,7 +2,7 @@
 title: "4 Things to Know Before Visiting Prince Edward County"
 description: ""
 pubDate: 2023-10-03
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/10/4-things-to-know-before-visting-prince-edward-county-200x300.jpg"
+heroImage: "/images/2023/10/4-things-to-know-before-visting-prince-edward-county-200x300.jpg"
 category: "Hot Canada"
 tags: ["Hot Canada", "Hot Tips"]
 wpId: 19142

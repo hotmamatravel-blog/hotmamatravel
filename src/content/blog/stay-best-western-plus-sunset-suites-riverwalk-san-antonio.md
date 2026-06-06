@@ -3,7 +3,7 @@ title: "Hotel Spotlight: Family review of Best Western Plus Sunset Suites Riverw
 description: ""
 pubDate: 2017-06-27
 updatedDate: 2019-07-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2017/06/IMG_5687.jpg"
+heroImage: "/images/2017/06/IMG_5687.jpg"
 heroImageAlt: "Visiting the Alamo with kids"
 category: "Hot Texas"
 tags: ["Hot Texas", "Hot United States"]

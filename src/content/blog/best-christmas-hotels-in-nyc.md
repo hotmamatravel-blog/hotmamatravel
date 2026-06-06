@@ -3,7 +3,7 @@ title: "7 Best Christmas Hotels in NYC For Families 2025"
 description: ""
 pubDate: 2023-10-26
 updatedDate: 2025-11-06
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/10/the-plaza-hotel-christmas-hotels-nyc.jpg"
+heroImage: "/images/2023/10/the-plaza-hotel-christmas-hotels-nyc.jpg"
 heroImageAlt: "Christmas at the Plaza Hotel New York"
 category: "Family Hotels"
 tags: ["Family Hotels", "Holiday Travel", "Hot New York", "Hot United States", "Featured"]

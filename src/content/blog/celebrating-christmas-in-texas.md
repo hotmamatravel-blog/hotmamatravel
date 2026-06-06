@@ -3,7 +3,7 @@ title: "Our 9 Best Ideas for Celebrating Christmas in Texas 2025"
 description: ""
 pubDate: 2019-11-29
 updatedDate: 2025-11-19
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2019/11/Horseback-riding-texas.jpg"
+heroImage: "/images/2019/11/Horseback-riding-texas.jpg"
 heroImageAlt: "Riding horse in Texas"
 category: "Holiday Travel"
 tags: ["Holiday Travel", "Hot Texas", "Hot United States", "Partnership"]

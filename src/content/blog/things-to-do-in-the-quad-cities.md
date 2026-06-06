@@ -2,7 +2,7 @@
 title: "Fun Things to do in the Quad Cities with Kids"
 description: ""
 pubDate: 2023-01-30
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/01/Mississippi-Riverfront-quad-cities.jpg"
+heroImage: "/images/2023/01/Mississippi-Riverfront-quad-cities.jpg"
 category: "Hot Family Travels"
 tags: ["Hot Family Travels", "Hot United States", "Featured"]
 wpId: 16781

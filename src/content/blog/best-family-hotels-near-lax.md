@@ -3,7 +3,7 @@ title: "9 Best Family Hotels Near LAX for an Amazing LA Vacation 2026"
 description: ""
 pubDate: 2023-12-15
 updatedDate: 2026-01-07
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/12/sonesta-lax-family-hotel-near-airport.jpg"
+heroImage: "/images/2023/12/sonesta-lax-family-hotel-near-airport.jpg"
 heroImageAlt: "Sonesta-lax-family-hotel-near-airport"
 category: "Family Hotels"
 tags: ["Family Hotels", "Hot California", "Hot United States", "Featured"]

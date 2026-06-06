@@ -3,7 +3,7 @@ title: "Exploring the World's Best-Kept Secrets: A Traveler's Guide to Maintaini
 description: ""
 pubDate: 2024-01-06
 updatedDate: 2025-05-31
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/01/maintaining-skincare-while-traveling-the-world-200x300.jpg"
+heroImage: "/images/2024/01/maintaining-skincare-while-traveling-the-world-200x300.jpg"
 category: "Hot Tips"
 tags: ["Hot Tips", "Partnership"]
 wpId: 19811

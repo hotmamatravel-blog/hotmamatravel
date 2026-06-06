@@ -3,7 +3,7 @@ title: "A Farm girl’s adventure with grandkids at LEGOLAND Beach Resort"
 description: ""
 pubDate: 2019-02-04
 updatedDate: 2019-07-04
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2019/02/Travel-Adventures-Farm-Girl-Legoland-Story-683x1024.jpg"
+heroImage: "/images/2019/02/Travel-Adventures-Farm-Girl-Legoland-Story-683x1024.jpg"
 heroImageAlt: "A Farm girl’s adventure with grandkids at LEGOLAND Beach Resort"
 category: "Family Travel Uncensored"
 tags: ["Family Travel Uncensored"]

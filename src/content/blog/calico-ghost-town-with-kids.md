@@ -3,7 +3,7 @@ title: "Ultimate Guide to Visiting Calico Ghost Town with Kids"
 description: ""
 pubDate: 2017-01-21
 updatedDate: 2019-02-08
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2016/05/IMG_1676-1024x681.jpg"
+heroImage: "/images/2016/05/IMG_1676-1024x681.jpg"
 heroImageAlt: "Calico Ghost Town with kids"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot United States"]

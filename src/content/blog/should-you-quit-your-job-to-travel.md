@@ -3,7 +3,7 @@ title: "Should You Quit Your Job to Travel?"
 description: ""
 pubDate: 2017-07-17
 updatedDate: 2025-06-01
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2017/07/Quit-Job-Travel.png"
+heroImage: "/images/2017/07/Quit-Job-Travel.png"
 heroImageAlt: "Should you quit your job to travel?"
 category: "Guest Blog"
 tags: ["Guest Blog", "Hot Tips", "Partnership"]

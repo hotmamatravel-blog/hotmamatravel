@@ -3,7 +3,7 @@ title: "Stay at Little River Inn in Mendocino with Kids"
 description: ""
 pubDate: 2023-08-31
 updatedDate: 2026-05-12
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/08/Little-River-Inn-Family-Home.jpg"
+heroImage: "/images/2023/08/Little-River-Inn-Family-Home.jpg"
 heroImageAlt: "Little River Inn Built in 1853"
 category: "Hot California"
 tags: ["Hot California", "Hot United States", "Featured"]

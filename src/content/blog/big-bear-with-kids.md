@@ -3,7 +3,7 @@ title: "Ultimate Guide to Big Bear with Kids"
 description: ""
 pubDate: 2016-07-30
 updatedDate: 2019-06-19
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2012/11/RSCN7240-1024x683.jpg"
+heroImage: "/images/2012/11/RSCN7240-1024x683.jpg"
 heroImageAlt: "Big Bear with kids"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot United States"]

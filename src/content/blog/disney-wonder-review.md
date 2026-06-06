@@ -3,7 +3,7 @@ title: "Ultimate Disney Wonder Review for Families taking their first Disney Cru
 description: ""
 pubDate: 2018-12-29
 updatedDate: 2019-07-04
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2018/12/Disney-Cruise-kid-interaction-with-waiter.gif"
+heroImage: "/images/2018/12/Disney-Cruise-kid-interaction-with-waiter.gif"
 heroImageAlt: "Waiter on Disney Cruise shares paper flower with child"
 category: "Disney Travel"
 tags: ["Disney Travel", "Hot Family Travels", "Hot Tips", "Featured"]

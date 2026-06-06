@@ -3,7 +3,7 @@ title: "Family Guide to Ghost Town Alive at Knott's Berry Farm with kids"
 description: ""
 pubDate: 2017-06-13
 updatedDate: 2019-07-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2017/06/DSC01958-e1497331149257.jpg"
+heroImage: "/images/2017/06/DSC01958-e1497331149257.jpg"
 heroImageAlt: "Knotts Berry Farm Ghost Town Sheriff office"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot Orange County", "Hot United States"]

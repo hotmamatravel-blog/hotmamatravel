@@ -3,7 +3,7 @@ title: "Family Guide to Old Towne Orange CA with kids - Where to eat, stay & pla
 description: ""
 pubDate: 2020-06-09
 updatedDate: 2022-09-27
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2014/09/Orangecircle-1024x1024.jpg"
+heroImage: "/images/2014/09/Orangecircle-1024x1024.jpg"
 heroImageAlt: "antique mall in old towne orange"
 category: "Hot California"
 tags: ["Hot California", "Hot Family Travels", "Hot Orange County", "Hot United States", "Featured"]

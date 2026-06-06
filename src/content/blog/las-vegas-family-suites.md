@@ -3,7 +3,7 @@ title: "15 Best Las Vegas Family Suites 2026"
 description: ""
 pubDate: 2024-05-30
 updatedDate: 2026-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2024/05/westgate-las-vegas-family-suite.jpg"
+heroImage: "/images/2024/05/westgate-las-vegas-family-suite.jpg"
 heroImageAlt: "Westgate Las Vegas Family Suites"
 category: "Hot Las Vegas"
 tags: ["Hot Las Vegas", "Hot Nevada", "Hot United States", "Featured"]

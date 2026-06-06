@@ -3,7 +3,7 @@ title: "Hotel Spotlight: Family review of Best Western Plus Philadelphia Convent
 description: ""
 pubDate: 2017-09-12
 updatedDate: 2019-07-05
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2017/09/DSC06630-e1505239368847.jpg"
+heroImage: "/images/2017/09/DSC06630-e1505239368847.jpg"
 heroImageAlt: "Best Western Plus Philadelphia Convention Center Hotel"
 category: "Hot Pennsylvania"
 tags: ["Hot Pennsylvania", "Hot United States"]

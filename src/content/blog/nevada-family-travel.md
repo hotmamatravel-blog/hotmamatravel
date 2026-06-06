@@ -3,7 +3,7 @@ title: "Best of Nevada Family Travel"
 description: ""
 pubDate: 2024-01-18
 updatedDate: 2026-03-25
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2023/05/family-friendly-las-vegas.jpg"
+heroImage: "/images/2023/05/family-friendly-las-vegas.jpg"
 heroImageAlt: "Ultimate Las Vegas family travel resource"
 category: "Family Travel"
 tags: []

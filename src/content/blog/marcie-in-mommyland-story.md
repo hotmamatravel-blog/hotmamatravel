@@ -3,7 +3,7 @@ title: "We visited Rome and now I think my son is Famous in China"
 description: ""
 pubDate: 2018-11-25
 updatedDate: 2019-07-04
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2018/11/Marcie-in-mommyland-family-travel-story-683x1024.jpg"
+heroImage: "/images/2018/11/Marcie-in-mommyland-family-travel-story-683x1024.jpg"
 heroImageAlt: "We visited Rome and now I think my son is Famous in China"
 category: "Family Travel Uncensored"
 tags: ["Family Travel Uncensored", "Hot Tips"]

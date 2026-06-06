@@ -3,7 +3,7 @@ title: "5 Magical Big Sur Glamping Spots to Soothe your Soul"
 description: ""
 pubDate: 2023-06-05
 updatedDate: 2023-06-27
-heroImage: "https://hotmamatravel.com/wp-content/uploads/2020/10/treebones-resort-glamping-yurts-big-sur.jpg"
+heroImage: "/images/2020/10/treebones-resort-glamping-yurts-big-sur.jpg"
 heroImageAlt: "yurt glamping at Treebones Resort in Big Sur California"
 category: "Best Family Glamping and RVing"
 tags: ["Best Family Glamping and RVing", "Hot California", "Hot United States", "Featured"]
