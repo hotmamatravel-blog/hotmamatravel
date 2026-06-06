@@ -5,8 +5,8 @@ backend:
 # This gives you a web editor at hotmamatravel.com/admin/
 # Log in with your GitHub account — no separate password needed
 
-media_folder: "public/images/uploads"
-public_folder: "/images/uploads"
+media_folder: "public/images"
+public_folder: "/images"
 
 site_url: https://hotmamatravel.com
 display_url: https://hotmamatravel.com
