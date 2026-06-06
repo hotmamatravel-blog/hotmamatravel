@@ -1,5 +1,7 @@
 ---
 title: "Making Public Transport Work for You When Traveling"
+heroImage: "/images/2024/09/public-transport-travel-tips.jpg"
+heroImageAlt: "Making Public Transport Work for You When Traveling"
 description: ""
 pubDate: 2024-09-17
 category: "Hot Tips"

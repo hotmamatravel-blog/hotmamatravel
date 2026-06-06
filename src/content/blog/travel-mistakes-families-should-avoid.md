@@ -1,5 +1,7 @@
 ---
 title: "Top Travel Mistakes Families Should Avoid for a Fun Trip"
+heroImage: "/images/2023/06/family-travel-mistakes-to-avoid.jpg"
+heroImageAlt: "Top Travel Mistakes Families Should Avoid for a Fun Trip"
 description: ""
 pubDate: 2023-06-26
 updatedDate: 2025-06-01

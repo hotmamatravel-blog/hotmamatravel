@@ -1,5 +1,7 @@
 ---
 title: "10 Key Lifestyle Advantages of Riding Electric Bikes"
+heroImage: "/images/2024/05/advantages-electric-bikes.jpg"
+heroImageAlt: "10 Key Lifestyle Advantages of Riding Electric Bikes"
 description: ""
 pubDate: 2024-05-01
 updatedDate: 2024-09-15

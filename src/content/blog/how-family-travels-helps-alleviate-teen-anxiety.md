@@ -1,5 +1,7 @@
 ---
 title: "Here’s How Family Travels Can Help Alleviate Teen Anxiety"
+heroImage: "/images/2024/03/family-travel-for-teen-anxiety.jpg"
+heroImageAlt: "Here’s How Family Travels Can Help Alleviate Teen Anxiety"
 description: ""
 pubDate: 2024-03-30
 updatedDate: 2025-01-17

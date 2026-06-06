@@ -1,5 +1,7 @@
 ---
 title: "How Different Personality Types Deal With Budgets"
+heroImage: "/images/2023/07/budgeting-in-different-personality-types-saving-for-travel.jpg"
+heroImageAlt: "How Different Personality Types Deal With Budgets"
 description: ""
 pubDate: 2023-07-14
 updatedDate: 2025-06-01

@@ -1,5 +1,7 @@
 ---
 title: "Budget-Friendly Tips When You Travel to Europe with Kids"
+heroImage: "/images/2024/02/budget-travel-tips-europe-with-kids.jpg"
+heroImageAlt: "Budget-Friendly Tips When You Travel to Europe with Kids"
 description: ""
 pubDate: 2024-02-07
 updatedDate: 2025-01-17

@@ -1,5 +1,7 @@
 ---
 title: "Best Of South Carolina Family Travel"
+heroImage: "/images/2017/10/South-Carolina.jpg"
+heroImageAlt: "Best Of South Carolina Family Travel"
 description: ""
 pubDate: 2024-01-22
 category: "Family Travel"

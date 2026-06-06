@@ -1,5 +1,7 @@
 ---
 title: "Maintaining Fitness and Well-being For You and Your Children for Better Travel"
+heroImage: "/images/2023/09/family-fitness-routine.jpg"
+heroImageAlt: "Maintaining Fitness and Well-being For You and Your Children for Better Travel"
 description: ""
 pubDate: 2023-09-21
 updatedDate: 2025-06-01

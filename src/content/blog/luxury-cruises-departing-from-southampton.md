@@ -1,5 +1,7 @@
 ---
 title: "Luxury Cruises Departing From Southampton"
+heroImage: "/images/2024/07/Luxury-cruises-departing-southampton.jpg"
+heroImageAlt: "Luxury Cruises Departing From Southampton"
 description: ""
 pubDate: 2024-07-16
 updatedDate: 2024-07-17

@@ -1,5 +1,7 @@
 ---
 title: "Why Choose the Camino Portuguese Coastal Route?"
+heroImage: "/images/2024/05/camino-portugues-coastal-route.jpg"
+heroImageAlt: "Why Choose the Camino Portuguese Coastal Route?"
 description: ""
 pubDate: 2024-05-21
 updatedDate: 2025-01-17

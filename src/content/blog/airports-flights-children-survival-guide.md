@@ -1,5 +1,7 @@
 ---
 title: "Navigating airports and flights with young children: A survival guide"
+heroImage: "/images/2024/03/airports-flights-with-kids.jpg"
+heroImageAlt: "Navigating airports and flights with young children: A survival guide"
 description: ""
 pubDate: 2024-03-08
 updatedDate: 2025-01-17

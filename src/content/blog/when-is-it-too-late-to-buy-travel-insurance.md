@@ -1,5 +1,7 @@
 ---
 title: "Understanding the Time Frame: When Is It Too Late to Buy Travel Insurance?"
+heroImage: "/images/2024/02/when-to-buy-travel-insurance.jpg"
+heroImageAlt: "Understanding the Time Frame: When Is It Too Late to Buy Travel Insurance?"
 description: ""
 pubDate: 2024-02-07
 updatedDate: 2025-03-07

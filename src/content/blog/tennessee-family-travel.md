@@ -1,5 +1,7 @@
 ---
 title: "Best of Tennessee Family Travel"
+heroImage: "/images/2017/10/Tennessee.jpg"
+heroImageAlt: "Best of Tennessee Family Travel"
 description: ""
 pubDate: 2024-01-12
 category: "Family Travel"

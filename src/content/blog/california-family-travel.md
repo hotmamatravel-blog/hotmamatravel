@@ -1,5 +1,7 @@
 ---
 title: "Best of California Family Travel"
+heroImage: "/images/2017/10/California.jpg"
+heroImageAlt: "Best of California Family Travel"
 description: ""
 pubDate: 2024-01-12
 updatedDate: 2026-04-14

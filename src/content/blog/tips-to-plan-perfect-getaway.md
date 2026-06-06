@@ -1,5 +1,7 @@
 ---
 title: "Tips To Help You Plan The Perfect Getaway"
+heroImage: "/images/2024/08/travel-tips-planning-perfect-getaway.jpg"
+heroImageAlt: "Tips To Help You Plan The Perfect Getaway"
 description: ""
 pubDate: 2024-08-26
 category: "Partnership"

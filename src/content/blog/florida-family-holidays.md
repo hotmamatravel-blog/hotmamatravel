@@ -1,5 +1,7 @@
 ---
 title: "Florida Family Holidays"
+heroImage: "/images/2017/10/Florida.jpg"
+heroImageAlt: "Florida Family Holidays"
 description: ""
 pubDate: 2023-04-20
 updatedDate: 2026-04-12

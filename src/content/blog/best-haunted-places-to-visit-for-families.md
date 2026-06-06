@@ -1,5 +1,7 @@
 ---
 title: "Best Haunted Places To Visit For Families"
+heroImage: "/images/2024/07/best-haunted-places-to-visit-for-families.jpg"
+heroImageAlt: "Best Haunted Places To Visit For Families"
 description: ""
 pubDate: 2024-07-22
 updatedDate: 2025-10-26

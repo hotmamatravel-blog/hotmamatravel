@@ -1,5 +1,7 @@
 ---
 title: "Best of Canada Family Travel"
+heroImage: "/images/2024/01/Canada-Travel-Card.jpg"
+heroImageAlt: "Best of Canada Family Travel"
 description: ""
 pubDate: 2024-01-16
 category: "Family Travel"

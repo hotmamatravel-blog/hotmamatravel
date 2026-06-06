@@ -1,5 +1,7 @@
 ---
 title: "Can You Make Your Next Travel Adventure The Best One?"
+heroImage: "/images/2023/06/best-travel-adventure.jpg"
+heroImageAlt: "Can You Make Your Next Travel Adventure The Best One?"
 description: ""
 pubDate: 2023-06-08
 updatedDate: 2025-06-01

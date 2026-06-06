@@ -1,5 +1,7 @@
 ---
 title: "Cast of Characters"
+heroImage: "/images/2015/03/HEADER-Scotland.jpg"
+heroImageAlt: "Cast of Characters"
 description: ""
 pubDate: 2015-03-02
 updatedDate: 2018-03-02

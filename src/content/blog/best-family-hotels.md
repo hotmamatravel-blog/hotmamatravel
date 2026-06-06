@@ -1,5 +1,7 @@
 ---
 title: "Best Family Hotels"
+heroImage: "/images/2024/01/best-family-hotels.jpg"
+heroImageAlt: "Best Family Hotels"
 description: ""
 pubDate: 2024-01-16
 updatedDate: 2026-04-08

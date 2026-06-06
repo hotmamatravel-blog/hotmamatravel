@@ -1,5 +1,7 @@
 ---
 title: "Traveling While Staying Healthy: Some Tips"
+heroImage: "/images/2024/02/staying-healthy-while-traveling.jpg"
+heroImageAlt: "Traveling While Staying Healthy: Some Tips"
 description: ""
 pubDate: 2024-02-07
 updatedDate: 2025-01-17

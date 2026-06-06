@@ -1,5 +1,7 @@
 ---
 title: "4 Top Things To Do In Alabama With Kids For An Epic Vacation"
+heroImage: "/images/2024/04/things-to-do-alabama.jpg"
+heroImageAlt: "4 Top Things To Do In Alabama With Kids For An Epic Vacation"
 description: ""
 pubDate: 2024-04-22
 updatedDate: 2025-01-17

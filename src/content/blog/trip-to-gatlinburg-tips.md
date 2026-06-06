@@ -1,5 +1,7 @@
 ---
 title: "7 Tips to Make the Most of Your Trip to Gatlinburg"
+heroImage: "/images/2024/06/tips-for-your-trip-to-gatlinburg.jpg"
+heroImageAlt: "7 Tips to Make the Most of Your Trip to Gatlinburg"
 description: ""
 pubDate: 2024-06-12
 updatedDate: 2024-07-24

@@ -1,5 +1,7 @@
 ---
 title: "10 Dos and Don'ts of Moving to a New City"
+heroImage: "/images/2024/04/dos-and-donts-moving-new-city.jpg"
+heroImageAlt: "10 Dos and Don"
 description: ""
 pubDate: 2024-04-25
 updatedDate: 2025-01-17

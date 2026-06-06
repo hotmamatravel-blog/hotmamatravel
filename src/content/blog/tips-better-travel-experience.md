@@ -1,5 +1,7 @@
 ---
 title: "Tips To Help You Have A Better Travel Experience"
+heroImage: "/images/2024/09/more-travel-tips-.jpg"
+heroImageAlt: "Tips To Help You Have A Better Travel Experience"
 description: ""
 pubDate: 2024-09-15
 category: "Hot Tips"

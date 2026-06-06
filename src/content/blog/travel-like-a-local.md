@@ -1,5 +1,7 @@
 ---
 title: "Travel Like a Local"
+heroImage: "/images/2024/09/travel-like-a-local.jpg"
+heroImageAlt: "Travel Like a Local"
 description: ""
 pubDate: 2024-09-20
 category: "Hot Tips"
