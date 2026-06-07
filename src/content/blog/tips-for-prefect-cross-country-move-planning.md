@@ -67,5 +67,5 @@ In conclusion, orchestrating the perfect cross-country move requires meticulous 
 
 Like it? Pin it!
 
-<figure id="tips-for-perfect-cross-country-move-planning">[![](/images/tips-for-perfect-cross-country-move-planning-200x300.jpg)](/images/tips-for-perfect-cross-country-move-planning.jpg)</figure>
+<figure id="tips-for-perfect-cross-country-move-planning"><a href="/images/tips-for-perfect-cross-country-move-planning.jpg"><img src="/images/tips-for-perfect-cross-country-move-planning-200x300.jpg" alt="" /></a></figure>
 </div></div>

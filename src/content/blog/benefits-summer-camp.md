@@ -15,7 +15,7 @@ author: "Amanda Keeley-Thurman"
 We live in a fast-paced world where moms are overly busy building their careers and trying to make more money. Many dread the day when schools close, with some wondering what to do with their energetic children. You need not worry anymore if you are among this group of moms. Why not send your children to summer camp? Besides engaging in extracurricular activities, they will meet and interact with their peers from different countries. Going camping comes with numerous benefits. Are you looking for reasons to enroll your child in summer camp? Read on to find out.&nbsp;
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8c7366ba"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="children-engage-play-summer-camp-benefits">[![](/images/engage-and-play.jpg)](/images/engage-and-play.jpg)</figure>
+<figure id="children-engage-play-summer-camp-benefits"><a href="/images/engage-and-play.jpg"><img src="/images/engage-and-play.jpg" alt="" /></a></figure>
 
 #### Allow Children to Engage in Play
 
@@ -42,7 +42,7 @@ Often, schools close for a long time, and children need something to stimulate t
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ff5cb4f2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="summer-camp-benefits-job-skills">[![](/images/job-skills.jpg)](/images/job-skills.jpg)</figure>
+<figure id="summer-camp-benefits-job-skills"><a href="/images/job-skills.jpg"><img src="/images/job-skills.jpg" alt="" /></a></figure>
 
 #### Camp can be the Foundation Children Need for Their First Job
 
@@ -67,7 +67,7 @@ Going summer camping often seems scary, especially for the less outgoing childre
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-76922c0d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="confidence-building-summer-camps-benefits">[![](/images/confidence-.jpg)](/images/confidence-.jpg)</figure>
+<figure id="confidence-building-summer-camps-benefits"><a href="/images/confidence-.jpg"><img src="/images/confidence-.jpg" alt="" /></a></figure>
 
 #### Enhances Self-Worth
 
@@ -92,7 +92,7 @@ Regardless of your child's interests, summer camp encourages them to engage in v
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2a9ce844"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="independence-summer-camp-benefits">[![](/images/independence-.jpg)](/images/independence-.jpg)</figure>
+<figure id="independence-summer-camp-benefits"><a href="/images/independence-.jpg"><img src="/images/independence-.jpg" alt="" /></a></figure>
 
 #### Builds Independence&nbsp;
 
@@ -117,7 +117,7 @@ Many parents struggle to encourage their children to participate in artistic, cr
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-05adffb7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="self-esteem-children-summer-camp-benefits">[![](/images/self-esteem.jpg)](/images/self-esteem.jpg)</figure>
+<figure id="self-esteem-children-summer-camp-benefits"><a href="/images/self-esteem.jpg"><img src="/images/self-esteem.jpg" alt="" /></a></figure>
 
 #### Promotes Self-esteem
 
@@ -139,5 +139,5 @@ As a busy mom, you no longer have to worry about your children when schools clos
 
 **Like it? Pin it!**
 
-<figure id="benefits-summer-camp-children">[![](/images/13-Benefits-of-Summer-Camp-for-Kids-200x300.jpg)](/images/13-Benefits-of-Summer-Camp-for-Kids.jpg)</figure>
+<figure id="benefits-summer-camp-children"><a href="/images/13-Benefits-of-Summer-Camp-for-Kids.jpg"><img src="/images/13-Benefits-of-Summer-Camp-for-Kids-200x300.jpg" alt="" /></a></figure>
 </div></section>

@@ -20,7 +20,7 @@ Finding [**Las Vegas hotels**](/best-family-hotels-in-las-vegas/) with balcony r
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure id="terrace-suites-cosmopolitan-balcony-rooms-las-vegas">[![balcony rooms at Cosmopolitan Las Vegas](/images/terrace-suites-cosmopolitan-balcony-rooms-las-vegas.jpg)](/images/terrace-suites-cosmopolitan-balcony-rooms-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Cosmopolitan Las Vegas</figcaption></figure>
+<figure id="terrace-suites-cosmopolitan-balcony-rooms-las-vegas"><a href="/images/terrace-suites-cosmopolitan-balcony-rooms-las-vegas.jpg"><img src="/images/terrace-suites-cosmopolitan-balcony-rooms-las-vegas.jpg" alt="balcony rooms at Cosmopolitan Las Vegas" /></a><figcaption class="wp-element-caption">Courtesy of Cosmopolitan Las Vegas</figcaption></figure>
 
 ### [Cosmopolitan Las Vegas](/go/cosmopolitan-hotel-las-vegas/)
 
@@ -38,7 +38,7 @@ The Cosmopolitan Hotel in Las Vegas is the epitome of swanky sophistication. Wit
 
 [**See photos, reviews &amp; more**](/go/cosmopolitan-hotel-las-vegas/)
 
-<figure id="signature-mgm-grand-balcony-rooms-las-vegas">[![Las Vegas Hotels with Balcony Rooms at Signature MGM](/images/signature-mgm-grand-balcony-rooms-las-vegas.jpg)](/images/signature-mgm-grand-balcony-rooms-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Signature at MGM Grand</figcaption></figure>
+<figure id="signature-mgm-grand-balcony-rooms-las-vegas"><a href="/images/signature-mgm-grand-balcony-rooms-las-vegas.jpg"><img src="/images/signature-mgm-grand-balcony-rooms-las-vegas.jpg" alt="Las Vegas Hotels with Balcony Rooms at Signature MGM" /></a><figcaption class="wp-element-caption">Courtesy of Signature at MGM Grand</figcaption></figure>
 
 ### [Signature at MGM Grand](/go/signature-mgm-grand-las-vegas/)
 
@@ -58,7 +58,7 @@ Signature MGM is all about that luxury life in Las Vegas. Think spacious suites,
 
 [**See photos, reviews &amp; more**](/go/signature-mgm-grand-las-vegas/)
 
-<figure id="the-mansion-mgm-balcony-rooms-las-vegas">[![balcony rooms at the mansion MGM Grand Las Vegas](/images/the-mansion-mgm-balcony-rooms-las-vegas.jpg)](/images/the-mansion-mgm-balcony-rooms-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of MGM Grand</figcaption></figure>
+<figure id="the-mansion-mgm-balcony-rooms-las-vegas"><a href="/images/the-mansion-mgm-balcony-rooms-las-vegas.jpg"><img src="/images/the-mansion-mgm-balcony-rooms-las-vegas.jpg" alt="balcony rooms at the mansion MGM Grand Las Vegas" /></a><figcaption class="wp-element-caption">Courtesy of MGM Grand</figcaption></figure>
 
 ### [MGM Grand Las Vegas](/go/mgm-grand-las-vegas-expedia/)
 
@@ -84,5 +84,5 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 **Like it? Pin it!**
 
-<figure id="Rare-Las-Vegas-Hotels-Balcony-Rooms">[![](/images/Rare-Las-Vegas-Hotels-Balcony-Rooms-200x300.jpg)](/images/Rare-Las-Vegas-Hotels-Balcony-Rooms.jpg)</figure>
+<figure id="Rare-Las-Vegas-Hotels-Balcony-Rooms"><a href="/images/Rare-Las-Vegas-Hotels-Balcony-Rooms.jpg"><img src="/images/Rare-Las-Vegas-Hotels-Balcony-Rooms-200x300.jpg" alt="" /></a></figure>
 </div></section>

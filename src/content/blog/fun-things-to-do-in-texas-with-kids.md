@@ -64,5 +64,5 @@ Pack your cowboy hats and adventure gear because the Lone Star State is your fam
 
 Like it? Pin it!
 
-<figure id="4-fun-things-to-do-in-texas-with-your-kids">[![](/images/4-fun-things-to-do-in-texas-with-your-kids-200x300.jpg)](/images/4-fun-things-to-do-in-texas-with-your-kids.jpg)</figure>
+<figure id="4-fun-things-to-do-in-texas-with-your-kids"><a href="/images/4-fun-things-to-do-in-texas-with-your-kids.jpg"><img src="/images/4-fun-things-to-do-in-texas-with-your-kids-200x300.jpg" alt="" /></a></figure>
 </div></div>

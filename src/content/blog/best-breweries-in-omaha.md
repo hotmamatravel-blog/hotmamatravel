@@ -21,7 +21,7 @@ Hey there beer buddies and hop-heads! Ready to embark on a journey through the s
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="zipline-brewing-co-best-breweries-in-omaha"><figure>[![Zipline Brewing Co Taproom and Beer Lounge in Omaha](/images/zipline-brewing-co-best-breweries-in-omaha.jpg)](/images/zipline-brewing-co-best-breweries-in-omaha.jpg)<figcaption class="uagb-image-caption">Courtesy of Zipline Brewing Co.</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="zipline-brewing-co-best-breweries-in-omaha"><figure><a href="/images/zipline-brewing-co-best-breweries-in-omaha.jpg"><img src="/images/zipline-brewing-co-best-breweries-in-omaha.jpg" alt="Zipline Brewing Co Taproom and Beer Lounge in Omaha" /></a><figcaption class="uagb-image-caption">Courtesy of Zipline Brewing Co.</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -213,7 +213,7 @@ Nestled in the heart of the Blackstone District, [Scriptown Brewing Company](htt
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-a840f302 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-f1acaad5 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="kros-strain-brewing-company-best-breweries-in-omaha"><figure>[![Family-friendly Kros Strain Brewing Company in Omaha](/images/kros-strain-brewing-company-best-breweries-in-omaha.jpg)](/images/kros-strain-brewing-company-best-breweries-in-omaha.jpg)<figcaption class="uagb-image-caption">Courtesy of Kros Strain Brewing Company</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-f1acaad5 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="kros-strain-brewing-company-best-breweries-in-omaha"><figure><a href="/images/kros-strain-brewing-company-best-breweries-in-omaha.jpg"><img src="/images/kros-strain-brewing-company-best-breweries-in-omaha.jpg" alt="Family-friendly Kros Strain Brewing Company in Omaha" /></a><figcaption class="uagb-image-caption">Courtesy of Kros Strain Brewing Company</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-0e697be3">
 
@@ -465,7 +465,7 @@ Every good brewery needs some yummy grub to accompany the amazing brews. At [Vis
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-9ddbc255 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-572b843d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="kinkaider-brewing-company-best-breweries-in-omaha"><figure>[![Live Music at Kinaider Brewery in Omaha](/images/kinkaider-brewing-company-best-breweries-in-omaha.jpg)](/images/kinkaider-brewing-company-best-breweries-in-omaha.jpg)<figcaption class="uagb-image-caption">Courtesy of Kinkaider Brewing Co.</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-572b843d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="kinkaider-brewing-company-best-breweries-in-omaha"><figure><a href="/images/kinkaider-brewing-company-best-breweries-in-omaha.jpg"><img src="/images/kinkaider-brewing-company-best-breweries-in-omaha.jpg" alt="Live Music at Kinaider Brewery in Omaha" /></a><figcaption class="uagb-image-caption">Courtesy of Kinkaider Brewing Co.</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-6f9b2513">
 
@@ -524,5 +524,5 @@ See my post on [Best Breweries in America](/americas-best-breweries/) for more c
 
 Like it? Pin it!
 
-<figure id="best-family-friendly-breweries-omaha">[![](/images/best-family-friendly-breweries-omaha-200x300.jpg)](/images/best-family-friendly-breweries-omaha.jpg)</figure>
+<figure id="best-family-friendly-breweries-omaha"><a href="/images/best-family-friendly-breweries-omaha.jpg"><img src="/images/best-family-friendly-breweries-omaha-200x300.jpg" alt="" /></a></figure>
 </div></div>

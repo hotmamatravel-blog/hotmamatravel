@@ -57,7 +57,7 @@ So follow me and discover some of our favorite kid-friendly activities in Idyllw
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure id="shopping-things-to-do-in-idyllwild-ca">[![Shopping in Idyllwild](/images/shopping-things-to-do-in-idyllwild-ca-1.jpg)](/images/shopping-things-to-do-in-idyllwild-ca-1.jpg)</figure>
+<figure id="shopping-things-to-do-in-idyllwild-ca"><a href="/images/shopping-things-to-do-in-idyllwild-ca-1.jpg"><img src="/images/shopping-things-to-do-in-idyllwild-ca-1.jpg" alt="Shopping in Idyllwild" /></a></figure>
 
 ### [Shopping](/go/best-shops-idyllwild/)
 
@@ -87,7 +87,7 @@ The large surrounding windows allow guests to enjoy the views while bringing in 
 
 [**See photos, reviews &amp; more**](/go/idyllwild-earth-n-fire/)
 
-<figure id="Idyllwild-playground-activities-in-idyllwild">[![community playground in idyllwild with kids](/images/Idyllwild-playground-activities-in-idyllwild.jpg)](/images/Idyllwild-playground-activities-in-idyllwild.jpg)</figure>
+<figure id="Idyllwild-playground-activities-in-idyllwild"><a href="/images/Idyllwild-playground-activities-in-idyllwild.jpg"><img src="/images/Idyllwild-playground-activities-in-idyllwild.jpg" alt="community playground in idyllwild with kids" /></a></figure>
 
 ### Idyllwild Community Playground
 
@@ -121,7 +121,7 @@ If you love live music as we do, then you will love Idyllwild. Most restaurants 
 
 **[More family restaurants in Idyllwild](/best-restaurants-in-idyllwild/)**
 
-<figure id="idyllwild-places-to-stay">[![cozy cabin rentals in Idyllwild for families](/images/idyllwild-places-to-stay.jpg)](/images/idyllwild-places-to-stay.jpg)</figure>
+<figure id="idyllwild-places-to-stay"><a href="/images/idyllwild-places-to-stay.jpg"><img src="/images/idyllwild-places-to-stay.jpg" alt="cozy cabin rentals in Idyllwild for families" /></a></figure>
 
 ### Stay In Your Cabin
 
@@ -163,7 +163,7 @@ Taking the **[Palm Springs Aerial Tramway](/go/palm-springs-aerial-tramway-palm-
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure id="easy-hikes-in-idyllwild-things-to-do-in-idyllwild">[![kid-friendly hikes in Idyllwild](/images/easy-hikes-in-idyllwild-things-to-do-in-idyllwild.jpg)](/images/easy-hikes-in-idyllwild-things-to-do-in-idyllwild.jpg)</figure>
+<figure id="easy-hikes-in-idyllwild-things-to-do-in-idyllwild"><a href="/images/easy-hikes-in-idyllwild-things-to-do-in-idyllwild.jpg"><img src="/images/easy-hikes-in-idyllwild-things-to-do-in-idyllwild.jpg" alt="kid-friendly hikes in Idyllwild" /></a></figure>
 
 ### [Kid-Friendly Easy Hikes in Idyllwild](/go/mount-san-jacinto-state-park-wilderness-idyllwild/)
 
@@ -179,7 +179,7 @@ Humber Park is located in the San Bernardino National Forest and is the site of 
 
 [Find out more info](https://www.fs.usda.gov/recarea/sbnf/recarea/?recid=26483)
 
-<figure id="tahqutiz-rock-climbing-idyllwild">[![Tahquitz rock Idyllwild rock climbing](/images/tahqutiz-rock-climbing-idyllwild.jpg)](/images/tahqutiz-rock-climbing-idyllwild.jpg)</figure>
+<figure id="tahqutiz-rock-climbing-idyllwild"><a href="/images/tahqutiz-rock-climbing-idyllwild.jpg"><img src="/images/tahqutiz-rock-climbing-idyllwild.jpg" alt="Tahquitz rock Idyllwild rock climbing" /></a></figure>
 
 ### [Rock Climbing](/go/idyllwild-nature-center/)
 
@@ -275,4 +275,4 @@ The fun doesn't stop there! Explore more exciting **[California family travel](/
 
 **Like it? Pin it?**
 
-<figure id="things-to-do-in-idyllwild-with-kids" data-essb-pin-description="Looking for the perfect mountain escape? Idyllwild with kids is full of fresh air, forest hikes, cozy cabins, and small-town charm families love. From easy trails to fun local stops, this guide covers the best things to do in Idyllwild with kids for a laid-back, memory-making getaway. #IdyllwildWithKids #CaliforniaFamilyTravel #MountainGetaway #FamilyAdventure #KidFriendlyTravel">![Fun things to do in Idyllwild with kids](/images/Things-to-do-in-idyllwild-with-kids-200x300.jpg)</figure>
+<figure id="things-to-do-in-idyllwild-with-kids" data-essb-pin-description="Looking for the perfect mountain escape? Idyllwild with kids is full of fresh air, forest hikes, cozy cabins, and small-town charm families love. From easy trails to fun local stops, this guide covers the best things to do in Idyllwild with kids for a laid-back, memory-making getaway. #IdyllwildWithKids #CaliforniaFamilyTravel #MountainGetaway #FamilyAdventure #KidFriendlyTravel"><img src="/images/Things-to-do-in-idyllwild-with-kids-200x300.jpg" alt="Fun things to do in Idyllwild with kids" /></figure>

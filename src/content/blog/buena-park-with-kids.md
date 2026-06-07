@@ -90,7 +90,7 @@ My family has deep seeded roots in Buena Park. In fact, my dad is the oldest sur
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d820df84"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](/images/Knotts-Berry-Farm-Buena-Park-1.jpg)</figure>
+<figure><img src="/images/Knotts-Berry-Farm-Buena-Park-1.jpg" alt="" /></figure>
 
 #### [Knott's Berry Farm](/go/knotts-berry-farm-buena-park-ca/)
 
@@ -98,14 +98,14 @@ My family has deep seeded roots in Buena Park. In fact, my dad is the oldest sur
 
 Okay. Okay. I know you heard about Knott’s, but I can’t talk about Buena Park with kids and not give a few shout outs to Knott’s! Well, first there is the theme park, but across the parking lot is Soak City (Knott’s water park). You can a combo tickets if you are traveling with kids and what to try our both. The Knott’s Independence Hall is a free Buena Park attraction, so that is good for budget travel. It is an exact replica of the real Independence Hall and is often visited by schools, but the public can visit for free every day. See more on my post,&nbsp;**[HERE](/knotts-berry-farm-with-kids/)**.
 
-<figure>![](/images/knotts-berry-farm-buena-park-attraction-1.jpg)</figure>
+<figure><img src="/images/knotts-berry-farm-buena-park-attraction-1.jpg" alt="" /></figure>
 
 [See photos, reviews &amp; more](/go/knotts-berry-farm-buena-park-ca/)
 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-17f0bb5a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![Knott](/images/knotts-soak-city-buena-park-ca-1.jpg)</figure>
+<figure><img src="/images/knotts-soak-city-buena-park-ca-1.jpg" alt="Knott" /></figure>
 
 #### [Knott's Soak City](/go/knotts-soak-city-buena-park-ca/)
 
@@ -206,7 +206,7 @@ This relatively new restaurant on the scene is bursting with Latin flavor. Isla 
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1be0a0c1"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](/images/Mrs-knotts-chicken-dinner-family-restaurant-buena-park-1.jpg)</figure>
+<figure><img src="/images/Mrs-knotts-chicken-dinner-family-restaurant-buena-park-1.jpg" alt="" /></figure>
 
 #### [Mrs. Knott's Chicken Dinner House](/go/mrs-knotts-chicken-dinner-house-buena-park-ca/)
 
@@ -214,7 +214,7 @@ This relatively new restaurant on the scene is bursting with Latin flavor. Isla 
 
 You can’t go to Buena Park with kids and not go to Mrs. Knott’s Chicken House. Established in 1934, it is one of the oldest and most popular restaurants in Buena Park. You can tell it is popular among locals as well as tourists, thanks to the daily and endless line of hungry people waiting patiently to get a table. If you get there early or non-peak times, you can get a seat fairly quickly. Early dinners and late lunches seem to be the best times to get in. You’ll want to dine here at least once. The fried chicken dinner is not only yummy, it is also a classic. It was even the dinner served at my wedding reception! Did you know that the Boysenberry was created here at Knott’s Berry Farm? No meal is complete without a slice of Mrs. Knott’s famous Boysenberry Pie!
 
-<figure>![Boysenberry cocktail at Mrs. Knott](/images/BOY-1024x1024.jpg)</figure>
+<figure><img src="/images/BOY-1024x1024.jpg" alt="Boysenberry cocktail at Mrs. Knott" /></figure>
 
 If you are in Buena Park with kids, specifically Knott’s Berry Farm, you have to indulge in all that is Boysenberry. Knott’s has everything from jam, pie, cookies to punch, coffee and yes, beer. There are even new Boysenberry cocktails! Boysenberry fun for parents and kids! Yay!
 
@@ -223,7 +223,7 @@ If you are in Buena Park with kids, specifically Knott’s Berry Farm, you have 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bffa36c0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![buena park family restuarant Rock &amp; Brews](/images/IMG_0464-1024x683.jpg)</figure>
+<figure><img src="/images/IMG_0464-1024x683.jpg" alt="buena park family restuarant Rock &amp; Brews" /></figure>
 
 #### [Rock &amp; Brews](/go/rock-brews-buena-park-ca/)
 
@@ -236,7 +236,7 @@ One of the newest restaurants, and one of our favorite new things to do in Buena
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7cb5279c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![tana ethiopian restaurant buena park](/images/IMG_0435-1024x1024.jpg)</figure>
+<figure><img src="/images/IMG_0435-1024x1024.jpg" alt="tana ethiopian restaurant buena park" /></figure>
 
 #### [Tana Ethiopian Restaurant](/go/tana-ethiopian-restaurant-anaheim-ca/)
 
@@ -249,7 +249,7 @@ I love teaching my kids about the world through food and there are plenty of opp
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7fd6917d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![kitakata ramen ban nai buena park](/images/IMG_4363-1024x1024.jpg)</figure>
+<figure><img src="/images/IMG_4363-1024x1024.jpg" alt="kitakata ramen ban nai buena park" /></figure>
 
 #### [Kitakata Ramen Ban Nai](/go/kitakata-ramen-ban-nai-buena-park-ca/)
 
@@ -331,5 +331,5 @@ Whether you want to hang with knights, pirates or cowboys, Buena Park attraction
 
 **Like it? Pin it!**
 
-<figure>![Fun things to do in Buena Park with kids](/images/things-to-do-with-kids-buena-park-ca-1-200x300.jpg)</figure>
+<figure><img src="/images/things-to-do-with-kids-buena-park-ca-1-200x300.jpg" alt="Fun things to do in Buena Park with kids" /></figure>
 </div></section>

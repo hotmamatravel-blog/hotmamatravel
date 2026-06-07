@@ -54,7 +54,7 @@ We sat along the open wall leading to the patio watching the cool rain as we sip
 
 This is the go to for a great breakfast or brunch in Vancouver. Much of the menu is Mediterranean inspired, but the café is best known for their exceptional Belgian Waffles. In fact, they have actually been called the best in the city.
 
-<figure>![Cafe Medina Waffles in Vancouver](/images/waffles-vancouver-with-kids.jpg)</figure>
+<figure><img src="/images/waffles-vancouver-with-kids.jpg" alt="Cafe Medina Waffles in Vancouver" /></figure>
 
 The waffles are made fresh daily and come with a variety of exciting topping. However, if you want to try these amazing waffles, get there early because supplies are limited!
 

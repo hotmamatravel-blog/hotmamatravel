@@ -84,5 +84,5 @@ Family travel isn’t about perfection; it’s about presence. And that’s some
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Why just take a vacation when you can shape your kids’ future? 🌟✈️ Family travel boosts learning, creativity, confidence, and unforgettable memories. #FamilyTravel #TravelWithKids #HotMamaTravel #KidsWhoTravel #EducationalTravel #FamilyAdventure">[![benefits of family travel ](/images/benefits-of-family-travel-blog-200x300.jpg)](/images/benefits-of-family-travel-blog.jpg)</figure>
+<figure data-essb-pin-description="Why just take a vacation when you can shape your kids’ future? 🌟✈️ Family travel boosts learning, creativity, confidence, and unforgettable memories. #FamilyTravel #TravelWithKids #HotMamaTravel #KidsWhoTravel #EducationalTravel #FamilyAdventure"><a href="/images/benefits-of-family-travel-blog.jpg"><img src="/images/benefits-of-family-travel-blog-200x300.jpg" alt="benefits of family travel " /></a></figure>
 </div></div>

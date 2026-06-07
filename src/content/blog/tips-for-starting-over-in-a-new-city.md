@@ -92,5 +92,5 @@ Starting over in a new city is a journey filled with opportunities for growth, l
 
 Like it? Pin it!
 
-<figure id="tips-for-starting-over-in-a-new-city">[![](/images/tips-for-starting-over-in-new-city-Pinterest-Pin-200x300.jpg)](/images/tips-for-starting-over-in-new-city-Pinterest-Pin.jpg)</figure>
+<figure id="tips-for-starting-over-in-a-new-city"><a href="/images/tips-for-starting-over-in-new-city-Pinterest-Pin.jpg"><img src="/images/tips-for-starting-over-in-new-city-Pinterest-Pin-200x300.jpg" alt="" /></a></figure>
 </div></div>

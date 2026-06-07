@@ -43,7 +43,7 @@ With so many things to do in Vancouver, one of the easiest ways to see the highl
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-e889e7ae wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Gastown Vancouver with kids](/images/gastown-vancouver.jpg)](/images/gastown-vancouver.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-e889e7ae wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/gastown-vancouver.jpg"><img src="/images/gastown-vancouver.jpg" alt="Gastown Vancouver with kids" /></a></figure></div>
 
 Let’s start where it all began… with a tavern (as all great stories should). Yes, this entire city basically kicked off thanks to one guy and his saloon.
 
@@ -81,7 +81,7 @@ I recommend taking a food tour to experience all the cool dining options Gastown
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure>![Stanley Park Vancouver](/images/Vancouver-bridge.jpg)</figure>
+<figure><img src="/images/Vancouver-bridge.jpg" alt="Stanley Park Vancouver" /></figure>
 
 Stanley Park is a beautiful and lively 1,000-acre public park surrounded by the Vancouver Harbor. Originally inhabited for over 3,000 years by the indigenous people, this was the first area of Vancouver to be explored by settlers.
 
@@ -95,7 +95,7 @@ The surrounding Vancouver Seawall not only helps to prevent erosion, but also pr
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure>![English Bay Vancouver Beach Activity](/images/English-Bay-Vancouver-Activities.jpg)</figure>
+<figure><img src="/images/English-Bay-Vancouver-Activities.jpg" alt="English Bay Vancouver Beach Activity" /></figure>
 
 This is the most popular beach in downtown Vancouver. The seawall that surrounds Stanley Park also encircles English Bay.
 
@@ -107,7 +107,7 @@ The beach is a great spot for sunset-gazing, swimming, and sunbathing. It is als
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure>![Kits Pool in Vancouver](/images/Kits-Pool-Vancouver.jpg)</figure>
+<figure><img src="/images/Kits-Pool-Vancouver.jpg" alt="Kits Pool in Vancouver" /></figure>
 
 Kitsilano is a cool residential area that was once Vancouver’s hippy hangout. Now, Kits is a laid-back waterfront hub of restaurants, shops, and parks. Take a dip in the huge saltwater Kitsilano pool on the beach while taking in the mountain views.
 
@@ -137,7 +137,7 @@ Kids will love climbing around exhibits and imagining life on the water, while p
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure>![Granville Island Vancouver](/images/Vancouver-Granville-Island-Aerial.jpg)</figure>
+<figure><img src="/images/Vancouver-Granville-Island-Aerial.jpg" alt="Granville Island Vancouver" /></figure>
 
 Technically, Granville Island is a peninsula under the Granville Street Bridge. What was once an industrial pit is now loaded with shops, a public market, dining options, and entertainment. Granville Island is home to over 300 businesses, including over 50 independent food vendors and numerous artists and designers. Mom and Dad will love the breweries and unique grub, but kids will love visiting the Kids Market.
 
@@ -149,7 +149,7 @@ The Kids Market is reminiscent of the big public market, except the shops, dinin
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure>![Yaletown Engine 374](/images/Engine-374-Roundhouse-Vancouver.jpg)</figure>
+<figure><img src="/images/Engine-374-Roundhouse-Vancouver.jpg" alt="Yaletown Engine 374" /></figure>
 
 Now a hip urban district loaded with exciting restaurants and shops, Yaletown was once the western station for the Canadian Pacific Railway. You can still check out a piece of this neighborhood’s historical roots at the Roundhouse Community Centre with the display of Engine 374. In 1887, it was the first transcontinental train to enter the city!
 
@@ -161,7 +161,7 @@ Now the brick warehouses and their exterior platforms have been transformed into
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure>![Chinese Garden Vancouver](/images/Dr-Sun-Yat-Sen-Garden-Vancouver.jpg)</figure>
+<figure><img src="/images/Dr-Sun-Yat-Sen-Garden-Vancouver.jpg" alt="Chinese Garden Vancouver" /></figure>
 
 ### [Dr. Sun Yat-Sen Classical Chinese Garden:](/go/dr-sun-yat-sen-classical-chinese-garden-vancouver-bc/)
 
@@ -173,7 +173,7 @@ Located in the city’s historical Chinatown, this garden is the first of its ki
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure>![Beaver Plane Vancouver](/images/Beaver-Floatplane-Vancouver.jpg)</figure>
+<figure><img src="/images/Beaver-Floatplane-Vancouver.jpg" alt="Beaver Plane Vancouver" /></figure>
 
 Richmond, just outside Vancouver, is a paradise for food-loving families and one of the most culturally vibrant areas in the region. Known for its incredible Asian food scene, bustling night markets, and easy access to the airport, Richmond blends big-city energy with a more relaxed pace.
 
@@ -195,7 +195,7 @@ Kids will be glued to the action outside, and honestly, it’s the perfect way t
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure>![Capilano Suspension Bridge Park with kids](/images/Capilano-suspension-bridge-park-with-kids.jpg)</figure>
+<figure><img src="/images/Capilano-suspension-bridge-park-with-kids.jpg" alt="Capilano Suspension Bridge Park with kids" /></figure>
 
 ### [Visit Capilano Suspension Bridge Park:](/go/capilano-suspension-bridge-vancouver-bc/)
 
@@ -203,11 +203,11 @@ One of the coolest things to do in Vancouver with kids is spending the day at Ca
 
 It is not only fun, but educational. Your family can stroll through Kia’palano, taking in the towering totems and learning about the First Nations People before venturing off into the Vancouver rain forest.
 
-<figure>![Capilano Totem Poles Kia](/images/Vancouver-Capilano-totem-poles.jpg)</figure>
+<figure><img src="/images/Vancouver-Capilano-totem-poles.jpg" alt="Capilano Totem Poles Kia" /></figure>
 
 There are also places to grab something eat and drink, because we know that all that adventure can work up an appetite. I recommend taking a well-deservedto  break at the Cliff House Restaurant. It has a warm and cozy atmosphere, delicious food, and cold beer on draft.
 
-<figure>![Standing on the Capilano Suspension Bridge](/images/Capilano-Suspension-Bridge.gif)</figure>
+<figure><img src="/images/Capilano-Suspension-Bridge.gif" alt="Standing on the Capilano Suspension Bridge" /></figure>
 
 Rain or shine, this park is perfect for a family day out in Vancouver. We visited on our recent trip to Vancouver, and it ended up being a huge highlight of the trip. See our [**Capilano Suspension Bridge Review**](/visiting-capilano-suspension-bridge-park/) for more about the history and how to plan your visit.
 
@@ -231,5 +231,5 @@ Discover the best things to do in Vancouver with kids, family-friendly restauran
 
 Because family vacations should be fun for parents too.
 
-#VancouverWithKids #VancouverBC #FamilyTravel #CanadaWithKids #FamilyVacationIdeas #ThingsToDoInVancouver #VancouverTravel #CanadaTravel #FamilyTravelBlog #TravelWithKids #Gastown #CapilanoSuspensionBridge #HotMamaTravel">[![Things to do in Vancouver with kids](/images/Family-Guide-Vancouver-with-kids-200x300.jpg)](/images/Family-Guide-Vancouver-with-kids.jpg)</figure>
+#VancouverWithKids #VancouverBC #FamilyTravel #CanadaWithKids #FamilyVacationIdeas #ThingsToDoInVancouver #VancouverTravel #CanadaTravel #FamilyTravelBlog #TravelWithKids #Gastown #CapilanoSuspensionBridge #HotMamaTravel"><a href="/images/Family-Guide-Vancouver-with-kids.jpg"><img src="/images/Family-Guide-Vancouver-with-kids-200x300.jpg" alt="Things to do in Vancouver with kids" /></a></figure>
 </div></div>

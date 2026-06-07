@@ -19,7 +19,7 @@ The heat is dry, but not unbearable thanks to the cool refreshing spray of the a
 
 Hollywood’s playground since the 1920’s, this desert oasis has been attracting celebrities and sun-seekers for decades. Teeming with stylish boutiques, fantastic restaurants, [exciting tours](/best-palm-springs-tours/), and luxury spa resorts, it is no wonder this town has earned such a glamorous reputation, but that doesn’t mean it is reserved for only the rich and famous.
 
-<figure>![Palm Springs Sign](/images/Palm-Springs-sign.jpg)</figure>
+<figure><img src="/images/Palm-Springs-sign.jpg" alt="Palm Springs Sign" /></figure>
 
 Palm Springs is down-to-earth, affordable and fun for families, which is why **I want to show you how to do Palm Springs with kids**. As Southern California locals, we visit Palm Springs every year as a family because we've discovered there are so many fun things to do in Palm Springs with kids - from live music and family-friendly nightlife to swimming and more!
 
@@ -142,7 +142,7 @@ https://youtu.be/0QQGKHRlDkE
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b6f94adf"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="palm-springs-walk-of-stars">![Palm Springs walk of fame](/images/DSCN2590-683x1024.jpg)</figure>
+<figure id="palm-springs-walk-of-stars"><img src="/images/DSCN2590-683x1024.jpg" alt="Palm Springs walk of fame" /></figure>
 
 #### [Palm Springs Walk of Stars](/go/palm-springs-walk-of-stars-palm-springs-ca/)
 
@@ -169,7 +169,7 @@ If you are interested in learning about the culture and history of the Palm Spri
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1015dfeb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Cabazon-Dinosaurs-palm-springs">![Cabazon Dinosaurs](/images/DSCN2553-1024x683.jpg)</figure>
+<figure id="Cabazon-Dinosaurs-palm-springs"><img src="/images/DSCN2553-1024x683.jpg" alt="Cabazon Dinosaurs" /></figure>
 
 #### [Cabazon Dinosaur Museum](/go/cabazon-dinosaurs-palm-springs-ca/)
 
@@ -182,7 +182,7 @@ The Cabazon Dinosaur Museum is one of the fun and quirky roadside attractions yo
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5e3fafc4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="palm-springs-aerial-tramway">[![](/images/palm-springs-aerial-tramway.jpg)](/images/palm-springs-aerial-tramway.jpg)</figure>
+<figure id="palm-springs-aerial-tramway"><a href="/images/palm-springs-aerial-tramway.jpg"><img src="/images/palm-springs-aerial-tramway.jpg" alt="" /></a></figure>
 
 #### [Palm Springs Aerial Tramway](/go/palm-springs-aerial-tramway-palm-springs-ca/)
 
@@ -219,7 +219,7 @@ This awesome aviation museum brings history to life and allows you to get up clo
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-def1b8b4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="palm-springs-pool">![palms springs resort pool with kids](/images/DSCN1447.jpg)</figure>
+<figure id="palm-springs-pool"><img src="/images/DSCN1447.jpg" alt="palms springs resort pool with kids" /></figure>
 
 #### [Hotel and Resort Pools](/go/hotel-pools-palm-springs-ca/)
 
@@ -247,7 +247,7 @@ If you like to golf, then you will love Palm Springs as it is home to more than 
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-20ff03ca"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="las-casuelas-terraza-live-music-palm-springs">![Kids eating at Las Casuelas](/images/las-casuelas-terraza-kids-eat-dinner.jpg)</figure>
+<figure id="las-casuelas-terraza-live-music-palm-springs"><img src="/images/las-casuelas-terraza-kids-eat-dinner.jpg" alt="Kids eating at Las Casuelas" /></figure>
 
 #### [Las Casuelas Terraza](/go/las-casuelas-terraza-palm-springs-ca/)
 
@@ -257,9 +257,9 @@ Opening in 1958, this family owned restaurant goes back four generations. Still 
 
 [See photos, reviews &amp; more](/go/las-casuelas-terraza-palm-springs-ca/)
 
-<figure id="live-music-las-casuelas-palm-springs">![Live Band in Palm Springs at Las Casuelas Terraza](/images/las-casuelas-terraza-live-band.jpg)</figure>
+<figure id="live-music-las-casuelas-palm-springs"><img src="/images/las-casuelas-terraza-live-band.jpg" alt="Live Band in Palm Springs at Las Casuelas Terraza" /></figure>
 
-<figure id="family-friendly-live-music-dancing-las-casuelas-palm-springs">![Family fun dancing in Palm Springs](/images/las-casuelas-terraza-family-friendly-live-music.jpg)</figure>
+<figure id="family-friendly-live-music-dancing-las-casuelas-palm-springs"><img src="/images/las-casuelas-terraza-family-friendly-live-music.jpg" alt="Family fun dancing in Palm Springs" /></figure>
 
 </div></section>
 
@@ -297,7 +297,7 @@ Who doesn't love Italian food right? With a variety of yummy pizzas, salads, pas
 *Related:* [Read our full guide to these incredible resorts](/best-family-resorts-palm-springs/)
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2d022158"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="omni-rancho-las-palmas-family-resorts-palm-springs">![Omni rancho las palmas resort](/images/Omni-Rancho-Las-Palmas-Palm-Springs-Hotel.jpg)</figure>
+<figure id="omni-rancho-las-palmas-family-resorts-palm-springs"><img src="/images/Omni-Rancho-Las-Palmas-Palm-Springs-Hotel.jpg" alt="Omni rancho las palmas resort" /></figure>
 
 #### [Omni Rancho Las Palmas](/go/omni-rancho-las-palmas-palm-springs/)
 
@@ -310,7 +310,7 @@ Omni Ranch Las Palmas is a desert paradise for parents and kids with over 240 ac
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bf67b42f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="js-marriott-desert-springs-resort-spa-family-resort-palm-springs">![Family Resort in Palm Springs JW Marriott](/images/JW-Marriott-Rancho-Mirage-family-resort.jpg)</figure>
+<figure id="js-marriott-desert-springs-resort-spa-family-resort-palm-springs"><img src="/images/JW-Marriott-Rancho-Mirage-family-resort.jpg" alt="Family Resort in Palm Springs JW Marriott" /></figure>
 
 #### [JW Marriott Desert Springs Resort &amp; Spa](/go/jw-marriott-desert-springs-palm-springs/)
 
@@ -323,7 +323,7 @@ This luxury resort has two championship golf courses on the property, but the hi
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d60e8c9e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="family-resort-palm-springs-westin-mission-hills-golf-resort-spa">![westin mission hills palm springs family resort](/images/westin-mission-hills-palm-springs-family-resort-1.jpg)</figure>
+<figure id="family-resort-palm-springs-westin-mission-hills-golf-resort-spa"><img src="/images/westin-mission-hills-palm-springs-family-resort-1.jpg" alt="westin mission hills palm springs family resort" /></figure>
 
 #### [Westin Mission Hills Golf Resort &amp; Spa](/go/westin-mission-hills-palm-springs/)
 
@@ -348,7 +348,7 @@ This fun family resort offers an activities department complete with basketball 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6a34622e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>[![teepee glamping at living desert starry safari- palm springs glamping](/images/living-desert-starry-safari-family-glamping-palm-springs-ca.jpg)](/images/living-desert-starry-safari-family-glamping-palm-springs-ca.jpg)</figure>
+<figure><a href="/images/living-desert-starry-safari-family-glamping-palm-springs-ca.jpg"><img src="/images/living-desert-starry-safari-family-glamping-palm-springs-ca.jpg" alt="teepee glamping at living desert starry safari- palm springs glamping" /></a></figure>
 
 #### [Glamping Sites Palm Springs](/glamping-palm-springs/)
 
@@ -368,7 +368,7 @@ Palm Springs' picturesque desert landscapes provide a unique backdrop for outdoo
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8f87efb4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![Lulu Bistro Palm Springs](/images/lulu-1024x512.jpg)</figure>
+<figure><img src="/images/lulu-1024x512.jpg" alt="Lulu Bistro Palm Springs" /></figure>
 
 #### [Lulu California Bistro](/go/lulu-california-bistro-palm-springs-ca/)
 
@@ -496,5 +496,5 @@ A magnificent desert landscape and Hollywood glamour unite to create one fabulou
 
 **Like it? Pin it!**
 
-<figure id="things-to-do-in-palm-springs-with-kids">![Palm Springs with kids](/images/PSWK-8-200x300.jpg)</figure>
+<figure id="things-to-do-in-palm-springs-with-kids"><img src="/images/PSWK-8-200x300.jpg" alt="Palm Springs with kids" /></figure>
 </div></section>

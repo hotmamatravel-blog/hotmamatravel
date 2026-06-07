@@ -20,7 +20,7 @@ Bonus! I also included my picks for best Florida Keys family resorts for more is
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-aa6eeb2d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="casa-marina-key-west-best-hotels-in-key-west-for-families">[![](/images/casa-marina-key-west-best-hotels-in-key-west-for-families.jpg)](/images/casa-marina-key-west-best-hotels-in-key-west-for-families.jpg)</figure>
+<figure id="casa-marina-key-west-best-hotels-in-key-west-for-families"><a href="/images/casa-marina-key-west-best-hotels-in-key-west-for-families.jpg"><img src="/images/casa-marina-key-west-best-hotels-in-key-west-for-families.jpg" alt="" /></a></figure>
 
 #### [Casa Marina Key West, Curio Collection by Hilton](/go/casa-marina-key-west-fl/)
 
@@ -41,7 +41,7 @@ Fourth, the hotel's location in Key West is ideal for families. The hotel is sit
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-cd106916"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="the-reach-key-west-best-hotels-in-key-west-for-families">[![](/images/the-reach-key-west-best-hotels-in-key-west-for-families.jpg)](/images/the-reach-key-west-best-hotels-in-key-west-for-families.jpg)</figure>
+<figure id="the-reach-key-west-best-hotels-in-key-west-for-families"><a href="/images/the-reach-key-west-best-hotels-in-key-west-for-families.jpg"><img src="/images/the-reach-key-west-best-hotels-in-key-west-for-families.jpg" alt="" /></a></figure>
 
 #### [The Reach Key West, Curio Collection by Hilton](/go/the-reach-key-west-fl/)
 
@@ -64,7 +64,7 @@ And let's not forget about the food! The hotel's restaurant, Spencer's by the Se
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-38b229cf"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Margaritaville-beach-house-best-hotels-in-key-west-for-families">[![](/images/Margaritaville-beach-house-best-hotels-in-key-west-for-families.jpg)](/images/Margaritaville-beach-house-best-hotels-in-key-west-for-families.jpg)</figure>
+<figure id="Margaritaville-beach-house-best-hotels-in-key-west-for-families"><a href="/images/Margaritaville-beach-house-best-hotels-in-key-west-for-families.jpg"><img src="/images/Margaritaville-beach-house-best-hotels-in-key-west-for-families.jpg" alt="" /></a></figure>
 
 #### [Margaritaville Beach House Key West](/go/margaritaville-beach-house-key-west-fl/)
 
@@ -87,7 +87,7 @@ The hotel's restaurant, LandShark Bar &amp; Grill, serves up delicious cuisine t
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4d42b315"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="hyatt-residence-club-key-west-beach-house-best-hotels-in-key-west-for-families">[![](/images/hyatt-residence-club-key-west-beach-house-best-hotels-in-key-west-for-families.jpg)](/images/hyatt-residence-club-key-west-beach-house-best-hotels-in-key-west-for-families.jpg)</figure>
+<figure id="hyatt-residence-club-key-west-beach-house-best-hotels-in-key-west-for-families"><a href="/images/hyatt-residence-club-key-west-beach-house-best-hotels-in-key-west-for-families.jpg"><img src="/images/hyatt-residence-club-key-west-beach-house-best-hotels-in-key-west-for-families.jpg" alt="" /></a></figure>
 
 #### [Hyatt Residence Club Key West, Beach House](/go/hyatt-residence-beach-house-key-west-fl/)
 
@@ -108,7 +108,7 @@ Moreover, Hyatt Residence Club Key West, Beach House offers several dining optio
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0e5417ba"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="ocean-key-resort-spa-best-hotels-in-key-west-for-families">[![](/images/ocean-key-resort-spa-best-hotels-in-key-west-for-families.jpg)](/images/ocean-key-resort-spa-best-hotels-in-key-west-for-families.jpg)</figure>
+<figure id="ocean-key-resort-spa-best-hotels-in-key-west-for-families"><a href="/images/ocean-key-resort-spa-best-hotels-in-key-west-for-families.jpg"><img src="/images/ocean-key-resort-spa-best-hotels-in-key-west-for-families.jpg" alt="" /></a></figure>
 
 #### [Ocean Key Resort &amp; Spa](/go/ocean-key-resort-spa-key-west-fl/)
 
@@ -135,7 +135,7 @@ The hotel also offers several dining options, including Sunset Pier, which serve
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c3e79e76"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="hawks-cay-resort-florida-keys-kid-friendly-resorts">[![](/images/hawks-cay-resort-florida-keys-kid-friendly-resorts.jpg)](/images/hawks-cay-resort-florida-keys-kid-friendly-resorts.jpg)</figure>
+<figure id="hawks-cay-resort-florida-keys-kid-friendly-resorts"><a href="/images/hawks-cay-resort-florida-keys-kid-friendly-resorts.jpg"><img src="/images/hawks-cay-resort-florida-keys-kid-friendly-resorts.jpg" alt="" /></a></figure>
 
 #### [Hawks Cay Resort](/go/hawks-cay-resort-duck-key-florida-keys/)
 
@@ -156,7 +156,7 @@ Hawks Cay Resort does offer family suites as one of their room options. These su
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6a2aeeff"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Cheeca-lodge-spa-florida-keys-kid-friendly-resorts">[![](/images/Cheeca-lodge-spa-florida-keys-kid-friendly-resorts.jpg)](/images/Cheeca-lodge-spa-florida-keys-kid-friendly-resorts.jpg)</figure>
+<figure id="Cheeca-lodge-spa-florida-keys-kid-friendly-resorts"><a href="/images/Cheeca-lodge-spa-florida-keys-kid-friendly-resorts.jpg"><img src="/images/Cheeca-lodge-spa-florida-keys-kid-friendly-resorts.jpg" alt="" /></a></figure>
 
 #### [Cheeca Lodge &amp; Spa](/go/cheeca-lodge-spa-islamorada-florida-keys/)
 
@@ -179,7 +179,7 @@ Cheeca Lodge &amp; Spa has several family-friendly restaurants on the property, 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2d8d9bc7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="amara-cay-resort-florida-keys-kid-friendly-resorts">[![](/images/amara-cay-resort-florida-keys-kid-friendly-resorts.jpg)](/images/amara-cay-resort-florida-keys-kid-friendly-resorts.jpg)</figure>
+<figure id="amara-cay-resort-florida-keys-kid-friendly-resorts"><a href="/images/amara-cay-resort-florida-keys-kid-friendly-resorts.jpg"><img src="/images/amara-cay-resort-florida-keys-kid-friendly-resorts.jpg" alt="" /></a></figure>
 
 #### [Amara Cay Resort](/go/amara-cay-resort-islamorada-florida-keys/)
 
@@ -202,7 +202,7 @@ Amara Cay Resort is located near many attractions and activities that families c
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-64e91e8d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Tranquility-bay-beachfront-resort-florida-keys-kid-friendly-resorts">[![](/images/Tranquility-bay-beachfront-resort-florida-keys-kid-friendly-resorts.jpg)](/images/Tranquility-bay-beachfront-resort-florida-keys-kid-friendly-resorts.jpg)</figure>
+<figure id="Tranquility-bay-beachfront-resort-florida-keys-kid-friendly-resorts"><a href="/images/Tranquility-bay-beachfront-resort-florida-keys-kid-friendly-resorts.jpg"><img src="/images/Tranquility-bay-beachfront-resort-florida-keys-kid-friendly-resorts.jpg" alt="" /></a></figure>
 
 #### [Tranquility Bay Beachfront Resort](/go/tranquility-bay-beachfront-resort-florida-keys/)
 
@@ -215,7 +215,7 @@ des.
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-dba076a5"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Playa-Largo-Resort-Spa-florida-keys-kid-friendly-resorts">[![](/images/Playa-Largo-Resort-Spa-florida-keys-kid-friendly-resorts.jpg)](/images/Playa-Largo-Resort-Spa-florida-keys-kid-friendly-resorts.jpg)</figure>
+<figure id="Playa-Largo-Resort-Spa-florida-keys-kid-friendly-resorts"><a href="/images/Playa-Largo-Resort-Spa-florida-keys-kid-friendly-resorts.jpg"><img src="/images/Playa-Largo-Resort-Spa-florida-keys-kid-friendly-resorts.jpg" alt="" /></a></figure>
 
 #### [Playa Largo Resort &amp; Spa, Autograph Collection](/go/playa-largo-resort-spa-key-largo-florida-keys/)
 
@@ -240,7 +240,7 @@ Finally, the resort's luxurious accommodations, including spacious guest rooms a
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a33b9dcb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="lime-tree-bay-resort-florida-keys-kid-friendly-resorts">[![](/images/lime-tree-bay-resort-florida-keys-kid-friendly-resorts.jpg)](/images/lime-tree-bay-resort-florida-keys-kid-friendly-resorts.jpg)</figure>
+<figure id="lime-tree-bay-resort-florida-keys-kid-friendly-resorts"><a href="/images/lime-tree-bay-resort-florida-keys-kid-friendly-resorts.jpg"><img src="/images/lime-tree-bay-resort-florida-keys-kid-friendly-resorts.jpg" alt="" /></a></figure>
 
 #### [Lime Tree Bay Resort](/go/lime-tree-bay-layton-long-key-florida-keys/)
 
@@ -280,5 +280,5 @@ If you want more information on planning your trip, check out our [guide for thi
 
 **Like it? Pin it!**
 
-<figure id="best-hotels-in-key-west-for-families-kid-friendly-florida-keys-resorts">[![](/images/best-hotels-in-key-west-for-families-kid-friendly-florida-keys-resorts-200x300.jpg)](/images/best-hotels-in-key-west-for-families-kid-friendly-florida-keys-resorts.jpg)</figure>
+<figure id="best-hotels-in-key-west-for-families-kid-friendly-florida-keys-resorts"><a href="/images/best-hotels-in-key-west-for-families-kid-friendly-florida-keys-resorts.jpg"><img src="/images/best-hotels-in-key-west-for-families-kid-friendly-florida-keys-resorts-200x300.jpg" alt="" /></a></figure>
 </div></section>

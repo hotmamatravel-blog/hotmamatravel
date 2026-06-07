@@ -94,5 +94,5 @@ Maintaining clear and healthy skin while traveling is essential for both your ph
 
 Like it? Pin it!
 
-<figure id="maintaining-skincare-while-traveling-the-world">[![](/images/maintaining-skincare-while-traveling-the-world-200x300.jpg)](/images/maintaining-skincare-while-traveling-the-world.jpg)</figure>
+<figure id="maintaining-skincare-while-traveling-the-world"><a href="/images/maintaining-skincare-while-traveling-the-world.jpg"><img src="/images/maintaining-skincare-while-traveling-the-world-200x300.jpg" alt="" /></a></figure>
 </div></div>

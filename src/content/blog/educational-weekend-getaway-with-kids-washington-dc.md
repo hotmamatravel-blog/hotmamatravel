@@ -65,5 +65,5 @@ Washington, D.C. and its surroundings offer an unparalleled combination of histo
 
 Like it? Pin it!
 
-<figure id="educational-weekend-washington-dc-kids" data-essb-pin-description="Educational weekend getaway in Washington DC with Kids - HotMamaTravel">[![Educational weekend getaway with kids in Washington DC](/images/educational-weekend-washington-dc-with-kids-200x300.jpg)](/images/educational-weekend-washington-dc-with-kids.jpg)</figure>
+<figure id="educational-weekend-washington-dc-kids" data-essb-pin-description="Educational weekend getaway in Washington DC with Kids - HotMamaTravel"><a href="/images/educational-weekend-washington-dc-with-kids.jpg"><img src="/images/educational-weekend-washington-dc-with-kids-200x300.jpg" alt="Educational weekend getaway with kids in Washington DC" /></a></figure>
 </div></div>

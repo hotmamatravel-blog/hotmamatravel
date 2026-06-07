@@ -94,5 +94,5 @@ To plan the ultimate Florida vacation, check out our other[Florida family travel
 
 Like it? Pin it!
 
-<figure id="st-pete-vs-clearwater">[![St. Pete vs. Clearwater which beach is best for families?](/images/ST.-PETE-VS-CLEARWATER-1-200x300.jpg)](/images/ST.-PETE-VS-CLEARWATER-1.jpg)</figure>
+<figure id="st-pete-vs-clearwater"><a href="/images/ST.-PETE-VS-CLEARWATER-1.jpg"><img src="/images/ST.-PETE-VS-CLEARWATER-1-200x300.jpg" alt="St. Pete vs. Clearwater which beach is best for families?" /></a></figure>
 </div></div>

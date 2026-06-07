@@ -17,7 +17,7 @@ Colorado is the state you want to go to if you are looking for a big adventure! 
 If you are looking to up the ante on your adventure, definitely consider glamping in Colorado. Colorado glamping will allow you to experience the great outdoors, but with the comforts of resort amenities. For your convenience, we have picked out some amazing Colorado glamping sites that I think you will love!&nbsp;&nbsp;
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4240f65a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="echo-canyon-campground-glamping-colorado">[![](/images/echo-canyon-campground-glamping-colorado.jpg)](/images/echo-canyon-campground-glamping-colorado.jpg)</figure>
+<figure id="echo-canyon-campground-glamping-colorado"><a href="/images/echo-canyon-campground-glamping-colorado.jpg"><img src="/images/echo-canyon-campground-glamping-colorado.jpg" alt="" /></a></figure>
 
 #### [Royal Gorge Cabins](/go/echo-canyon-campground-glamping-colorado/)
 
@@ -34,7 +34,7 @@ The spacious accommodations, complete with multiple bedrooms and modern amenitie
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2bc26b54"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="arapaho-valley-ranch-tipi-glamping-colorado">[![](/images/arapaho-valley-ranch-tipi-glamping-colorado.jpg)](/images/arapaho-valley-ranch-tipi-glamping-colorado.jpg)</figure>
+<figure id="arapaho-valley-ranch-tipi-glamping-colorado"><a href="/images/arapaho-valley-ranch-tipi-glamping-colorado.jpg"><img src="/images/arapaho-valley-ranch-tipi-glamping-colorado.jpg" alt="" /></a></figure>
 
 #### [Arapaho Valley Ranch](/go/arapaho-valley-ranch-glamping-colorado/)
 
@@ -51,7 +51,7 @@ Onsite, you have access to the Lodge House that is home to Colorado’s smallest
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b756eb24"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="dunton-river-camp-glamping-colorado">[![](/images/dunton-river-camp-glamping-colorado.jpg)](/images/dunton-river-camp-glamping-colorado.jpg)</figure>
+<figure id="dunton-river-camp-glamping-colorado"><a href="/images/dunton-river-camp-glamping-colorado.jpg"><img src="/images/dunton-river-camp-glamping-colorado.jpg" alt="" /></a></figure>
 
 #### [Dunton River Camp](/go/dunton-river-camp-glamping-colorado/)
 
@@ -68,7 +68,7 @@ Onsite, each tent gets two bikes for exploring the campsite or taking on nearby 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2bf6881f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="piney-river-ranch-glamping-colorado">[![](/images/piney-river-ranch-glamping-colorado-1024x573.jpg)](/images/piney-river-ranch-glamping-colorado.jpg)</figure>
+<figure id="piney-river-ranch-glamping-colorado"><a href="/images/piney-river-ranch-glamping-colorado.jpg"><img src="/images/piney-river-ranch-glamping-colorado-1024x573.jpg" alt="" /></a></figure>
 
 #### [Piney River Ranch](/go/piney-river-ranch-glamping-colorado/)
 
@@ -85,7 +85,7 @@ Onsite, you can enjoy the Lodge Restaurant &amp; Bar with a full-service menu fe
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0c6d4cfa"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="collective-vail-tents-glamping-colorado">[![](/images/collective-vail-tents-glamping-colorado.jpg)](/images/collective-vail-tents-glamping-colorado.jpg)</figure>
+<figure id="collective-vail-tents-glamping-colorado"><a href="/images/collective-vail-tents-glamping-colorado.jpg"><img src="/images/collective-vail-tents-glamping-colorado.jpg" alt="" /></a></figure>
 
 #### [Collective Retreats Vail](/go/collective-retreats-vail-glamping-colorado/)
 
@@ -143,6 +143,6 @@ There’s no doubt that after reading about these amazing glamping Colorado site
 
 **Like it? Pin it!**
 
-<figure id="5-best-tent-glamping-colorado">[![](/images/5-best-tent-glamping-colorado-200x300.jpg)](/images/5-best-tent-glamping-colorado.jpg)</figure>
+<figure id="5-best-tent-glamping-colorado"><a href="/images/5-best-tent-glamping-colorado.jpg"><img src="/images/5-best-tent-glamping-colorado-200x300.jpg" alt="" /></a></figure>
 </div></section>
 

@@ -102,5 +102,5 @@ How does it feel to be all set and fully prepared for your next vacation? Awesom
 
 **Like it? Pin it!**
 
-<figure id="best-travel-apps-that-travelers-must-have">[![](/images/best-travel-apps-for-travelers-200x300.jpg)](/images/best-travel-apps-for-travelers.jpg)</figure>
+<figure id="best-travel-apps-that-travelers-must-have"><a href="/images/best-travel-apps-for-travelers.jpg"><img src="/images/best-travel-apps-for-travelers-200x300.jpg" alt="" /></a></figure>
 </div></section>

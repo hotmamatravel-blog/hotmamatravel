@@ -41,7 +41,7 @@ As an alternative, you can jump straight ahead to our list of Clearwater Beach's
 
 **[Jump to: Best all-around](#hyatt-regency-clearwater)**
 
-<figure>[![Hyatt Regency Clearwater Pool](/images/clearwater-beach-family-pool-hyatt-regency.jpg)](#hyatt-regency-clearwater)<figcaption>Hyatt Regency Clearwater</figcaption></figure>
+<figure><a href="#hyatt-regency-clearwater"><img src="/images/clearwater-beach-family-pool-hyatt-regency.jpg" alt="Hyatt Regency Clearwater Pool" /></a><figcaption>Hyatt Regency Clearwater</figcaption></figure>
 
 </div>
 
@@ -49,22 +49,22 @@ As an alternative, you can jump straight ahead to our list of Clearwater Beach's
 
 **[Jump to: Top budget-friendly](#edge-hotel)**
 
-<figure>[![Edge Hotel Pool in Clearwater Beach Florida](/images/clearwater-beach-family-pool-edge-hotel.jpg)](#edge-hotel)<figcaption>Edge Hotel</figcaption></figure>
+<figure><a href="#edge-hotel"><img src="/images/clearwater-beach-family-pool-edge-hotel.jpg" alt="Edge Hotel Pool in Clearwater Beach Florida" /></a><figcaption>Edge Hotel</figcaption></figure>
 
 </div>
 </div>
 
 <div class="wp-block-columns has-3-columns">
 <div class="wp-block-column">
-<figure>[![Sandpearl Family Resort in Clearwater](/images/clearwater-beach-family-pool-sandpearl-resort.jpg)](#sandpearl-resort)<figcaption>Sandpearl Resort Clearwater Beach</figcaption></figure>
+<figure><a href="#sandpearl-resort"><img src="/images/clearwater-beach-family-pool-sandpearl-resort.jpg" alt="Sandpearl Family Resort in Clearwater" /></a><figcaption>Sandpearl Resort Clearwater Beach</figcaption></figure>
 </div>
 
 <div class="wp-block-column">
-<figure>[![Opal sands Clearwater beachfront dining](/images/clearwater-beach-family-hotel-opal-sands-sandbar.jpg)](#opal-sands)<figcaption>Opal Sands</figcaption></figure>
+<figure><a href="#opal-sands"><img src="/images/clearwater-beach-family-hotel-opal-sands-sandbar.jpg" alt="Opal sands Clearwater beachfront dining" /></a><figcaption>Opal Sands</figcaption></figure>
 </div>
 
 <div class="wp-block-column">
-<figure>[![Hilton Clearwater Family Resort](/images/clearwater-beach-family-hotel-hilton-resort-spa-tommys-tiki.jpg)](#hilton-clearwater)<figcaption>Hilton Clearwater Beach Resort &amp; Spa</figcaption></figure>
+<figure><a href="#hilton-clearwater"><img src="/images/clearwater-beach-family-hotel-hilton-resort-spa-tommys-tiki.jpg" alt="Hilton Clearwater Family Resort" /></a><figcaption>Hilton Clearwater Beach Resort &amp; Spa</figcaption></figure>
 </div>
 </div>
 
@@ -115,7 +115,7 @@ As an alternative, you can jump straight ahead to our list of Clearwater Beach's
 Pin'able Comparison Chart:
 </div>
 
-<div class="wp-block-image"><figure class="aligncenter is-resized">![Best family hotels in Clearwater Beach](/images/clearwarter-beach-family-hotels-checklist-683x1024.png)</figure></div>
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img src="/images/clearwarter-beach-family-hotels-checklist-683x1024.png" alt="Best family hotels in Clearwater Beach" /></figure></div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-color uagb-block-0cd5c6af-c661-4cad-9dbb-ef77c2fa6eec"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 <div class="wp-block-uagb-advanced-heading uagb-block-6d3bbd40-bca2-4b39-b6a6-a4935216d3ef" id="uagb-adv-heading-242039b0-fef4-495e-8d81-d929d5f9813c">
@@ -126,7 +126,7 @@ Pin'able Comparison Chart:
 4-star hotel |  301 South Gulfview Blvd, Clearwater Beach, FL, 33767
 </div>
 
-<figure>[![Hyatt Regency Clearwater](/images/family-hotel-clearwater-hyatt-regency-front.jpg)](/go/hyatt-regency-clearwater-florida/)<figcaption>Photo courtesy of Hyatt Regency Clearwater</figcaption></figure>
+<figure><a href="/go/hyatt-regency-clearwater-florida/"><img src="/images/family-hotel-clearwater-hyatt-regency-front.jpg" alt="Hyatt Regency Clearwater" /></a><figcaption>Photo courtesy of Hyatt Regency Clearwater</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-c95f957 ugb-main-block" id=""><style>.ugb-c95f957 .ugb-block-content{justify-content:center}.ugb-c95f957 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-c95f957 .ugb-button1 .ugb-button--inner,.ugb-c95f957 .ugb-button1 svg{color:#000000}.ugb-c95f957 .ugb-button1:before{border-radius:4px !important}.ugb-c95f957 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container">[<svg aria-hidden="true" data-icon="images" class="svg-inline--fa ugbfa-images fa-w-18 " role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512">
 </path></svg>**See more photos**](/go/hyatt-regency-clearwater-florida/)</div></div></div></div>
@@ -154,7 +154,7 @@ Pin'able Comparison Chart:
 </path></svg><div class="uagb-icon-list__label-wrap">There's a daily resort fee and parking fee </div></div></div><div class="uagb-icon-list-repeater-1 uagb-icon-list__wrapper"><div class="uagb-icon-list__content-wrap"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512">
 </path></svg><div class="uagb-icon-list__label-wrap">Awesome pool, but can get crowded</div></div></div></div></div>
 
-<div class="wp-block-image"><figure class="aligncenter">[![Room inside Hyatt regency clearwater](/images/inside-kid-friendly-clearwater-beach-hotel-hyatt-regency-guestrooms.jpg)](/go/hyatt-regency-clearwater-florida/)</figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><a href="/go/hyatt-regency-clearwater-florida/"><img src="/images/inside-kid-friendly-clearwater-beach-hotel-hyatt-regency-guestrooms.jpg" alt="Room inside Hyatt regency clearwater" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-8ca6be80-ac2e-486d-87cb-bfaaa90c01e9" id="uagb-adv-heading-d13a86d5-03e2-417c-8a43-8ea7111ad802">
 
@@ -180,7 +180,7 @@ When you aren’t enjoying a nice meal at SHOR, the hotel’s signature restaura
 3-star hotel |  505 South Gulfview Blvd,Clearwater Beach, FL 33767
 </div>
 
-<figure>[![Edge Hotel Clearwater Florida](/images/family-hotel-clearwater-beach-edge-hotel-front.jpg)](/go/edge-hotel-clearwater-florida/)<figcaption>Photo courtesy of Edge Hotel</figcaption></figure>
+<figure><a href="/go/edge-hotel-clearwater-florida/"><img src="/images/family-hotel-clearwater-beach-edge-hotel-front.jpg" alt="Edge Hotel Clearwater Florida" /></a><figcaption>Photo courtesy of Edge Hotel</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-c6ba0b8 ugb-main-block" id=""><style>.ugb-c6ba0b8 .ugb-block-content{justify-content:center}.ugb-c6ba0b8 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-c6ba0b8 .ugb-button1 .ugb-button--inner,.ugb-c6ba0b8 .ugb-button1 svg{color:#000000}.ugb-c6ba0b8 .ugb-button1:before{border-radius:4px !important}.ugb-c6ba0b8 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container">[<svg aria-hidden="true" data-icon="images" class="svg-inline--fa ugbfa-images fa-w-18 " role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512">
 </path></svg>**See more photos**](/go/edge-hotel-clearwater-florida/)</div></div></div></div>
@@ -208,7 +208,7 @@ When you aren’t enjoying a nice meal at SHOR, the hotel’s signature restaura
 </path></svg><div class="uagb-icon-list__label-wrap"> Not exactly beach "front", short walk to the beach </div></div></div><div class="uagb-icon-list-repeater-1 uagb-icon-list__wrapper"><div class="uagb-icon-list__content-wrap"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512">
 </path></svg><div class="uagb-icon-list__label-wrap"> Daily resort fee and limited parking </div></div></div></div></div>
 
-<div class="wp-block-image"><figure class="aligncenter">[![Inside Edge Hotel rooms in Clearwater](/images/inside-kid-friendly-clearwater-beach-hotel-edge-hotel-guestrooms.jpg)](/go/edge-hotel-clearwater-florida/)</figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><a href="/go/edge-hotel-clearwater-florida/"><img src="/images/inside-kid-friendly-clearwater-beach-hotel-edge-hotel-guestrooms.jpg" alt="Inside Edge Hotel rooms in Clearwater" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-67e35b32-9d8f-45e2-ad59-a77139cbd3bb" id="uagb-adv-heading-1fe3f0cb-5f90-4d94-9d4a-3ac4c69721ab">
 
@@ -234,7 +234,7 @@ For awesome family fun, hangout at the two front rooftop pools. One is a Gulf fr
 4-star hotel |  500 Mandalay Avenue, Clearwater Beach, FL 33767
 </div>
 
-<figure>[![Sandpearl Resort Clearwater](/images/family-hotel-clearwater-sandpearl-front.jpg)](/go/sandpearl-resort-clearwater-florida/)<figcaption>Photo courtesy of Sandpearl Resort Clearwater Beach</figcaption></figure>
+<figure><a href="/go/sandpearl-resort-clearwater-florida/"><img src="/images/family-hotel-clearwater-sandpearl-front.jpg" alt="Sandpearl Resort Clearwater" /></a><figcaption>Photo courtesy of Sandpearl Resort Clearwater Beach</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-d813104 ugb-main-block" id=""><style>.ugb-d813104 .ugb-block-content{justify-content:center}.ugb-d813104 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-d813104 .ugb-button1 .ugb-button--inner,.ugb-d813104 .ugb-button1 svg{color:#000000}.ugb-d813104 .ugb-button1:before{border-radius:4px !important}.ugb-d813104 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container">[<svg aria-hidden="true" data-icon="images" class="svg-inline--fa ugbfa-images fa-w-18 " role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512">
 </path></svg>**See more photos**](/go/sandpearl-resort-clearwater-florida/)</div></div></div></div>
@@ -259,7 +259,7 @@ For awesome family fun, hangout at the two front rooftop pools. One is a Gulf fr
 </path></svg><div class="uagb-icon-list__label-wrap">A luxury hotel, so not exactly budget-friendly </div></div></div><div class="uagb-icon-list-repeater-1 uagb-icon-list__wrapper"><div class="uagb-icon-list__content-wrap"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512">
 </path></svg><div class="uagb-icon-list__label-wrap">Daily resort and parking fees</div></div></div></div></div>
 
-<div class="wp-block-image"><figure class="aligncenter">[![Room inside Sandpearl Family resort Clearwater Florida](/images/inside-kid-friendly-clearwater-beach-hotel-sandpearl-resort-guestrooms.jpg)](/go/sandpearl-resort-clearwater-florida/)</figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><a href="/go/sandpearl-resort-clearwater-florida/"><img src="/images/inside-kid-friendly-clearwater-beach-hotel-sandpearl-resort-guestrooms.jpg" alt="Room inside Sandpearl Family resort Clearwater Florida" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-49510e69-f3df-4f48-b021-42f59aed65d6" id="uagb-adv-heading-12450d63-995e-4405-8614-0a617590a903">
 
@@ -285,7 +285,7 @@ Kids are going to love Camp Ridley, the fun-filled kid’s club which includes n
 4-star hotel |  430 S Gulfview Blvd, Clearwater Beach, FL 33767
 </div>
 
-<figure>[![Opal Sands Clearwater FL](/images/family-hotel-clearwater-beach-opal-sands-front.jpg)](/go/opal-sands-resort-clearwater-florida/)<figcaption>Photo Courtesy of Opal Sands</figcaption></figure>
+<figure><a href="/go/opal-sands-resort-clearwater-florida/"><img src="/images/family-hotel-clearwater-beach-opal-sands-front.jpg" alt="Opal Sands Clearwater FL" /></a><figcaption>Photo Courtesy of Opal Sands</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-7d5b480 ugb-main-block" id=""><style>.ugb-7d5b480 .ugb-block-content{justify-content:center}.ugb-7d5b480 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-7d5b480 .ugb-button1 .ugb-button--inner,.ugb-7d5b480 .ugb-button1 svg{color:#000000}.ugb-7d5b480 .ugb-button1:before{border-radius:4px !important}.ugb-7d5b480 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container">[<svg aria-hidden="true" data-icon="images" class="svg-inline--fa ugbfa-images fa-w-18 " role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512">
 </path></svg>**See more photos**](/go/opal-sands-resort-clearwater-florida/)</div></div></div></div>
@@ -310,7 +310,7 @@ Kids are going to love Camp Ridley, the fun-filled kid’s club which includes n
 </path></svg><div class="uagb-icon-list__label-wrap">non-private beach can get crowded </div></div></div><div class="uagb-icon-list-repeater-1 uagb-icon-list__wrapper"><div class="uagb-icon-list__content-wrap"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512">
 </path></svg><div class="uagb-icon-list__label-wrap">Daily resort fee and parking fee</div></div></div></div></div>
 
-<div class="wp-block-image"><figure class="aligncenter">[![Inside rooms at Opal Sands Clearwater Beach](/images/inside-kid-friendly-clearwater-beach-hotel-opal-sands-guestrooms.jpg)](/go/opal-sands-resort-clearwater-florida/)</figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><a href="/go/opal-sands-resort-clearwater-florida/"><img src="/images/inside-kid-friendly-clearwater-beach-hotel-opal-sands-guestrooms.jpg" alt="Inside rooms at Opal Sands Clearwater Beach" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-f66ad7da-1735-428b-bb48-17733d9ca47f" id="uagb-adv-heading-151a39dc-c5f7-4811-914c-8caacf61266c">
 
@@ -336,7 +336,7 @@ Families will love the tropical Gulf front zero-entry pool. The pool is only 3-f
 4-star hotel |  400 Mandalay Ave, Clearwater Beach, FL 33767
 </div>
 
-<figure>[![Hilton Clearwater kid-friendly hotel](/images/family-hotel-clearwater-hilton-resort-spa-front.jpg)](/go/hilton-clearwater-florida/)<figcaption>Photo courtesy of Hilton Clearwater Beach Resort &amp; Spa</figcaption></figure>
+<figure><a href="/go/hilton-clearwater-florida/"><img src="/images/family-hotel-clearwater-hilton-resort-spa-front.jpg" alt="Hilton Clearwater kid-friendly hotel" /></a><figcaption>Photo courtesy of Hilton Clearwater Beach Resort &amp; Spa</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-cef73cd ugb-main-block" id=""><style>.ugb-cef73cd .ugb-block-content{justify-content:center}.ugb-cef73cd .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-cef73cd .ugb-button1 .ugb-button--inner,.ugb-cef73cd .ugb-button1 svg{color:#000000}.ugb-cef73cd .ugb-button1:before{border-radius:4px !important}.ugb-cef73cd .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container">[<svg aria-hidden="true" data-icon="images" class="svg-inline--fa ugbfa-images fa-w-18 " role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512">
 </path></svg>**See more photos**](/go/hilton-clearwater-florida/)</div></div></div></div>
@@ -361,7 +361,7 @@ Families will love the tropical Gulf front zero-entry pool. The pool is only 3-f
 </path></svg><div class="uagb-icon-list__label-wrap">Beach rental fees (cabanas, umbrellas, etc) </div></div></div><div class="uagb-icon-list-repeater-1 uagb-icon-list__wrapper"><div class="uagb-icon-list__content-wrap"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512">
 </path></svg><div class="uagb-icon-list__label-wrap">Smaller rooms (double beds standard)</div></div></div></div></div>
 
-<div class="wp-block-image"><figure class="aligncenter">[![Hotel rooms in Clearwater Hilton](/images/inside-kid-friendly-clearwater-beach-hotel-hilton-resort-spa-guestrooms.jpg)](/go/hilton-clearwater-florida/)</figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><a href="/go/hilton-clearwater-florida/"><img src="/images/inside-kid-friendly-clearwater-beach-hotel-hilton-resort-spa-guestrooms.jpg" alt="Hotel rooms in Clearwater Hilton" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-6c4b30dd-0eab-499c-a213-cfcde8e14141" id="uagb-adv-heading-325cd71c-021e-4a07-b90a-cf06faf63c83">
 
@@ -396,11 +396,11 @@ Well there you have it! I hope our list has helped you make a decision on where 
 
 <div class="wp-block-columns has-2-columns">
 <div class="wp-block-column">
-<div class="wp-block-image"><figure class="aligncenter">![Best family hotels in Clearwater Beach Florida](/images/clearwater-beach-best-family-hotels-200x300.png)</figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img src="/images/clearwater-beach-best-family-hotels-200x300.png" alt="Best family hotels in Clearwater Beach Florida" /></figure></div>
 </div>
 
 <div class="wp-block-column">
-<div class="wp-block-image"><figure class="aligncenter">![Best family hotels in Clearwater Beach](/images/clearwarter-beach-family-hotels-checklist-200x300.png)</figure></div>
+<div class="wp-block-image"><figure class="aligncenter"><img src="/images/clearwarter-beach-family-hotels-checklist-200x300.png" alt="Best family hotels in Clearwater Beach" /></figure></div>
 </div>
 </div>
 

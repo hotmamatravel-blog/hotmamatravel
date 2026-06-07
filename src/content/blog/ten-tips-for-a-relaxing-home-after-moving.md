@@ -132,5 +132,5 @@ Creating a relaxing home, especially after the physically, mentally, and emotion
 
 Like it? Pin it!
 
-<figure id="10-tips-for-a-relaxing-home-after-moving">[![](/images/10-tips-for-a-relaxing-home-after-moving-200x300.jpg)](/images/10-tips-for-a-relaxing-home-after-moving.jpg)</figure>
+<figure id="10-tips-for-a-relaxing-home-after-moving"><a href="/images/10-tips-for-a-relaxing-home-after-moving.jpg"><img src="/images/10-tips-for-a-relaxing-home-after-moving-200x300.jpg" alt="" /></a></figure>
 </div></div>

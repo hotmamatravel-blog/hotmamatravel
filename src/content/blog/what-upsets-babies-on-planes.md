@@ -78,6 +78,6 @@ Equipped with this knowledge, families can approach air travel with confidence, 
 
 Like it? Pin it!
 
-<figure id="what-upsets-babies-on-planes-what-to-avoid">[![What Upsets Babies On Planes, 5 Things To Know In Advance
-](/images/what-upsets-babies-on-planes-1-200x300.jpg)](/images/what-upsets-babies-on-planes-1.jpg)</figure>
+<figure id="what-upsets-babies-on-planes-what-to-avoid"><a href="/images/what-upsets-babies-on-planes-1.jpg"><img src="/images/what-upsets-babies-on-planes-1-200x300.jpg" alt="What Upsets Babies On Planes, 5 Things To Know In Advance
+" /></a></figure>
 </div></div>

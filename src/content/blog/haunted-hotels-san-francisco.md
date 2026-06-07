@@ -25,7 +25,7 @@ And while you’re here chasing ghosts, don’t miss exploring one of the city�
 
 Whether you're a believer in the paranormal or simply intrigued by the stories, these haunted hotels in San Francisco promise a stay that transcends the ordinary and captures the city's rich and enigmatic past.
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="queen-anne-hotel-haunted-hotels-california"><figure>[![Haunted hotels in San Francisco California, The Queen Anne Hotel](/images/queen-anne-hotel-haunted-hotels-california.jpg)](/images/queen-anne-hotel-haunted-hotels-california.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="queen-anne-hotel-haunted-hotels-california"><figure><a href="/images/queen-anne-hotel-haunted-hotels-california.jpg"><img src="/images/queen-anne-hotel-haunted-hotels-california.jpg" alt="Haunted hotels in San Francisco California, The Queen Anne Hotel" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -60,7 +60,7 @@ Mornings start with a complimentary continental breakfast served in a beautiful 
 
 **[See Photos, Reviews, &amp; More](/go/the-queen-anne-hotel-ca/)**
 
-<div class="wp-block-uagb-image uagb-block-891de3cf wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="fairmont-san-francisco-haunted-hotels-san-francisco"><figure>[![Fairmont San Francison a haunted hotel in San Francisco](/images/fairmont-san-francisco-haunted-hotels-san-francisco.jpg)](/images/fairmont-san-francisco-haunted-hotels-san-francisco.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-891de3cf wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="fairmont-san-francisco-haunted-hotels-san-francisco"><figure><a href="/images/fairmont-san-francisco-haunted-hotels-san-francisco.jpg"><img src="/images/fairmont-san-francisco-haunted-hotels-san-francisco.jpg" alt="Fairmont San Francison a haunted hotel in San Francisco" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-0b86c5c2">
 
@@ -93,7 +93,7 @@ The Fairmont San Francisco is luxury with a family twist, and that’s why it ge
 
 **[See Photos, Reviews, &amp; More](/go/fairmont-san-francisco/)**
 
-<div class="wp-block-uagb-image uagb-block-11505db6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="beacon-grand-haunted-hotels-san-francisco"><figure>[![Haunted Beacon Grand formerly Sir Francis Drake Hotel in San Francisco](/images/beacon-grand-haunted-hotels-san-francisco.jpg)](/images/beacon-grand-haunted-hotels-san-francisco.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-11505db6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="beacon-grand-haunted-hotels-san-francisco"><figure><a href="/images/beacon-grand-haunted-hotels-san-francisco.jpg"><img src="/images/beacon-grand-haunted-hotels-san-francisco.jpg" alt="Haunted Beacon Grand formerly Sir Francis Drake Hotel in San Francisco" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-775be6af">
 
@@ -124,7 +124,7 @@ The Beacon Grand is where style meets family comfort in the heart of Union Squar
 
 **[See Photos, Reviews, &amp; More](/go/beacon-grand-hotel-san-francisco/)**
 
-<div class="wp-block-uagb-image uagb-block-4cf1fdbd wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="westin-st-francis-haunted-hotels-san-francisco"><figure>[![Haunted Hotels in San Francisco Westin St. Francis Union Square](/images/westin-st-francis-haunted-hotels-san-francisco.jpg)](/images/westin-st-francis-haunted-hotels-san-francisco.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-4cf1fdbd wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="westin-st-francis-haunted-hotels-san-francisco"><figure><a href="/images/westin-st-francis-haunted-hotels-san-francisco.jpg"><img src="/images/westin-st-francis-haunted-hotels-san-francisco.jpg" alt="Haunted Hotels in San Francisco Westin St. Francis Union Square" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-5e3bf805">
 
@@ -179,5 +179,5 @@ And to expand your vacation, check out more [**California family travel ideas**]
 
 Like it? Pin it!
 
-<figure id="haunted-hotels-san-francisco" data-essb-pin-description="Explore the spookier side of San Francisco! Discover haunted hotels that are perfect for families, complete with ghostly tales, historic charm, and kid-friendly perks. Plus, tips for visiting Alcatraz make this a must-read guide for curious adventurers.">[![most haunted hotels San Francisco](/images/most-haunted-hotels-san-francisco-to-stay-in-200x300.jpg)](/images/most-haunted-hotels-san-francisco-to-stay-in.jpg)</figure>
+<figure id="haunted-hotels-san-francisco" data-essb-pin-description="Explore the spookier side of San Francisco! Discover haunted hotels that are perfect for families, complete with ghostly tales, historic charm, and kid-friendly perks. Plus, tips for visiting Alcatraz make this a must-read guide for curious adventurers."><a href="/images/most-haunted-hotels-san-francisco-to-stay-in.jpg"><img src="/images/most-haunted-hotels-san-francisco-to-stay-in-200x300.jpg" alt="most haunted hotels San Francisco" /></a></figure>
 </div></div>

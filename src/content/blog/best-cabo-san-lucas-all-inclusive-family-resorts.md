@@ -17,7 +17,7 @@ Cabo San Lucas is a resort city that offers desert, sea, and sun in one unique d
 Cabo is a great destination for a worry-free family vacation as it is home to some of the best all-inclusive resorts in [Mexico](https://www.divein.com/travel/all-inclusive-resorts-in-mexico/). They have everything a family could want, from a wide variety in dining options, kids’ clubs, themed parties, amazing pools and much more. If you are interested in planning your vacation, here are some of the best Cabo San Lucas all-inclusive family resorts.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9a6e1bb3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="grand-fiesta-americana-family-resort-cabo-all-inclusive">[![](/images/grand-fiesta-americana-family-resort-cabo-all-inclusive.jpg)](/images/grand-fiesta-americana-family-resort-cabo-all-inclusive.jpg)</figure>
+<figure id="grand-fiesta-americana-family-resort-cabo-all-inclusive"><a href="/images/grand-fiesta-americana-family-resort-cabo-all-inclusive.jpg"><img src="/images/grand-fiesta-americana-family-resort-cabo-all-inclusive.jpg" alt="" /></a></figure>
 
 #### **[Grand Fiesta Americana Los Cabos Golf &amp; Spa Resort](/go/grand-fiesta-americana-los-cabos/)**
 
@@ -36,7 +36,7 @@ All those activities are sure to work up an appetite! Luckily, there are a dozen
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a7bdefcd"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="hard-rock-hotel-los-cabos-family-resort-all-inclusive">[![](/images/hard-rock-hotel-los-cabos-family-resort-all-inclusive.jpg)](/images/hard-rock-hotel-los-cabos-family-resort-all-inclusive.jpg)</figure>
+<figure id="hard-rock-hotel-los-cabos-family-resort-all-inclusive"><a href="/images/hard-rock-hotel-los-cabos-family-resort-all-inclusive.jpg"><img src="/images/hard-rock-hotel-los-cabos-family-resort-all-inclusive.jpg" alt="" /></a></figure>
 
 #### **[Hard Rock Hotel Los Cabos](/go/hard-rock-hotel-los-cabos/)**
 
@@ -55,7 +55,7 @@ Time to make a splash. Your kids will love the 5 expansive pools that include sw
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bb9387b4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="dreams-los-cabos-family-resort-movie-under-stars">[![](/images/dreams-los-cabos-family-resort-movie-under-stars.jpg)](/images/dreams-los-cabos-family-resort-movie-under-stars.jpg)</figure>
+<figure id="dreams-los-cabos-family-resort-movie-under-stars"><a href="/images/dreams-los-cabos-family-resort-movie-under-stars.jpg"><img src="/images/dreams-los-cabos-family-resort-movie-under-stars.jpg" alt="" /></a></figure>
 
 #### **[Dreams Los Cabos Suites Golf Resort &amp; Spa](/go/dreams-los-cabos/)**
 
@@ -74,7 +74,7 @@ Eat and drink to your heart’s content with 24-hour room service, numerous swim
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7f529210"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="grand-velas-los-cabos-all-inclusive-family-resort">[![](/images/grand-velas-los-cabos-all-inclusive-family-resort.jpg)](/images/grand-velas-los-cabos-all-inclusive-family-resort.jpg)</figure>
+<figure id="grand-velas-los-cabos-all-inclusive-family-resort"><a href="/images/grand-velas-los-cabos-all-inclusive-family-resort.jpg"><img src="/images/grand-velas-los-cabos-all-inclusive-family-resort.jpg" alt="" /></a></figure>
 
 #### **[Grand Velas Los Cabos](/go/grand-vela-los-cabos/)**
 
@@ -91,7 +91,7 @@ Spend your day lounging by pools, taking advantage of the resort’s Land and Se
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e0b94075"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="barcelo-gran-faro-los-cabos-all-inclusive-family-resort">[![](/images/barcelo-gran-faro-los-cabos-all-inclusive-family-resort.jpg)](/images/barcelo-gran-faro-los-cabos-all-inclusive-family-resort.jpg)</figure>
+<figure id="barcelo-gran-faro-los-cabos-all-inclusive-family-resort"><a href="/images/barcelo-gran-faro-los-cabos-all-inclusive-family-resort.jpg"><img src="/images/barcelo-gran-faro-los-cabos-all-inclusive-family-resort.jpg" alt="" /></a></figure>
 
 #### **[Barcelo Gran Faro Los Cabos](/go/barcelo-gran-faro-los-cabos/)**
 
@@ -108,7 +108,7 @@ Not only will the whole family enjoy their day swimming, dining and engaging in 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d5db043a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="hyatt-ziva-los-cabos-all-inclusive-family-resort">[![](/images/hyatt-ziva-los-cabos-all-inclusive-family-resort.jpg)](/images/hyatt-ziva-los-cabos-all-inclusive-family-resort.jpg)</figure>
+<figure id="hyatt-ziva-los-cabos-all-inclusive-family-resort"><a href="/images/hyatt-ziva-los-cabos-all-inclusive-family-resort.jpg"><img src="/images/hyatt-ziva-los-cabos-all-inclusive-family-resort.jpg" alt="" /></a></figure>
 
 #### **[Hyatt Ziva Los Cabos](/go/hyatt-ziva-los-cabos/)**
 
@@ -125,7 +125,7 @@ More for the kids to enjoy is the KidZ Club that is loaded with fun games, arts 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9c54f5bb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="riu-santa-fe-cabo-all-inclusive-family-resort">[![](/images/riu-santa-fe-cabo-all-inclusive-family-resort.jpg)](/images/riu-santa-fe-cabo-all-inclusive-family-resort.jpg)</figure>
+<figure id="riu-santa-fe-cabo-all-inclusive-family-resort"><a href="/images/riu-santa-fe-cabo-all-inclusive-family-resort.jpg"><img src="/images/riu-santa-fe-cabo-all-inclusive-family-resort.jpg" alt="" /></a></figure>
 
 #### **[Riu Santa Fe](/go/riu-santa-fe-cabo-san-lucas/)**
 
@@ -142,7 +142,7 @@ All that fun will surely work up an appetite, so take advantage of the buffets o
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c9bf95f7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="riu-palace-cabo-san-lucas-all-inclusive-family-resort">[![](/images/riu-palace-cabo-san-lucas-all-inclusive-family-resort.jpg)](/images/riu-palace-cabo-san-lucas-all-inclusive-family-resort.jpg)</figure>
+<figure id="riu-palace-cabo-san-lucas-all-inclusive-family-resort"><a href="/images/riu-palace-cabo-san-lucas-all-inclusive-family-resort.jpg"><img src="/images/riu-palace-cabo-san-lucas-all-inclusive-family-resort.jpg" alt="" /></a></figure>
 
 #### **[Riu Palace Cabo San Lucas](/go/riu-palace-cabo-san-lucas/)**
 
@@ -176,5 +176,5 @@ For more all-inclusive family-friendly resorts, explore our other destinations!
 
 **Like it? Pin it!**
 
-<figure id="8-Awesome-Cabo-San-Lucas-All-Inclusive-Family-Resorts">[![](/images/Cabo-All-Inclusive-Family-Resorts-200x300.jpg)](/images/Cabo-All-Inclusive-Family-Resorts.jpg)</figure>
+<figure id="8-Awesome-Cabo-San-Lucas-All-Inclusive-Family-Resorts"><a href="/images/Cabo-All-Inclusive-Family-Resorts.jpg"><img src="/images/Cabo-All-Inclusive-Family-Resorts-200x300.jpg" alt="" /></a></figure>
 </div></section>

@@ -53,7 +53,7 @@ Aim for midweek flights to score the best prices. Tuesday and Wednesday departur
 
 There are two main terminals: Terminal 1 (domestic flights) and Terminal 3 (international and some domestic flights). Each terminal has its own parking garage, ticketing and check-in area, baggage claim, and a variety of shopping and dining options. Since the two terminals aren't physically connected, it’s crucial to know which terminal your airline operates from.
 
-<div class="wp-block-uagb-image uagb-block-2dde4673 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="map-harry-reid-las-vegas-airport"><figure>[![Map of terminals at Harry Reid Las Vegas Airport](/images/map-harry-reid-las-vegas-airport.jpg)](/images/map-harry-reid-las-vegas-airport.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-2dde4673 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="map-harry-reid-las-vegas-airport"><figure><a href="/images/map-harry-reid-las-vegas-airport.jpg"><img src="/images/map-harry-reid-las-vegas-airport.jpg" alt="Map of terminals at Harry Reid Las Vegas Airport" /></a></figure></div>
 
 **Ground Transportation from Las Vegas Airport to The Strip:** Once you land, you have several options to get to your hotel.
 
@@ -205,5 +205,5 @@ Safe travels and see you in Vegas!
 
 Like it? Pin it!
 
-<figure id="how-to-get-to-las-vegas-for-families">[![How to get to Las Vegas with kids](/images/how-to-get-to-las-vegas-for-families-1-200x300.jpg)](/images/how-to-get-to-las-vegas-for-families-1.jpg)</figure>
+<figure id="how-to-get-to-las-vegas-for-families"><a href="/images/how-to-get-to-las-vegas-for-families-1.jpg"><img src="/images/how-to-get-to-las-vegas-for-families-1-200x300.jpg" alt="How to get to Las Vegas with kids" /></a></figure>
 </div></div>

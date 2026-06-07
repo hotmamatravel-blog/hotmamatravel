@@ -94,5 +94,5 @@ Furthermore, there are plenty of ways in which you can continue to practice self
 
 **Like it? Pin it!**
 
-<figure id="importance-self-care-when-traveling">[![](/images/importance-self-care-when-traveling-200x300.jpg)](/images/importance-self-care-when-traveling.jpg)</figure>
+<figure id="importance-self-care-when-traveling"><a href="/images/importance-self-care-when-traveling.jpg"><img src="/images/importance-self-care-when-traveling-200x300.jpg" alt="" /></a></figure>
 </div></section>

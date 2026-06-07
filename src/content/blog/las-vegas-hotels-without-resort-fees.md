@@ -27,7 +27,7 @@ However, fear not! There are still several hotels in Las Vegas that do not charg
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure id="travelodge-wyndham-las-vegas-hotels-without-resort-fees">[![Travelodge by Wyndham Las Vegas Hotels without resort fees](/images/travelodge-wyndham-las-vegas-hotels-without-resort-fees.jpg)](/images/travelodge-wyndham-las-vegas-hotels-without-resort-fees.jpg)</figure>
+<figure id="travelodge-wyndham-las-vegas-hotels-without-resort-fees"><a href="/images/travelodge-wyndham-las-vegas-hotels-without-resort-fees.jpg"><img src="/images/travelodge-wyndham-las-vegas-hotels-without-resort-fees.jpg" alt="Travelodge by Wyndham Las Vegas Hotels without resort fees" /></a></figure>
 
 Courtesy of Travelodge by Wyndham
 
@@ -47,7 +47,7 @@ The Travelodge by Wyndham Las Vegas and Casino is a solid choice for anyone look
 
 [**See photos, reviews &amp; more**](/go/travelodge-wyndham-las-vegas-center-strip/)
 
-<figure id="four-queens-las-vegas-hotels-without-resort-fees">[![Downtown Las Vegas hotels without resort fees at Four Queens](/images/four-queens-las-vegas-hotels-without-resort-fees.jpg)](/images/four-queens-las-vegas-hotels-without-resort-fees.jpg)</figure>
+<figure id="four-queens-las-vegas-hotels-without-resort-fees"><a href="/images/four-queens-las-vegas-hotels-without-resort-fees.jpg"><img src="/images/four-queens-las-vegas-hotels-without-resort-fees.jpg" alt="Downtown Las Vegas hotels without resort fees at Four Queens" /></a></figure>
 
 Courtesy of Vegas.com
 
@@ -67,7 +67,7 @@ So, there you have it, the [Four Queens Hotel and Casino](https://www.fourqueens
 
 [**See photos, reviews &amp; more**](/go/four-queens-hotel-las-vegas/)
 
-<figure id="best-wester-plus-casino-royale-las-vegas-hotels-without-resort-fees">[![Great location! Best Western Plus Casino Royale Las Vegas hotel without resort fees.](/images/best-wester-plus-casino-royale-las-vegas-hotels-without-resort-fees.jpg)](/images/best-wester-plus-casino-royale-las-vegas-hotels-without-resort-fees.jpg)</figure>
+<figure id="best-wester-plus-casino-royale-las-vegas-hotels-without-resort-fees"><a href="/images/best-wester-plus-casino-royale-las-vegas-hotels-without-resort-fees.jpg"><img src="/images/best-wester-plus-casino-royale-las-vegas-hotels-without-resort-fees.jpg" alt="Great location! Best Western Plus Casino Royale Las Vegas hotel without resort fees." /></a></figure>
 
 Courtesy of BestWestern.com
 
@@ -85,7 +85,7 @@ The [Best Western Plus Casino Royale](https://www.casinoroyalehotel.com/) is a g
 
 [**See photos, reviews &amp; more**](/go/best-western-plus-casino-royale-center-strip-las-vegas/)
 
-<figure id="silver-sevens-las-vegas-hotels-without-resort-fees">[![Las Vegas hotels without resort fees Silver Sevens Hotel &amp; Casino](/images/silver-sevens-las-vegas-hotels-without-resort-fees.jpg)](/images/silver-sevens-las-vegas-hotels-without-resort-fees.jpg)</figure>
+<figure id="silver-sevens-las-vegas-hotels-without-resort-fees"><a href="/images/silver-sevens-las-vegas-hotels-without-resort-fees.jpg"><img src="/images/silver-sevens-las-vegas-hotels-without-resort-fees.jpg" alt="Las Vegas hotels without resort fees Silver Sevens Hotel &amp; Casino" /></a></figure>
 
 Courtesy of Silver Sevens
 
@@ -101,7 +101,7 @@ When you're ready to relax, you can take a dip in the hotel's outdoor pool or wo
 
 [**See photos, reviews &amp; more**](/go/silver-sevens-hotel-casino-las-vegas/)
 
-<figure id="candlewood-suites-vegas-hotels-without-resort-fees">[![Candlewood Suites Las Vegas hotels without resort fees](/images/candlewood-suites-vegas-hotels-without-resort-fees.jpg)](/images/candlewood-suites-vegas-hotels-without-resort-fees.jpg)</figure>
+<figure id="candlewood-suites-vegas-hotels-without-resort-fees"><a href="/images/candlewood-suites-vegas-hotels-without-resort-fees.jpg"><img src="/images/candlewood-suites-vegas-hotels-without-resort-fees.jpg" alt="Candlewood Suites Las Vegas hotels without resort fees" /></a></figure>
 
 Courtesy of Candlewood Suites
 
@@ -119,7 +119,7 @@ The Candlewood Suites Las Vegas is a great choice for anyone looking for a comfo
 
 [**See photos, reviews &amp; more**](/go/candlewood-suites-las-vegas/)
 
-<figure id="mariott-grand-chateau-vegas-hotels-without-resort-fees">[![Marriott Grand Chateau luxurious Las Vegas hotels without resort fees](/images/mariott-grand-chateau-vegas-hotels-without-resort-fees.jpg)](/images/mariott-grand-chateau-vegas-hotels-without-resort-fees.jpg)</figure>
+<figure id="mariott-grand-chateau-vegas-hotels-without-resort-fees"><a href="/images/mariott-grand-chateau-vegas-hotels-without-resort-fees.jpg"><img src="/images/mariott-grand-chateau-vegas-hotels-without-resort-fees.jpg" alt="Marriott Grand Chateau luxurious Las Vegas hotels without resort fees" /></a></figure>
 
 Courtesy of Marriott
 
@@ -137,7 +137,7 @@ Marriott's Grand Chateau is the perfect choice for anyone looking for a luxuriou
 
 [**See photos, reviews &amp; more**](/go/marriott-grand-chateau-las-vegas/)
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hotel-apache-binions-las-vegas"><figure>[![Hotel Apache at Binion](/images/hotel-apache-binions-las-vegas.jpg)](/images/hotel-apache-binions-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hotel-apache-binions-las-vegas"><figure><a href="/images/hotel-apache-binions-las-vegas.jpg"><img src="/images/hotel-apache-binions-las-vegas.jpg" alt="Hotel Apache at Binion" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -174,5 +174,5 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 **Like it? Pin it!**
 
-<figure id="las-vegas-hotels-without-resort-fees-near-or-on-the-strip">[![](/images/las-vegas-hotels-without-resort-fees-near-or-on-the-strip-200x300.jpg)](/images/las-vegas-hotels-without-resort-fees-near-or-on-the-strip.jpg)</figure>
+<figure id="las-vegas-hotels-without-resort-fees-near-or-on-the-strip"><a href="/images/las-vegas-hotels-without-resort-fees-near-or-on-the-strip.jpg"><img src="/images/las-vegas-hotels-without-resort-fees-near-or-on-the-strip-200x300.jpg" alt="" /></a></figure>
 </div></section>

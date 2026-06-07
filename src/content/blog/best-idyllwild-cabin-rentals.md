@@ -25,7 +25,7 @@ And guess what? We're not just talking about any accommodation; we're diving int
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Fireside-idyllwild-places-to-stay"><figure>[![Fireside Inn Idyllwild Cabin Rentals](/images/Fireside-idyllwild-places-to-stay.jpg)](/images/Fireside-idyllwild-places-to-stay.jpg)<figcaption class="uagb-image-caption">Courtesy of Fireside Inn</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Fireside-idyllwild-places-to-stay"><figure><a href="/images/Fireside-idyllwild-places-to-stay.jpg"><img src="/images/Fireside-idyllwild-places-to-stay.jpg" alt="Fireside Inn Idyllwild Cabin Rentals" /></a><figcaption class="uagb-image-caption">Courtesy of Fireside Inn</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -38,7 +38,7 @@ We stayed here for the first time in 2010 and really enjoyed the cute lodge room
 
 **[See Photos, Reviews, &amp; More](/fireside-inn-idyllwild/)**
 
-<div class="wp-block-uagb-image uagb-block-4ed8c3c6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Idyllwild-Inn-idyllwild-places-to-stay"><figure>[![family-friendly idyllwild cabin rentals at Idyllwild Inn](/images/Idyllwild-Inn-idyllwild-places-to-stay.jpg)](/images/Idyllwild-Inn-idyllwild-places-to-stay.jpg)<figcaption class="uagb-image-caption">Courtesy of Idyllwild Inn</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-4ed8c3c6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Idyllwild-Inn-idyllwild-places-to-stay"><figure><a href="/images/Idyllwild-Inn-idyllwild-places-to-stay.jpg"><img src="/images/Idyllwild-Inn-idyllwild-places-to-stay.jpg" alt="family-friendly idyllwild cabin rentals at Idyllwild Inn" /></a><figcaption class="uagb-image-caption">Courtesy of Idyllwild Inn</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-d04d1135">
 
@@ -51,7 +51,7 @@ At [Idyllwild Inn](https://www.idyllwildinn.com/), guests have the option of sta
 
 **[See Photos, Reviews, &amp; More](/go/idyllwild-inn/)**
 
-<div class="wp-block-uagb-image uagb-block-543a6609 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Creekstone-Inn-idyllwild-places-to-stay"><figure>[![kid-friendly Creekstone Inn Idyllwild](/images/Creekstone-Inn-idyllwild-places-to-stay.jpg)](/images/Creekstone-Inn-idyllwild-places-to-stay.jpg)<figcaption class="uagb-image-caption">Courtesy of Creekstone Inn</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-543a6609 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Creekstone-Inn-idyllwild-places-to-stay"><figure><a href="/images/Creekstone-Inn-idyllwild-places-to-stay.jpg"><img src="/images/Creekstone-Inn-idyllwild-places-to-stay.jpg" alt="kid-friendly Creekstone Inn Idyllwild" /></a><figcaption class="uagb-image-caption">Courtesy of Creekstone Inn</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-69f1e051">
 
@@ -68,7 +68,7 @@ Conveniently situated on the tranquil end of town, Creekstone Inn nestles beneat
 
 **[See Photos, Reviews, &amp; More](/go/creekstone-inn-idyllwild/)**
 
-<div class="wp-block-uagb-image uagb-block-2a5ae334 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="BlueBird-Cottage-idyllwild-places-to-stay"><figure>[![BlueBird Cottage Idyllwild Cabin Rentals](/images/BlueBird-Cottage-idyllwild-places-to-stay.jpg)](/images/BlueBird-Cottage-idyllwild-places-to-stay.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-2a5ae334 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="BlueBird-Cottage-idyllwild-places-to-stay"><figure><a href="/images/BlueBird-Cottage-idyllwild-places-to-stay.jpg"><img src="/images/BlueBird-Cottage-idyllwild-places-to-stay.jpg" alt="BlueBird Cottage Idyllwild Cabin Rentals" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-620067f9">
 
@@ -85,7 +85,7 @@ At the [BlueBird Cottage Inn](http://www.bluebirdcottageinn.com/), guests can ch
 
 **[See Photos, Reviews, &amp; More](/go/bluebird-cottage-inn-idyllwild/)**
 
-<div class="wp-block-uagb-image uagb-block-c2eb5d57 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="strawberry-creek-inn-Idyllwild-cabin-rentals"><figure>[![Strawberry Creek Inn Bed &amp; Breakfast Idyllwild](/images/strawberry-creek-inn-Idyllwild-cabin-rentals.jpg)](/images/strawberry-creek-inn-Idyllwild-cabin-rentals.jpg)<figcaption class="uagb-image-caption">Courtesy of Strawberry Creek Inn Bed &amp; Breakfast</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-c2eb5d57 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="strawberry-creek-inn-Idyllwild-cabin-rentals"><figure><a href="/images/strawberry-creek-inn-Idyllwild-cabin-rentals.jpg"><img src="/images/strawberry-creek-inn-Idyllwild-cabin-rentals.jpg" alt="Strawberry Creek Inn Bed &amp; Breakfast Idyllwild" /></a><figcaption class="uagb-image-caption">Courtesy of Strawberry Creek Inn Bed &amp; Breakfast</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-1f9992ef">
 
@@ -98,7 +98,7 @@ There are several room options on the property of [Strawberry Creek Inn Bed &amp
 
 **[See Photos, Reviews, &amp; More](/go/strawberry-creek-inn-idyllwild/)**
 
-<div class="wp-block-uagb-image uagb-block-3b281216 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Vrbo Idyllwild Vacation Rentals](/images/idyllwild-places-to-stay.jpg)](/images/idyllwild-places-to-stay.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-3b281216 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/idyllwild-places-to-stay.jpg"><img src="/images/idyllwild-places-to-stay.jpg" alt="Vrbo Idyllwild Vacation Rentals" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-e93bd690">
 
@@ -130,5 +130,5 @@ Explore picks for the best [family-friendly stays](/best-family-hotels/) in more
 
 Like it? Pin it!
 
-<figure id="best-idyllwild-cabin-rentalsfor-families">[![Best Idyllwild Cabin Rentals for Families](/images/best-idyllwild-cabin-rentalsfor-families-200x300.jpg)](/images/best-idyllwild-cabin-rentalsfor-families.jpg)</figure>
+<figure id="best-idyllwild-cabin-rentalsfor-families"><a href="/images/best-idyllwild-cabin-rentalsfor-families.jpg"><img src="/images/best-idyllwild-cabin-rentalsfor-families-200x300.jpg" alt="Best Idyllwild Cabin Rentals for Families" /></a></figure>
 </div></div>

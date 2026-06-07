@@ -15,7 +15,7 @@ author: "Amanda Keeley-Thurman"
 
 Las Vegas is known for its bright lights, [**world-class entertainment**](/las-vegas-shows-for-kids/), and [**thrilling attractions**](/affordable-family-activities-las-vegas/), but did you know it’s also home to some [**family hotels**](/best-family-hotels-in-las-vegas/) that are rumored to be haunted? Whether you're [**visiting Las Vegas during Halloween**](/halloween-for-kids-in-las-vegas/) or your family is just into ghost stories and curious about some eerie history, here’s a look at a few haunted hotels in Las Vegas that might just give you goosebumps.
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="horseshoe-haunted-las-vegas-hotel"><figure>[![Haunted Horseshoe Hotels Las Vegas](/images/horseshoe-las-vegas-haunted-hotel.jpg)](/images/horseshoe-las-vegas-haunted-hotel.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="horseshoe-haunted-las-vegas-hotel"><figure><a href="/images/horseshoe-las-vegas-haunted-hotel.jpg"><img src="/images/horseshoe-las-vegas-haunted-hotel.jpg" alt="Haunted Horseshoe Hotels Las Vegas" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -36,7 +36,7 @@ Kids and teens will totally dig the 7,000-square-foot [**Las Vegas Arcade**](/be
 
 **[See Photos, Reviews, &amp; More](/go/horseshoe-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-f23ee758 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="luxor-las-vegas-haunted-hotel"><figure>[![Luxor Haunted Hotel Las Vegas](/images/luxor-haunted-hotel-lad-vegas.jpg)](/images/luxor-haunted-hotel-lad-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-f23ee758 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="luxor-las-vegas-haunted-hotel"><figure><a href="/images/luxor-haunted-hotel-lad-vegas.jpg"><img src="/images/luxor-haunted-hotel-lad-vegas.jpg" alt="Luxor Haunted Hotel Las Vegas" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-80f53cb4">
 
@@ -63,7 +63,7 @@ Luxor is also home to one of the best [**Las Vegas shows for families**](/las-ve
 
 **[See Photos, Reviews, &amp; More](/go/the-luxor-hotel-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-5541df70 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="flamingo-haunted-hotel-las-vegas"><figure>[![Haunted Flamingo Hotel Las Vegas](/images/flamigo-las-vegas-haunted-hotel.jpg)](/images/flamigo-las-vegas-haunted-hotel.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-5541df70 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="flamingo-haunted-hotel-las-vegas"><figure><a href="/images/flamigo-las-vegas-haunted-hotel.jpg"><img src="/images/flamigo-las-vegas-haunted-hotel.jpg" alt="Haunted Flamingo Hotel Las Vegas" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-4629e7b7">
 
@@ -78,7 +78,7 @@ The Flamingo is one of the oldest and most iconic hotels on the Strip, but it’
 
 **[See Photos, Reviews, &amp; More](/go/flamingo-las-vegas-exp/)**
 
-<div class="wp-block-uagb-image uagb-block-4353b767 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="westgate-haunted-hotel-las-vegas"><figure>[![Haunted Westgate Las Vegas Hotel](/images/westgate-las-vegas-haunted-hotel.jpg)](/images/westgate-las-vegas-haunted-hotel.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-4353b767 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="westgate-haunted-hotel-las-vegas"><figure><a href="/images/westgate-las-vegas-haunted-hotel.jpg"><img src="/images/westgate-las-vegas-haunted-hotel.jpg" alt="Haunted Westgate Las Vegas Hotel" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-d680c366">
 
@@ -101,7 +101,7 @@ Halloween is a great time to visit if you are into spooky fun, but don't forget 
 
 **[See Photos, Reviews, &amp; More](/go/westgate-hotel-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-02649eca wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hotel-apache-binions-haunted-hotel-las-vegas"><figure>[![Haunted Hotel Apache in Las Vegas](/images/hotel-apache-las-vegas-haunted-hotel.jpg)](/images/hotel-apache-las-vegas-haunted-hotel.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-02649eca wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hotel-apache-binions-haunted-hotel-las-vegas"><figure><a href="/images/hotel-apache-las-vegas-haunted-hotel.jpg"><img src="/images/hotel-apache-las-vegas-haunted-hotel.jpg" alt="Haunted Hotel Apache in Las Vegas" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-1e3eedf4">
 

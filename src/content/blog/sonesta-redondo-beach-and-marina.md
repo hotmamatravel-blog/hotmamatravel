@@ -18,7 +18,7 @@ Nestled along the stunning coastline of Redondo Beach, Sonesta Redondo Beach and
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4ryl-O5NZ4o?si=EE3JELpRv6Er7UQ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <div class="wp-block-uagb-container uagb-block-5c0803f5 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="family-friendly-Sonesta-Redondo-Beach-and-Marina"><figure>[![Family-friendly Sonesta Redondo Beach Hotel](/images/family-friendly-Sonesta-Redondo-Beach-and-Marina.jpg)](/images/family-friendly-Sonesta-Redondo-Beach-and-Marina.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="family-friendly-Sonesta-Redondo-Beach-and-Marina"><figure><a href="/images/family-friendly-Sonesta-Redondo-Beach-and-Marina.jpg"><img src="/images/family-friendly-Sonesta-Redondo-Beach-and-Marina.jpg" alt="Family-friendly Sonesta Redondo Beach Hotel" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -45,7 +45,7 @@ Beach, pool, food, and fun. What more could you ask for in a family L.A. vacatio
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-aec8678e alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-d0929129 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Sonesta-Redondo-Beach-and-Marina-LAX-hotel"><figure>[![Sonesta Redondo Beach &amp; Marina close to LAX](/images/Sonesta-Redondo-Beach-and-Marina-LAX-hotel.jpg)](/images/Sonesta-Redondo-Beach-and-Marina-LAX-hotel.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-d0929129 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Sonesta-Redondo-Beach-and-Marina-LAX-hotel"><figure><a href="/images/Sonesta-Redondo-Beach-and-Marina-LAX-hotel.jpg"><img src="/images/Sonesta-Redondo-Beach-and-Marina-LAX-hotel.jpg" alt="Sonesta Redondo Beach &amp; Marina close to LAX" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-4ee54f55">
 
@@ -64,7 +64,7 @@ It is the preferred hotel for airline professionals. If you are like me, you wil
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-7fc26b40 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-1d6d6020 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="pet-friendly-Sonesta-Redondo-Beach-and-Marina"><figure>[![Pet friendly Redondo Beach Hotel Sonesta](/images/pet-friendly-Sonesta-Redondo-Beach-and-Marina.jpg)](/images/pet-friendly-Sonesta-Redondo-Beach-and-Marina.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-1d6d6020 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="pet-friendly-Sonesta-Redondo-Beach-and-Marina"><figure><a href="/images/pet-friendly-Sonesta-Redondo-Beach-and-Marina.jpg"><img src="/images/pet-friendly-Sonesta-Redondo-Beach-and-Marina.jpg" alt="Pet friendly Redondo Beach Hotel Sonesta" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-10954271">
 
@@ -83,7 +83,7 @@ A nominal fee of $150 per stay applies to ensure your furry friend enjoys a "paw
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-9a7c2757 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-6cf1b2dc wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="beach-life-fest-Sonesta-Redondo-Beach-and-Marina"><figure>[![Beach Life Festival Sonesta Redondo Beach](/images/beach-life-fest-Sonesta-Redondo-Beach-and-Marina.jpg)](/images/beach-life-fest-Sonesta-Redondo-Beach-and-Marina.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-6cf1b2dc wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="beach-life-fest-Sonesta-Redondo-Beach-and-Marina"><figure><a href="/images/beach-life-fest-Sonesta-Redondo-Beach-and-Marina.jpg"><img src="/images/beach-life-fest-Sonesta-Redondo-Beach-and-Marina.jpg" alt="Beach Life Festival Sonesta Redondo Beach" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-cf4ef703">
 
@@ -102,7 +102,7 @@ The festival's lively ambiance seamlessly blends with the serene atmosphere of o
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-5591891d alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-209550e9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="redondo-beach-pier-Sonesta-Redondo-Beach-and-Marina"><figure>[![Sonesta Redondo Beach &amp; Marina Walking Distance from Redondo Pier](/images/redondo-beach-pier-Sonesta-Redondo-Beach-and-Marina.jpg)](/images/redondo-beach-pier-Sonesta-Redondo-Beach-and-Marina.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-209550e9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="redondo-beach-pier-Sonesta-Redondo-Beach-and-Marina"><figure><a href="/images/redondo-beach-pier-Sonesta-Redondo-Beach-and-Marina.jpg"><img src="/images/redondo-beach-pier-Sonesta-Redondo-Beach-and-Marina.jpg" alt="Sonesta Redondo Beach &amp; Marina Walking Distance from Redondo Pier" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-b650e788">
 
@@ -132,5 +132,5 @@ Sonesta Redondo Beach &amp; Marina isn't just a hotel; it's a coastal haven that
 
 Like it? Pin it!
 
-<figure id="why-you-will-love-sonesta-redondo-beach-and-marina">[![](/images/Sonesta-Redondo-Beach-200x300.jpg)](/images/Sonesta-Redondo-Beach.jpg)</figure>
+<figure id="why-you-will-love-sonesta-redondo-beach-and-marina"><a href="/images/Sonesta-Redondo-Beach.jpg"><img src="/images/Sonesta-Redondo-Beach-200x300.jpg" alt="" /></a></figure>
 </div></div>

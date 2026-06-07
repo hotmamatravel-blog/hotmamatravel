@@ -21,7 +21,7 @@ First, Palm Springs has this quirky, fun, vibrant and laid-back culture that you
 
 It also doesn't hurt that Palm Springs has sunny weather pretty much all year-round! Making it a great destination to [spend the day poolside](/best-family-resorts-palm-springs/).
 
-<figure>![Graph of annual Palm Springs weather](/images/palm-springs-weather-graph.jpg)</figure>
+<figure><img src="/images/palm-springs-weather-graph.jpg" alt="Graph of annual Palm Springs weather" /></figure>
 
 Another main draw for families with kids is that there are *so many&nbsp;*family-friendly resorts in the Palm Springs area with accommodations and amenities tailored for children including kids clubs, water parks, and special activities such as learning to swim like a real mermaid - full-sized tail and all! (Keep reading to find out which resort has a "Mermaid University").
 
@@ -455,5 +455,5 @@ Also, before you plan your next visit, be sure to check out our ultimate guide f
 
 **Like it? Pin it!**
 
-<figure id="best-family-resorts-palm-springs">[![](/images/best-family-resorts-palm-springs-200x300.jpg)](/images/best-family-resorts-palm-springs.jpg)</figure>
+<figure id="best-family-resorts-palm-springs"><a href="/images/best-family-resorts-palm-springs.jpg"><img src="/images/best-family-resorts-palm-springs-200x300.jpg" alt="" /></a></figure>
 </div></section>

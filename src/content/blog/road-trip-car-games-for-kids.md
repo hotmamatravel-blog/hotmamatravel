@@ -589,5 +589,5 @@ There you have it, I hope you found my list helpful for preparing for your next 
 
 **Like it? Pin it!**
 
-<figure>![Genius List of Kids Games for Car Trips](/images/List-best-car-trip-games-for-kids-200x300.png)</figure>
+<figure><img src="/images/List-best-car-trip-games-for-kids-200x300.png" alt="Genius List of Kids Games for Car Trips" /></figure>
 </div></section>

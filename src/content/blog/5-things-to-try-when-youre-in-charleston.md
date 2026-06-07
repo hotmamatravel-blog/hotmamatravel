@@ -19,7 +19,7 @@ You’ll still want to enjoy yourself, so it’s worth focusing on a few notable
 It’s worth looking at some of the more notable of these.
 
 <div class="wp-block-uagb-container uagb-block-5c0803f5 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="charleston-city-market-things-to-do-charleston"><figure>[![Visit the Charleston City Market ](/images/charleston-city-market-charleston-sc.jpg)](/images/charleston-city-market-charleston-sc.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="charleston-city-market-things-to-do-charleston"><figure><a href="/images/charleston-city-market-charleston-sc.jpg"><img src="/images/charleston-city-market-charleston-sc.jpg" alt="Visit the Charleston City Market " /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -34,7 +34,7 @@ While some people say the [Charleston City Market](https://www.thecharlestoncity
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-3c14bb16 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-a4a5b1d1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="sullivans-island-things-to-do-charleston-sc"><figure>[![Sullivan](/images/sullivans-island-things-to-do-charleston-sc.jpg)](/images/sullivans-island-things-to-do-charleston-sc.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-a4a5b1d1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="sullivans-island-things-to-do-charleston-sc"><figure><a href="/images/sullivans-island-things-to-do-charleston-sc.jpg"><img src="/images/sullivans-island-things-to-do-charleston-sc.jpg" alt="Sullivan" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-7f5049dd">
 
@@ -49,7 +49,7 @@ Sullivan’s Island is one of the more notable places you can visit when you’r
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-f80b6e15 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-4fd11394 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="carriage-tour-things-to-do-charleston"><figure>[![Old South Carriage Tour Charleston](/images/old-south-haunted-carriage-tour-charleston-sc.jpg)](/images/old-south-haunted-carriage-tour-charleston-sc.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-4fd11394 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="carriage-tour-things-to-do-charleston"><figure><a href="/images/old-south-haunted-carriage-tour-charleston-sc.jpg"><img src="/images/old-south-haunted-carriage-tour-charleston-sc.jpg" alt="Old South Carriage Tour Charleston" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-84374cac">
 
@@ -64,7 +64,7 @@ There are plenty of tours to go on when you’re in Charleston, some of which ca
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-b164a926 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-80b62e35 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="magnolia-plantation-things-to-do-charleston-sc"><figure>[![Magnolia Plantation Charleston SC](/images/magnolia-plantation-things-to-do-charleston-sc.jpg)](/images/magnolia-plantation-things-to-do-charleston-sc.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-80b62e35 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="magnolia-plantation-things-to-do-charleston-sc"><figure><a href="/images/magnolia-plantation-things-to-do-charleston-sc.jpg"><img src="/images/magnolia-plantation-things-to-do-charleston-sc.jpg" alt="Magnolia Plantation Charleston SC" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-8e7553e7">
 
@@ -79,7 +79,7 @@ There are plenty of tours to go on when you’re in Charleston, some of which ca
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-f1084983 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-e8f5def4 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="food-tour-things-to-do-charleston-sc"><figure>[![Charleston food tours](/images/food-tour-things-to-do-charleston-sc.jpg)](/images/food-tour-things-to-do-charleston-sc.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-e8f5def4 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="food-tour-things-to-do-charleston-sc"><figure><a href="/images/food-tour-things-to-do-charleston-sc.jpg"><img src="/images/food-tour-things-to-do-charleston-sc.jpg" alt="Charleston food tours" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-482f6075">
 
@@ -101,5 +101,5 @@ You’ll have plenty of options to choose from, and some of them can be more app
 
 Like it? Pin it!
 
-<figure id="5-Things-To-Try-When-You're-In-Charleston">[![](/images/5-Things-To-Try-When-Youre-In-Charleston-200x300.jpg)](/images/5-Things-To-Try-When-Youre-In-Charleston.jpg)</figure>
+<figure id="5-Things-To-Try-When-You're-In-Charleston"><a href="/images/5-Things-To-Try-When-Youre-In-Charleston.jpg"><img src="/images/5-Things-To-Try-When-Youre-In-Charleston-200x300.jpg" alt="" /></a></figure>
 </div></div>

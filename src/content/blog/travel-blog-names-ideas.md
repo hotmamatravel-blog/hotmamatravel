@@ -59,13 +59,13 @@ For example, in 2012 I first registered this website (HotMamaTravel) on [HostGat
 
 Checking to see if a domain is available is as simple as going to HostGator and typing in the name you want. As an example, my first name is Amanda so I wanted to check if the domain "amandatravels.com" was available (this is not necessarily a great name, but just an example):
 
-<figure>[![](/images/hostgator-register-domain-example-1024x417.jpg)](/go/hostgator-domain-search/)</figure>
+<figure><a href="/go/hostgator-domain-search/"><img src="/images/hostgator-register-domain-example-1024x417.jpg" alt="" /></a></figure>
 
 What is great is that it does not cost very much to [register a domain name](/go/hostgator-domain-search/) (about $10-15 per year), as long as nobody owns that domain already. However if somebody already owns the domain that you want, it can often cost thousands of dollars to acquire the legal rights to that domain.
 
 Unfortunately, that was the case for my first choice "amandatravels.com", as HostGator showed that this domain was already taken:
 
-<figure>[![](/images/hostgator-domain-example-unavailable-1024x510.jpg)](/go/hostgator-domain-search/)</figure>
+<figure><a href="/go/hostgator-domain-search/"><img src="/images/hostgator-domain-example-unavailable-1024x510.jpg" alt="" /></a></figure>
 
 Bummer, right!? No, not really. It is totally fine if the first name you think of is unavailable. Honestly, it is to be expected and happens all the time.
 
@@ -73,7 +73,7 @@ Just remember, there are so many creative travel blog names out there to choose 
 
 Since we often travel with kids and my niche is family travel, I next decided to find out if "amandatravels**withkids**.com" was available. Fortunately, it was!
 
-<figure>[![](/images/hostgator-domain-example-available-1024x563.jpg)](/go/hostgator-domain-search/)</figure>
+<figure><a href="/go/hostgator-domain-search/"><img src="/images/hostgator-domain-example-available-1024x563.jpg" alt="" /></a></figure>
 
 While this travel blog name is descriptive - it describes who (my name) and what (that I travel with kids) - for various reasons that I explain in more detail below, it is probably not an ideal brand name for a new travel blog.
 
@@ -116,7 +116,7 @@ One of the tried-and-true strategies for creating a travel blog name is to pair 
 
 One of the most successful travel blogs in the world that uses this strategy is Nomadic Matt:
 
-<figure>![](/images/nomadic-matt-site-screenshot-1024x367.jpg)<figcaption>This is Nomadic Matt's homepage on 10/2/19</figcaption></figure>
+<figure><img src="/images/nomadic-matt-site-screenshot-1024x367.jpg" alt="" /><figcaption>This is Nomadic Matt's homepage on 10/2/19</figcaption></figure>
 
 Just from this name alone, visitors immediately expect to learn about how to travel the world cheaply - and that is exactly what Matt has built his business around. He even parlayed his travel blog success into a New York Times Bestselling book "[How to travel the world on $50 a day](https://amzn.to/2pgMazx)".
 
@@ -195,5 +195,5 @@ This may all sound overwhelming, but **you can totally do it** with some passion
 
 **Like it? Pin it!**
 
-<div class="wp-block-image"><figure class="alignleft">![Travel blog name ideas: How to pick a good name for your new Travel Blog](/images/how-to-pick-good-name-travel-blog-200x300.jpg)</figure></div>
+<div class="wp-block-image"><figure class="alignleft"><img src="/images/how-to-pick-good-name-travel-blog-200x300.jpg" alt="Travel blog name ideas: How to pick a good name for your new Travel Blog" /></figure></div>
 </div></section>

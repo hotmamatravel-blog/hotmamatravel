@@ -17,10 +17,10 @@ Napa is one of the biggest wine regions in California with over 400 wineries, nu
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<figure>[![Get your VinArmour wine travel case today](/images/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg)](/go/vinarmour-luxury-wine-bag/)</figure>
+<figure><a href="/go/vinarmour-luxury-wine-bag/"><img src="/images/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg" alt="Get your VinArmour wine travel case today" /></a></figure>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a03210ff"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="castello-di-amorosa-kid-friendly-winery-napa-ca">[![](/images/castello-di-amorosa-kid-friendly-winery-napa-ca.jpeg)](/images/castello-di-amorosa-kid-friendly-winery-napa-ca.jpeg)</figure>
+<figure id="castello-di-amorosa-kid-friendly-winery-napa-ca"><a href="/images/castello-di-amorosa-kid-friendly-winery-napa-ca.jpeg"><img src="/images/castello-di-amorosa-kid-friendly-winery-napa-ca.jpeg" alt="" /></a></figure>
 
 #### [Castello di Amorosa, Calistoga](/go/castello-di-amorosa-winery-napa-ca/)
 
@@ -37,7 +37,7 @@ Castello produces Italian-style wines. Currently, wine tasting is by reservation
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-790ee526"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="honig-vineyard-kid-friendly-winery-napa-ca">[![](/images/honig-vineyard-kid-friendly-winery-napa-ca.jpg)](/images/honig-vineyard-kid-friendly-winery-napa-ca.jpg)</figure>
+<figure id="honig-vineyard-kid-friendly-winery-napa-ca"><a href="/images/honig-vineyard-kid-friendly-winery-napa-ca.jpg"><img src="/images/honig-vineyard-kid-friendly-winery-napa-ca.jpg" alt="" /></a></figure>
 
 #### [Honig Vineyard &amp; Winery](/go/honig-vineyard-winery-napa-ca/)
 
@@ -57,7 +57,7 @@ Honig Vineyard &amp; Winery exclusively produces Sauvigon Blanc and Cabernet Sau
 
 #### Hoopes Vineyard
 
-<figure id="hoopes-vineyard-kid-friendly-napa-ca">[![](/images/hoopes-vineyard-kid-friendly-napa-ca.jpg)](/images/hoopes-vineyard-kid-friendly-napa-ca.jpg)</figure>
+<figure id="hoopes-vineyard-kid-friendly-napa-ca"><a href="/images/hoopes-vineyard-kid-friendly-napa-ca.jpg"><img src="/images/hoopes-vineyard-kid-friendly-napa-ca.jpg" alt="" /></a></figure>
 
 *6204 Washington St Napa, CA 94558*
 
@@ -72,7 +72,7 @@ See photos, reviews &amp; more
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-93bcf4f3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="alpha-omega-kid-friendly-napa-ca">[![](/images/Alpha_Omega_Winery_Exterior_Napa.jpg)](/images/Alpha_Omega_Winery_Exterior_Napa.jpg)<figcaption>Photo Credit: Alpha Omega</figcaption></figure>
+<figure id="alpha-omega-kid-friendly-napa-ca"><a href="/images/Alpha_Omega_Winery_Exterior_Napa.jpg"><img src="/images/Alpha_Omega_Winery_Exterior_Napa.jpg" alt="" /></a><figcaption>Photo Credit: Alpha Omega</figcaption></figure>
 
 #### [Alpha Omega](/go/alpha-omega-winery-napa-ca/)
 
@@ -87,7 +87,7 @@ At Alpha Omega you and your family can enjoy a day at this beautiful estate amon
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1ec48551"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="frogs-leap-winery-napa-ca">[![](/images/frogs-leap-winery-napa-ca.jpg)](/images/frogs-leap-winery-napa-ca.jpg)</figure>
+<figure id="frogs-leap-winery-napa-ca"><a href="/images/frogs-leap-winery-napa-ca.jpg"><img src="/images/frogs-leap-winery-napa-ca.jpg" alt="" /></a></figure>
 
 #### [Frog’s Leap](/go/frogs-leap-winery-napa-ca/)
 
@@ -119,5 +119,5 @@ For more family-friendly wineries in California, check out other articles on bes
 
 **Like it? Pin it!**
 
-<figure id="5-best-kid-friendly-wineries-napa-california">[![](/images/5-best-kid-friendly-wineries-napa-california-200x300.jpg)](/images/5-best-kid-friendly-wineries-napa-california.jpg)</figure>
+<figure id="5-best-kid-friendly-wineries-napa-california"><a href="/images/5-best-kid-friendly-wineries-napa-california.jpg"><img src="/images/5-best-kid-friendly-wineries-napa-california-200x300.jpg" alt="" /></a></figure>
 </div></section>

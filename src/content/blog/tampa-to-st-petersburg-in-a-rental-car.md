@@ -17,13 +17,13 @@ When someone is visiting a beach destination such as Tampa, it’s common for th
 
 It all boils down to transportation - the more you can move within your destination, the more sites you can visit. You can even go to neighboring sites that aren’t necessarily in the city, and that’s a factor that many people tend to ignore when planning their trips.&nbsp;
 
-<figure>![Sunset in Tampa FL](/images/tampa-sunset.jpg)</figure>
+<figure><img src="/images/tampa-sunset.jpg" alt="Sunset in Tampa FL" /></figure>
 
 Now a great way to enhance your transportation capabilities during your travels is to rent a car. It is an easy and elegant way to make sure you won’t lose out on anything, no matter how far it may be from your hotel. Plus, it’s very easy to find [car rentals in Tampa](https://www.milescarrentaltampa.com/car-rental-tampa.php) and other popular touristic cities.
 
 So, in this post, we'll be seeing some advice on how to improve a trip to Tampa with a little escapade to the town of St. Petersburg, and St Pete Beach, with a rental car.  We'll also make a little review of some of the many activities you can do during that trip. So, what are we waiting for? Let’s go for it!
 
-<figure>![Tampa colors at night](/images/tampa-night.jpg)</figure>
+<figure><img src="/images/tampa-night.jpg" alt="Tampa colors at night" /></figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-9929d653-b241-4f4d-b0d5-bc4ece0c9972" id="uagb-adv-heading-93a88f2d-b6b2-457d-b7b5-843fc016d176">
 
@@ -37,7 +37,7 @@ First things first, we must get a rental car to make this trip. This can seem li
 
 Thankfully there are ways to bypass this annoying search process. For example: using a car rental broker such as [Miles Car Rental](https://www.milescarrentaltampa.com/car-rental-tampa.php). These are websites that search for the lowest prices and narrow immensely the amount of options you have to sort through, making the process much easier.
 
-<figure>![female travel](/images/woman-travel-adventure.jpg)</figure>
+<figure><img src="/images/woman-travel-adventure.jpg" alt="female travel" /></figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-8563322f-f9c2-4f5c-b4be-58e4ac12d631" id="uagb-adv-heading-93a88f2d-b6b2-457d-b7b5-843fc016d176">
 
@@ -84,29 +84,29 @@ If the parks at Orlando are the happiest place on Earth, then St. Petersburg, Fl
 
 This oddly shaped building houses one of the greatest collections of surrealist art in America, many of the pieces belong to Dalí himself, in fact, here you´ll find 7 of the painter’s masterpieces.&nbsp;&nbsp;
 
-<figure>![](https://lh4.googleusercontent.com/J6uydQzHaSZRb-bN2dEFROdcbc319gqlotiZkzLtlhdKmYjzwUqi5iekiItDMUpVSRHy4uNMdZYY2ozQWLCUUWj7rsK51lsOSTlVKK0_alMlnuDMmhdZCz1LCIze1u1ocxxm-xY)<figcaption>Dali Museum is a sight to behold</figcaption></figure>
+<figure><img src="https://lh4.googleusercontent.com/J6uydQzHaSZRb-bN2dEFROdcbc319gqlotiZkzLtlhdKmYjzwUqi5iekiItDMUpVSRHy4uNMdZYY2ozQWLCUUWj7rsK51lsOSTlVKK0_alMlnuDMmhdZCz1LCIze1u1ocxxm-xY" alt="" /><figcaption>Dali Museum is a sight to behold</figcaption></figure>
 
 #### **Chihuly Collection**
 
 St. Petersburg FL is one of the most artistic towns you can find, so don’t be surprised when I tell you there is yet another art museum worth visiting: Chihuly Collection. This place houses some of the most amazing glass art pieces you can find anywhere. It truly looks as if the artist had fished out some unknown and colorful creatures from the depths of the ocean and put them on exhibit for the world to see. The exhibits feature structures with many tentacles made of glass that sort of look like anemones and bowl-like sculptures that looks like the shells from undiscovered crustaceans.&nbsp;
 
-<figure>![Blown glass art in St Petersburg FL](/images/st-petersburg-fl-glass-art.jpg)</figure>
+<figure><img src="/images/st-petersburg-fl-glass-art.jpg" alt="Blown glass art in St Petersburg FL" /></figure>
 
 #### **Sunken Gardens&nbsp;**
 
 This is one of St. Pete’s oldest and most endearing natural attractions and one of the best places for unwinding and just forgetting about all your problems as you reconnect with nature. This garden features a unique collection of tropical ecosystems that has been there for 100 years, even as the city has been growing around it. Here you´ll find an amazing variety of places to visit such as waterfalls and meandering paths that get lost among the tropical plants. And there are even some animals that call this garden home, such as tortoises, koi fish, and even some flamingos!
 
-<figure>![Flamingos at sunken gardens](/images/sunken-gardens-flamingos.jpg)</figure>
+<figure><img src="/images/sunken-gardens-flamingos.jpg" alt="Flamingos at sunken gardens" /></figure>
 
 #### **St. Pete Beach**
 
 And finally, no trip to St. Pete would be complete without a visit to St. Pete Beach. This one is great for children; the beach is quite shallow and the waves are calm. On a good day you can even see some dolphins and sea birds going about their day!&nbsp;
 
-<figure>![st pete beach at sunset](/images/st-pete-beach.jpg)</figure>
+<figure><img src="/images/st-pete-beach.jpg" alt="st pete beach at sunset" /></figure>
 
 Hot Tip: The [Tradewinds](/go/tradewinds-st-pete-expedia/)at St Pete Beach is our family's favorite resort in the area for an amazing family vacation to Florida. We fly into Tampa and take a rental car from the terminal straight to [Tradewinds](/go/tradewinds-st-pete-expedia/)and let the kids hop on the 30 foot tall water slide. No, seriously! You can read our detailed review [HERE](/st-pete-beach-with-kids/).
 
-<figure>![Hotel Review Tradewinds Island Grande St Pete Beach FL](/images/tradewinds-st-pete-beach-review-guide-with-kids.png)<figcaption>My kids LOVE this resort in St Pete Beach</figcaption></figure>
+<figure><img src="/images/tradewinds-st-pete-beach-review-guide-with-kids.png" alt="Hotel Review Tradewinds Island Grande St Pete Beach FL" /><figcaption>My kids LOVE this resort in St Pete Beach</figcaption></figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-8fa5d1c8-b7ab-489e-bf8b-c09ae7040d27" id="uagb-adv-heading-93a88f2d-b6b2-457d-b7b5-843fc016d176">
 
@@ -122,5 +122,5 @@ And there you have it, next time you visit Tampa consider renting a car and maki
 
 **Like it? Pin it!**
 
-<div class="wp-block-image"><figure class="alignleft size-medium">![Tampa to St. Petersburg Road Trip in Rental Car](/images/tampa-to-st-petersburg-florida-road-trip-200x300.jpg)</figure></div>
+<div class="wp-block-image"><figure class="alignleft size-medium"><img src="/images/tampa-to-st-petersburg-florida-road-trip-200x300.jpg" alt="Tampa to St. Petersburg Road Trip in Rental Car" /></figure></div>
 </div></section>

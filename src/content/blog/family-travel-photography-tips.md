@@ -17,7 +17,7 @@ When raising children, the days are long, but the years are short— that's why 
 Taking pictures along the way can create a visual reminder of the experience and a family heirloom to look at as the years go by. Here's how to capture spectacular photos when traveling with kids.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bf69abf8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="burst-mode-photo-tips-travel-kids">[![](/images/capturing-kids-photos.jpg)](/family-travel-photography-tips/)</figure>
+<figure id="burst-mode-photo-tips-travel-kids"><a href="/family-travel-photography-tips/"><img src="/images/capturing-kids-photos.jpg" alt="" /></a></figure>
 
 #### Use Burst Mode
 
@@ -28,7 +28,7 @@ When you use burst mode on your camera, you'll capture multiple frames of your c
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a45165e6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="light-editing-photo-tips-travel-kids">[![](/images/capturing-kids-photos-1.jpg)](/family-travel-photography-tips/)</figure>
+<figure id="light-editing-photo-tips-travel-kids"><a href="/family-travel-photography-tips/"><img src="/images/capturing-kids-photos-1.jpg" alt="" /></a></figure>
 
 #### Plan for Light Editing
 
@@ -39,7 +39,7 @@ Rather than waiting for the perfect shot, capture each moment and use technology
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2fa8df19"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="level-photo-tips-travel-kids">[![](/images/capturing-kids-photos-3.jpg)](/family-travel-photography-tips/)</figure>
+<figure id="level-photo-tips-travel-kids"><a href="/family-travel-photography-tips/"><img src="/images/capturing-kids-photos-3.jpg" alt="" /></a></figure>
 
 #### Get on Their Level
 
@@ -50,7 +50,7 @@ Instead, get on their level, taking a knee or holding your smartphone at chest h
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d97a9c90"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="candid-shots-photo-tips-travel-kids">[![](/images/capturing-kids-photos-5.jpg)](/family-travel-photography-tips/)</figure>
+<figure id="candid-shots-photo-tips-travel-kids"><a href="/family-travel-photography-tips/"><img src="/images/capturing-kids-photos-5.jpg" alt="" /></a></figure>
 
 #### Get Candid Shots
 
@@ -61,7 +61,7 @@ Take some candid shots throughout your journey, not worrying about angles or exp
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f476095f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>[![](/images/capturing-kids-photos-6.jpg)](/family-travel-photography-tips/)</figure>
+<figure><a href="/family-travel-photography-tips/"><img src="/images/capturing-kids-photos-6.jpg" alt="" /></a></figure>
 
 #### Be an Entertainer
 
@@ -72,7 +72,7 @@ Don't be afraid to get silly and make a fool of yourself to get your kids laughi
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2f36e9df"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="rule-of-thirds-photo-tips-kids">[![](/images/capturing-kids-photos-2.jpg)](/family-travel-photography-tips/)</figure>
+<figure id="rule-of-thirds-photo-tips-kids"><a href="/family-travel-photography-tips/"><img src="/images/capturing-kids-photos-2.jpg" alt="" /></a></figure>
 
 #### Use the Rule of Thirds
 
@@ -98,5 +98,5 @@ Capturing those perfect family travel photos doesn't have to be hard with these 
 
 **Like it? Pin it!**
 
-<figure id="6-family-travel-photography-tips">[![](/images/family-travel-photography-tips-200x300.jpg)](/family-travel-photography-tips/)</figure>
+<figure id="6-family-travel-photography-tips"><a href="/family-travel-photography-tips/"><img src="/images/family-travel-photography-tips-200x300.jpg" alt="" /></a></figure>
 </div></section>

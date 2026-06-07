@@ -74,5 +74,5 @@ By being prepared and taking the right measures, parents can make traveling with
 
 **Like it? Pin it!**
 
-<figure id="struggles-of-traveling-with-kids-and-solutions">[![](/images/struggles-of-traveling-with-kids-and-solutions-200x300.jpg)](/images/struggles-of-traveling-with-kids-and-solutions.jpg)</figure>
+<figure id="struggles-of-traveling-with-kids-and-solutions"><a href="/images/struggles-of-traveling-with-kids-and-solutions.jpg"><img src="/images/struggles-of-traveling-with-kids-and-solutions-200x300.jpg" alt="" /></a></figure>
 </div></section>

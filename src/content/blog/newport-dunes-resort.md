@@ -33,7 +33,7 @@ S**ee Our RV Experiences at Newport Dunes Resort:**
 
 ### Glamping Cottages:
 
-<div class="wp-block-uagb-image uagb-block-bdaa5c26 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Newport Dunes Beach Cottages](/images/Newport-Dunes-Beach-Cottages.jpg)](/images/Newport-Dunes-Beach-Cottages.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-bdaa5c26 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Newport-Dunes-Beach-Cottages.jpg"><img src="/images/Newport-Dunes-Beach-Cottages.jpg" alt="Newport Dunes Beach Cottages" /></a></figure></div>
 
 #### **Large Beachfront &amp; Non-Beachfront Glamping Cottages at Newport Dunes Waterfront Resort &amp; Marina**:
 
@@ -95,7 +95,7 @@ For families passing through Southern California or planning a quick coastal get
 
 ### Newport Dunes RV Park:
 
-<figure data-essb-pin-description="Newport Dunes RV Sites">[![](/images/Newport-Dunes-RV-Sites.jpg)](/images/Newport-Dunes-RV-Sites.jpg)</figure>
+<figure data-essb-pin-description="Newport Dunes RV Sites"><a href="/images/Newport-Dunes-RV-Sites.jpg"><img src="/images/Newport-Dunes-RV-Sites.jpg" alt="" /></a></figure>
 
 #### Beachfront RV Sites at Newport Dunes Waterfront Resort &amp; Marina
 
@@ -179,7 +179,7 @@ And if you feel like venturing out, remember that Newport Dunes sits in the hear
 
 Family experiences at Newport Dunes Resort are all about making lasting memories at one of Newport Beach’s most unique family entertainment destinations. Whether you’re visiting for a weekend getaway or a longer coastal escape, the resort is packed with activities for all ages.
 
-<div class="wp-block-uagb-image uagb-block-06882207 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Newport Dunes Beach Playground](/images/Newport-Dunes-Beach-Playground.jpg)](/images/Newport-Dunes-Beach-Playground.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-06882207 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Newport-Dunes-Beach-Playground.jpg"><img src="/images/Newport-Dunes-Beach-Playground.jpg" alt="Newport Dunes Beach Playground" /></a></figure></div>
 
 ### Public Beach &amp; Playground:
 
@@ -189,7 +189,7 @@ The playground adds even more fun for young adventurers. Kids can climb, slide, 
 
 Whether you’re planning a full day at the beach or a short afternoon escape, the public beach and playground at Newport Dunes Marina and Waterfront Resort make it easy for families to enjoy safe, stress-free fun right on the bay.
 
-<div class="wp-block-uagb-image uagb-block-3ccc9848 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Newport Dunes Resort Pool](/images/Newport-Dunes-Resort-Guest-Pool.jpg)](/images/Newport-Dunes-Resort-Guest-Pool.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-3ccc9848 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Newport-Dunes-Resort-Guest-Pool.jpg"><img src="/images/Newport-Dunes-Resort-Guest-Pool.jpg" alt="Newport Dunes Resort Pool" /></a></figure></div>
 
 ### Resort Guest Pool:
 
@@ -199,7 +199,7 @@ Whether your kids are practicing their swim skills, enjoying pool games, or just
 
 It’s the ideal complement to the beach and playground, giving families multiple ways to enjoy water activities at Newport Dunes Marina and Waterfront Resort without ever leaving the resort.
 
-<figure>[![Newport Dunes Watersports ](/images/Newport-Dunes-Water-sports.jpg)](/images/Newport-Dunes-Water-sports.jpg)</figure>
+<figure><a href="/images/Newport-Dunes-Water-sports.jpg"><img src="/images/Newport-Dunes-Water-sports.jpg" alt="Newport Dunes Watersports " /></a></figure>
 
 ### Water Sports Rentals:
 
@@ -209,7 +209,7 @@ The resort also features an inflatable aquatic park that’s perfect for kids to
 
 Whether you’re paddling along the bay, trying out a new water sport, or enjoying the inflatables, Newport Dunes Marina and Waterfront Resort makes it easy for families to get out on the water and make unforgettable memories.
 
-<figure>[![Newport Back Bay Trail](/images/Newport-Dunes-Back-Bay.jpg)](/images/Newport-Dunes-Back-Bay.jpg)</figure>
+<figure><a href="/images/Newport-Dunes-Back-Bay.jpg"><img src="/images/Newport-Dunes-Back-Bay.jpg" alt="Newport Back Bay Trail" /></a></figure>
 
 ### Bike and Pedestrian Trails:
 
@@ -227,7 +227,7 @@ Bring your chairs and blankets, settle in on the sand, and watch the big screen 
 
 These special nights take place Friday and Saturday evenings at dusk during the summer, offering a relaxed, memorable experience that both kids and adults will love. Movies on the Beach at Newport Dunes Marina and Waterfront Resort turn a simple evening into a family tradition you won’t want to miss.
 
-<figure>[![Newport Dunes Vintage RV Show](/images/Newport-Dunes-Vintage-RV-Show.jpg)](/images/Newport-Dunes-Vintage-RV-Show.jpg)</figure>
+<figure><a href="/images/Newport-Dunes-Vintage-RV-Show.jpg"><img src="/images/Newport-Dunes-Vintage-RV-Show.jpg" alt="Newport Dunes Vintage RV Show" /></a></figure>
 
 ### Seasonal Activities &amp; Events:
 
@@ -265,5 +265,5 @@ For more ideas on family-friendly adventures across the Golden State, check out 
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Dreaming of a family glamping getaway in Southern California? 🌴✨ Discover Newport Dunes Resort—from cozy cottages and beachfront RV sites to calm bay waters, playgrounds, pools, water sports, and seasonal events. Perfect for kids, parents, and RV travelers! Check out our ultimate 2026 guide for tips, rentals, and all the best activities. #newportdunes #familytravel #glamping #newportbeach #californiatravel">[![Glamping Newport Dunes](/images/glamping-newport-dunes-200x300.jpg)](/images/glamping-newport-dunes.jpg)</figure>
+<figure data-essb-pin-description="Dreaming of a family glamping getaway in Southern California? 🌴✨ Discover Newport Dunes Resort—from cozy cottages and beachfront RV sites to calm bay waters, playgrounds, pools, water sports, and seasonal events. Perfect for kids, parents, and RV travelers! Check out our ultimate 2026 guide for tips, rentals, and all the best activities. #newportdunes #familytravel #glamping #newportbeach #californiatravel"><a href="/images/glamping-newport-dunes.jpg"><img src="/images/glamping-newport-dunes-200x300.jpg" alt="Glamping Newport Dunes" /></a></figure>
 </div></div>

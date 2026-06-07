@@ -75,5 +75,5 @@ Your road trip will be one of the best experiences of your life, but there is st
 
 Like it? Pin it!
 
-<figure id="Top-Tips-for-a-Stress-Free-Road-Trip">[![](/images/Top-Tips-for-a-Stress-Free-Road-Trip-200x300.jpg)](/images/Top-Tips-for-a-Stress-Free-Road-Trip.jpg)</figure>
+<figure id="Top-Tips-for-a-Stress-Free-Road-Trip"><a href="/images/Top-Tips-for-a-Stress-Free-Road-Trip.jpg"><img src="/images/Top-Tips-for-a-Stress-Free-Road-Trip-200x300.jpg" alt="" /></a></figure>
 </div></div>

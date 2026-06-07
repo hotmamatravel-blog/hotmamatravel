@@ -100,5 +100,5 @@ So try a small trip first, talk to someone about your anxiety, block out the hor
 
 **Like it? Pin it!**
 
-<figure id="How-to-feel-confident-solo-travel-after-bad-experience">[![](/images/How-to-feel-confident-solo-travel-after-bad-experience-200x300.jpg)](/images/How-to-feel-confident-solo-travel-after-bad-experience.jpg)</figure>
+<figure id="How-to-feel-confident-solo-travel-after-bad-experience"><a href="/images/How-to-feel-confident-solo-travel-after-bad-experience.jpg"><img src="/images/How-to-feel-confident-solo-travel-after-bad-experience-200x300.jpg" alt="" /></a></figure>
 </div></section>

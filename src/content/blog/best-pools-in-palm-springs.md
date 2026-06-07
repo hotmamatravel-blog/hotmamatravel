@@ -14,7 +14,7 @@ author: "Amanda Keeley-Thurman"
 The desert oasis of Palm Springs, where the scorching sun reigns supreme, and the pursuit of poolside perfection becomes an art form. With its year-round sunshine and sizzling temperatures, it's no wonder that the quest for the best pools in this sun-soaked paradise is a top priority for visitors and locals alike. Whether you're seeking respite from the relentless heat or craving an unforgettable poolside experience that exudes fun and relaxation, Palm Springs has an array of aquatic havens that promise to quench your thirst for both refreshment and excitement. So, pack your swimsuit and dive into our curated list of the best pools in Palm Springs - where luxury and leisure come together to create a splash-worthy adventure like no other.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d35aaf7c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="saguaro-pools-palm-springs">[![](/images/saguaro-pools-palm-springs.jpg)](/images/saguaro-pools-palm-springs.jpg)</figure>
+<figure id="saguaro-pools-palm-springs"><a href="/images/saguaro-pools-palm-springs.jpg"><img src="/images/saguaro-pools-palm-springs.jpg" alt="" /></a></figure>
 
 #### [The Saguaro Palm Springs](/go/the-saguaro-palm-springs/)
 
@@ -33,7 +33,7 @@ As the sun begins its descent, families can gather around cozy fire pits and enj
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-139409aa"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="omni-rancho-las-palmas-pools-palm-springs">[![](/images/omni-rancho-las-palmas-pools-palm-springs.jpg)](/images/omni-rancho-las-palmas-pools-palm-springs.jpg)</figure>
+<figure id="omni-rancho-las-palmas-pools-palm-springs"><a href="/images/omni-rancho-las-palmas-pools-palm-springs.jpg"><img src="/images/omni-rancho-las-palmas-pools-palm-springs.jpg" alt="" /></a></figure>
 
 #### [Omni Rancho Las Palmas Resort &amp; Spa](/go/omni-rancho-las-palmas-palm-springs/)
 
@@ -54,7 +54,7 @@ At sunset, the poolside ambiance transforms into a magical wonderland, illuminat
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2224e731"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="jw-marriott-desert-springs-pools-palm-springs">[![](/images/jw-marriott-desert-springs-pools-palm-springs.jpg)](/images/jw-marriott-desert-springs-pools-palm-springs.jpg)</figure>
+<figure id="jw-marriott-desert-springs-pools-palm-springs"><a href="/images/jw-marriott-desert-springs-pools-palm-springs.jpg"><img src="/images/jw-marriott-desert-springs-pools-palm-springs.jpg" alt="" /></a></figure>
 
 #### [JW Marriott Desert Springs Resort &amp; Spa](/go/jw-marriott-desert-springs-palm-springs/)
 
@@ -73,7 +73,7 @@ Parents, we've got you covered too! Kick back and relax in the resort's serene a
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-33d12b60"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Westin-rancho-mirage-pools-palm-springs">[![](/images/Westin-rancho-mirage-pools-palm-springs.jpg)](/images/Westin-rancho-mirage-pools-palm-springs.jpg)</figure>
+<figure id="Westin-rancho-mirage-pools-palm-springs"><a href="/images/Westin-rancho-mirage-pools-palm-springs.jpg"><img src="/images/Westin-rancho-mirage-pools-palm-springs.jpg" alt="" /></a></figure>
 
 #### [The Westin Rancho Mirage Golf Resort &amp; Spa](/go/westin-mission-hills-palm-springs/)
 
@@ -94,7 +94,7 @@ Another advantage of the resort's pool area is the availability of poolside dini
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-41ed0c1f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="hyatt-regency-indian-wells-pools-palm-springs">[![](/images/hyatt-regency-indian-wells-pools-palm-springs.jpg)](/images/hyatt-regency-indian-wells-pools-palm-springs.jpg)</figure>
+<figure id="hyatt-regency-indian-wells-pools-palm-springs"><a href="/images/hyatt-regency-indian-wells-pools-palm-springs.jpg"><img src="/images/hyatt-regency-indian-wells-pools-palm-springs.jpg" alt="" /></a></figure>
 
 #### [Hyatt Regency Indian Wells Resort &amp; Spa](/go/hyatt-regency-indian-wells-palm-springs/)
 
@@ -122,5 +122,5 @@ For more information on visiting Palm Springs, check out our awesome family guid
 
 **Like it? Pin it!**
 
-<figure id="best-pools-palm-springs-for-families-with-kids">[![](/images/best-pools-palm-springs-for-families-with-kids-200x300.jpg)](/images/best-pools-palm-springs-for-families-with-kids.jpg)</figure>
+<figure id="best-pools-palm-springs-for-families-with-kids"><a href="/images/best-pools-palm-springs-for-families-with-kids.jpg"><img src="/images/best-pools-palm-springs-for-families-with-kids-200x300.jpg" alt="" /></a></figure>
 </div></section>

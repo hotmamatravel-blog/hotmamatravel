@@ -129,5 +129,5 @@ By following these tips, you can ensure that your move to Fort Lauderdale is as 
 
 Like it? Pin it!
 
-<figure id="tips-for-moving-to-another-state">[![](/images/tips-for-moving-to-another-state-200x300.jpg)](/images/tips-for-moving-to-another-state.jpg)</figure>
+<figure id="tips-for-moving-to-another-state"><a href="/images/tips-for-moving-to-another-state.jpg"><img src="/images/tips-for-moving-to-another-state-200x300.jpg" alt="" /></a></figure>
 </div></div>

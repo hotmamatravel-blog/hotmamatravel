@@ -15,7 +15,7 @@ author: "Amanda Keeley-Thurman"
 
 Welcome to Nevada, where family adventures unfold! Explore everything from the dazzling lights of the [**Las Vegas Strip**](/family-friendly-vegas/) to the natural wonders of Red Rock Canyon. Dive into unique experiences like family-friendly haunted places, exciting hotels, and cool activities. Time to create lasting memories together in Nevada.
 
-<div class="wp-block-stackable-card stk-block-card stk-block stk-50ea72e is-style-default" data-v="2" data-block-id="50ea72e"><div class="stk--no-padding stk-container stk-50ea72e-container stk-hover-parent"><figure class="stk-block-card__image stk-img-wrapper stk-image--shape-stretch">![Ultimate Las Vegas family travel resource](/images/family-friendly-las-vegas.jpg)</figure><div class="stk-container-padding stk-block-card__content"><div class="stk-block-content stk-inner-blocks stk-50ea72e-inner-blocks">
+<div class="wp-block-stackable-card stk-block-card stk-block stk-50ea72e is-style-default" data-v="2" data-block-id="50ea72e"><div class="stk--no-padding stk-container stk-50ea72e-container stk-hover-parent"><figure class="stk-block-card__image stk-img-wrapper stk-image--shape-stretch"><img src="/images/family-friendly-las-vegas.jpg" alt="Ultimate Las Vegas family travel resource" /></figure><div class="stk-container-padding stk-block-card__content"><div class="stk-block-content stk-inner-blocks stk-50ea72e-inner-blocks">
 <div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-9bc1b0f" id="a-href-https-hotmamatravel-com-united-states-family-friendly-vegas-target-blank-data-type-page-data-id-17941-rel-noreferrer-noopener-las-vegas-a" data-block-id="9bc1b0f">
 
 ## [Las Vegas](/family-friendly-vegas/)

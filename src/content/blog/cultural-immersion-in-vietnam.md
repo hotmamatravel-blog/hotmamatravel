@@ -16,7 +16,7 @@ Vietnam, a country steeped in rich history and vibrant traditions, offers travel
 opportunity to immerse themselves in its unique culture. From bustling cities to serene countryside, this Southeast Asian gem is a treasure trove of experiences that will leave you spellbound. Get ready to embark on a journey of discovery as you explore the fascinating traditions and embrace the warmth of local life in Vietnam.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6374542c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Vietnam-temple">[![](/images/Vietnam-temple.jpg)](/images/Vietnam-temple.jpg)</figure>
+<figure id="Vietnam-temple"><a href="/images/Vietnam-temple.jpg"><img src="/images/Vietnam-temple.jpg" alt="" /></a></figure>
 
 #### The Allure of Ancient Temples and Imperial Cities
 
@@ -27,7 +27,7 @@ In Vietnam, history comes alive as you wander through the ancient temples and im
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3c58e65b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="hanoi-vietnam-cultural-immersion">[![](/images/hanoi-vietnam.jpg)](/images/hanoi-vietnam.jpg)</figure>
+<figure id="hanoi-vietnam-cultural-immersion"><a href="/images/hanoi-vietnam.jpg"><img src="/images/hanoi-vietnam.jpg" alt="" /></a></figure>
 
 #### Exploring the Enigmatic Streets of Hanoi and Ho Chi Minh City
 
@@ -40,7 +40,7 @@ On the other hand, the southern metropolis of Ho Chi Minh City, formerly known a
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4fc2967f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="vietnam-festivals-traditions">[![](/images/vietnam-festivals-traditions.jpg)](/images/vietnam-festivals-traditions.jpg)</figure>
+<figure id="vietnam-festivals-traditions"><a href="/images/vietnam-festivals-traditions.jpg"><img src="/images/vietnam-festivals-traditions.jpg" alt="" /></a></figure>
 
 #### Embracing Vietnamese Traditions and Festivals
 
@@ -49,7 +49,7 @@ One of the highlights of a cultural immersion in Vietnam is the chance to witnes
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b1f5c877"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="vietnam-cuisine">[![](/images/vietnam-cuisine.jpg)](/images/vietnam-cuisine.jpg)</figure>
+<figure id="vietnam-cuisine"><a href="/images/vietnam-cuisine.jpg"><img src="/images/vietnam-cuisine.jpg" alt="" /></a></figure>
 
 #### Unforgettable Culinary Adventures
 
@@ -67,5 +67,5 @@ A cultural immersion in Vietnam promises an unforgettable journey through tradit
 
 **Like it? Pin it!**
 
-<figure id="cultural-immersion-vietnam-traditions-local-life">[![](/images/Cultural-Immersion-vietnam-traditions-and-local-life-200x300.jpg)](/images/Cultural-Immersion-vietnam-traditions-and-local-life.jpg)</figure>
+<figure id="cultural-immersion-vietnam-traditions-local-life"><a href="/images/Cultural-Immersion-vietnam-traditions-and-local-life.jpg"><img src="/images/Cultural-Immersion-vietnam-traditions-and-local-life-200x300.jpg" alt="" /></a></figure>
 </div></section>

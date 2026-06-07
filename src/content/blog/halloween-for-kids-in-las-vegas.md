@@ -23,7 +23,7 @@ Las Vegas has a ton of awesome history, and with history comes ghost stories. Co
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Zak Bagans Haunted Museum in Las Vegas](/images/zak-bagans-haunted-museum-church.jpg)](/images/zak-bagans-haunted-museum-church.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/zak-bagans-haunted-museum-church.jpg"><img src="/images/zak-bagans-haunted-museum-church.jpg" alt="Zak Bagans Haunted Museum in Las Vegas" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -38,7 +38,7 @@ For the brave souls in your family, [Zak Bagans' The Haunted Museum](https://the
 
 **[See Photos, Reviews, &amp; More](/go/zak-bagans-haunted-museum/)**
 
-<div class="wp-block-uagb-image uagb-block-4da0675b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Bodies Exhibition in Vegas](/images/real-bodies-ballys-las-vegas-attraction-for-teens.jpg)](/images/real-bodies-ballys-las-vegas-attraction-for-teens.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-4da0675b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/real-bodies-ballys-las-vegas-attraction-for-teens.jpg"><img src="/images/real-bodies-ballys-las-vegas-attraction-for-teens.jpg" alt="Bodies Exhibition in Vegas" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-84060616">
 
@@ -53,7 +53,7 @@ This makes for a perfectly spooky Halloween activity, adding a touch of the maca
 
 **[See Photos, Reviews, &amp; More](/go/bodies-exhibition-las-vegas-bov/)**
 
-<div class="wp-block-uagb-image uagb-block-8be70bd8 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Area 15 best arcade in las vegas](/images/area-15-las-vegas.jpg)](/images/area-15-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-8be70bd8 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/area-15-las-vegas.jpg"><img src="/images/area-15-las-vegas.jpg" alt="Area 15 best arcade in las vegas" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-1a7ff03a">
 
@@ -74,7 +74,7 @@ Kids will be enchanted by the interactive experiences and mesmerizing art instal
 
 **[See Photos, Reviews, &amp; More](/go/area-15-las-vegas-teens/)**
 
-<div class="wp-block-uagb-image uagb-block-60db01d7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Criss Angel Mindfreak show](/images/criss-angel-mindfreak-planet-hollywood.jpg)](/images/criss-angel-mindfreak-planet-hollywood.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-60db01d7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/criss-angel-mindfreak-planet-hollywood.jpg"><img src="/images/criss-angel-mindfreak-planet-hollywood.jpg" alt="Criss Angel Mindfreak show" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-98e6b954">
 
@@ -93,7 +93,7 @@ Not only does the Criss Angel MindFreak show offer high-energy entertainment, bu
 
 **[See Photos, Reviews, &amp; More](/go/criss-angel-las-vegas-bov/)**
 
-<div class="wp-block-uagb-image uagb-block-724efe0f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="nightmare-toys-halloween-las-vegas"><figure>[![Nightmare Toys Halloween in Las Vegas ](/images/nightmare-toys-halloween-las-vegas.jpg)](/images/nightmare-toys-halloween-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-724efe0f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="nightmare-toys-halloween-las-vegas"><figure><a href="/images/nightmare-toys-halloween-las-vegas.jpg"><img src="/images/nightmare-toys-halloween-las-vegas.jpg" alt="Nightmare Toys Halloween in Las Vegas " /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-5a5b3953">
 
@@ -116,7 +116,7 @@ My kids love visiting Nightmare toys to pick up a unique and creepy souvenir. Pr
 
 **[See Photos, Reviews, &amp; More](/go/nightmare-toys-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-b0680585 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="las-vegas-halloween-escape-rooms"><figure>[![Saw and Blair Witch Escape Rooms Las Vegas](/images/las-vegas-halloween-escape-rooms.jpg)](/images/las-vegas-halloween-escape-rooms.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-b0680585 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="las-vegas-halloween-escape-rooms"><figure><a href="/images/las-vegas-halloween-escape-rooms.jpg"><img src="/images/las-vegas-halloween-escape-rooms.jpg" alt="Saw and Blair Witch Escape Rooms Las Vegas" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-3527a045">
 
@@ -135,7 +135,7 @@ Escape Blair Witch brings the iconic film to life. Start at the Burkittsville Ra
 
 **[See Photos, Reviews, &amp; More](/go/saw-escape-room-escape-blair-witch-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-d1e38b45 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Las Vegas Mob Museum](/images/mob-museum-las-vegas.jpg)](/images/mob-museum-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-d1e38b45 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/mob-museum-las-vegas.jpg"><img src="/images/mob-museum-las-vegas.jpg" alt="Las Vegas Mob Museum" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-5981fa06">
 
@@ -150,7 +150,7 @@ The Mob Museum makes for an eerie and educational attraction for families all ye
 
 **[See Photos, Reviews, &amp; More](/go/las-vegas-mob-museum/)**
 
-<div class="wp-block-uagb-image uagb-block-1ef7958c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![stranger things store las vegas](/images/free-stranger-things-store-las-vegas.jpg)](/images/free-stranger-things-store-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-1ef7958c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/free-stranger-things-store-las-vegas.jpg"><img src="/images/free-stranger-things-store-las-vegas.jpg" alt="stranger things store las vegas" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-c6576c50">
 
@@ -190,7 +190,7 @@ During these guided tours, you'll hear chilling stories that bring the city's da
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-3591c9ae wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="sistahs-hocus-pocus-parody-las-vegas"><figure>[![Sistahs! Hocus Pocus Parody Las Vegas](/images/sistahs-hocus-pocus-parody-las-vegas.jpg)](/images/sistahs-hocus-pocus-parody-las-vegas.jpg)<figcaption class="uagb-image-caption">Courtesy of Vegas.com</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-3591c9ae wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="sistahs-hocus-pocus-parody-las-vegas"><figure><a href="/images/sistahs-hocus-pocus-parody-las-vegas.jpg"><img src="/images/sistahs-hocus-pocus-parody-las-vegas.jpg" alt="Sistahs! Hocus Pocus Parody Las Vegas" /></a><figcaption class="uagb-image-caption">Courtesy of Vegas.com</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-3f48094a">
 
@@ -209,7 +209,7 @@ Whether you’re a fan of the original movie or just looking for a fantastic Hal
 
 **[See Photos, Reviews, &amp; More](/go/sistahs-hocus-pocus-show-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-509dcac6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="fremont-street-las-vegas-halloween"><figure>[![Fremont Street Halloween in Las Vegas](/images/fremont-street-las-vegas-halloween.jpg)](/images/fremont-street-las-vegas-halloween.jpg)<figcaption class="uagb-image-caption">Courtesy of [Fremont Street Experience](https://vegasexperience.com/halloween/)</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-509dcac6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="fremont-street-las-vegas-halloween"><figure><a href="/images/fremont-street-las-vegas-halloween.jpg"><img src="/images/fremont-street-las-vegas-halloween.jpg" alt="Fremont Street Halloween in Las Vegas" /></a><figcaption class="uagb-image-caption">Courtesy of [Fremont Street Experience](https://vegasexperience.com/halloween/)</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-cec13977">
 
@@ -241,7 +241,7 @@ Dress up, head over, and dive into a Halloween celebration filled with thrills, 
 
 **[See Photos, Reviews, &amp; More](https://www.opportunityvillage.org/events/halloveen)**
 
-<div class="wp-block-uagb-image uagb-block-20ce0bc6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![shark reef mandalay bay las vegas](/images/Shark-reef-mandalay-bay-las-vegas.jpg)](/images/Shark-reef-mandalay-bay-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-20ce0bc6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Shark-reef-mandalay-bay-las-vegas.jpg"><img src="/images/Shark-reef-mandalay-bay-las-vegas.jpg" alt="shark reef mandalay bay las vegas" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-cb74cd2a">
 
@@ -258,7 +258,7 @@ Explore the haunted shipwreck and enjoy aquatic thrills and chills at Mandalay B
 
 **[See Photos, Reviews, &amp; More](/go/shark-reef-mandalay-bay-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-794fb4ba wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![hyper x arena at Luxor las vegas](/images/affordable-family-activities-las-vegas.jpg)](/images/affordable-family-activities-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-794fb4ba wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/affordable-family-activities-las-vegas.jpg"><img src="/images/affordable-family-activities-las-vegas.jpg" alt="hyper x arena at Luxor las vegas" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-695acd33">
 
@@ -283,5 +283,5 @@ Also, check out our [**Best of Nevada**](/nevada-family-travel/) and [**Family-F
 
 Like it? Pin it!
 
-<figure id="halloween-for-kids-las-vegas" data-essb-pin-description="Spooktacular Halloween for kids in Las Vegas">[![Spooky Halloween for Kids in Las Vegas ](/images/best-halloween-for-kids-las-vegas-200x300.jpg)](/images/best-halloween-for-kids-las-vegas.jpg)</figure>
+<figure id="halloween-for-kids-las-vegas" data-essb-pin-description="Spooktacular Halloween for kids in Las Vegas"><a href="/images/best-halloween-for-kids-las-vegas.jpg"><img src="/images/best-halloween-for-kids-las-vegas-200x300.jpg" alt="Spooky Halloween for Kids in Las Vegas " /></a></figure>
 </div></div>

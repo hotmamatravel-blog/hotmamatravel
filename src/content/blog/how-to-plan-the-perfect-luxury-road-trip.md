@@ -98,5 +98,5 @@ A luxury road trip is an activity to indulge in whenever possible, and these tip
 
 Like it? Pin it!
 
-<figure id="tips-for-planning-a-luxury-road-trip">[![](/images/tips-for-planning-a-luxury-road-trip-200x300.jpg)](/images/tips-for-planning-a-luxury-road-trip.jpg)</figure>
+<figure id="tips-for-planning-a-luxury-road-trip"><a href="/images/tips-for-planning-a-luxury-road-trip.jpg"><img src="/images/tips-for-planning-a-luxury-road-trip-200x300.jpg" alt="" /></a></figure>
 </div></div>

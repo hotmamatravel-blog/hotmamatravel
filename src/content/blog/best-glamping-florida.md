@@ -20,7 +20,7 @@ Treehouses, Yurts and Chickee Huts, Oh My! Florida is the most southeastern stat
 <div class="uagb-separator"></div></div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6b3b8c2e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="trail-lakes-campground-glamping-florida">[![](/images/trail-lakes-campground-glamping-florida.jpg)](/images/trail-lakes-campground-glamping-florida.jpg)</figure>
+<figure id="trail-lakes-campground-glamping-florida"><a href="/images/trail-lakes-campground-glamping-florida.jpg"><img src="/images/trail-lakes-campground-glamping-florida.jpg" alt="" /></a></figure>
 
 #### [Trail Lakes Campground](/go/trail-lakes-campground-glamping-florida/)
 
@@ -37,7 +37,7 @@ You are in the middle of the Everglades and surrounded by nature. Trail Lakes Ca
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0daf414a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="coldwater-gardens-glamping-florida">[![](/images/coldwater-gardens-glamping-florida.jpg)](/images/coldwater-gardens-glamping-florida.jpg)</figure>
+<figure id="coldwater-gardens-glamping-florida"><a href="/images/coldwater-gardens-glamping-florida.jpg"><img src="/images/coldwater-gardens-glamping-florida.jpg" alt="" /></a></figure>
 
 #### [Coldwater Gardens](/go/coldwater-gardens-glamping-florida/)
 
@@ -56,7 +56,7 @@ While staying at Coldwater Gardens, you can enjoy tubing, kayaking and other wat
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-29ff2e11"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="camptel-cedar-key-glamping-florida">[![](/images/camptel-cedar-key-glamping-florida.jpg)](/images/camptel-cedar-key-glamping-florida.jpg)</figure>
+<figure id="camptel-cedar-key-glamping-florida"><a href="/images/camptel-cedar-key-glamping-florida.jpg"><img src="/images/camptel-cedar-key-glamping-florida.jpg" alt="" /></a></figure>
 
 #### [Camptel Cedar Key](/go/camptel-resort-glamping-florida/)
 
@@ -73,7 +73,7 @@ Onsite you can partake in a number of activities like kayaking, AirBoat Tours, f
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-965be039"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="live-oak-landing-glamping-florida">[![](/images/live-oak-landing-glamping-florida.jpg)](/images/live-oak-landing-glamping-florida.jpg)</figure>
+<figure id="live-oak-landing-glamping-florida"><a href="/images/live-oak-landing-glamping-florida.jpg"><img src="/images/live-oak-landing-glamping-florida.jpg" alt="" /></a></figure>
 
 #### [Live Oak Landing](/go/live-oak-landing-glamping-florida/)
 
@@ -90,7 +90,7 @@ Onsite, you and your family can enjoy a sparkling pool with open concept luxury 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a93c6c4c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="treehouse-cabin-retreats-glamping-florida">[![](/images/treehouse-cabin-retreats-glamping-florida.jpg)](/images/treehouse-cabin-retreats-glamping-florida.jpg)</figure>
+<figure id="treehouse-cabin-retreats-glamping-florida"><a href="/images/treehouse-cabin-retreats-glamping-florida.jpg"><img src="/images/treehouse-cabin-retreats-glamping-florida.jpg" alt="" /></a></figure>
 
 #### [Treehouse Cabin Retreat](/go/tree-house-cabin-retreat-glamping-florida/)
 
@@ -150,5 +150,5 @@ If you would more information on glamping in the United States, please see our o
 
 **Like it? Pin it!**
 
-<figure id="5-best-glamping-florida-sites">[![](/images/5-best-glamping-florida-sites-200x300.jpg)](/images/5-best-glamping-florida-sites.jpg)</figure>
+<figure id="5-best-glamping-florida-sites"><a href="/images/5-best-glamping-florida-sites.jpg"><img src="/images/5-best-glamping-florida-sites-200x300.jpg" alt="" /></a></figure>
 </div></section>

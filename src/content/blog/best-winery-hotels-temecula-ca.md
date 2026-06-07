@@ -18,10 +18,10 @@ If you are planning a family weekend getaway, I suggest checking out my list of 
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<figure id="vinarmour-travel-wine-carrier">[![](/images/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg)](/go/vinarmour-luxury-wine-bag/)</figure>
+<figure id="vinarmour-travel-wine-carrier"><a href="/go/vinarmour-luxury-wine-bag/"><img src="/images/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg" alt="" /></a></figure>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-619ad09a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="wilson-creek-manor-temecula-winery-hotels">[![](/images/wilson-creek-manor-temecula-winery-hotels.jpg)](/images/wilson-creek-manor-temecula-winery-hotels.jpg)</figure>
+<figure id="wilson-creek-manor-temecula-winery-hotels"><a href="/images/wilson-creek-manor-temecula-winery-hotels.jpg"><img src="/images/wilson-creek-manor-temecula-winery-hotels.jpg" alt="" /></a></figure>
 
 #### [Wilson Creek Winery Manor](/go/wilson-creek-manor-temecula-ca/)
 
@@ -38,7 +38,7 @@ For entertainment, the Wilson Creek Manor has a game room with a pool table, pin
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9110242b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="europa-village-winery-resort-temecula-winery-hotels">[![](/images/europa-village-winery-resort-temecula-winery-hotels.jpg)](/images/europa-village-winery-resort-temecula-winery-hotels.jpg)</figure>
+<figure id="europa-village-winery-resort-temecula-winery-hotels"><a href="/images/europa-village-winery-resort-temecula-winery-hotels.jpg"><img src="/images/europa-village-winery-resort-temecula-winery-hotels.jpg" alt="" /></a></figure>
 
 #### [Europa Village](/go/eupora-village-winery-temecula-ca/)
 
@@ -55,7 +55,7 @@ The Bolero Casitas allow you to immerse yourself in the Spanish experience. Comp
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-fb95440f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="south-coast-winery-resort-temecula-winery-hotels">[![](/images/south-coast-winery-resort-temecula-winery-hotels.jpg)](/images/south-coast-winery-resort-temecula-winery-hotels.jpg)</figure>
+<figure id="south-coast-winery-resort-temecula-winery-hotels"><a href="/images/south-coast-winery-resort-temecula-winery-hotels.jpg"><img src="/images/south-coast-winery-resort-temecula-winery-hotels.jpg" alt="" /></a></figure>
 
 #### [South Coast Winery](/go/south-coast-winery-temecula-ca/)
 
@@ -70,7 +70,7 @@ At South Coast Winery, you have the option of staying in a luxury villa or suite
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d6b9c378"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="inn-churon-winery-temecula-winery-hotels">[![](/images/inn-churon-winery-temecula-winery-hotels.jpg)](/images/inn-churon-winery-temecula-winery-hotels.jpg)</figure>
+<figure id="inn-churon-winery-temecula-winery-hotels"><a href="/images/inn-churon-winery-temecula-winery-hotels.jpg"><img src="/images/inn-churon-winery-temecula-winery-hotels.jpg" alt="" /></a></figure>
 
 #### [Inn at Churon Winery](/go/inn-churon-winery-temecula-ca/)
 
@@ -85,7 +85,7 @@ When you stay at the Inn at Churon Winery, you will like you have stepped out of
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8369cb9d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="ponte-vineyard-inn-temecula-winery-hotels">[![](/images/ponte-vineyard-inn-temecula-winery-hotels.jpg)](/images/ponte-vineyard-inn-temecula-winery-hotels.jpg)</figure>
+<figure id="ponte-vineyard-inn-temecula-winery-hotels"><a href="/images/ponte-vineyard-inn-temecula-winery-hotels.jpg"><img src="/images/ponte-vineyard-inn-temecula-winery-hotels.jpg" alt="" /></a></figure>
 
 #### [Ponte Vineyard Inn](/go/ponte-vineyard-inn-temecula-ca/)
 
@@ -100,7 +100,7 @@ This 90 room boutique Inn in Temecula wine country makes for a great stay when v
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-30772af1"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="domaine-chardonnay-temecula-winery-hotels">[![](/images/domaine-chardonnay-temecula-winery-hotels.jpg)](/images/domaine-chardonnay-temecula-winery-hotels.jpg)</figure>
+<figure id="domaine-chardonnay-temecula-winery-hotels"><a href="/images/domaine-chardonnay-temecula-winery-hotels.jpg"><img src="/images/domaine-chardonnay-temecula-winery-hotels.jpg" alt="" /></a></figure>
 
 #### [Domaine Chardonnay Vineyard](/go/domaine-chardonnay-vineyard-temecula-ca/)
 
@@ -115,7 +115,7 @@ Set on a Chardonnay vineyard, Domaine Chardonnay is reminiscent of the Loire Val
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-735ef75b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="carter-estate-winery-resort-temecula-winery-hotels">[![](/images/carter-estate-winery-resort-temecula-winery-hotels.jpg)](/images/carter-estate-winery-resort-temecula-winery-hotels.jpg)</figure>
+<figure id="carter-estate-winery-resort-temecula-winery-hotels"><a href="/images/carter-estate-winery-resort-temecula-winery-hotels.jpg"><img src="/images/carter-estate-winery-resort-temecula-winery-hotels.jpg" alt="" /></a></figure>
 
 #### [Carter Estate Winery and Resort](/go/carter-estate-winery-resort-temecula-ca/)
 

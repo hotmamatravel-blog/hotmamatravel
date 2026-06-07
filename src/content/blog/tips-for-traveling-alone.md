@@ -96,7 +96,7 @@ So throw yourself into it all. We’re sure you’ll have a great time, and, in 
 
 Like it? Pin it!
 
-<figure id="tips-solo-travel">[![Tips for Traveling Solo](/images/8-tips-solo-travel-200x300.jpg)](/images/8-tips-solo-travel.jpg)</figure>
+<figure id="tips-solo-travel"><a href="/images/8-tips-solo-travel.jpg"><img src="/images/8-tips-solo-travel-200x300.jpg" alt="Tips for Traveling Solo" /></a></figure>
 </div></div>
 
 

@@ -39,7 +39,7 @@ This article will help you discover some amazing kid-friendly hotels in Southern
 
 **Disclaimer**: Links in this page are meant to help you book a room easier by linking directly to specific hotel pages on partner websites (since we can't take bookings directly). If you click a link and decide to book a room, we may earn a small commission on this transaction. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<figure>[![Pendry San Diego Hotel Christmas Breakfast](/images/pendry-san-diego-hotel-with-kids-breakfast.jpg)](/images/pendry-san-diego-hotel-with-kids-breakfast.jpg)<figcaption class="wp-element-caption">Photo courtesy of Pendry San Diego</figcaption></figure>
+<figure><a href="/images/pendry-san-diego-hotel-with-kids-breakfast.jpg"><img src="/images/pendry-san-diego-hotel-with-kids-breakfast.jpg" alt="Pendry San Diego Hotel Christmas Breakfast" /></a><figcaption class="wp-element-caption">Photo courtesy of Pendry San Diego</figcaption></figure>
 
 ## [Pendry San Diego](/go/pendry-san-diego-hotel/)
 
@@ -53,7 +53,7 @@ If your family is like mine, then the first thing you will love is Nason's Beer 
 
 **[See More Photos, Reviews &amp; More](/go/pendry-san-diego-hotel/)**
 
-<figure>[![Christmas Mission Inn Hotel Riverside ](/images/mission-inn-hotel-christmas-packages.jpg)](/images/mission-inn-hotel-christmas-packages.jpg)</figure>
+<figure><a href="/images/mission-inn-hotel-christmas-packages.jpg"><img src="/images/mission-inn-hotel-christmas-packages.jpg" alt="Christmas Mission Inn Hotel Riverside " /></a></figure>
 
 ## [Mission Inn Hotel &amp; Spa](/go/mission-inn-hotel-spa-riverside/)
 
@@ -67,7 +67,7 @@ During the holiday season, kids are given the royal treatment with festive Chris
 
 **[See More Photos, Reviews &amp; More](/go/mission-inn-hotel-spa-riverside/)**
 
-<figure>[![Ritz Carlton gingerbread display](/images/ritz-laguna-niguel-gingerbread-display.jpg)](/images/ritz-laguna-niguel-gingerbread-display.jpg)</figure>
+<figure><a href="/images/ritz-laguna-niguel-gingerbread-display.jpg"><img src="/images/ritz-laguna-niguel-gingerbread-display.jpg" alt="Ritz Carlton gingerbread display" /></a></figure>
 
 ## [The Ritz-Carlton, Laguna Niguel](/go/ritz-carlton-laguna-niguel-hotel/)
 
@@ -83,7 +83,7 @@ Your kids will love cozy holiday story time, gingerbread house, cookie decoratin
 
 **[See More Photos, Reviews, &amp; More](/go/ritz-carlton-laguna-niguel-hotel/)**
 
-<div class="wp-block-uagb-image uagb-block-d0184dfc wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Teddy bear Tea time at Westgate San Diego](/images/westgate-san-diego-christmas-holiday-hotel.jpg)](/images/westgate-san-diego-christmas-holiday-hotel.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-d0184dfc wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/westgate-san-diego-christmas-holiday-hotel.jpg"><img src="/images/westgate-san-diego-christmas-holiday-hotel.jpg" alt="Teddy bear Tea time at Westgate San Diego" /></a></figure></div>
 
 ## [The Westgate Hotel San Diego](/go/westgate-hotel-san-diego/)
 
@@ -97,7 +97,7 @@ In addition to the holiday tea services, there is a fun Breakfast with Santa whe
 
 **[See More Photos, Reviews &amp; More](/go/westgate-hotel-san-diego/)**
 
-<div class="wp-block-uagb-image uagb-block-37c74a6d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Christmas at Del Coronado hotel](/images/hotel-del-coronado-christmas-hotels-socal.jpg)](/images/hotel-del-coronado-christmas-hotels-socal.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-37c74a6d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/hotel-del-coronado-christmas-hotels-socal.jpg"><img src="/images/hotel-del-coronado-christmas-hotels-socal.jpg" alt="Christmas at Del Coronado hotel" /></a></figure></div>
 
 ## [Hotel Del Coronado](/go/hotel-del-coronado-san-diego/)
 
@@ -121,7 +121,7 @@ The Hotel del Coronado is known for its annual lighting of the Christmas tree, a
 
 **[See More Photos, Reviews &amp; More](/go/hotel-del-coronado-san-diego/)**
 
-<div class="wp-block-uagb-image uagb-block-fcf6051b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Westin Carlsbad Resort and Spa](/images/westin-hotel-carlsbad.jpg)](/images/westin-hotel-carlsbad.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-fcf6051b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/westin-hotel-carlsbad.jpg"><img src="/images/westin-hotel-carlsbad.jpg" alt="Westin Carlsbad Resort and Spa" /></a></figure></div>
 
 ## [Westin Carlsbad Resort &amp; Spa](/go/westin-carlsbad-resort-spa/)
 
@@ -133,7 +133,7 @@ For three Thursdays in December, the Westin Carlsbad Resort &amp; Spa holds exci
 
 **[See More Photos, Reviews &amp; More](/go/westin-carlsbad-resort-spa/)**
 
-<div class="wp-block-uagb-image uagb-block-bd0c16cd wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Christmas at Terranea Resort ](/images/terranea-resort-christmas-hotel.jpg)](/images/terranea-resort-christmas-hotel.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-bd0c16cd wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/terranea-resort-christmas-hotel.jpg"><img src="/images/terranea-resort-christmas-hotel.jpg" alt="Christmas at Terranea Resort " /></a></figure></div>
 
 ## [Terranea Resort](/go/terranea-resort-rancho-palos-verdes/)
 
@@ -157,5 +157,5 @@ For more cool family hotels in more cool cities, explore my favorite[](/best-fam
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Looking for some holiday magic? Check out these exciting Christmas hotels in Southern California to take your family travels to the next level. #christmashotels #southerncalifornia #familytravel #holidaytravel">[![Best Christmas Hotels in Southern California that Families Will Love.](/images/Best-Christmas-Hotels-in-Southern-California-200x300.jpg)](/images/Best-Christmas-Hotels-in-Southern-California.jpg)</figure>
+<figure data-essb-pin-description="Looking for some holiday magic? Check out these exciting Christmas hotels in Southern California to take your family travels to the next level. #christmashotels #southerncalifornia #familytravel #holidaytravel"><a href="/images/Best-Christmas-Hotels-in-Southern-California.jpg"><img src="/images/Best-Christmas-Hotels-in-Southern-California-200x300.jpg" alt="Best Christmas Hotels in Southern California that Families Will Love." /></a></figure>
 </div></div>

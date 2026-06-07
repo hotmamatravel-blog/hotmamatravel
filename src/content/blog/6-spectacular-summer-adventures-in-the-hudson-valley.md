@@ -53,7 +53,7 @@ The next stop is the [Hudson Highlands State Park](https://parks.ny.gov/parks/hu
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b943ffde"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="kaaterskill-falls-hudson-vally-new-york">[![](/images/kaaterskill-falls-hudson-vally-new-york.jpg)](/images/kaaterskill-falls-hudson-vally-new-york.jpg)</figure>
+<figure id="kaaterskill-falls-hudson-vally-new-york"><a href="/images/kaaterskill-falls-hudson-vally-new-york.jpg"><img src="/images/kaaterskill-falls-hudson-vally-new-york.jpg" alt="" /></a></figure>
 
 #### [The Majestic Kaaterskill Falls: A Hiker's Delight](/go/kaaterskill-falls-ny/)
 
@@ -64,7 +64,7 @@ How about a hike to the tallest waterfall in New York? [Kaaterskill Falls](https
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-16a81806"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="state-capitol-albany-hudson-vally-new-york">[![](/images/state-capitol-albany-hudson-vally-new-york.jpg)](/images/state-capitol-albany-hudson-vally-new-york.jpg)</figure>
+<figure id="state-capitol-albany-hudson-vally-new-york"><a href="/images/state-capitol-albany-hudson-vally-new-york.jpg"><img src="/images/state-capitol-albany-hudson-vally-new-york.jpg" alt="" /></a></figure>
 
 #### [The State Capital of Albany: A Blend of History and Architecture](/go/new-york-state-capitol-albany-ny/)
 
@@ -85,7 +85,7 @@ Here’s something for everyone: the[Hudson Valley Adventure Guide](https://huds
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-85caa6ac"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="mohonk-moutain-house-hudson-vally-new-york">[![](/images/mohonk-moutain-house-hudson-vally-new-york.jpg)](/images/mohonk-moutain-house-hudson-vally-new-york.jpg)</figure>
+<figure id="mohonk-moutain-house-hudson-vally-new-york"><a href="/images/mohonk-moutain-house-hudson-vally-new-york.jpg"><img src="/images/mohonk-moutain-house-hudson-vally-new-york.jpg" alt="" /></a></figure>
 
 #### [The Mohonk Mountain House: A Royal Retreat](/go/mohonk-mountain-house-new-york/)
 

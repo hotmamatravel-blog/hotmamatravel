@@ -76,5 +76,5 @@ Renting a holiday home offers a wealth of benefits that can enhance your vacatio
 
 Like it? Pin it!
 
-<figure id="good-reasons-to-rent-out-holiday-home">[![](/images/good-reasons-to-rent-out-holiday-home-200x300.jpg)](/images/good-reasons-to-rent-out-holiday-home.jpg)</figure>
+<figure id="good-reasons-to-rent-out-holiday-home"><a href="/images/good-reasons-to-rent-out-holiday-home.jpg"><img src="/images/good-reasons-to-rent-out-holiday-home-200x300.jpg" alt="" /></a></figure>
 </div></div>

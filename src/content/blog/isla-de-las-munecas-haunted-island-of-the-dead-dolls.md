@@ -24,7 +24,7 @@ Hi, I am Warren from [The Nomad Hive](https://thenomadhive.com/) and I hope you 
 Nestled among the canals of Xochimilco, a short trip from Mexico City, lies a unique and haunting destination: Isla de las Muñecas, or the Island of the Dead Dolls. This small island presents a disturbing gallery of dolls, decaying, dismembered, and hanging from trees. The sight is as unsettling as it is captivating, drawing visitors from around the world to witness its eerie beauty and to experience one of the most haunted places in Mexico. The island's story is a fascinating blend of local folklore, personal tragedy, and a touch of the supernatural.
 
 <div class="wp-block-uagb-container uagb-block-5c0803f5 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-truth-about-Isla-De-Las-Muñecas-Haunted-Island-of-Dead-Dolls"><figure>[![True Story Behind the Haunted Island of Dead Dolls in Mexio](/images/the-truth-about-Isla-De-Las-Munecas-Haunted-Island-of-Dead-Dolls.jpg)](/images/the-truth-about-Isla-De-Las-Munecas-Haunted-Island-of-Dead-Dolls.jpg)<figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-truth-about-Isla-De-Las-Muñecas-Haunted-Island-of-Dead-Dolls"><figure><a href="/images/the-truth-about-Isla-De-Las-Munecas-Haunted-Island-of-Dead-Dolls.jpg"><img src="/images/the-truth-about-Isla-De-Las-Munecas-Haunted-Island-of-Dead-Dolls.jpg" alt="True Story Behind the Haunted Island of Dead Dolls in Mexio" /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -43,7 +43,7 @@ Don passed away in 2001, and some say his death mirrored the girl's, found drown
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-8196aebd alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-6c6db943 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Haunted-Island-of-Dead-Dolls"><figure>[![Is Isla de las Munecas Haunted?](/images/Haunted-Island-of-Dead-Dolls.jpg)](/images/Haunted-Island-of-Dead-Dolls.jpg)<figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-6c6db943 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Haunted-Island-of-Dead-Dolls"><figure><a href="/images/Haunted-Island-of-Dead-Dolls.jpg"><img src="/images/Haunted-Island-of-Dead-Dolls.jpg" alt="Is Isla de las Munecas Haunted?" /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-2f10b30c">
 
@@ -64,7 +64,7 @@ The haunting aura of Isla de las Muñecas stirs debates about its paranormal sta
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
 <div class="wp-block-uagb-container uagb-block-f6909506 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-0ec15a27 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="getting-to-isla-de-las-muncas"><figure>[![How to get to Isla de las Munecas](/images/getting-to-isla-de-las-muncas-1.jpg)](/images/getting-to-isla-de-las-muncas-1.jpg)<figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-0ec15a27 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="getting-to-isla-de-las-muncas"><figure><a href="/images/getting-to-isla-de-las-muncas-1.jpg"><img src="/images/getting-to-isla-de-las-muncas-1.jpg" alt="How to get to Isla de las Munecas" /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
 
 To start your adventure to the Island of the Dead Dolls, you first need to go to Xochimilco. From Mexico City, the most straightforward way to get to Xochimilco is by taking a 30-minute Uber or taxi ride.
 
@@ -75,7 +75,7 @@ Upon arriving at Xochimilco, hiring a trajinera, a colorful, flat-bottomed boat,
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-9e5e5c1b alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-c90fb7c1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="island-of-dolls-isla-de-las-muncas"><figure>[![Real Haunted Island of Dead Dolls](/images/island-of-dolls-isla-de-las-muncas.jpg)](/images/island-of-dolls-isla-de-las-muncas.jpg)<figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-c90fb7c1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="island-of-dolls-isla-de-las-muncas"><figure><a href="/images/island-of-dolls-isla-de-las-muncas.jpg"><img src="/images/island-of-dolls-isla-de-las-muncas.jpg" alt="Real Haunted Island of Dead Dolls" /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-cd312584">
 
@@ -96,7 +96,7 @@ Once you're on the trajinera and en route, it's crucial to ensure that you're he
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
 <div class="wp-block-uagb-container uagb-block-9dcb6e87 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-6f168660 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="xochimilco-boat-ride-to-isla-de-las-munecas"><figure>[![Xochimilco Boat Ride ](/images/xochimilco-boat-ride-to-isla-de-las-munecas.jpg)](/images/xochimilco-boat-ride-to-isla-de-las-munecas.jpg)<figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-6f168660 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="xochimilco-boat-ride-to-isla-de-las-munecas"><figure><a href="/images/xochimilco-boat-ride-to-isla-de-las-munecas.jpg"><img src="/images/xochimilco-boat-ride-to-isla-de-las-munecas.jpg" alt="Xochimilco Boat Ride " /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
 
 These traditional boats, brightly painted and often adorned with colorful flowers and names, provide a vibrant and authentic Mexican experience. As you glide through the ancient canal system of Xochimilco, you're stepping into a living piece of Mexican culture and history.
 
@@ -107,7 +107,7 @@ The canals, remnants of a vast water transport system built by the Aztecs, are n
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-b317763d alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-4136ea15 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="xochimilco-boat-ride-to-island-of-dolls"><figure>[![Boat ride to island of dolls in mexico](/images/xochimilco-boat-ride-to-island-of-dolls.jpg)](/images/xochimilco-boat-ride-to-island-of-dolls.jpg)<figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-4136ea15 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="xochimilco-boat-ride-to-island-of-dolls"><figure><a href="/images/xochimilco-boat-ride-to-island-of-dolls.jpg"><img src="/images/xochimilco-boat-ride-to-island-of-dolls.jpg" alt="Boat ride to island of dolls in mexico" /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-d11209ae">
 
@@ -122,7 +122,7 @@ While trajineras are often synonymous with celebration and are popular for parti
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-d68ac3aa alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-3b8d9327 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="haunted-island-of-dead-dolls-mexico"><figure>[![Journey to the Island of the Dead Dolls](/images/haunted-island-of-dead-dolls-mexico.jpg)](/images/haunted-island-of-dead-dolls-mexico.jpg)<figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-3b8d9327 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="haunted-island-of-dead-dolls-mexico"><figure><a href="/images/haunted-island-of-dead-dolls-mexico.jpg"><img src="/images/haunted-island-of-dead-dolls-mexico.jpg" alt="Journey to the Island of the Dead Dolls" /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-d38d6d80">
 
@@ -145,7 +145,7 @@ The boat ride to Isla de las Muñecas is a relaxed and picturesque journey, taki
 The overall expense of the trip can vary, but here’s a breakdown of what we spent during our trip to the haunted island of the dead dolls.
 
 <div class="wp-block-uagb-container uagb-block-7bf7b60c alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-fe35d1c1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="costs-to-visit-haunted-island-dolls"><figure>[![Costs to visit Isla de las Munecas ](/images/costs-to-visit-haunted-island-dolls.jpg)](/images/costs-to-visit-haunted-island-dolls.jpg)<figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-fe35d1c1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="costs-to-visit-haunted-island-dolls"><figure><a href="/images/costs-to-visit-haunted-island-dolls.jpg"><img src="/images/costs-to-visit-haunted-island-dolls.jpg" alt="Costs to visit Isla de las Munecas " /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
 
 ● **Transport to Xochimilco:** The journey started with getting to Xochimilco from Mexico City. The taxi ride cost us $250mxn in the morning.
 
@@ -209,7 +209,7 @@ Weekends in Xochimilco can get quite crowded, with the canals bustling with loca
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-588db190 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-fbfa9ae9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="evening-visit-haunted-island-dolls"><figure>[![Evening visits to island of dead dolls](/images/evening-visit-haunted-island-dolls.jpg)](/images/evening-visit-haunted-island-dolls.jpg)<figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-fbfa9ae9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="evening-visit-haunted-island-dolls"><figure><a href="/images/evening-visit-haunted-island-dolls.jpg"><img src="/images/evening-visit-haunted-island-dolls.jpg" alt="Evening visits to island of dead dolls" /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-2e375a1e">
 
@@ -271,7 +271,7 @@ Along the canals, you'll encounter floating markets and vendors. They offer a va
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-da6de821 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-35dfce1f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="what-to-expect-isla-de-las-muncas-island-of-dolls"><figure>[![Fun at Isla de las munecas ](/images/what-to-expect-isla-de-las-muncas-island-of-dolls.jpg)](/images/what-to-expect-isla-de-las-muncas-island-of-dolls.jpg)<figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-35dfce1f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="what-to-expect-isla-de-las-muncas-island-of-dolls"><figure><a href="/images/what-to-expect-isla-de-las-muncas-island-of-dolls.jpg"><img src="/images/what-to-expect-isla-de-las-muncas-island-of-dolls.jpg" alt="Fun at Isla de las munecas " /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-c6b67f8f">
 
@@ -366,5 +366,5 @@ If you’re looking for a less touristy experience in Mexico, you might be inter
 
 Like it? Pin it!
 
-<figure id="ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls">[![](/images/ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls-200x300.jpg)](/images/ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls.jpg)</figure>
+<figure id="ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls"><a href="/images/ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls.jpg"><img src="/images/ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls-200x300.jpg" alt="" /></a></figure>
 </div></div>

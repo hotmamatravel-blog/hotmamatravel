@@ -82,5 +82,5 @@ Emergency cash, cleaning prior the trip, pet management plans, cutting edge secu
 
 **Like it? Pin it!**
 
-<figure id="6-important-steps-before-family-vacation">[![](/images/Before-You-Go-Guide-to-Family-Travel-200x300.jpg)](/images/Before-You-Go-Guide-to-Family-Travel.jpg)</figure>
+<figure id="6-important-steps-before-family-vacation"><a href="/images/Before-You-Go-Guide-to-Family-Travel.jpg"><img src="/images/Before-You-Go-Guide-to-Family-Travel-200x300.jpg" alt="" /></a></figure>
 </div></section>

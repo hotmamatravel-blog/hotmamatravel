@@ -123,5 +123,5 @@ Also, check my **[family travel guides for Las Vegas](/family-friendly-vegas/)**
 
 Like it? Pin it!
 
-<figure id="las-vegas-with-toddler-tips">[![Best things to do in Las Vegas with a toddler](/images/Best-things-to-do-in-las-vegas-with-a-toddler-200x300.jpg)](/images/Best-things-to-do-in-las-vegas-with-a-toddler.jpg)</figure>
+<figure id="las-vegas-with-toddler-tips"><a href="/images/Best-things-to-do-in-las-vegas-with-a-toddler.jpg"><img src="/images/Best-things-to-do-in-las-vegas-with-a-toddler-200x300.jpg" alt="Best things to do in Las Vegas with a toddler" /></a></figure>
 </div></div>

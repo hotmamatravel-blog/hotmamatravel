@@ -33,7 +33,7 @@ View this post as a Google Web Story: [**Free Things to do in Las Vegas with Kid
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure id="las-vegas-strip-free-attractions">[![free family activities las vegas strip](/images/las-vegas-teens.jpg)](/images/las-vegas-teens.jpg)</figure>
+<figure id="las-vegas-strip-free-attractions"><a href="/images/las-vegas-teens.jpg"><img src="/images/las-vegas-teens.jpg" alt="free family activities las vegas strip" /></a></figure>
 
 ### [Walk the Strip](/go/las-vegas-strip-attractions/)
 
@@ -43,7 +43,7 @@ There is a lot to see in Vegas, and although it occupies just a single boulevard
 
 [**See photos, reviews &amp; more**](/go/las-vegas-strip-attractions/)
 
-<figure id="silverton-mermaids-free-family-attraction-las-vegas">[![Free Silverton mermaids Las Vegas](/images/silverton-mermaids-las-vegas.jpg)](/images/silverton-mermaids-las-vegas.jpg)</figure>
+<figure id="silverton-mermaids-free-family-attraction-las-vegas"><a href="/images/silverton-mermaids-las-vegas.jpg"><img src="/images/silverton-mermaids-las-vegas.jpg" alt="Free Silverton mermaids Las Vegas" /></a></figure>
 
 ### [See Live Mermaids at Silverton’s Aquarium](/free-family-activities-las-vegas/)
 
@@ -57,7 +57,7 @@ The mermaids are super interactive with the kids, which makes it all the more ma
 
 [**See photos, reviews &amp; more**](/free-family-activities-las-vegas/)
 
-<figure id="fall-atlantis-caesars-palace-las-vegas">[![Free Fall of Atlantis Show in Las Vegas](/images/fall-atlantis-caesars-palace-las-vegas.jpg)](/images/fall-atlantis-caesars-palace-las-vegas.jpg)</figure>
+<figure id="fall-atlantis-caesars-palace-las-vegas"><a href="/images/fall-atlantis-caesars-palace-las-vegas.jpg"><img src="/images/fall-atlantis-caesars-palace-las-vegas.jpg" alt="Free Fall of Atlantis Show in Las Vegas" /></a></figure>
 
 ### [Fall of Atlantis Show at Caesar’s Palace](/go/fall-atlantis-show-caesars-palace-las-vegas/)
 
@@ -71,7 +71,7 @@ There are fiery pyrotechnics, a light show on the ceiling, and tons of excitemen
 
 [**See photos, reviews &amp; more**](/go/fall-atlantis-show-caesars-palace-las-vegas/)
 
-<figure id="bellagio-water-show-las-vegas">[![Free Water Show in Las Vegas at Bellagio Fountains](/images/bellagio-water-show-las-vegas.jpg)](/images/bellagio-water-show-las-vegas.jpg)</figure>
+<figure id="bellagio-water-show-las-vegas"><a href="/images/bellagio-water-show-las-vegas.jpg"><img src="/images/bellagio-water-show-las-vegas.jpg" alt="Free Water Show in Las Vegas at Bellagio Fountains" /></a></figure>
 
 ### [See an Amazing Water Show at Bellagio](/go/bellagio-las-vegas-expedia/)
 
@@ -85,7 +85,7 @@ Monday through Friday, the show starts at 3:00 pm and runs every 30 minutes unti
 
 [**See photos, reviews &amp; more**](/go/bellagio-las-vegas-expedia/)
 
-<figure id="forum-shoppes-las-vegas">[![Family-friendly shopping Las Vegas](/images/forum-shoppes-las-vegas.jpg)](/images/forum-shoppes-las-vegas.jpg)</figure>
+<figure id="forum-shoppes-las-vegas"><a href="/images/forum-shoppes-las-vegas.jpg"><img src="/images/forum-shoppes-las-vegas.jpg" alt="Family-friendly shopping Las Vegas" /></a></figure>
 
 ### [Stroll the Many Indoor Shopping Areas](/go/las-vegas-shopping/)
 
@@ -97,7 +97,7 @@ The great thing is that these shopping malls are outrageously decorated and have
 
 [**See photos, reviews &amp; more**](/go/las-vegas-shopping/)
 
-<figure id="park-mgm-new-york-new-work-las-vegas" data-essb-pin-description="Free activities in Las Vegas with kids at the Park">[![](/images/park-mgm-new-york-new-work-las-vegas.jpg)](/images/park-mgm-new-york-new-work-las-vegas.jpg)</figure>
+<figure id="park-mgm-new-york-new-work-las-vegas" data-essb-pin-description="Free activities in Las Vegas with kids at the Park"><a href="/images/park-mgm-new-york-new-work-las-vegas.jpg"><img src="/images/park-mgm-new-york-new-work-las-vegas.jpg" alt="" /></a></figure>
 
 #### **[Hangout in The Park at New York New York](/go/the-park-las-vegas/)**
 
@@ -111,7 +111,7 @@ New York New York also made our list of the top family hotels in Vegas, and you 
 
 [**See photos, reviews &amp; more**](/go/the-park-las-vegas/)
 
-<figure id="hershey-chocolate-world-las-vegas">[![Hershey](/images/hershey-chocolate-world-las-vegas.jpg)](/images/hershey-chocolate-world-las-vegas.jpg)</figure>
+<figure id="hershey-chocolate-world-las-vegas"><a href="/images/hershey-chocolate-world-las-vegas.jpg"><img src="/images/hershey-chocolate-world-las-vegas.jpg" alt="Hershey" /></a></figure>
 
 ### [Hershey’s Chocolate World](/go/hershey-chocolate-world-las-vegas/)
 
@@ -125,7 +125,7 @@ You will enjoy interactive experiences where you can personalize your very own H
 
 [**See photos, reviews &amp; more**](/go/hershey-chocolate-world-las-vegas/)
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="m-and-m-las-vegas"><figure>[![M&amp;M Store Las Vegas](/images/m-and-m-las-vegas.jpg)](/images/m-and-m-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="m-and-m-las-vegas"><figure><a href="/images/m-and-m-las-vegas.jpg"><img src="/images/m-and-m-las-vegas.jpg" alt="M&amp;M Store Las Vegas" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -138,7 +138,7 @@ Chocolate lovers listen up! M&amp;M Store is 28,000 square feet and four levels 
 
 **[See Photos, Reviews, &amp; More](/go/m-and-m-world-las-vegas/)**
 
-<figure id="family-pools-las-vegas-mirage">[![Mirage Hotel Pool](/images/mirage-pool-las-vegas-teens.jpg)](/images/mirage-pool-las-vegas-teens.jpg)</figure>
+<figure id="family-pools-las-vegas-mirage"><a href="/images/mirage-pool-las-vegas-teens.jpg"><img src="/images/mirage-pool-las-vegas-teens.jpg" alt="Mirage Hotel Pool" /></a></figure>
 
 ### [Splash Around in the Resort Pool](/best-family-pools-in-vegas/)
 
@@ -148,7 +148,7 @@ A great way to spend the day in Las Vegas, especially during the summer months, 
 
 [**See photos, reviews &amp; more**](/best-family-pools-in-vegas/)
 
-<figure id="bellagio-conservatory-las-vegas">[![Free Bellagio Conservatory and Botanical Gardens Las Vegas Attraction](/images/bellagio-conservatory-las-vegas.jpg)](/images/bellagio-conservatory-las-vegas.jpg)</figure>
+<figure id="bellagio-conservatory-las-vegas"><a href="/images/bellagio-conservatory-las-vegas.jpg"><img src="/images/bellagio-conservatory-las-vegas.jpg" alt="Free Bellagio Conservatory and Botanical Gardens Las Vegas Attraction" /></a></figure>
 
 ### [Experience Bountiful Botanies at Bellagio Conservatory](/go/bellagio-las-vegas-expedia/)
 
@@ -158,7 +158,7 @@ Las Vegas casinos are never short of amazing, but for something truly beautiful 
 
 [**See photos, reviews &amp; more**](/go/bellagio-las-vegas-expedia/)
 
-<div class="wp-block-uagb-image uagb-block-5d6a9d33 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="free-circus-acts-circus-circus-las-vegas"><figure>[![Free Circus Acts at Circus Circus in Las Vegas](/images/free-circus-acts-circus-circus-las-vegas.jpg)](/images/free-circus-acts-circus-circus-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-5d6a9d33 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="free-circus-acts-circus-circus-las-vegas"><figure><a href="/images/free-circus-acts-circus-circus-las-vegas.jpg"><img src="/images/free-circus-acts-circus-circus-las-vegas.jpg" alt="Free Circus Acts at Circus Circus in Las Vegas" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-8a75e006">
 
@@ -175,7 +175,7 @@ From high-flying trapeze artists to hilarious clowns, there's something for ever
 
 **[See Photos, Reviews, &amp; More](/go/circus-circus-show-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-a3809fff wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="free-fremont-street-experience-las-vegas"><figure>[![free fremont street experience in Las Vegas](/images/free-fremont-street-experience-las-vegas.jpg)](/images/free-fremont-street-experience-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-a3809fff wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="free-fremont-street-experience-las-vegas"><figure><a href="/images/free-fremont-street-experience-las-vegas.jpg"><img src="/images/free-fremont-street-experience-las-vegas.jpg" alt="free fremont street experience in Las Vegas" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-53341c66">
 
@@ -194,7 +194,7 @@ And let's not forget about the iconic Viva Vision light show, a nightly extravag
 
 **[See Photos, Reviews, &amp; More](/go/fremont-street-experience-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-a70dcdb2 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Linq Promenade Las Vegas](/images/linq-hitel-vegas-family-restaurants.jpg)](/images/linq-hitel-vegas-family-restaurants.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-a70dcdb2 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/linq-hitel-vegas-family-restaurants.jpg"><img src="/images/linq-hitel-vegas-family-restaurants.jpg" alt="Linq Promenade Las Vegas" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-6b31b209">
 
@@ -211,7 +211,7 @@ The Linq Promenade is home to some seriously cool attractions that are sure to w
 
 **[See Photos, Reviews, &amp; More](/go/linq-hotel-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-458c4166 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="free-stranger-things-store-las-vegas"><figure>[![Free Stranger Things Store Family Attraction Las Vegas](/images/free-stranger-things-store-las-vegas.jpg)](/images/free-stranger-things-store-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-458c4166 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="free-stranger-things-store-las-vegas"><figure><a href="/images/free-stranger-things-store-las-vegas.jpg"><img src="/images/free-stranger-things-store-las-vegas.jpg" alt="Free Stranger Things Store Family Attraction Las Vegas" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-26d7609e">
 
@@ -232,7 +232,7 @@ The interactive elements, from themed photo booths and virtual reality experienc
 
 **[See Photos, Reviews, &amp; More](https://strangerthings-store.com/)**
 
-<div class="wp-block-uagb-image uagb-block-56dca140 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="free-wildlife-habitat-flamingo-las-vegas"><figure>[![free flamingo wildlife habitat in Las Vegas](/images/free-wildlife-habitat-flamingo-las-vegas.jpg)](/images/free-wildlife-habitat-flamingo-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-56dca140 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="free-wildlife-habitat-flamingo-las-vegas"><figure><a href="/images/free-wildlife-habitat-flamingo-las-vegas.jpg"><img src="/images/free-wildlife-habitat-flamingo-las-vegas.jpg" alt="free flamingo wildlife habitat in Las Vegas" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-55e912cc">
 
@@ -251,7 +251,7 @@ But perhaps the best part about the Flamingo Wildlife Habitat is that it's compl
 
 **[See Photos, Reviews, &amp; More](/go/wildlife-habitat-flamingo-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-0085c290 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="free-photo-op-las-vegas-sign"><figure>[![Free photo ops at the Las Vegas sign](/images/free-photo-op-las-vegas-sign.jpg)](/free-family-activities-las-vegas/)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0085c290 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="free-photo-op-las-vegas-sign"><figure><a href="/free-family-activities-las-vegas/"><img src="/images/free-photo-op-las-vegas-sign.jpg" alt="Free photo ops at the Las Vegas sign" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-576f0671">
 
@@ -320,5 +320,5 @@ Check out more of our great **[Vegas for kids guides](/family-friendly-vegas/), 
 
 **Like it? Pin it!**
 
-<figure id="best-free-family-activities-las-vegas">[![](/images/best-free-family-activities-las-vegas-200x300.jpg)](/images/best-free-family-activities-las-vegas.jpg)</figure>
+<figure id="best-free-family-activities-las-vegas"><a href="/images/best-free-family-activities-las-vegas.jpg"><img src="/images/best-free-family-activities-las-vegas-200x300.jpg" alt="" /></a></figure>
 </div></section>

@@ -126,5 +126,5 @@ It isn't hard to make travel experience memorable, but adding some unique change
 
 Like it? Pin it!
 
-<figure id="tips-to-make-your-next-adventure-memorable">[![](/images/memorable-travel-tips-200x300.jpg)](/images/memorable-travel-tips.jpg)</figure>
+<figure id="tips-to-make-your-next-adventure-memorable"><a href="/images/memorable-travel-tips.jpg"><img src="/images/memorable-travel-tips-200x300.jpg" alt="" /></a></figure>
 </div></div>

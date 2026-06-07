@@ -23,22 +23,22 @@ Feel free to browse around by geography by clicking the cards below. **If you ha
 
 <div class="wp-block-uagb-container uagb-block-9f6c1d1f alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
 <div class="wp-block-uagb-container uagb-block-b330dab9">
-<figure>[![United States Travel Card](/images/United-States.jpg)](/united-states/)</figure>
+<figure><a href="/united-states/"><img src="/images/United-States.jpg" alt="United States Travel Card" /></a></figure>
 </div>
 
 <div class="wp-block-uagb-container uagb-block-a6183c93">
-<figure>[![Mexico Travel Card](/images/Mexico.jpg)](/mexico-family-travel/)</figure>
+<figure><a href="/mexico-family-travel/"><img src="/images/Mexico.jpg" alt="Mexico Travel Card" /></a></figure>
 </div>
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-f4530baf alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
 <div class="wp-block-uagb-container uagb-block-114fe0f2">
-<figure>[![Canada family travel](/images/Canada-Travel-Card.jpg)](/canada-family-travel/)</figure>
+<figure><a href="/canada-family-travel/"><img src="/images/Canada-Travel-Card.jpg" alt="Canada family travel" /></a></figure>
 </div>
 
 <div class="wp-block-uagb-container uagb-block-56a7a102">
-<figure>[![Europe Travel Card](/images/Europe.jpg)](/europe-family-travel/)</figure>
+<figure><a href="/europe-family-travel/"><img src="/images/Europe.jpg" alt="Europe Travel Card" /></a></figure>
 </div>
 </div></div>
 
-<figure>[![Caribbean Travel Card](/images/Caribbean.jpg)](/caribbean-family-travel/)</figure>
+<figure><a href="/caribbean-family-travel/"><img src="/images/Caribbean.jpg" alt="Caribbean Travel Card" /></a></figure>

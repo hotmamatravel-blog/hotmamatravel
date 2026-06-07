@@ -62,7 +62,7 @@ Most individuals are not aware, however, that you don’t need to purchase a tim
 
 For example, located within high-end Las Vegas resorts like [Hilton Grand Vacations Club](https://www.hilton.com/en/hotels/lasvsgv-hilton-grand-vacations-club-on-the-las-vegas-strip/) at the Flamingo, [Westgate Timeshares](https://www.westgateresorts.com/timeshare/), and [Marriott’s Grand Chateau](https://www.marriott.com/en-us/hotels/lasvg-marriotts-grand-chateau/overview/), timeshares are perfect for families because of the added space and comforts such as 1-6 bedrooms, multiple bathrooms, separate living and dining areas, and more. Here is a screen grab of a quick search I did for Las Vegas accommodations on SellMyTimeshareNow so you can get a flavor of the sheer number of options there are:
 
-<figure id="sell-my-timeshare-now-screenshot">![Las Vegas accommodations large family group ](/images/timeshare-Vegas-Strip-Listings-Map-e1534096230581.jpg)</figure>
+<figure id="sell-my-timeshare-now-screenshot"><img src="/images/timeshare-Vegas-Strip-Listings-Map-e1534096230581.jpg" alt="Las Vegas accommodations large family group " /></figure>
 
 Each unit also usually comes with a kitchenette or full kitchen, providing families with the benefit of being able to prepare their own food on occasion, which can help keep costs down and allows kids to get some nutrition on their vacation. Many units even come with washer/dryers which are great bonuses to have when your kids inevitably spill something on their clothes.
 
@@ -78,7 +78,7 @@ For example, on **[Vrbo](/go/vrbo/)** (pronounced "verbo"), there are some nice 
 
 Here is a screen grab of a quick search I did on Vrbo looking for big family accommodations in Vegas for 7 guests:
 
-<figure id="vbro-las-vegas-rentals-screenshot">![VRBO Las Vegas accommodations for large family group](/images/VRBO-Vegas-Strip-Listings-Example-e1534096182258.jpg)</figure>
+<figure id="vbro-las-vegas-rentals-screenshot"><img src="/images/VRBO-Vegas-Strip-Listings-Example-e1534096182258.jpg" alt="VRBO Las Vegas accommodations for large family group" /></figure>
 
 Best of all, I noticed that many of these listings **do not** have exorbitant [**resort fees**](/las-vegas-hotels-without-resort-fees/). Sign me up for that!
 
@@ -112,5 +112,5 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 Like it? Pin it!
 
-<figure id="best-las-vegas-accommodations-large-family-group">[![Best Las Vegas Accommodations Large Family Group](/images/best-las-vegas-accommodations-large-family-group-200x300.jpg)](/images/best-las-vegas-accommodations-large-family-group.jpg)</figure>
+<figure id="best-las-vegas-accommodations-large-family-group"><a href="/images/best-las-vegas-accommodations-large-family-group.jpg"><img src="/images/best-las-vegas-accommodations-large-family-group-200x300.jpg" alt="Best Las Vegas Accommodations Large Family Group" /></a></figure>
 </div></div>

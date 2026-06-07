@@ -16,7 +16,7 @@ Zion, Utah is known for breathtaking canyons that draw adventurers from all over
 This is the kind of place you want to take in the outdoors as much as possible, lingering in Zion's beauty. That’s why glamping in Zion makes for the perfect way to stay. To help you decide on the perfect glamping experience for you, I have put together a list of 5 of the best sites for glamping near Zion National Park.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1f5dcc8f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="under-canvas-zion-family-glamping-tents">[![](/images/under-canvas-zion-family-glamping-tents.jpg)](/images/under-canvas-zion-family-glamping-tents.jpg)</figure>
+<figure id="under-canvas-zion-family-glamping-tents"><a href="/images/under-canvas-zion-family-glamping-tents.jpg"><img src="/images/under-canvas-zion-family-glamping-tents.jpg" alt="" /></a></figure>
 
 #### [Under Canvas Zion](/go/under-canvas-glamping-zion/)
 
@@ -33,7 +33,7 @@ Onsite there are a number of camp activities, like yoga, live acoustic music, tr
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5d029e2b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="zion-ponderosa-ranch-resort-family-glamping-zion">[![](/images/zion-ponderosa-ranch-resort-family-glamping-zion.jpg)](/images/zion-ponderosa-ranch-resort-family-glamping-zion.jpg)</figure>
+<figure id="zion-ponderosa-ranch-resort-family-glamping-zion"><a href="/images/zion-ponderosa-ranch-resort-family-glamping-zion.jpg"><img src="/images/zion-ponderosa-ranch-resort-family-glamping-zion.jpg" alt="" /></a></figure>
 
 #### [Zion Ponderosa Ranch Resort](/go/zion-ponderosa-ranch-resort-glamping-zion/)
 
@@ -50,7 +50,7 @@ All accommodations include breakfast at their onsite restaurant, Ray’s Restaur
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-133f9917"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="east-zion-resort-yurt-glamping-zion">[![](/images/east-zion-resort-yurt-glamping-zion.jpg)](/images/east-zion-resort-yurt-glamping-zion.jpg)</figure>
+<figure id="east-zion-resort-yurt-glamping-zion"><a href="/images/east-zion-resort-yurt-glamping-zion.jpg"><img src="/images/east-zion-resort-yurt-glamping-zion.jpg" alt="" /></a></figure>
 
 #### [East Zion Resort](/go/east-zion-resot-glamping-zion/)
 
@@ -67,7 +67,7 @@ At East Zion Resort you can participate in a number of exciting activities, like
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-081e6716"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="zion-glamping-adventures-tent-glamping-zion">[![](/images/zion-glamping-adventures-tent-glamping-zion.jpg)](/images/zion-glamping-adventures-tent-glamping-zion.jpg)</figure>
+<figure id="zion-glamping-adventures-tent-glamping-zion"><a href="/images/zion-glamping-adventures-tent-glamping-zion.jpg"><img src="/images/zion-glamping-adventures-tent-glamping-zion.jpg" alt="" /></a></figure>
 
 #### [Zion Glamping Adventures](/go/zion-glamping-adventures-glamping-zion/)
 
@@ -84,7 +84,7 @@ This glamping site is more about adventuring, the actual camp site is pretty chi
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-40912168"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="zion-wildflower-resort-conestoga-wagon-glamping-zion">[![](/images/zion-wildflower-resort-conestoga-wagon-glamping-zion.jpg)](/images/zion-wildflower-resort-conestoga-wagon-glamping-zion.jpg)</figure>
+<figure id="zion-wildflower-resort-conestoga-wagon-glamping-zion"><a href="/images/zion-wildflower-resort-conestoga-wagon-glamping-zion.jpg"><img src="/images/zion-wildflower-resort-conestoga-wagon-glamping-zion.jpg" alt="" /></a></figure>
 
 #### [Zion Wildflower Resort](/go/zion-wildflower-resor-glamping-zion/)
 
@@ -144,5 +144,5 @@ If you love glamping and want more, check out my many glamp site guides!
 
 **Like it? Pin it!**
 
-<figure id="5-best-glamping-sites-zion-utah">[![](/images/5-best-glamping-sites-zion-utah-200x300.jpg)](/images/5-best-glamping-sites-zion-utah.jpg)</figure>
+<figure id="5-best-glamping-sites-zion-utah"><a href="/images/5-best-glamping-sites-zion-utah.jpg"><img src="/images/5-best-glamping-sites-zion-utah-200x300.jpg" alt="" /></a></figure>
 </div></section>

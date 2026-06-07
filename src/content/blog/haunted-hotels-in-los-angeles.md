@@ -17,7 +17,7 @@ Los Angeles isn’t just about movie stars and sunshine. It’s also home to som
 
 If you love mixing ghosts with a good getaway, you’ll want to check out more of my favorite **[haunted places and hotels](/best-haunted-places-to-visit-for-families/)** and my list of **[best towns to visit for Halloween](/best-towns-for-halloween/)**, because who says spooky can’t be a family affair?
 
-<div class="wp-block-uagb-image uagb-block-57d98954 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Queen Mary Haunted Hotel Los Angeles](/images/queen-mary-haunted-hotels-california.jpg)](/images/queen-mary-haunted-hotels-california.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-57d98954 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/queen-mary-haunted-hotels-california.jpg"><img src="/images/queen-mary-haunted-hotels-california.jpg" alt="Queen Mary Haunted Hotel Los Angeles" /></a></figure></div>
 
 ## **[The Queen Mary](/go/the-queen-mary-ship-hotel/)**
 
@@ -37,7 +37,7 @@ Spooky stories, rich history, and an experience that feels adventurous, not over
 
 **[See photos, reviews &amp; more](/go/the-queen-mary-ship-hotel/)**
 
-<figure id="haunted-hollywood-roosevelt-hotel">[![The Haunted Hollywood Roosevelt Hotel Los Angeles](/images/haunted-hollywood-roosevelt-hotel.jpg)](/images/haunted-hollywood-roosevelt-hotel.jpg)<figcaption class="wp-element-caption">Courtesy of Hollywood Roosevelt Hotel</figcaption></figure>
+<figure id="haunted-hollywood-roosevelt-hotel"><a href="/images/haunted-hollywood-roosevelt-hotel.jpg"><img src="/images/haunted-hollywood-roosevelt-hotel.jpg" alt="The Haunted Hollywood Roosevelt Hotel Los Angeles" /></a><figcaption class="wp-element-caption">Courtesy of Hollywood Roosevelt Hotel</figcaption></figure>
 
 ## **[The Hollywood Roosevelt Hotel](/go/hollywood-roosevelt-los-angeles-ca/)**
 
@@ -57,7 +57,7 @@ So why should your family visit the Haunted Hollywood Roosevelt Hotel in Los Ang
 
 [**See photos, reviews &amp; more**](/go/hollywood-roosevelt-los-angeles-ca/)
 
-<figure id="haunted-millenium-biltmore-hotel">[![The Millennium Biltmore Hotel Los Angeles](/images/haunted-millenium-biltmore-hotel.jpg)](/images/haunted-millenium-biltmore-hotel.jpg)<figcaption class="wp-element-caption">Courtesy of Millennium Biltmore</figcaption></figure>
+<figure id="haunted-millenium-biltmore-hotel"><a href="/images/haunted-millenium-biltmore-hotel.jpg"><img src="/images/haunted-millenium-biltmore-hotel.jpg" alt="The Millennium Biltmore Hotel Los Angeles" /></a><figcaption class="wp-element-caption">Courtesy of Millennium Biltmore</figcaption></figure>
 
 ## **[The Millennium Biltmore Hotel](/go/millennium-biltmore-hotel-los-angeles-ca/)**
 
@@ -73,7 +73,7 @@ If you would like to bring the family along for this spooky stay, Millennium Bil
 
 [**See photos, reviews &amp; more**](/go/millennium-biltmore-hotel-los-angeles-ca/)
 
-<figure id="haunted-Hotel-Figueroa-Los-Angeles">[![Hotel Figueroa Los Angeles](/images/haunted-Hotel-Figueroa-Los-Angeles.jpg)](/images/haunted-Hotel-Figueroa-Los-Angeles.jpg)<figcaption class="wp-element-caption">Courtesy of Hotel Figueroa</figcaption></figure>
+<figure id="haunted-Hotel-Figueroa-Los-Angeles"><a href="/images/haunted-Hotel-Figueroa-Los-Angeles.jpg"><img src="/images/haunted-Hotel-Figueroa-Los-Angeles.jpg" alt="Hotel Figueroa Los Angeles" /></a><figcaption class="wp-element-caption">Courtesy of Hotel Figueroa</figcaption></figure>
 
 ## **[The Hotel Figueroa](/go/hotel-figueroa-hyatt-los-angeles/)**
 
@@ -89,7 +89,7 @@ Families can enjoy the beautiful outdoor pool, a fitness center, and several res
 
 [**See photos, reviews &amp; more**](/go/hotel-figueroa-hyatt-los-angeles/)
 
-<figure id="haunted-Chateau-Marmont-Los-Angeles">[![Chateau Marmont Los Angeles](/images/haunted-Chateau-Marmont-Los-Angeles.jpg)](/images/haunted-Chateau-Marmont-Los-Angeles.jpg)</figure>
+<figure id="haunted-Chateau-Marmont-Los-Angeles"><a href="/images/haunted-Chateau-Marmont-Los-Angeles.jpg"><img src="/images/haunted-Chateau-Marmont-Los-Angeles.jpg" alt="Chateau Marmont Los Angeles" /></a></figure>
 
 ## [Chateau Marmont](/go/chateau-marmont-los-angeles/)
 
@@ -107,7 +107,7 @@ There are many other celebrity spirits tied to the Chateau and many guests have 
 
 [**See photos, reviews &amp; more**](/go/chateau-marmont-los-angeles/)
 
-<figure id="haunted-O-Hotel-Los-Angeles">[![O Hotel Los Angeles](/images/haunted-O-Hotel-Los-Angeles.jpg)](/images/haunted-O-Hotel-Los-Angeles.jpg)<figcaption class="wp-element-caption">Courtesy of O Hotel</figcaption></figure>
+<figure id="haunted-O-Hotel-Los-Angeles"><a href="/images/haunted-O-Hotel-Los-Angeles.jpg"><img src="/images/haunted-O-Hotel-Los-Angeles.jpg" alt="O Hotel Los Angeles" /></a><figcaption class="wp-element-caption">Courtesy of O Hotel</figcaption></figure>
 
 ## **[The O Hotel](/go/o-hotel-los-angeles-ca/)**
 
@@ -123,7 +123,7 @@ The hotel has a rooftop pool and bar with stunning views of the city, as well as
 
 [**See photos, reviews &amp; more**](/go/o-hotel-los-angeles-ca/)
 
-<figure id="haunted-Hollywood-Hills-Hotel-Los-Angeles">[![Hollywood Hills Hotel](/images/haunted-Hollywood-Hills-Hotel-Los-Angeles.jpg)](/images/haunted-Hollywood-Hills-Hotel-Los-Angeles.jpg)<figcaption class="wp-element-caption">Courtesy of Hollywood Hills Hotel</figcaption></figure>
+<figure id="haunted-Hollywood-Hills-Hotel-Los-Angeles"><a href="/images/haunted-Hollywood-Hills-Hotel-Los-Angeles.jpg"><img src="/images/haunted-Hollywood-Hills-Hotel-Los-Angeles.jpg" alt="Hollywood Hills Hotel" /></a><figcaption class="wp-element-caption">Courtesy of Hollywood Hills Hotel</figcaption></figure>
 
 ## **[The Hollywood Hills Hotel](/go/hollywood-hills-hotel-los-angeles/)**
 
@@ -159,5 +159,5 @@ Like it? Pin it!
 
 <figure id="haunted-hotels-los-angeles" data-essb-pin-description="Think haunted hotels aren’t kid-friendly? 👻✨ Think again. From legendary ghost stories to historic stays with just the right amount of spooky, these most haunted hotels in Los Angeles are surprisingly fun for families who love a thrill without the nightmares. Perfect for curious kids, brave parents, and memory-making stays.
 
-#HauntedHotels #LosAngelesWithKids #FamilyTravel #SpookyFamilyFun #HauntedLA #TravelWithKids #HotMamaTravel">[![Most Haunted Hotels in Los Angeles  for Familes ](/images/Haunted-hotels-los-angeles-1-200x300.jpg)](/images/Haunted-hotels-los-angeles-1.jpg)</figure>
+#HauntedHotels #LosAngelesWithKids #FamilyTravel #SpookyFamilyFun #HauntedLA #TravelWithKids #HotMamaTravel"><a href="/images/Haunted-hotels-los-angeles-1.jpg"><img src="/images/Haunted-hotels-los-angeles-1-200x300.jpg" alt="Most Haunted Hotels in Los Angeles  for Familes " /></a></figure>
 </div></div>

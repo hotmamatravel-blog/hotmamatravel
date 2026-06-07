@@ -60,5 +60,5 @@ You wouldn’t just have to deal with a longer flight, but also a few other step
 
 **Like it? Pin it!**
 
-<figure id="tips-for-planning-a-US-vacation">[![](/images/tips-for-planning-a-US-vacation-200x300.jpg)](/images/tips-for-planning-a-US-vacation.jpg)</figure>
+<figure id="tips-for-planning-a-US-vacation"><a href="/images/tips-for-planning-a-US-vacation.jpg"><img src="/images/tips-for-planning-a-US-vacation-200x300.jpg" alt="" /></a></figure>
 </div></section>

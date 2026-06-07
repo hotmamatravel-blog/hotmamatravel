@@ -156,7 +156,7 @@ Interestingly, the venue is actually not located near the other popular music ro
 
 </div></section>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="miranda-lamberts-casa-rosa-nashville"><figure>[![Miranda Lambert](/images/miranda-lamberts-casa-rosa-nashville.jpg)](/images/miranda-lamberts-casa-rosa-nashville.jpg)<figcaption class="uagb-image-caption">Courtesy of Casa Rosa</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="miranda-lamberts-casa-rosa-nashville"><figure><a href="/images/miranda-lamberts-casa-rosa-nashville.jpg"><img src="/images/miranda-lamberts-casa-rosa-nashville.jpg" alt="Miranda Lambert" /></a><figcaption class="uagb-image-caption">Courtesy of Casa Rosa</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-33102b33">
 
@@ -195,5 +195,5 @@ If you are looking to extend your stay indefinitely, check out [**The Best Neigh
 
 **Like it? Pin it!**
 
-<figure id="Kid-Friendly-Nashville-Restaurants-with-live-Music">[![](/images/Nashville-Restaurants-200x300.png)](/images/Nashville-Restaurants.png)</figure>
+<figure id="Kid-Friendly-Nashville-Restaurants-with-live-Music"><a href="/images/Nashville-Restaurants.png"><img src="/images/Nashville-Restaurants-200x300.png" alt="" /></a></figure>
 </div></section>

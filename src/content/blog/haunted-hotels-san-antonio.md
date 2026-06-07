@@ -15,7 +15,7 @@ author: "Amanda Keeley-Thurman"
 
 San Antonio, Texas, is a city rich in history, culture, and a touch of the supernatural. There is so much [**to do in San Antonio**](/things-san-antonio-kids/), but if you're an adventurous traveler with a penchant for the paranormal, you're in for a spine-tingling treat. Prepare to delve into the eerie world of the most haunted hotels in San Antonio, where history and mystery collide.
 
-<figure id="menger-hotel-haunted-hotels-san-antonio">[![Haunted Menger Hotel San Antonio](/images/menger-hotel-haunted-hotels-san-antonio.jpg)](/images/menger-hotel-haunted-hotels-san-antonio.jpg)</figure>
+<figure id="menger-hotel-haunted-hotels-san-antonio"><a href="/images/menger-hotel-haunted-hotels-san-antonio.jpg"><img src="/images/menger-hotel-haunted-hotels-san-antonio.jpg" alt="Haunted Menger Hotel San Antonio" /></a></figure>
 
 ## [Menger Hotel](/go/menger-hotel-san-antonio-tx/)
 
@@ -49,7 +49,7 @@ Perhaps one of the most captivating tales associated with the Menger Hotel invol
 
 [**See photos, reviews &amp; more**](/go/menger-hotel-san-antonio-tx/)
 
-<figure id="the-emily-morgan-hotel-haunted-hotels-san-antonio">[![Emily Morgan Hotel San Antonio](/images/the-emily-morgan-hotel-haunted-hotels-san-antonio.jpg)](/images/the-emily-morgan-hotel-haunted-hotels-san-antonio.jpg)</figure>
+<figure id="the-emily-morgan-hotel-haunted-hotels-san-antonio"><a href="/images/the-emily-morgan-hotel-haunted-hotels-san-antonio.jpg"><img src="/images/the-emily-morgan-hotel-haunted-hotels-san-antonio.jpg" alt="Emily Morgan Hotel San Antonio" /></a></figure>
 
 ## [The Emily Morgan Hotel](/go/the-emily-morgan-hotel-san-antonio-tx/)
 
@@ -75,7 +75,7 @@ The Emily Morgan Hotel's connection to its history is not limited to its physica
 
 [**See photos, reviews &amp; more**](/go/the-emily-morgan-hotel-san-antonio-tx/)
 
-<figure id="The-crockett-hotel-haunted-hotels-san-antonio">[![The Crockett Hotel San Antonio](/images/The-crockett-hotel-haunted-hotels-san-antonio.jpg)](/images/The-crockett-hotel-haunted-hotels-san-antonio.jpg)</figure>
+<figure id="The-crockett-hotel-haunted-hotels-san-antonio"><a href="/images/The-crockett-hotel-haunted-hotels-san-antonio.jpg"><img src="/images/The-crockett-hotel-haunted-hotels-san-antonio.jpg" alt="The Crockett Hotel San Antonio" /></a></figure>
 
 ## [The Crockett Hotel](/go/the-crockett-hotel-san-antonio-tx/)
 
@@ -105,7 +105,7 @@ The Crockett Hotel's allure goes beyond its historical façade – it's a place 
 
 [**See photos, reviews &amp; more**](/go/the-crockett-hotel-san-antonio-tx/)
 
-<figure>[![The St. Anthony Hotel San Antonio](/images/st-anthony-hotel-haunted-hotels-san-antonio.jpg)](/images/st-anthony-hotel-haunted-hotels-san-antonio.jpg)</figure>
+<figure><a href="/images/st-anthony-hotel-haunted-hotels-san-antonio.jpg"><img src="/images/st-anthony-hotel-haunted-hotels-san-antonio.jpg" alt="The St. Anthony Hotel San Antonio" /></a></figure>
 
 ## [The St. Anthony Hotel](/go/st-anthony-hotel-san-antonio-tx/)
 
@@ -131,7 +131,7 @@ Those who've crossed paths with the lady in blue often speak of the peculiar sen
 
 [**See photos, reviews &amp; more**](/go/st-anthony-hotel-san-antonio-tx/)
 
-<figure id="the-gunter-hotel-haunted-hotels-san-antonio">[![The Gunter Hotel San Antonio](/images/the-gunter-hotel-haunted-hotels-san-antonio.jpg)](/images/the-gunter-hotel-haunted-hotels-san-antonio.jpg)</figure>
+<figure id="the-gunter-hotel-haunted-hotels-san-antonio"><a href="/images/the-gunter-hotel-haunted-hotels-san-antonio.jpg"><img src="/images/the-gunter-hotel-haunted-hotels-san-antonio.jpg" alt="The Gunter Hotel San Antonio" /></a></figure>
 
 ## [The Gunter Hotel](/go/the-gunter-hotel-san-antonio-tx/)
 
@@ -165,5 +165,5 @@ Explore more [**haunted hotels in Texas**](/haunted-hotels-texas/) as well as ac
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Stay in one of these family-friendly haunted hotels in San Antonio">[![Family-Friendly Haunted Hotels in San Antonio](/images/Haunted-Hotels-San-Antonio-200x300.jpg)](/images/Haunted-Hotels-San-Antonio.jpg)</figure>
+<figure data-essb-pin-description="Stay in one of these family-friendly haunted hotels in San Antonio"><a href="/images/Haunted-Hotels-San-Antonio.jpg"><img src="/images/Haunted-Hotels-San-Antonio-200x300.jpg" alt="Family-Friendly Haunted Hotels in San Antonio" /></a></figure>
 </div></div>

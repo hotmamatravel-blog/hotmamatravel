@@ -19,7 +19,7 @@ And one of the main reasons why my kids love Las Vegas is they get to experience
 
 Heck, **[we even took our Baby to Vegas](/advice-las-vegas-with-baby-infant-itinerary/)** for New Year's and experienced the [**Tournament of Kings**](/go/tournament-kings-las-vegas-bov/) at [**Excalibur**](/go/excalibur-las-vegas-exp/). You can tell the kids had an amazing time, even my 11-month-old!
 
-<figure>![Baby at Las Vegas Show Tournament of Kings](/images/Baby-in-Las-Vegas-Show-Tournament-of-kings.gif)<figcaption class="wp-element-caption">Tournament of Kings is fun for all ages</figcaption></figure>
+<figure><img src="/images/Baby-in-Las-Vegas-Show-Tournament-of-kings.gif" alt="Baby at Las Vegas Show Tournament of Kings" /><figcaption class="wp-element-caption">Tournament of Kings is fun for all ages</figcaption></figure>
 
 It is *literally only in Vegas* where you can find so many incredible shows and live entertainment every single night of the week. And lucky for us (and you!), most of these Vegas shows are actually kid-friendly! Even many of the [**family restaurants have live music**](/kid-friendly-live-music-las-vegas/).
 
@@ -77,7 +77,7 @@ We provide detailed insights about what the best Vegas shows are *really* like, 
 
 **We provide all the details you would ever need** to know about just about *every* Las Vegas family show including factors like cost, location, age restrictions, duration, and show times, as well as insightful and succinct descriptions that we distilled from research of **comprehensive reviews written by families like your own**.
 
-<figure>[![](/images/sample-graph-150x150.png)](/las-vegas-shows-for-kids/)</figure>
+<figure><a href="/las-vegas-shows-for-kids/"><img src="/images/sample-graph-150x150.png" alt="" /></a></figure>
 
 *Now this is important*. I realize that people like to explore and absorb information in lots of different ways.
 
@@ -101,7 +101,7 @@ hilarious, witty, interactive, kid-friendly, one-of-a-kind
 <div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
 </path></svg></div>**Book it!**](/go/mac-king-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Mac-King-kid-friendly-Magic-Comedy-show-Vegas.png)</div></div></div></div></div>
 
-<figure>![Mac King comedy show in Las Vegas for kids graph](/images/mac-king-graph-thrills-dance-laughs-wonder.png)</figure>
+<figure><img src="/images/mac-king-graph-thrills-dance-laughs-wonder.png" alt="Mac King comedy show in Las Vegas for kids graph" /></figure>
 
 **Overview:**&nbsp;The Mac King magic show at [Excalibur](https://excalibur.mgmresorts.com/en.html) is a comedy extravaganza and is the perfect family-friendly show in Las Vegas if you are looking for laughs and a fun, quirky experience. Mac King has had an illustrious career; for example, he formerly won an award from the famous Magic Castle in Hollywood as the "Magician of the year". Mac King's show involves fun props, sleight of hand tricks, and silly jokes. But most importantly, this comedy magic show involves plenty of audience member participation. Mac King is naturally witty and engaging and has produced a stellar Las Vegas family show - it is funny, it is magical, and your whole family will love it!
 
@@ -119,7 +119,7 @@ charming, tricky, unique, hilarious, cheeky
 <div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
 </path></svg></div>**Book it!**](/go/piff-magic-dragon-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Piff-Magic-Dragon-Las-Vegas-Show.png)</div></div></div></div></div>
 
-<figure>![Piff Magic Dragon family show Las Vegas graph](/images/piff-graph-thrills-dance-laughs-wonder.png)</figure>
+<figure><img src="/images/piff-graph-thrills-dance-laughs-wonder.png" alt="Piff Magic Dragon family show Las Vegas graph" /></figure>
 
 **Overview:** Piff the Magic Dragon at the [Flamingo](https://www.caesars.com/flamingo-las-vegas) is a show for families with kids 13 or over and is truly unique in a town that has seen virtually everything. I mean, who would expect to see a comedic magician on stage in a dragon suit with a small chihuahua names Mr. Pifles? Well that is the kind of awesomeness you can expect in Piff's show at the Flamingo.
 
@@ -144,7 +144,7 @@ You might recognize Piff from his successful run on the TV show America's Got Ta
 <div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
 </path></svg></div>**Book it!**](/go/jabbawockeez-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Jabbawockeez-Vegas-Show-for-kids.png)</div></div></div></div></div>
 
-<figure>![Jabbawockeez best vegas show for families graph](/images/jabbawockeez-graph-thrills-dance-laughs-wonder.png)</figure>
+<figure><img src="/images/jabbawockeez-graph-thrills-dance-laughs-wonder.png" alt="Jabbawockeez best vegas show for families graph" /></figure>
 
 **Overview:** Jabbawockeez is "the" premier hip hop dance crew who stepped into the national spotlight on the TV show So You Think You Can Dance, and they have also performed on America's Got Talent. Believe it or not, I was once on a competitive hip hop dance crew in my early twenties in SoCal and before all the national fame, Jabbawockeez were already very well known locally among dancers as a force to be reckoned with.
 
@@ -166,7 +166,7 @@ artistic, toe-tapping, dazzling, energetic, urban
 <div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
 </path></svg></div>**Book it!**](/go/michael-jackson-one-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Michael-Jackson-ONE-Show-Vegas-for-families.png)</div></div></div></div></div>
 
-<figure>![Michael Jackson ONE Cirque Show for families in Vegas graph](/images/ONE-graph-thrills-dance-laughs-wonder.png)</figure>
+<figure><img src="/images/ONE-graph-thrills-dance-laughs-wonder.png" alt="Michael Jackson ONE Cirque Show for families in Vegas graph" /></figure>
 
 **Overview:** Michael Jackson ONE is a [**Cirque du Soleil production**](/best-cirque-du-soleil-shows-in-vegas-for-families/) with all the amazing antics you would expect from a cirque show - thrilling acrobatics, creative storytelling, artistic production, and mind-blowing displays of sheer human talent. What sets it apart, though, is that all this is set to your favorite timeless tunes from one of America's most beloved and beleaguered artists, Michael Jackson, including "Thriller", "Billie Jean", "Bad", "Smooth Criminal", and many others. The show at [Mandalay Bay](https://mandalaybay.mgmresorts.com/en.html) involves dazzling pyrotechnics, surround-sound audio, and over five dozen professional dancers performing surreal and heart-pounding routines.
 
@@ -186,7 +186,7 @@ colorful, heart-pounding, creative, animated, humorous
 <div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
 </path></svg></div>**Book it!**](/go/blue-man-group-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Blue-Man-Group-family-Las-Vegas-Show.png)</div></div></div></div></div>
 
-<figure>![Blue Man Group Best Las Vegas Show for Kids graph](/images/blue-man-group-graph-thrills-dance-laughs-wonder.png)</figure>
+<figure><img src="/images/blue-man-group-graph-thrills-dance-laughs-wonder.png" alt="Blue Man Group Best Las Vegas Show for Kids graph" /></figure>
 
 **Overview:** What else can I say, Blue Man Group at the [Luxor](https://luxor.mgmresorts.com/en.html) is a true Vegas classic and clearly one of the best shows in Las Vegas for kids. It is a surreal musical show on steroids, with vibrant colors and sounds and heart-pounding drum beats that will keep the kids engaged and on the edge of their seats. The show includes interactive features with the audience, multimedia theatrical elements with state-of-the-art technology, and even a bit of comedy. Blue Man Group is dramatically entertaining from start to finish and is considered by many, including ourselves, as the overall&nbsp; best family show in Vegas.
 
@@ -216,7 +216,7 @@ immersive, exotic stunts, engaging story, gravity-defying
 <div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
 </path></svg></div>**Book it!**](/go/ka-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Ka-Cirque-du-soleil-for-families-in-Vegas.png)</div></div></div></div></div>
 
-<figure>![KA Cirque Las Vegas for families graph](/images/ka-graph-thrills-dance-laughs-wonder.png)</figure>
+<figure><img src="/images/ka-graph-thrills-dance-laughs-wonder.png" alt="KA Cirque Las Vegas for families graph" /></figure>
 
 **Overview:** Ka by Cirque du Soleil is the ultimate Vegas show for families that are looking for a serious thrill and engaging storytelling. On a dynamic stage that keeps changing seamlessly throughout the production, it tells the saga from Asian folklore of good vs evil, of love and war, and of family. The show transitions periodically from martial arts and hand-to-hand combat to poetic puppetry and life-like shadow puppets - all with a backdrop of surreal elements including fiery pyrotechnics and jaw-dropping special effects. There are insane and dangerous stunts throughout the performance, including an intense moment that literally defies gravity.
 
@@ -236,7 +236,7 @@ artistic, elemental, whimsical, stimulating, brilliant
 <div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
 </path></svg></div>**Book it!**](/go/o-cirque-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/O-Cirque-du-Soleil-Vegas-show.png)</div></div></div></div></div>
 
-<figure>![O Bellagio Cirque du Soleil for kids in Vegas graph](/images/O-graph-thrills-dance-laughs-wonder.png)</figure>
+<figure><img src="/images/O-graph-thrills-dance-laughs-wonder.png" alt="O Bellagio Cirque du Soleil for kids in Vegas graph" /></figure>
 
 **Overview:&nbsp;**"O" by Cirque du Soleil at [Bellagio](https://bellagio.mgmresorts.com/en.html), a phenomenal production that involves a million gallon pool in the middle of an ancient European-style theater. Yes, this means that most performances involve unique water elements like synchronized swimming and diving that you won't find anywhere else on the Vegas strip.
 
@@ -256,7 +256,7 @@ magical, fantastic, original, thrilling, wondrous, fun
 <div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
 </path></svg></div>**Book it!**](/go/mystere-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Mystere-TI-family-friendly-Las-Vegas-Show.png)</div></div></div></div></div>
 
-<figure>![Mystere Cirque du Soleil family show Las Vegas graph](/images/mystere-graph-thrills-dance-laughs-wonder.png)</figure>
+<figure><img src="/images/mystere-graph-thrills-dance-laughs-wonder.png" alt="Mystere Cirque du Soleil family show Las Vegas graph" /></figure>
 
 **Overview:** Mystere is the "OG", and the original Cirque du Soleil show in Las Vegas. It is also a thrilling Vegas show for families with kids because they will allow all ages into the show. It is a raucous circus act with wide ranging, specialized performances from aerialists, bungee jumpers, gymnasts and clowns - yes, clowns - like Brian Le Petit, who interacts repeatedly with the audience causing trouble and creating tons of laughs. The show is a wild ride that changes abruptly from moments of laughter to moments of awe and sheer wonder. Kids and adults alike will appreciate the mystical performances, and will love the overall experience delivered by Mystere.
 
@@ -274,7 +274,7 @@ wild, mysterious, immersive, incredible, mind-warping
 <div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
 </path></svg></div>**Book it!**](/go/criss-angel-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![Criss Angel Mindfreak](/images/Criss-Angel-Mindfreak-LIVE-Vegas-family-show.png)</div></div></div></div></div>
 
-<figure>![Criss Angel Mindfreak show for kids in Las Vegas graph](/images/criss-angel-graph-thrills-dance-laughs-wonder.png)</figure>
+<figure><img src="/images/criss-angel-graph-thrills-dance-laughs-wonder.png" alt="Criss Angel Mindfreak show for kids in Las Vegas graph" /></figure>
 
 **Overview:** Criss Angel's new show, MINDFREAK (which moved to Planet Hollywood in January 2019), is a mind-boggling adventure that is so much more than just a magic show. Yes, Criss Angel is a freak of nature, a brilliant magician, and a master of illusions. But this is a full throttle show that involves live DJ's, light show, pyrotechnics, various entertaining on-stage performances, and 3D immersive elements.
 
@@ -320,7 +320,7 @@ Another reason *Awakening* is great for families is its pace. The show moves qui
 <div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
 </path></svg></div>**Book it!**](/go/magic-jen-kramer-vegas-show/)</div></div><div class="ugb-feature__image-side">![](/images/the-magic-of-jen-kramer.jpg)</div></div></div></div></div>
 
-<figure>![graph of experience at Magic of Jen Kramer Show at Westgate](/images/the-magic-of-jen-kramer-150x150-1.png)</figure>
+<figure><img src="/images/the-magic-of-jen-kramer-150x150-1.png" alt="graph of experience at Magic of Jen Kramer Show at Westgate" /></figure>
 
 **Overview:**  The Magic of Jen Kramer is a hilarious all-ages magic show that features tons of audience participation. She has been featured on TV shows such as Penn &amp; Teller: Fool Us and Masters of Illusion. Kids and adults alike will have an incredible time watching Jen predict audience member’s thoughts, amaze you with illusions, and ultimately leave you mesmerized. Jen Kramer is an absolute must if you are looking for entertaining Las Vegas magic shows for kids. The show starts at 5:00 PM on Wednesday and runs through Saturday.
 
@@ -355,7 +355,7 @@ daring, awe-inspiring, humorous, wildly entertaining
 <div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
 </path></svg></div>**Book it!**](/go/penn-teller-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Penn-and-Teller-family-Show-in-Vegas.png)</div></div></div></div></div>
 
-<figure>![Penn and Teller Magic Show for kids in Vegas graph](/images/penn-teller-graph-thrills-dance-laughs-wonder.png)</figure>
+<figure><img src="/images/penn-teller-graph-thrills-dance-laughs-wonder.png" alt="Penn and Teller Magic Show for kids in Vegas graph" /></figure>
 
 **Overview:** Penn &amp; Teller are synonymous with Vegas, and their classic comedy-magic act is one of the best shows in Las Vegas for families. They have honed their craft over the last 3 decades together, and it is hard to imagine a pair of performers with better rapport.
 
@@ -374,7 +374,7 @@ You never know what to expect at a Penn &amp; Teller show, but you will always g
 <div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
 </path></svg></div>**Book it!**](/go/paranormal-mindreading-magic-las-vegas/)</div></div><div class="ugb-feature__image-side">![](/images/paranormal-mind-reading-magic-show-las-vegas.jpg)</div></div></div></div></div>
 
-<figure>![David Goldrake Magic show for kids in Vegas graph](/images/goldrake-graph-thrills-dance-laughs-wonder.png)</figure>
+<figure><img src="/images/goldrake-graph-thrills-dance-laughs-wonder.png" alt="David Goldrake Magic show for kids in Vegas graph" /></figure>
 
 **Overview:** Internationally renowned mentalist Frederic Da Silva is the host of this new magic show at Bally's, featuring hypnosis, mind reading, and much more! Many fans recognize him from his amazing performances on "France's Got Talent". His unbelievable talents will have you scratching your head and will leave the whole family mesmerized.
 
@@ -398,7 +398,7 @@ unique, entertaining, clean fun, amazing, cute
 <div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
 </path></svg></div>**Book it!**](/go/popovich-pet-theatre-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Gregory-Popovich-Family-Vegas-Show-with-pets.png)</div></div></div></div></div>
 
-<figure>![Gregory Popovich Show in Vegas for families graph](/images/popovich-graph-thrills-dance-laughs-wonder.png)</figure>
+<figure><img src="/images/popovich-graph-thrills-dance-laughs-wonder.png" alt="Gregory Popovich Show in Vegas for families graph" /></figure>
 
 **Overview:** Popovich Comedy Pet Theatre is designed as a fascinating show for all ages, and is definitely one of the best shows for families in Las Vegas. This show will impress with juggling and tons of physical comedy, and will delight the kid in all of us with silly clown routines. The best part is that it is an **[affordable Las Vegas family activity](/affordable-family-activities-las-vegas/)**!
 
@@ -417,7 +417,7 @@ The cast includes an amazing 25 pets, including 10 dogs and 15 cats, that were r
 <div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
 </path></svg></div>**Book it!**](/go/potted-potter-vegas-show/)</div></div><div class="ugb-feature__image-side">![](/images/potted-potter-las-vegas-show-for-kids.jpg)</div></div></div></div></div>
 
-<figure>![Laughternoon with Adam London comedy in Vegas for kids graph](/images/laughternoon-graph-thrills-dance-laughs-wonder.png)</figure>
+<figure><img src="/images/laughternoon-graph-thrills-dance-laughs-wonder.png" alt="Laughternoon with Adam London comedy in Vegas for kids graph" /></figure>
 
 **Overview:** Potted Potter is a raucous two-person show that hilariously recreates the story of all 7 Harry Potter books on-stage. With ridiculous props and goofy antics, expect to laugh frequently and be thoroughly entertained (especially if you are a fan of Harry Potter). You can even expect to see a fire breathing dragon greet the duo onstage!
 
@@ -434,7 +434,7 @@ The cast includes an amazing 25 pets, including 10 dogs and 15 cats, that were r
 <div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
 </path></svg></div>**Book it!**](/go/nathan-burton-comedy-magic-show-las-vegas/)</div></div><div class="ugb-feature__image-side">![Nathan Burton Comedy Magic Las Vegas Shows For Kids](/images/nathan-burton-las-vegas-show-all-ages.jpg)</div></div></div></div></div>
 
-<figure>![Jeff Civillico kid friendly Vegas show graph](/images/civillico-graph-thrills-dance-laughs-wonder.png)</figure>
+<figure><img src="/images/civillico-graph-thrills-dance-laughs-wonder.png" alt="Jeff Civillico kid friendly Vegas show graph" /></figure>
 
 **Overview:** Nathan Burton's Comedy Magic Show is a multifaceted family-friendly Las Vegas show for all ages that involves masterful illusions, close-up magic, and lots of jokes along the way. Nathan Burton is known for a special he created called "The Ultimate Las Vegas Showgirl Challenge," where he spent seven nights in a sealed box with seven showgirls, and he has also been featured on various television shows over the years. It's no wonder that Nathan Burton was named Illusionist of the Year.
 
@@ -452,7 +452,7 @@ exhilarating, insane, entertaining, energetic
 <div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
 </path></svg></div>**Book it!**](/go/v-variety-show-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/V-Ultimate-Variety-Show-for-kids-Las-Vegas.png)</div></div></div></div></div>
 
-<figure>![V Ultimate Variety show in Vegas for kids graph](/images/v-variety-graph-thrills-dance-laughs-wonder.png)</figure>
+<figure><img src="/images/v-variety-graph-thrills-dance-laughs-wonder.png" alt="V Ultimate Variety show in Vegas for kids graph" /></figure>
 
 **Overview:** V is a world-class variety show that literally has it all - music, comedy, acrobatics, juggling, magic and everything else in between. V presents an eclectic mix of individual performances that somehow congeal into a fantastic and extremely entertaining experience that is much greater than the sum of its parts. The show is fast paced and exhilarating, much like being at a circus, and it is extremely family friendly. The show will appeal to every age in your group and is definitely a top show for kids in Las Vegas. Best of all, you can catch it any day of the week at 7 or 8:30pm at Planet Hollywood.
 
@@ -470,7 +470,7 @@ delicious, family fun, entertaining, funny, fantastic
 <div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
 </path></svg></div>**Book it!**](/go/tournament-kings-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Tournament-of-Kings-Vegas-Show-and-Dinner-for-kids.png)</div></div></div></div></div>
 
-<figure>![Tournament of kings Vegas show with kids graph](/images/tournament-kings-graph-thrills-dance-laughs-wonder.png)</figure>
+<figure><img src="/images/tournament-kings-graph-thrills-dance-laughs-wonder.png" alt="Tournament of kings Vegas show with kids graph" /></figure>
 
 **Overview:** Tournament of Kings is technically a *dinner* and a show, but it is extremely kid-friendly and will transport you to the era of King Arthur, where knights battled with swords on horseback and jousted for sport. The show involves intricate battle scenes, comedic interludes, maiden dances, and exciting pyrotechnics paired with a [**delicious meal**](/las-vegas-dinner-and-show-packages/). You will get your money's worth at the Tournament of Kings, and your kids are sure to love the story and adventure. Also, kids under 3 can sit on your lap and eat for free! This is a kid-friendly Vegas show and dinner that you won't want to miss.
 
@@ -498,5 +498,5 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 <figure id="best-las-vegas-shows-for-kids" data-essb-pin-description="The best family-friendly shows in Las Vegas—honest reviews, must-see picks, and tips to keep kids entertained the whole trip 🎭✨ From Cirque du Soleil to dinner shows and magic, don’t miss these unforgettable experiences!
 
-#LasVegasWithKids #FamilyTravel #VegasShows #FamilyVacation #TravelWithKids #CirqueDuSoleil #VegasTips #FamilyFun #TravelIdeas #KidFriendlyTravel">[![Best Vegas show for kids](/images/best-shows-for-kids-las-vegas-200x300.jpg)](/images/best-shows-for-kids-las-vegas.jpg)</figure>
+#LasVegasWithKids #FamilyTravel #VegasShows #FamilyVacation #TravelWithKids #CirqueDuSoleil #VegasTips #FamilyFun #TravelIdeas #KidFriendlyTravel"><a href="/images/best-shows-for-kids-las-vegas.jpg"><img src="/images/best-shows-for-kids-las-vegas-200x300.jpg" alt="Best Vegas show for kids" /></a></figure>
 

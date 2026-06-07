@@ -23,7 +23,7 @@ In this exploration of the best breweries in Ventura, we delve into more than ju
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="topa-topa-brewing-company-best-breweries-in-ventura"><figure>[![Topa Topa Brewing Company in Ventura](/images/topa-topa-brewing-company-best-breweries-in-ventura.jpg)](/images/topa-topa-brewing-company-best-breweries-in-ventura.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="topa-topa-brewing-company-best-breweries-in-ventura"><figure><a href="/images/topa-topa-brewing-company-best-breweries-in-ventura.jpg"><img src="/images/topa-topa-brewing-company-best-breweries-in-ventura.jpg" alt="Topa Topa Brewing Company in Ventura" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -46,7 +46,7 @@ Topa Topa has become synonymous with innovation in brewing. The brewery takes pr
 
 **[See Photos, Reviews, &amp; More](/go/topa-topa-brewing-company-ventura/)**
 
-<figure id="poseidon-brewing-co-ventura-breweries">[![](/images/poseidon-brewing-co-ventura-breweries.jpg)](/images/poseidon-brewing-co-ventura-breweries.jpg)<figcaption class="wp-element-caption">Courtesy of Poseidon Brewing Co,</figcaption></figure>
+<figure id="poseidon-brewing-co-ventura-breweries"><a href="/images/poseidon-brewing-co-ventura-breweries.jpg"><img src="/images/poseidon-brewing-co-ventura-breweries.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Poseidon Brewing Co,</figcaption></figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-0068214c">
 
@@ -71,7 +71,7 @@ Poseidon Brewing Company isn't just a brewery; it's a hub of relaxed vibes and c
 
 **[See Photos, Reviews, &amp; More](/go/poseidon-brewing-company-ventura/)**
 
-<div class="wp-block-uagb-image uagb-block-cad6920a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="fluid-state-beer-garden-best-breweries-in-ventura"><figure>[![Fluid State Beer Garden in Ventura](/images/fluid-state-brewing-company-best-breweries-in-ventura.jpg)](/images/fluid-state-brewing-company-best-breweries-in-ventura.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-cad6920a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="fluid-state-beer-garden-best-breweries-in-ventura"><figure><a href="/images/fluid-state-brewing-company-best-breweries-in-ventura.jpg"><img src="/images/fluid-state-brewing-company-best-breweries-in-ventura.jpg" alt="Fluid State Beer Garden in Ventura" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-36dad3d4">
 
@@ -96,7 +96,7 @@ Fluid State Beer Garden transcends the role of a traditional brewery; it becomes
 
 **[See Photos, Reviews, &amp; More](/go/fluid-state-beer-garden-ventura/)**
 
-<div class="wp-block-uagb-image uagb-block-5314c18b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="madewest-brewing-company-best-breweries-in-ventura"><figure>[![Madewest Brewing Company in Ventura](/images/madewest-brewing-company-best-breweries-in-ventura.jpg)](/images/madewest-brewing-company-best-breweries-in-ventura.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-5314c18b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="madewest-brewing-company-best-breweries-in-ventura"><figure><a href="/images/madewest-brewing-company-best-breweries-in-ventura.jpg"><img src="/images/madewest-brewing-company-best-breweries-in-ventura.jpg" alt="Madewest Brewing Company in Ventura" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-bf9353ab">
 
@@ -119,7 +119,7 @@ The dedication to quality ingredients and brewing techniques is not just a state
 
 **[See Photos, Reviews, &amp; More](/go/madewest-brewing-company-ventura/)**
 
-<div class="wp-block-uagb-image uagb-block-e59eeb4d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="rincon-brewery-best-breweries-in-ventura"><figure>[![Rincon Brewery in Ventura](/images/rincon-brewery-best-breweries-in-ventura.jpg)](/images/rincon-brewery-best-breweries-in-ventura.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-e59eeb4d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="rincon-brewery-best-breweries-in-ventura"><figure><a href="/images/rincon-brewery-best-breweries-in-ventura.jpg"><img src="/images/rincon-brewery-best-breweries-in-ventura.jpg" alt="Rincon Brewery in Ventura" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-4326f634">
 
@@ -160,5 +160,5 @@ So, whether you're a craft beer aficionado seeking the next innovative brew or a
 
 Like it? Pin it!
 
-<figure id="best-breweries-in-ventura-families-live-music-pets">[![Best Breweries in Ventura to enjoy beer and live music with your family, fur babies, friends - HotMamaTravel](/images/best-breweries-in-ventura-families-live-music-pets-200x300.jpg)](/images/best-breweries-in-ventura-families-live-music-pets.jpg)</figure>
+<figure id="best-breweries-in-ventura-families-live-music-pets"><a href="/images/best-breweries-in-ventura-families-live-music-pets.jpg"><img src="/images/best-breweries-in-ventura-families-live-music-pets-200x300.jpg" alt="Best Breweries in Ventura to enjoy beer and live music with your family, fur babies, friends - HotMamaTravel" /></a></figure>
 </div></div>

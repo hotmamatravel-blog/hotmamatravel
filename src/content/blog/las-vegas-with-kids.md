@@ -237,5 +237,5 @@ Vegas with kids isn’t a compromise; it’s a win.
 
 Like it? Pin it!
 
-<figure id="best-travel-guide-to-las-vegas-with-kids">[![](/images/best-travel-guide-to-las-vegas-with-kids-200x300.jpg)](/images/best-travel-guide-to-las-vegas-with-kids.jpg)</figure>
+<figure id="best-travel-guide-to-las-vegas-with-kids"><a href="/images/best-travel-guide-to-las-vegas-with-kids.jpg"><img src="/images/best-travel-guide-to-las-vegas-with-kids-200x300.jpg" alt="" /></a></figure>
 </div></div>

@@ -15,7 +15,7 @@ author: "Amanda Keeley-Thurman"
 We all need a little city escape sometimes to reconnect with our families, ourselves and nature. If you love nature, but don’t love the work of camping, then you will love these awesome sites for glamping in Upstate New York that I have put together for you.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-98f52594"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="firelight-camps-tents-glamping-upstate-new-york">[![](/images/firelight-camps-tents-glamping-upstate-new-york.jpg)](/images/firelight-camps-tents-glamping-upstate-new-york.jpg)</figure>
+<figure id="firelight-camps-tents-glamping-upstate-new-york"><a href="/images/firelight-camps-tents-glamping-upstate-new-york.jpg"><img src="/images/firelight-camps-tents-glamping-upstate-new-york.jpg" alt="" /></a></figure>
 
 #### [Firelight Camps](/go/firelight-glamping-upstate-new-york/)
 
@@ -32,7 +32,7 @@ The Lobby Tent includes a beverage station with hot water, coffee and tea, a wat
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8354995b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Orenda-family-tents-glamping-upstate-new-york">[![](/images/Orenda-family-tents-glamping-upstate-new-york.jpeg)](/images/Orenda-family-tents-glamping-upstate-new-york.jpeg)</figure>
+<figure id="Orenda-family-tents-glamping-upstate-new-york"><a href="/images/Orenda-family-tents-glamping-upstate-new-york.jpeg"><img src="/images/Orenda-family-tents-glamping-upstate-new-york.jpeg" alt="" /></a></figure>
 
 #### [Camp Orenda](/go/orenda-glamping-upstate-new-york/)
 
@@ -49,7 +49,7 @@ All meals (except lunch) at the onsite, Backcountry Kitchen, are all-inclusive a
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-96653c86"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="harmony-hill-yurt-glamping-upstate-new-york">[![](/images/harmony-hill-yurt-glamping-upstate-new-york.jpg)](/images/harmony-hill-yurt-glamping-upstate-new-york.jpg)</figure>
+<figure id="harmony-hill-yurt-glamping-upstate-new-york"><a href="/images/harmony-hill-yurt-glamping-upstate-new-york.jpg"><img src="/images/harmony-hill-yurt-glamping-upstate-new-york.jpg" alt="" /></a></figure>
 
 #### [Harmony Hill Retreat](/go/harmony-hill-retreat-glamping-upstate-new-york/)
 
@@ -66,7 +66,7 @@ Onsite, you can enjoy massages, guided intuitive nature walks that include a for
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c189f80c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="treetopia-family-glamping-upstate-new-york">[![](/images/treetopia-family-glamping-upstate-new-york.jpg)](/images/treetopia-family-glamping-upstate-new-york.jpg)</figure>
+<figure id="treetopia-family-glamping-upstate-new-york"><a href="/images/treetopia-family-glamping-upstate-new-york.jpg"><img src="/images/treetopia-family-glamping-upstate-new-york.jpg" alt="" /></a></figure>
 
 #### [Treetopia Campground](/go/teetopia-glamping-upstate-new-york/)
 
@@ -83,7 +83,7 @@ Onsite you can enjoy a pool, but there aren’t any other onsite activities or d
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6a18d6c0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="deerpark-koa-family-glamping-upstate-new-york">[![](/images/deerpark-koa-family-glamping-upstate-new-york.jpg)](/images/deerpark-koa-family-glamping-upstate-new-york.jpg)</figure>
+<figure id="deerpark-koa-family-glamping-upstate-new-york"><a href="/images/deerpark-koa-family-glamping-upstate-new-york.jpg"><img src="/images/deerpark-koa-family-glamping-upstate-new-york.jpg" alt="" /></a></figure>
 
 #### [Neversink River Resort](/go/deerpark-koa-upstate-new-york/)
 
@@ -143,5 +143,5 @@ Start planning your spring and summer family vacations now and book a stay at on
 
 **Like it? Pin it!**
 
-<figure id="5-beautiful-sites-glamping-upstate-new-york">[![](/images/5-beautiful-sites-glamping-upstate-new-york-200x300.jpg)](/images/5-beautiful-sites-glamping-upstate-new-york.jpg)</figure>
+<figure id="5-beautiful-sites-glamping-upstate-new-york"><a href="/images/5-beautiful-sites-glamping-upstate-new-york.jpg"><img src="/images/5-beautiful-sites-glamping-upstate-new-york-200x300.jpg" alt="" /></a></figure>
 </div></section>

@@ -135,7 +135,7 @@ To make the planning even easier, **this article will show you exactly where to 
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4c5460ad"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="naples-pier-naples-fl-family-vacations">[![](/images/naples-pier-naples-fl-family-vacations.jpg)](/images/naples-pier-naples-fl-family-vacations.jpg)</figure>
+<figure id="naples-pier-naples-fl-family-vacations"><a href="/images/naples-pier-naples-fl-family-vacations.jpg"><img src="/images/naples-pier-naples-fl-family-vacations.jpg" alt="" /></a></figure>
 
 #### [Naples Pier](/go/naples-pier-naples-fl/)
 
@@ -152,7 +152,7 @@ Additionally, there are plenty of nearby amenities such as restrooms, showers, a
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d51bcede"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="naples-zoo-naples-fl-family-vacations">[![](/images/naples-zoo-naples-fl-family-vacations.jpg)](/images/naples-zoo-naples-fl-family-vacations.jpg)</figure>
+<figure id="naples-zoo-naples-fl-family-vacations"><a href="/images/naples-zoo-naples-fl-family-vacations.jpg"><img src="/images/naples-zoo-naples-fl-family-vacations.jpg" alt="" /></a></figure>
 
 #### [Naples Zoo &amp; Caribbean Gardens](/go/naples-zoo-caribbean-gardens-naples-fl/)
 
@@ -165,7 +165,7 @@ We had the best experience at Naples Zoo and definitely recommend for a fun and 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-143c9bb5"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="golisano-childrens-museum-naples-fl-family-vacations">[![](/images/golisano-childrens-museum-naples-fl-family-vacations.jpg)](/images/golisano-childrens-museum-naples-fl-family-vacations.jpg)</figure>
+<figure id="golisano-childrens-museum-naples-fl-family-vacations"><a href="/images/golisano-childrens-museum-naples-fl-family-vacations.jpg"><img src="/images/golisano-childrens-museum-naples-fl-family-vacations.jpg" alt="" /></a></figure>
 
 #### [Golisano Childrens Museum of Naples](/go/golisano-childrens-museum-naples-fl/)
 
@@ -196,7 +196,7 @@ Open on the weekends only, the Naples Train Museum is a multi-level model train 
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d60ab277"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="naples-grande-beach-resort-naples-resorts-for-kids">[![](/images/naples-grand-beach-resort-naples-resorts-for-kids.jpg)](/images/naples-grand-beach-resort-naples-resorts-for-kids.jpg)</figure>
+<figure id="naples-grande-beach-resort-naples-resorts-for-kids"><a href="/images/naples-grand-beach-resort-naples-resorts-for-kids.jpg"><img src="/images/naples-grand-beach-resort-naples-resorts-for-kids.jpg" alt="" /></a></figure>
 
 #### [Naples Grande Beach Resort](/go/naples-grande-beach-resort-naples-fl/)
 
@@ -209,7 +209,7 @@ This is where we have stayed for years and it never disappoints. This kid-friend
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6e18bb8f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="hyatt-house-naples-5th-avenue-naples-resorts-for-kids">[![](/images/hyatt-house-naples-5th-avenue-naples-resorts-for-kids.jpg)](/images/hyatt-house-naples-5th-avenue-naples-resorts-for-kids.jpg)</figure>
+<figure id="hyatt-house-naples-5th-avenue-naples-resorts-for-kids"><a href="/images/hyatt-house-naples-5th-avenue-naples-resorts-for-kids.jpg"><img src="/images/hyatt-house-naples-5th-avenue-naples-resorts-for-kids.jpg" alt="" /></a></figure>
 
 #### [Hyatt House Naples/5th Avenue](/go/hyatt-house-naples-5th-avenue-naples-fl/)
 
@@ -222,7 +222,7 @@ Located on the Gordon River within walking distance from the trendy 5th Avenue, 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3cf93ae8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="naples-bay-resort-marina-naples-resorts-for-kids">[![](/images/naples-bay-resort-marina-naples-resorts-for-kids.jpg)](/images/naples-bay-resort-marina-naples-resorts-for-kids.jpg)</figure>
+<figure id="naples-bay-resort-marina-naples-resorts-for-kids"><a href="/images/naples-bay-resort-marina-naples-resorts-for-kids.jpg"><img src="/images/naples-bay-resort-marina-naples-resorts-for-kids.jpg" alt="" /></a></figure>
 
 #### [Naples Bay Resort &amp; Marina](/go/naples-bay-resort-marina-naples-fl/)
 
@@ -279,7 +279,7 @@ Located only two blocks from the Naples Pier, the Old Naples Pub is a favorite l
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6490ab2c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="tin-city-riverwalk-kid-friendly-restaurants-naples-fl">[![](/images/tin-city-riverwalk-kid-friendly-restaurants-naples-fl.jpg)](/images/tin-city-riverwalk-kid-friendly-restaurants-naples-fl.jpg)</figure>
+<figure id="tin-city-riverwalk-kid-friendly-restaurants-naples-fl"><a href="/images/tin-city-riverwalk-kid-friendly-restaurants-naples-fl.jpg"><img src="/images/tin-city-riverwalk-kid-friendly-restaurants-naples-fl.jpg" alt="" /></a></figure>
 
 #### [Riverwalk-Tin City](/go/riverwalk-naples-fl/)
 
@@ -334,7 +334,7 @@ Paddy Murphy’s is a really fun Irish pub located in the heart of 5th Avenue So
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ea4b7515"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="tin-city-naples-attractions-for-families">[![](/images/tin-city-riverwalk-kid-friendly-restaurants-naples-fl.jpg)](/images/tin-city-riverwalk-kid-friendly-restaurants-naples-fl.jpg)</figure>
+<figure id="tin-city-naples-attractions-for-families"><a href="/images/tin-city-riverwalk-kid-friendly-restaurants-naples-fl.jpg"><img src="/images/tin-city-riverwalk-kid-friendly-restaurants-naples-fl.jpg" alt="" /></a></figure>
 
 #### [Tin City](/go/tin-city-naples-fl/)
 
@@ -351,7 +351,7 @@ In addition to the water activities, Tin City Riverwalk also offers a range of s
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4b8623de"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="5th-avenue-naples-attractions-for-families">[![](/images/5th-avenue-naples-attractions-for-families.jpg)](/images/5th-avenue-naples-attractions-for-families.jpg)</figure>
+<figure id="5th-avenue-naples-attractions-for-families"><a href="/images/5th-avenue-naples-attractions-for-families.jpg"><img src="/images/5th-avenue-naples-attractions-for-families.jpg" alt="" /></a></figure>
 
 #### [5th Avenue South](/go/fifth-avenue-south-naples-fl/)
 
@@ -364,7 +364,7 @@ In addition to the water activities, Tin City Riverwalk also offers a range of s
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-47beaa5d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="crayton-cove-naples-attractions-for-families">[![](/images/crayton-cove-naples-attractions-for-families.jpg)](/images/crayton-cove-naples-attractions-for-families.jpg)</figure>
+<figure id="crayton-cove-naples-attractions-for-families"><a href="/images/crayton-cove-naples-attractions-for-families.jpg"><img src="/images/crayton-cove-naples-attractions-for-families.jpg" alt="" /></a></figure>
 
 #### [Crayton Cove](/go/crayton-cove-naples-fl/)
 
@@ -375,7 +375,7 @@ This fun section of Downtown Naples is where the Naples Yacht Club and the Naple
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7619428e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="bayfront-naples-attractions-for-families">[![](/images/bayfront-naples-attractions-for-families.jpg)](/images/bayfront-naples-attractions-for-families.jpg)</figure>
+<figure id="bayfront-naples-attractions-for-families"><a href="/images/bayfront-naples-attractions-for-families.jpg"><img src="/images/bayfront-naples-attractions-for-families.jpg" alt="" /></a></figure>
 
 #### [Bayfront of Naples](https://bayfrontnaples.com/)
 
@@ -386,7 +386,7 @@ This part of Downtown Naples will make you feel like you have left Florida and a
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7dc88803"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="third-street-south-naples-attractions-for-families">[![](/images/third-street-south-naples-attractions-for-families.jpg)](/images/third-street-south-naples-attractions-for-families.jpg)</figure>
+<figure id="third-street-south-naples-attractions-for-families"><a href="/images/third-street-south-naples-attractions-for-families.jpg"><img src="/images/third-street-south-naples-attractions-for-families.jpg" alt="" /></a></figure>
 
 #### [Third Street South](/go/third-street-south-naples-fl/)
 
@@ -403,7 +403,7 @@ Third Street South is considered the birthplace of Naples. This area, known as �
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-19ccd85e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="the-dock-kid-friendly-restaurants-naples-fl">[![](/images/the-dock-kid-friendly-restaurants-naples-fl.jpg)](/images/the-dock-kid-friendly-restaurants-naples-fl.jpg)</figure>
+<figure id="the-dock-kid-friendly-restaurants-naples-fl"><a href="/images/the-dock-kid-friendly-restaurants-naples-fl.jpg"><img src="/images/the-dock-kid-friendly-restaurants-naples-fl.jpg" alt="" /></a></figure>
 
 #### [The Dock](/go/the-dock-crayton-cove-naples-fl/)
 
@@ -458,7 +458,7 @@ Pincher’s Crabshack prides themselves on having the freshest crab and seafood 
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2a9f2af1"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="everglades-airboat-tour-things-to-do-in-naples-with-kids">[![](/images/everglades-airboat-tour-things-to-do-in-naples-with-kids.jpg)](/images/everglades-airboat-tour-things-to-do-in-naples-with-kids.jpg)</figure>
+<figure id="everglades-airboat-tour-things-to-do-in-naples-with-kids"><a href="/images/everglades-airboat-tour-things-to-do-in-naples-with-kids.jpg"><img src="/images/everglades-airboat-tour-things-to-do-in-naples-with-kids.jpg" alt="" /></a></figure>
 
 #### [Everglades](/go/everglades-city-airboat-tours-everglades-city-fl/)
 
@@ -517,7 +517,7 @@ Gordon River Greenway Park is a tranquil place to get out and stroll through nat
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9a545a26"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="clam-pass-park-things-to-do-in-naples-with-kids">![Guide to Naples FL with Kids](/images/ultimate-guide-naples-florida-with-kids-things-to-do.png)</figure>
+<figure id="clam-pass-park-things-to-do-in-naples-with-kids"><img src="/images/ultimate-guide-naples-florida-with-kids-things-to-do.png" alt="Guide to Naples FL with Kids" /></figure>
 
 #### [Clam Pass Park](/go/clam-pass-park-naples-fl/)
 
@@ -563,5 +563,5 @@ I think of the trees that grow native in Southwest Florida, how they have branch
 
 **Like it? Pin it!**
 
-<figure>![Naples with Kids Travel Guide](/images/NWK-5-200x300.jpg)</figure>
+<figure><img src="/images/NWK-5-200x300.jpg" alt="Naples with Kids Travel Guide" /></figure>
 </div></section>

@@ -23,7 +23,7 @@ If you love spooky adventures, then you'll love visiting San Diego. It makes my 
 
 Now, let’s dive into the haunted hotels in San Diego that are guaranteed to give your family just the right amount of chills and thrills.
 
-<div class="wp-block-uagb-image uagb-block-e9c8e256 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Haunted Cosmopolitan Hotel Old Town San Diego](/images/cosmopolitan-hotel-old-town-san-diego.jpg)](/images/cosmopolitan-hotel-old-town-san-diego.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-e9c8e256 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/cosmopolitan-hotel-old-town-san-diego.jpg"><img src="/images/cosmopolitan-hotel-old-town-san-diego.jpg" alt="Haunted Cosmopolitan Hotel Old Town San Diego" /></a></figure></div>
 
 ## [The Cosmopolitan Hotel](/go/cosmopolitan-hotel-san-diego/)
 
@@ -33,13 +33,13 @@ Now, let’s dive into the haunted hotels in San Diego that are guaranteed to gi
 
 Standing proudly at the Northeast corner of Old Town San Diego’s historical plaza, the [Cosmopolitan Hotel](https://www.oldtowncosmopolitan.com/) was once the grand home of Juan Lorenzo Bandini. He had made a fortune in the Mexican cattle ranching industry and wanted a house that reflected his social standing in the community. The original structure was built in 1827 as a single-story adobe ranch-style home by natives from the local mission.
 
-<figure>![Portrait of Juan Bandini](/images/Juan-bandini-portrait.jpg)</figure>
+<figure><img src="/images/Juan-bandini-portrait.jpg" alt="Portrait of Juan Bandini" /></figure>
 
 Casa de Bandini was the happy home and site of many social gathering, like fandangos, the Bandini’s popular dance parties. However, due to a changing economy and California becoming a state, Bandini’s fortune dwindled and in 1869 his son-in-law sold the property to Albert Seeley.
 
 Seeley remodeled the adobe ranch-style home into the two-story Greek Revival Cosmopolitan Hotel, complete with a wrap-around balcony that not only continues to be popular with current guests but also with past spirits.
 
-<figure>![Old Photo of original Cosmopolitan Hotel](/images/cosmopolitan-hotel-historic-photo.jpg)</figure>
+<figure><img src="/images/cosmopolitan-hotel-historic-photo.jpg" alt="Old Photo of original Cosmopolitan Hotel" /></figure>
 
 Since then the Cosmopolitan San Diego has seen many changes in ownership including Bandini’s own grandson, Cave Couts Jr, who owned the property in the 1930’s.
 
@@ -81,7 +81,7 @@ If you are in town during the Halloween season, The Cosmopolitan is only a short
 
 *[**See More Photos, Reviews &amp; More**](/go/cosmopolitan-hotel-san-diego/)*
 
-<div class="wp-block-uagb-image uagb-block-5f400630 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Hotel Del Coronado San Diego](/images/hotel-del-coronado-haunted-hotels-california.jpg)](/images/hotel-del-coronado-haunted-hotels-california.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-5f400630 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/hotel-del-coronado-haunted-hotels-california.jpg"><img src="/images/hotel-del-coronado-haunted-hotels-california.jpg" alt="Hotel Del Coronado San Diego" /></a></figure></div>
 
 ## [Hotel Del Coronado](/go/hotel-del-coronado-san-diego/)
 
@@ -93,7 +93,7 @@ Across the San Diego Bay sits the historic Hotel Del. Built in 1888, this beach 
 
 A real swanky place, the [Coronado Hotel San Diego](https://www.hoteldel.com/) has been a home away from home for many celebrities, presidents, and royalty for 130 years. Amazingly, this national historical landmark is still rated among the top ten resorts in the world to this day - an incredible feat considering the competition that has grown over the years since it was built.
 
-<figure>![Old Postcard from Hotel Del Coronado](/images/Hotel-del-coronado-old-postcard.jpg)</figure>
+<figure><img src="/images/Hotel-del-coronado-old-postcard.jpg" alt="Old Postcard from Hotel Del Coronado" /></figure>
 
 The Del has been featured in several movies, most notably "Some Like It Hot" starring Marilyn Monroe. It was even used to house pilots in training at North Island Naval Air Station as well as their families during World War II.
 
@@ -105,7 +105,7 @@ Kate Morgan was only 24 years old when she checked into The Del on Thanksgiving 
 
 She told hotel staff that she was waiting for a gentleman companion to join her, but five days later it is believed that she shot and killed herself. Her body was discovered at the bottom of an outside staircase leading to the beach with a gunshot to the head. At first the hotel could not positively identify her and she was dubbed “the beautiful stranger.”
 
-<figure>![Portrait of Kate Morgan Beautiful Stranger](/images/Kate-Morgan-portrait.jpg)</figure>
+<figure><img src="/images/Kate-Morgan-portrait.jpg" alt="Portrait of Kate Morgan Beautiful Stranger" /></figure>
 
 There has been some speculation that this was a homicide rather than a suicide as the bullet in her head did not match the bullets in her personal gun. However, the case was never reopened.
 
@@ -129,7 +129,7 @@ With seven bars and restaurants, including an oceanfront seafood spot and an ope
 
 **[See More Photos, Reviews, &amp; More](/go/hotel-del-coronado-san-diego/)**
 
-<figure>[![Haunted Horton Grand Hotel San Diego](/images/horton-grand-hotel-san-diego.jpg)](/images/horton-grand-hotel-san-diego.jpg)<figcaption class="wp-element-caption">***Courtesy of Horton Grand Hotel***</figcaption></figure>
+<figure><a href="/images/horton-grand-hotel-san-diego.jpg"><img src="/images/horton-grand-hotel-san-diego.jpg" alt="Haunted Horton Grand Hotel San Diego" /></a><figcaption class="wp-element-caption">***Courtesy of Horton Grand Hotel***</figcaption></figure>
 
 ## [Horton Grand Hotel](/go/horton-grand-hotel-san-diego/)
 
@@ -143,7 +143,7 @@ This was around the same time that Wyatt Earp showed up to San Diego and he spen
 
 In addition to Wyatt Earp, many other significant figures in society were also guests of the Horton Grand, including presidents, colonels and kings of years past.
 
-<figure>![Lobby of Horton Grand Hotel San Diego](/images/Horton-grand-hotel-inside-staircase.jpg)</figure>
+<figure><img src="/images/Horton-grand-hotel-inside-staircase.jpg" alt="Lobby of Horton Grand Hotel San Diego" /></figure>
 
 With so much history, it was a shame when the two historic hotels were on the chopping block to make room for the Horton Plaza mall. Thankfully, a local developer and historical heritage organization saved the hotels by reconstructing them two blocks from their original location.
 
@@ -190,5 +190,5 @@ Wherever your travels take you, whether it’s a haunted suite or a sunny Califo
 Like it? Pin it!
 
 <figure data-essb-pin-description="Planning a spooky family getaway? These haunted hotels in San Diego are perfect for families who love history, mystery, and maybe a ghost or two! 👀
-#HauntedHotelsSanDiego #FamilyTravel #SpookyTravel #HotMamaTravel">[![haunted hotels in san diego for families](/images/haunted-hotels-san-diego-for-familes-200x300.jpg)](/images/haunted-hotels-san-diego-for-familes.jpg)</figure>
+#HauntedHotelsSanDiego #FamilyTravel #SpookyTravel #HotMamaTravel"><a href="/images/haunted-hotels-san-diego-for-familes.jpg"><img src="/images/haunted-hotels-san-diego-for-familes-200x300.jpg" alt="haunted hotels in san diego for families" /></a></figure>
 </div></div>

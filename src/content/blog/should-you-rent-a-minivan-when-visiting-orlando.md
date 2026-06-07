@@ -19,7 +19,7 @@ prime destination for a family trip.&nbsp;
 
 Unsurprisingly, the priority for those planning a vacation here is to check the prices and packages for the parks. However, there is another important issue that people should also be considering when planning out their trip to this city - *transportation*. It seems like the kind of thing that you’d glance over until the last moment, but believe, me it really makes a difference.
 
-<figure>![Drink Around the World Disney Epcot with Kids](/images/Disney-epcot-drinking-around-the-world-challenge-with-kids.png)<figcaption>Back when I did the drink around the world challenge at Epcot in Orlando!</figcaption></figure>
+<figure><img src="/images/Disney-epcot-drinking-around-the-world-challenge-with-kids.png" alt="Drink Around the World Disney Epcot with Kids" /><figcaption>Back when I did the drink around the world challenge at Epcot in Orlando!</figcaption></figure>
 
 So,
 in this post we´ll be trying to solve a question that many tourists have asked
@@ -32,7 +32,7 @@ factors that can affect your transportation and your overall experience when
 visiting both the city and the parks, so that at the end of the post you can decide for yourself which one is best. What
 are we waiting for, let’s go for it!
 
-<figure>![Disney World fireworks](/images/disneyworld-fireworks-night.jpg)</figure>
+<figure><img src="/images/disneyworld-fireworks-night.jpg" alt="Disney World fireworks" /></figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-4e9f9990-2f19-4455-be10-8eb5d193f78f" id="uagb-adv-heading-b0e1520d-d98d-4e9b-80b6-e36f83d51ac4">
 
@@ -48,7 +48,7 @@ Now it might not seem like it at first, but South Florida, in general, is a pret
 
 [Renting a van in Orlando](https://www.milescarrentalorlando.com/van-rental-orlando.php) offers a simple and elegant solution to the issue. If you need a set of wheels, then here’s a vehicle you can use as if it were your own for the duration of your vacation, simple as that.
 
-<figure>![Rental car agreement](/images/rental-car-map.jpg)</figure>
+<figure><img src="/images/rental-car-map.jpg" alt="Rental car agreement" /></figure>
 
 **Pros:&nbsp;**
 
@@ -82,7 +82,7 @@ which they’ll give you the car with a full tank and you can return it with
 almost nothing… hopefully, in the future, there will be something similar for
 parking lots.
 
-<figure>![Family minivan rental car](/images/family-minivan-rental-orlando.jpg)</figure>
+<figure><img src="/images/family-minivan-rental-orlando.jpg" alt="Family minivan rental car" /></figure>
 
 &nbsp;&nbsp;**1.2 Public transport/ Private shuttles**
 
@@ -112,7 +112,7 @@ so it’s better to let others do it and just relax for a while as you get to
 your destination, it’s also useful for those that aren’t able to drive.&nbsp;
 &nbsp;&nbsp;
 
-<figure>![Bus Stock photo](/images/bus-orlando-stock.jpg)</figure>
+<figure><img src="/images/bus-orlando-stock.jpg" alt="Bus Stock photo" /></figure>
 
 **Cons:&nbsp;**
 
@@ -132,7 +132,7 @@ a rental car, you can’t leave your belongings at the vehicle, if you do chance
 are great that you won’t see them ever again! So, you have to be a little bit
 more careful with your stuff.
 
-<figure>![Inside bus Orlando](/images/inside-red-bus.jpg)</figure>
+<figure><img src="/images/inside-red-bus.jpg" alt="Inside bus Orlando" /></figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-7de92c85-e921-4ba7-a78f-9f09ec1bda9d" id="uagb-adv-heading-b0e1520d-d98d-4e9b-80b6-e36f83d51ac4">
 
@@ -160,7 +160,7 @@ If
 you choose the public transport option remember to be on time, as having to
 wait for half an hour or so can wreck your schedule.&nbsp;
 
-<figure>![Men](/images/man-check-watch-suit.jpg)</figure>
+<figure><img src="/images/man-check-watch-suit.jpg" alt="Men" /></figure>
 
 ### Thinking about the kids
 
@@ -188,7 +188,7 @@ is the best thing to do, as this
 option is the only one that &nbsp;will really allow
 you to rest a bit after a day at the parks.&nbsp;
 
-<figure>![Child sleeping in car](/images/child-sleeping-booster-seat.jpg)</figure>
+<figure><img src="/images/child-sleeping-booster-seat.jpg" alt="Child sleeping in car" /></figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-8b95da77-e3fb-4fe5-98e0-3ca82ecf3bda" id="uagb-adv-heading-b0e1520d-d98d-4e9b-80b6-e36f83d51ac4">
 

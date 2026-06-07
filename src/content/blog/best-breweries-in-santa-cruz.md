@@ -21,7 +21,7 @@ Nestled along the stunning coastline of California, Santa Cruz isn't just a have
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="santa-cruz-moutain-brewing-best-breweries-santa-cruz"><figure>[![Womenn-owned and operated Santa Cruz Mountain Brewing](/images/santa-cruz-moutain-brewing-best-breweries-santa-cruz.jpg)](/images/santa-cruz-moutain-brewing-best-breweries-santa-cruz.jpg)<figcaption class="uagb-image-caption">Courtesy of Santa Cruz Mountain Brewing</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="santa-cruz-moutain-brewing-best-breweries-santa-cruz"><figure><a href="/images/santa-cruz-moutain-brewing-best-breweries-santa-cruz.jpg"><img src="/images/santa-cruz-moutain-brewing-best-breweries-santa-cruz.jpg" alt="Womenn-owned and operated Santa Cruz Mountain Brewing" /></a><figcaption class="uagb-image-caption">Courtesy of Santa Cruz Mountain Brewing</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -44,7 +44,7 @@ Relax, unwind, and soak in the coastal charm at Santa Cruz Mountain Brewing. Whe
 
 **[See Photos, Reviews, &amp; More](/go/santa-cruz-mountain-brewing-santa-cruz/)**
 
-<div class="wp-block-uagb-image uagb-block-3be237ca wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="discretion-brewing-best-breweries-santa-cruz"><figure>[![family-friendly Discretion Brewing in Santa Cruz](/images/discretion-brewing-best-breweries-santa-cruz.jpg)](/images/discretion-brewing-best-breweries-santa-cruz.jpg)<figcaption class="uagb-image-caption">Courtesy of Discretion Brewing</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-3be237ca wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="discretion-brewing-best-breweries-santa-cruz"><figure><a href="/images/discretion-brewing-best-breweries-santa-cruz.jpg"><img src="/images/discretion-brewing-best-breweries-santa-cruz.jpg" alt="family-friendly Discretion Brewing in Santa Cruz" /></a><figcaption class="uagb-image-caption">Courtesy of Discretion Brewing</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-53d724aa">
 
@@ -67,7 +67,7 @@ As you step into Discretion Brewing, you're not only treated to an impressive ar
 
 **[See Photos, Reviews, &amp; More](/go/discretion-brewing-santa-cruz/)**
 
-<div class="wp-block-uagb-image uagb-block-e03a334b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="humble-sea-brewing-co-best-breweries-santa-cruz"><figure>[![best breweries in Santa Cruz Humble Sea Brewing Co](/images/humble-sea-brewing-co-best-breweries-santa-cruz.jpg)](/images/humble-sea-brewing-co-best-breweries-santa-cruz.jpg)<figcaption class="uagb-image-caption">Courtesy of Humble Sea Brewing Co.</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-e03a334b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="humble-sea-brewing-co-best-breweries-santa-cruz"><figure><a href="/images/humble-sea-brewing-co-best-breweries-santa-cruz.jpg"><img src="/images/humble-sea-brewing-co-best-breweries-santa-cruz.jpg" alt="best breweries in Santa Cruz Humble Sea Brewing Co" /></a><figcaption class="uagb-image-caption">Courtesy of Humble Sea Brewing Co.</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-5848ce25">
 
@@ -90,7 +90,7 @@ As you step into Humble Sea Brewing Co., you're not just entering a brewery; you
 
 **[See Photos, Reviews, &amp; More](/go/humble-sea-brewing-co-santa-cruz/)**
 
-<div class="wp-block-uagb-image uagb-block-37851007 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="new-bohemia-brewing-co-best-breweries-santa-cruz"><figure>[![European style brews at New Bohemia Brewing Co. Santa Cruz](/images/new-bohemia-brewing-co-best-breweries-santa-cruz.jpg)](/images/new-bohemia-brewing-co-best-breweries-santa-cruz.jpg)<figcaption class="uagb-image-caption">Courtesy of New Bohemia Brewing Co.</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-37851007 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="new-bohemia-brewing-co-best-breweries-santa-cruz"><figure><a href="/images/new-bohemia-brewing-co-best-breweries-santa-cruz.jpg"><img src="/images/new-bohemia-brewing-co-best-breweries-santa-cruz.jpg" alt="European style brews at New Bohemia Brewing Co. Santa Cruz" /></a><figcaption class="uagb-image-caption">Courtesy of New Bohemia Brewing Co.</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-0df2c147">
 
@@ -113,7 +113,7 @@ As you sip your way through the diverse range of beers at New Bohemia Brewing Co
 
 **[See Photos, Reviews, &amp; More](/go/new-bohemia-brewing-santa-cruz/)**
 
-<div class="wp-block-uagb-image uagb-block-a8fab8f3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="sante-adairius-ales-best-breweries-santa-cruz"><figure>[![Family-friendly Sante Adairius Rustic Ales Brewery Santa Cruz](/images/sante-adairius-ales-best-breweries-santa-cruz.jpg)](/images/sante-adairius-ales-best-breweries-santa-cruz.jpg)<figcaption class="uagb-image-caption">Courtesy of Sante Adairius Rustic Ales</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-a8fab8f3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="sante-adairius-ales-best-breweries-santa-cruz"><figure><a href="/images/sante-adairius-ales-best-breweries-santa-cruz.jpg"><img src="/images/sante-adairius-ales-best-breweries-santa-cruz.jpg" alt="Family-friendly Sante Adairius Rustic Ales Brewery Santa Cruz" /></a><figcaption class="uagb-image-caption">Courtesy of Sante Adairius Rustic Ales</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-904a280d">
 
@@ -142,5 +142,5 @@ Hope you enjoyed this journey through the best breweries in Santa Cruz, where ea
 
 Like it? Pin it!
 
-<figure id="best-breweries-in-Santa-Cruz-families-live-music-pets">[![](/images/best-breweries-in-Santa-Cruz-families-live-music-pets-200x300.jpg)](/images/best-breweries-in-Santa-Cruz-families-live-music-pets.jpg)</figure>
+<figure id="best-breweries-in-Santa-Cruz-families-live-music-pets"><a href="/images/best-breweries-in-Santa-Cruz-families-live-music-pets.jpg"><img src="/images/best-breweries-in-Santa-Cruz-families-live-music-pets-200x300.jpg" alt="" /></a></figure>
 </div></div>

@@ -63,7 +63,7 @@ To view this article as a web story: [**Kid-Friendly Las Vegas Cirque Du Soleil 
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Mystere-Cirque-du-soleil-las-vegas-show"><figure>[![Mystere Las Vegas Cirque Show for kids](/images/Mystere-Cirque-du-soleil-las-vegas-show.jpg)](/images/Mystere-Cirque-du-soleil-las-vegas-show.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Mystere-Cirque-du-soleil-las-vegas-show"><figure><a href="/images/Mystere-Cirque-du-soleil-las-vegas-show.jpg"><img src="/images/Mystere-Cirque-du-soleil-las-vegas-show.jpg" alt="Mystere Las Vegas Cirque Show for kids" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -80,7 +80,7 @@ You can expect a night of laughs, amazement, entertainment, and just plain old k
 
 **[See Photos, Reviews, &amp; More](/go/mystere-las-vegas-bov/)**
 
-<div class="wp-block-uagb-image uagb-block-f1e3e71c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Ka best cirque du soleil shows in vegas for kids](/images/ka-vegas-show-teens.jpg)](/images/ka-vegas-show-teens.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-f1e3e71c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/ka-vegas-show-teens.jpg"><img src="/images/ka-vegas-show-teens.jpg" alt="Ka best cirque du soleil shows in vegas for kids" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-e3e3fa25">
 
@@ -99,7 +99,7 @@ If you visit during the spring and summer, be sure to enjoy the amazing pool com
 
 **[See Photos, Reviews, &amp; More](/go/ka-las-vegas-bov/)**
 
-<div class="wp-block-uagb-image uagb-block-32225c40 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Michael Jackson One Show at Mandalay Las Vegas](/images/michael-jackson-one-mandalay-vegas-show.jpg)](/images/michael-jackson-one-mandalay-vegas-show.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-32225c40 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/michael-jackson-one-mandalay-vegas-show.jpg"><img src="/images/michael-jackson-one-mandalay-vegas-show.jpg" alt="Michael Jackson One Show at Mandalay Las Vegas" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-7767a69a">
 
@@ -116,7 +116,7 @@ If you are feeling the music and not ready to let go of a fun night out with the
 
 **[See Photos, Reviews, &amp; More](/go/michael-jackson-one-las-vegas-bov/)**
 
-<div class="wp-block-uagb-image uagb-block-14af2471 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![O at Bellagio Cirque du Soleil Shows Las Vegas](/images/O-Cirque-du-soleil-las-vegas-show.jpg)](/images/O-Cirque-du-soleil-las-vegas-show.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-14af2471 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/O-Cirque-du-soleil-las-vegas-show.jpg"><img src="/images/O-Cirque-du-soleil-las-vegas-show.jpg" alt="O at Bellagio Cirque du Soleil Shows Las Vegas" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-e4a375b1">
 
@@ -135,7 +135,7 @@ For even more entertainment, be sure to take the family to watch the Bellagio Fo
 
 **[See Photos, Reviews, &amp; More](/go/o-cirque-las-vegas-bov/)**
 
-<div class="wp-block-uagb-image uagb-block-4b91cad5 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Blue Man Group Cirque du Soleil Las Vegas](/images/blue-man-group-vegas-show-teens.jpg)](/images/blue-man-group-vegas-show-teens.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-4b91cad5 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/blue-man-group-vegas-show-teens.jpg"><img src="/images/blue-man-group-vegas-show-teens.jpg" alt="Blue Man Group Cirque du Soleil Las Vegas" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-47a0454c">
 
@@ -178,5 +178,5 @@ Also, be sure to join our **[Las Vegas With Kids Facebook Group](https://www.fac
 
 **Like it? Pin it!**
 
-<figure id="kid-friendly-cirque-du-soleil-show-in-vegas-for-kids">[![](/images/kid-friendly-cirque-du-soleil-show-in-vegas-for-kids-200x300.jpg)](/images/kid-friendly-cirque-du-soleil-show-in-vegas-for-kids.jpg)</figure>
+<figure id="kid-friendly-cirque-du-soleil-show-in-vegas-for-kids"><a href="/images/kid-friendly-cirque-du-soleil-show-in-vegas-for-kids.jpg"><img src="/images/kid-friendly-cirque-du-soleil-show-in-vegas-for-kids-200x300.jpg" alt="" /></a></figure>
 </div></section>

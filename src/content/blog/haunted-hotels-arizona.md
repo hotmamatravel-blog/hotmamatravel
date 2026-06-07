@@ -19,7 +19,7 @@ While the idea of staying in a haunted hotel may send shivers down your spine, t
 
 Join us as we explore some of Arizona's most haunted hotels and discover why spending a night in their hallowed halls can be a truly unforgettable experience. And if you’re ready to plan your full Arizona adventure, check out my [**Best of Arizona Family Travel guide**](/best-of-arizona-family-travel/) for more family fun; from ghostly getaways to desert delights.
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hotel-congress-haunted-hotels-arizona"><figure>[![Haunted Hotel Congress in Tuscan Arizona](/images/hotel-congress-haunted-hotels-arizona.jpg)](/images/hotel-congress-haunted-hotels-arizona.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hotel-congress-haunted-hotels-arizona"><figure><a href="/images/hotel-congress-haunted-hotels-arizona.jpg"><img src="/images/hotel-congress-haunted-hotels-arizona.jpg" alt="Haunted Hotel Congress in Tuscan Arizona" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -54,7 +54,7 @@ Hotel Congress nails that perfect mix of cool and creepy. Families can stay in c
 
 **[See Photos, Reviews, &amp; More](/go/hotel-congress-arizona/)**
 
-<div class="wp-block-uagb-image uagb-block-88e38873 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Jerome-Grand-Hotel-haunted-hotels-arizona"><figure>[![Jerome Grand Hotel haunted hotel in Arizona](/images/Jerome-Grand-Hotel-haunted-hotels-arizona.jpg)](/images/Jerome-Grand-Hotel-haunted-hotels-arizona.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-88e38873 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Jerome-Grand-Hotel-haunted-hotels-arizona"><figure><a href="/images/Jerome-Grand-Hotel-haunted-hotels-arizona.jpg"><img src="/images/Jerome-Grand-Hotel-haunted-hotels-arizona.jpg" alt="Jerome Grand Hotel haunted hotel in Arizona" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-6b33cc9f">
 
@@ -93,7 +93,7 @@ Families will love the complimentary breakfast before a day of exploring ghost t
 
 **[See Photos, Reviews, &amp; More](/go/jerome-grand-hotel-arizona/)**
 
-<div class="wp-block-uagb-image uagb-block-bb9415c3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Copper-Queen-Hotel-haunted-hotels-arizona"><figure>[![Copper Queen Hotel Haunted Hotel in Arizona](/images/Copper-Queen-Hotel-haunted-hotels-arizona.jpg)](/images/Copper-Queen-Hotel-haunted-hotels-arizona.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-bb9415c3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Copper-Queen-Hotel-haunted-hotels-arizona"><figure><a href="/images/Copper-Queen-Hotel-haunted-hotels-arizona.jpg"><img src="/images/Copper-Queen-Hotel-haunted-hotels-arizona.jpg" alt="Copper Queen Hotel Haunted Hotel in Arizona" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-64219b92">
 
@@ -130,7 +130,7 @@ The Copper Queen Hotel in Bisbee is a perfect family-friendly haunted stay. With
 
 **[See Photos, Reviews, &amp; More](/go/copper-queen-hotel-arizona/)**
 
-<div class="wp-block-uagb-image uagb-block-3ede8582 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Hotel-San-Carlos-haunted-hotels-arizona"><figure>[![Haunted Hotel Arizona Hotel San Carlos](/images/Hotel-San-Carlos-haunted-hotels-arizona.jpg)](/images/Hotel-San-Carlos-haunted-hotels-arizona.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-3ede8582 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Hotel-San-Carlos-haunted-hotels-arizona"><figure><a href="/images/Hotel-San-Carlos-haunted-hotels-arizona.jpg"><img src="/images/Hotel-San-Carlos-haunted-hotels-arizona.jpg" alt="Haunted Hotel Arizona Hotel San Carlos" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-9602fd15">
 
@@ -163,7 +163,7 @@ The Hotel San Carlos in Phoenix is a family-friendly haunted hotel that blends s
 
 **[See Photos, Reviews, &amp; More](/go/hotel-san-carlos-arizona/)**
 
-<div class="wp-block-uagb-image uagb-block-7f163e65 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Weatherford-hotel-haunted-hotels-arizona"><figure>[![Haunted Weatherford Hotel in Arizona](/images/Weatherford-hotel-haunted-hotels-arizona.jpg)](/images/Weatherford-hotel-haunted-hotels-arizona.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-7f163e65 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Weatherford-hotel-haunted-hotels-arizona"><figure><a href="/images/Weatherford-hotel-haunted-hotels-arizona.jpg"><img src="/images/Weatherford-hotel-haunted-hotels-arizona.jpg" alt="Haunted Weatherford Hotel in Arizona" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-8f1cc9c2">
 
@@ -204,7 +204,7 @@ With just the right mix of paranormal charm, comfort, and family-friendly fun, t
 
 **[See Photos, Reviews, &amp; More](/go/weatherford-hotel-arizona/)**
 
-<div class="wp-block-uagb-image uagb-block-a8259182 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Hotel-Vendome-haunted-hotels-arizona"><figure>[![Hotel Vendome Haunted Hotels in Arizona](/images/Hotel-Vendome-haunted-hotels-arizona.jpg)](/images/Hotel-Vendome-haunted-hotels-arizona.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-a8259182 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Hotel-Vendome-haunted-hotels-arizona"><figure><a href="/images/Hotel-Vendome-haunted-hotels-arizona.jpg"><img src="/images/Hotel-Vendome-haunted-hotels-arizona.jpg" alt="Hotel Vendome Haunted Hotels in Arizona" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-412a67b6">
 
@@ -239,7 +239,7 @@ The **Vendome Hotel **in Prescott is a family-friendly haunted stay that mixes c
 
 **[See Photos, Reviews, &amp; More](/go/hotel-vendome-arizona/)**
 
-<div class="wp-block-uagb-image uagb-block-6c38c1e4 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Gadsden-Hotel-haunted-hotels-arizona"><figure>[![Haunted Hotels in Arizona The Gadsden Hotel](/images/Gadsden-Hotel-haunted-hotels-arizona.jpg)](/images/Gadsden-Hotel-haunted-hotels-arizona.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-6c38c1e4 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Gadsden-Hotel-haunted-hotels-arizona"><figure><a href="/images/Gadsden-Hotel-haunted-hotels-arizona.jpg"><img src="/images/Gadsden-Hotel-haunted-hotels-arizona.jpg" alt="Haunted Hotels in Arizona The Gadsden Hotel" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-fe34240e">
 
@@ -288,5 +288,5 @@ Like it? Pin it!
 
 <figure data-essb-pin-description="Ready for a haunted family adventure? Discover the most haunted hotels in Arizona that are perfect for families—where spooky stories meet history, comfort, and adventure. From Jerome to Bisbee, these stays mix ghostly thrills, family-friendly amenities, and unforgettable Arizona charm. 👨‍👩‍👧‍👦💀
 
-🕯️ Plan your next family-friendly haunted getaway in Arizona → 7 Haunted Hotels in Arizona for Spooky Families">[![Haunted Hotels in Arizona](/images/haunted-hotels-arizona-200x300.jpg)](/images/haunted-hotels-arizona.jpg)</figure>
+🕯️ Plan your next family-friendly haunted getaway in Arizona → 7 Haunted Hotels in Arizona for Spooky Families"><a href="/images/haunted-hotels-arizona.jpg"><img src="/images/haunted-hotels-arizona-200x300.jpg" alt="Haunted Hotels in Arizona" /></a></figure>
 </div></div>

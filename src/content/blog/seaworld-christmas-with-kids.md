@@ -147,5 +147,5 @@ Now go keep that adventure energy rolling. Your next family memory is just a cli
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Make the holidays magical at SeaWorld Christmas Celebration! From festive shows and Santa’s reindeer to holiday treats and interactive fun, this guide has everything families need to plan the ultimate Christmas adventure. #FamilyTravel #SeaWorldChristmas #CaliforniaWithKids #HotMamaTravel">[![Guide to SeaWorld Christmas Celebration](/images/SeaWorld-Christmas-Celebration-200x300.jpg)](/images/SeaWorld-Christmas-Celebration.jpg)</figure>
+<figure data-essb-pin-description="Make the holidays magical at SeaWorld Christmas Celebration! From festive shows and Santa’s reindeer to holiday treats and interactive fun, this guide has everything families need to plan the ultimate Christmas adventure. #FamilyTravel #SeaWorldChristmas #CaliforniaWithKids #HotMamaTravel"><a href="/images/SeaWorld-Christmas-Celebration.jpg"><img src="/images/SeaWorld-Christmas-Celebration-200x300.jpg" alt="Guide to SeaWorld Christmas Celebration" /></a></figure>
 </div></div>

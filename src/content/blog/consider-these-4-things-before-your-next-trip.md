@@ -72,5 +72,5 @@ By considering these four key aspects, you empower yourself to embark on a trip 
 
 Like it? Pin it!
 
-<figure id="consider-these-4-things-before-your-next-trip">[![](/images/consider-these-4-things-before-your-next-trip-200x300.jpg)](/images/consider-these-4-things-before-your-next-trip.jpg)</figure>
+<figure id="consider-these-4-things-before-your-next-trip"><a href="/images/consider-these-4-things-before-your-next-trip.jpg"><img src="/images/consider-these-4-things-before-your-next-trip-200x300.jpg" alt="" /></a></figure>
 </div></div>

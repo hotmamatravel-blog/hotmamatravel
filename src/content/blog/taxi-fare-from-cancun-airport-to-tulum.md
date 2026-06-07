@@ -153,5 +153,5 @@ Traveling from Cancun Airport to Tulum in 2024 is a relatively straightforward j
 
 Like it? Pin it!
 
-<figure id="taxi-fare-from-cancun-airport-to-tulum-mexico">[![Taxi Fare from Cancun Airport to Tulum What to Expect](/images/taxi-fare-from-cancun-to-tulum-mexico-200x300.jpg)](/images/taxi-fare-from-cancun-to-tulum-mexico.jpg)</figure>
+<figure id="taxi-fare-from-cancun-airport-to-tulum-mexico"><a href="/images/taxi-fare-from-cancun-to-tulum-mexico.jpg"><img src="/images/taxi-fare-from-cancun-to-tulum-mexico-200x300.jpg" alt="Taxi Fare from Cancun Airport to Tulum What to Expect" /></a></figure>
 </div></div>

@@ -14,7 +14,7 @@ author: "Amanda Keeley-Thurman"
 The Berkshires is a beautiful and diverse region in Massachusetts, with plenty of things to do and see for families. Here are ten activities and attractions that you and your family can enjoy during a visit to the Berkshires.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-25e980fa"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Mount-Greylock-Berkshires-Massachusetts">[![](/images/Mount-Greylock-Berkshires-Massachusetts.jpg)](/images/Mount-Greylock-Berkshires-Massachusetts.jpg)</figure>
+<figure id="Mount-Greylock-Berkshires-Massachusetts"><a href="/images/Mount-Greylock-Berkshires-Massachusetts.jpg"><img src="/images/Mount-Greylock-Berkshires-Massachusetts.jpg" alt="" /></a></figure>
 
 #### [Mount Greylock](/go/mount-greylock-berkshires-massachusetts/)
 
@@ -31,7 +31,7 @@ Mount Greylock is also a popular destination for winter sports, including cross-
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f3bce205"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Bash-Bish-Falls-Berkshires-Massachusetts">[![](/images/Bash-Bish-Falls-Berkshires-Massachusetts.jpg)](/images/Bash-Bish-Falls-Berkshires-Massachusetts.jpg)</figure>
+<figure id="Bash-Bish-Falls-Berkshires-Massachusetts"><a href="/images/Bash-Bish-Falls-Berkshires-Massachusetts.jpg"><img src="/images/Bash-Bish-Falls-Berkshires-Massachusetts.jpg" alt="" /></a></figure>
 
 #### [Bash Bish Falls](/go/bash-bish-falls-berkshires-massachusetts/)
 
@@ -46,7 +46,7 @@ There are campsites available nearby the falls, it is a great way to enjoy the o
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a2158f1e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Tanglewood-Music-Center-Berkshires-Massachusetts">[![](/images/Tanglewood-Music-Center-Berkshires-Massachusetts.jpg)](/images/Tanglewood-Music-Center-Berkshires-Massachusetts.jpg)</figure>
+<figure id="Tanglewood-Music-Center-Berkshires-Massachusetts"><a href="/images/Tanglewood-Music-Center-Berkshires-Massachusetts.jpg"><img src="/images/Tanglewood-Music-Center-Berkshires-Massachusetts.jpg" alt="" /></a></figure>
 
 #### [Tanglewood Music Center](/go/tanglewood-music-center-berkshires-massachusetts/)
 
@@ -65,7 +65,7 @@ Hungry? Tanglewood has several dining options available for visitors, from casua
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3ed2436d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Clark-Art-Institute-Berkshires-Massachusetts">[![](/images/Clark-Art-Institute-Berkshires-Massachusetts.jpg)](/images/Clark-Art-Institute-Berkshires-Massachusetts.jpg)</figure>
+<figure id="Clark-Art-Institute-Berkshires-Massachusetts"><a href="/images/Clark-Art-Institute-Berkshires-Massachusetts.jpg"><img src="/images/Clark-Art-Institute-Berkshires-Massachusetts.jpg" alt="" /></a></figure>
 
 #### [Clark Art Institute](/go/clark-art-institute-berkshires-massachusetts/)
 
@@ -80,7 +80,7 @@ The Clark Art Institute website has a blog that provides updates on new exhibiti
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-fdc9250b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Massachusetts-Museum-Contemporary-Arts-Berkshires-Massachusetts">[![](/images/Massachusetts-Museum-Contemporary-Arts-Berkshires-Massachusetts.jpg)](/images/Massachusetts-Museum-Contemporary-Arts-Berkshires-Massachusetts.jpg)</figure>
+<figure id="Massachusetts-Museum-Contemporary-Arts-Berkshires-Massachusetts"><a href="/images/Massachusetts-Museum-Contemporary-Arts-Berkshires-Massachusetts.jpg"><img src="/images/Massachusetts-Museum-Contemporary-Arts-Berkshires-Massachusetts.jpg" alt="" /></a></figure>
 
 #### [Massachusetts Museum of Contemporary Art](/go/mass-moca-berkshires-massachusetts/)
 
@@ -95,7 +95,7 @@ The MASS MoCA website has a blog called "The Inside scoop" which features update
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ec08e3f6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="The-Mount-Edith-Wharton-Home-Berkshires-Massachusetts">[![](/images/The-Mount-Edith-Wharton-Home-Berkshires-Massachusetts.jpg)](/images/The-Mount-Edith-Wharton-Home-Berkshires-Massachusetts.jpg)</figure>
+<figure id="The-Mount-Edith-Wharton-Home-Berkshires-Massachusetts"><a href="/images/The-Mount-Edith-Wharton-Home-Berkshires-Massachusetts.jpg"><img src="/images/The-Mount-Edith-Wharton-Home-Berkshires-Massachusetts.jpg" alt="" /></a></figure>
 
 #### [Edith Wharton's home](/go/edith-wharton-home-berkshires-massachusetts/)
 
@@ -114,7 +114,7 @@ Additionally, the Mount's gardens are a great spot for a picnic or a walk, it is
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-80d89fdc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Mission-House-Berkshires-Massachusetts">[![](/images/Mission-House-Berkshires-Massachusetts.jpg)](/images/Mission-House-Berkshires-Massachusetts.jpg)</figure>
+<figure id="Mission-House-Berkshires-Massachusetts"><a href="/images/Mission-House-Berkshires-Massachusetts.jpg"><img src="/images/Mission-House-Berkshires-Massachusetts.jpg" alt="" /></a></figure>
 
 #### [Mission House](/go/mission-house-stockbridge-berkshires-massachusetts/)
 
@@ -131,7 +131,7 @@ For families, there are always interesting activities going on at the Mission Ho
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1ed32325"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Stockbridge-Bowl-Berkshires-Massachusetts">[![](/images/Stockbridge-Bowl-Berkshires-Massachusetts.jpg)](/images/Stockbridge-Bowl-Berkshires-Massachusetts.jpg)</figure>
+<figure id="Stockbridge-Bowl-Berkshires-Massachusetts"><a href="/images/Stockbridge-Bowl-Berkshires-Massachusetts.jpg"><img src="/images/Stockbridge-Bowl-Berkshires-Massachusetts.jpg" alt="" /></a></figure>
 
 #### Stockbridge Bowl
 
@@ -148,7 +148,7 @@ For the active families there are several hiking trails that run around the lake
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bdd2fa0d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Lake-Onota-Berkshires-Massachusetts">[![](/images/Lake-Onota-Berkshires-Massachusetts.jpg)](/images/Lake-Onota-Berkshires-Massachusetts.jpg)</figure>
+<figure id="Lake-Onota-Berkshires-Massachusetts"><a href="/images/Lake-Onota-Berkshires-Massachusetts.jpg"><img src="/images/Lake-Onota-Berkshires-Massachusetts.jpg" alt="" /></a></figure>
 
 #### [Lake Onota](/go/lake-onota-berkshires-masschusetts/)
 
@@ -180,5 +180,5 @@ To help you explore more of Massachusetts, check out our other posts.
 
 **Like it? Pin it!**
 
-<figure id="things-to-do-in-the-berkshires-for-families">[![](/images/things-to-do-in-the-berkshires-for-families-200x300.jpg)](/images/things-to-do-in-the-berkshires-for-families.jpg)</figure>
+<figure id="things-to-do-in-the-berkshires-for-families"><a href="/images/things-to-do-in-the-berkshires-for-families.jpg"><img src="/images/things-to-do-in-the-berkshires-for-families-200x300.jpg" alt="" /></a></figure>
 </div></section>

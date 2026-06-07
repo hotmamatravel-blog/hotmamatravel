@@ -33,7 +33,7 @@ Before you plan your next trip to [**Vegas with kids**](/las-vegas-with-kids/), 
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure id="Mandaly-Bay-pool-best-las-vegas-pools-for-families">[![best Family Pools in Vegas Mandalay Bay](/images/mandalay-bay-lazy-river-things-to-do-in-vegas-pregnant.jpg)](/images/mandalay-bay-lazy-river-things-to-do-in-vegas-pregnant.jpg)</figure>
+<figure id="Mandaly-Bay-pool-best-las-vegas-pools-for-families"><a href="/images/mandalay-bay-lazy-river-things-to-do-in-vegas-pregnant.jpg"><img src="/images/mandalay-bay-lazy-river-things-to-do-in-vegas-pregnant.jpg" alt="best Family Pools in Vegas Mandalay Bay" /></a></figure>
 
 ### [Mandalay Bay](/go/mandalay-bay-hotel-las-vegas/)
 
@@ -47,7 +47,7 @@ Plus, Mandalay has some of our favorite [**family-friendly restaurants with live
 
 [**See photos, reviews &amp; more**](/go/mandalay-bay-hotel-las-vegas/)
 
-<figure id="MGM-Grand-Pool-Complex-best-las-vegas-pools-for-families">[![MGM Grand Family Pool Las Vegas](/images/MGM-Grand-las-vegas-family-pool.jpg)](/images/MGM-Grand-las-vegas-family-pool.jpg)</figure>
+<figure id="MGM-Grand-Pool-Complex-best-las-vegas-pools-for-families"><a href="/images/MGM-Grand-las-vegas-family-pool.jpg"><img src="/images/MGM-Grand-las-vegas-family-pool.jpg" alt="MGM Grand Family Pool Las Vegas" /></a></figure>
 
 ### [MGM Grand](/go/mgm-grand-hotel-las-vegas/)
 
@@ -63,7 +63,7 @@ The pool is surrounded by retail shops as well as poolside dining, like the Caba
 
 ***Disclaimer: The Mirage will be closing their doors after over 35 years in July 2024 as it transitions into the Hard Rock. There have been no announcements on what changes (if any) are being made to the pool area, yet. However, I have reached out their team and I will be updating you as I find out more information.***
 
-<figure id="Mirage-Pool-best-las-vegas-pools-for-families">![Mirage Hotel Pool](/images/mirage-pool-las-vegas-teens.jpg)<figcaption class="wp-element-caption">Courtesy of Mirage</figcaption></figure>
+<figure id="Mirage-Pool-best-las-vegas-pools-for-families"><img src="/images/mirage-pool-las-vegas-teens.jpg" alt="Mirage Hotel Pool" /><figcaption class="wp-element-caption">Courtesy of Mirage</figcaption></figure>
 
 ### [The Mirage at Hard Rock](/go/the-mirage-hotel-las-vegas/)
 
@@ -73,7 +73,7 @@ The Mirage pool is, and has always been, my favorite pool in Vegas. It earns the
 
 The Mirage, is now owned by Hard Rock, but so far the pool is still the same. It is designed to resemble a tropical lagoon and that goal was definitely accomplished. The cascading waterfalls that you can swim under, shady palm trees and whimsical bridges make you feel like you are somewhere exotic. The kids will love splashing around this tropical island pretending to be mermaids and pirates. (That's what I did as a kid at the Mirage pool, anyways!)
 
-<figure id="best-family-pools-in-vegas-mirage-hard--rock-pool">[![Best family pools in Vegas at Mirage](/images/Mirage-pool-things-to-do-in-vegas-pregnant.jpg)](/images/Mirage-pool-things-to-do-in-vegas-pregnant.jpg)<figcaption class="wp-element-caption">Best family pools in Vegas goes to Mirage!</figcaption></figure>
+<figure id="best-family-pools-in-vegas-mirage-hard--rock-pool"><a href="/images/Mirage-pool-things-to-do-in-vegas-pregnant.jpg"><img src="/images/Mirage-pool-things-to-do-in-vegas-pregnant.jpg" alt="Best family pools in Vegas at Mirage" /></a><figcaption class="wp-element-caption">Best family pools in Vegas goes to Mirage!</figcaption></figure>
 
 But not all the pool fun involves getting wet. That’s right, there is an amazing poolside restaurant to enjoy a meal among the waterfalls. Best of all the pool is always super clean with a pleasant crowd of Las Vegas vacationers.
 
@@ -81,7 +81,7 @@ But not all the pool fun involves getting wet. That’s right, there is an amazi
 
 [**See photos, reviews &amp; more**](/go/the-mirage-hotel-las-vegas/)
 
-<figure id="Luxor-pool-best-las-vegas-pools-for-families">[![Luxor Family Pool in Las Vegas](/images/luxor-las-vegas-family-pool.jpg)](/images/luxor-las-vegas-family-pool.jpg)<figcaption class="wp-element-caption">Photo courtesy of MGM Resorts International</figcaption></figure>
+<figure id="Luxor-pool-best-las-vegas-pools-for-families"><a href="/images/luxor-las-vegas-family-pool.jpg"><img src="/images/luxor-las-vegas-family-pool.jpg" alt="Luxor Family Pool in Las Vegas" /></a><figcaption class="wp-element-caption">Photo courtesy of MGM Resorts International</figcaption></figure>
 
 ### [Luxor](/go/the-luxor-hotel-las-vegas/)
 
@@ -95,7 +95,7 @@ After a fun-filled day by the pool, Luxor is a great hotel to see an exciting, [
 
 [**See photos, reviews &amp; more**](/go/the-luxor-hotel-las-vegas/)
 
-<figure id="excalibur-best-family-pools-las-vegas">[![Kid-friendly las vegas family pool](/images/excalibur-best-family-pools-las-vegas.jpg)](/images/excalibur-best-family-pools-las-vegas.jpg)</figure>
+<figure id="excalibur-best-family-pools-las-vegas"><a href="/images/excalibur-best-family-pools-las-vegas.jpg"><img src="/images/excalibur-best-family-pools-las-vegas.jpg" alt="Kid-friendly las vegas family pool" /></a></figure>
 
 ### [Excalibur](/go/excalibur-hotel-las-vegas/)
 
@@ -115,7 +115,7 @@ Overall, this hotel is great for families. It offers an exciting medieval theme 
 
 [See photos, reviews &amp; more](/go/excalibur-hotel-las-vegas/)
 
-<figure id="golden-nugget-pool-best-las-vegas-pools-for-families">![Waterslide through shark tank at Golden Nugget](/images/family-pool-las-vegas-golden-nugget-tank.jpg)<figcaption class="wp-element-caption">Courtesy of Golden Nugget Las Vegas</figcaption></figure>
+<figure id="golden-nugget-pool-best-las-vegas-pools-for-families"><img src="/images/family-pool-las-vegas-golden-nugget-tank.jpg" alt="Waterslide through shark tank at Golden Nugget" /><figcaption class="wp-element-caption">Courtesy of Golden Nugget Las Vegas</figcaption></figure>
 
 ### [Golden Nugget Las Vegas](/go/golden-nugget-las-vegas/)
 
@@ -125,7 +125,7 @@ Now, this pool is called the Tank for a reason, and that reason is that the pool
 
 [**See photos, reviews &amp; more**](/go/golden-nugget-las-vegas/)
 
-<figure id="red-rock-pool-best-las-vegas-pools-for-families">[![Red Rock Family Pool in Las Vegas](/images/red-rock-pool-best-las-vegas-pools-for-families.jpg)](/images/red-rock-pool-best-las-vegas-pools-for-families.jpg)<figcaption class="wp-element-caption">Courtesy of Red Rock</figcaption></figure>
+<figure id="red-rock-pool-best-las-vegas-pools-for-families"><a href="/images/red-rock-pool-best-las-vegas-pools-for-families.jpg"><img src="/images/red-rock-pool-best-las-vegas-pools-for-families.jpg" alt="Red Rock Family Pool in Las Vegas" /></a><figcaption class="wp-element-caption">Courtesy of Red Rock</figcaption></figure>
 
 ### [Red Rock](/go/red-rock-las-vegas/)
 
@@ -137,7 +137,7 @@ The pool area includes features such as a giant fountain in the middle of the po
 
 [**See photos, reviews &amp; more**](/go/red-rock-las-vegas/)
 
-<figure id="resorts-world-best-las-vegas-pools-for-families">[![Resorts World Las Vegas Family Pools](/images/resorts-world-best-las-vegas-pools-for-families.jpg)](/images/resorts-world-best-las-vegas-pools-for-families.jpg)</figure>
+<figure id="resorts-world-best-las-vegas-pools-for-families"><a href="/images/resorts-world-best-las-vegas-pools-for-families.jpg"><img src="/images/resorts-world-best-las-vegas-pools-for-families.jpg" alt="Resorts World Las Vegas Family Pools" /></a></figure>
 
 ### [Resorts World Las Vegas](/go/resorts-world-las-vegas/)
 
@@ -153,7 +153,7 @@ In addition, there is a whole separate family pool, complete with a wading pool 
 
 [**See photos, reviews &amp; more**](/go/resorts-world-las-vegas/)
 
-<figure id="new-york-new-york-las-vegas-family-pool">[![New York New York Kid-Friendly Las Vegas Pool](/images/new-york-new-york-las-vegas-family-pool.jpg)](/images/new-york-new-york-las-vegas-family-pool.jpg)</figure>
+<figure id="new-york-new-york-las-vegas-family-pool"><a href="/images/new-york-new-york-las-vegas-family-pool.jpg"><img src="/images/new-york-new-york-las-vegas-family-pool.jpg" alt="New York New York Kid-Friendly Las Vegas Pool" /></a></figure>
 
 ### [New York New York](/go/nyny-hotel-las-vegas/)
 
@@ -165,7 +165,7 @@ Relaxation takes center stage on inviting yellow loungers, offering parents a co
 
 [**See photos, reviews &amp; more**](/go/nyny-hotel-las-vegas/)
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="flamingo-las-vegas-family-pool"><figure>[![Flamingo Las Vegas Family Pool](/images/flamingo-las-vegas-family-pool.jpg)](/images/flamingo-las-vegas-family-pool.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="flamingo-las-vegas-family-pool"><figure><a href="/images/flamingo-las-vegas-family-pool.jpg"><img src="/images/flamingo-las-vegas-family-pool.jpg" alt="Flamingo Las Vegas Family Pool" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -194,6 +194,6 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 **Like it? Pin it!**
 
-<figure id="best-family-pools-las-vegas" data-essb-pin-description="Best Family Pools in Las Vegas">[![Best Family Pools in Las Vegas](/images/best-family-pools-las-vegas-200x300.jpg)](/images/best-family-pools-las-vegas.jpg)</figure>
+<figure id="best-family-pools-las-vegas" data-essb-pin-description="Best Family Pools in Las Vegas"><a href="/images/best-family-pools-las-vegas.jpg"><img src="/images/best-family-pools-las-vegas-200x300.jpg" alt="Best Family Pools in Las Vegas" /></a></figure>
 </div></section>
 

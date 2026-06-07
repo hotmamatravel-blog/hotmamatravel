@@ -21,7 +21,7 @@ Let’s just be honest, eating on vacations is probably one of the most exciting
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-70286ac0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="snappers-kid-friendly-restaurants-st-pete-beach">[![snappers seafood grill, best restaurants in st pete beach for families](/images/snappers-kid-friendly-restaurants-st-pete-beach.jpg)](/images/snappers-kid-friendly-restaurants-st-pete-beach.jpg)</figure>
+<figure id="snappers-kid-friendly-restaurants-st-pete-beach"><a href="/images/snappers-kid-friendly-restaurants-st-pete-beach.jpg"><img src="/images/snappers-kid-friendly-restaurants-st-pete-beach.jpg" alt="snappers seafood grill, best restaurants in st pete beach for families" /></a></figure>
 
 #### [Snappers Sea Grill](/go/snapper-sea-grill-st-pete-beach/)
 
@@ -36,7 +36,7 @@ I was told my chin was glistening with melted butter, as I took long lingering s
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1db79d43"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="flying-bridge-kid-friendly-restaurants-st-pete-beach">[![bloody marys on the beach at Flying Bridge TradeWinds Island Grand](/images/flying-bridge-kid-friendly-restaurants-st-pete-beach.jpg)](/images/flying-bridge-kid-friendly-restaurants-st-pete-beach.jpg)</figure>
+<figure id="flying-bridge-kid-friendly-restaurants-st-pete-beach"><a href="/images/flying-bridge-kid-friendly-restaurants-st-pete-beach.jpg"><img src="/images/flying-bridge-kid-friendly-restaurants-st-pete-beach.jpg" alt="bloody marys on the beach at Flying Bridge TradeWinds Island Grand" /></a></figure>
 
 #### [Flying Bridge](/go/flying-bridge-tradewindes-st-pete-beach/)
 
@@ -51,7 +51,7 @@ I love Bloody Mary’s and the Flying Bridge had a fantastic one with garnishes 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-08aec0f0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="skidders-kid-friendly-restaurants-st-pete-beach">[![Best breakfast in St Pete Beach at Skidders ](/images/skidders-kid-friendly-restaurants-st-pete-beach.jpg)](/images/skidders-kid-friendly-restaurants-st-pete-beach.jpg)</figure>
+<figure id="skidders-kid-friendly-restaurants-st-pete-beach"><a href="/images/skidders-kid-friendly-restaurants-st-pete-beach.jpg"><img src="/images/skidders-kid-friendly-restaurants-st-pete-beach.jpg" alt="Best breakfast in St Pete Beach at Skidders " /></a></figure>
 
 #### [Skidders Restaurant](/go/skidders-restaurant-st-pete-beach/)
 
@@ -68,7 +68,7 @@ You can also catch the free trolley that takes you all around St. Pete and all t
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d6d42abd"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="palm-court-italian-grill--kid-friendly-restaurants-st-pete-beach">[![](/images/palm-court-italian-grill-kid-friendly-restaurants-st-pete-beach.jpg)](/images/palm-court-italian-grill-kid-friendly-restaurants-st-pete-beach.jpg)</figure>
+<figure id="palm-court-italian-grill--kid-friendly-restaurants-st-pete-beach"><a href="/images/palm-court-italian-grill-kid-friendly-restaurants-st-pete-beach.jpg"><img src="/images/palm-court-italian-grill-kid-friendly-restaurants-st-pete-beach.jpg" alt="" /></a></figure>
 
 #### [Palm Court Italian Grill](/go/palm-court-italian-grill-st-pete-beach/)
 
@@ -81,7 +81,7 @@ If you like fine Italian cuisine, then Palm Court will satisfy your appetite. Lo
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d07674cc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="RumFish-grill-kid-friendly-restaurants-st-pete-beach">[![](/images/RumFish-grill-kid-friendly-restaurants-st-pete-beach.jpg)](/images/RumFish-grill-kid-friendly-restaurants-st-pete-beach.jpg)</figure>
+<figure id="RumFish-grill-kid-friendly-restaurants-st-pete-beach"><a href="/images/RumFish-grill-kid-friendly-restaurants-st-pete-beach.jpg"><img src="/images/RumFish-grill-kid-friendly-restaurants-st-pete-beach.jpg" alt="" /></a></figure>
 
 #### [RumFish Grill](/go/rumfish-beach-resort-tradewinds-st-pete-beach/)
 
@@ -96,7 +96,7 @@ We had breakfast there, which was amazing by the way, and the kids were entertai
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0a03881a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="sandbar-kid-friendly-restaurants-st-pete-beach">[![](/images/sandbar-kid-friendly-restaurants-st-pete-beach.jpg)](/images/sandbar-kid-friendly-restaurants-st-pete-beach.jpg)</figure>
+<figure id="sandbar-kid-friendly-restaurants-st-pete-beach"><a href="/images/sandbar-kid-friendly-restaurants-st-pete-beach.jpg"><img src="/images/sandbar-kid-friendly-restaurants-st-pete-beach.jpg" alt="" /></a></figure>
 
 #### [SandBar RumFish Beach Resort](/go/rumfish-beach-resort-tradewinds-st-pete-beach/)
 
@@ -109,7 +109,7 @@ SandBar is probably my favorite spot for a night cap. Comfortable seating, fire 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9a63ebbd"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="saltys-tiki-bar-kid-friendly-restaurants-st-pete-beach">[![](/images/saltys-tiki-bar-kid-friendly-restaurants-st-pete-beach.jpg)](/images/saltys-tiki-bar-kid-friendly-restaurants-st-pete-beach.jpg)</figure>
+<figure id="saltys-tiki-bar-kid-friendly-restaurants-st-pete-beach"><a href="/images/saltys-tiki-bar-kid-friendly-restaurants-st-pete-beach.jpg"><img src="/images/saltys-tiki-bar-kid-friendly-restaurants-st-pete-beach.jpg" alt="" /></a></figure>
 
 #### [Salty's Tiki Bar](/go/saltys-tiki-bar-beach-lounge-st-pete-beach/)
 
@@ -124,7 +124,7 @@ This is also the spot to grab really good wings. My kids love the wings here, so
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5f44eebb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="spinners-rooftop-grill-kid-friendly-restaurants-st-pete-beach">[![](/images/spinners-rooftop-grill-kid-friendly-restaurants-st-pete-beach.jpg)](/images/spinners-rooftop-grill-kid-friendly-restaurants-st-pete-beach.jpg)</figure>
+<figure id="spinners-rooftop-grill-kid-friendly-restaurants-st-pete-beach"><a href="/images/spinners-rooftop-grill-kid-friendly-restaurants-st-pete-beach.jpg"><img src="/images/spinners-rooftop-grill-kid-friendly-restaurants-st-pete-beach.jpg" alt="" /></a></figure>
 
 #### [Spinner's Rooftop Grill](/go/spinners-rooftop-grill-st-pete-beach/)e
 
@@ -138,7 +138,7 @@ Spinners prides itself on its upscale cuisine, featuring a menu crafted with the
 
 </div></section>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="tuttorosso-pizzeria-st-pete-beach"><figure>[![Tuttorosso Pizzeria family restaurant in St. Pete Beach](/images/tuttorosso-pizzeria-st-pete-beach.jpg)](/images/tuttorosso-pizzeria-st-pete-beach.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="tuttorosso-pizzeria-st-pete-beach"><figure><a href="/images/tuttorosso-pizzeria-st-pete-beach.jpg"><img src="/images/tuttorosso-pizzeria-st-pete-beach.jpg" alt="Tuttorosso Pizzeria family restaurant in St. Pete Beach" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -153,7 +153,7 @@ From mouthwatering pizzas with all the toppings your heart desires to hearty pas
 
 **[See Photos, Reviews, &amp; More](/go/tuttorosso-pizzeria-st-pete-beach-florida/)**
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="basil-leaf-best-restaurant-st-pete-beach"><figure>[![Basil Leaf family-friendly St Pete Beach Restaurant](/images/basil-leaf-best-restaurant-st-pete-beach.jpg)](/images/basil-leaf-best-restaurant-st-pete-beach.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="basil-leaf-best-restaurant-st-pete-beach"><figure><a href="/images/basil-leaf-best-restaurant-st-pete-beach.jpg"><img src="/images/basil-leaf-best-restaurant-st-pete-beach.jpg" alt="Basil Leaf family-friendly St Pete Beach Restaurant" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -174,7 +174,7 @@ Now, onto the menu – prepare to be wowed! From traditional Thai curries bursti
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-d9272f0a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="paradise-grille-st-pete-beach"><figure>[![Family-Friendly Paradise Grille Restaurant in St Pete Beach](/images/paradise-grille-st-pete-beach.jpg)](/images/paradise-grille-st-pete-beach.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-d9272f0a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="paradise-grille-st-pete-beach"><figure><a href="/images/paradise-grille-st-pete-beach.jpg"><img src="/images/paradise-grille-st-pete-beach.jpg" alt="Family-Friendly Paradise Grille Restaurant in St Pete Beach" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-5c66c4b9">
 
@@ -190,7 +190,7 @@ Now, let's talk about the food! From juicy burgers grilled to perfection to fres
 **[See Photos, Reviews, &amp; More](/go/paradise-grille-st-pete-beach-florida/)**
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-963f4e89"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="sloopy-joes-kid-friendly-restaurants-st-pete-beach">[![](/images/sloopy-joes-kid-friendly-restaurants-st-pete-beach.jpg)](/images/sloopy-joes-kid-friendly-restaurants-st-pete-beach.jpg)</figure>
+<figure id="sloopy-joes-kid-friendly-restaurants-st-pete-beach"><a href="/images/sloopy-joes-kid-friendly-restaurants-st-pete-beach.jpg"><img src="/images/sloopy-joes-kid-friendly-restaurants-st-pete-beach.jpg" alt="" /></a></figure>
 
 #### [Sloppy Joe's Treasure Island](/go/sloppy-joes-restaurant-st-pete-beach/)
 
@@ -207,7 +207,7 @@ My husband and dad thought I was ridiculous, especially since I forbid them to s
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c297a138"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="wharf-kid-friendly-restaurants-st-pete-beach">[![](/images/wharf-kid-friendly-restaurants-st-pete-beach.jpg)](/images/wharf-kid-friendly-restaurants-st-pete-beach.jpg)</figure>
+<figure id="wharf-kid-friendly-restaurants-st-pete-beach"><a href="/images/wharf-kid-friendly-restaurants-st-pete-beach.jpg"><img src="/images/wharf-kid-friendly-restaurants-st-pete-beach.jpg" alt="" /></a></figure>
 
 #### [The Wharf](/go/wharf-restaurant-st-pete-beach/)
 
@@ -219,7 +219,7 @@ While visiting the [Don CeSar](/st-pete-beach-family-resorts/) in Pass-a-Grille,
 
 </div></section>
 
-<div class="wp-block-uagb-image uagb-block-6d9121cb wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="caddy-johns-pass-st-pete-beach"><figure>[![Kid-Friendly Caddy](/images/caddy-johns-pass-st-pete-beach-1.jpg)](/images/caddy-johns-pass-st-pete-beach-1.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-6d9121cb wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="caddy-johns-pass-st-pete-beach"><figure><a href="/images/caddy-johns-pass-st-pete-beach-1.jpg"><img src="/images/caddy-johns-pass-st-pete-beach-1.jpg" alt="Kid-Friendly Caddy" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42cd7f43">
 
@@ -246,5 +246,5 @@ Be sure to explore more of [St. Pete Beach](/st-pete-beach-with-kids/) and more 
 
 Like it? Pin it!
 
-<figure id="best-family-restaurants-in-st-pete-beach">[![](/images/best-family-restaurants-in-st-pete-beach-200x300.jpg)](/images/best-family-restaurants-in-st-pete-beach.jpg)</figure>
+<figure id="best-family-restaurants-in-st-pete-beach"><a href="/images/best-family-restaurants-in-st-pete-beach.jpg"><img src="/images/best-family-restaurants-in-st-pete-beach-200x300.jpg" alt="" /></a></figure>
 </div></div>

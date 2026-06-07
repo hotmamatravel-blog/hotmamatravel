@@ -27,7 +27,7 @@ I have been traveling to Las Vegas since I was baby and the tradition has contin
 
 **Hot Tip:** If you are also visiting Vegas with kids ages 2-14, we have a ton of helpful information in our [**Ultimate Guide**](/las-vegas-with-kids/) to Vegas with kids and [**visiting with toddlers**](/las-vegas-with-a-toddler/).
 
-<figure id="kids-playing-in-vegas">![Kids playing in Las Vegas](/images/kids-luxor-las-vegas-interaction.gif)</figure>
+<figure id="kids-playing-in-vegas"><img src="/images/kids-luxor-las-vegas-interaction.gif" alt="Kids playing in Las Vegas" /></figure>
 
 I created this article to be helpful for moms (and dads) who basically have NO CLUE what it is like to take a baby or an infant to Las Vegas.
 
@@ -65,7 +65,7 @@ I created this article to be helpful for moms (and dads) who basically have NO C
 
 </div>
 
-<figure id="cracker-barrel-las-vegas-family-restaurant">![cracker barrel Las Vegas with kids](/images/Cracker-Barrel-Las-Vegas.gif)</figure>
+<figure id="cracker-barrel-las-vegas-family-restaurant"><img src="/images/Cracker-Barrel-Las-Vegas.gif" alt="cracker barrel Las Vegas with kids" /></figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-7249f94e">
 
@@ -75,7 +75,7 @@ I created this article to be helpful for moms (and dads) who basically have NO C
 
 Right off Dean Martin Dr, [Cracker Barrel](https://www.crackerbarrel.com/Locations/States/nv/n-las-vegas/742/) is conveniently located right as you enter Las Vegas (from the south), making for the perfect spot to stop for a yummy lunch. The casual country dining room is perfect for families. Plus, not only is the food hearty comfort food, but the portions are huge, and the prices are low. Eating in Vegas can be pretty pricey most places, so this is a nice way to ease into the trip (and your wallet)!
 
-<figure id="silverton-mermaids-kids-activities-las-vegas">![Kids watching Las Vegas Mermaids at Silverton](/images/Silverton-Mermaids-las-vegas-with-baby-kids.gif)</figure>
+<figure id="silverton-mermaids-kids-activities-las-vegas"><img src="/images/Silverton-Mermaids-las-vegas-with-baby-kids.gif" alt="Kids watching Las Vegas Mermaids at Silverton" /></figure>
 
 #### **See the Mermaids at Silverton**
 
@@ -95,7 +95,7 @@ After lunch you can walk or drive across the parking lot to the [Silverton Casin
 
 After seeing the mermaids, it is a good time to check into your hotel. You can get your stuff up to the room, freshen up and let the baby relax a little bit. If baby is crawling or walking, this is good opportunity to let them get their wiggles out.
 
-<figure id="family-friendly-luxor-hotel-las-vegas">![Baby-friendly Vegas Hotel Luxor](/images/Luxor-baby-friendly-vegas-hotel.gif)</figure>
+<figure id="family-friendly-luxor-hotel-las-vegas"><img src="/images/Luxor-baby-friendly-vegas-hotel.gif" alt="Baby-friendly Vegas Hotel Luxor" /></figure>
 
 We recently stayed at the [**Luxor**](/go/the-luxor-hotel-las-vegas/), and it was a great choice for our family since it was a freezing winter and we could get to multiple hotels (**[Mandalay](/go/mandalay-bay-hotel-las-vegas/), [Excalibur](/go/excalibur-hotel-las-vegas/)**) easily through indoor connecting bridges.
 
@@ -109,7 +109,7 @@ Once you feel refreshed, take your crew down to the casino floor and explore you
 
 Once you book your hotel, be sure to make reservations at [Casa Di Amore](https://casadiamore.com/) and arrange for them to *pick you up*. The pickup shuttle is a complementary service and they will also return you to your hotel after dinner. Our driver (Steve) was very nice and fun to chat with. Just be sure to tip your wonderful driver for their service.
 
-<figure id="las-vegas-family-restaurant-casa-di-amore">![Las Vegas family restaurant Casa di Amore](/images/Casa-di-Amore-family-restaurant-Las-Vegas.gif)</figure>
+<figure id="las-vegas-family-restaurant-casa-di-amore"><img src="/images/Casa-di-Amore-family-restaurant-Las-Vegas.gif" alt="Las Vegas family restaurant Casa di Amore" /></figure>
 
 Casa Di Amore is a happening [**family-friendly Italian restaurant in Las Vegas**](/best-family-restaurants-in-las-vegas/). This local favorite has live music, a dark, cozy atmosphere oozing with old Las Vegas charm, and delicious cuisine. The best part is that it is family-friendly, so you can roll up with your babies and be welcomed with open arms, wine, and pasta!
 
@@ -127,7 +127,7 @@ Utilize local babysitting services. Some hotels have in-house services or will h
 
 </div>
 
-<figure id="las-vegas-with-a-baby-breakfast">![Breakfast in Las Vegas with a baby](/images/Breakfast-with-kids-Las-Vegas-baby.gif)</figure>
+<figure id="las-vegas-with-a-baby-breakfast"><img src="/images/Breakfast-with-kids-Las-Vegas-baby.gif" alt="Breakfast in Las Vegas with a baby" /></figure>
 
 #### **Long relaxing Breakfast at Café or Buffet**
 
@@ -143,7 +143,7 @@ Ease into the morning with long relaxing breakfast at either the hotel’s café
 
 An awesome evening activity to do with babies in Vegas is to see a pre-dinner show. There are also a ton of family-friendly shows that have [**dinner and show packages**](/las-vegas-dinner-and-show-packages/). Yes, there are shows in Las Vegas that allow babies. We took ours to the [**Tournament of Kings**](/go/tournament-kings-las-vegas-bov/) at Excalibur. There is so much action going on at all times that a loud baby will not be a bother.
 
-<figure id="tournament-of-kings-kid-friendly-show-las-vegas">![Vegas show for kids at Excalibur](/images/Tournament-of-Kings-Vegas-Show-with-baby.gif)</figure>
+<figure id="tournament-of-kings-kid-friendly-show-las-vegas"><img src="/images/Tournament-of-Kings-Vegas-Show-with-baby.gif" alt="Vegas show for kids at Excalibur" /></figure>
 
 **Hot Tip:** We have carefully researched a number of shows in Las Vegas (21 to be exact!) that allow kids, and we wrote a detailed article to help you pick the right show for your family **[HERE](/las-vegas-shows-for-kids/)**.
 
@@ -151,7 +151,7 @@ An awesome evening activity to do with babies in Vegas is to see a pre-dinner sh
 
 After the show, it is time to hit up one of the many electrifying Las Vegas dining options. We don’t like the fun to stop, so we prefer something with live music. I recommend an Irish pub, like [Nine Fine Irishmen](https://newyorknewyork.mgmresorts.com/en/restaurants/nine-fine-irishmen.html) at [**NYNY**](/go/nyny-hotel-las-vegas/) or Ri Ra at [Mandalay Bay](https://mandalaybay.mgmresorts.com/en.html). They are cozy, family-friendly, and the music is lively. We have a [**full list of cool Las Vegas restaurants**](/kid-friendly-live-music-las-vegas/) that are kid-friendly and that have live music for more options. Vegas is also filled with a ton of **[celebrity and celebrity chef restaurants](/celebrity-chef-restaurants-las-vegas/), which **are fun for the family to experience too!
 
-<figure id="kid-friendly-las-vegas-ri-ra-irish-pub">![Ri Ra Irish Pub Las Vegas Live Music](/images/Irish-Pub-Live-Music-with-baby-Las-Vegas.gif)</figure>
+<figure id="kid-friendly-las-vegas-ri-ra-irish-pub"><img src="/images/Irish-Pub-Live-Music-with-baby-Las-Vegas.gif" alt="Ri Ra Irish Pub Las Vegas Live Music" /></figure>
 
 #### **After Dinner**
 
@@ -181,5 +181,5 @@ Like it? Pin it!
 
 Save this for your next trip and head to HotMamaTravel.com for the full itinerary and family travel tips.
 
-#VegasWithBaby #FamilyTravelTips #LasVegasWithKids #TravelWithBaby #HotMamaTravel">[![vegas with baby faq itinerary](/images/Vegas-with-baby-FAQ-and-itinerary-200x300.jpg)](/images/Vegas-with-baby-FAQ-and-itinerary.jpg)</figure>
+#VegasWithBaby #FamilyTravelTips #LasVegasWithKids #TravelWithBaby #HotMamaTravel"><a href="/images/Vegas-with-baby-FAQ-and-itinerary.jpg"><img src="/images/Vegas-with-baby-FAQ-and-itinerary-200x300.jpg" alt="vegas with baby faq itinerary" /></a></figure>
 </div></div>

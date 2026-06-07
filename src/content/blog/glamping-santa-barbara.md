@@ -16,7 +16,7 @@ Nestled between the Pacific Coast and the Santa Ynez Mountains is the beautiful 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-33ba789c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](/images/glamping-el-capitan-canyon-santa-barbara.jpg)<figcaption class="wp-element-caption">Courtesy of El Capitan Canyon</figcaption></figure>
+<figure><img src="/images/glamping-el-capitan-canyon-santa-barbara.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of El Capitan Canyon</figcaption></figure>
 
 #### [El Capitan Canyon](/go/el-capitan-canyon-santa-barbara-ca/)
 
@@ -35,7 +35,7 @@ Onsite, you will have access to resort-style amenities while still being able to
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4c30918c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](/images/Circle-bar-b-guest-ranch-glamping-santa-barbara.jpg)<figcaption class="wp-element-caption">Courtesy of Circle Bar B Guest Ranch</figcaption></figure>
+<figure><img src="/images/Circle-bar-b-guest-ranch-glamping-santa-barbara.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of Circle Bar B Guest Ranch</figcaption></figure>
 
 #### [Circle Bar B Guest Ranch](/go/circle-bar-b-guest-ranch-santa-barbara-ca/)
 
@@ -52,7 +52,7 @@ Circle Bar B Guest Ranch is a relaxed ranch where families can come enjoy the ou
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-94be5bda"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](/images/yurt-glamping-cachuma-lake-santa-barbara.jpg)<figcaption class="wp-element-caption">Courtesy of Santa Barbara County Parks</figcaption></figure>
+<figure><img src="/images/yurt-glamping-cachuma-lake-santa-barbara.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of Santa Barbara County Parks</figcaption></figure>
 
 #### [Cachuma Lake Recreation](/go/cachuma-lake-recreation-santa-barbara-ca/)
 
@@ -71,7 +71,7 @@ Onsite you will have access to a general store, gas station, laundromat and shar
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4e333a23"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![Unique family glamping site at Rancho Oso RV Camping Resort in Santa Barbara California](/images/family-glamping-rancho-oso-rv-restort-santa-barbara.jpg)<figcaption class="wp-element-caption">Courtesy of Rancho Oso RV &amp; Camping Resort</figcaption></figure>
+<figure><img src="/images/family-glamping-rancho-oso-rv-restort-santa-barbara.jpg" alt="Unique family glamping site at Rancho Oso RV Camping Resort in Santa Barbara California" /><figcaption class="wp-element-caption">Courtesy of Rancho Oso RV &amp; Camping Resort</figcaption></figure>
 
 #### [Rancho Oso RV &amp; Camping Resort](/go/rancho-oso-rv-camping-resort-santa-barbara-ca/)
 
@@ -133,5 +133,5 @@ For more exciting glamping destinations, explore our site!
 
 **Like it? Pin it!**
 
-<figure>![4 of the best glamping sites in Santa Barbara California](/images/best-glamping-sites-santa-barbara-ca-200x300.png)</figure>
+<figure><img src="/images/best-glamping-sites-santa-barbara-ca-200x300.png" alt="4 of the best glamping sites in Santa Barbara California" /></figure>
 </div></section>

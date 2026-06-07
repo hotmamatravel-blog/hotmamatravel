@@ -82,7 +82,7 @@ Whether you are visiting before embarking on one of the many cruises leaving out
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="family-friendly-vancouver-hotel-fairmont-waterfront-front"><figure>[![Fairmont Waterfront Vancouver kid friendly hotel](/images/family-friendly-vancouver-hotel-fairmont-waterfront-front.jpg)](/images/family-friendly-vancouver-hotel-fairmont-waterfront-front.jpg)<figcaption class="uagb-image-caption">Courtesy of Fairmont Waterfront Vancouver</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="family-friendly-vancouver-hotel-fairmont-waterfront-front"><figure><a href="/images/family-friendly-vancouver-hotel-fairmont-waterfront-front.jpg"><img src="/images/family-friendly-vancouver-hotel-fairmont-waterfront-front.jpg" alt="Fairmont Waterfront Vancouver kid friendly hotel" /></a><figcaption class="uagb-image-caption">Courtesy of Fairmont Waterfront Vancouver</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40" id="fairmont-waterfront-vancouver">
 
@@ -96,11 +96,11 @@ One of the best hotels for kids in Vancouver is the Fairmont Waterfront. They re
 
 The [Fairmont Waterfront](https://www.fairmont.com/en/hotels/vancouver/fairmont-waterfront.html) is located at the cruise terminal and even works with Disney Cruise Line, handling the transfer of luggage. In addition, this hotel’s waterfront location yields some pretty awesome views. The hotel takes advantage of this waterfront splendor by providing ceiling-to-floor windows in the guestrooms and an amazing heated rooftop pool! It is this attention to detail and awesome location that make Fairmont Waterfront our choice as the top kid-friendly hotel in Vancouver.
 
-<figure id="inside-kid-friendly-vancouver-hotel-fairmont-waterfront-family-room">[![Hotel room inside Fairmont Waterfront Vancouver](/images/inside-kid-friendly-vancouver-hotel-fairmont-waterfront-family-room.jpg)](/go/farmont-waterfront-vancouver-british-columbia/)<figcaption class="wp-element-caption">Courtesy of Fairmont Waterfront Vancouver</figcaption></figure>
+<figure id="inside-kid-friendly-vancouver-hotel-fairmont-waterfront-family-room"><a href="/go/farmont-waterfront-vancouver-british-columbia/"><img src="/images/inside-kid-friendly-vancouver-hotel-fairmont-waterfront-family-room.jpg" alt="Hotel room inside Fairmont Waterfront Vancouver" /></a><figcaption class="wp-element-caption">Courtesy of Fairmont Waterfront Vancouver</figcaption></figure>
 
 **[See Photos, Reviews, &amp; More](/go/farmont-waterfront-vancouver-british-columbia/)**
 
-<div class="wp-block-uagb-image uagb-block-087b483f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="family-friendly-vancouver-hotel-residence-inn-vancouver-downtown-front"><figure>[![Residence Inn Downtown Vancouver Hotel](/images/family-friendly-vancouver-hotel-residence-inn-vancouver-downtown-front.jpg)](/images/family-friendly-vancouver-hotel-residence-inn-vancouver-downtown-front.jpg)<figcaption class="uagb-image-caption">Courtesy of Residence Inn by Marriott </figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-087b483f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="family-friendly-vancouver-hotel-residence-inn-vancouver-downtown-front"><figure><a href="/images/family-friendly-vancouver-hotel-residence-inn-vancouver-downtown-front.jpg"><img src="/images/family-friendly-vancouver-hotel-residence-inn-vancouver-downtown-front.jpg" alt="Residence Inn Downtown Vancouver Hotel" /></a><figcaption class="uagb-image-caption">Courtesy of Residence Inn by Marriott </figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-d7aa0ca6" id="residence-inn-marriott-vancouver">
 
@@ -114,11 +114,11 @@ The Residence Inn Vancouver Downtown is one of the best hotels in Vancouver for 
 
 Although there are suites, the best room for families is the Two-Queen Suite. It is not huge, but will sleep a family of four easily. The [Residence Inn](https://www.marriott.com/en-us/hotels/yvrdr-residence-inn-vancouver-downtown/overview/) does not permit rollaways, but they do offer cribs for those traveling with babies. At the end of the day, come back to the hotel for a nice swim or relax on the outdoor patio around the fire pit. A very nice hotel with good rates is a winner in my book.
 
-<figure id="inside-kid-friendly-vancouver-hotel-residence-inn-vancouver-downtown-guestroom">[![Room inside Residence Inn Vancouver](/images/inside-kid-friendly-vancouver-hotel-residence-inn-vancouver-downtown-guestroom.jpg)](/go/residence-inn-marriott-vancouver-downtown-vancouver-british-columbia/)<figcaption class="wp-element-caption">Courtesy of Residence Inn by Marriott</figcaption></figure>
+<figure id="inside-kid-friendly-vancouver-hotel-residence-inn-vancouver-downtown-guestroom"><a href="/go/residence-inn-marriott-vancouver-downtown-vancouver-british-columbia/"><img src="/images/inside-kid-friendly-vancouver-hotel-residence-inn-vancouver-downtown-guestroom.jpg" alt="Room inside Residence Inn Vancouver" /></a><figcaption class="wp-element-caption">Courtesy of Residence Inn by Marriott</figcaption></figure>
 
 **[See Photos, Reviews, &amp; More](/go/residence-inn-marriott-vancouver-downtown-vancouver-british-columbia/)**
 
-<div class="wp-block-uagb-image uagb-block-dc0f0ec6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="family-friendly-vancouver-hotel-century-plaza-front"><figure>[![Century Plaza Hotel and Spa Vancouver BC](/images/family-friendly-vancouver-hotel-century-plaza-front.jpg)](/images/family-friendly-vancouver-hotel-century-plaza-front.jpg)<figcaption class="uagb-image-caption">Courtesy of Century Plaza Hotel &amp; Spa</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-dc0f0ec6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="family-friendly-vancouver-hotel-century-plaza-front"><figure><a href="/images/family-friendly-vancouver-hotel-century-plaza-front.jpg"><img src="/images/family-friendly-vancouver-hotel-century-plaza-front.jpg" alt="Century Plaza Hotel and Spa Vancouver BC" /></a><figcaption class="uagb-image-caption">Courtesy of Century Plaza Hotel &amp; Spa</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-cf30bc82" id="century-plaza-hotel">
 
@@ -132,11 +132,11 @@ We love Century Plaza Hotel and Spa, and we actually stayed here on our most rec
 
 If you want to dine onsite, they do have a fabulous restaurant. C Prime was so good that we ate there twice during our visit! They have amazing craft cocktails, a beautiful atmosphere, and homemade pasta. However, if you feel the need to venture out, just walk outside the hotel because [Century Plaza](http://www.century-plaza.com/) is the pickup location for many sightseeing tours. The Capilano Suspension Bridge Trolley, the [**Westcoast Sightseeing bus tour**](/go/westcoast-sightseeing-vancouver-bc/), and the TransLink city bus all have stops right in front of the hotel, which we found SUPER convenient. We definitely recommend visiting [**Capilano Suspension Bridge Park**](/visiting-capilano-suspension-bridge-park/).
 
-<figure id="inside-kid-friendly-vancouver-hotel-century-plaza-family-suite">[![Room inside Century Plaza Hotel Vancouver](/images/inside-kid-friendly-vancouver-hotel-century-plaza-family-suite.jpg)](/go/century-plaza-hotel-spa-vancouver/)<figcaption class="wp-element-caption">Courtesy of Century Plaza Hotel &amp; Spa</figcaption></figure>
+<figure id="inside-kid-friendly-vancouver-hotel-century-plaza-family-suite"><a href="/go/century-plaza-hotel-spa-vancouver/"><img src="/images/inside-kid-friendly-vancouver-hotel-century-plaza-family-suite.jpg" alt="Room inside Century Plaza Hotel Vancouver" /></a><figcaption class="wp-element-caption">Courtesy of Century Plaza Hotel &amp; Spa</figcaption></figure>
 
 **[See Photos, Reviews, &amp; More](/go/century-plaza-hotel-spa-vancouver/)**
 
-<div class="wp-block-uagb-image uagb-block-6d7ab790 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="delta-hotels-marriott-vancouver-family-hotel"><figure>[![Family-friendly Vancouver hotel Delta Hotels by Marriott](/images/delta-hotels-marriott-vancouver-family-hotel.jpg)](/images/delta-hotels-marriott-vancouver-family-hotel.jpg)<figcaption class="uagb-image-caption">Courtesy of Delta Hotels by Marriott</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-6d7ab790 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="delta-hotels-marriott-vancouver-family-hotel"><figure><a href="/images/delta-hotels-marriott-vancouver-family-hotel.jpg"><img src="/images/delta-hotels-marriott-vancouver-family-hotel.jpg" alt="Family-friendly Vancouver hotel Delta Hotels by Marriott" /></a><figcaption class="uagb-image-caption">Courtesy of Delta Hotels by Marriott</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-c4d774b7" id="delta-hotels-marriott-vancouver">
 
@@ -150,11 +150,11 @@ Delta Hotels By Marriott Vancouver Downtown Suites shines as the perfect haven f
 
 For families with little ones, the in-room mini fridge is a thoughtful addition, providing a convenient spot for baby's milk. The hotel also understands the importance of a good night's sleep for the youngest members and offers cribs for a peaceful night. With connecting rooms available, [Delta Hotels By Marriott Vancouver Downtown Suites](https://www.marriott.com/en-us/hotels/yvrdv-delta-hotels-vancouver-downtown-suites/overview/) lets families stay close while enjoying the luxury of their own private space. And let's not forget the onsite restaurant, ensuring that families can relish delicious local cuisine without venturing too far from the comfort of their home away from home. It's the perfect blend of comfort, convenience, and stunning views for a truly memorable family getaway.
 
-<figure id="delta-hotels-marriott-vancouver-downtown-suites-family-suites">[![delta hotels by marriott vancouver downtown suites family rooms](/images/delta-hotels-marriott-vancouver-downtown-suites-family-suites.jpg)](/images/delta-hotels-marriott-vancouver-downtown-suites-family-suites.jpg)</figure>
+<figure id="delta-hotels-marriott-vancouver-downtown-suites-family-suites"><a href="/images/delta-hotels-marriott-vancouver-downtown-suites-family-suites.jpg"><img src="/images/delta-hotels-marriott-vancouver-downtown-suites-family-suites.jpg" alt="delta hotels by marriott vancouver downtown suites family rooms" /></a></figure>
 
 **[See Photos, Reviews, &amp; More](/go/delta-hotels-marriott-vancouve-bc/)**
 
-<div class="wp-block-uagb-image uagb-block-1c928db7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="westin-bayshore-vancouver-family-hotel"><figure>[![Family Vancouver Hotel The Westin Bayshore](/images/westin-bayshore-vancouver-family-hotel.jpg)](/images/westin-bayshore-vancouver-family-hotel.jpg)<figcaption class="uagb-image-caption">Courtesy of Bayshore Vancouver</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-1c928db7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="westin-bayshore-vancouver-family-hotel"><figure><a href="/images/westin-bayshore-vancouver-family-hotel.jpg"><img src="/images/westin-bayshore-vancouver-family-hotel.jpg" alt="Family Vancouver Hotel The Westin Bayshore" /></a><figcaption class="uagb-image-caption">Courtesy of Bayshore Vancouver</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-096f7d7a" id="westin-bayshore-vancouver">
 
@@ -168,11 +168,11 @@ Get ready for a family adventure that's nothing short of extraordinary at [The W
 
 When it's time to refuel, The Westin Bayshore spoils you with three onsite dining options. Picture this: waterfront dining at H Tasting Lounge, where you can savor culinary delights on the patio or inside translucent domes, adding a touch of whimsy to your dining experience. And let's not forget the breakfast haven at T &amp; Co Café or the culinary delights at H2 Kitchen + Bar. The icing on the cake? The largest room, the Standard Guest room with 2 Doubles, accommodates a family of four, making it the perfect retreat for your clan.
 
-<figure id="westin-bayshore-vancouver-family-rooms">[![Westin bayshore vancouver rooms](/images/westin-bayshore-vancouver-family-rooms.jpg)](/images/westin-bayshore-vancouver-family-rooms.jpg)<figcaption class="wp-element-caption">Courtesy of Westin Bayshore, Vancouver</figcaption></figure>
+<figure id="westin-bayshore-vancouver-family-rooms"><a href="/images/westin-bayshore-vancouver-family-rooms.jpg"><img src="/images/westin-bayshore-vancouver-family-rooms.jpg" alt="Westin bayshore vancouver rooms" /></a><figcaption class="wp-element-caption">Courtesy of Westin Bayshore, Vancouver</figcaption></figure>
 
 **[See Photos, Reviews, &amp; More](/go/westin-bayshore-vancouver-bc/)**
 
-<div class="wp-block-uagb-image uagb-block-3feafdb1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hampton-inn-suites-hilton-vancouver-family-hotel"><figure>[![Hampton Inn &amp; Suites by Hilton Vancouver Family Hotel](/images/hampton-inn-suites-hilton-vancouver-family-hotel.jpg)](/images/hampton-inn-suites-hilton-vancouver-family-hotel.jpg)<figcaption class="uagb-image-caption">Courtesy of Hampton Inn &amp; Suites by Hilton Vancouver</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-3feafdb1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hampton-inn-suites-hilton-vancouver-family-hotel"><figure><a href="/images/hampton-inn-suites-hilton-vancouver-family-hotel.jpg"><img src="/images/hampton-inn-suites-hilton-vancouver-family-hotel.jpg" alt="Hampton Inn &amp; Suites by Hilton Vancouver Family Hotel" /></a><figcaption class="uagb-image-caption">Courtesy of Hampton Inn &amp; Suites by Hilton Vancouver</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-c58e1427" id="hampton-inn-vancouver">
 
@@ -186,11 +186,11 @@ Nestled at the vibrant crossroads of convenience and comfort, the [Hampton Inn &
 
 What distinguishes this haven is its commitment to family needs – complimentary hot breakfast to kickstart the day, seamless connectivity with free WiFi, and moments of tranquility in the rooftop whirlpool. The fitness center caters to health-conscious families, ensuring routines are maintained even on vacation. Offering connecting rooms, the Hampton Inn &amp; Suites embraces the essence of togetherness while granting each family their private sanctuary.
 
-<figure id="hampton-inn-suites-hilton-vancouver-rooms">[![Courtesy of Hampton Inn Vancouver  rooms](/images/hampton-inn-suites-hilton-vancouver-rooms.jpg)](/images/hampton-inn-suites-hilton-vancouver-rooms.jpg)<figcaption class="wp-element-caption">Courtesy of Hampton Inn &amp; Suites by Hilton</figcaption></figure>
+<figure id="hampton-inn-suites-hilton-vancouver-rooms"><a href="/images/hampton-inn-suites-hilton-vancouver-rooms.jpg"><img src="/images/hampton-inn-suites-hilton-vancouver-rooms.jpg" alt="Courtesy of Hampton Inn Vancouver  rooms" /></a><figcaption class="wp-element-caption">Courtesy of Hampton Inn &amp; Suites by Hilton</figcaption></figure>
 
 **[See Photos, Reviews, &amp; More](/go/hampton-inn-suites-hilton-vancouver-bc/)**
 
-<div class="wp-block-uagb-image uagb-block-43388784 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="pan-pacific--vancouver-family-hotels"><figure>[![Pan Pacific Vancouver Family Hotel](/images/pan-pacific-vancouver-family-hotels.jpg)](/images/pan-pacific-vancouver-family-hotels.jpg)<figcaption class="uagb-image-caption">Courtesy of Pan Pacific Vancouver</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-43388784 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="pan-pacific--vancouver-family-hotels"><figure><a href="/images/pan-pacific-vancouver-family-hotels.jpg"><img src="/images/pan-pacific-vancouver-family-hotels.jpg" alt="Pan Pacific Vancouver Family Hotel" /></a><figcaption class="uagb-image-caption">Courtesy of Pan Pacific Vancouver</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-8d168e29" id="pan-pacific-vancouver">
 
@@ -206,7 +206,7 @@ Embark on an enchanting family escape at the [Pan Pacific in Vancouver](https://
 
 Dining is a delight with three restaurants and bars, including the Ocean 999 Restaurant and patio, open during the summer months for al fresco dining bliss. Little ones are in for a treat with a dedicated kids menu. The city's best attractions and restaurants are just minutes away from our iconic waterfront hotel, and being located atop the Canada Place Cruise Ship Terminal adds an extra layer of magic to your family stay.
 
-<figure id="pan-pacific-vancouver-family-rooms">[![Pan Pacific Vancouver rooms](/images/pan-pacific-vancouver-family-rooms.jpg)](/images/pan-pacific-vancouver-family-rooms.jpg)<figcaption class="wp-element-caption">Courtesy of Pan Pacific Vancouver</figcaption></figure>
+<figure id="pan-pacific-vancouver-family-rooms"><a href="/images/pan-pacific-vancouver-family-rooms.jpg"><img src="/images/pan-pacific-vancouver-family-rooms.jpg" alt="Pan Pacific Vancouver rooms" /></a><figcaption class="wp-element-caption">Courtesy of Pan Pacific Vancouver</figcaption></figure>
 
 **[See Photos, Reviews, &amp; More](/go/pan-pacific-vancouver-bc/)**
 
@@ -224,6 +224,6 @@ Like it? Pin it!
 
 <figure id="best-family-hotels-in-vancouver-bc" data-essb-pin-description="Planning a family trip to Vancouver BC? 🇨🇦 From hotels with pools and spacious family suites to walkable locations near top attractions, these are the best family-friendly hotels in Vancouver for an unforgettable vacation with kids. Explore where to stay in Vancouver with families, plus insider travel tips, nearby activities, and must-know recommendations to make your trip easier (and way more fun). ✨
 
-#VancouverBC #FamilyTravel #FamilyVacation #VancouverWithKids #CanadaTravel #FamilyHotels #TravelWithKids #VancouverHotels #FamilyFriendlyTravel #HotMamaTravel">[![Family hotels in Vancouver BC](/images/best-family-hotels-in-vancouver-bc-200x300.jpg)](/images/best-family-hotels-in-vancouver-bc.jpg)</figure>
+#VancouverBC #FamilyTravel #FamilyVacation #VancouverWithKids #CanadaTravel #FamilyHotels #TravelWithKids #VancouverHotels #FamilyFriendlyTravel #HotMamaTravel"><a href="/images/best-family-hotels-in-vancouver-bc.jpg"><img src="/images/best-family-hotels-in-vancouver-bc-200x300.jpg" alt="Family hotels in Vancouver BC" /></a></figure>
 </div></div>
 

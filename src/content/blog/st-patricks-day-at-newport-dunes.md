@@ -16,7 +16,7 @@ St. Patrick’s Day might be known for pub crawls and green beer, but in our fam
 
 What started as a fun idea turned into a family tradition. Not only were we celebrating St. Patrick’s Day, but we also had two March birthdays in the family, which meant double the reason to gather, eat, laugh, and enjoy a beach weekend together. Before we knew it, celebrating St. Patrick’s Day at Newport Dunes became something we looked forward to every year.
 
-<div class="wp-block-uagb-image uagb-block-81289fd0 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![St. Patrick](/images/Birthdays-at-Newport-Dunes.jpg)](/images/Birthdays-at-Newport-Dunes.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-81289fd0 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Birthdays-at-Newport-Dunes.jpg"><img src="/images/Birthdays-at-Newport-Dunes.jpg" alt="St. Patrick" /></a></figure></div>
 
 **See our St. Patrick's Day trips at Newport Dunes:**
 
@@ -30,7 +30,7 @@ What started as a fun idea turned into a family tradition. Not only were we cele
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-dd2fbae7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![St Patricks day at Newport Dunes](/images/St-Patricks-day-at-Newport-Dunes.jpg)](/images/St-Patricks-day-at-Newport-Dunes.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-dd2fbae7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/St-Patricks-day-at-Newport-Dunes.jpg"><img src="/images/St-Patricks-day-at-Newport-Dunes.jpg" alt="St Patricks day at Newport Dunes" /></a></figure></div>
 
 One of the things we love most about [Newport Dunes](https://www.newportdunes.com/) is that it captures the fun spirit of the holiday without the chaos. Instead of crowded bars and loud nightlife, you get a relaxed waterfront setting where families can celebrate together.
 
@@ -42,7 +42,7 @@ Kids can run around on the sand, ride bikes along the bay, and play on the playg
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure>[![Safe Beach at Newport Dunes ](/images/St-Patricks-at-Newport-Dunes-Beach.jpg)](/images/St-Patricks-at-Newport-Dunes-Beach.jpg)</figure>
+<figure><a href="/images/St-Patricks-at-Newport-Dunes-Beach.jpg"><img src="/images/St-Patricks-at-Newport-Dunes-Beach.jpg" alt="Safe Beach at Newport Dunes " /></a></figure>
 
 The calm waters of the Back Bay make Newport Dunes especially perfect for families. Because it’s a protected lagoon, there are no crashing waves, which means little ones can splash and play safely while parents keep an eye on them from the sand.
 
@@ -64,7 +64,7 @@ It’s simple, easy, fun, and the kind that makes you realize you don’t need e
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-04865b4b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![St Patricks Glamping Newport Dunes](/images/St-Patricks-Glamping-Newport-Dunes.jpg)](/images/St-Patricks-Glamping-Newport-Dunes.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-04865b4b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/St-Patricks-Glamping-Newport-Dunes.jpg"><img src="/images/St-Patricks-Glamping-Newport-Dunes.jpg" alt="St Patricks Glamping Newport Dunes" /></a></figure></div>
 
 Another reason Newport Dunes is such a great St. Patrick’s Day destination is the variety of ways you can enjoy it.
 
@@ -84,7 +84,7 @@ Staying overnight turns the celebration into a full weekend getaway, which is ex
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-d4a9ddfd wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![St Patricks Celebrations Newport Dunes](/images/St-Patricks-Celebrations-Newport-Dunes.jpg)](/images/St-Patricks-Celebrations-Newport-Dunes.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-d4a9ddfd wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/St-Patricks-Celebrations-Newport-Dunes.jpg"><img src="/images/St-Patricks-Celebrations-Newport-Dunes.jpg" alt="St Patricks Celebrations Newport Dunes" /></a></figure></div>
 
 For us, St. Patrick’s Day at Newport Dunes has never been about big parties and it’s about time together.
 
@@ -114,5 +114,5 @@ Looking for even more adventures? Don’t miss our **[California Family Travel G
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="☘️ Looking for a family-friendly way to celebrate St. Patrick’s Day? Discover why we love celebrating at Newport Dunes Waterfront Resort &amp; Marina—calm bay waters, beach fun, glamping cottages, and the perfect spot for family celebrations. #stpatricksday #newportdunes #orangecounty #californiatravel #familytravel #glamping">[![St. Patrick](/images/Guide-to-St.-Patricks-Day-At-Newport-Dunes-200x300.jpg)](/images/Guide-to-St.-Patricks-Day-At-Newport-Dunes.jpg)</figure>
+<figure data-essb-pin-description="☘️ Looking for a family-friendly way to celebrate St. Patrick’s Day? Discover why we love celebrating at Newport Dunes Waterfront Resort &amp; Marina—calm bay waters, beach fun, glamping cottages, and the perfect spot for family celebrations. #stpatricksday #newportdunes #orangecounty #californiatravel #familytravel #glamping"><a href="/images/Guide-to-St.-Patricks-Day-At-Newport-Dunes.jpg"><img src="/images/Guide-to-St.-Patricks-Day-At-Newport-Dunes-200x300.jpg" alt="St. Patrick" /></a></figure>
 </div></div>

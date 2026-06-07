@@ -28,7 +28,7 @@ The property is massive, in the best way. Think pools, beach access, hidden path
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-3db190f4 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![rooms at Tradewinds Island Grand](/images/Rooms-at-Tradewinds-Island-Grand.jpg)](/images/Rooms-at-Tradewinds-Island-Grand.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-3db190f4 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Rooms-at-Tradewinds-Island-Grand.jpg"><img src="/images/Rooms-at-Tradewinds-Island-Grand.jpg" alt="rooms at Tradewinds Island Grand" /></a></figure></div>
 
 The best word I can use to describe the rooms here? Charming**.**
 
@@ -134,7 +134,7 @@ End the day toes-in-the-sand style at Salty's Beach Lounge. Sip cocktails, enjoy
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-efcb7c1e wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![waterslide at tradewinds island grand](/images/waterslide-at-Tradewinds-Island-Grand.jpg)](/images/waterslide-at-Tradewinds-Island-Grand.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-efcb7c1e wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/waterslide-at-Tradewinds-Island-Grand.jpg"><img src="/images/waterslide-at-Tradewinds-Island-Grand.jpg" alt="waterslide at tradewinds island grand" /></a></figure></div>
 
 At **[Tradewinds Island Grand](/tradewinds-island-grand/)**, there’s no shortage of ways to keep the whole family entertained, whether you’re a water-loving adventurer, a creative crafter, or just here to relax and soak up the sun. Plus, there are a ton more [**family activities in St. Pete Beach**](/st-pete-beach-with-kids/) just within steps of the resort.
 
@@ -273,5 +273,5 @@ Like it? Pin it!
 
 ✨ Click for my full guide to St. Pete Beach family fun &amp; top resorts!
 
-#FamilyTravel #StPeteBeach #FloridaVacation #BeachResorts #FamilyFun #TravelWithKids #HotMamaTravel #FloridaFamilyTrip #ResortLife #BeachVacation">[![Tradewinds Island Grand Family Review](/images/Tradewinds-Island-Grand-Family-Review-200x300.jpg)](/images/Tradewinds-Island-Grand-Family-Review.jpg)</figure>
+#FamilyTravel #StPeteBeach #FloridaVacation #BeachResorts #FamilyFun #TravelWithKids #HotMamaTravel #FloridaFamilyTrip #ResortLife #BeachVacation"><a href="/images/Tradewinds-Island-Grand-Family-Review.jpg"><img src="/images/Tradewinds-Island-Grand-Family-Review-200x300.jpg" alt="Tradewinds Island Grand Family Review" /></a></figure>
 </div></div>

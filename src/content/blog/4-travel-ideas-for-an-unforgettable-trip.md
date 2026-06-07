@@ -66,5 +66,5 @@ As we wrap up this exploration of travel ideas, let your wanderlust be your guid
 
 Like it? Pin it!
 
-<figure id="4-travel-ideas-for-an-unforgettable-trip">[![](/images/4-travel-ideas-for-an-unforgettable-trip-200x300.jpg)](/images/4-travel-ideas-for-an-unforgettable-trip.jpg)</figure>
+<figure id="4-travel-ideas-for-an-unforgettable-trip"><a href="/images/4-travel-ideas-for-an-unforgettable-trip.jpg"><img src="/images/4-travel-ideas-for-an-unforgettable-trip-200x300.jpg" alt="" /></a></figure>
 </div></div>

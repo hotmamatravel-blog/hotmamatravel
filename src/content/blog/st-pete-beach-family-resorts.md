@@ -25,7 +25,7 @@ But before you go, you will need a place to stay. In this blog post, we'll explo
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-dbec74e6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="tradewinds-island-grand-st-pete-beach-family-resorts">[![](/images/tradewinds-island-grand-st-pete-beach-family-resorts.jpg)](/images/tradewinds-island-grand-st-pete-beach-family-resorts.jpg)</figure>
+<figure id="tradewinds-island-grand-st-pete-beach-family-resorts"><a href="/images/tradewinds-island-grand-st-pete-beach-family-resorts.jpg"><img src="/images/tradewinds-island-grand-st-pete-beach-family-resorts.jpg" alt="" /></a></figure>
 
 #### [TradeWinds Island Grand Resort](/go/tradewinds-st-pete-expedia/)
 
@@ -44,7 +44,7 @@ When it comes to dining, the TradeWinds Island Grand has numerous options to sui
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-94bf6120"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="rumfish-beach-resort-st-pete-beach-family-resorts">[![](/images/rumfish-beach-resort-st-pete-beach-family-resorts.jpg)](/images/rumfish-beach-resort-st-pete-beach-family-resorts.jpg)</figure>
+<figure id="rumfish-beach-resort-st-pete-beach-family-resorts"><a href="/images/rumfish-beach-resort-st-pete-beach-family-resorts.jpg"><img src="/images/rumfish-beach-resort-st-pete-beach-family-resorts.jpg" alt="" /></a></figure>
 
 #### [RumFish Beach Resort -   By TradeWinds](/go/rumfish-beach-resort-tradewinds-st-pete-beach/)
 
@@ -65,7 +65,7 @@ The resort's accommodations are spacious and comfortable, with many rooms featur
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8416549a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="the-don-cesar-family-resorts-st-pete-beach">[![](/images/the-don-cesar-family-resorts-st-pete-beach.jpg)](/images/the-don-cesar-family-resorts-st-pete-beach.jpg)</figure>
+<figure id="the-don-cesar-family-resorts-st-pete-beach"><a href="/images/the-don-cesar-family-resorts-st-pete-beach.jpg"><img src="/images/the-don-cesar-family-resorts-st-pete-beach.jpg" alt="" /></a></figure>
 
 #### [The Don CeSar Hotel](/go/don-cesar-hotel-st-pete-beach-florida/)
 
@@ -88,7 +88,7 @@ The hotel's location also makes it convenient for families to [explore St. Pete 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0d3cb3c2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="beach-house-suites-st-pete-beach-family-resorts">[![](/images/beach-house-suites-st-pete-beach-family-resorts.jpg)](/images/beach-house-suites-st-pete-beach-family-resorts.jpg)</figure>
+<figure id="beach-house-suites-st-pete-beach-family-resorts"><a href="/images/beach-house-suites-st-pete-beach-family-resorts.jpg"><img src="/images/beach-house-suites-st-pete-beach-family-resorts.jpg" alt="" /></a></figure>
 
 #### [Beach House Suites by Don CeSar](/go/beach-house-suites-don-cesar-st-pete-beach/)
 
@@ -109,7 +109,7 @@ Beach House Suites also offers a complimentary breakfast buffet every morning, w
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ab576eee"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="sirata-st-pete-beach-family-resorts">[![](/images/sirata-st-pete-beach-family-resorts.jpg)](/images/sirata-st-pete-beach-family-resorts.jpg)</figure>
+<figure id="sirata-st-pete-beach-family-resorts"><a href="/images/sirata-st-pete-beach-family-resorts.jpg"><img src="/images/sirata-st-pete-beach-family-resorts.jpg" alt="" /></a></figure>
 
 #### [Sirata St. Pete Beach](/go/sirata-st-pete-beach/)
 
@@ -132,7 +132,7 @@ The resort's location also makes it convenient for families to visit more of St.
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-fce8f8f9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="bellwether-beach-resort-st-pete-beach-family-resorts">[![](/images/bellwether-beach-resort-st-pete-beach-family-resorts.jpg)](/images/bellwether-beach-resort-st-pete-beach-family-resorts.jpg)</figure>
+<figure id="bellwether-beach-resort-st-pete-beach-family-resorts"><a href="/images/bellwether-beach-resort-st-pete-beach-family-resorts.jpg"><img src="/images/bellwether-beach-resort-st-pete-beach-family-resorts.jpg" alt="" /></a></figure>
 
 #### [Bellwether Beach Resort](/go/bellwether-beach-resort-st-pete-beach/)
 
@@ -168,5 +168,5 @@ For a full guide on visiting St. Petersburg, Florida, see our [Things to do in S
 
 **Like it? Pin it!**
 
-<figure id="best-st-pete-beach-family-resorts">[![](/images/best-st-pete-beach-family-resorts-200x300.jpg)](/images/best-st-pete-beach-family-resorts.jpg)</figure>
+<figure id="best-st-pete-beach-family-resorts"><a href="/images/best-st-pete-beach-family-resorts.jpg"><img src="/images/best-st-pete-beach-family-resorts-200x300.jpg" alt="" /></a></figure>
 </div></section>

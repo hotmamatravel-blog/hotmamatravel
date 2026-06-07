@@ -15,7 +15,7 @@ author: "Amanda Keeley-Thurman"
 Let the ultimate family adventure in the beautiful oasis of Palm Springs begin! With its sunny weather, stunning landscapes, and an abundance of exciting activities, Palm Springs offers a plethora of memorable tours that are perfect for families. Whether you're seeking outdoor exploration, cultural immersion, or simply some quality bonding time, this desert paradise has it all. From exhilarating tramway rides to up-close encounters with the desert's unique flora and fauna, Palm Springs tours will leave your family with cherished memories that will last a lifetime.  Check out these amazing Palm Springs tours that your family will love!
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0d00a212"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="palm-springs-aerial-tramway">[![](/images/palm-springs-aerial-tramway.jpg)](/images/palm-springs-aerial-tramway.jpg)</figure>
+<figure id="palm-springs-aerial-tramway"><a href="/images/palm-springs-aerial-tramway.jpg"><img src="/images/palm-springs-aerial-tramway.jpg" alt="" /></a></figure>
 
 #### [Palm Springs Aerial Tramway](/go/palm-springs-aerial-tramway-palm-springs-ca/)
 
@@ -30,7 +30,7 @@ Once you reach the top, a whole new world of adventure awaits. Lace up your hiki
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-15b9c9d9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="palm-springs-tours-windmill-tours">[![](/images/palm-springs-tours-windmill-tours.jpg)](/images/palm-springs-tours-windmill-tours.jpg)</figure>
+<figure id="palm-springs-tours-windmill-tours"><a href="/images/palm-springs-tours-windmill-tours.jpg"><img src="/images/palm-springs-tours-windmill-tours.jpg" alt="" /></a></figure>
 
 #### [Palm Springs Windmill Tour](/go/windmill-tour-palm-springs-tours/)
 
@@ -47,7 +47,7 @@ Learn how these enormous windmills harness the power of the wind, generating cle
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6dda6ab8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="palm-springs-tours-modern-and-more-bike-tour">[![](/images/palm-springs-tours-modern-and-more-bike-tour.jpg)](/images/palm-springs-tours-modern-and-more-bike-tour.jpg)</figure>
+<figure id="palm-springs-tours-modern-and-more-bike-tour"><a href="/images/palm-springs-tours-modern-and-more-bike-tour.jpg"><img src="/images/palm-springs-tours-modern-and-more-bike-tour.jpg" alt="" /></a></figure>
 
 #### [Modern &amp; More Bike Tour](/go/modern-more-bike-tour-palm-springs-tours/)
 
@@ -62,7 +62,7 @@ The Modern &amp; More Bike Tour in Palm Springs is an exciting adventure for fam
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8af88ce3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="palm-springs-tours-indian-canyons-hike-bike">[![](/images/palm-springs-tours-indian-canyons-hike-bike.jpg)](/images/palm-springs-tours-indian-canyons-hike-bike.jpg)</figure>
+<figure id="palm-springs-tours-indian-canyons-hike-bike"><a href="/images/palm-springs-tours-indian-canyons-hike-bike.jpg"><img src="/images/palm-springs-tours-indian-canyons-hike-bike.jpg" alt="" /></a></figure>
 
 #### [Palm Springs Indian Canyons Bike &amp; Hike Tour](/go/palm-springs-indian-canyons-bike-hike-tours/)
 
@@ -109,7 +109,7 @@ Families will relish this tour for its immersive nature, allowing them to connec
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bc104137"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="palm-springs-tours-covered-wagon-bbq">[![](/images/palm-springs-tours-covered-wagon-bbq.jpg)](/images/palm-springs-tours-covered-wagon-bbq.jpg)</figure>
+<figure id="palm-springs-tours-covered-wagon-bbq"><a href="/images/palm-springs-tours-covered-wagon-bbq.jpg"><img src="/images/palm-springs-tours-covered-wagon-bbq.jpg" alt="" /></a></figure>
 
 #### [Covered Wagon Adventure &amp; BBQ](/go/covered-wagon-adventure-bbq-palm-springs/)
 

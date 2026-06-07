@@ -97,5 +97,5 @@ Bespoke travel has truly taken flight.
 
 **Like it? Pin it!**
 
-<figure id="How-chartered-flights-can-optimize-family-travel">[![](/images/How-chartered-flights-can-optimize-family-travel-200x300.jpg)](/images/How-chartered-flights-can-optimize-family-travel.jpg)</figure>
+<figure id="How-chartered-flights-can-optimize-family-travel"><a href="/images/How-chartered-flights-can-optimize-family-travel.jpg"><img src="/images/How-chartered-flights-can-optimize-family-travel-200x300.jpg" alt="" /></a></figure>
 </div></section>

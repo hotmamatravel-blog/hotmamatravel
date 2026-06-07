@@ -46,7 +46,7 @@ As an alternative, you can jump straight ahead to our list of Destin's Best Fami
 
 **[Jump to: Best all-around](#henderson-resort)**
 
-<figure id="henderson-resort-spa-family-resorts-destin-fl">[![](/images/destin-kid-friendly-hotel-henderson-lazy-river.jpg)](#henderson-resort)<figcaption class="wp-element-caption">[The Henderson Resort &amp; Spa](#henderson-resort)</figcaption></figure>
+<figure id="henderson-resort-spa-family-resorts-destin-fl"><a href="#henderson-resort"><img src="/images/destin-kid-friendly-hotel-henderson-lazy-river.jpg" alt="" /></a><figcaption class="wp-element-caption">[The Henderson Resort &amp; Spa](#henderson-resort)</figcaption></figure>
 
 </div>
 
@@ -54,21 +54,21 @@ As an alternative, you can jump straight ahead to our list of Destin's Best Fami
 
 **[Jump to: Top budget-friendly](#best-western-sugar-sands)**
 
-<figure id="best-western-sugar-sands-destin-hotels-for-families">[![Family pool at Best Western Sugar Sands Suites in Destin Fl](/images/Best-western-sugar-sands-inn-suites-pool.jpg)](#best-western-sugar-sands)<figcaption class="wp-element-caption">[Spark by Hilton Destin](#best-western-sugar-sands)</figcaption></figure>
+<figure id="best-western-sugar-sands-destin-hotels-for-families"><a href="#best-western-sugar-sands"><img src="/images/Best-western-sugar-sands-inn-suites-pool.jpg" alt="Family pool at Best Western Sugar Sands Suites in Destin Fl" /></a><figcaption class="wp-element-caption">[Spark by Hilton Destin](#best-western-sugar-sands)</figcaption></figure>
 </div>
 </div>
 
 <div class="wp-block-columns has-3-columns">
 <div class="wp-block-column">
-<figure id="embassy-suites-hilton-family-hotels-destin-fl">[![Lobby Atrium at Embassy Suites Miramar Beach Destin Fl](/images/Embassy-Suites-Hilton-Miramar-Beach-Destin-Atrium.jpg)](#embassy-suites-hilton-destin)<figcaption class="wp-element-caption">[The Embassy Suites](#embassy-suites-hilton-destin)</figcaption></figure>
+<figure id="embassy-suites-hilton-family-hotels-destin-fl"><a href="#embassy-suites-hilton-destin"><img src="/images/Embassy-Suites-Hilton-Miramar-Beach-Destin-Atrium.jpg" alt="Lobby Atrium at Embassy Suites Miramar Beach Destin Fl" /></a><figcaption class="wp-element-caption">[The Embassy Suites](#embassy-suites-hilton-destin)</figcaption></figure>
 </div>
 
 <div class="wp-block-column">
-<figure id="emerald-grande-harborwalk-family-resorts-destin-fl">[![pool at Emerald Grande at Haborwalk Village in Destin Fl](/images/Emerald-Grande-Harborwalk-destin-pool-view.jpg)](#emerald-grande-harborwalk-village)<figcaption class="wp-element-caption">[Emerald Grande at HarborWalk Village](#emerald-grande-harborwalk-village)</figcaption></figure>
+<figure id="emerald-grande-harborwalk-family-resorts-destin-fl"><a href="#emerald-grande-harborwalk-village"><img src="/images/Emerald-Grande-Harborwalk-destin-pool-view.jpg" alt="pool at Emerald Grande at Haborwalk Village in Destin Fl" /></a><figcaption class="wp-element-caption">[Emerald Grande at HarborWalk Village](#emerald-grande-harborwalk-village)</figcaption></figure>
 </div>
 
 <div class="wp-block-column">
-<figure id="lagoon-pool-palms-resort-destin-family-resorts">[![Lagoon pool at Destin Palms Resort in Destin Fl](/images/destin-palms-pool.jpg)](#palms-destin-resort)<figcaption class="wp-element-caption">[The Palms Destin Resort](#palms-destin-resort)</figcaption></figure>
+<figure id="lagoon-pool-palms-resort-destin-family-resorts"><a href="#palms-destin-resort"><img src="/images/destin-palms-pool.jpg" alt="Lagoon pool at Destin Palms Resort in Destin Fl" /></a><figcaption class="wp-element-caption">[The Palms Destin Resort](#palms-destin-resort)</figcaption></figure>
 </div>
 </div>
 
@@ -113,7 +113,7 @@ travel destination on&nbsp;[natvisa.com](http://natvisa.com/)
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-6f562eb5 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![family friendly pool at the Henderson Resort in Destin Fl](/images/destin-kid-friendly-hotel-henderson-lazy-river.jpg)](/images/destin-kid-friendly-hotel-henderson-lazy-river.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-6f562eb5 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/destin-kid-friendly-hotel-henderson-lazy-river.jpg"><img src="/images/destin-kid-friendly-hotel-henderson-lazy-river.jpg" alt="family friendly pool at the Henderson Resort in Destin Fl" /></a></figure></div>
 
 **Editor's Pick: Best all-around choice**
 
@@ -151,7 +151,7 @@ travel destination on&nbsp;[natvisa.com](http://natvisa.com/)
 </path></svg>Certain parts of the resort shut down during off season</div>
 </div></div>
 
-<figure id="family-rooms-henderson-resort-spa-kid-friendly-hotels-destin-fl">![double rooms at henderson hotel destin](/images/inside-destin-family-hotel-henderson-double-guestroom.jpg)</figure>
+<figure id="family-rooms-henderson-resort-spa-kid-friendly-hotels-destin-fl"><img src="/images/inside-destin-family-hotel-henderson-double-guestroom.jpg" alt="double rooms at henderson hotel destin" /></figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-f4bed083" id="uagb-adv-heading-7971428e-2d4a-4580-a26d-bd4fec779c6c">
 
@@ -164,7 +164,7 @@ On the property, you and your kids will love the family pool, complete with a la
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-0df286e ugb-main-block"><style>.ugb-0df286e .ugb-block-content{justify-content:center !important}.ugb-0df286e .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-0df286e .ugb-button1 .ugb-button--inner,.ugb-0df286e .ugb-button1 svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-0df286e .ugb-button1:before{border-radius:4px !important}.ugb-0df286e .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
 </path></svg></div>**Book it!**](/go/henderson-resort-destin-fl)</div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-d15dff54 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![spark by hilton in destin florida](/images/spark-hilton-destin-fl-1.jpg)](/images/spark-hilton-destin-fl-1.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-d15dff54 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/spark-hilton-destin-fl-1.jpg"><img src="/images/spark-hilton-destin-fl-1.jpg" alt="spark by hilton in destin florida" /></a></figure></div>
 
 **Top Budget Friendly Choice**
 
@@ -202,7 +202,7 @@ On the property, you and your kids will love the family pool, complete with a la
 </path></svg>Not on the beach</div>
 </div></div>
 
-<figure id="best-western-sugar-sands-inn-kid-friendly-resorts-destin-fl">![guest room at spark hilton destin fl](/images/guest-room-spark-hilton-destin-fl-1.jpg)</figure>
+<figure id="best-western-sugar-sands-inn-kid-friendly-resorts-destin-fl"><img src="/images/guest-room-spark-hilton-destin-fl-1.jpg" alt="guest room at spark hilton destin fl" /></figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-906bcaa8" id="uagb-adv-heading-34af8714-9a35-40e7-a231-9ef8abdb14c7">
 
@@ -215,7 +215,7 @@ Kids will enjoy the outdoor pool and game room after a fun day at the beach. The
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-9383400 ugb-main-block"><style>.ugb-9383400 .ugb-block-content{justify-content:center !important}.ugb-9383400 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-9383400 .ugb-button1 .ugb-button--inner,.ugb-9383400 .ugb-button1 svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-9383400 .ugb-button1:before{border-radius:4px !important}.ugb-9383400 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
 </path></svg></div>**Book it!**](/go/spark-by-hilton-destin-fl)</div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-e13fd405 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Embassy Suite by Hilton Miramar Beach Destin Florida](/images/Embassy-Suites-Hilton-Miramar-Beach-Destin-exterior.jpg)](/images/Embassy-Suites-Hilton-Miramar-Beach-Destin-exterior.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-e13fd405 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Embassy-Suites-Hilton-Miramar-Beach-Destin-exterior.jpg"><img src="/images/Embassy-Suites-Hilton-Miramar-Beach-Destin-exterior.jpg" alt="Embassy Suite by Hilton Miramar Beach Destin Florida" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-597edf6b" id="embassy-suites-hilton-destin">
 
@@ -251,7 +251,7 @@ Kids will enjoy the outdoor pool and game room after a fun day at the beach. The
 </path></svg>No shuttle service</div>
 </div></div>
 
-<figure id="embassy-suites-hiltonbest-places-to-stay-with-kids-in-destin-fl">[![Beach lounge at family hotel Embassy Suites by Hilton Miramar Beach Destin Fl](/images/Embassy-Suites-Hilton-Miramar-Beach-Destin-beach-lounge.jpg)](/go/embassy-suites-hilton-miramar-beach-destin-fl)</figure>
+<figure id="embassy-suites-hiltonbest-places-to-stay-with-kids-in-destin-fl"><a href="/go/embassy-suites-hilton-miramar-beach-destin-fl"><img src="/images/Embassy-Suites-Hilton-Miramar-Beach-Destin-beach-lounge.jpg" alt="Beach lounge at family hotel Embassy Suites by Hilton Miramar Beach Destin Fl" /></a></figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-1418a45d" id="uagb-adv-heading-68bd554f-2b87-47d0-83ba-54b0e0c61754">
 
@@ -264,7 +264,7 @@ For your convenience, the Embassy Suites offers a complimentary made-to-order ho
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-90ec9ba ugb-main-block"><style>.ugb-90ec9ba .ugb-block-content{justify-content:center !important}.ugb-90ec9ba .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-90ec9ba .ugb-button1 .ugb-button--inner,.ugb-90ec9ba .ugb-button1 svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-90ec9ba .ugb-button1:before{border-radius:4px !important}.ugb-90ec9ba .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="mouse-pointer" class="svg-inline--fa fa-mouse-pointer fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
 </path></svg></div>**Book it!**](/go/embassy-suites-hilton-miramar-beach-destin-fl)</div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-c8441ac5 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Emerald Grande at HarborWalk Village Destin Fl](/images/Emarald-Grande-HarborWalk-Village-Destin-exterior.jpg)](/images/Emarald-Grande-HarborWalk-Village-Destin-exterior.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-c8441ac5 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Emarald-Grande-HarborWalk-Village-Destin-exterior.jpg"><img src="/images/Emarald-Grande-HarborWalk-Village-Destin-exterior.jpg" alt="Emerald Grande at HarborWalk Village Destin Fl" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-7bad5afe" id="emerald-grande-harborwalk-village">
 
@@ -300,7 +300,7 @@ For your convenience, the Embassy Suites offers a complimentary made-to-order ho
 </path></svg>East Tower can be noisy due to location on HarborWalk Village</div>
 </div></div>
 
-<figure id="emerald-grande-harborwalk-village-kid-friendly-resorts-in-destin-florida">[![Fun bunk room at the family friendly Emerald Grande in Destin Fl](/images/Emerald-Grande-Harborwalk-destin-bunk-room.jpg)](/go/emerald-grande-harborwalk-village-destin-fl)</figure>
+<figure id="emerald-grande-harborwalk-village-kid-friendly-resorts-in-destin-florida"><a href="/go/emerald-grande-harborwalk-village-destin-fl"><img src="/images/Emerald-Grande-Harborwalk-destin-bunk-room.jpg" alt="Fun bunk room at the family friendly Emerald Grande in Destin Fl" /></a></figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-5b5c3e3b" id="uagb-adv-heading-5ed56e0c-e7bc-4900-a775-26df5338070f">
 
@@ -313,7 +313,7 @@ The rooms are huge too, sleeping up to 10. Some rooms even have bunk beds, which
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-f5fdaae ugb-main-block"><style>.ugb-f5fdaae .ugb-block-content{justify-content:center !important}.ugb-f5fdaae .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-f5fdaae .ugb-button1 .ugb-button--inner,.ugb-f5fdaae .ugb-button1 svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-f5fdaae .ugb-button1:before{border-radius:4px !important}.ugb-f5fdaae .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="mouse-pointer" class="svg-inline--fa fa-mouse-pointer fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
 </path></svg></div>**Book it!**](/go/emerald-grande-harborwalk-village-destin-fl)</div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-928c1a2c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Family-Friendly Destin Palms Resort in Destin Fl](/images/destin-palms-exterior.jpg)](/images/destin-palms-exterior.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-928c1a2c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/destin-palms-exterior.jpg"><img src="/images/destin-palms-exterior.jpg" alt="Family-Friendly Destin Palms Resort in Destin Fl" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-54e1480a" id="palms-destin-resort">
 
@@ -349,7 +349,7 @@ The rooms are huge too, sleeping up to 10. Some rooms even have bunk beds, which
 </path></svg>Need wristbands to get into pool</div>
 </div></div>
 
-<figure id="palms-resort-kid-friendly-condos-in-destin">[![large family suites at Destin Palms Resort in Destin Fl](/images/destin-palms-rooms.jpg)](/go/palms-destin-resort-destin-fl)</figure>
+<figure id="palms-resort-kid-friendly-condos-in-destin"><a href="/go/palms-destin-resort-destin-fl"><img src="/images/destin-palms-rooms.jpg" alt="large family suites at Destin Palms Resort in Destin Fl" /></a></figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-cdd04a7b" id="uagb-adv-heading-6be5e94e-401b-47d5-ba84-0309fe95ce74">
 
@@ -384,5 +384,5 @@ Like it? Pin it!
 
 ✨ Click for my top picks + tips before you book!
 
-#DestinFlorida #FamilyTravel #FloridaVacation #BeachVacation #TravelWithKids #FamilyResorts #DestinWithKids #VacationPlanning #HotMamaTravel">[![Best family hotels in destin florida](/images/best-family-hotels-destin-florida-200x300.jpg)](/images/best-family-hotels-destin-florida.jpg)</figure>
+#DestinFlorida #FamilyTravel #FloridaVacation #BeachVacation #TravelWithKids #FamilyResorts #DestinWithKids #VacationPlanning #HotMamaTravel"><a href="/images/best-family-hotels-destin-florida.jpg"><img src="/images/best-family-hotels-destin-florida-200x300.jpg" alt="Best family hotels in destin florida" /></a></figure>
 </div></div>

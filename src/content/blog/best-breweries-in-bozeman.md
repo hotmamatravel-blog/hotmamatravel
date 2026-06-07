@@ -21,7 +21,7 @@ Step into the heart of Montana's craft beer culture as we embark on a frothy adv
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bozeman-brewing-company-best-breweries-bozeman"><figure>[![Bozeman Brewing Company in Bozeman MT](/images/bozeman-brewing-company-best-breweries-bozeman.jpg)](/images/bozeman-brewing-company-best-breweries-bozeman.jpg)<figcaption class="uagb-image-caption">Courtesy of Bozeman Brewing Comany</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bozeman-brewing-company-best-breweries-bozeman"><figure><a href="/images/bozeman-brewing-company-best-breweries-bozeman.jpg"><img src="/images/bozeman-brewing-company-best-breweries-bozeman.jpg" alt="Bozeman Brewing Company in Bozeman MT" /></a><figcaption class="uagb-image-caption">Courtesy of Bozeman Brewing Comany</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -46,7 +46,7 @@ The brewery comes alive with the sound of local talents, offering a stage for li
 
 **[See Photos, Reviews, &amp; More](/go/bozeman-brewing-company/)**
 
-<div class="wp-block-uagb-image uagb-block-213f2bfe wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="map-brewing-co-best-breweries-bozeman"><figure>[![MAP Brewing Co in Bozeman MT](/images/map-brewing-co-best-breweries-bozeman.jpg)](/images/map-brewing-co-best-breweries-bozeman.jpg)<figcaption class="uagb-image-caption">Courtesy of MAP Brewing Co.</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-213f2bfe wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="map-brewing-co-best-breweries-bozeman"><figure><a href="/images/map-brewing-co-best-breweries-bozeman.jpg"><img src="/images/map-brewing-co-best-breweries-bozeman.jpg" alt="MAP Brewing Co in Bozeman MT" /></a><figcaption class="uagb-image-caption">Courtesy of MAP Brewing Co.</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-a2383892">
 
@@ -69,7 +69,7 @@ MAP Brewing Co. transforms into an entertainment destination with live music ech
 
 **[See Photos, Reviews, &amp; More](/go/map-brewing-co-bozeman/)**
 
-<div class="wp-block-uagb-image uagb-block-9fc9bab1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bridger-brewing-best-breweries-bozeman"><figure>[![Bridger Brewing in Bozeman Montana](/images/bridger-brewing-best-breweries-bozeman.jpg)](/images/bridger-brewing-best-breweries-bozeman.jpg)<figcaption class="uagb-image-caption">Courtesy of Bridger Brewing</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-9fc9bab1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bridger-brewing-best-breweries-bozeman"><figure><a href="/images/bridger-brewing-best-breweries-bozeman.jpg"><img src="/images/bridger-brewing-best-breweries-bozeman.jpg" alt="Bridger Brewing in Bozeman Montana" /></a><figcaption class="uagb-image-caption">Courtesy of Bridger Brewing</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-c91660b4">
 
@@ -94,7 +94,7 @@ Locals adore Bridger Brewing not only for its outstanding beer and delectable fo
 
 **[See Photos, Reviews, &amp; More](/go/bridger-brewing-bozeman-montana/)**
 
-<div class="wp-block-uagb-image uagb-block-bf042415 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="mountains-walking-brewery-pub-best-breweries-bozeman"><figure>[![Mountains Walking Brewery &amp; Pub in Bozeman Montana](/images/mountains-walking-brewery-pub-best-breweries-bozeman.jpg)](/images/mountains-walking-brewery-pub-best-breweries-bozeman.jpg)<figcaption class="uagb-image-caption">Courtesy of Mountains Walking Brewery &amp; Pub</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-bf042415 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="mountains-walking-brewery-pub-best-breweries-bozeman"><figure><a href="/images/mountains-walking-brewery-pub-best-breweries-bozeman.jpg"><img src="/images/mountains-walking-brewery-pub-best-breweries-bozeman.jpg" alt="Mountains Walking Brewery &amp; Pub in Bozeman Montana" /></a><figcaption class="uagb-image-caption">Courtesy of Mountains Walking Brewery &amp; Pub</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-575b8b94">
 
@@ -115,7 +115,7 @@ What sets Mountains Walking apart is its commitment to community engagement. The
 
 **[See Photos, Reviews, &amp; More](/go/mountains-walking-brewery-pub-bozeman/)**
 
-<div class="wp-block-uagb-image uagb-block-86530724 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bunkhouse-brewing-best-breweries-bozeman"><figure>[![Bunkhouse Brewery in Bozeman Montana](/images/bunkhouse-brewing-best-breweries-bozeman.jpg)](/images/bunkhouse-brewing-best-breweries-bozeman.jpg)<figcaption class="uagb-image-caption">Courtesy of Bunkhouse Brewery</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-86530724 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bunkhouse-brewing-best-breweries-bozeman"><figure><a href="/images/bunkhouse-brewing-best-breweries-bozeman.jpg"><img src="/images/bunkhouse-brewing-best-breweries-bozeman.jpg" alt="Bunkhouse Brewery in Bozeman Montana" /></a><figcaption class="uagb-image-caption">Courtesy of Bunkhouse Brewery</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-0d263821">
 
@@ -142,7 +142,7 @@ Bunkhouse Brewing enriches the brewery experience with a calendar of events and 
 
 **[See Photos, Reviews, &amp; More](/go/bunkhouse-brewery-bozeman/)**
 
-<div class="wp-block-uagb-image uagb-block-0bf4bea5 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="outlaw-brewing-best-breweries-bozeman"><figure>[![Outlaw Brewing in Bozeman Montana](/images/outlaw-brewing-best-breweries-bozeman.jpg)](/images/outlaw-brewing-best-breweries-bozeman.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0bf4bea5 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="outlaw-brewing-best-breweries-bozeman"><figure><a href="/images/outlaw-brewing-best-breweries-bozeman.jpg"><img src="/images/outlaw-brewing-best-breweries-bozeman.jpg" alt="Outlaw Brewing in Bozeman Montana" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-cc042e09">
 
@@ -163,7 +163,7 @@ And let's not forget the culinary delights—Outlaw Brewing has a rotation of fo
 
 **[See Photos, Reviews, &amp; More](/go/outlaw-brewing-bozeman/)**
 
-<div class="wp-block-uagb-image uagb-block-4b96f371 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="shred-monk-brewing-best-breweries-bozeman"><figure>[![Shred Monk Brewing Bozeman](/images/shred-monk-brewing-best-breweries-bozeman.jpg)](/images/shred-monk-brewing-best-breweries-bozeman.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-4b96f371 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="shred-monk-brewing-best-breweries-bozeman"><figure><a href="/images/shred-monk-brewing-best-breweries-bozeman.jpg"><img src="/images/shred-monk-brewing-best-breweries-bozeman.jpg" alt="Shred Monk Brewing Bozeman" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-cc868a70">
 
@@ -196,5 +196,5 @@ Explore more [cool breweries in more cool cities](/americas-best-breweries/).
 
 Like it? Pin it!
 
-<figure id="best-breweries-in-bozeman-families-live-music-pets">[![](/images/best-breweries-in-bozeman-families-live-music-pets-200x300.jpg)](/images/best-breweries-in-bozeman-families-live-music-pets.jpg)</figure>
+<figure id="best-breweries-in-bozeman-families-live-music-pets"><a href="/images/best-breweries-in-bozeman-families-live-music-pets.jpg"><img src="/images/best-breweries-in-bozeman-families-live-music-pets-200x300.jpg" alt="" /></a></figure>
 </div></div>

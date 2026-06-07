@@ -27,7 +27,7 @@ This article will give you all the tips and insider advice to make the most out 
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-4297de9c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Knott](/images/Christmas-Craft-Village-Knotts-Merry-Farm-1.jpg)](/images/Christmas-Craft-Village-Knotts-Merry-Farm-1.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-4297de9c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Christmas-Craft-Village-Knotts-Merry-Farm-1.jpg"><img src="/images/Christmas-Craft-Village-Knotts-Merry-Farm-1.jpg" alt="Knott" /></a></figure></div>
 
 ### Christmas Craft Village
 
@@ -37,7 +37,7 @@ Picture this: you are strolling through Ghost Town at night, boysenberry coffee 
 
 The kids wander off to explore the old red schoolhouse and peek around the haunted graveyard, while the grown-ups soak in the small-town charm and shop for holiday treasures. It’s a cozy country Christmas straight out of a holiday movie.
 
-<div class="wp-block-uagb-image uagb-block-f17fe60c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Live Shows at Knott](/images/Live-Shows-Knotts-Merry-Farm.jpg)](/images/Live-Shows-Knotts-Merry-Farm.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-f17fe60c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Live-Shows-Knotts-Merry-Farm.jpg"><img src="/images/Live-Shows-Knotts-Merry-Farm.jpg" alt="Live Shows at Knott" /></a></figure></div>
 
 ### Live Shows
 
@@ -47,7 +47,7 @@ Our top pick every year is **Snoopy on Ice**, a high-energy show that somehow ma
 
 Wander through **Ghost Town**, and you’ll find **Victorian carolers** filling the air with timeless Christmas tunes. It feels like you’ve stepped straight into a Dickens novel… if Dickens had boysenberry coffee, that is.
 
-<figure>[![Christmas at knotts merry farm with kids guide and review](/images/knotts-merry-farm-christmas-with-kids.png)](/images/knotts-merry-farm-christmas-with-kids.png)</figure>
+<figure><a href="/images/knotts-merry-farm-christmas-with-kids.png"><img src="/images/knotts-merry-farm-christmas-with-kids.png" alt="Christmas at knotts merry farm with kids guide and review" /></a></figure>
 
 Over at the **Bird Cage Theatre**, you can catch two classic holiday plays: *A Christmas Carol* and *The Gift of the Magi.* These live performances bring a dose of nostalgia and heartfelt storytelling that always leave me teary-eyed (in a good way).
 
@@ -55,17 +55,17 @@ Head to the **Calico Mine Stage** for *Home for the Holidays,* a big, musical pr
 
 Kids will love the **Camp Snoopy Christmas show**, packed with giggles, dancing, and their favorite Peanuts pals spreading cheer. And when the night winds down, Ghost Town transforms once more for **Snow and Glow**, where snow actually falls, lights twinkle to the music, and you’re suddenly living in your very own Hallmark moment.
 
-<div class="wp-block-uagb-image uagb-block-6ceffa43 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Christmas Craft Village at Knott](/images/Christmas-Craft-Village-Knotts-Merry-Farm.jpg)](/images/Christmas-Craft-Village-Knotts-Merry-Farm.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-6ceffa43 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Christmas-Craft-Village-Knotts-Merry-Farm.jpg"><img src="/images/Christmas-Craft-Village-Knotts-Merry-Farm.jpg" alt="Christmas Craft Village at Knott" /></a></figure></div>
 
 Knott’s doesn’t just deck the halls it *brings them to life.* Every show, every note, every snowflake adds up to one unforgettable Merry Farm experience.
 
-<figure>[![Santas Christmas Cabin Knotts Merry Farm](/images/Santas-Cabin-Knotts-Merry-Farm.jpg)](/images/Santas-Cabin-Knotts-Merry-Farm.jpg)</figure>
+<figure><a href="/images/Santas-Cabin-Knotts-Merry-Farm.jpg"><img src="/images/Santas-Cabin-Knotts-Merry-Farm.jpg" alt="Santas Christmas Cabin Knotts Merry Farm" /></a></figure>
 
 ### Santa's Christmas Cabin
 
 During the holidays, the old Wilderness Dance Hall is transformed into Santa’s Christmas Cabin. It is fun for parents and kids because the little ones get to meet Santa, take a picture against a beautiful backdrop, and nibble on holiday treats, while the big kids sip craft beer, holiday cocktails, and winter wine. It is a really cozy setting with tons of fascinating Christmas décor to delight the senses.
 
-<div class="wp-block-uagb-image uagb-block-5e3e6e1d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Knotts Merry Farm Christmas Rides](/images/Christmas-Rides-Knotts-Merry-Farm.jpg)](/images/Christmas-Rides-Knotts-Merry-Farm.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-5e3e6e1d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Christmas-Rides-Knotts-Merry-Farm.jpg"><img src="/images/Christmas-Rides-Knotts-Merry-Farm.jpg" alt="Knotts Merry Farm Christmas Rides" /></a></figure></div>
 
 ### Merry Farm Rides
 
@@ -93,7 +93,7 @@ From the thrill rides to the kiddie rides, every inch of Knott’s feels *wrappe
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure>[![Mrs. Claus Kitchen Knott](/images/Mrs.-Claus-Kitchen-Knotts-Merry-Farm.jpg)](/images/Mrs.-Claus-Kitchen-Knotts-Merry-Farm.jpg)</figure>
+<figure><a href="/images/Mrs.-Claus-Kitchen-Knotts-Merry-Farm.jpg"><img src="/images/Mrs.-Claus-Kitchen-Knotts-Merry-Farm.jpg" alt="Mrs. Claus Kitchen Knott" /></a></figure>
 
 ### Mrs, Claus' Kitchen
 
@@ -101,7 +101,7 @@ If there’s one place that truly captures the spirit (and scent!) of Christmas 
 
 On select days, kids can roll up their sleeves and join Mrs. Claus herself to decorate their very own Christmas cookies. It’s pure holiday magic with frosting everywhere, giggles all around, and a very patient Mrs. Claus guiding little hands as they create edible masterpieces.
 
-<figure>[![Christmas treats Knott](/images/Holiday-Treats-Knotts-Merry-Farm.jpg)](/images/Holiday-Treats-Knotts-Merry-Farm.jpg)</figure>
+<figure><a href="/images/Holiday-Treats-Knotts-Merry-Farm.jpg"><img src="/images/Holiday-Treats-Knotts-Merry-Farm.jpg" alt="Christmas treats Knott" /></a></figure>
 
 ## Merry Farm Seasonal Dining Options
 
@@ -121,5 +121,5 @@ If you’re planning a trip to the area, make sure to explore more **[family-fri
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Your complete guide to Knott’s Merry Farm from festive shows and holiday treats to twinkling rides and family fun! Discover the best things to do at Knott’s Merry Farm with kids and make this Christmas one to remember. 🎅❤️ #KnottsMerryFarm #FamilyTravel #HotMamaTravel">[![Things to do at Knott](/images/Guide-to-Knotts-Merry-Farm-200x300.jpg)](/images/Guide-to-Knotts-Merry-Farm.jpg)</figure>
+<figure data-essb-pin-description="Your complete guide to Knott’s Merry Farm from festive shows and holiday treats to twinkling rides and family fun! Discover the best things to do at Knott’s Merry Farm with kids and make this Christmas one to remember. 🎅❤️ #KnottsMerryFarm #FamilyTravel #HotMamaTravel"><a href="/images/Guide-to-Knotts-Merry-Farm.jpg"><img src="/images/Guide-to-Knotts-Merry-Farm-200x300.jpg" alt="Things to do at Knott" /></a></figure>
 </div></div>

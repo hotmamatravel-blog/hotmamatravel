@@ -15,7 +15,7 @@ author: "Amanda Keeley-Thurman"
 
 The picturesque region of New York's Finger Lakes, not only boasts stunning views but also a brew scene that's as diverse as it is delicious. So, grab your tasting glass and get ready to hop from one ale adventure to the next, exploring the best breweries on Seneca Lake. Get ready for a sip of fun, a dash of flavor, and a whole lot of good times – because the brews here are as vibrant as the scenery that surrounds them!
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="scale-house-brewery-best-breweries-seneca-lake"><figure>[![Family Friendly Live Musica at Scale House Brewery Seneca Lake](/images/scale-house-brewery-best-breweries-seneca-lake.jpg)](/images/scale-house-brewery-best-breweries-seneca-lake.jpg)<figcaption class="uagb-image-caption">Courtesy of Scale House Brewery</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="scale-house-brewery-best-breweries-seneca-lake"><figure><a href="/images/scale-house-brewery-best-breweries-seneca-lake.jpg"><img src="/images/scale-house-brewery-best-breweries-seneca-lake.jpg" alt="Family Friendly Live Musica at Scale House Brewery Seneca Lake" /></a><figcaption class="uagb-image-caption">Courtesy of Scale House Brewery</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -34,7 +34,7 @@ For those looking to hangout with beer drinker in your life, Scale House also of
 
 **[See Photos, Reviews, &amp; More](/go/scale-house-brewery-seneca-lake/)**
 
-<div class="wp-block-uagb-image uagb-block-baba5106 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="two-goats-brewing-best-breweries-seneca-lake"><figure>[![Family-friendly Two Goats Brewing Seneca Lake](/images/two-goats-brewing-best-breweries-seneca-lake.jpg)](/images/two-goats-brewing-best-breweries-seneca-lake.jpg)<figcaption class="uagb-image-caption">Courtesy of Two Goats Brewing</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-baba5106 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="two-goats-brewing-best-breweries-seneca-lake"><figure><a href="/images/two-goats-brewing-best-breweries-seneca-lake.jpg"><img src="/images/two-goats-brewing-best-breweries-seneca-lake.jpg" alt="Family-friendly Two Goats Brewing Seneca Lake" /></a><figcaption class="uagb-image-caption">Courtesy of Two Goats Brewing</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-41c054fe">
 
@@ -57,7 +57,7 @@ Bring the kids, bring the dog and enjoy a wonderful time by the lake. Stop by on
 
 **[See Photos, Reviews, &amp; More](/go/two-goats-brewing-seneca-lake/)**
 
-<div class="wp-block-uagb-image uagb-block-d36439e2 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="grist-iron-brewing-company-best-breweries-seneca-lake"><figure>[![Live music and great beer at Grist Iron Brewing Company Seneca Lake](/images/grist-iron-brewing-company-best-breweries-seneca-lake.jpg)](/images/grist-iron-brewing-company-best-breweries-seneca-lake.jpg)<figcaption class="uagb-image-caption">Courtesy of Grist Iron Brewing Company</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-d36439e2 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="grist-iron-brewing-company-best-breweries-seneca-lake"><figure><a href="/images/grist-iron-brewing-company-best-breweries-seneca-lake.jpg"><img src="/images/grist-iron-brewing-company-best-breweries-seneca-lake.jpg" alt="Live music and great beer at Grist Iron Brewing Company Seneca Lake" /></a><figcaption class="uagb-image-caption">Courtesy of Grist Iron Brewing Company</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-868db927">
 
@@ -80,7 +80,7 @@ However, what makes this brewery truly unique is The Lodge at Grist Iron – a r
 
 **[See Photos, Reviews, &amp; More](/go/grist-iron-brewing-seneca-lake/)**
 
-<div class="wp-block-uagb-image uagb-block-21ddd76c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="climbing-bines-best-breweries-seneca-lake"><figure>[![Farm fresh brews at Climbing Bines Hop Farm](/images/climbing-bines-best-breweries-seneca-lake.jpg)](/images/climbing-bines-best-breweries-seneca-lake.jpg)<figcaption class="uagb-image-caption">Courtesy of Climbing Bines Hop Farm &amp; Brewery</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-21ddd76c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="climbing-bines-best-breweries-seneca-lake"><figure><a href="/images/climbing-bines-best-breweries-seneca-lake.jpg"><img src="/images/climbing-bines-best-breweries-seneca-lake.jpg" alt="Farm fresh brews at Climbing Bines Hop Farm" /></a><figcaption class="uagb-image-caption">Courtesy of Climbing Bines Hop Farm &amp; Brewery</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-2c70e20c">
 
@@ -99,7 +99,7 @@ Looking for a good time with friends and family? Enjoy an afternoon of great bee
 
 **[See Photos, Reviews, &amp; More](/go/climbing-bines-hop-farm-seneca-lake/)**
 
-<div class="wp-block-uagb-image uagb-block-dc5dea00 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="lake-drum-brewing-best-breweries-seneca-lake"><figure>[![Small Batch Beers and Ciders at Lake Drum Brewing](/images/lake-drum-brewing-best-breweries-seneca-lake.jpg)](/images/lake-drum-brewing-best-breweries-seneca-lake.jpg)<figcaption class="uagb-image-caption">Courtesy of Lake Drum Brewing</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-dc5dea00 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="lake-drum-brewing-best-breweries-seneca-lake"><figure><a href="/images/lake-drum-brewing-best-breweries-seneca-lake.jpg"><img src="/images/lake-drum-brewing-best-breweries-seneca-lake.jpg" alt="Small Batch Beers and Ciders at Lake Drum Brewing" /></a><figcaption class="uagb-image-caption">Courtesy of Lake Drum Brewing</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-7cb259ea">
 
@@ -120,7 +120,7 @@ You are allowed to bring in outside food, but if you want to try something speci
 
 **[See Photos, Reviews, &amp; More](/go/lake-drum-brewing-seneca-lake/)**
 
-<div class="wp-block-uagb-image uagb-block-80c5838a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="lucky-hare-brewing-best-breweries-seneca-lake"><figure>[![Family-friendly Lucky Hare Brewing Seneca Lake](/images/lucky-hare-brewing-best-breweries-seneca-lake.jpg)](/images/lucky-hare-brewing-best-breweries-seneca-lake.jpg)<figcaption class="uagb-image-caption">Courtesy of Lucky Hare Brewing Company</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-80c5838a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="lucky-hare-brewing-best-breweries-seneca-lake"><figure><a href="/images/lucky-hare-brewing-best-breweries-seneca-lake.jpg"><img src="/images/lucky-hare-brewing-best-breweries-seneca-lake.jpg" alt="Family-friendly Lucky Hare Brewing Seneca Lake" /></a><figcaption class="uagb-image-caption">Courtesy of Lucky Hare Brewing Company</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-c039701a">
 
@@ -141,7 +141,7 @@ For more brewery fun, feel free to bring the family and doggies for some live mu
 
 **[See Photos, Reviews, &amp; More](/go/lucky-hare-brewing-company-seneca-lake/)**
 
-<div class="wp-block-uagb-image uagb-block-e5694498 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="seneca-stag-brewing-best-breweries-seneca-lake"><figure>[![dog and family friendly Seneca Stag Brewing ](/images/seneca-stag-brewing-best-breweries-seneca-lake.jpg)](/images/seneca-stag-brewing-best-breweries-seneca-lake.jpg)<figcaption class="uagb-image-caption">Courtesy of Seneca Stag Brewing</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-e5694498 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="seneca-stag-brewing-best-breweries-seneca-lake"><figure><a href="/images/seneca-stag-brewing-best-breweries-seneca-lake.jpg"><img src="/images/seneca-stag-brewing-best-breweries-seneca-lake.jpg" alt="dog and family friendly Seneca Stag Brewing " /></a><figcaption class="uagb-image-caption">Courtesy of Seneca Stag Brewing</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-d1063736">
 
@@ -160,7 +160,7 @@ They offer a fun selection of menu items that you can order at the bar, includin
 
 **[See Photos, Reviews, &amp; More](/go/seneca-stag-brewing/)**
 
-<div class="wp-block-uagb-image uagb-block-df51c48d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="webe-brewing-best-breweries-seneca-lake"><figure>[![Award winning craft brews at WeBe Brewing Company](/images/webe-brewing-best-breweries-seneca-lake.jpg)](/images/webe-brewing-best-breweries-seneca-lake.jpg)<figcaption class="uagb-image-caption">Courtesy of WeBe Brewing Company</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-df51c48d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="webe-brewing-best-breweries-seneca-lake"><figure><a href="/images/webe-brewing-best-breweries-seneca-lake.jpg"><img src="/images/webe-brewing-best-breweries-seneca-lake.jpg" alt="Award winning craft brews at WeBe Brewing Company" /></a><figcaption class="uagb-image-caption">Courtesy of WeBe Brewing Company</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-1d911d90">
 
@@ -183,7 +183,7 @@ For more fun catch some live music or stop by during an exciting event. If you g
 
 **[See Photos, Reviews, &amp; More](/go/webe-brewing-seneca-lake/)**
 
-<div class="wp-block-uagb-image uagb-block-f0c1af03 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="fleur-de-lis-best-breweries-seneca-lake"><figure>[![French-style family-friendly brewery at Fleur De Lis Brew Works in Seneca Lake](/images/fleur-de-lis-best-breweries-seneca-lake.jpg)](/images/fleur-de-lis-best-breweries-seneca-lake.jpg)<figcaption class="uagb-image-caption">Courtesy of Fleur De Lis Brew Works</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-f0c1af03 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="fleur-de-lis-best-breweries-seneca-lake"><figure><a href="/images/fleur-de-lis-best-breweries-seneca-lake.jpg"><img src="/images/fleur-de-lis-best-breweries-seneca-lake.jpg" alt="French-style family-friendly brewery at Fleur De Lis Brew Works in Seneca Lake" /></a><figcaption class="uagb-image-caption">Courtesy of Fleur De Lis Brew Works</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-56a8ef95">
 
@@ -208,7 +208,7 @@ Located on hundreds of acres of farmland and forest, Their brewery and taproom a
 
 **[See Photos, Reviews, &amp; More](/go/fleur-de-lis-brew-works-seneca-lake/)**
 
-<div class="wp-block-uagb-image uagb-block-c7c33f74 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Abandon-brewing-best-breweries-seneca-lake"><figure>[![Family-friendly Abandon Brewing Company](/images/Abandon-brewing-best-breweries-seneca-lake.jpg)](/images/Abandon-brewing-best-breweries-seneca-lake.jpg)<figcaption class="uagb-image-caption">Courtesy of Abandon Brewing Company</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-c7c33f74 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Abandon-brewing-best-breweries-seneca-lake"><figure><a href="/images/Abandon-brewing-best-breweries-seneca-lake.jpg"><img src="/images/Abandon-brewing-best-breweries-seneca-lake.jpg" alt="Family-friendly Abandon Brewing Company" /></a><figcaption class="uagb-image-caption">Courtesy of Abandon Brewing Company</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-1a911891">
 
@@ -231,7 +231,7 @@ Whether you find yourself in the cozy taproom, placing an order in the kitchen, 
 
 **[See Photos, Reviews, &amp; More](/go/abandon-brewing-co-seneca-lake/)**
 
-<div class="wp-block-uagb-image uagb-block-d064b69d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="fall-street-brewing-best-breweries-seneca-lake"><figure>[![Fall Street Breweing Restaurant and brewery in Seneca NY](/images/fall-street-brewing-best-breweries-seneca-lake.jpg)](/images/fall-street-brewing-best-breweries-seneca-lake.jpg)<figcaption class="uagb-image-caption">Courtesy of Fall Street Brewing Co</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-d064b69d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="fall-street-brewing-best-breweries-seneca-lake"><figure><a href="/images/fall-street-brewing-best-breweries-seneca-lake.jpg"><img src="/images/fall-street-brewing-best-breweries-seneca-lake.jpg" alt="Fall Street Breweing Restaurant and brewery in Seneca NY" /></a><figcaption class="uagb-image-caption">Courtesy of Fall Street Brewing Co</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-399c84e5">
 
@@ -256,5 +256,5 @@ Check out [more awesome breweries in more awesome places](/americas-best-breweri
 
 Like it? Pin it!
 
-<figure id="best-breweries-on-seneca-lake-families-live-music-pets">[![](/images/best-breweries-on-seneca-lake-families-live-music-pets-200x300.jpg)](/images/best-breweries-on-seneca-lake-families-live-music-pets.jpg)</figure>
+<figure id="best-breweries-on-seneca-lake-families-live-music-pets"><a href="/images/best-breweries-on-seneca-lake-families-live-music-pets.jpg"><img src="/images/best-breweries-on-seneca-lake-families-live-music-pets-200x300.jpg" alt="" /></a></figure>
 </div></div>

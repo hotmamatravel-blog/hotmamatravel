@@ -29,7 +29,7 @@ At **HotMamaTravel**, we specialize in *family travel with a twist* and [preppin
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure>[![Eastern State Penitentiary ](/images/eastern-state-penitentiary-.jpg)](/images/eastern-state-penitentiary-.jpg)</figure>
+<figure><a href="/images/eastern-state-penitentiary-.jpg"><img src="/images/eastern-state-penitentiary-.jpg" alt="Eastern State Penitentiary " /></a></figure>
 
 ### [Eastern State Penitentiary](/go/eastern-state-penitentiary/)
 
@@ -53,7 +53,7 @@ Hearing these first-hand stories of prisoners while standing inside the ruined c
 
 *Hot Tip: A great time to visit is during Halloween, as they host one of the most popular Halloween events in the country, called “Terror behind the walls”. Learn more on their official website [**HERE**](http://www.easternstate.org/halloween/).*
 
-<figure>[![Eastern State Penitentiary with kids](/images/Eastern-State-Penitentiary-with-kids.jpg)](/images/Eastern-State-Penitentiary-with-kids.jpg)</figure>
+<figure><a href="/images/Eastern-State-Penitentiary-with-kids.jpg"><img src="/images/Eastern-State-Penitentiary-with-kids.jpg" alt="Eastern State Penitentiary with kids" /></a></figure>
 
 #### **Why Kids Will Love It**
 
@@ -75,7 +75,7 @@ Tours are available all year-round, seven days a week. Tickets can be purchased 
 
 **[See More Photos, Reviews, &amp; More](/go/eastern-state-penitentiary/)**
 
-<figure>[![Alcatraz San Francisco](/images/cellhouse-empty-alcatraz-island-1.jpg)](/images/cellhouse-empty-alcatraz-island-1.jpg)</figure>
+<figure><a href="/images/cellhouse-empty-alcatraz-island-1.jpg"><img src="/images/cellhouse-empty-alcatraz-island-1.jpg" alt="Alcatraz San Francisco" /></a></figure>
 
 ### [Alcatraz Prison](/go/alcatraz-island-san-francisco/)
 
@@ -101,7 +101,7 @@ And here’s the cool part: your visit isn’t limited to the prison itself. You
 
 If you’re planning to visit Alcatraz with kids (and yes, it’s totally doable and surprisingly fun for them too), check out my full **[Alcatraz guide](/is-alcatraz-worth-visiting/)** for insider tips, what to expect, and how to make the most of this legendary haunted landmark.
 
-<figure>[![Alcatraz Prison with kids](/images/alcatraz-prison-with-kids.jpg)](/images/alcatraz-prison-with-kids.jpg)</figure>
+<figure><a href="/images/alcatraz-prison-with-kids.jpg"><img src="/images/alcatraz-prison-with-kids.jpg" alt="Alcatraz Prison with kids" /></a></figure>
 
 #### **Why Kids Will Love It**
 
@@ -131,7 +131,7 @@ There are adult, junior, senior, and child pricing for tours. Kids 4 and under a
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure>[![Bird Cage Theatre Tombstone AZ](/images/bird-cage-theatre-tombstone.jpg)](/images/bird-cage-theatre-tombstone.jpg)</figure>
+<figure><a href="/images/bird-cage-theatre-tombstone.jpg"><img src="/images/bird-cage-theatre-tombstone.jpg" alt="Bird Cage Theatre Tombstone AZ" /></a></figure>
 
 ### [Bird Cage Theatre](/go/bird-cage-theater-tombstone-az/)
 
@@ -155,7 +155,7 @@ Kids who love a bit of mystery and spookiness will get a kick out of it. You can
 
 Before you leave, check out the gift shop, which is full of Tombstone souvenirs and fun Wild West trinkets to remember your adventure. It’s a quick visit, but packed with character, just like the rowdy history it preserves.
 
-<figure>[![Bird Cage Theatre with Kids ](/images/bird-cage-theatre-with-kids.jpg)](/images/bird-cage-theatre-with-kids.jpg)</figure>
+<figure><a href="/images/bird-cage-theatre-with-kids.jpg"><img src="/images/bird-cage-theatre-with-kids.jpg" alt="Bird Cage Theatre with Kids " /></a></figure>
 
 #### **Why Kids Will Love It**
 
@@ -177,7 +177,7 @@ Self-guided tours are available daily. Kids under 8 are free and there are famil
 
 [**See Reviews, Photos, &amp; More**](/go/bird-cage-theater-tombstone-az/)
 
-<figure>[![Haunted Whaley House San Diego](/images/whaley-house-san-diego.jpg)](/images/whaley-house-san-diego.jpg)</figure>
+<figure><a href="/images/whaley-house-san-diego.jpg"><img src="/images/whaley-house-san-diego.jpg" alt="Haunted Whaley House San Diego" /></a></figure>
 
 ### [Whaley House](/go/whaley-house-museum-san-diego-ca/)
 
@@ -199,7 +199,7 @@ If you plan a visit, do yourself a favor and book a room at the [**Best Western 
 
 Old Town San Diego has numerous authentic Mexican cantinas with mariachi bands and fresh tortillas, festive shopping areas for candy and Mexican-style souvenirs, historic graveyards and buildings, and a beautiful park where the kids enjoy running around being kids.
 
-<figure>[![Whaley House With kids](/images/whaley-house-san-diego-with-kids.jpg)](/images/whaley-house-san-diego-with-kids.jpg)</figure>
+<figure><a href="/images/whaley-house-san-diego-with-kids.jpg"><img src="/images/whaley-house-san-diego-with-kids.jpg" alt="Whaley House With kids" /></a></figure>
 
 #### **Why Kids Will Love It**
 
@@ -223,7 +223,7 @@ There are daytime and nighttime tours of the Whaley House. From 10 am to 4:30 pm
 
 [**See Reviews, Photos, &amp; More**](/go/whaley-house-museum-san-diego-ca/)
 
-<figure>[![Haunted Pirates House Savannah GA](/images/Pirates-House-Savannah.jpg)](/images/Pirates-House-Savannah.jpg)</figure>
+<figure><a href="/images/Pirates-House-Savannah.jpg"><img src="/images/Pirates-House-Savannah.jpg" alt="Haunted Pirates House Savannah GA" /></a></figure>
 
 ### [Pirates' House](/best-haunted-places-with-kids/)
 
@@ -249,7 +249,7 @@ The food was excellent and included a buffet of delicious fried chicken, biscuit
 
 Since we were a party of 6, it was basically a private tour, and we just tipped generously at the end of the 30-minute tour. We learned all about the tunnel, the Herb House, the rum cellar, the book Treasure Island, and other interesting historical tidbits that make this restaurant truly unique and worth a visit with kids.
 
-<figure>![Pirates House With Kids](/images/Pirates-House-with-kids.jpg)</figure>
+<figure><img src="/images/Pirates-House-with-kids.jpg" alt="Pirates House With Kids" /></figure>
 
 **Why kids will love it: **
 
@@ -279,7 +279,7 @@ There are also companies that provide a variety of ghost tours of Savannah, whic
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure>[![Fight to save the Queen Mary in Long Beach Ca](/images/Queen-Mary-2.jpg)](/images/Queen-Mary-2.jpg)</figure>
+<figure><a href="/images/Queen-Mary-2.jpg"><img src="/images/Queen-Mary-2.jpg" alt="Fight to save the Queen Mary in Long Beach Ca" /></a></figure>
 
 ### [Queen Mary](/go/queen-mary-long-beach/)
 
@@ -305,7 +305,7 @@ Oh, and they have an epic Sunday Brunch in the elegant Grand Salon that **[Conde
 
 For example, in February, they host a raucous celebration of Scottish culture at the Annual [**Scots Festival**](/the-queen-mary-scots-festival-with-kids/), and in October, they host a Halloween event called Dark Harbor that has haunted houses, live music, dancing, and a whole lot of spooks.
 
-<figure>[![Queen Mary With Kids](/images/Queen-Mary-with-kids.jpg)](/images/Queen-Mary-with-kids.jpg)</figure>
+<figure><a href="/images/Queen-Mary-with-kids.jpg"><img src="/images/Queen-Mary-with-kids.jpg" alt="Queen Mary With Kids" /></a></figure>
 
 #### **Why Kids Will Love It **
 
@@ -329,7 +329,7 @@ To board the Queen Mary, you have to have a tour ticket or a room key. There are
 
 <blockquote></blockquote>
 
-<figure>[![Windsor Hotel Americus Ga](/images/Windsor-Hotel-Americus-GA.jpg)](/images/Windsor-Hotel-Americus-GA.jpg)</figure>
+<figure><a href="/images/Windsor-Hotel-Americus-GA.jpg"><img src="/images/Windsor-Hotel-Americus-GA.jpg" alt="Windsor Hotel Americus Ga" /></a></figure>
 
 ### [Windsor Hotel](/go/windsor-hotel-americus-georgia/)
 
@@ -377,5 +377,5 @@ So if theme parks and beach resorts have started to feel a little *been there, d
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Looking for haunted places with kids that mix history, mystery, and a little mayhem? These spooky family adventures are unforgettable, ghosts included! #familytravel #hauntedplaces #spookytravel">[![Best haunted places to visit with kids](/images/best-haunted-places-with-kids-200x300.jpg)](/images/best-haunted-places-with-kids.jpg)</figure>
+<figure data-essb-pin-description="Looking for haunted places with kids that mix history, mystery, and a little mayhem? These spooky family adventures are unforgettable, ghosts included! #familytravel #hauntedplaces #spookytravel"><a href="/images/best-haunted-places-with-kids.jpg"><img src="/images/best-haunted-places-with-kids-200x300.jpg" alt="Best haunted places to visit with kids" /></a></figure>
 </div></div>

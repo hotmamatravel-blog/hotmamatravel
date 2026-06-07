@@ -30,7 +30,7 @@ And since some places are just better to visit than others during a particular s
 
 </div>
 
-<figure>![San Diego Coastline train](/images/san-diego-california.jpg)<figcaption>Did you know you can take the Surfliner from downtown San Diego along the gorgeous coast through Orange County and up to San Luis Obispo!?</figcaption></figure>
+<figure><img src="/images/san-diego-california.jpg" alt="San Diego Coastline train" /><figcaption>Did you know you can take the Surfliner from downtown San Diego along the gorgeous coast through Orange County and up to San Luis Obispo!?</figcaption></figure>
 
 ### San Diego, CA
 
@@ -38,7 +38,7 @@ San Diego is the birthplace of California, and as SoCal natives, it is one of ou
 
 No, you won't be able to do water sports or play at the beach in the heart of winter, but trust me there is plenty to see and do in San Diego.
 
-<figure>![Old Town San Diego Guide with Kids](/images/Old-town-san-diego-with-kids.png)<figcaption>The Whaley House in Old Town San Diego is a haunted historical landmark my kids love visiting</figcaption></figure>
+<figure><img src="/images/Old-town-san-diego-with-kids.png" alt="Old Town San Diego Guide with Kids" /><figcaption>The Whaley House in Old Town San Diego is a haunted historical landmark my kids love visiting</figcaption></figure>
 
 One of our favorite places (like, on Earth) is [Old Town San Diego](/old-town-san-diego-with-kids/). It is such a colorful and lively place full of music, history, friendly people, authentic Mexican food restaurants, a village of Victorian homes to explore (seriously!), and great views of Mission Bay. It is also home to the historic (and reportedly haunted) Whaley House, which is one of our [top five family-friendly haunted sites to visit](/best-haunted-places-with-kids/).
 
@@ -53,13 +53,13 @@ One of our favorite places (like, on Earth) is [Old Town San Diego](/old-town-sa
 
 I promise you will fall in love with San Diego any time of the year, but especially during Winter because you just won't believe how perfect the weather is, and how lively and friendly the city is to boot.
 
-<figure>![Downtown Scottsdale Arizona](/images/scottsdale-arizona.jpg)</figure>
+<figure><img src="/images/scottsdale-arizona.jpg" alt="Downtown Scottsdale Arizona" /></figure>
 
 ### Scottsdale, AZ
 
 Scottsdale is a quaint city in Arizona near the capital of Phoenix with a bustling old town district and gorgeous desert vistas. It is also a great jumping off point for exploring other parts of Arizona like nearby Tucson and Tombstone. The weather can be pretty great in the winter months, with daytime highs in the 60-70 range. Because it is a dry desert climate, nighttime does tend to bring frigid temperatures in the 30's to low 50's, but there should be very little keeping you from enjoying the outdoors during the day.
 
-<figure>![Kids in Rusty Spur Saloon in Scottsdale AZ](/images/rusty-spur-saloon-scottsdale-az-with-kids.jpg)<figcaption>We listened to live country music at the Rusty Spur Saloon with our kids for hours one afternoon. It was good times!</figcaption></figure>
+<figure><img src="/images/rusty-spur-saloon-scottsdale-az-with-kids.jpg" alt="Kids in Rusty Spur Saloon in Scottsdale AZ" /><figcaption>We listened to live country music at the Rusty Spur Saloon with our kids for hours one afternoon. It was good times!</figcaption></figure>
 
 One of our favorite hangouts in Scottsdale is the Rusty Spur Saloon, which is a cozy, authentic cowboy saloon that is unique because it has live music 7 days a week from around noon until after midnight. We found it to be a very kid-friendly music venue (with great food) during the early afternoon, but I imagine it can get pretty rowdy at night being a cowboy saloon and all!
 
@@ -78,13 +78,13 @@ One of our favorite hangouts in Scottsdale is the Rusty Spur Saloon, which is a 
 
 </div>
 
-<figure>![Ultimate Guide to Visit St Pete beach FL with Kids](/images/travel-guide-st-pete-beach-with-kids-florida.png)</figure>
+<figure><img src="/images/travel-guide-st-pete-beach-with-kids-florida.png" alt="Ultimate Guide to Visit St Pete beach FL with Kids" /></figure>
 
 ### St Pete Beach, FL
 
 St. Pete Beach is known as the sunset capital, located on a barrier island off the mainland of St. Petersburg. With warm average highs ranging from 88-76 and lows hovering around low 70's to mid 60's, spring time is the perfect time of year to visit. There isn't even much rain this time of year with only 3 or 4 day of rain fall a month. This is probably the most popular time to visit St. Pete Beach, but it is for good reason and you'll be able to find so many exciting things to do. Of course hanging out and enjoying the white sugar sand beaches and warm clear water is enough for us.
 
-<figure>![Hotel Review Tradewinds Island Grande St Pete Beach FL](/images/tradewinds-st-pete-beach-review-guide-with-kids.png)<figcaption>This is the beach-side water slide at Tradewinds Island Grand that my kids LOVE!</figcaption></figure>
+<figure><img src="/images/tradewinds-st-pete-beach-review-guide-with-kids.png" alt="Hotel Review Tradewinds Island Grande St Pete Beach FL" /><figcaption>This is the beach-side water slide at Tradewinds Island Grand that my kids LOVE!</figcaption></figure>
 
 Our of our favorite places in St. Pete Beach is staying at the Tradewinds Island Grand, a 20-acre beach front resort with five pools, several restaurants and a ton of family activities. The kids spend the day going down the 3-story high inflatable slide, swimming in the sea, splashing in the pool and making crafts at the KONK Club. At night we enjoy delicious meals, beautiful sunsets, bonfires on the beach and live music. It a true vacation in every sense of the word.
 
@@ -95,13 +95,13 @@ Our of our favorite places in St. Pete Beach is staying at the Tradewinds Island
 - Explore Treasure Island, 4 miles of gulf beachfront and the Sand Sculpture Capital.
 - Play at Fort De Soto Park, where kids can explore lagoons and sandbars created by tidal variations on this beautiful stretch of sands.
 
-<figure>![Kids having fun in Nashville at Night](/images/wildhorse-saloon-nashville-tn-night-kids.jpg)</figure>
+<figure><img src="/images/wildhorse-saloon-nashville-tn-night-kids.jpg" alt="Kids having fun in Nashville at Night" /></figure>
 
 ### Nashville, TN
 
 It is always a good time to visit Music City, but spring yields mild temperatures in Nashville ranging from highs of 62 in March to 79 in May with lows from 40 to 57 degrees. In a city that can be pretty darn humid in the summer, spring is a refreshing option for family travel. Home of the County Music Hall of fame, [family-friendly Nashville live music venues](/kid-friendly-restaurants-nashville/) and honky tonks are in no short of supply. It is great place to put your boots on and kick up a good time.
 
-<figure>![Kids dance to live music in Nashville](/images/bb-kings-nashville-kid-friendly-live-music.jpg)<figcaption>Kids dancing to live music at BB Kings in Nashville, TN</figcaption></figure>
+<figure><img src="/images/bb-kings-nashville-kid-friendly-live-music.jpg" alt="Kids dance to live music in Nashville" /><figcaption>Kids dancing to live music at BB Kings in Nashville, TN</figcaption></figure>
 
 We are slightly obsessed with live music and a dance floor, so when we come to Nashville we are all about the nightlife, even with our kids. Luckily for us, Nashville has plenty of places that you can honky tonk with your kids and that is exactly what we like to do!
 
@@ -137,13 +137,13 @@ I grew up hearing stories from my dad's childhood summers at the Jersey shore go
 - Quench your thirst at one of the many local breweries like Mud Hen and 7 Mile Brewery
 - Explore the land with bike rentals as you ride along the 5 mile island and National Wildlife Refuge.
 
-<figure>![City National Grove of Anaheim](/images/things-to-do-anaheim-with-kids.jpg)</figure>
+<figure><img src="/images/things-to-do-anaheim-with-kids.jpg" alt="City National Grove of Anaheim" /></figure>
 
 ### Anaheim, CA
 
 Ah, no place better in the summer than my hometown of Anaheim. Not only is Anaheim home to many popular family attractions like the world famous Disneyland, but it also has perfect weather in the summer for a family vacation. Anaheim literally gets zero rain in the summer and temperatures range from the high 80's to low 70's. Whether you are into theme parks, beach time or lively shopping districts, Anaheim has what you are looking for in an exciting family summer getaway.
 
-<figure>![Disneyland with Kids Ultimate Guide](/images/Disneyland-with-kids-visitors-guide.png)<figcaption>Summer at Disneyland is pretty crowded, but then again, it is crowded pretty much all year round.</figcaption></figure>
+<figure><img src="/images/Disneyland-with-kids-visitors-guide.png" alt="Disneyland with Kids Ultimate Guide" /><figcaption>Summer at Disneyland is pretty crowded, but then again, it is crowded pretty much all year round.</figcaption></figure>
 
 Since we live in Anaheim we enjoy just about everything this awesome city has to offer, including regularly visiting Disneyland, one of our favorite summertime activities is catching an good old fashioned baseball game at Angel's Stadium. On summer nights they often have an awesome firework display fitting for a grand finale to any game. Nothing screams American summer like a cold beer, peanuts, sunshine and baseball.
 
@@ -164,13 +164,13 @@ Since we live in Anaheim we enjoy just about everything this awesome city has to
 
 </div>
 
-<figure>![Downtown Boston](/images/boston-ma.jpg)</figure>
+<figure><img src="/images/boston-ma.jpg" alt="Downtown Boston" /></figure>
 
 ### Boston, MA
 
 If you want the glory of fall foliage then Boston is the place to visit this fall. Temperatures hover around the 70's and 60's in the September, but drop to the 50's as you approach November. Early fall is the best time to catch all those magnificent colors from the turning of the leaves before winter comes. In addition, Boston is an amazing city loaded with great restaurants and American history.
 
-<figure>![List of Best Family Hotels Boston Downtown](/images/Best-kid-friendly-hotels-boston-downtown-families.jpg)</figure>
+<figure><img src="/images/Best-kid-friendly-hotels-boston-downtown-families.jpg" alt="List of Best Family Hotels Boston Downtown" /></figure>
 
 I am huge on history and I suggest taking the free walk along the Freedom Trail. This a 2.5 mile walk through downtown that takes you all 16 important locations in American history. You take as long you want, making the stops that interest you most. Take your time and enjoy frequent beer and grub breaks at the many historic pubs along the way.
 
@@ -183,7 +183,7 @@ I am huge on history and I suggest taking the free walk along the Freedom Trail.
 
 **Read our custom list of the [Top Family Hotels in Boston](/best-family-hotels-boston/)**
 
-<figure>![Santa Fe New Mexico](/images/santa-fe-new-mexico.jpg)</figure>
+<figure><img src="/images/santa-fe-new-mexico.jpg" alt="Santa Fe New Mexico" /></figure>
 
 ### Santa Fe, NM
 
@@ -218,5 +218,5 @@ There you have it! These are 8 amazing places you should consider visiting with 
 
 **Like it? Pin it!**
 
-<div class="wp-block-image"><figure class="alignleft size-medium">![Family-Friendly US cities to visit this year](/images/8-family-friendly-us-cities-2020-200x300.jpg)</figure></div>
+<div class="wp-block-image"><figure class="alignleft size-medium"><img src="/images/8-family-friendly-us-cities-2020-200x300.jpg" alt="Family-Friendly US cities to visit this year" /></figure></div>
 </div></section>

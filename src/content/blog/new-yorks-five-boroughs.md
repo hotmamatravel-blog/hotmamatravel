@@ -14,7 +14,7 @@ author: "Amanda Keeley-Thurman"
 When it comes to [US](/united-states/) cities that are rich in diversity, history, culture, and never-ending excitement, New York City indisputably tops the list. This bustling metropolis is a collage of five unique boroughs, each with its own distinct personality. From the glitz of Manhattan to the quiet charm of Staten Island, there's an endless array of experiences waiting for you. Let's embark on a journey through these vibrant boroughs and discover what each one has to offer.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2e08fc77"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="manhattan-new-york-five-boroughs">[![](/images/manhattan-new-york-five-boroughs.jpg)](/images/manhattan-new-york-five-boroughs.jpg)</figure>
+<figure id="manhattan-new-york-five-boroughs"><a href="/images/manhattan-new-york-five-boroughs.jpg"><img src="/images/manhattan-new-york-five-boroughs.jpg" alt="" /></a></figure>
 
 #### [Manhattan: The Epitome of Elegance and Excitement](/go/things-to-do-manhattan/)
 
@@ -25,7 +25,7 @@ Manhattan is synonymous with luxury and grandeur. This borough is home to famous
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-64fb5f25"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="brooklyn-new-york-five-boroughs">[![](/images/brooklyn-new-york-five-boroughs.jpg)](/images/brooklyn-new-york-five-boroughs.jpg)</figure>
+<figure id="brooklyn-new-york-five-boroughs"><a href="/images/brooklyn-new-york-five-boroughs.jpg"><img src="/images/brooklyn-new-york-five-boroughs.jpg" alt="" /></a></figure>
 
 #### [Brooklyn: Where Tradition Meets Trendiness](/go/brooklyn-ny-things-to-do/)
 
@@ -36,7 +36,7 @@ Brooklyn seamlessly blends the old with the new, creating a charming atmosphere 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-dd1ff3e2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="queens-new-york-five-boroughs">[![](/images/queens-new-york-five-boroughs.jpg)](/images/queens-new-york-five-boroughs.jpg)</figure>
+<figure id="queens-new-york-five-boroughs"><a href="/images/queens-new-york-five-boroughs.jpg"><img src="/images/queens-new-york-five-boroughs.jpg" alt="" /></a></figure>
 
 #### [Queens: A Global Melting Pot](/go/queens-ny-things-to-do/)
 
@@ -47,7 +47,7 @@ Queens is the most ethnically diverse urban area in the world, boasting a unique
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5f1198ae"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="bronx-new-york-five-boroughs">[![](/images/bronx-new-york-five-boroughs.jpg)](/images/bronx-new-york-five-boroughs.jpg)</figure>
+<figure id="bronx-new-york-five-boroughs"><a href="/images/bronx-new-york-five-boroughs.jpg"><img src="/images/bronx-new-york-five-boroughs.jpg" alt="" /></a></figure>
 
 #### [The Bronx: Unmatched Cultural Richness](/go/bronx-ny-things-to-do/)
 
@@ -58,7 +58,7 @@ The Bronx is a vibrant borough steeped in cultural richness. Known as the birthp
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d4883b4c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="staten-island-new-york-five-boroughs-(1)">[![](/images/staten-island-new-york-five-boroughs-1.jpg)](/images/staten-island-new-york-five-boroughs-1.jpg)</figure>
+<figure id="staten-island-new-york-five-boroughs-(1)"><a href="/images/staten-island-new-york-five-boroughs-1.jpg"><img src="/images/staten-island-new-york-five-boroughs-1.jpg" alt="" /></a></figure>
 
 #### [Staten Island: Tranquility Amidst the Bustle](/go/staten-island-ny-things-to-do/)
 

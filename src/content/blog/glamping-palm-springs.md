@@ -19,7 +19,7 @@ Here’s a list of some great Palm Spring glamping sites that allow you to exper
 **Disclaimer**: Links in this page will help you find relevant information by linking directly to specific pages on partner websites (i.e. TripAdvisor, AirBnB). If you click a link, we may earn a small commission on transactions, which helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-80d2af5d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](/images/palm-springs-rv-resort-family-glamping-palm-springs-ca.jpg)<figcaption class="wp-element-caption">Courtesy of Palm Springs RV Resort</figcaption></figure>
+<figure><img src="/images/palm-springs-rv-resort-family-glamping-palm-springs-ca.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of Palm Springs RV Resort</figcaption></figure>
 
 #### [Thousand Trails Palm Springs RV Resort](/go/palm-springs-rv-resort-palm-springs-ca/)
 
@@ -40,7 +40,7 @@ If exploring the desert is what you seek, there are plenty of natural trails and
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4e46d8e4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](/images/emerald-desert-rv-resort-glamping-palm-springs.jpg)<figcaption class="wp-element-caption">Courtesy of Emerald Desert RV Resort</figcaption></figure>
+<figure><img src="/images/emerald-desert-rv-resort-glamping-palm-springs.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of Emerald Desert RV Resort</figcaption></figure>
 
 #### [Emerald Desert RV Resort](/go/emerald-desert-rv-resort-palm-springs-ca/)
 
@@ -57,7 +57,7 @@ Emerald Desert RV Resort connects you with the outdoors while giving you five-st
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6fc97c02"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](/images/shadow-hill-rv-resort-glamping-palm-springs.jpg)<figcaption class="wp-element-caption">Courtesy of Shadow Hill RV Resort </figcaption></figure>
+<figure><img src="/images/shadow-hill-rv-resort-glamping-palm-springs.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of Shadow Hill RV Resort </figcaption></figure>
 
 #### [Shadow Hill RV Resort](/go/shadow-hill-rv-resort-palm-springs-ca/)
 
@@ -76,7 +76,7 @@ The teepees sleep up to two people with either one queen or two twins and are lo
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-746bdc2a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](/images/indian-waters-rv-resort-cottages-glamping-palm-springs.jpg)<figcaption class="wp-element-caption">Courtesy of Indian Water RV Resort &amp; Cottages</figcaption></figure>
+<figure><img src="/images/indian-waters-rv-resort-cottages-glamping-palm-springs.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of Indian Water RV Resort &amp; Cottages</figcaption></figure>
 
 #### [Indian Waters RV Resort &amp; Cottages](/go/indian-waters-rv-resort-cottages-palm-springs-ca/)
 
@@ -93,7 +93,7 @@ You can glamp on this beautiful property by staying in a cute onsite cottage. Th
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-60077e61"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](/images/kates-lazy-desert-glamping-palm-springs-ca.jpg)<figcaption class="wp-element-caption">Courtesy of Kate's Lazy Desert</figcaption></figure>
+<figure><img src="/images/kates-lazy-desert-glamping-palm-springs-ca.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of Kate's Lazy Desert</figcaption></figure>
 
 #### [Kate's Lazy Desert](/go/kates-lazy-desert-palm-springs-landers-ca/)
 
@@ -155,5 +155,5 @@ For even more inspiration, check out our articles on:
 
 **Like it? Pin it!**
 
-<figure>![](/images/best-palm-springs-glamping-sites-pin-200x300.jpg)</figure>
+<figure><img src="/images/best-palm-springs-glamping-sites-pin-200x300.jpg" alt="" /></figure>
 </div></section>

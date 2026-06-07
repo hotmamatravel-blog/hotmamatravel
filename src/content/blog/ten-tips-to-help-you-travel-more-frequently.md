@@ -136,5 +136,5 @@ Those who love to travel can’t help but find ways to do so. Traveling more oft
 
 Like it? Pin it!
 
-<figure id="tne-tips-to-help-you-travel-more-frequently">[![](/images/tne-tips-to-help-you-travel-more-frequently-200x300.jpg)](/images/tne-tips-to-help-you-travel-more-frequently.jpg)</figure>
+<figure id="tne-tips-to-help-you-travel-more-frequently"><a href="/images/tne-tips-to-help-you-travel-more-frequently.jpg"><img src="/images/tne-tips-to-help-you-travel-more-frequently-200x300.jpg" alt="" /></a></figure>
 </div></div>

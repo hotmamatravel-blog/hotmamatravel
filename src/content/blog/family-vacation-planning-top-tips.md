@@ -74,5 +74,5 @@ Planning a family vacation can be an exciting and rewarding experience. By follo
 
 **Like it? Pin it!**
 
-<figure id="family-vacation-planning-tips-to-maintain-control">[![](/images/family-vacation-planning-tips-to-maintain-control-200x300.jpg)](/images/family-vacation-planning-tips-to-maintain-control.jpg)</figure>
+<figure id="family-vacation-planning-tips-to-maintain-control"><a href="/images/family-vacation-planning-tips-to-maintain-control.jpg"><img src="/images/family-vacation-planning-tips-to-maintain-control-200x300.jpg" alt="" /></a></figure>
 </div></section>

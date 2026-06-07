@@ -17,7 +17,7 @@ New York City during the holiday season is nothing short of enchanting, and find
 
 In this article, we'll embark on a magical journey through the best Christmas hotels in NYC, where luxury meets festive charm, creating the perfect backdrop for your [**family's holiday adventure**](/christmas-getaways-for-families/). Whether you dream of sipping cocoa near Central Park's winter wonderland or gazing at the city lights from your cozy suite, these hotels offer much more than just a place to stay; they provide a captivating experience that will make your family's Christmas in the Big Apple truly unforgettable.
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-plaza-hotel-christmas-hotels-nyc"><figure>[![Christmas at the Plaza Hotel New York](/images/the-plaza-hotel-christmas-hotels-nyc.jpg)](/images/the-plaza-hotel-christmas-hotels-nyc.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-plaza-hotel-christmas-hotels-nyc"><figure><a href="/images/the-plaza-hotel-christmas-hotels-nyc.jpg"><img src="/images/the-plaza-hotel-christmas-hotels-nyc.jpg" alt="Christmas at the Plaza Hotel New York" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -40,7 +40,7 @@ The Plaza often features live music performances, including carolers and musicia
 
 **[See Photos, Reviews, &amp; More](/go/the-plaza-hotel-new-york/)**
 
-<div class="wp-block-uagb-image uagb-block-23d2ee9e wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="st-regis-new-york-best-christmas-hotels-nyc"><figure>[![Christmas at St. Regis New York New York](/images/st-regis-new-york-best-christmas-hotels-nyc.jpg)](/images/st-regis-new-york-best-christmas-hotels-nyc.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-23d2ee9e wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="st-regis-new-york-best-christmas-hotels-nyc"><figure><a href="/images/st-regis-new-york-best-christmas-hotels-nyc.jpg"><img src="/images/st-regis-new-york-best-christmas-hotels-nyc.jpg" alt="Christmas at St. Regis New York New York" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-6754042d">
 
@@ -65,7 +65,7 @@ Indulge in a luxurious holiday retreat within a Master or Designer Suite, comple
 
 **[See Photos, Reviews, &amp; More](/go/st-regis-new-york-new-york/)**
 
-<div class="wp-block-uagb-image uagb-block-b0d0e81c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="ritz-carlton-new-york-best-christmas-hotels-nyc"><figure>[![Christmas at the Ritz-Carlton New York Central Park](/images/ritz-carlton-new-york-best-christmas-hotels-nyc.jpg)](/images/ritz-carlton-new-york-best-christmas-hotels-nyc.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-b0d0e81c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="ritz-carlton-new-york-best-christmas-hotels-nyc"><figure><a href="/images/ritz-carlton-new-york-best-christmas-hotels-nyc.jpg"><img src="/images/ritz-carlton-new-york-best-christmas-hotels-nyc.jpg" alt="Christmas at the Ritz-Carlton New York Central Park" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-0b9cf905">
 
@@ -86,7 +86,7 @@ For those who crave relaxation, check out their spa for some holiday-themed pamp
 
 **[See Photos, Reviews, &amp; More](/go/ritz-carlton-new-york-central-park/)**
 
-<div class="wp-block-uagb-image uagb-block-f8881d08 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-peninsula-new-york-best-christmas-hotels-nyc"><figure>[![The Peninsula New York Best Christmas Hotels in NYC](/images/the-peninsula-new-york-best-christmas-hotels-nyc.jpg)](/images/the-peninsula-new-york-best-christmas-hotels-nyc.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-f8881d08 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-peninsula-new-york-best-christmas-hotels-nyc"><figure><a href="/images/the-peninsula-new-york-best-christmas-hotels-nyc.jpg"><img src="/images/the-peninsula-new-york-best-christmas-hotels-nyc.jpg" alt="The Peninsula New York Best Christmas Hotels in NYC" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-8edecf13">
 
@@ -115,7 +115,7 @@ So, if you're dreaming of a luxury Christmas in the city that never sleeps, The 
 
 **[See Photos, Reviews, &amp; More](/go/the-peninsula-new-york-new-york/)**
 
-<div class="wp-block-uagb-image uagb-block-6a0f3565 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bryant-park-hotel-best-christmas-hotels-nyc"><figure>[![The Bryant Park Hotel Christmas Hotel NYC](/images/bryant-park-hotel-best-christmas-hotels-nyc.jpg)](/images/bryant-park-hotel-best-christmas-hotels-nyc.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-6a0f3565 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bryant-park-hotel-best-christmas-hotels-nyc"><figure><a href="/images/bryant-park-hotel-best-christmas-hotels-nyc.jpg"><img src="/images/bryant-park-hotel-best-christmas-hotels-nyc.jpg" alt="The Bryant Park Hotel Christmas Hotel NYC" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-28d0d73b">
 
@@ -134,7 +134,7 @@ When the holiday hustle and bustle tires you out, [the Bryant Park Hotel](https:
 
 **[See Photos, Reviews, &amp; More](/go/the-bryant-park-hotel-new-york/)**
 
-<div class="wp-block-uagb-image uagb-block-9cc1b66d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="lotte-new-york-palace-best-christmas-hotels-nyc"><figure>[![Christmas at The Lotte New York Palace](/images/lotte-new-york-palace-best-christmas-hotels-nyc.jpg)](/images/lotte-new-york-palace-best-christmas-hotels-nyc.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-9cc1b66d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="lotte-new-york-palace-best-christmas-hotels-nyc"><figure><a href="/images/lotte-new-york-palace-best-christmas-hotels-nyc.jpg"><img src="/images/lotte-new-york-palace-best-christmas-hotels-nyc.jpg" alt="Christmas at The Lotte New York Palace" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-f5313e81">
 
@@ -159,7 +159,7 @@ But wait, there's more fun to unwrap! You'll score tickets to a 2024 New York Ya
 
 **[See Photos, Reviews, &amp; More](/go/lotte-new-york-palace-new-york/)**
 
-<div class="wp-block-uagb-image uagb-block-75eea354 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="omni-berkshire-place-best-christmas-hotels-nyc"><figure>[![Omni Berkshire Place Christmas Hotel NYC](/images/omni-berkshire-place-best-christmas-hotels-nyc.jpg)](/images/omni-berkshire-place-best-christmas-hotels-nyc.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-75eea354 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="omni-berkshire-place-best-christmas-hotels-nyc"><figure><a href="/images/omni-berkshire-place-best-christmas-hotels-nyc.jpg"><img src="/images/omni-berkshire-place-best-christmas-hotels-nyc.jpg" alt="Omni Berkshire Place Christmas Hotel NYC" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-7d8fbcc5">
 
@@ -196,5 +196,5 @@ Looking to explore more festive hotels around the country? Be sure to see our fa
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Discover the best Christmas hotels in NYC for families — from festive lobbies to holiday magic around every corner. 🏙️🎅 Your perfect New York winter getaway starts here! ❄️ #FamilyTravel #NYCChristmas #HotMamaTravel">[![Best Christmas Hotels in NYC](/images/best-christmas-hotels-nyc-for-families-200x300.jpg)](/images/best-christmas-hotels-nyc-for-families.jpg)</figure>
+<figure data-essb-pin-description="Discover the best Christmas hotels in NYC for families — from festive lobbies to holiday magic around every corner. 🏙️🎅 Your perfect New York winter getaway starts here! ❄️ #FamilyTravel #NYCChristmas #HotMamaTravel"><a href="/images/best-christmas-hotels-nyc-for-families.jpg"><img src="/images/best-christmas-hotels-nyc-for-families-200x300.jpg" alt="Best Christmas Hotels in NYC" /></a></figure>
 </div></div>

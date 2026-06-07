@@ -22,7 +22,7 @@ These journeys offer an immersive and personalized experience that caters to all
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-f5d27852 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![private family tour in ireland](/images/exoticca-ireland-scotland-15-days-small-group-tours-in-ireland.jpg)](/images/exoticca-ireland-scotland-15-days-small-group-tours-in-ireland.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-f5d27852 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/exoticca-ireland-scotland-15-days-small-group-tours-in-ireland.jpg"><img src="/images/exoticca-ireland-scotland-15-days-small-group-tours-in-ireland.jpg" alt="private family tour in ireland" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-bc1ce26b">
 
@@ -365,7 +365,7 @@ If you want a fun, low-stress way to explore Dublin that keeps everyone smiling 
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-3623fcc4 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![cliffs of moher small group Ireland tour](/images/exoticca-ireland-scotland-england-small-group-tours-in-ireland.jpg)](/images/exoticca-ireland-scotland-england-small-group-tours-in-ireland.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-3623fcc4 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/exoticca-ireland-scotland-england-small-group-tours-in-ireland.jpg"><img src="/images/exoticca-ireland-scotland-england-small-group-tours-in-ireland.jpg" alt="cliffs of moher small group Ireland tour" /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-26845350">
 
@@ -686,7 +686,7 @@ This tour combines stunning natural beauty, castles, and city exploration into a
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-e4edb339 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Blarney Castle Small Group Ireland Tour ](/images/Blarney-Castle-Small-Group-Tour.jpg)](/images/Blarney-Castle-Small-Group-Tour.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-e4edb339 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Blarney-Castle-Small-Group-Tour.jpg"><img src="/images/Blarney-Castle-Small-Group-Tour.jpg" alt="Blarney Castle Small Group Ireland Tour " /></a></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-1da492d5">
 
@@ -964,5 +964,5 @@ So, whether you're strolling the cobbled streets of Dublin, taking in the dramat
 
 Like it? Pin it!
 
-<figure id="best-small-group-tours-in-ireland-for-families">[![](/images/best-small-group-tours-in-ireland-for-families-200x300.jpg)](/images/best-small-group-tours-in-ireland-for-families.jpg)</figure>
+<figure id="best-small-group-tours-in-ireland-for-families"><a href="/images/best-small-group-tours-in-ireland-for-families.jpg"><img src="/images/best-small-group-tours-in-ireland-for-families-200x300.jpg" alt="" /></a></figure>
 </div></div>

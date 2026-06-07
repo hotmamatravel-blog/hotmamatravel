@@ -25,7 +25,7 @@ Yes, you can bring the family for a relaxing and exciting day in wine country fo
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure id="Wilson-Creek-Winery-kid-friendly-wineries-temecula">[![Wilson Creek Winery](/images/Wilson-Creek-Winery-kid-friendly-wineries-temecula.jpg)](/images/Wilson-Creek-Winery-kid-friendly-wineries-temecula.jpg)</figure>
+<figure id="Wilson-Creek-Winery-kid-friendly-wineries-temecula"><a href="/images/Wilson-Creek-Winery-kid-friendly-wineries-temecula.jpg"><img src="/images/Wilson-Creek-Winery-kid-friendly-wineries-temecula.jpg" alt="Wilson Creek Winery" /></a></figure>
 
 ### [Wilson Creek Winery](/go/wilson-creek-winery-temecula-ca/)
 
@@ -39,7 +39,7 @@ Wine tasting is seven days a week and on a first come first serve basis. Onsite 
 
 [**See photos, reviews &amp; more**](/go/wilson-creek-winery-temecula-ca/)
 
-<figure id="peltzer-family-cellars-kid-friendly-wineries-temecula">[![Peltzer Family Cellars](/images/peltzer-family-cellars-kid-friendly-wineries-temecula.jpg)](/images/peltzer-family-cellars-kid-friendly-wineries-temecula.jpg)</figure>
+<figure id="peltzer-family-cellars-kid-friendly-wineries-temecula"><a href="/images/peltzer-family-cellars-kid-friendly-wineries-temecula.jpg"><img src="/images/peltzer-family-cellars-kid-friendly-wineries-temecula.jpg" alt="Peltzer Family Cellars" /></a></figure>
 
 ### [Peltzer Family Cellars](/go/peltzer-family-cellars-temecula-ca/)
 
@@ -55,7 +55,7 @@ Since this is also a Pumpkin Farm in addition to a winery, harvest time (Fall) i
 
 [**See photos, reviews &amp; more**](/go/peltzer-family-cellars-temecula-ca/)
 
-<figure id="longshadow-ranch-winery-kid-friendly-winery-temecula">[![Longshadow Ranch Winery](/images/longshadow-ranch-winery-kid-friendly-winery-temecula.jpg)](/images/longshadow-ranch-winery-kid-friendly-winery-temecula.jpg)</figure>
+<figure id="longshadow-ranch-winery-kid-friendly-winery-temecula"><a href="/images/longshadow-ranch-winery-kid-friendly-winery-temecula.jpg"><img src="/images/longshadow-ranch-winery-kid-friendly-winery-temecula.jpg" alt="Longshadow Ranch Winery" /></a></figure>
 
 ### [Longshadow Ranch Winery](/go/longshadow-ranch-winery-temecula-ca/)
 
@@ -67,7 +67,7 @@ Bring the kids and get ready to have some fun on the ranch. At Longshadow Ranch 
 
 [**See photos, reviews &amp; more**](/go/longshadow-ranch-winery-temecula-ca/)
 
-<figure id="akash-winery-kid-friendly-wineries-temecula">[![Akash Winery](/images/akash-winery-kid-friendly-wineries-temecula.jpg)](/images/akash-winery-kid-friendly-wineries-temecula.jpg)</figure>
+<figure id="akash-winery-kid-friendly-wineries-temecula"><a href="/images/akash-winery-kid-friendly-wineries-temecula.jpg"><img src="/images/akash-winery-kid-friendly-wineries-temecula.jpg" alt="Akash Winery" /></a></figure>
 
 ### [Akash Winery](/go/akash-winery-temecula-ca/)
 
@@ -79,7 +79,7 @@ Akash Winery is a family-owned winery run by a father and son team. With a very 
 
 [**See photos, reviews &amp; more**](/go/akash-winery-temecula-ca/)
 
-<figure id="europa-village-kid-friendly-wineries-temecula">[![Europa Village Winery](/images/europa-village-kid-friendly-wineries-temecula.jpg)](/images/europa-village-kid-friendly-wineries-temecula.jpg)</figure>
+<figure id="europa-village-kid-friendly-wineries-temecula"><a href="/images/europa-village-kid-friendly-wineries-temecula.jpg"><img src="/images/europa-village-kid-friendly-wineries-temecula.jpg" alt="Europa Village Winery" /></a></figure>
 
 ### [Europa Village](/go/eupora-village-winery-temecula-ca/)
 
@@ -93,7 +93,7 @@ C’est La Vie is a journey through France with a wonderful selection of wine ta
 
 [**See photos, reviews &amp; more**](/go/eupora-village-winery-temecula-ca/)
 
-<figure id="south-coast-winery-kid-friendly-wineries-temecula">[![South Coast Winery](/images/south-coast-winery-kid-friendly-wineries-temecula.jpg)](/images/south-coast-winery-kid-friendly-wineries-temecula.jpg)</figure>
+<figure id="south-coast-winery-kid-friendly-wineries-temecula"><a href="/images/south-coast-winery-kid-friendly-wineries-temecula.jpg"><img src="/images/south-coast-winery-kid-friendly-wineries-temecula.jpg" alt="South Coast Winery" /></a></figure>
 
 ### [South Coast Winery](/go/south-coast-winery-temecula-ca/)
 
@@ -105,7 +105,7 @@ This family-owned and operated winery sits on 63 acres of lush vineyards and is 
 
 [**See photos, reviews &amp; more**](/go/south-coast-winery-temecula-ca/)
 
-<figure id="somerset-winery-kid-friendly-wineries-temecula">[![Somerset Vineyard &amp; Winery](/images/somerset-winery-kid-friendly-wineries-temecula.jpg)](/images/somerset-winery-kid-friendly-wineries-temecula.jpg)</figure>
+<figure id="somerset-winery-kid-friendly-wineries-temecula"><a href="/images/somerset-winery-kid-friendly-wineries-temecula.jpg"><img src="/images/somerset-winery-kid-friendly-wineries-temecula.jpg" alt="Somerset Vineyard &amp; Winery" /></a></figure>
 
 ### [Somerset Vineyard &amp; Winery](/go/somerset-vineyard-winery-temecula-ca/)
 
@@ -117,7 +117,7 @@ Come and enjoy a relaxed, family-friendly atmosphere at Somerset Vineyard &amp; 
 
 [**See photos, reviews &amp; more**](/go/somerset-vineyard-winery-temecula-ca/)
 
-<figure id="somerset-winery-kid-friendly-wineries-temecula">[![Truffle Pig Winery](/images/avensole-winery-kid-friendly-wineries-temecula.jpg)](/images/avensole-winery-kid-friendly-wineries-temecula.jpg)</figure>
+<figure id="somerset-winery-kid-friendly-wineries-temecula"><a href="/images/avensole-winery-kid-friendly-wineries-temecula.jpg"><img src="/images/avensole-winery-kid-friendly-wineries-temecula.jpg" alt="Truffle Pig Winery" /></a></figure>
 
 ### [Truffle Pig Winery](/go/avensole-winery-temecula-ca/)
 
@@ -149,5 +149,5 @@ Now what are you waiting for? Go have some fun!
 
 Find the full list now on HotMamaTravel.com ✨
 
-#Temecula #TemeculaWineCountry #FamilyTravel #KidFriendly #CaliforniaTravel #TemeculaWineries #TravelWithKids #FamilyVacation #WineCountry #HotMamaTravel">[![Best kid-friendly wineries in temecula](/images/8-best-kid-friendly-wineries-temecula-200x300.jpg)](/images/8-best-kid-friendly-wineries-temecula.jpg)</figure>
+#Temecula #TemeculaWineCountry #FamilyTravel #KidFriendly #CaliforniaTravel #TemeculaWineries #TravelWithKids #FamilyVacation #WineCountry #HotMamaTravel"><a href="/images/8-best-kid-friendly-wineries-temecula.jpg"><img src="/images/8-best-kid-friendly-wineries-temecula-200x300.jpg" alt="Best kid-friendly wineries in temecula" /></a></figure>
 </div></section>

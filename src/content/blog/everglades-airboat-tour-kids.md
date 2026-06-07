@@ -29,7 +29,7 @@ So, if you are a worried parent too, we'll discuss the reasons why you should ta
 
 <div class="stk-block-heading__bottom-line"></div></div>
 
-<figure id="everglades-airboat-tours">[![everglades tour with kids](/images/everglades-airboat-tours.jpg)](/images/everglades-airboat-tours.jpg)</figure>
+<figure id="everglades-airboat-tours"><a href="/images/everglades-airboat-tours.jpg"><img src="/images/everglades-airboat-tours.jpg" alt="everglades tour with kids" /></a></figure>
 
 There are several cities in Florida that offer convenient access to the Everglades.
 
@@ -59,7 +59,7 @@ No matter which city you choose as your starting point, there are plenty of opti
 
 <div class="stk-block-heading__bottom-line"></div></div>
 
-<figure id="everglades-boat-tours">[![everglades airboat tours](/images/everglades-boat-tours.jpg)](/images/everglades-boat-tours.jpg)</figure>
+<figure id="everglades-boat-tours"><a href="/images/everglades-boat-tours.jpg"><img src="/images/everglades-boat-tours.jpg" alt="everglades airboat tours" /></a></figure>
 
 There are numerous airboat tour operators in the Everglades, and the exact number may vary depending on the season and location within the park. Some tour operators offer private tours, while others offer group tours. Additionally, some tours may focus on wildlife viewing, while others may focus on the history and ecology of the Everglades.  So no matter what kind of Everglades adventure you are looking for, you are sure to find it.
 
@@ -77,7 +77,7 @@ It's worth noting that the National Park Service does not operate any airboat to
 
 <div class="stk-block-heading__bottom-line"></div></div>
 
-<figure id="everglades-alligators-airboat-rides">[![everglades animals](/images/everglades-alligators-airboat-rides.jpg)](/images/everglades-alligators-airboat-rides.jpg)</figure>
+<figure id="everglades-alligators-airboat-rides"><a href="/images/everglades-alligators-airboat-rides.jpg"><img src="/images/everglades-alligators-airboat-rides.jpg" alt="everglades animals" /></a></figure>
 
 On an Everglades airboat ride, you can expect to see a variety of animals that are native to the region. However, it's important to remember that wildlife sightings are never guaranteed and can vary depending on the time of year and weather conditions. The time of year you book will vary which animals you are most likely to see during your tour.
 
@@ -99,7 +99,7 @@ Additionally, it's crucial to treat all wildlife with respect and to never appro
 
 <div class="stk-block-heading__bottom-line"></div></div>
 
-<figure id="unique-everglades-attractions">[![activities in the everglades](/images/unique-everglades-attractions.jpg)](/images/unique-everglades-attractions.jpg)</figure>
+<figure id="unique-everglades-attractions"><a href="/images/unique-everglades-attractions.jpg"><img src="/images/unique-everglades-attractions.jpg" alt="activities in the everglades" /></a></figure>
 
 Although airboat tours is the one of the most popular Everglades attractions, there are many fun ways to explore the Everglade with kids. If you and your kids love nature and wildlife, then you can enjoy a number of small group kayak tours, dolphin excursions, shelling tours, wetlands walks, swamp buggy rides, and more.
 
@@ -115,7 +115,7 @@ To cool down from the about hot Florida sun or get dry from wet Florida rain, yo
 
 <div class="stk-block-heading__bottom-line"></div></div>
 
-<figure id="everglades-airboat-tour-things-to-do-in-naples-with-kids">[![family-friendly everglades airboat tour](/images/everglades-airboat-tour-things-to-do-in-naples-with-kids.jpg)](/images/everglades-airboat-tour-things-to-do-in-naples-with-kids.jpg)</figure>
+<figure id="everglades-airboat-tour-things-to-do-in-naples-with-kids"><a href="/images/everglades-airboat-tour-things-to-do-in-naples-with-kids.jpg"><img src="/images/everglades-airboat-tour-things-to-do-in-naples-with-kids.jpg" alt="family-friendly everglades airboat tour" /></a></figure>
 
 As we drove deeper into the country and further away from the comforts of Naples, even I questioned my big Everglades airboat adventure. With every mile I could feel the tension rising in our red minivan. Finally, we saw the turn off for Everglades Island Airboat Tours. As I was unloading the kids, Grams caught site of the airboat and almost had a heart attack. She is not big on adventure and with a daughter like me; she is forced into some crazy situations. Oh well.
 
@@ -127,7 +127,7 @@ As we drove deeper into the country and further away from the comforts of Naples
 
 Those were just some of the panicked complaints Grams had as we made our way to meet our captain. The sweet and sensitive daughter that I am, I kindly demanded my mother it get in the boat and promised her a cold beer if she behaved.
 
-<figure>[![everglades airboat tour with kids](/images/everglades-airboat-tours-with-kids.jpg)](/images/everglades-airboat-tours-with-kids.jpg)</figure>
+<figure><a href="/images/everglades-airboat-tours-with-kids.jpg"><img src="/images/everglades-airboat-tours-with-kids.jpg" alt="everglades airboat tour with kids" /></a></figure>
 
 I slathered my babies in SPF 50 and fastened them into their lifejackets. Always thinking about how my photos will look, I picked out the brightest lifejackets I could find. For my daughter, I chose a pink Barbie vest and for my baby boy, I chose a red Hawaiian flower vest. I stepped back, satisfied with how my babies looked for their airboat adventure.
 
@@ -144,27 +144,27 @@ Captain Browne, searched through the life-jacket trunk and tossed me a blue fade
 
 Finding Captain Browne’s candidness hilarious, I opted for the shark vest and loaded our family on to the airboat.
 
-<figure id="everglades-boat-tours-for-families">[![everglades airboat tours](/images/everglades-boat-tours-for-families.jpg)](/images/everglades-boat-tours-for-families.jpg)</figure>
+<figure id="everglades-boat-tours-for-families"><a href="/images/everglades-boat-tours-for-families.jpg"><img src="/images/everglades-boat-tours-for-families.jpg" alt="everglades airboat tours" /></a></figure>
 
 If you have never been on an airboat, they are very interesting with a flat top and no railings. I was little worried about my kids trying to jump off and worried that booking the hour tour might have been a bad idea, but the trip turned out to be wildly entertaining; keeping the kids engaged the entire time.
 
 Ahhhh! Moments after leaving the dock the largest pelican I have ever seen landed on our boat. I didn’t realize that this was all part of the airboat experience. As it crept closer to my baby, I freaked out. Yes, the person who forced everyone on the airboat was the first to scream. Captain Browne probably thought we were a bunch of California freaks the way we were all yelping and hollering. I thought the pelican, which was the size of a toddler, was going to try to snap up my son. Needless to say, it didn’t and we all just looked ridiculous.
 
-<figure id="pelican-everglades-boat-tours">[![pelicans on everglades airboat](/images/pelican-everglades-boat-tours.jpg)](/images/pelican-everglades-boat-tours.jpg)</figure>
+<figure id="pelican-everglades-boat-tours"><a href="/images/pelican-everglades-boat-tours.jpg"><img src="/images/pelican-everglades-boat-tours.jpg" alt="pelicans on everglades airboat" /></a></figure>
 
 💡**HotMama Tip**: Don’t panic when the giant pelicans land on your boat.
 
 After cruising by some manatees, Captain Browne kicked it into gear and took us on a wild ride through the swamp! Again, this was my first time, so the speed was a bit shocking. As we zipped through the narrow channels, tilting sharply with every turn, I took the opportunity to snap a photo of everyone’s face.
 
-<figure id="family-everglades-boat-tours">[![family on airboat tour everglades](/images/family-everglades-boat-tours.jpg)](/images/family-everglades-boat-tours.jpg)</figure>
+<figure id="family-everglades-boat-tours"><a href="/images/family-everglades-boat-tours.jpg"><img src="/images/family-everglades-boat-tours.jpg" alt="family on airboat tour everglades" /></a></figure>
 
 My parents were as predicted; Papa was chilling while Grams was terrified. The hubby and our girl are thrill-seekers so they were embracing the wild ride, with big smiles spread across their faces and hands in the air. I clung to my little man as he went comatose. An automatic reaction whenever he is faced with fear. Hey, at least he isn’t a cry baby. I’ll admit I was a little nervous. I mean I didn’t want us to tip over. There are alligators in this water and my babies are delicious.
 
-<figure id="raccoon-everglades-boat-tours">[![everglades racoons](/images/raccoon-everglades-boat-tours.jpg)](/images/raccoon-everglades-boat-tours.jpg)</figure>
+<figure id="raccoon-everglades-boat-tours"><a href="/images/raccoon-everglades-boat-tours.jpg"><img src="/images/raccoon-everglades-boat-tours.jpg" alt="everglades racoons" /></a></figure>
 
 Captain Browne slowed down to a stop so we could observe a family of raccoons. They got close. Like really close. The up-close and personal encounter with jumbo racoon fascinated the kids. I was a bit apprehensive, but still managed to click those shots.
 
-<figure id="kids-everglades-boat-tours">[![kids on everglades airboat](/images/kids-everglades-boat-tours.jpg)](/images/kids-everglades-boat-tours.jpg)</figure>
+<figure id="kids-everglades-boat-tours"><a href="/images/kids-everglades-boat-tours.jpg"><img src="/images/kids-everglades-boat-tours.jpg" alt="kids on everglades airboat" /></a></figure>
 
 Then our captain took our boat to the middle of the water and invited my babies to take the wheel. Yup, toddlers at the controls this sounds safe.
 
@@ -172,11 +172,11 @@ My daughter jumped in the captain’s chair and gladly took us for a spin. Liter
 
 Next was my son, but he was still in his comatose state. He really just sat there and looked at us like we were all crazy. Maybe we are.
 
-<figure id="kids-pet-everglades-alligator">[![petting alligators in everglades florida](/images/kids-pet-everglades-alligator.jpg)](/images/kids-pet-everglades-alligator.jpg)</figure>
+<figure id="kids-pet-everglades-alligator"><a href="/images/kids-pet-everglades-alligator.jpg"><img src="/images/kids-pet-everglades-alligator.jpg" alt="petting alligators in everglades florida" /></a></figure>
 
 Unfortunately the water was too salty for the presence of alligators, but that doesn’t mean we didn’t get to see them. Once back at the dock we met up with another guide, whose family owned this Everglades Airboat Tour. He introduced us to some scaly friends. My son was not down to hold the little alligator, but my daughter took her photo opportunity. Even Grams seized the moment and held the gator.
 
-<figure id="seafood-everglades-with-kids">[![dining in the everglades](/images/seafood-everglades-with-kids.jpg)](/images/seafood-everglades-with-kids.jpg)</figure>
+<figure id="seafood-everglades-with-kids"><a href="/images/seafood-everglades-with-kids.jpg"><img src="/images/seafood-everglades-with-kids.jpg" alt="dining in the everglades" /></a></figure>
 
 After our wonderful airboat adventure we headed off for grub and beers as I promised. By recommendation we enjoyed a leisurely lunch at Seafood Depot, which has sadly closed since our last visit. But, it was really cool, overlooking the Everglades. We recounted our wild day over cold beer and gator nuggets.
 
@@ -208,5 +208,5 @@ Additionally, the tour provides an educational experience that helps you learn a
 
 **Like it? Pin it!**
 
-<figure id="what-you-know-about-everglades-airboat-tours-with-kids">[![](/images/what-you-know-about-everglades-airboat-tours-with-kids-200x300.jpg)](/images/what-you-know-about-everglades-airboat-tours-with-kids.jpg)</figure>
+<figure id="what-you-know-about-everglades-airboat-tours-with-kids"><a href="/images/what-you-know-about-everglades-airboat-tours-with-kids.jpg"><img src="/images/what-you-know-about-everglades-airboat-tours-with-kids-200x300.jpg" alt="" /></a></figure>
 </div></section>

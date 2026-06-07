@@ -77,7 +77,7 @@ Ok, so we begin this article with a set of answers to Frequently Asked Questions
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Anaheim Majestic Garden Family Hotel near Disneyland](/images/majestic-garden-anaheim-hotel-swimming-pool.jpg)](/images/majestic-garden-anaheim-hotel-swimming-pool.jpg)<figcaption class="uagb-image-caption">Photo courtesy of Anaheim Majestic Garden Hotel</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/majestic-garden-anaheim-hotel-swimming-pool.jpg"><img src="/images/majestic-garden-anaheim-hotel-swimming-pool.jpg" alt="Anaheim Majestic Garden Family Hotel near Disneyland" /></a><figcaption class="uagb-image-caption">Photo courtesy of Anaheim Majestic Garden Hotel</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -98,11 +98,11 @@ What really set's the Majestic Garden Hotel apart, though, is their dedication t
 
 Finally, you can rest assured that they have plenty of convenient dining options on-site, including outdoor bistro style tables to enjoy their lush gardens in the Southern California sunshine. Throughout the year they often offer promotions that include free breakfasts!
 
-<figure>[![Castle bunk beds near Disneyland at Majestic Garden Hotel](/images/majestic-garden-hotel-Castle-Bunk-Bed.jpg)](/images/majestic-garden-hotel-Castle-Bunk-Bed.jpg)</figure>
+<figure><a href="/images/majestic-garden-hotel-Castle-Bunk-Bed.jpg"><img src="/images/majestic-garden-hotel-Castle-Bunk-Bed.jpg" alt="Castle bunk beds near Disneyland at Majestic Garden Hotel" /></a></figure>
 
 **[See Photos, Reviews, &amp; More](/go/majestic-garden-hotel-anaheim/)**
 
-<div class="wp-block-uagb-image uagb-block-b0550259 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Cambria-Anaheim-family-hotel"><figure>[![Cambria Family Hotel Anaheim ](/images/Cambria-Anaheim-family-hotel.jpg)](/images/Cambria-Anaheim-family-hotel.jpg)<figcaption class="uagb-image-caption">Courtesy of Anaheim Resort Suites</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-b0550259 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Cambria-Anaheim-family-hotel"><figure><a href="/images/Cambria-Anaheim-family-hotel.jpg"><img src="/images/Cambria-Anaheim-family-hotel.jpg" alt="Cambria Family Hotel Anaheim " /></a><figcaption class="uagb-image-caption">Courtesy of Anaheim Resort Suites</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-b08759f3">
 
@@ -125,7 +125,7 @@ For those times when you need a break from the park, the hotel has plenty of oth
 
 When it comes to dining, Anaheim Resort Suites has you covered. Start your day with a delicious complimentary breakfast buffet, complete with everything from fresh fruit to hot Mickey waffles. There are also several dining options nearby if you want to explore the local cuisine.
 
-<div class="wp-block-uagb-image uagb-block-faee9c4b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Cambria-Anaheim-family-suites"><figure>[![Bunkbed family suites Cambria Hotel Anheim](/images/Cambria-Anaheim-family-suites.jpg)](/images/Cambria-Anaheim-family-suites.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-faee9c4b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Cambria-Anaheim-family-suites"><figure><a href="/images/Cambria-Anaheim-family-suites.jpg"><img src="/images/Cambria-Anaheim-family-suites.jpg" alt="Bunkbed family suites Cambria Hotel Anheim" /></a></figure></div>
 
 **Check our recent staycation at the Anaheim Resort Suites Hotel (formerly Cambria):**
 
@@ -133,7 +133,7 @@ When it comes to dining, Anaheim Resort Suites has you covered. Start your day w
 
 **[See Photos, Reviews, &amp; More](/go/cambria-hotel-anaheim-resort/)**
 
-<div class="wp-block-uagb-image uagb-block-170a3d56 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Hyatt Regency Orange County near Disneyland Lobby](/images/hyatt-regency-orange-county-lobby.jpg)](/images/hyatt-regency-orange-county-lobby.jpg)<figcaption class="uagb-image-caption">Courtesy Hyatt Regency Orange County</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-170a3d56 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/hyatt-regency-orange-county-lobby.jpg"><img src="/images/hyatt-regency-orange-county-lobby.jpg" alt="Hyatt Regency Orange County near Disneyland Lobby" /></a><figcaption class="uagb-image-caption">Courtesy Hyatt Regency Orange County</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-2c4e6111">
 
@@ -158,11 +158,11 @@ Another cool thing about the Hyatt Regency is the availability of on-site dining
 
 Hyatt Regency OC is a very nice hotel that is surprisingly budget-friendly for what you get (and you can earn World of Hyatt rewards points).
 
-<figure>[![Family Suite at Hyatt Regency Orange County near Disneyland](/images/hyatt-regency-family-suite-bunk-beds.jpg)](/images/hyatt-regency-family-suite-bunk-beds.jpg)<figcaption class="wp-element-caption">*Hyatt Regency OC has really big family suites near Disneyland*</figcaption></figure>
+<figure><a href="/images/hyatt-regency-family-suite-bunk-beds.jpg"><img src="/images/hyatt-regency-family-suite-bunk-beds.jpg" alt="Family Suite at Hyatt Regency Orange County near Disneyland" /></a><figcaption class="wp-element-caption">*Hyatt Regency OC has really big family suites near Disneyland*</figcaption></figure>
 
 **[See Photos, Reviews, &amp; More](/go/hyatt-regency-orange-county/)**
 
-<div class="wp-block-uagb-image uagb-block-6b7f47e9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Grand Legacy at the Park Anaheim hotel for kids](/images/grand-legacy-park-exterior-anaheim-hotel-kids.jpg)](/images/grand-legacy-park-exterior-anaheim-hotel-kids.jpg)<figcaption class="uagb-image-caption">Photo courtesy of Grand Legacy at the Park</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-6b7f47e9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/grand-legacy-park-exterior-anaheim-hotel-kids.jpg"><img src="/images/grand-legacy-park-exterior-anaheim-hotel-kids.jpg" alt="Grand Legacy at the Park Anaheim hotel for kids" /></a><figcaption class="uagb-image-caption">Photo courtesy of Grand Legacy at the Park</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-dde96881">
 
@@ -185,11 +185,11 @@ You won’t have to go far for great food. The hotel features on-site dining opt
 
 Plus, with the convenience of nearby restaurants, finding family-friendly meals is a breeze. This is a great choice for large families, or those looking for a raucous rooftop atmosphere to share with the kids (*p.s. that's where you'd find us!*).
 
-<div class="wp-block-uagb-image uagb-block-0eae920d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Big family suite near Disneyland Grand Legacy](/images/grand-legacy-park-family-suite.jpg)](/images/grand-legacy-park-family-suite.jpg)<figcaption class="uagb-image-caption">*They have a 2 bedroom family suite with 4 queen beds for big families*</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-0eae920d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/grand-legacy-park-family-suite.jpg"><img src="/images/grand-legacy-park-family-suite.jpg" alt="Big family suite near Disneyland Grand Legacy" /></a><figcaption class="uagb-image-caption">*They have a 2 bedroom family suite with 4 queen beds for big families*</figcaption></figure></div>
 
 **[See Photos, Reviews, &amp; More](/go/grand-legacy-park-hotel-anaheim/)**
 
-<div class="wp-block-uagb-image uagb-block-a5fe106f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Exterior Clementine Hotel &amp; Suites Anaheim](/images/Clementine-kid-friendly-anaheim-hotel-near-disneyland.jpg)](/images/Clementine-kid-friendly-anaheim-hotel-near-disneyland.jpg)<figcaption class="uagb-image-caption">Courtesy of Clementine Hotel</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-a5fe106f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Clementine-kid-friendly-anaheim-hotel-near-disneyland.jpg"><img src="/images/Clementine-kid-friendly-anaheim-hotel-near-disneyland.jpg" alt="Exterior Clementine Hotel &amp; Suites Anaheim" /></a><figcaption class="uagb-image-caption">Courtesy of Clementine Hotel</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-c1f386fe">
 
@@ -212,11 +212,11 @@ Start your day with a delicious, complimentary breakfast buffet that offers some
 
 Overall, Clementine Hotel &amp; Suites is a great choice if you have a large family and prefer a quaint condo-style hotel with full kitchens and fireplaces. You click below to check rates on TripAdvisor, or you can book directly with [Clementine Hotel &amp; Suites](http://www.clementinehotel.com).
 
-<div class="wp-block-uagb-image uagb-block-f65513f8 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Clementine Family Suite near Disneyland with fireplace](/images/Clementine-family-suite-with-fireplace.jpg)](/images/Clementine-family-suite-with-fireplace.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-f65513f8 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Clementine-family-suite-with-fireplace.jpg"><img src="/images/Clementine-family-suite-with-fireplace.jpg" alt="Clementine Family Suite near Disneyland with fireplace" /></a></figure></div>
 
 **[See Photos, Reviews, &amp; More](/go/clementine-hotel-suites-anaheim/)**
 
-<div class="wp-block-uagb-image uagb-block-83c18160 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Exterior Best Western Plus Family Hotel near Disneyland](/images/best-western-plus-park-place-inn-mini-suites-exterior.jpg)](/images/best-western-plus-park-place-inn-mini-suites-exterior.jpg)<figcaption class="uagb-image-caption">Courtesy Best Western</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-83c18160 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/best-western-plus-park-place-inn-mini-suites-exterior.jpg"><img src="/images/best-western-plus-park-place-inn-mini-suites-exterior.jpg" alt="Exterior Best Western Plus Family Hotel near Disneyland" /></a><figcaption class="uagb-image-caption">Courtesy Best Western</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-329a491a">
 
@@ -241,11 +241,11 @@ Kickstart your day with a delicious, complimentary breakfast buffet. With a vari
 
 Overall, [Park Place Inn &amp; Mini Suites](https://parkplaceinnandminisuites.com/) is a convenient, clean, and relatively cheap family hotel near Disneyland that will satisfy most small to medium-sized families (up to 6).
 
-<div class="wp-block-uagb-image uagb-block-026c19eb wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Family Suite at Best Western Plus Anaheim Park Place Inn](/images/bw-park-place-inn-suites-family-suite-near-disneyland-anaheim.jpg)](/images/bw-park-place-inn-suites-family-suite-near-disneyland-anaheim.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-026c19eb wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/bw-park-place-inn-suites-family-suite-near-disneyland-anaheim.jpg"><img src="/images/bw-park-place-inn-suites-family-suite-near-disneyland-anaheim.jpg" alt="Family Suite at Best Western Plus Anaheim Park Place Inn" /></a></figure></div>
 
 **[See Photos, Reviews, &amp; More](/go/bw-plus-park-place-inn-mini-suites-anaheim/)**
 
-<div class="wp-block-uagb-image uagb-block-51594672 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="sonesta-anaheim-family-hotel"><figure>[![Sonesta Anaheim Family Resort ](/images/sonesta-anaheim-family-hotel-1.jpg)](/images/sonesta-anaheim-family-hotel-1.jpg)<figcaption class="uagb-image-caption">Courtesy of Sonesta</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-51594672 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="sonesta-anaheim-family-hotel"><figure><a href="/images/sonesta-anaheim-family-hotel-1.jpg"><img src="/images/sonesta-anaheim-family-hotel-1.jpg" alt="Sonesta Anaheim Family Resort " /></a><figcaption class="uagb-image-caption">Courtesy of Sonesta</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-c9a85e5a">
 
@@ -266,11 +266,11 @@ One of the coolest features of this hotel is its awesome pool area. Kids will lo
 
 When it comes to dining, the Sonesta Anaheim has an on-site restaurant that offers a delicious menu with something for everyone, and there’s a great breakfast buffet to kickstart your day before heading to Disney California Adventure. If you’re in the mood for a snack or a quick bite, the hotel’s market has all the essentials.
 
-<div class="wp-block-uagb-image uagb-block-d85d9acd wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="sonesta-anaheim-family-suites"><figure>[![Bunkbeds Family Suites Sonesta Anaheim Resort](/images/sonesta-anaheim-family-suites.jpg)](/images/sonesta-anaheim-family-suites.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-d85d9acd wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="sonesta-anaheim-family-suites"><figure><a href="/images/sonesta-anaheim-family-suites.jpg"><img src="/images/sonesta-anaheim-family-suites.jpg" alt="Bunkbeds Family Suites Sonesta Anaheim Resort" /></a></figure></div>
 
 **[See Photos, Reviews, &amp; More](/sonesta-redondo-beach-and-marina/)**
 
-<div class="wp-block-uagb-image uagb-block-020d580f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="sheraton-park-anaheim-hotel"><figure>[![Family friendly hotels near Disneyland Sheraton Park](/images/sheraton-park-anaheim-hotel.jpg)](/images/sheraton-park-anaheim-hotel.jpg)<figcaption class="uagb-image-caption">Courtesy of Sheraton</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-020d580f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="sheraton-park-anaheim-hotel"><figure><a href="/images/sheraton-park-anaheim-hotel.jpg"><img src="/images/sheraton-park-anaheim-hotel.jpg" alt="Family friendly hotels near Disneyland Sheraton Park" /></a><figcaption class="uagb-image-caption">Courtesy of Sheraton</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-a83dc9f6">
 
@@ -293,7 +293,7 @@ One of the standout features of this hotel is its fabulous pool area. The kids w
 
 **[See Photos, Reviews, &amp; More](/go/sheraton-park-hotel-anaheim/)**
 
-<div class="wp-block-uagb-image uagb-block-19104f3c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="courtyard-theme-park-anaheim"><figure>[![Family Suites Anaheim Courtyard Them Park Hotel](/images/courtyard-theme-park-anaheim-1.jpg)](/images/courtyard-theme-park-anaheim-1.jpg)<figcaption class="uagb-image-caption">Courtesy of Marriott</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-19104f3c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="courtyard-theme-park-anaheim"><figure><a href="/images/courtyard-theme-park-anaheim-1.jpg"><img src="/images/courtyard-theme-park-anaheim-1.jpg" alt="Family Suites Anaheim Courtyard Them Park Hotel" /></a><figcaption class="uagb-image-caption">Courtesy of Marriott</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-57464be0">
 
@@ -314,11 +314,11 @@ One of the highlights of this hotel is the incredible water park. Yes, you heard
 
 There’s a convenient bistro on-site offering delicious meals for breakfast, lunch, and dinner. Plus, there’s a Starbucks for your morning coffee fix and a market where you can grab snacks and essentials any time of day.
 
-<div class="wp-block-uagb-image uagb-block-6d1cc632 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="courtyard-theme-park-anaheim-bunkbeds"><figure>[![Bunkbeds Family Suites Courtyard Anaheim](/images/courtyard-theme-park-anaheim-bunkbeds.jpg)](/images/courtyard-theme-park-anaheim-bunkbeds.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-6d1cc632 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="courtyard-theme-park-anaheim-bunkbeds"><figure><a href="/images/courtyard-theme-park-anaheim-bunkbeds.jpg"><img src="/images/courtyard-theme-park-anaheim-bunkbeds.jpg" alt="Bunkbeds Family Suites Courtyard Anaheim" /></a></figure></div>
 
 **[See Photos, Reviews, &amp; More](/go/courtyard-anaheim-park-entrance/)**
 
-<div class="wp-block-uagb-image uagb-block-8182e4c9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="howard-johnson-anaheim"><figure>[![Howard Johnson Family Anaheim Hotel ](/images/howard-johnson-anaheim.jpg)](/images/howard-johnson-anaheim.jpg)<figcaption class="uagb-image-caption">Courtesy of Howard Johnson</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-8182e4c9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="howard-johnson-anaheim"><figure><a href="/images/howard-johnson-anaheim.jpg"><img src="/images/howard-johnson-anaheim.jpg" alt="Howard Johnson Family Anaheim Hotel " /></a><figcaption class="uagb-image-caption">Courtesy of Howard Johnson</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-e597cd98">
 
@@ -341,7 +341,7 @@ The Castaway Cove water playground is a highlight for kids and parents alike. Wi
 
 In addition to the water playground, the hotel features a heated outdoor pool, a hot tub, and a game room. There’s no shortage of fun activities to keep everyone entertained during your downtime.
 
-<div class="wp-block-uagb-image uagb-block-6c0e84ae wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="howard-johnson-anaheim-family-suites"><figure>[![Bunkbed family room at Howard Johnson Anaheim](/images/howard-johnson-anaheim-family-suites.jpg)](/images/howard-johnson-anaheim-family-suites.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-6c0e84ae wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="howard-johnson-anaheim-family-suites"><figure><a href="/images/howard-johnson-anaheim-family-suites.jpg"><img src="/images/howard-johnson-anaheim-family-suites.jpg" alt="Bunkbed family room at Howard Johnson Anaheim" /></a></figure></div>
 
 **[See Photos, Reviews, &amp; More](/go/howard-johnson-anaheim/)**
 
@@ -361,7 +361,7 @@ For more hotels with all the amenities your family will love, check out our guid
 
 <div class="wp-block-columns has-2-columns">
 <div class="wp-block-column">
-<figure>![5 Hottest family hotels in Anaheim - Best family suites near Disneyland](/images/best-family-hotels-anaheim-suites-near-disneyland-for-kids-200x300.jpg)</figure>
+<figure><img src="/images/best-family-hotels-anaheim-suites-near-disneyland-for-kids-200x300.jpg" alt="5 Hottest family hotels in Anaheim - Best family suites near Disneyland" /></figure>
 </div>
 </div>
 
