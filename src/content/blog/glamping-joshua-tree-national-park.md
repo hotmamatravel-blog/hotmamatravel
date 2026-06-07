@@ -16,7 +16,7 @@ Joshua Tree, California is a National Park with a rugged desert landscape and Dr
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, AirBnB). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-58c8c60e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="joshua-tree-glamping-hicksville-trailer-palace">[![](https://hotmamatravel.com/wp-content/uploads/2021/08/joshua-tree-glamping-hicksville-trailer-palace.jpg)](/wp-content/uploads/2021/08/joshua-tree-glamping-hicksville-trailer-palace.jpg)</figure>
+<figure id="joshua-tree-glamping-hicksville-trailer-palace">[![](/images/joshua-tree-glamping-hicksville-trailer-palace.jpg)](/images/joshua-tree-glamping-hicksville-trailer-palace.jpg)</figure>
 
 #### [Hicksville Trailer Palace](/go/hicksville-trailer-palace-joshua-tree-ca/)
 
@@ -33,7 +33,7 @@ For trailers without a private bathroom, there is a communal shower room and toi
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-61bffefb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/09/joshua-tree-glamping-castle-house-estate.jpg)</figure>
+<figure>![](/images/joshua-tree-glamping-castle-house-estate.jpg)</figure>
 
 #### [The Castle House Estate](/go/castle-house-estate-joshua-tree-ca/)
 
@@ -48,7 +48,7 @@ Featured on HGTV as the “ultimate glamping experience, The Castle House Estate
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d81e318d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/09/joshua-tree-glamping-joshua-tree-acres.jpeg)</figure>
+<figure>![](/images/joshua-tree-glamping-joshua-tree-acres.jpeg)</figure>
 
 #### [Joshua Tree Acres](https://www.joshuatreeacres.com/)
 
@@ -63,7 +63,7 @@ Joshua Tree Acres is a charming spot to glamp in Joshua Tree. Started by three f
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-792dc39e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/09/joshua-tree-glamping-joshuas-treehouses.jpg)</figure>
+<figure>![](/images/joshua-tree-glamping-joshuas-treehouses.jpg)</figure>
 
 #### [Joshua’s Treehouses](/go/joshuas-treehouses-glamping-joshua-tree-ca/)
 
@@ -78,7 +78,7 @@ Located on five acres of desert property, Joshua’s Treehouses offer six accomm
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c8238229"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="autocamp-joshua-tree-glamping">[![](https://hotmamatravel.com/wp-content/uploads/2023/06/autocamp-joshua-tree-glamping.jpg)](/wp-content/uploads/2023/06/autocamp-joshua-tree-glamping.jpg)</figure>
+<figure id="autocamp-joshua-tree-glamping">[![](/images/autocamp-joshua-tree-glamping.jpg)](/images/autocamp-joshua-tree-glamping.jpg)</figure>
 
 #### [Autocamp Joshua Tree](/go/autocamp-glamping-joshua-tree/)
 
@@ -144,5 +144,5 @@ For more nearby options, check out our article on the [best glamping sites near 
 
 **Like it? Pin it!**
 
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/09/5-best-glamping-joshua-tree-200x300.jpg)</figure>
+<figure>![](/images/5-best-glamping-joshua-tree-200x300.jpg)</figure>
 </div></section>

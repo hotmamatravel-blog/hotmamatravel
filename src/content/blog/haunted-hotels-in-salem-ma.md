@@ -19,7 +19,7 @@ Embracing witchcraft and magic as well as honoring those who lost their lives, S
 
 So if you love all things Halloween or you are just a history lover, you should plan a trip to Salem today. If you are planning a trip to Salem, embrace the haunted happenings all year long with a stay at one of these haunted hotels in Salem.
 
-<figure id="hawthrone-hotel-haunted-hotels-salem-ma">[![Haunted Hawthorne Hotel Salem Ma](https://hotmamatravel.com/wp-content/uploads/2022/10/Hawthrone-Hotel.jpg)](/wp-content/uploads/2022/10/Hawthrone-Hotel.jpg)</figure>
+<figure id="hawthrone-hotel-haunted-hotels-salem-ma">[![Haunted Hawthorne Hotel Salem Ma](/images/Hawthrone-Hotel.jpg)](/images/Hawthrone-Hotel.jpg)</figure>
 
 ## [Hawthorne Hotel](/go/hawthrone-hotel-salem-ma/)
 
@@ -41,7 +41,7 @@ The rooms are spacious (yes, multiple bathrooms, because no one wants to fight o
 
 [**See photos, reviews &amp; more**](/go/hawthrone-hotel-salem-ma/)
 
-<figure id="salem-inn-haunted-hotels-salem-ma">[![The Salem Inn in Salem Ma](https://hotmamatravel.com/wp-content/uploads/2022/10/Salem-Inn.jpg)](/wp-content/uploads/2022/10/Salem-Inn.jpg)</figure>
+<figure id="salem-inn-haunted-hotels-salem-ma">[![The Salem Inn in Salem Ma](/images/Salem-Inn.jpg)](/images/Salem-Inn.jpg)</figure>
 
 ## [The Salem Inn](/go/salem-inn-salem-ma/)
 
@@ -67,7 +67,7 @@ The Salem Inn is totally HotMamaTravel approved because it delivers all the hist
 
 [**See photos, reviews &amp; more**](/go/salem-inn-salem-ma/)
 
-<figure id="daniels-house-bed-breakfast-haunted-hotels-salem-ma">[![Daniels House Bed and Breakfast Salem MA](https://hotmamatravel.com/wp-content/uploads/2022/10/Daniels-House.jpg)](/wp-content/uploads/2022/10/Daniels-House.jpg)</figure>
+<figure id="daniels-house-bed-breakfast-haunted-hotels-salem-ma">[![Daniels House Bed and Breakfast Salem MA](/images/Daniels-House.jpg)](/images/Daniels-House.jpg)</figure>
 
 ## [The Daniels House Bed and Breakfast](/go/daniels-house-bed-breakfast-salem-ma/)
 
@@ -85,7 +85,7 @@ The Daniels House is HotMamaTravel approved because it’s like spending the nig
 
 [**See photos, reviews &amp; more**](/go/daniels-house-bed-breakfast-salem-ma/)
 
-<figure id="the-merchant-haunted-hotels-salem-ma">[![The Merchant Salem Ma](https://hotmamatravel.com/wp-content/uploads/2022/10/Merchant-Hotel.jpg)](/wp-content/uploads/2022/10/Merchant-Hotel.jpg)</figure>
+<figure id="the-merchant-haunted-hotels-salem-ma">[![The Merchant Salem Ma](/images/Merchant-Hotel.jpg)](/images/Merchant-Hotel.jpg)</figure>
 
 ## [The Merchant](/go/the-merchant-salem-ma/)
 
@@ -117,5 +117,5 @@ So who is ready for a spirited stay at one of these awesome haunted hotels in Sa
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Discover the best haunted hotels in Salem, MA for families! Explore family-friendly spooky stays with ghost stories, history, and New England charm. #SalemTravel #FamilyTravel #HauntedHotels #SpookyGetaway #HotMamaTravel">[![Haunted Hotels Salem MA](https://hotmamatravel.com/wp-content/uploads/2022/10/Haunted-Hotels-Salem--200x300.jpg)](/images/Haunted-Hotels-Salem-.jpg)</figure>
+<figure data-essb-pin-description="Discover the best haunted hotels in Salem, MA for families! Explore family-friendly spooky stays with ghost stories, history, and New England charm. #SalemTravel #FamilyTravel #HauntedHotels #SpookyGetaway #HotMamaTravel">[![Haunted Hotels Salem MA](/images/Haunted-Hotels-Salem--200x300.jpg)](/images/Haunted-Hotels-Salem-.jpg)</figure>
 </div></div>

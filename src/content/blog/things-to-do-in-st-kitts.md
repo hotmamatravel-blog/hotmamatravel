@@ -16,7 +16,7 @@ The Caribbean island of St Kitts is one of the most popular destination stops fo
 Today, St Kitts still remains part of the Commonwealth of Nations with King Charles III serving as the Head of State. In this article, we explore ten amazing activities that you can enjoy in St Kitts to give you a rich appreciation of the culture, history and charm of the island.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-92cf5599"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Brimstone-Hill-Fortress-National-Park">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/Brimstone-Hill-Fortress-National-Park.jpg)](/wp-content/uploads/2023/01/Brimstone-Hill-Fortress-National-Park.jpg)</figure>
+<figure id="Brimstone-Hill-Fortress-National-Park">[![](/images/Brimstone-Hill-Fortress-National-Park.jpg)](/images/Brimstone-Hill-Fortress-National-Park.jpg)</figure>
 
 #### [Visit Brimstone Hill Fortress National Park](/go/brimstone-hill-fortress-national-park-st-kitts/)
 
@@ -31,7 +31,7 @@ This park is open to visitors daily from 9:30 am to 5:30 pm and provides breatht
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-06900145"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="st-maarten-day-trip">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/st-maarten-day-trip.jpg)](/wp-content/uploads/2023/01/st-maarten-day-trip.jpg)</figure>
+<figure id="st-maarten-day-trip">[![](/images/st-maarten-day-trip.jpg)](/images/st-maarten-day-trip.jpg)</figure>
 
 #### [Island Hop To St Maarten](/go/st-martin-st-maarten-caribbean/)
 
@@ -44,7 +44,7 @@ Furthermore, there are also onward connections to other Dutch Caribbean Islands 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-52aa994c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="nevis-st-kitts">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/nevis-st-kitts.jpg)](/wp-content/uploads/2023/01/nevis-st-kitts.jpg)</figure>
+<figure id="nevis-st-kitts">[![](/images/nevis-st-kitts.jpg)](/images/nevis-st-kitts.jpg)</figure>
 
 #### [Spend The Day In Nevis](/go/nevis-st-kitts-caribbean/)
 
@@ -59,7 +59,7 @@ Nature lovers to the island can enjoy the beauty of the flora, fauna and wildlif
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-70b3b647"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="South-Peninsula-st-kitts">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/South-Peninsula-st-kitts.jpg)](/wp-content/uploads/2023/01/South-Peninsula-st-kitts.jpg)</figure>
+<figure id="South-Peninsula-st-kitts">[![](/images/South-Peninsula-st-kitts.jpg)](/images/South-Peninsula-st-kitts.jpg)</figure>
 
 #### [Take Pictures At The South Peninsula](/go/south-peninsula-st-kitts-nevis-caribbean/)
 
@@ -70,7 +70,7 @@ This is truly the most spectacular spot on the island for photo opportunities. T
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2646e930"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="port-zante-st-kitts">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/porte-zante-st-kitts.jpg)](/wp-content/uploads/2023/01/porte-zante-st-kitts.jpg)</figure>
+<figure id="port-zante-st-kitts">[![](/images/porte-zante-st-kitts.jpg)](/images/porte-zante-st-kitts.jpg)</figure>
 
 #### [Shop At Port Zante](/go/port-zante-st-kitts-caribbean/)
 
@@ -83,7 +83,7 @@ The local currency used is the Eastern Caribbean Dollar. Nevertheless, US dollar
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a3bbf368"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="romney-manor-st-kitts">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/romney-manor-st-kitts.jpg)](/wp-content/uploads/2023/01/romney-manor-st-kitts.jpg)</figure>
+<figure id="romney-manor-st-kitts">[![](/images/romney-manor-st-kitts.jpg)](/images/romney-manor-st-kitts.jpg)</figure>
 
 #### [Stop By Romney Manor](/go/romney-manor-st-kitts-caribbean/)
 
@@ -99,7 +99,7 @@ architecture. This venue is a perfect activity for families including children a
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-744e4a10"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="st-kitts-scenic-railway">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/st-kitts-scenic-railway.jpg)](/wp-content/uploads/2023/01/st-kitts-scenic-railway.jpg)</figure>
+<figure id="st-kitts-scenic-railway">[![](/images/st-kitts-scenic-railway.jpg)](/images/st-kitts-scenic-railway.jpg)</figure>
 
 #### [Take A Scenic Train Tour](/go/st-kitts-scenic-railway-caribbean/)
 
@@ -112,7 +112,7 @@ The rail was built between 1912 and 1926 to bring sugar cane from the plantation
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-910022c2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="cockleshell-beach-st-kitts">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/cockleshell-beach-st-kitts.jpg)](/wp-content/uploads/2023/01/cockleshell-beach-st-kitts.jpg)</figure>
+<figure id="cockleshell-beach-st-kitts">[![](/images/cockleshell-beach-st-kitts.jpg)](/images/cockleshell-beach-st-kitts.jpg)</figure>
 
 #### [Relax On The Beach](/go/cockleshell-beach-st-kitts-caribbean/)
 
@@ -128,7 +128,7 @@ It is one of the preferred locations on the island for snorkeling.
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-727c6da3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Mount-Liamuiga-st-kitts">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/Mount-Liamuiga-st-kitts.jpg)](/wp-content/uploads/2023/01/Mount-Liamuiga-st-kitts.jpg)</figure>
+<figure id="Mount-Liamuiga-st-kitts">[![](/images/Mount-Liamuiga-st-kitts.jpg)](/images/Mount-Liamuiga-st-kitts.jpg)</figure>
 
 #### [Hike Mount Liamuiga](/go/mount-liamuiga-st-kitts/)
 
@@ -141,7 +141,7 @@ The hike is moderate to difficult and may be challenging for beginners. Neverthe
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5f0afb16"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Basseterre-st-kitts">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/Basseterre-st-kitts.jpg)](/wp-content/uploads/2023/01/Basseterre-st-kitts.jpg)</figure>
+<figure id="Basseterre-st-kitts">[![](/images/Basseterre-st-kitts.jpg)](/images/Basseterre-st-kitts.jpg)</figure>
 
 #### [Explore The City of Basseterre](/go/basseterre-st-kitts-nevis-caribbean/)
 
@@ -171,5 +171,5 @@ St Kitts &amp; Nevis is truly a gem in the Caribbean that gives you the opportun
 
 **Like it? Pin it!**
 
-<figure id="things-to-do-in-st-kitts">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/10-things-to-do-st-kitts-200x300.jpg)](/images/10-things-to-do-st-kitts.jpg)</figure>
+<figure id="things-to-do-in-st-kitts">[![](/images/10-things-to-do-st-kitts-200x300.jpg)](/images/10-things-to-do-st-kitts.jpg)</figure>
 </div></section>

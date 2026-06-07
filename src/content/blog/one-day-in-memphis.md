@@ -33,7 +33,7 @@ The location moved in 1925 to make way for a department store. Although the demo
 
 It may surprise you, but the Peabody ducks are a pretty big deal. Like all good traditions, the history of the Peabody Hotel ducks dates back to 1933 after a few drams of whiskey. The general manager at the time had just returned from a hunting trip and thought it would be funny to place his live ducks decoys in the lobby’s fountain. People loved it and in 1940 the bellman, who was also a former circus trainer, taught the ducks the now internationally famous Peabody Duck March.
 
-*[![The beautiful Peabody Hotel Memphis TN](https://hotmamatravel.com/wp-content/uploads/2018/01/Peabody.jpg)](/one-day-in-memphis/)*
+*[![The beautiful Peabody Hotel Memphis TN](/images/Peabody.jpg)](/one-day-in-memphis/)*
 
 ## *Places to Eat in Memphis TN:*
 
@@ -41,7 +41,7 @@ It may surprise you, but the Peabody ducks are a pretty big deal. Like all good 
 
 There are a lot of great downtown Memphis restaurants, but you cannot visit Memphis without trying some of their famous Memphis BBQ. Our first order of business when we got into town was to find the best BBQ in Memphis and eat it! For us that meant a trip to Central BBQ Memphis TN. Now I will be honest, I was never a huge BBQ fan. That was until I tried Memphis BBQ. It blew me away! For the first time ever, my husband actually had to hoard some ribs before I ate them all. We tried a lot of BBQ throughout our time in the south and we all agreed Memphis had the best!
 
-[![Central BBQ Memphis](https://hotmamatravel.com/wp-content/uploads/2018/01/Central-BBQ.jpg)](/one-day-in-memphis/)
+[![Central BBQ Memphis](/images/Central-BBQ.jpg)](/one-day-in-memphis/)
 
 ### Peabody Restaurants:
 
@@ -59,7 +59,7 @@ If you are looking for a good steak dinner in Memphis, Capriccio Grill is the pl
 
 Great for a quick lunch or dessert, the Peabody Deli &amp; Desserts has sandwiches and sweets. Papa popped by here in for a yummy cup of morning coffee.
 
-[![Delicious desserts at Peabody Hotel Memphis](https://hotmamatravel.com/wp-content/uploads/2018/01/Peabody-Desserts-e1515438750622.jpg)](/one-day-in-memphis/)
+[![Delicious desserts at Peabody Hotel Memphis](/images/Peabody-Desserts-e1515438750622.jpg)](/one-day-in-memphis/)
 
 ### Beale Street Restaurants Memphis:
 
@@ -69,13 +69,13 @@ Beale Street is not only historical it is also where all the action is, especial
 
 Even though we are always traveling with kids, we are always looking for a place to grab a drink. Luckily for us, some of the best bars in Memphis are also restaurants and that means the kids are welcomed! Yay for us! So we headed straight for some fun at the Beale Street bars.
 
-[![Hanging out on Beale Street Downtown Memphis with kids](https://hotmamatravel.com/wp-content/uploads/2018/01/BEALE-STREET.jpg)](/one-day-in-memphis/)
+[![Hanging out on Beale Street Downtown Memphis with kids](/images/BEALE-STREET.jpg)](/one-day-in-memphis/)
 
 ### BB King’s Blues Club:
 
 Although we visited a BB King’s while[we were Nashville](/belle-meade-plantation/), the one in Memphis is the original [BB King’s Blues Club](http://bbkings.com/memphis/). As we were walking down the lively Beale Street looking for some fun things to do in Memphis, we could hear the band rocking out from the street. We knew this is where we wanted to spend the evening hanging with the kids. It was a great choice too, because the band was amazing. It was Memphis entertainment at its best. Not only were we adults having a great time, but the kids were also having a blast dancing the night away.
 
-[![The original BB King](https://hotmamatravel.com/wp-content/uploads/2018/01/BB-Kings.jpg)](/one-day-in-memphis/)
+[![The original BB King](/images/BB-Kings.jpg)](/one-day-in-memphis/)
 
 ### Peabody Bar:
 
@@ -85,7 +85,7 @@ They have a great selection of whisky cocktails and martinis if you are in the m
 
 What did the kids sip on you ask? Well, what makes the Peabody bar even more special was there exciting mocktail menu. For the kids, we ordered a Virgin Strawberry Daiquiri and a Fuzzy Duckling. Having a fancy drink to enjoy makes the kids feel like grown-ups and behave as such in the beautiful atmosphere of the lobby bar.
 
-*[![Enjoying cocktails and mocktails in the beautiful Peabody Lobby Bar in Memphis TN](https://hotmamatravel.com/wp-content/uploads/2018/01/Peabody-Bar.jpg)](/one-day-in-memphis/)*
+*[![Enjoying cocktails and mocktails in the beautiful Peabody Lobby Bar in Memphis TN](/images/Peabody-Bar.jpg)](/one-day-in-memphis/)*
 
 ## *Things to do in Memphis with Kids:*
 
@@ -95,7 +95,7 @@ There are a ton of things to do in Memphis. The problem is finding the time to d
 
 Probably one of the top family activities in Memphis is seeing the famous Peabody Hotel Duck March. The cute little duckies make their grand entrance to the Lobby fountain at 11:00am every day and retire via red carpet at 5:00pm each evening. It is a surprisingly big event and huge crowds fill the lobby during these times. Kids have front row access as the Duck Master marches the ducks down the red carpet to and from their private elevator. It sounds silly, but it is quite a production and one we are glad we didn’t miss. Plus, it is FREE!
 
-[![Waiting for the famous Peabody Duck March ](https://hotmamatravel.com/wp-content/uploads/2018/01/DUCKS-e1515442508823.jpg)](/one-day-in-memphis/)
+[![Waiting for the famous Peabody Duck March ](/images/DUCKS-e1515442508823.jpg)](/one-day-in-memphis/)
 
 ### Things to do in Downtown Memphis:
 
@@ -105,7 +105,7 @@ Downtown Memphis covers the large area along the Mississippi River between Inter
 
 Looking for things to do in Memphis at night? Head to Beale Street. Located in the entertainment district, Beale Street is not just a playground for adults. There are a surprising number of things to do with kids. For instance, most the live music venues, bars and blues clubs also act as restaurants. This means kids are allowed through the door and that makes it okay for us! There are even several all-ages concert venues, like New Daisy Theatre!
 
-[![Things to do in Memphis with kids: Party on Beale Street](https://hotmamatravel.com/wp-content/uploads/2018/01/BEALE-STREET-Kids.jpg)](/one-day-in-memphis/)
+[![Things to do in Memphis with kids: Party on Beale Street](/images/BEALE-STREET-Kids.jpg)](/one-day-in-memphis/)
 
 ### Mud Island:
 
@@ -115,7 +115,7 @@ Located in the middle of the Mississippi River, Mud Island is actually a very lu
 
 This is where the story of the Civil Rights movement is told. It is this neighborhood where you will find the [Civil Rights Museum](https://www.civilrightsmuseum.org/). Interestingly enough, it is actually located at the infamous Lorraine Motel, the site of Martin Luther King Jr.’s assassination. Although we didn’t have time to visit inside the museum, we did see the hotel and it was an eerie and sad feeling. It is an important part of American history that I think all families should try to make time to learn about on their trip to Memphis.
 
-[![The infamous Lorraine Motel where Martin Luther King was assassinated ](https://hotmamatravel.com/wp-content/uploads/2018/01/Lorraine-Hotel.jpg)](/one-day-in-memphis/)
+[![The infamous Lorraine Motel where Martin Luther King was assassinated ](/images/Lorraine-Hotel.jpg)](/one-day-in-memphis/)
 
 ### The Edge:
 
@@ -133,4 +133,4 @@ Phew! That was a long one, but there are so many things to do in Memphis TN that
 
 **Like it? Pin it!**
 
-[![One Day in Memphis](https://hotmamatravel.com/wp-content/uploads/2018/01/ODM.png)](/one-day-in-memphis/)
+[![One Day in Memphis](/images/ODM.png)](/one-day-in-memphis/)

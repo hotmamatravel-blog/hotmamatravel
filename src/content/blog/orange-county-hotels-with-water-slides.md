@@ -29,7 +29,7 @@ If your kids judge a hotel by the size of its water slide (and honestly, who can
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-44de834d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![hyatt regency newport beach](https://hotmamatravel.com/wp-content/uploads/2020/09/Hyatt-Regency-Newport-Beach.jpg)](/wp-content/uploads/2020/09/Hyatt-Regency-Newport-Beach.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-44de834d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![hyatt regency newport beach](/images/Hyatt-Regency-Newport-Beach.jpg)](/images/Hyatt-Regency-Newport-Beach.jpg)</figure></div>
 
 ### 🐚 Hyatt Regency Newport Beach
 
@@ -49,7 +49,7 @@ Perfect for a laid-back coastal escape, **Hyatt Regency Newport Beach** offers l
 
 **See photos, reviews &amp; more**
 
-<div class="wp-block-uagb-image uagb-block-7cf1f021 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![anaheim resorts suites](https://hotmamatravel.com/wp-content/uploads/2023/11/Cambria-Anaheim-family-hotel.jpg)](/wp-content/uploads/2023/11/Cambria-Anaheim-family-hotel.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-7cf1f021 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![anaheim resorts suites](/images/Cambria-Anaheim-family-hotel.jpg)](/images/Cambria-Anaheim-family-hotel.jpg)</figure></div>
 
 ### 🏴‍☠️ Anaheim Resort Suites
 

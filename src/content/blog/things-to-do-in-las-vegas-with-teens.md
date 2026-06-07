@@ -89,7 +89,7 @@ View this post as a Google Web Story here: [Things to do in Las Vegas with Teens
 
 Las Vegas is known for world-class entertainment, and it would be a sin not to catch a show while you are in town. There are a ton of amazing [**shows in Las Vegas for teens**](/best-las-vegas-shows-for-teens/) specifically. Although I put together an extensive post showcasing [**21 of the best family shows in Vegas**](/las-vegas-shows-for-kids/), here are five that I feel will be particularly interesting for your teen.
 
-<figure id="piff-magic-dragon-show-las-vegas-teens">![Piff the Magic Dragon Las Vegas show for teens](https://hotmamatravel.com/wp-content/uploads/2020/03/piff-magic-dragon-vegas-show-for-teens.jpg)</figure>
+<figure id="piff-magic-dragon-show-las-vegas-teens">![Piff the Magic Dragon Las Vegas show for teens](/images/piff-magic-dragon-vegas-show-for-teens.jpg)</figure>
 
 #### [Piff the Magic Dragon](/go/piff-magic-dragon-las-vegas-bov/)
 
@@ -99,7 +99,7 @@ Located in the [Flamingo’s Bugsy's Cabaret](https://www.caesars.com/flamingo-l
 
 [**See photos, reviews &amp; more**](/go/piff-magic-dragon-las-vegas-bov/)
 
-<figure id="jabbawockeez-show-for-teens-las-vegas">![Jabbawockeez Things to do in Las Vegas with Teens](https://hotmamatravel.com/wp-content/uploads/2020/03/jabbawockeez-mgm-show-in-vegas-for-teenagers.jpg)</figure>
+<figure id="jabbawockeez-show-for-teens-las-vegas">![Jabbawockeez Things to do in Las Vegas with Teens](/images/jabbawockeez-mgm-show-in-vegas-for-teenagers.jpg)</figure>
 
 #### [Jabbawockeez](/go/jabbawockeez-las-vegas-bov/)
 
@@ -109,7 +109,7 @@ Jabbawockeez oozes cool! Located at [MGM Grand](https://mgmgrand.mgmresorts.com/
 
 [**See photos, reviews &amp; more**](/go/jabbawockeez-las-vegas-bov/)
 
-<figure id="las-vegas-shows-for-teens-michael-jackson-one">![Michael Jackson ONE Las Vegas](https://hotmamatravel.com/wp-content/uploads/2020/03/michael-jackson-one-mandalay-vegas-show.jpg)</figure>
+<figure id="las-vegas-shows-for-teens-michael-jackson-one">![Michael Jackson ONE Las Vegas](/images/michael-jackson-one-mandalay-vegas-show.jpg)</figure>
 
 #### [Michael Jackson ONE](/go/michael-jackson-one-las-vegas-bov/)
 
@@ -119,7 +119,7 @@ First off, this is not your typical Michael Jackson impersonator show. Michael J
 
 [**See photos, reviews &amp; more**](/go/michael-jackson-one-las-vegas-bov/)
 
-<figure id="criss-angel-mind-freak-las-vegas-show">![Criss Angel MindFreak Las Vegas Shows ](https://hotmamatravel.com/wp-content/uploads/2020/03/criss-angel-mindfreak-planet-hollywood.jpg)</figure>
+<figure id="criss-angel-mind-freak-las-vegas-show">![Criss Angel MindFreak Las Vegas Shows ](/images/criss-angel-mindfreak-planet-hollywood.jpg)</figure>
 
 #### [Criss Angel Mindfreak](/go/criss-angel-las-vegas-bov/)
 
@@ -129,7 +129,7 @@ Teens will love Criss Angel Mindfreak, because it is edgy, immersive, mysterious
 
 [**See photos, reviews &amp; more**](/go/criss-angel-las-vegas-bov/)
 
-<figure id="mystere-treasure-island-las-vegas-show">![Treasure Island Hotel Mystere Las Vegas](https://hotmamatravel.com/wp-content/uploads/2017/07/las-vegas-show-mystere-treasure-island.png)</figure>
+<figure id="mystere-treasure-island-las-vegas-show">![Treasure Island Hotel Mystere Las Vegas](/images/las-vegas-show-mystere-treasure-island.png)</figure>
 
 #### [Mystere](/go/mystere-las-vegas-bov/)&nbsp;
 
@@ -147,7 +147,7 @@ I was personally obsessed with this show as a teenager, which is why I know your
 
 Vegas is more than just casinos, as you know. There are a lot of really cool and, dare I say, educational attractions in Sin City. Yes, Las Vegas is home to many museums and exhibits. Those listed below will be particularly interesting to your teen.
 
-<figure id="real-bodies-exhibit-las-vegas">![Real Bodies Museum Las Vegas](https://hotmamatravel.com/wp-content/uploads/2020/03/real-bodies-ballys-las-vegas-attraction-for-teens.jpg)</figure>
+<figure id="real-bodies-exhibit-las-vegas">![Real Bodies Museum Las Vegas](/images/real-bodies-ballys-las-vegas-attraction-for-teens.jpg)</figure>
 
 #### [Real Bodies](/go/real-bodies-ballys-las-vegas/)
 
@@ -157,7 +157,7 @@ What teen doesn't love a little shock value? This exhibit, at [Horseshoe Las Veg
 
 [**See photos, reviews &amp; more**](/go/real-bodies-ballys-las-vegas/)
 
-<figure id="mob-museum-las-vegas">![Mob Museum Las Vegas for Teens](https://hotmamatravel.com/wp-content/uploads/2020/03/mob-museum-las-vegas.jpg)</figure>
+<figure id="mob-museum-las-vegas">![Mob Museum Las Vegas for Teens](/images/mob-museum-las-vegas.jpg)</figure>
 
 #### [Mob Museum](/go/las-vegas-mob-museum/)
 
@@ -171,7 +171,7 @@ Parents, listen up! Now at the Mob Museum there is an underground speakeasy, The
 
 [**See photos, reviews &amp; more**](/go/las-vegas-mob-museum/)
 
-<figure id="zak-bagans-haunted-museum-las-vegas">![Zak Bagan](https://hotmamatravel.com/wp-content/uploads/2020/03/zak-bagans-haunted-museum-church.jpg)</figure>
+<figure id="zak-bagans-haunted-museum-las-vegas">![Zak Bagan](/images/zak-bagans-haunted-museum-church.jpg)</figure>
 
 #### [Zak&nbsp; Bagan’s The Haunted Museum](/go/zak-bagans-haunted-museum/)
 
@@ -199,7 +199,7 @@ I don’t know about you, but my kids LOVE ziplines. The VooDoo Zipline at the [
 
 [**See photos, reviews &amp; more**](/go/rio-voodoo-zipline-las-vegas/)
 
-<figure id="vegas-indoor-skydiving">![Las Vegas Indoor Skydiving ](https://hotmamatravel.com/wp-content/uploads/2020/03/vegas-indoor-skydiving-teens.jpg)</figure>
+<figure id="vegas-indoor-skydiving">![Las Vegas Indoor Skydiving ](/images/vegas-indoor-skydiving-teens.jpg)</figure>
 
 #### [Vegas Indoor Skydiving](/go/vegas-indoor-skydiving/)
 
@@ -209,7 +209,7 @@ If your teen loves adrenaline rushes, then they might enjoy Vegas Indoor Skydivi
 
 [**See photos, reviews &amp; more**](/go/vegas-indoor-skydiving/)
 
-<figure id="area-15-las-vegas">[![Area 15 Las Vegas Art in Motion](https://hotmamatravel.com/wp-content/uploads/2022/01/AREA15-Vortex-Laurent-Velazquez-1024x683.jpg)](/images/AREA15-Vortex-Laurent-Velazquez-scaled.jpg)<figcaption class="wp-element-caption">Art in Motion</figcaption></figure>
+<figure id="area-15-las-vegas">[![Area 15 Las Vegas Art in Motion](/images/AREA15-Vortex-Laurent-Velazquez-1024x683.jpg)](/images/AREA15-Vortex-Laurent-Velazquez-scaled.jpg)<figcaption class="wp-element-caption">Art in Motion</figcaption></figure>
 
 #### [AREA 15](/go/area-15-las-vegas-teens/)
 
@@ -227,7 +227,7 @@ This attraction just opened in 2020, and I am so excited about it! This is Meow 
 
 [**See photos, reviews &amp; more**](/go/area-15-las-vegas-teens/)
 
-<figure id="las-vegas-big-apple-coaster">![Big Apple Coaster Las Vegas ](https://hotmamatravel.com/wp-content/uploads/2020/03/new-york-new-york-las-vegas-big-apple-coaster.jpg)</figure>
+<figure id="las-vegas-big-apple-coaster">![Big Apple Coaster Las Vegas ](/images/new-york-new-york-las-vegas-big-apple-coaster.jpg)</figure>
 
 #### [The Big Apple Coaster &amp; Arcade](/go/big-apple-coaster-nyny-las-vegas/)
 
@@ -237,7 +237,7 @@ This isn’t just any roller Coaster, this roller coaster soars above the Las Ve
 
 [**See photos, reviews &amp; more**](/go/big-apple-coaster-nyny-las-vegas/)
 
-<figure id="Las-vegas-pool-mirage">![Mirage family pool Las Vegas](https://hotmamatravel.com/wp-content/uploads/2020/03/mirage-pool-las-vegas-teens.jpg)</figure>
+<figure id="Las-vegas-pool-mirage">![Mirage family pool Las Vegas](/images/mirage-pool-las-vegas-teens.jpg)</figure>
 
 #### Vegas Pools
 
@@ -263,5 +263,5 @@ Like it? Pin it!
 
 <figure id="las-vegas-with-teens" data-essb-pin-description="Las Vegas with teens? Yep—it’s totally a thing! 🎰👟 Skip the slots and discover the real Vegas fun for families with older kids. From thrill rides and epic VR experiences to insta-worthy spots and foodie adventures, this guide covers all the coolest things to do in Las Vegas with teenagers. Because let’s face it—if your teen isn’t entertained, nobody is. 😅 Check out the full list on HotMamaTravel.com and make your next Vegas trip a win for the whole fam! #FamilyTravelWithATwist
 
-#LasVegasWithTeens #FamilyTravel #VegasVacation #TravelWithTeens #FamilyFunInVegas #TeenTravel #VegasWithKids #HotMamaTravel #VegasTravelGuide">[![Best Things to do in Las Vegas with Teens](https://hotmamatravel.com/wp-content/uploads/2024/05/Best-Things-To-Do-With-Teen-In-Las-Vegas-200x300.jpg)](/images/Best-Things-To-Do-With-Teen-In-Las-Vegas.jpg)</figure>
+#LasVegasWithTeens #FamilyTravel #VegasVacation #TravelWithTeens #FamilyFunInVegas #TeenTravel #VegasWithKids #HotMamaTravel #VegasTravelGuide">[![Best Things to do in Las Vegas with Teens](/images/Best-Things-To-Do-With-Teen-In-Las-Vegas-200x300.jpg)](/images/Best-Things-To-Do-With-Teen-In-Las-Vegas.jpg)</figure>
 </div></div>

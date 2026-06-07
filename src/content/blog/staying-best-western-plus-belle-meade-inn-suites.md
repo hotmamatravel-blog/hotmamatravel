@@ -32,13 +32,13 @@ Belle Meade, TN is actually an independent city that has been absorbed by the Na
 
 There is more to Nashville than just country music. Yes, I said it! There is a rich history to be explored and if you are staying in Belle Meade, TN then a visit to the famous Belle Meade Plantation is a must. If you want more information and tips, we wrote a whole article about visiting the **[Belle Meade Plantation](/belle-meade-plantation/)** with kids. The Best Western Plus Belle Meade Inn &amp; Suites is conveniently located just down the road from the Belle Meade Plantation, just as the name suggests. I honestly didn’t know about the plantation until we checked in to our hotel. Once I read about it in the hotel lobby, I knew it would be a unique Nashville experience for our multi-generational traveling group.
 
-[![Belle Meade Plantation](https://hotmamatravel.com/wp-content/uploads/2017/10/DSC01991.jpg)](/staying-best-western-plus-belle-meade-inn-suites/)
+[![Belle Meade Plantation](/images/DSC01991.jpg)](/staying-best-western-plus-belle-meade-inn-suites/)
 
 ### Hattie B’s Hot Chicken:
 
 I was told that once I arrived in Nashville I had to try Hattie B’s Hot Chicken. Luckily for us, Hattie B’s Hot Chicken was located just down the street from Best Western Plus Belle Meade Inn &amp; Suites. Now, there another location in Midtown Nashville, but the West Nashville location is not only right by the hotel, it is also bigger. After a full day of sightseeing we made this our last stop before heading to our room for the night, but we were so full from eating all day that we only tried the hot chicken. Apparently, you have to get the sides. My niece got really mad when I told her we just got the chicken. Oh well, I guess that will give us an excuse to go back soon.
 
-[![Hattie B](https://hotmamatravel.com/wp-content/uploads/2017/10/DSC02446-e1509380304502.jpg)](/staying-best-western-plus-belle-meade-inn-suites/)
+[![Hattie B](/images/DSC02446-e1509380304502.jpg)](/staying-best-western-plus-belle-meade-inn-suites/)
 
 ##
 
@@ -46,13 +46,13 @@ I was told that once I arrived in Nashville I had to try Hattie B’s Hot Chicke
 
 Being unfamiliar with the layout of Nashville, I surprised to find that the Best Western Plus Belle Meade was not super close to downtown. It is about five miles out, which seemed far at first, especially when you are in a new city and have to drive your minivan around with your whole family and car seats in tow. However after driving into downtown Nashville a few times, we realized that it actually wasn’t far at all.
 
-[![Downtown Nashville with kids](https://hotmamatravel.com/wp-content/uploads/2017/10/DSC02436-e1509380586340.jpg)](/staying-best-western-plus-belle-meade-inn-suites/)
+[![Downtown Nashville with kids](/images/DSC02436-e1509380586340.jpg)](/staying-best-western-plus-belle-meade-inn-suites/)
 
 ## *Best Western Plus Belle Meade Inn &amp; Suites:*
 
 The Best Western Plus Belle Meade Inn &amp; Suites offers simplicity and comfort. Upon arrival the lobby was bright, clean and spacious. My kids immediately made themselves right at home while I checked-in. Family-owned, the staff was so warm and immediately made us feel welcomed.[** Check rates and availability**](http://www.jdoqocy.com/click-8336032-13039225).
 
-[![Best Western Plus Belle Meade Inn &amp; Suites](https://hotmamatravel.com/wp-content/uploads/2017/10/DSC02488-e1509380934203.jpg)](/staying-best-western-plus-belle-meade-inn-suites/)
+[![Best Western Plus Belle Meade Inn &amp; Suites](/images/DSC02488-e1509380934203.jpg)](/staying-best-western-plus-belle-meade-inn-suites/)
 
 ###
 
@@ -70,7 +70,7 @@ Even when traveling, I like to start my mornings off with a quick workout. It gi
 
 I have said it numerous times, but I love a good complimentary hotel breakfast. It just makes it so easy and affordable to get up and start your day while traveling. The kids loved getting up and heading straight to the lobby for a delicious breakfast loaded with an array of options. There is a variety of breads, cereals, yogurts, juices and fruits. In addition, there a number of hot selections as well like eggs, breakfast meats, and fresh waffles. Oh and let’s not forget the all important coffee machine!! [** Check rates and availability**](http://www.jdoqocy.com/click-8336032-13039225).
 
-[![Complimentary Breakfast at Best Western Plus Bell Meade Inn &amp; Suites](https://hotmamatravel.com/wp-content/uploads/2017/10/Untitled-design-1.jpg)](/staying-best-western-plus-belle-meade-inn-suites/)
+[![Complimentary Breakfast at Best Western Plus Bell Meade Inn &amp; Suites](/images/Untitled-design-1_201710.jpg)](/staying-best-western-plus-belle-meade-inn-suites/)
 
 ###
 
@@ -94,4 +94,4 @@ When visiting Nashville, you may not have thought to stay in Bell Meade, but it 
 
 **Like it? Pin it!**
 
-[![Best Western Plus Belle Meade Inn &amp; Suites](https://hotmamatravel.com/wp-content/uploads/2017/10/BWPBM-2.png)](/staying-best-western-plus-belle-meade-inn-suites/)
+[![Best Western Plus Belle Meade Inn &amp; Suites](/images/BWPBM-2.png)](/staying-best-western-plus-belle-meade-inn-suites/)

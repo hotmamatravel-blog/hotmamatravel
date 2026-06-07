@@ -21,7 +21,7 @@ First, Palm Springs has this quirky, fun, vibrant and laid-back culture that you
 
 It also doesn't hurt that Palm Springs has sunny weather pretty much all year-round! Making it a great destination to [spend the day poolside](/best-family-resorts-palm-springs/).
 
-<figure>![Graph of annual Palm Springs weather](https://hotmamatravel.com/wp-content/uploads/2018/09/palm-springs-weather-graph.jpg)</figure>
+<figure>![Graph of annual Palm Springs weather](/images/palm-springs-weather-graph.jpg)</figure>
 
 Another main draw for families with kids is that there are *so many&nbsp;*family-friendly resorts in the Palm Springs area with accommodations and amenities tailored for children including kids clubs, water parks, and special activities such as learning to swim like a real mermaid - full-sized tail and all! (Keep reading to find out which resort has a "Mermaid University").
 
@@ -43,7 +43,7 @@ Think open floor plans, air conditioning, backyard pools and tall windows inviti
 
 Luckily, Palm Springs has stayed pretty true to its roots over the years, and visitors can still experience a modern version of this vintage style. The area around downtown Palm Springs has many original buildings and hotels that date back almost a hundred years, for example Viceroy Palm Springs (est. 1930's, now called Avalon Hotel Palm Springs), and Colonial House (est. 1936, now called Colony Palms Hotel), among many others including La Quinta Hotel (est. 1927, now called La Quinta Resort and Club) in nearby city of La Quinta.
 
-![Desert Air Hotel in Rancho Mirage circa 1950s](https://hotmamatravel.com/wp-content/uploads/2018/09/Desert-air-hotel-circa-1950s.jpg) Desert Air Hotel circa 1950s
+![Desert Air Hotel in Rancho Mirage circa 1950s](/images/Desert-air-hotel-circa-1950s.jpg) Desert Air Hotel circa 1950s
 
 Also nearby in Rancho Mirage (12 miles south of downtown), there are several larger resorts that cater specifically to families on vacation with popular  golf courses, huge pools and water parks, kid-friendly activities and basically everything you need all in one place.
 
@@ -455,5 +455,5 @@ Also, before you plan your next visit, be sure to check out our ultimate guide f
 
 **Like it? Pin it!**
 
-<figure id="best-family-resorts-palm-springs">[![](https://hotmamatravel.com/wp-content/uploads/2023/07/best-family-resorts-palm-springs-200x300.jpg)](/images/best-family-resorts-palm-springs.jpg)</figure>
+<figure id="best-family-resorts-palm-springs">[![](/images/best-family-resorts-palm-springs-200x300.jpg)](/images/best-family-resorts-palm-springs.jpg)</figure>
 </div></section>

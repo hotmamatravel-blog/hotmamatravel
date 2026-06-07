@@ -35,7 +35,7 @@ Even Grapevine Mills gets in on the action with seasonal shopping and experience
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-5a991e12 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Riding horse in Texas](https://hotmamatravel.com/wp-content/uploads/2019/11/Horseback-riding-texas.jpg)](/wp-content/uploads/2019/11/Horseback-riding-texas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-5a991e12 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Riding horse in Texas](/images/Horseback-riding-texas.jpg)](/images/Horseback-riding-texas.jpg)</figure></div>
 
 Get out on the range with your kin this season and spend some time having a ranch Christmas. There’s nothing quite like having a folksy traditional Christmas, waking up and making coffee as you take in the fresh country air. With plenty of [holiday rental options](https://www.airbnb.com/s/Texas-Ranches--Boerne--TX) and [**family-friendly glamping sites**](/glamping-texas/) out there, this dream is easy to turn into a reality.
 
@@ -81,7 +81,7 @@ And don’t be shy, check** local rodeo event listings** wherever you’re trave
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure>[![Austin at night](https://hotmamatravel.com/wp-content/uploads/2019/11/Austin-christmas-night-scene.jpg)](/wp-content/uploads/2019/11/Austin-christmas-night-scene.jpg)</figure>
+<figure>[![Austin at night](/images/Austin-christmas-night-scene.jpg)](/images/Austin-christmas-night-scene.jpg)</figure>
 
 Austin, the capital of Texas and one of the coolest cities on the planet, shines even brighter at Christmas. The streets glow with twinkle lights, the neighborhoods go full Clark Griswold, and the whole city feels like it’s humming with holiday cheer. It’s the perfect place to slip into your cutest [Christmas dress](https://www.tipsyelves.com/christmas-dresses) and wander from one festive spot to the next.
 
@@ -107,7 +107,7 @@ And don’t even get me started on the food. You can warm your frozen soul with 
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure>[![San Antonio riverwalk](https://hotmamatravel.com/wp-content/uploads/2019/11/san-antonio-riverwalk-night.jpg)](/wp-content/uploads/2019/11/san-antonio-riverwalk-night.jpg)</figure>
+<figure>[![San Antonio riverwalk](/images/san-antonio-riverwalk-night.jpg)](/images/san-antonio-riverwalk-night.jpg)</figure>
 
 If San Antonio is more your speed, you’re about to hit the holiday jackpot. The River Walk goes all-out this time of year, glittering with thousands of lights that reflect off the water and turn an ordinary stroll into straight-up Christmas romance. You can even take a **[River Lights Night Walk](/go/enchanted-lights-riverwalk-san-antonio/)**. You’ll wander past sizzling restaurant patios, hear the echo of mariachi music drifting down the river, and wonder why Hallmark hasn’t filmed twelve movies here already.
 
@@ -159,5 +159,5 @@ If this has you itching to pack your boots and go, make sure to explore even mor
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Christmas in Texas is bigger, brighter, and full of family magic! From rodeos and river parades to German markets and twinkling small-town charm, discover the best holiday attractions, events, and festive towns across the Lone Star State. Save this guide for your next Christmas family vacation! #familytravel #christmastexas #texastravel #holidaytravelideas">[![Travel Ideas for Christmas in Texas](https://hotmamatravel.com/wp-content/uploads/2019/11/Christmas-in-Texas-200x300.jpg)](/images/Christmas-in-Texas.jpg)</figure>
+<figure data-essb-pin-description="Christmas in Texas is bigger, brighter, and full of family magic! From rodeos and river parades to German markets and twinkling small-town charm, discover the best holiday attractions, events, and festive towns across the Lone Star State. Save this guide for your next Christmas family vacation! #familytravel #christmastexas #texastravel #holidaytravelideas">[![Travel Ideas for Christmas in Texas](/images/Christmas-in-Texas-200x300.jpg)](/images/Christmas-in-Texas.jpg)</figure>
 </div></div>

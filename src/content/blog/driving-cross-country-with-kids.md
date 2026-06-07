@@ -16,7 +16,7 @@ Like many other millennial women that are busy planting seeds and starting famil
 
 Never had I really considered taking my family on a road trip across the country, believing that road trips were merely a quaint means of family travel from a bygone era. But once the idea got into my head, it became abiding and truly unshakable. I quickly became a mama on a mission, determined to chart a route across the United States to see everything we could possibly see in one summer’s time.
 
-[![family road trip across country with kids in minivan](https://hotmamatravel.com/wp-content/uploads/2018/01/kids-on-road-trip-hotmamatravel.png)](/driving-cross-country-with-kids/)
+[![family road trip across country with kids in minivan](/images/kids-on-road-trip-hotmamatravel.png)](/driving-cross-country-with-kids/)
 
 Hence began an** [epic family journey](/family-road-trip-across-us/)** that took us over 8,000 miles across deserts, through mountains, and directly into my family’s past. The seed was actually planted when we discovered through genealogical detective work that my great-great-great grandfather was a** [prisoner during the Civil War](/visiting-andersonville-prison-kids/) **and died in service at Fort Sumter prison in Andersonville, GA.
 
@@ -24,7 +24,7 @@ We only had a name and a picture of his tombstone, but it became imperative in m
 
 We collectively **[mapped](/family-road-trip-preview/)** a winding route from Orange County, CA through central Georgia and finally up to New Jersey to visit the small town of Gloucester City, where my father spent his early years almost 7 decades ago. Along the way, we would finally get to see dozens of cities that had been on my to-do list for years. It was part legacy trip to visit and revisit ghosts of my family’s past, and part exploratory trip to sample the sights, sounds, flavors and cultures of towns and cities all across America with my kids.
 
-[![Mother visiting grave stone of relative at andersonville prison Georgia](https://hotmamatravel.com/wp-content/uploads/2018/01/woman-at-grave-stone-andersonville-prison-memorial.png)](/driving-cross-country-with-kids/)
+[![Mother visiting grave stone of relative at andersonville prison Georgia](/images/woman-at-grave-stone-andersonville-prison-memorial.png)](/driving-cross-country-with-kids/)
 
 Following the experience of moving everything we own into a garage and spending 60 straight days on the road, I have had the chance to reflect on the trip in its entirety, and start collecting a list of things we figured out along the way.
 
@@ -36,7 +36,7 @@ We all dream about visiting different places for special, perhaps curious, reaso
 
 It would be much too costly for a family our size to fly to each of these cities separately, or else it would take several years of saving to get to see them all.
 
-[![kids playing in fountain in Charleston SC](https://hotmamatravel.com/wp-content/uploads/2018/01/kids-play-in-fountain.png)](/driving-cross-country-with-kids/)
+[![kids playing in fountain in Charleston SC](/images/kids-play-in-fountain.png)](/driving-cross-country-with-kids/)
 
 By comparison, we were able to drive thousands of miles through dozens of cities for a total cost in fuel of about $700. We saved additionally on rental fees by using our own personal minivan (a Honda Odyssey), which ate up the road like a champ.
 
@@ -52,7 +52,7 @@ I grew up listening to my father’s stories about growing up in Jersey; about t
 
 I have heard these tales over and over (and over) again around the kitchen table, and no matter how many times they still fill me with joy.
 
-[![grandfather alone in catholic church Gloucester City NJ](https://hotmamatravel.com/wp-content/uploads/2018/01/grandpa-alone-old-catholic-church.png)](/driving-cross-country-with-kids/)
+[![grandfather alone in catholic church Gloucester City NJ](/images/grandpa-alone-old-catholic-church.png)](/driving-cross-country-with-kids/)
 
 A road trip is an ideal way to follow these breadcrumbs and help your parents return to places with intense personal and historic family meaning. The road trip allowed us to discover that the two homes my father grew up in were still standing and basically unaltered by decades of time, as was the church.
 
@@ -60,7 +60,7 @@ My kids witnessed their grandfather through teary eyes recollect the exact locat
 
 We even got to spend a weekend at his favorite boyhood vacation spot in Wildwood, NJ, which brought back the fondest of memories for him and helped forge new memories that I expect they will share with their own children.
 
-[![grandfather and grandson doing a Heismann pose at Gloucester City High School football field](https://hotmamatravel.com/wp-content/uploads/2018/01/grandpa-heismann-pose-with-grandkid.png)](/driving-cross-country-with-kids/)
+[![grandfather and grandson doing a Heismann pose at Gloucester City High School football field](/images/grandpa-heismann-pose-with-grandkid.png)](/driving-cross-country-with-kids/)
 
 ## ****
 
@@ -72,13 +72,13 @@ We found that a road trip is more of an appetizer, a pu pu platter, for helping 
 
 If you followed our #HotMamaDoesAmerica summer road trip on **[social media](https://instagram.com/HotMamaTravel)**, then it might have been baffling to see us at a new bar or live show in a different city every night. That’s just how we roll, and there is absolutely no shame in our game.
 
-[![](https://hotmamatravel.com/wp-content/uploads/2018/01/kids-enjoying-night-life-nashville.png)](/driving-cross-country-with-kids/)
+[![](/images/kids-enjoying-night-life-nashville.png)](/driving-cross-country-with-kids/)
 
 But the limited amount of time in each city meant inevitably that we had to take a pass on some of the more popular and time consuming activities. For example,** [in Memphis](/one-day-in-memphis/)** we sampled classic barbecue, watched ducks march through the lobby of the Peabody Hotel, and had a blast listening to live music at the original BB King’s Blues club on Beale Street.
 
 However, I desperately wish we had at least a few more days in Memphis to take the kids to the National Civil Rights Museum at the Lorraine Motel and spend an afternoon at Graceland. At least we now know first-hand that Memphis is an amazing, lively city that jives with our style and for which we now hunger for an extended trip in the future.
 
-[![family portrait on Beale Street in Memphis TN](https://hotmamatravel.com/wp-content/uploads/2018/01/family-beale-street-memphis.png)](/driving-cross-country-with-kids/)
+[![family portrait on Beale Street in Memphis TN](/images/family-beale-street-memphis.png)](/driving-cross-country-with-kids/)
 
 ## ****
 
@@ -88,7 +88,7 @@ When you are on the road for so many days traveling with a large family, it is c
 
 A whole day on the road is more tiresome than it sounds. Two days straight on the road is bordering crazy with restless kids and a parent with a feeble bladder (looking at you, dad). It is so important to reduce the number of things that could possibly give you a headache, and this is where preparation can really pay off.
 
-[![](https://hotmamatravel.com/wp-content/uploads/2017/07/Hall-of-faces.jpg)](/night-game-thrones-popup-bar-kids/)
+[![](/images/Hall-of-faces.jpg)](/night-game-thrones-popup-bar-kids/)
 
 Yet, it is equally important to allow for impromptu ideas to take hold when exploring a new place. You should not plan every little detail, because it is just more fun for some things to be sorted out when you get there as a family, like** [when we visited](/night-game-thrones-popup-bar-kids/) **the Game of Thrones Pub in Washington, DC.
 
@@ -102,7 +102,7 @@ As it turns out the kids were absolute angels, give or take a few minor squabble
 
 If I could give one specific piece of advice that could help explain this puzzling phenomenon, it might be the particular effort we put into keeping the whole family up-to-date on the upcoming agenda over breakfast, over dinner, before bed, during poopy time, etc. We made sure there were no surprises, so when woke them up at 6:30 in the morning for a long drive, they were mentally prepared.
 
-[![kid looking at riverwalk in san antonio TX](https://hotmamatravel.com/wp-content/uploads/2018/01/travel-inspiring-kids-to-learn.png)](/driving-cross-country-with-kids/)
+[![kid looking at riverwalk in san antonio TX](/images/travel-inspiring-kids-to-learn.png)](/driving-cross-country-with-kids/)
 
 It wasn’t just the kids that seemed to morph during our travels. My mom is always the skittish backseat driver, but somehow this persistent nervousness gave way to a more relaxed persona driving cross country. Maybe it was the peace invoked by open skies and open road, being such a contrast to our daily lives in the traffic nightmare of Southern California. Or maybe we were all in an altered state of being, with mutual determination and realization that we were all in this thing together.
 
@@ -114,7 +114,7 @@ We are from California, and unfortunately, like many of my neighbors, we haven�
 
 We were destined to tour Trump country.
 
-[![Kids in North Carolina at Zebulon Vance Historic Home](https://hotmamatravel.com/wp-content/uploads/2018/01/kids-at-zebulon-vance-home.png)](/driving-cross-country-with-kids/)
+[![Kids in North Carolina at Zebulon Vance Historic Home](/images/kids-at-zebulon-vance-home.png)](/driving-cross-country-with-kids/)
 
 What happened next was surprising, but it should not have been. The generous spirit of the American people shined through in every place we visited from Texas to New York. Despite political gulfs and cultural differences, no place seemed foreign to us and instead felt distinctly, proudly American.
 
@@ -128,4 +128,4 @@ Travel has the singular power to reveal the true nature of a place and its peopl
 
 **Like it? Pin it!**
 
-[![6 Powerful things I learned driving cross country with my kids and parents](https://hotmamatravel.com/wp-content/uploads/2018/01/6-Powerful-things-I-learned-Pinterest-image.png)](/driving-cross-country-with-kids/)
+[![6 Powerful things I learned driving cross country with my kids and parents](/images/6-Powerful-things-I-learned-Pinterest-image.png)](/driving-cross-country-with-kids/)

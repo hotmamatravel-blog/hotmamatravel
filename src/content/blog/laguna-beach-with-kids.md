@@ -22,7 +22,7 @@ Natural lovers will love the miles of untouched coastline, hiking trails and tid
 
 Laguna Beach has a reputation for being expensive, but it is actually quite easy to have a reasonable experience. First of all, the beach is free. No one will charge you to plant you bum on the sand and have fun with the family. Secondly, most of the restaurants offer a happy hour, which is a great way to enjoy small plates and discounted cocktails. Plus, there are plenty of inexpensive dining options to choose from. Third, on the weekends the beach trolley is free! Hop on the blue trolley and take it around the city. If you are visiting Disneyland, this is definitely one of the** [best beaches](/beaches-near-anaheim/)** to visit near Anaheim.
 
-[![Laguna Beach shuttle](https://hotmamatravel.com/wp-content/uploads/2015/10/LB-68-768x1024.jpg)](/images/LB-68.jpg)
+[![Laguna Beach shuttle](/images/LB-68-768x1024.jpg)](/images/LB-68.jpg)
 
 ## **Where to stay in Laguna Beach with kids:**
 
@@ -46,7 +46,7 @@ Budget friendly, this hotel is very nice and still close to all the action. It i
 
 Ocean front rooms start at $200 a night, but you can get rooms with village views for $100. This historical hotel is home to the Ocean View Bar &amp; Grill, which is a great spot to have a snack and a cocktail as you watch the sunset.
 
-[![Hotel Laguna](https://hotmamatravel.com/wp-content/uploads/2015/10/LB-97-683x1024.jpg)](/wp-content/uploads/2015/10/LB-97.jpg)
+[![Hotel Laguna](/images/LB-97-683x1024.jpg)](/images/LB-97.jpg)
 
 ## **Where to eat in Laguna Beach with kids:**
 
@@ -60,31 +60,31 @@ First let me clarify, when I am near the ocean I want to look at the ocean…lik
 
 Connected to the Laguna Village shops, this gorgeous, yet casual restaurant has spectacular ocean views. Serving breakfast, lunch and dinner, The Cliff is happening all hours of the day. The dishes are fantastic and filling, so splitting is very possible. The patio hangs off the edge of the cliffs, giving it its name and glorious views, but don’t worry it is safe for kids. Feel free to take the family, relax in the shade and enjoy a delicious meal.
 
-[![The Cliff Restaurant Laguna Beach](https://hotmamatravel.com/wp-content/uploads/2015/10/The-Cliff-1024x1024.jpg)](/wp-content/uploads/2015/10/The-Cliff.jpg)
+[![The Cliff Restaurant Laguna Beach](/images/The-Cliff-1024x1024.jpg)](/images/The-Cliff.jpg)
 
-[![Food in Laguna Beach](https://hotmamatravel.com/wp-content/uploads/2015/10/The-Cliff-Food-1024x1024.jpg)](/wp-content/uploads/2015/10/The-Cliff-Food.jpg)
+[![Food in Laguna Beach](/images/The-Cliff-Food-1024x1024.jpg)](/images/The-Cliff-Food.jpg)
 
-[![Laguna Beach with kids Lunch The Cliff](https://hotmamatravel.com/wp-content/uploads/2015/10/The-Cliff-us-1024x1024.jpg)](/images/The-Cliff-us.jpg)
+[![Laguna Beach with kids Lunch The Cliff](/images/The-Cliff-us-1024x1024.jpg)](/images/The-Cliff-us.jpg)
 
 ### **Greeter’s Corner:**
 
 Known as the corner restaurant, Greeter’s is perfect for breakfast or casual lunch. The neighborhood diner, Greeter’s is walking distance from the main beach, playground with beautiful views and low(er) prices.
 
-[![Greeter](https://hotmamatravel.com/wp-content/uploads/2015/10/LB-94-1024x683.jpg)](/wp-content/uploads/2015/10/LB-94.jpg)
+[![Greeter](/images/LB-94-1024x683.jpg)](/images/LB-94.jpg)
 
-[![Kid friendly Greeters Corner Laguna](https://hotmamatravel.com/wp-content/uploads/2015/10/Greeters-1024x687.jpg)](/images/Greeters.jpg)
+[![Kid friendly Greeters Corner Laguna](/images/Greeters-1024x687.jpg)](/images/Greeters.jpg)
 
 ### **C’est la Vie:**
 
 Don’t be intimidated by the glassware, table clothes and fancy atmosphere. This lovely French restaurant overlooking the main beach is non-pretentious. After a long day out in the sun, our kids were done, but we still wanted to have fun. Free parking, great food, wine, views and live music? Sign me up. I was a bit hesitant to roll into this romantic establishment with my crazy crew, but the staff was so sweet, warm and welcoming. It is the perfect spot for a relaxing, a mouthwatering dinner and a bottle of wine.
 
-[![Laguna Beach French Restaurant](https://hotmamatravel.com/wp-content/uploads/2015/10/Laguna-1024x757.jpg)](/laguna-beach-with-kids/)
+[![Laguna Beach French Restaurant](/images/Laguna-1024x757.jpg)](/laguna-beach-with-kids/)
 
 ### Mozambique
 
 A very exciting choice if you have a flare for exotic cuisine. Mozambique is great place to enjoy the flavors of South Africa with a view of the Laguna Beach coast. Despite the elegant atmosphere, Mozambique is very warm and welcoming for those of us dining out with kids. Every room has a different vibe and fabulous Mozambique flare.  On a pretty Californian day, I would suggest dining on the Veranda for fantastic panoramic views of the ocean. There is also live music on select nights!
 
-[![Laguna Beach Mozambique Restaurant](https://hotmamatravel.com/wp-content/uploads/2015/10/laguna3-1024x1024.jpg)](/laguna-beach-with-kids/)
+[![Laguna Beach Mozambique Restaurant](/images/laguna3-1024x1024.jpg)](/laguna-beach-with-kids/)
 
 ## ***Where to grab a drink in Laguna Beach with kids:***
 
@@ -94,7 +94,7 @@ A good cocktail is not hard to come by in Laguna Beach, but I am a happy hour fa
 
 The Bloody Mary was very nice and you can’t beat the view. Also, there is a fire-pit section off the bar that is great for the evening or having a quick drink while you wait for a table.
 
-[![Laguna Beach cocktails](https://hotmamatravel.com/wp-content/uploads/2015/10/laguna2-1024x784.jpg)](/laguna-beach-with-kids/)
+[![Laguna Beach cocktails](/images/laguna2-1024x784.jpg)](/laguna-beach-with-kids/)
 
 ### **C’est La Vie**
 
@@ -112,17 +112,17 @@ The great thing about Laguna Beach is that is can be as relaxed or as adventurou
 
 You can’t beat the beach. Whether you would like to hang out and bask in the sun or play in the waves, the beach is the place to be. Maybe you just want to sit back and enjoy the views from one of the many restaurants along the coast. When I travel with the kids, I have to compromise with a little fun on the beach or playground for the kids then a relaxing cocktail break for mama.
 
-[![Laguna Beach kids playground](https://hotmamatravel.com/wp-content/uploads/2015/10/Laguna4-1024x512.jpg)](/laguna-beach-with-kids/)
+[![Laguna Beach kids playground](/images/Laguna4-1024x512.jpg)](/laguna-beach-with-kids/)
 
 ### **Nature:**
 
 There are five wilderness parks to explore called, Aliso &amp; Wood Canyons Wilderness Park, Crystal Cove State Park, Laguna Canyon Foundation, Laguna Coast Wilderness Park and the Nix Nature Center. Each offer different landscapes and levels of adventure. I love the vintage cottages on Crystal Cove and you can even take a self-guided tour of these vintage bungalows.
 
-[![Laguna Beach hike kids](https://hotmamatravel.com/wp-content/uploads/2015/10/Laguna5-1024x512.jpg)](/laguna-beach-with-kids/)
+[![Laguna Beach hike kids](/images/Laguna5-1024x512.jpg)](/laguna-beach-with-kids/)
 
 There are also tide pools to explore, which is really fun for the kids. Be sure to follow tide pool rules, so that you don’t harm the sea creatures living there.
 
-[![Laguna Beach tidepool](https://hotmamatravel.com/wp-content/uploads/2015/10/Laguna6-1024x512.jpg)](/laguna-beach-with-kids/)
+[![Laguna Beach tidepool](/images/Laguna6-1024x512.jpg)](/laguna-beach-with-kids/)
 
 Sea life is easy to find in Laguna as sea lions love to bask in the sun. You can also visit sea mammals at the Pacific Marine Mammal Center. Admission is free, but donations are encouraged as they are rehabilitating injured mammals to return to the sea.
 
@@ -134,7 +134,7 @@ Sea life is easy to find in Laguna as sea lions love to bask in the sun. You can
 
 So how do you get around this charming beach town? By trolley of course and it is free to ride on the weekends! Not only is the blue beach trolley convenient for getting around without having to deal with parking, but it is an attraction its self. Take it for a full lap around the city before getting off at a stop. The kids will love feeling the wind in their hair and seeing the coastline. The trolley makes it so nice for parents hauling their kids from one point to the next. Even if the fall asleep at the stop!
 
-[![Laguna Beach with kids](https://hotmamatravel.com/wp-content/uploads/2015/10/Laguna7-1024x1024.jpg)](/laguna-beach-with-kids/)
+[![Laguna Beach with kids](/images/Laguna7-1024x1024.jpg)](/laguna-beach-with-kids/)
 
 ## *That's A Wrap! *
 
@@ -154,4 +154,4 @@ So, you feeling beachy? I don't know about you, but I’m pretty hungry after wr
 
 **Like it? Pin it!**
 
-[![Ultimate Guide to Laguna Beach with kids](https://hotmamatravel.com/wp-content/uploads/2015/10/LagunaP1.png)](/laguna-beach-with-kids/)
+[![Ultimate Guide to Laguna Beach with kids](/images/LagunaP1.png)](/laguna-beach-with-kids/)

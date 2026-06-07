@@ -16,7 +16,7 @@ author: "Amanda Keeley-Thurman"
 
 Fear isn’t necessarily a bad thing. It is what helps to keep us alive and sometimes, I wish my kids had a little more of it. My kids are so willing to embrace new food, new adventure and new people with little (if any) hesitation. For safety reasons a healthy dose of fear is fine. It stops us from doing stupid things that could kill us! However, too much fear can stop us from living life to the fullest. It can lead to negative feelings and irrational judgments. Fear of the unknown can lead to hate, but knowledge can lead to understanding. Although I want my kids to be cautious, I don’t want them to be afraid of their own shadow either. **Through family travel I believe we are raising brave kids in a big world.**
 
-[![No Fear and Family Travel: Raising Brave kids in a big world](https://hotmamatravel.com/wp-content/uploads/2016/06/IMG_6528-768x1024.jpg)](/raising-brave-kids-in-a-big-world/)
+[![No Fear and Family Travel: Raising Brave kids in a big world](/images/IMG_6528-768x1024.jpg)](/raising-brave-kids-in-a-big-world/)
 
 Kids are a reflection of their parents; good and bad. If parents have fear, so do the kids. Joseph Biederman and colleagues showed in a 1990 study that inhibited kids were at increased risk for anxiety and even phobic disorders. I’m pretty lax on my censorship, but so far I have seen no negative results from that exposure. However, I do know children who were over-sheltered and had their fears catered to eventually grow into anxiety ridden adults with strong negative opinions about people they’ve never met, food they’ve never tried, and places they’ve never been. Reality is real and you can’t protect them forever. Personally, I would rather prepare my kids, so that they can feel a sense of ease and confidence as they navigate the world on their own one day. One way I do this is through family travel.
 
@@ -29,21 +29,21 @@ Kids are a reflection of their parents; good and bad. If parents have fear, so d
 
 Picky eaters. Ugh. We all know them, the kid that will only eat mac n cheese, chicken fingers or cheese pizza. I know picky eaters too and you know what? Usually their parents are pretty picky eaters too. Your kid will only eat mac n cheese and chicken fingers if all you ever offer them is mac n cheese and chicken fingers. Don’t get me wrong, my kids love that stuff too, but they can also equally enjoy a meal at the Indian buffet or at the Ethiopian restaurant. Why? My only answer is that we’ve exposed them to exotic flavors since they were babies. My kids have eaten alligator in Florida and Haggis in Scotland. Not saying that they’ve loved everything they’ve tried, but at least they are willing to try it. They see mama and daddy excited about new food and they get excited too. In fact, I’ve written a whole post about how to expand kids’ culinary palette and how to travel through food that you may want to check out [**HERE**](/developing-kids-global-palate/) and [**HERE**.](http://lifestylebody.com/7-fun-ways-travel-kids-food/#more-487)
 
-[![No Fear and Family Travel: Raising Brave kids in a big world](https://hotmamatravel.com/wp-content/uploads/2016/06/BRAVE-EATS-1024x1024.jpg)](/raising-brave-kids-in-a-big-world/)
+[![No Fear and Family Travel: Raising Brave kids in a big world](/images/BRAVE-EATS-1024x1024.jpg)](/raising-brave-kids-in-a-big-world/)
 
 ### ***2. Brave Adventures:***
 
 
 Let’s be honest, scaredy-cats are not much fun to travel with, unless you are a scaredy-cat too. My kids have been to haunted houses and festive zombie hayrides, airboats, paddleboards, down towering waterslides, wild rides and more. This is not a brag session about how cool and brave my kids are, they haven’t liked all these activities. Some things they’ve loved and some they have cried after the fact. Don’t worry, they eventually started talking again! All jokes aside, the point is that they tried it! My kids have done some pretty “scary” stuff, but as a result they are pretty chill people and cool to have around. Their fears have been put into perspective. They are not likely to freak out or be dramatic watching a Disney movie, because mama just traumatized them on the zombie infested haunted hay-ride!
 
-[![No Fear and Family Travel: Raising Brave kids in a big world](https://hotmamatravel.com/wp-content/uploads/2016/06/Brave-Adventures-1024x1024.jpg)](/raising-brave-kids-in-a-big-world/)
+[![No Fear and Family Travel: Raising Brave kids in a big world](/images/Brave-Adventures-1024x1024.jpg)](/raising-brave-kids-in-a-big-world/)
 
 ### ***3. Brave Hearts***
 
 
 Yes, family travel exposes kids to new food, new activities, but it also exposes kids to new people and cultures. I think what I love most about the qualities I’ve seen developing in my children is their fearlessness when it comes to meeting new people. They have been around so many different things that they are less likely to feel fear when they experience new situations or people from different cultures. Everyone is a friend to them and their brave hearts warm my heart. Giving the gift of travel to your kids gives them unique and varied experiences that they obviously would not have at home, making them more open-minded and easily adaptable to new environments. Let’s be honest, when kids are not comfortable in a situation it can be really awkward for the parents. So, I encourage all parents to reveal the diversities of our world early and see them flourish!
 
-[![No Fear and Family Travel: Raising Brave kids in a big world](https://hotmamatravel.com/wp-content/uploads/2016/06/DSCN2833-679x1024.jpg)](/raising-brave-kids-in-a-big-world/) **Making friends with a zombie**
+[![No Fear and Family Travel: Raising Brave kids in a big world](/images/DSCN2833-679x1024.jpg)](/raising-brave-kids-in-a-big-world/) **Making friends with a zombie**
 
 ## **That’s A Wrap:**
 

@@ -21,7 +21,7 @@ If you’re anything like me, you know that [**Las Vegas isn’t just for adults
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Big-Apple-Arcade-NYNY-Las-Vegas"><figure>[![Big Apple Arcade at New York New York Las Vegas](https://hotmamatravel.com/wp-content/uploads/2024/06/Big-Apple-Arcade-NYNY-Las-Vegas.jpg)](/wp-content/uploads/2024/06/Big-Apple-Arcade-NYNY-Las-Vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Big-Apple-Arcade-NYNY-Las-Vegas"><figure>[![Big Apple Arcade at New York New York Las Vegas](/images/Big-Apple-Arcade-NYNY-Las-Vegas.jpg)](/images/Big-Apple-Arcade-NYNY-Las-Vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -38,7 +38,7 @@ Imagine the excitement of New York City right in the heart of Las Vegas! The Big
 
 **[See Photos, Reviews, &amp; More](/go/nyny-hotel-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-6e87696d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="fun-dungeon-arcades-in-las-vegas"><figure>[![Fun Dungeon Arcade Las Vegas](https://hotmamatravel.com/wp-content/uploads/2024/06/fun-dungeon-arcades-in-las-vegas.jpg)](/wp-content/uploads/2024/06/fun-dungeon-arcades-in-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-6e87696d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="fun-dungeon-arcades-in-las-vegas"><figure>[![Fun Dungeon Arcade Las Vegas](/images/fun-dungeon-arcades-in-las-vegas.jpg)](/images/fun-dungeon-arcades-in-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-24bc3fe6">
 
@@ -53,7 +53,7 @@ In the Fun Dungeon, you will also find the entrance to the [**Tournament of King
 
 **[See Photos, Reviews, &amp; More](/go/excalibur-hotel-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-d90471bb wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="circus-circus-arcades-in-las-vegas"><figure>[![Midway arcade at Circus Circus Las Vegas](https://hotmamatravel.com/wp-content/uploads/2024/06/circus-circus-arcades-in-las-vegas.jpg)](/wp-content/uploads/2024/06/circus-circus-arcades-in-las-vegas.jpg)<figcaption class="uagb-image-caption">Courtesy of Circus Circus </figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-d90471bb wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="circus-circus-arcades-in-las-vegas"><figure>[![Midway arcade at Circus Circus Las Vegas](/images/circus-circus-arcades-in-las-vegas.jpg)](/images/circus-circus-arcades-in-las-vegas.jpg)<figcaption class="uagb-image-caption">Courtesy of Circus Circus </figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-552e1025">
 
@@ -66,7 +66,7 @@ If you’re looking for an arcade that doubles as a circus, head straight to the
 
 **[See Photos, Reviews, &amp; More](/go/circus-circus-show-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-4ac59bcf wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="circus-circus-adventuredome-in-las-vegas"><figure>[![Adventure Dome at Circus Circus Las Vegas Arcades](https://hotmamatravel.com/wp-content/uploads/2024/06/circus-circus-adventuredome-in-las-vegas.jpg)](/wp-content/uploads/2024/06/circus-circus-adventuredome-in-las-vegas.jpg)<figcaption class="uagb-image-caption">Courtesy of Circus Circus</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-4ac59bcf wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="circus-circus-adventuredome-in-las-vegas"><figure>[![Adventure Dome at Circus Circus Las Vegas Arcades](/images/circus-circus-adventuredome-in-las-vegas.jpg)](/images/circus-circus-adventuredome-in-las-vegas.jpg)<figcaption class="uagb-image-caption">Courtesy of Circus Circus</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-a571371a">
 
@@ -79,7 +79,7 @@ Yes, Circus Circus makes the list twice, but for good reason! The Adventuredome,
 
 **[See Photos, Reviews, &amp; More](/go/circus-circus-show-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-46824070 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="arcade-at-horseshoe-in-las-vegas"><figure>[![Arcade at Horseshoe in Las Vegas](https://hotmamatravel.com/wp-content/uploads/2024/06/arcade-at-horseshoe-in-las-vegas.jpg)](/wp-content/uploads/2024/06/arcade-at-horseshoe-in-las-vegas.jpg)<figcaption class="uagb-image-caption">Courtesy of Horseshoe</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-46824070 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="arcade-at-horseshoe-in-las-vegas"><figure>[![Arcade at Horseshoe in Las Vegas](/images/arcade-at-horseshoe-in-las-vegas.jpg)](/images/arcade-at-horseshoe-in-las-vegas.jpg)<figcaption class="uagb-image-caption">Courtesy of Horseshoe</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-017aad74">
 
@@ -92,7 +92,7 @@ Located in the [**heart of the Strip**](/walking-las-vegas-strip/), the arcade a
 
 **[See Photos, Reviews, &amp; More](/go/horseshoe-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-f9746a05 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![hyper x arena at Luxor las vegas](https://hotmamatravel.com/wp-content/uploads/2018/07/affordable-family-activities-las-vegas.jpg)](/wp-content/uploads/2018/07/affordable-family-activities-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-f9746a05 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![hyper x arena at Luxor las vegas](/images/affordable-family-activities-las-vegas.jpg)](/images/affordable-family-activities-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-012571eb">
 
@@ -148,7 +148,7 @@ New and thrilling, the F1 Arcade at [Caesar's Palace](https://www.caesars.com/ca
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-e06884cf wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Area 15 best arcade in las vegas](https://hotmamatravel.com/wp-content/uploads/2024/05/area-15-las-vegas.jpg)](/wp-content/uploads/2024/05/area-15-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-e06884cf wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Area 15 best arcade in las vegas](/images/area-15-las-vegas.jpg)](/images/area-15-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-08c90bd2">
 
@@ -188,5 +188,5 @@ For more tips on family travel in Las Vegas and beyond, be sure to join our [**L
 
 Like it? Pin it!
 
-<figure id="best-arcades-in-las-vegas-for-families">[![Arcades in Las Vegas kids and teens will love](https://hotmamatravel.com/wp-content/uploads/2024/06/best-arcades-in-las-vegas-for-families-200x300.jpg)](/images/best-arcades-in-las-vegas-for-families.jpg)</figure>
+<figure id="best-arcades-in-las-vegas-for-families">[![Arcades in Las Vegas kids and teens will love](/images/best-arcades-in-las-vegas-for-families-200x300.jpg)](/images/best-arcades-in-las-vegas-for-families.jpg)</figure>
 </div></div>

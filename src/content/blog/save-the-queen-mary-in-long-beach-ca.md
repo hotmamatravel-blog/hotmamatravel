@@ -17,7 +17,7 @@ author: "Amanda Keeley-Thurman"
 In this article I will be sharing with you a bit of history of The Queen Mary, why people like myself love her so much, why she is at risk, what efforts are being made to save her, and how you can help. It's all hands on deck and it’s time to set sail and save the Queen!
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-cb30f650"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="historic-landmark-queen-mary-long-beach-ca">[![](https://hotmamatravel.com/wp-content/uploads/2022/02/Queen-Mary-9.jpg)](/wp-content/uploads/2022/02/Queen-Mary-9.jpg)</figure>
+<figure id="historic-landmark-queen-mary-long-beach-ca">[![](/images/Queen-Mary-9.jpg)](/images/Queen-Mary-9.jpg)</figure>
 
 #### Brief History of The Queen Mary
 
@@ -26,7 +26,7 @@ Built in Glasgow, Scotland in 1934, The Queen Mary set sail on her maiden transa
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0ce865de"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="haunted-hotel-queen-mary-long-beach-ca">[![](https://hotmamatravel.com/wp-content/uploads/2022/02/Queen-Mary-1.jpg)](/wp-content/uploads/2022/02/Queen-Mary-1.jpg)</figure>
+<figure id="haunted-hotel-queen-mary-long-beach-ca">[![](/images/Queen-Mary-1.jpg)](/images/Queen-Mary-1.jpg)</figure>
 
 #### Haunted History of The Queen Mary
 
@@ -39,7 +39,7 @@ When you are onboard, you will find plaques highlighting the many paranormal “
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-419a89ad"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Family-Friendly-Queen-Mary-Long-Beach-Ca">[![](https://hotmamatravel.com/wp-content/uploads/2022/02/Queen-Mary-4.jpg)](/wp-content/uploads/2022/02/Queen-Mary-4.jpg)</figure>
+<figure id="Family-Friendly-Queen-Mary-Long-Beach-Ca">[![](/images/Queen-Mary-4.jpg)](/images/Queen-Mary-4.jpg)</figure>
 
 #### Why We Love The Queen Mary
 
@@ -54,7 +54,7 @@ The events! Oh the events on The Queen Mary were the best! My two favorite event
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-eda49037"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="queen-mary-ship-in-danger">[![](https://hotmamatravel.com/wp-content/uploads/2022/02/Queen-Mary-2.jpg)](/wp-content/uploads/2022/02/Queen-Mary-2.jpg)</figure>
+<figure id="queen-mary-ship-in-danger">[![](/images/Queen-Mary-2.jpg)](/images/Queen-Mary-2.jpg)</figure>
 
 #### The Queen at Stake
 
@@ -75,7 +75,7 @@ Not only would it be a travesty to lose so much history and beauty, but the city
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-072e8d6e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="save-the-queen-mary-ship-long-beach-ca">[![](https://hotmamatravel.com/wp-content/uploads/2022/02/Queen-Mary-8.jpg)](/wp-content/uploads/2022/02/Queen-Mary-8.jpg)</figure>
+<figure id="save-the-queen-mary-ship-long-beach-ca">[![](/images/Queen-Mary-8.jpg)](/images/Queen-Mary-8.jpg)</figure>
 
 #### Save The Queen
 
@@ -98,7 +98,7 @@ The last model is a hybrid, where the City would retain ownership and revenue ge
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e0c42437"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Queen-Mary-restoration-long-beach-ca">[![](https://hotmamatravel.com/wp-content/uploads/2022/02/Queen-Mary-7.jpg)](/wp-content/uploads/2022/02/Queen-Mary-7.jpg)</figure>
+<figure id="Queen-Mary-restoration-long-beach-ca">[![](/images/Queen-Mary-7.jpg)](/images/Queen-Mary-7.jpg)</figure>
 
 #### Some Positive News
 
@@ -109,7 +109,7 @@ The City estimated that the most critical repairs will cost $5 million and the i
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3c68829f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="queen-mary-lifeboat-restoration-long-beach">[![](https://hotmamatravel.com/wp-content/uploads/2022/02/Queen-Mary-10.jpg)](/wp-content/uploads/2022/02/Queen-Mary-10.jpg)</figure>
+<figure id="queen-mary-lifeboat-restoration-long-beach">[![](/images/Queen-Mary-10.jpg)](/images/Queen-Mary-10.jpg)</figure>
 
 #### How You Can Help
 

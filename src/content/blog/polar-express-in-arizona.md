@@ -33,7 +33,7 @@ To get in the spirit, we had the *Polar Express* movie running on a nonstop loop
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="grand-canyon-railway-hotel-Polar-express-williams-arizona"><figure>[![Polar Express Package at Grand Canyon Railway Hotel](https://hotmamatravel.com/wp-content/uploads/2023/10/grand-canyon-railway-hotel-Polar-express-williams-arizona.jpg)](/wp-content/uploads/2023/10/grand-canyon-railway-hotel-Polar-express-williams-arizona.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="grand-canyon-railway-hotel-Polar-express-williams-arizona"><figure>[![Polar Express Package at Grand Canyon Railway Hotel](/images/grand-canyon-railway-hotel-Polar-express-williams-arizona.jpg)](/images/grand-canyon-railway-hotel-Polar-express-williams-arizona.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -61,7 +61,7 @@ Sometimes with bigger groups it is more cost effective to book the room and trai
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-3cd3a101 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="christmas-grand-canyon-railway-hotel-williams-arizona"><figure>[![Christmas at the Grand Canyon Railway Hotel for the Polar Express](https://hotmamatravel.com/wp-content/uploads/2023/10/christmas-grand-canyon-railway-hotel-williams-arizona.jpg)](/wp-content/uploads/2023/10/christmas-grand-canyon-railway-hotel-williams-arizona.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-3cd3a101 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="christmas-grand-canyon-railway-hotel-williams-arizona"><figure>[![Christmas at the Grand Canyon Railway Hotel for the Polar Express](/images/christmas-grand-canyon-railway-hotel-williams-arizona.jpg)](/images/christmas-grand-canyon-railway-hotel-williams-arizona.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-b08cbcaf">
 
@@ -76,15 +76,15 @@ Everything you need is at your fingertips. We didn’t need our car for our enti
 
 Parents can take time to enjoy a refreshing libation at the pub or have fun shopping for mementos at the gift shop. I’m writing this blog as I sip hot coffee from my souvenir Polar Express hot cocoa mug, which is fashioned after the mugs the children are served in the movie. Hot-Hot-Hot. I got it!
 
-<figure id="spensers-grand-canyon-railway-hotel-williams-arizona">[![Spenser](https://hotmamatravel.com/wp-content/uploads/2023/10/spensers-grand-canyon-railway-hotel-williams-arizona.jpg)](/wp-content/uploads/2023/10/spensers-grand-canyon-railway-hotel-williams-arizona.jpg)</figure>
+<figure id="spensers-grand-canyon-railway-hotel-williams-arizona">[![Spenser](/images/spensers-grand-canyon-railway-hotel-williams-arizona.jpg)](/images/spensers-grand-canyon-railway-hotel-williams-arizona.jpg)</figure>
 
 The onsite pub, Spenser’s, is intimate, warm, and perfect for grabbing a refreshing beer or two or three. After checking into our rooms, we definitely needed to decompress from the long drive, so naturally, Spenser’s was the scene of choice. Sipping on a nice nutty brown ale and munching on blue cheese chips, while surrounded by gorgeous Christmas décor, dark woods, and cozy lighting. Yes, I think we will make ourselves comfortable. How about another round?
 
-<figure id="snow-polar-express-williams-arizona">[![Playing in the snow before Polar Express in Williams Arizona](https://hotmamatravel.com/wp-content/uploads/2023/10/snow-polar-express-williams-arizona.jpg)](/wp-content/uploads/2023/10/snow-polar-express-williams-arizona.jpg)</figure>
+<figure id="snow-polar-express-williams-arizona">[![Playing in the snow before Polar Express in Williams Arizona](/images/snow-polar-express-williams-arizona.jpg)](/images/snow-polar-express-williams-arizona.jpg)</figure>
 
 As much as we adults would have loved to hang out at the pub all day, it was time to let the children burn off some energy before dinner. The snow yard was just outside the doors of the resort, which was great. The kids could play safely, throw snowballs, and make snow angels, and grandma could observe everything from the comfort of Spenser’s. A win-win for everyone.
 
-<figure id="grand-depot-cafe-polar-express-williams-arizona">[![Festive meals at Grand Depot Cafe for the Polar Express in Williams Arizona](https://hotmamatravel.com/wp-content/uploads/2023/10/grand-depot-cafe-polar-express-williams-arizona.jpg)](/wp-content/uploads/2023/10/grand-depot-cafe-polar-express-williams-arizona.jpg)</figure>
+<figure id="grand-depot-cafe-polar-express-williams-arizona">[![Festive meals at Grand Depot Cafe for the Polar Express in Williams Arizona](/images/grand-depot-cafe-polar-express-williams-arizona.jpg)](/images/grand-depot-cafe-polar-express-williams-arizona.jpg)</figure>
 
 Before long, it was time to change the kids into their [**Christmas jammies**](https://amzn.to/45TFtCf) and head to The Grand Depot Café. Just a short walk across the yard, a delicious buffet dinner awaits. You pay up front, including the meal, beverage, and tip, leaving you free to leave in a hurry if you need to catch the Polar Express train ride or if your child is having a meltdown. My son was, in fact, having a meltdown, and the only thing that could distract him was the little train that went around the entire café. Chuga. Chuga. Thank you!
 
@@ -92,7 +92,7 @@ Although Spenser’s offers quick and easy breakfast options in the mornings, th
 
 **[See Photos, Reviews, &amp; More](/go/grand-canyon-railway-hotel-williams-az/)**
 
-<div class="wp-block-uagb-image uagb-block-a8f40f13 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="best-western-plus-inn-williams-arizona"><figure>[![Best Western Plus Inn Williaims Arizona ](https://hotmamatravel.com/wp-content/uploads/2023/10/best-western-plus-inn-williams-arizona.jpg)](/wp-content/uploads/2023/10/best-western-plus-inn-williams-arizona.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-a8f40f13 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="best-western-plus-inn-williams-arizona"><figure>[![Best Western Plus Inn Williaims Arizona ](/images/best-western-plus-inn-williams-arizona.jpg)](/images/best-western-plus-inn-williams-arizona.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-087fac26">
 
@@ -119,7 +119,7 @@ We stayed at the Best Western Plus Inn in Williams, Arizona, on a recent trip to
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-e3daee54 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="polar-express-experience-williams-arizona"><figure>[![Ride on the Polar Express in Williams Arizona](https://hotmamatravel.com/wp-content/uploads/2023/10/polar-express-experience-williams-arizona.jpg)](/wp-content/uploads/2023/10/polar-express-experience-williams-arizona.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-e3daee54 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="polar-express-experience-williams-arizona"><figure>[![Ride on the Polar Express in Williams Arizona](/images/polar-express-experience-williams-arizona.jpg)](/images/polar-express-experience-williams-arizona.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-85a65945">
 
@@ -129,17 +129,17 @@ We stayed at the Best Western Plus Inn in Williams, Arizona, on a recent trip to
 
 After the kids were satisfied and their tummies full, it was time to get on The Polar Express train, a vintage 1923 locomotive that has been converted into a magical mode of transport to the North Pole. The depot is connected to the café, making this extremely convenient and stress-free for families. Besides the cold night air, boarding is a breeze with everything being very organized and efficient.
 
-<figure id="hot-chocolate-cookies-polar-express-williams-arizona">[![Hot chocolate and cookies on the Polar Express Train in Williams Arizona](https://hotmamatravel.com/wp-content/uploads/2023/10/hot-chocolate-cookies-polar-express-williams-arizona.jpg)](/wp-content/uploads/2023/10/hot-chocolate-cookies-polar-express-williams-arizona.jpg)</figure>
+<figure id="hot-chocolate-cookies-polar-express-williams-arizona">[![Hot chocolate and cookies on the Polar Express Train in Williams Arizona](/images/hot-chocolate-cookies-polar-express-williams-arizona.jpg)](/images/hot-chocolate-cookies-polar-express-williams-arizona.jpg)</figure>
 
 Once comfortable in your seat and tickets are punched just like in the movie, the adventure begins as the chefs immediately hand out hot chocolate and sugar cookies. If you have seen the movie, you’ll know the song “Hot Chocolate” as the train car is filled with music. On the journey to the North Pole the narrative of The Polar Express is told as pictures from the book are displayed for the children to see.
 
-<figure id="north-pole-polar-express-williams-arizona">[![North Pole on the Polar Express in Williams Arizona](https://hotmamatravel.com/wp-content/uploads/2023/10/north-pole-polar-express-williams-arizona.jpg)](/wp-content/uploads/2023/10/north-pole-polar-express-williams-arizona.jpg)</figure>
+<figure id="north-pole-polar-express-williams-arizona">[![North Pole on the Polar Express in Williams Arizona](/images/north-pole-polar-express-williams-arizona.jpg)](/images/north-pole-polar-express-williams-arizona.jpg)</figure>
 
 When you reach the North Pole the kids leap to the window with excitement. The lights shine through the frosted windows as the Santa waves to them from his sleigh. Santa then comes aboard to greet each and every passenger and handing them their special Christmas bell.
 
 **[See Photos, Reviews, &amp; More](/go/grand-canyon-railway-williams-az/)**
 
-<div class="wp-block-uagb-image uagb-block-96915bee wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="dancing-on-polar-express-williams-arizona"><figure>[![Dancing on the Polar Express in Williams Arizona](https://hotmamatravel.com/wp-content/uploads/2023/10/dancing-on-polar-express-williams-arizona.jpg)](/wp-content/uploads/2023/10/dancing-on-polar-express-williams-arizona.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-96915bee wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="dancing-on-polar-express-williams-arizona"><figure>[![Dancing on the Polar Express in Williams Arizona](/images/dancing-on-polar-express-williams-arizona.jpg)](/images/dancing-on-polar-express-williams-arizona.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-c0f870de">
 
@@ -151,7 +151,7 @@ Kids are encouraged to dance in the aisle with the chefs, sing Christmas carols 
 
 **[See Photos, Reviews, &amp; More](/go/grand-canyon-railway-williams-az/)**
 
-<div class="wp-block-uagb-image uagb-block-9116d8f0 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="meeting-santa-polar-express-williams-arizona"><figure>[![Meeting Santa on the Polar Express in Williams Az](https://hotmamatravel.com/wp-content/uploads/2023/10/meeting-santa-polar-express-williams-arizona.jpg)](/wp-content/uploads/2023/10/meeting-santa-polar-express-williams-arizona.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-9116d8f0 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="meeting-santa-polar-express-williams-arizona"><figure>[![Meeting Santa on the Polar Express in Williams Az](/images/meeting-santa-polar-express-williams-arizona.jpg)](/images/meeting-santa-polar-express-williams-arizona.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-666834f5">
 
@@ -161,7 +161,7 @@ Kids are encouraged to dance in the aisle with the chefs, sing Christmas carols 
 
 Once the Polar Express train is back at the depot, the kids have an opportunity to partake in more fun. Arts, crafts, and various activities are available at the depot. In addition, there are meet-and-greets with favorite characters from the movie. Santa, Mrs. Claus, elves, and even the ghost from the movie are all there for photo opportunities. And of course.... MEETING SANTA!!
 
-<figure id="christmas-polar-express-depot-williams-arizona">[![Christmas activities and photo ops at Grand Canyon Railway Depot Polar Express](https://hotmamatravel.com/wp-content/uploads/2023/10/christmas-polar-express-depot-williams-arizona.jpg)](/wp-content/uploads/2023/10/christmas-polar-express-depot-williams-arizona.jpg)</figure>
+<figure id="christmas-polar-express-depot-williams-arizona">[![Christmas activities and photo ops at Grand Canyon Railway Depot Polar Express](/images/christmas-polar-express-depot-williams-arizona.jpg)](/images/christmas-polar-express-depot-williams-arizona.jpg)</figure>
 
 **[See Photos, Reviews, &amp; More](/go/grand-canyon-railway-williams-az/)**
 
@@ -173,5 +173,5 @@ If you’re hungry for even more holiday cheer, don’t stop here. **[I’ve got
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Make Christmas magic happen! A full family guide to the Polar Express Arizona—tips, tricks, and what to expect. #polarexpress #arizona #christmas #familytravel">[![Why We Love Polar Express Arizona](https://hotmamatravel.com/wp-content/uploads/2016/11/PE-10-200x300.png)](/images/PE-10.png)</figure>
+<figure data-essb-pin-description="Make Christmas magic happen! A full family guide to the Polar Express Arizona—tips, tricks, and what to expect. #polarexpress #arizona #christmas #familytravel">[![Why We Love Polar Express Arizona](/images/PE-10-200x300.png)](/images/PE-10.png)</figure>
 </div></div>

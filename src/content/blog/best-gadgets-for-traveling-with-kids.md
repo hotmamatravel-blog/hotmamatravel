@@ -59,4 +59,4 @@ When traveling with kids you have to be a Mary Poppins with bag a tricks at your
 
 **Like it? Pin it!**
 
-[![Best gadgets for traveling with kids](https://hotmamatravel.com/wp-content/uploads/2016/08/TGFK-7.jpg)](/best-gadgets-for-traveling-with-kids/)
+[![Best gadgets for traveling with kids](/images/TGFK-7.jpg)](/best-gadgets-for-traveling-with-kids/)

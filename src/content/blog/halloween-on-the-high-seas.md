@@ -16,7 +16,7 @@ You’re hands clasp the salty railing as you peer out towards the horizon only 
 
 Suddenly, a creepy sea captain beckons you to listen to the ghostly maritime tales of the restless spirits that haunt the seas. Goosebumps plague your whole body and just when you think you can’t take anymore, Mickey jumps out dressed like a vampire and the real party begins.
 
-[![Mickey and Minnie Halloween High Seas](https://hotmamatravel.com/wp-content/uploads/2016/10/DSC07676-1024x683.jpg)](/halloween-on-the-high-seas/)
+[![Mickey and Minnie Halloween High Seas](/images/DSC07676-1024x683.jpg)](/halloween-on-the-high-seas/)
 
 No, you are not lost at sea, you are celebrating at sea! Here you get to embark on a spooky adventure filled with costume parties and festive activities. This is no ordinary Halloween. Oh no. This, my friends, is a Disney Halloween Cruise, also known as Halloween on the High Seas.
 
@@ -76,19 +76,19 @@ Well, Disney does everything top-notch and how Disney Cruise Line does Halloween
 
 The Halloween Tree, standing tall in main atrium with its bare, winding branches creeping out as if they could reach out and grab you. Keep your eyes peeled, because throughout your sailing the tree transforms as more and more (and more) glowing jack-o-lanterns are hung from its branches, which will eventually cover the entire tree by the end of your voyage.
 
-[![Spooky Lobby Halloween on the High Seas](https://hotmamatravel.com/wp-content/uploads/2016/10/DSC06963-1024x683.jpg)](/halloween-on-the-high-seas/)
+[![Spooky Lobby Halloween on the High Seas](/images/DSC06963-1024x683.jpg)](/halloween-on-the-high-seas/)
 
-[![Disney Fantasy Lobby Halloween High Seas](https://hotmamatravel.com/wp-content/uploads/2016/10/DSC07637-e1477694426388-683x1024.jpg)](/halloween-on-the-high-seas/)
+[![Disney Fantasy Lobby Halloween High Seas](/images/DSC07637-e1477694426388-683x1024.jpg)](/halloween-on-the-high-seas/)
 
 Throughout the spooky vessel, touches of a Disney Halloween can be found everywhere. From the bat behind the bar to the smiling jack-o-lanterns and spider webs that cover the portholes.
 
-[![Bon Voyage Bar Disney Fantasy](https://hotmamatravel.com/wp-content/uploads/2016/10/DSC06955-1024x683.jpg)](/halloween-on-the-high-seas/)
+[![Bon Voyage Bar Disney Fantasy](/images/DSC06955-1024x683.jpg)](/halloween-on-the-high-seas/)
 
-[![Kids on Halloween Disney Fantasy](https://hotmamatravel.com/wp-content/uploads/2016/10/DSC07081-1024x683.jpg)](/halloween-on-the-high-seas/) **Don't ask me what my kids are doing.**
+[![Kids on Halloween Disney Fantasy](/images/DSC07081-1024x683.jpg)](/halloween-on-the-high-seas/) **Don't ask me what my kids are doing.**
 
 There are even spooky treats, like spider cake! YUM! The kids notice all of these little decorative touches and it really helps to boost their Halloween spirit.
 
-[![Spider Desert Disney Cruise Halloween](https://hotmamatravel.com/wp-content/uploads/2016/10/DSC07764-1024x683.jpg)](/halloween-on-the-high-seas/)
+[![Spider Desert Disney Cruise Halloween](/images/DSC07764-1024x683.jpg)](/halloween-on-the-high-seas/)
 
 ### Mickey’s Mouse-querade Party
 
@@ -96,13 +96,13 @@ It is time to get dressed-up, get in the spirit and get your monster mash on. Ho
 
 It started in the main atrium where music was pumping and the cruise entertainment crew was dancing and helping to keep up the energy. The kids had fun int he atrium trick-or-treating, playing games, interacting with the crew, and taking really cute photo ops with mama and daddy!
 
-[![Kids Portrait Halloween on the High Seas](https://hotmamatravel.com/wp-content/uploads/2016/10/237-24339557-DCL-Halloween-3-Port-21580_GPR-819x1024.jpg)](/halloween-on-the-high-seas/)
+[![Kids Portrait Halloween on the High Seas](/images/237-24339557-DCL-Halloween-3-Port-21580_GPR-819x1024.jpg)](/halloween-on-the-high-seas/)
 
-[![Halloween Costume Family Fantasy Cruise Lobby](https://hotmamatravel.com/wp-content/uploads/2016/10/DSC07649-e1477694994370-1024x958.jpg)](/halloween-on-the-high-seas/) **Papa &amp; Grams with their ghoul children.**
+[![Halloween Costume Family Fantasy Cruise Lobby](/images/DSC07649-e1477694994370-1024x958.jpg)](/halloween-on-the-high-seas/) **Papa &amp; Grams with their ghoul children.**
 
 There was an interactive daddy/daughter costume dash, where families competed and dads had to find pieces to complete various costume looks on their daughters. Our family was chosen to participate and actually won the first round by a hair.
 
-[![Father Daughter Game Disney Fantasy](https://hotmamatravel.com/wp-content/uploads/2016/10/DSC07675-1024x683.jpg)](/halloween-on-the-high-seas/)
+[![Father Daughter Game Disney Fantasy](/images/DSC07675-1024x683.jpg)](/halloween-on-the-high-seas/)
 
 All of this fun was followed by a big dance party where all the Disney Halloween characters came out in costume to pull some groovy moves and put on a lively show. Then we had the chance to just dance the night away with the kids and enjoy the costumes and the generally festive Halloween spirit.
 
@@ -198,13 +198,13 @@ Okay, they don’t *REQUIRE* it, but it is fun to participate. So, here is what 
 
 One night of the cruise is dedicated to Halloween and there is rocking Disney Halloween party as well as several photo ops all over the ship.
 
-[![Costume family portrait disney fantasy](https://hotmamatravel.com/wp-content/uploads/2016/10/237-24339562-DCL-Halloween-3-Port-21580_GPR-819x1024.jpg)](/halloween-on-the-high-seas/)
+[![Costume family portrait disney fantasy](/images/237-24339562-DCL-Halloween-3-Port-21580_GPR-819x1024_201610.jpg)](/halloween-on-the-high-seas/)
 
 ###  Pirate Costumes:
 
 Every Disney Cruise, no matter the theme, has a pirate party night. Now, you don’t have to pack your own costumes, as the ship does provide Mickey pirate bandanas, but people go all out on these cruises and you’ll want to step it up. For more on the Disney Pirate Party [see our post](/cruising-disney-fantasy-kids/).
 
-[![Family Pirate Portrait Disney Fantasy](https://hotmamatravel.com/wp-content/uploads/2016/10/237-24445158-DCL-Pirate-Shipwreck-21594_GPR-819x1024.jpg)](/halloween-on-the-high-seas/)
+[![Family Pirate Portrait Disney Fantasy](/images/237-24445158-DCL-Pirate-Shipwreck-21594_GPR-819x1024_201610.jpg)](/halloween-on-the-high-seas/)
 
 <script type="text/javascript">
 
@@ -235,13 +235,13 @@ amzn_assoc_asins = "B00J2MHA8M,B003IBGBK6,B00IUTB8KY,B00J48WM82";
 
 Even on themed cruises there will be a traditional Formal and Semi-Formal night. There is something classic about seeing everyone dressed up for the evening.
 
-[![Disney Fantasy Formal Night Portrait](https://hotmamatravel.com/wp-content/uploads/2016/12/237-24299811-F-Stairs-3-MS-21551_GPR.jpg)](/cruising-disney-fantasy-kids/)
+[![Disney Fantasy Formal Night Portrait](/images/237-24299811-F-Stairs-3-MS-21551_GPR.jpg)](/cruising-disney-fantasy-kids/)
 
 ### Disney Cruise Halloween Door Magnets:
 
 Disney Cruisers love decorating their doors with magnets. Since most doors are decorated for Halloween, you’ll want your door to look spooktacular to0!
 
-[![Disney Cruise Halloween Magnets](https://hotmamatravel.com/wp-content/uploads/2016/10/Door-Magnets-1024x1024.jpg)](/halloween-on-the-high-seas/) **My lovely son said it was easy to find our room, because we hardly have any decorations. :(**
+[![Disney Cruise Halloween Magnets](/images/Door-Magnets-1024x1024.jpg)](/halloween-on-the-high-seas/) **My lovely son said it was easy to find our room, because we hardly have any decorations. :(**
 
 **Fun right? Get your Disney Cruise Halloween Door Magnets for some creepy flair.**
 
@@ -292,4 +292,4 @@ For more family fun Halloween ideas, you should check out my other posts:
 
 **Like it? Pin it!**
 
-[![Family Halloween on the High Seas](https://hotmamatravel.com/wp-content/uploads/2016/10/HHS-DCL-2.png)](/halloween-on-the-high-seas/)
+[![Family Halloween on the High Seas](/images/HHS-DCL-2.png)](/halloween-on-the-high-seas/)

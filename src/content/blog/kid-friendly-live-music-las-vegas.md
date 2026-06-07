@@ -25,7 +25,7 @@ So there are plenty of options, but to get you started here are our** **favorite
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="nine-fine-irishmen-las-vegas"><figure>[![Kid friendly live music las vegas Nine Fine Irishmen](https://hotmamatravel.com/wp-content/uploads/2024/05/nine-fine-irishmen-las-vegas.jpg)](/wp-content/uploads/2024/05/nine-fine-irishmen-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="nine-fine-irishmen-las-vegas"><figure>[![Kid friendly live music las vegas Nine Fine Irishmen](/images/nine-fine-irishmen-las-vegas.jpg)](/images/nine-fine-irishmen-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -40,7 +40,7 @@ What makes this place even better is that there is nightly entertainment, featur
 
 **[See Photos, Reviews, &amp; More](/go/nine-fine-irishmen-nyny-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-ae9ab2c3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="ri-ra-irish-pub-las-vegas"><figure>[![Live Irish Music at Ri Ra](https://hotmamatravel.com/wp-content/uploads/2019/03/Ri-Ra-musicians-Irish-pub-music.jpg)](/wp-content/uploads/2019/03/Ri-Ra-musicians-Irish-pub-music.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-ae9ab2c3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="ri-ra-irish-pub-las-vegas"><figure>[![Live Irish Music at Ri Ra](/images/Ri-Ra-musicians-Irish-pub-music.jpg)](/images/Ri-Ra-musicians-Irish-pub-music.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-02f9bd88">
 
@@ -59,7 +59,7 @@ It is an easy pub to navigate with a family, including strollers and wheelchairs
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R3qeoeVz_B0?si=52fLilgFzdeEr6tF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="wp-block-uagb-image uagb-block-8ff8930e wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![casa di amore family restaurant in las vegas](https://hotmamatravel.com/wp-content/uploads/2024/02/casa-di-amore-family-restaurants-las-vegas.jpg)](/wp-content/uploads/2024/02/casa-di-amore-family-restaurants-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-8ff8930e wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![casa di amore family restaurant in las vegas](/images/casa-di-amore-family-restaurants-las-vegas.jpg)](/images/casa-di-amore-family-restaurants-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-b5fa0181">
 
@@ -74,7 +74,7 @@ The best part? There live music every night during dinner, which means the kids 
 
 **[See Photos, Reviews, &amp; More](/go/casa-di-amore-family-restaurant-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-6000e4dc wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="house-of-blues-las-vegas"><figure>[![House of Blues family friendly live music Las Vegas](https://hotmamatravel.com/wp-content/uploads/2024/05/house-of-blues-las-vegas.jpg)](/wp-content/uploads/2024/05/house-of-blues-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-6000e4dc wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="house-of-blues-las-vegas"><figure>[![House of Blues family friendly live music Las Vegas](/images/house-of-blues-las-vegas.jpg)](/images/house-of-blues-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-d10d57e2">
 
@@ -91,7 +91,7 @@ For even more musical entertainment, be sure to check out Michael Jackson ONE. I
 
 **[See Photos, Reviews, &amp; More](/go/house-of-blues-mandalay-bay-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-c734cfdf wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="gillys-saloon-las-vegas"><figure>[![Gilly](https://hotmamatravel.com/wp-content/uploads/2024/05/gillys-saloon-las-vegas.jpg)](/wp-content/uploads/2024/05/gillys-saloon-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-c734cfdf wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="gillys-saloon-las-vegas"><figure>[![Gilly](/images/gillys-saloon-las-vegas.jpg)](/images/gillys-saloon-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-350ff179">
 
@@ -106,7 +106,7 @@ Get the kids in before 9:00, so you can grab a table, indulge in some southern B
 
 **[See Photos, Reviews, &amp; More](/go/gillys-saloon-bbq-restaurant-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-6f948814 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Buddy V](https://hotmamatravel.com/wp-content/uploads/2023/02/buddy-vs-ristorante-celebrity-chef-restaurant-las-vegas.jpg)](/wp-content/uploads/2023/02/buddy-vs-ristorante-celebrity-chef-restaurant-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-6f948814 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Buddy V](/images/buddy-vs-ristorante-celebrity-chef-restaurant-las-vegas.jpg)](/images/buddy-vs-ristorante-celebrity-chef-restaurant-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-eae30849">
 
@@ -133,5 +133,5 @@ Like it? Pin it!
 
 <figure id="kid-friendly-live-music-las-vegas" data-essb-pin-description="Looking for kid-friendly live music in Las Vegas? Yes, it exists—and it’s actually fun for parents too. 🎶✨ From family-friendly shows and interactive concerts to outdoor live music venues and holiday performances, Las Vegas offers plenty of ways to enjoy live entertainment with kids. This guide shares the best live music experiences for families visiting Las Vegas, including shows that welcome children, daytime performances, and venues perfect for all ages. Whether you’re planning a Vegas family vacation, traveling with toddlers or teens, or searching for unique things to do in Las Vegas with kids, this list makes it easy to plan unforgettable music-filled memories.
 
-#LasVegasWithKids #KidFriendlyVegas #FamilyTravelVegas #LasVegasFamilyVacation #LiveMusicVegas #FamilyFriendlyActivities #ThingsToDoInLasVegasWithKids #HotMamaTravel">[![Las Vegas Restaurants with Live Music for kids](https://hotmamatravel.com/wp-content/uploads/2024/05/Best-Kid-Friendly-Las-Vegas-Restaurants-With-Live-Music-200x300.jpg)](/images/Best-Kid-Friendly-Las-Vegas-Restaurants-With-Live-Music.jpg)</figure>
+#LasVegasWithKids #KidFriendlyVegas #FamilyTravelVegas #LasVegasFamilyVacation #LiveMusicVegas #FamilyFriendlyActivities #ThingsToDoInLasVegasWithKids #HotMamaTravel">[![Las Vegas Restaurants with Live Music for kids](/images/Best-Kid-Friendly-Las-Vegas-Restaurants-With-Live-Music-200x300.jpg)](/images/Best-Kid-Friendly-Las-Vegas-Restaurants-With-Live-Music.jpg)</figure>
 </div></div>

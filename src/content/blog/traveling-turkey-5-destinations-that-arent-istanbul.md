@@ -18,7 +18,7 @@ Turkey is one of the most interesting countries to visit on the planet. It cover
 The capital of Istanbul is a brilliant place to visit, attracting millions of tourists each year. However, the country also boasts a host of other stunning places to visit. Whether planning the [road trip](/top-tips-for-a-stress-free-road-trip/) of a lifetime or a tour by plane, here are some destinations to consider.
 
 <div class="wp-block-uagb-container uagb-block-5c0803f5 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bodrum-turkey"><figure>[![Bodrum Turkey](https://hotmamatravel.com/wp-content/uploads/2023/09/bodrum-turkey.jpg)](/wp-content/uploads/2023/09/bodrum-turkey.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bodrum-turkey"><figure>[![Bodrum Turkey](/images/bodrum-turkey.jpg)](/images/bodrum-turkey.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -35,7 +35,7 @@ Away from the history of the city, the stunning surroundings are sure to stun yo
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-3e8da4c3 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-24344816 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="antalya-turkey"><figure>[![Visit Antalya Turkey](https://hotmamatravel.com/wp-content/uploads/2023/09/antalya-turkey.jpg)](/wp-content/uploads/2023/09/antalya-turkey.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-24344816 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="antalya-turkey"><figure>[![Visit Antalya Turkey](/images/antalya-turkey.jpg)](/images/antalya-turkey.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-817bba72">
 
@@ -52,7 +52,7 @@ The beauty of the city is supported further by a wonderful climate, great nightl
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-3b7b0723 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-a2e3bca0 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Cappadocia-turkey"><figure>[![Visit Cappadocia Turkey](https://hotmamatravel.com/wp-content/uploads/2023/09/Cappadocia-turkey.jpg)](/wp-content/uploads/2023/09/Cappadocia-turkey.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-a2e3bca0 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Cappadocia-turkey"><figure>[![Visit Cappadocia Turkey](/images/Cappadocia-turkey.jpg)](/images/Cappadocia-turkey.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-cb7afb7e">
 
@@ -69,7 +69,7 @@ Cappadocia is also a great destination to explore on foot. [Goreme National Park
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-1e26fcd3 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-a057178a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Ankara-turkey"><figure>[![Visit Ankara Turkey](https://hotmamatravel.com/wp-content/uploads/2023/09/Ankara-turkey.jpg)](/wp-content/uploads/2023/09/Ankara-turkey.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-a057178a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Ankara-turkey"><figure>[![Visit Ankara Turkey](/images/Ankara-turkey.jpg)](/images/Ankara-turkey.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-5aa534f7">
 
@@ -86,7 +86,7 @@ Ankara also boasts lots of family-friendly attractions like Ters Ev Ankara, a fu
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-ee939713 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-e6df3f83 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bursa-turkey"><figure>[![visit Bursa Turkey](https://hotmamatravel.com/wp-content/uploads/2023/09/bursa-turkey.jpg)](/wp-content/uploads/2023/09/bursa-turkey.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-e6df3f83 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bursa-turkey"><figure>[![visit Bursa Turkey](/images/bursa-turkey.jpg)](/images/bursa-turkey.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-b8b14e7c">
 
@@ -108,5 +108,5 @@ While Istanbul is undeniably captivating, Turkey has so much more to offer. From
 
 Like it? Pin it!
 
-<figure id="Traveling-Turkey-beyond-istanbul">[![](https://hotmamatravel.com/wp-content/uploads/2023/09/Traveling-Turkey-beyond-istanbul-200x300.jpg)](/images/Traveling-Turkey-beyond-istanbul.jpg)</figure>
+<figure id="Traveling-Turkey-beyond-istanbul">[![](/images/Traveling-Turkey-beyond-istanbul-200x300.jpg)](/images/Traveling-Turkey-beyond-istanbul.jpg)</figure>
 </div></div>

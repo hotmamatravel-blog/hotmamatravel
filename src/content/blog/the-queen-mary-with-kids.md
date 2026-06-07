@@ -474,5 +474,5 @@ And if you’re ready to keep the adventure going, head over to my[** California
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Explore the Queen Mary with kids! From spooky stories and haunted legends to hands-on exhibits, seasonal events, and even overnight stays, this historic ocean liner in Long Beach is perfect for family adventures. #FamilyTravel #QueenMary #HauntedPlaces #CaliforniaTravel #KidFriendly">[![Family Guide Visiting The Queen Mary With Kids](https://hotmamatravel.com/wp-content/uploads/2016/09/Guide-to-visiting-the-Queen-Mary-with-Kids-200x300.jpg)](/images/Guide-to-visiting-the-Queen-Mary-with-Kids.jpg)</figure>
+<figure data-essb-pin-description="Explore the Queen Mary with kids! From spooky stories and haunted legends to hands-on exhibits, seasonal events, and even overnight stays, this historic ocean liner in Long Beach is perfect for family adventures. #FamilyTravel #QueenMary #HauntedPlaces #CaliforniaTravel #KidFriendly">[![Family Guide Visiting The Queen Mary With Kids](/images/Guide-to-visiting-the-Queen-Mary-with-Kids-200x300.jpg)](/images/Guide-to-visiting-the-Queen-Mary-with-Kids.jpg)</figure>
 </div></div>

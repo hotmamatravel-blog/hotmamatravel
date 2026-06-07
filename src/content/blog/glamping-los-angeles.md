@@ -22,7 +22,7 @@ For those looking for a more outdoorsy experience, consider staying at one of th
 <div class="uagb-separator"></div></div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8942a8b1"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="ventura-ranch-koa-wagon-glamping-los-angeles-ca">[![](https://hotmamatravel.com/wp-content/uploads/2021/05/ventura-ranch-koa-wagon-glamping-los-angeles-ca.jpg)](/wp-content/uploads/2021/05/ventura-ranch-koa-wagon-glamping-los-angeles-ca.jpg)</figure>
+<figure id="ventura-ranch-koa-wagon-glamping-los-angeles-ca">[![](/images/ventura-ranch-koa-wagon-glamping-los-angeles-ca.jpg)](/images/ventura-ranch-koa-wagon-glamping-los-angeles-ca.jpg)</figure>
 
 #### [Ventura Ranch KOA Holiday](/go/ventura-ranch-koa-los-angeles-ca/)
 
@@ -41,7 +41,7 @@ Ventura Ranch KOA Holiday is a great glamping site for families thanks to the pl
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9c023504"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="teepee-glamping-Acton-KOA-Los-Angeles-Ca">[![](https://hotmamatravel.com/wp-content/uploads/2021/05/teepee-glamping-Acton-KOA-Los-Angeles-Ca.jpg)](/wp-content/uploads/2021/05/teepee-glamping-Acton-KOA-Los-Angeles-Ca.jpg)</figure>
+<figure id="teepee-glamping-Acton-KOA-Los-Angeles-Ca">[![](/images/teepee-glamping-Acton-KOA-Los-Angeles-Ca.jpg)](/images/teepee-glamping-Acton-KOA-Los-Angeles-Ca.jpg)</figure>
 
 #### [Acton Los Angeles North KOA Holiday](/go/acton-los-angeles-north-koa-holiday/)
 
@@ -58,7 +58,7 @@ Acton Los Angeles North KOA Holiday is great for families, because there are ple
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-715d5b3c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="soledad-rv-campground-glamping-los-angeles-ca">[![](https://hotmamatravel.com/wp-content/uploads/2021/05/soledad-rv-campground-glamping-los-angeles-ca.jpg)](/wp-content/uploads/2021/05/soledad-rv-campground-glamping-los-angeles-ca.jpg)</figure>
+<figure id="soledad-rv-campground-glamping-los-angeles-ca">[![](/images/soledad-rv-campground-glamping-los-angeles-ca.jpg)](/images/soledad-rv-campground-glamping-los-angeles-ca.jpg)</figure>
 
 #### [Soledad Canyon RV &amp; Camping Resort](/go/soledad-canyon-rv-camping-resort-los-angeles-ca/)
 
@@ -75,7 +75,7 @@ At Soledad Canyon RV Resort, you feel secluded without being too far from Los An
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-69171691"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="fairplex-rv-park-glamping-los-angeles-ca">[![](https://hotmamatravel.com/wp-content/uploads/2021/05/fairplex-rv-park-glamping-los-angeles-ca.jpg)](/wp-content/uploads/2021/05/fairplex-rv-park-glamping-los-angeles-ca.jpg)</figure>
+<figure id="fairplex-rv-park-glamping-los-angeles-ca">[![](/images/fairplex-rv-park-glamping-los-angeles-ca.jpg)](/images/fairplex-rv-park-glamping-los-angeles-ca.jpg)</figure>
 
 #### [Fairplex RV Park](/go/fairplex-rv-park-los-angeles-ca/)
 
@@ -135,5 +135,5 @@ For more awesome glamping sites from around the country, check out our there pos
 
 **Like it? Pin it!**
 
-<figure id="4-best-glamping-site-los-angeles-ca">[![](https://hotmamatravel.com/wp-content/uploads/2021/05/4-best-glamping-site-los-angeles-ca-200x300.jpg)](/images/4-best-glamping-site-los-angeles-ca.jpg)</figure>
+<figure id="4-best-glamping-site-los-angeles-ca">[![](/images/4-best-glamping-site-los-angeles-ca-200x300.jpg)](/images/4-best-glamping-site-los-angeles-ca.jpg)</figure>
 </div></section>

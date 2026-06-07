@@ -19,7 +19,7 @@ So, if you’re headed to[Malta with the kids](/malta-with-kids/), you’ll be g
 Are you traveling from a different country? Try the [Sims Direct](https://simsdirect.com.au/collections/europe) European travel sim card, which will keep you to stay connected during your adventures.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-dc20511a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="family-hotels-malta-The-Westin-Dragonara-Resort">[![](https://hotmamatravel.com/wp-content/uploads/2022/11/The-Westin-Dragonara-Resort-Malta.jpg)](/wp-content/uploads/2022/11/The-Westin-Dragonara-Resort-Malta.jpg)<figcaption class="wp-element-caption">Courtesy of The Westin Dragonara Resort</figcaption></figure>
+<figure id="family-hotels-malta-The-Westin-Dragonara-Resort">[![](/images/The-Westin-Dragonara-Resort-Malta.jpg)](/images/The-Westin-Dragonara-Resort-Malta.jpg)<figcaption class="wp-element-caption">Courtesy of The Westin Dragonara Resort</figcaption></figure>
 
 #### [The Westin Dragonara Resort](/go/westin-dragonara-resort-malta/)
 
@@ -36,7 +36,7 @@ There are also lots of diving courses available for both kids and adults if you�
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a5dd10a4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="db-Seabank-Resort-Spa-malta-family-hotel">[![](https://hotmamatravel.com/wp-content/uploads/2022/11/db-Seabank-Resort-Spa-malta.jpg)](/wp-content/uploads/2022/11/db-Seabank-Resort-Spa-malta.jpg)<figcaption class="wp-element-caption">Courtesy of Db Seabank Resort and Spa</figcaption></figure>
+<figure id="db-Seabank-Resort-Spa-malta-family-hotel">[![](/images/db-Seabank-Resort-Spa-malta.jpg)](/images/db-Seabank-Resort-Spa-malta.jpg)<figcaption class="wp-element-caption">Courtesy of Db Seabank Resort and Spa</figcaption></figure>
 
 #### [Db Seabank Resort and Spa](/go/db-seabank-resort-spa-malta/)
 
@@ -51,7 +51,7 @@ Aside from having a kid’s club to hang out in, there is also a playhouse, bowl
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a248ef85"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="kid-friendly-LABRANDA-Riviera-Hotel-Spa-Malta">[![](https://hotmamatravel.com/wp-content/uploads/2022/11/LABRANDA-Riviera-Hotel-Spa-Malta.jpg)](/wp-content/uploads/2022/11/LABRANDA-Riviera-Hotel-Spa-Malta.jpg)<figcaption class="wp-element-caption">Courtesy of LABRANDA Riviera Hotel &amp; Spa</figcaption></figure>
+<figure id="kid-friendly-LABRANDA-Riviera-Hotel-Spa-Malta">[![](/images/LABRANDA-Riviera-Hotel-Spa-Malta.jpg)](/images/LABRANDA-Riviera-Hotel-Spa-Malta.jpg)<figcaption class="wp-element-caption">Courtesy of LABRANDA Riviera Hotel &amp; Spa</figcaption></figure>
 
 #### [LABRANDA Riviera Hotel &amp; Spa](/go/labranda-riviera-hotel-spa-malta/)
 
@@ -66,7 +66,7 @@ Arguably the real highlight for kids, though, is the fact that it is just moment
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2a8a843d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="the-suites-piazza-kirkop-family-friendly-malta-hotels">[![](https://hotmamatravel.com/wp-content/uploads/2022/11/the-suites-piazza-kirop-malta.jpg)](/wp-content/uploads/2022/11/the-suites-piazza-kirop-malta.jpg)<figcaption class="wp-element-caption">Courtesy of The Suites-Piazza Kirkop</figcaption></figure>
+<figure id="the-suites-piazza-kirkop-family-friendly-malta-hotels">[![](/images/the-suites-piazza-kirop-malta.jpg)](/images/the-suites-piazza-kirop-malta.jpg)<figcaption class="wp-element-caption">Courtesy of The Suites-Piazza Kirkop</figcaption></figure>
 
 #### [The Suites - Piazza Kirkop](/go/the-suites-piazza-kirkop-malta/)
 
@@ -81,7 +81,7 @@ That said, the real reason to go to this hotel if you have kids is its proximity
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-90fc0ccc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Family-Friendly-Hotel-Corinthia-St-Georges-Bay-Malta">[![](https://hotmamatravel.com/wp-content/uploads/2022/11/Family-Friendly-Hotel-Corinthia-St-Georges-Bay-Malta.jpg)](/wp-content/uploads/2022/11/Family-Friendly-Hotel-Corinthia-St-Georges-Bay-Malta.jpg)<figcaption class="wp-element-caption">Courtesy of Corinthia St. George's Bay</figcaption></figure>
+<figure id="Family-Friendly-Hotel-Corinthia-St-Georges-Bay-Malta">[![](/images/Family-Friendly-Hotel-Corinthia-St-Georges-Bay-Malta.jpg)](/images/Family-Friendly-Hotel-Corinthia-St-Georges-Bay-Malta.jpg)<figcaption class="wp-element-caption">Courtesy of Corinthia St. George's Bay</figcaption></figure>
 
 #### [Corinthia St. George’s Bay](/go/corinthia-st-george-malta/)
 
@@ -111,5 +111,5 @@ There are so many great options when looking for the perfect family hotel in Mal
 
 **Like it? Pin it!**
 
-<figure id="best-kid-friendly-hotels-malta-travel">[![](https://hotmamatravel.com/wp-content/uploads/2022/11/best-kid-friendly-hotels-malta-travel-200x300.jpg)](/images/best-kid-friendly-hotels-malta-travel.jpg)</figure>
+<figure id="best-kid-friendly-hotels-malta-travel">[![](/images/best-kid-friendly-hotels-malta-travel-200x300.jpg)](/images/best-kid-friendly-hotels-malta-travel.jpg)</figure>
 </div></section>

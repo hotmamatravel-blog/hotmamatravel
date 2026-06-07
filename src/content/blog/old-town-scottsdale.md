@@ -17,7 +17,7 @@ Old Town Scottsdale is the not only the oldest area in Scottsdale, it is also in
 
 Downtown Scottsdale may be a hub for shopping and dining, but there are also some interesting historical sites to explore in the area, as well as hiking trails and kid-friendly spots with live music. With such an exciting merge of old and new, we were excited to visit Old Town Scottsdale, AZ on our epic summer&nbsp;[**family road trip**](/family-road-trip-across-us/) across the US.
 
-<figure>![Scottsdale Arizona Camelback Mountain](https://hotmamatravel.com/wp-content/uploads/2020/03/camelback-mountain-scottsdale-az.jpg)<figcaption>Camelback Mountain in Scottsdale, AZ</figcaption></figure>
+<figure>![Scottsdale Arizona Camelback Mountain](/images/camelback-mountain-scottsdale-az.jpg)<figcaption>Camelback Mountain in Scottsdale, AZ</figcaption></figure>
 
 In this article, we provide a list of the **top things to do in Old Town Scottsdale with kids** and provide family-friendly hotel recommendations to help you plan a wonderful trip to Scottsdale, AZ.
 
@@ -115,7 +115,7 @@ https://www.youtube.com/watch?v=QDDP4fdz1gM
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-32649182"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![Shopping in Old Town Scottsdale AZ](https://hotmamatravel.com/wp-content/uploads/2018/03/Old-town-scottsdale-shopping.png)<figcaption>Shops in Old Town Scottsdale</figcaption></figure>
+<figure>![Shopping in Old Town Scottsdale AZ](/images/Old-town-scottsdale-shopping.png)<figcaption>Shops in Old Town Scottsdale</figcaption></figure>
 
 #### **[Old Town Trolley](/go/old-town-trolley-scottsdale-az/)**
 
@@ -140,7 +140,7 @@ What makes SMoCA such a cool place to visit is that it is located on a beautiful
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6109253d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![Kids shopping for Indian Dolls](https://hotmamatravel.com/wp-content/uploads/2018/03/kids-shopping-old-town-scottsdale-az.png)</figure>
+<figure>![Kids shopping for Indian Dolls](/images/kids-shopping-old-town-scottsdale-az.png)</figure>
 
 #### **[Western Spirit: Scottsdale Museum of the West](/go/western-spirit-scottsdale-museum-west-scottsdale-az/)**
 
@@ -183,7 +183,7 @@ Built on land donated to the city of Scottsdale with the intention of making a p
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a23e851a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![Hot Mama Travel in Rusty Spur Saloon](https://hotmamatravel.com/wp-content/uploads/2019/02/rusty-spur-saloon-az-scottsdale-bar.jpg)</figure>
+<figure>![Hot Mama Travel in Rusty Spur Saloon](/images/rusty-spur-saloon-az-scottsdale-bar.jpg)</figure>
 
 #### **[Rusty Spur Saloon](/go/rusty-spur-saloon-scottsdale-az/)**
 
@@ -191,7 +191,7 @@ Built on land donated to the city of Scottsdale with the intention of making a p
 
 One of those great Old Scottsdale bars is The Rusty Spur, which was originally a bank. It is rustic and lively, there is live music daily and the kids are allowed, which is basically our [**definition of kid-friendly**](/kid-friendly-travel-blogger-roundup/). Whoohoo! Interestingly enough, the vault that once held money is now used to hold liquor. We hung out at the Rusty Spur Saloon with our kids pretty much all afternoon listening to live music, which amazingly they have all day, every day. We chose Rusty Spur as one of our top 11 favorite [kid friendly places with live music across the entire US](/top-kid-friendly-places-live-music-usa/).
 
-<figure>![Kids in Rusty Spur Saloon in Scottsdale AZ](https://hotmamatravel.com/wp-content/uploads/2019/02/rusty-spur-saloon-scottsdale-az-with-kids.jpg)</figure>
+<figure>![Kids in Rusty Spur Saloon in Scottsdale AZ](/images/rusty-spur-saloon-scottsdale-az-with-kids.jpg)</figure>
 
 [See photos, reviews &amp; more](/go/rusty-spur-saloon-scottsdale-az/)
 
@@ -235,14 +235,14 @@ Twisted Lizard Tavern &amp; Grille has a hip atmosphere against a gorgeous deser
 
 Located right across the street from the Entertainment District and just minutes from Old Town Scottsdale, the Best Western Plus Sundial offers complimentary breakfast, balconies for enjoying the warm deserts nights and a relaxing outdoor pool. It is a great choice for a family vacation to Scottsdale. We will definitely be staying here again. You can see our full in-depth review of the Sundial Hotel [**HERE**](/best-western-sundial/).
 
-<figure>![Exterior of Best Western Plus Sundial](https://hotmamatravel.com/wp-content/uploads/2017/12/Exterior-1024x576.jpg)<figcaption>Courtesy of Best Western</figcaption></figure>
+<figure>![Exterior of Best Western Plus Sundial](/images/Exterior-1024x576.jpg)<figcaption>Courtesy of Best Western</figcaption></figure>
 
 [See photos, reviews &amp; more](/go/best-western-plus-sundial-scottsdale-az/)
 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f13089e6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![saguaro cactus](https://hotmamatravel.com/wp-content/uploads/2020/03/saguaro-cactus-scottsdale.jpg)<figcaption>This is the Saguaro cactus, characteristic of the Arizona Sonoran Desert</figcaption></figure>
+<figure>![saguaro cactus](/images/saguaro-cactus-scottsdale.jpg)<figcaption>This is the Saguaro cactus, characteristic of the Arizona Sonoran Desert</figcaption></figure>
 
 #### [The Saguaro Scottsdale](/go/saguaro-scottsdale-scottsdale-az/)
 
@@ -351,7 +351,7 @@ Housed inside the Little Red Schoolhouse is the Scottsdale Historical Museum. Th
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-59650f98"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![The Old Adobe Mission Scottsdale Az](https://hotmamatravel.com/wp-content/uploads/2020/03/DSC03619-1024x683.jpg)</figure>
+<figure>![The Old Adobe Mission Scottsdale Az](/images/DSC03619-1024x683.jpg)</figure>
 
 #### **[Old Adobe Mission](/go/old-adobe-mission-scottsdale-az/)**
 
@@ -359,7 +359,7 @@ Housed inside the Little Red Schoolhouse is the Scottsdale Historical Museum. Th
 
 The Old Adobe Mission is not as old as the California missions, which were built in the 1700’s, but it does have some history. Built in 1933, the Old Adobe Mission is the oldest standing church in the city of Scottsdale, built by the Mexicans who settled in the area in the early 1900’s. Today, you can visit the Old Adobe Mission and see historical artifacts, photos and documents.
 
-<figure>![Visiting the Old Adobe Mission in Scottsdale AZ with kids ](https://hotmamatravel.com/wp-content/uploads/2020/03/DSC03603-1024x683.jpg)</figure>
+<figure>![Visiting the Old Adobe Mission in Scottsdale AZ with kids ](/images/DSC03603-1024x683.jpg)</figure>
 
 [See photos, reviews &amp; more](/go/old-adobe-mission-scottsdale-az/)
 
@@ -499,5 +499,5 @@ Surprisingly, out of all the places we visited during our summer road trip the k
 
 **Like it? Pin it!**
 
-<figure>![Things to do in Old Town Scottsdale with Kids](https://hotmamatravel.com/wp-content/uploads/2018/03/Old-town-scottsdale-with-kids-pinterest-200x300.png)</figure>
+<figure>![Things to do in Old Town Scottsdale with Kids](/images/Old-town-scottsdale-with-kids-pinterest-200x300.png)</figure>
 </div></section>

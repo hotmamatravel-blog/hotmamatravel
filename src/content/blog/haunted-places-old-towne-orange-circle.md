@@ -21,13 +21,13 @@ Of course, with all that history comes a few good ghost stories, and we love [**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UGpvvRI4kqg?si=agFWhpnEgqUDz26p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<figure id="Haunted-Old-Towne-Orange-Circle-ghost-boys">[![Two boys haunt orange circle](https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-ghost-boys-1024x576.jpg)](/images/Haunted-Old-Towne-Orange-Circle-ghost-boys.jpg)</figure>
+<figure id="Haunted-Old-Towne-Orange-Circle-ghost-boys">[![Two boys haunt orange circle](/images/Haunted-Old-Towne-Orange-Circle-ghost-boys-1024x576.jpg)](/images/Haunted-Old-Towne-Orange-Circle-ghost-boys.jpg)</figure>
 
 ## The Two Boys
 
 For long-time locals, this story is well-known. In the early days of Orange Circle, a tragedy happened involving two young boys. According to the story, the two boys were playing in the road and were hit by the large wheels of a horse-drawn carriage, killing them both. For years, people would continue to see the two boys playing in the street. For a period of time, the stories faded until the filming of *[That Thing You Do](https://www.imdb.com/title/tt0117887/)*, when several members of the cast and crew saw them again.
 
-<figure>[![The Richland Hotel Old Towne Orange](https://hotmamatravel.com/wp-content/uploads/2022/09/Richland-Old-Town-OC-930-x-520-px.jpg)](/wp-content/uploads/2022/09/Richland-Old-Town-OC-930-x-520-px.jpg)</figure>
+<figure>[![The Richland Hotel Old Towne Orange](/images/Richland-Old-Town-OC-930-x-520-px.jpg)](/images/Richland-Old-Town-OC-930-x-520-px.jpg)</figure>
 
 ## [Richland Hotel](/go/richland-hotel-old-town-orange/)
 
@@ -43,7 +43,7 @@ Basements or old service/storage areas (especially those near where mortuary bus
 
 **[See photos, reviews &amp; more](/go/richland-hotel-old-town-orange/)**
 
-<figure id="Haunted-Old-Towne-Orange-Circle-Antique-Station">[![Antique Station Orange Circle](https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Antique-Station-1024x576.jpg)](/images/Haunted-Old-Towne-Orange-Circle-Antique-Station.jpg)</figure>
+<figure id="Haunted-Old-Towne-Orange-Circle-Antique-Station">[![Antique Station Orange Circle](/images/Haunted-Old-Towne-Orange-Circle-Antique-Station-1024x576.jpg)](/images/Haunted-Old-Towne-Orange-Circle-Antique-Station.jpg)</figure>
 
 ## [Antique Station](/go/antique-station-old-towne-orange/)
 
@@ -55,7 +55,7 @@ At [Antique Station](https://www.orangereview.com/business/3/antique-station), t
 
 [**See photos, reviews &amp; more**](/go/antique-station-old-towne-orange/)
 
-<figure id="Haunted-Old-Towne-Orange-Circle-Army-Navy-Store">[![Army Navy Store Orange Circle](https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Army-Navy-Store-1024x576.jpg)](/images/Haunted-Old-Towne-Orange-Circle-Army-Navy-Store.jpg)</figure>
+<figure id="Haunted-Old-Towne-Orange-Circle-Army-Navy-Store">[![Army Navy Store Orange Circle](/images/Haunted-Old-Towne-Orange-Circle-Army-Navy-Store-1024x576.jpg)](/images/Haunted-Old-Towne-Orange-Circle-Army-Navy-Store.jpg)</figure>
 
 ## Army-Navy Shop
 
@@ -65,7 +65,7 @@ Started in 1955 by two military brothers, the Army-Navy store has an interesting
 
 [**See photos, reviews &amp; more**](/go/old-towne-orange-circle/)
 
-<figure id="Haunted-Old-Towne-Orange-Circle-Chapman-University">[![Chapman University in Orange](https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Chapman-University-1024x576.jpg)](/images/Haunted-Old-Towne-Orange-Circle-Chapman-University.jpg)</figure>
+<figure id="Haunted-Old-Towne-Orange-Circle-Chapman-University">[![Chapman University in Orange](/images/Haunted-Old-Towne-Orange-Circle-Chapman-University-1024x576.jpg)](/images/Haunted-Old-Towne-Orange-Circle-Chapman-University.jpg)</figure>
 
 ## Chapman University in Orange
 
@@ -77,7 +77,7 @@ In the Waltmar Theatre, there have been claims of ghostly figures lurking on the
 
 [**See photos, reviews &amp; more**](/go/old-towne-orange-circle/)
 
-<figure id="Haunted-Old-Towne-Orange-Circle-Elliot-Alumni-House">[![Elliot Alumni House in Orange ](https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Elliot-Alumni-House-1024x576.jpg)](/images/Haunted-Old-Towne-Orange-Circle-Elliot-Alumni-House.jpg)</figure>
+<figure id="Haunted-Old-Towne-Orange-Circle-Elliot-Alumni-House">[![Elliot Alumni House in Orange ](/images/Haunted-Old-Towne-Orange-Circle-Elliot-Alumni-House-1024x576.jpg)](/images/Haunted-Old-Towne-Orange-Circle-Elliot-Alumni-House.jpg)</figure>
 
 ## Elliott Alumni House in Orange
 
@@ -89,7 +89,7 @@ During a large-scale paranormal investigation, numerous people claimed to feel a
 
 [**See photos, reviews &amp; more**](/go/old-towne-orange-circle/)
 
-<figure id="Haunted-Old-Towne-Orange-Circle-Matoska-Trading-Company">[![Matoska Trading Company Orange](https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Matoska-Trading-Company-1024x576.jpg)](/images/Haunted-Old-Towne-Orange-Circle-Matoska-Trading-Company.jpg)</figure>
+<figure id="Haunted-Old-Towne-Orange-Circle-Matoska-Trading-Company">[![Matoska Trading Company Orange](/images/Haunted-Old-Towne-Orange-Circle-Matoska-Trading-Company-1024x576.jpg)](/images/Haunted-Old-Towne-Orange-Circle-Matoska-Trading-Company.jpg)</figure>
 
 ## Matoska Trading Company
 
@@ -99,7 +99,7 @@ Formerly the Old Orange Undertaker’s Office, the Matoska Trading Company has r
 
 [**See photos, reviews &amp; more**](/go/old-towne-orange-circle/)
 
-<figure id="Haunted-Old-Towne-Orange-Circle-Royer-Mansion">[![Royer Mansion Orange California](https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Royer-Mansion-1024x576.jpg)](/images/Haunted-Old-Towne-Orange-Circle-Royer-Mansion.jpg)</figure>
+<figure id="Haunted-Old-Towne-Orange-Circle-Royer-Mansion">[![Royer Mansion Orange California](/images/Haunted-Old-Towne-Orange-Circle-Royer-Mansion-1024x576.jpg)](/images/Haunted-Old-Towne-Orange-Circle-Royer-Mansion.jpg)</figure>
 
 ## Royer Mansion in Orange
 
@@ -109,7 +109,7 @@ Built in 1900, the home was originally owned by Dr. Daniel Franklin Royer, a pro
 
 [**See photos, reviews &amp; more**](/go/haunted-oc-ghost-walk-tours-old-towne-orange/)
 
-<figure id="Haunted-Old-Towne-Orange-Circle-Rutabegorz">[![Rutabegorz Restaurant Orange California](https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Old-Towne-Orange-Circle-Rutabegorz-1024x576.jpg)](/images/Haunted-Old-Towne-Orange-Circle-Rutabegorz.jpg)</figure>
+<figure id="Haunted-Old-Towne-Orange-Circle-Rutabegorz">[![Rutabegorz Restaurant Orange California](/images/Haunted-Old-Towne-Orange-Circle-Rutabegorz-1024x576.jpg)](/images/Haunted-Old-Towne-Orange-Circle-Rutabegorz.jpg)</figure>
 
 ## Rutabegorz Restaurant
 
@@ -135,5 +135,5 @@ So go ahead — book that stay, explore the Circle, and see for yourself if the 
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Step into Old Towne Orange Circle—where history, hauntings, and family fun collide! From vintage vibes to ghostly encounters, this OC gem has it all.  #HauntedPlaces #OrangeCounty">[![Haunted Places in Old Towne Orange Circle](https://hotmamatravel.com/wp-content/uploads/2022/09/Haunted-Places-Old-Towne-Orange-Circle-200x300.jpg)](/images/Haunted-Places-Old-Towne-Orange-Circle.jpg)</figure>
+<figure data-essb-pin-description="Step into Old Towne Orange Circle—where history, hauntings, and family fun collide! From vintage vibes to ghostly encounters, this OC gem has it all.  #HauntedPlaces #OrangeCounty">[![Haunted Places in Old Towne Orange Circle](/images/Haunted-Places-Old-Towne-Orange-Circle-200x300.jpg)](/images/Haunted-Places-Old-Towne-Orange-Circle.jpg)</figure>
 </div></div>

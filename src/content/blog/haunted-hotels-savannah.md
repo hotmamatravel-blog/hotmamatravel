@@ -17,7 +17,7 @@ Savannah, Georgia, is known for its beautiful architecture, rich history, and, o
 
 And since Savannah also ranks high on my list of **[best towns to visit for Halloween](/best-towns-for-halloween/)**, it’s no surprise that it’s home to some of the most haunted, and surprisingly family-friendly, hotels in the country. Here are the most iconic and luxurious family-approved haunted hotels in Savannah.
 
-<figure id="Haunted-hotels-savannah-marshall-house">[![The Marshall House Savannah Georgia](https://hotmamatravel.com/wp-content/uploads/2022/12/Haunted-hotels-savannah-marshall-house.jpg)](/wp-content/uploads/2022/12/Haunted-hotels-savannah-marshall-house.jpg)<figcaption class="wp-element-caption">Courtesy of The Marshall House</figcaption></figure>
+<figure id="Haunted-hotels-savannah-marshall-house">[![The Marshall House Savannah Georgia](/images/Haunted-hotels-savannah-marshall-house.jpg)](/images/Haunted-hotels-savannah-marshall-house.jpg)<figcaption class="wp-element-caption">Courtesy of The Marshall House</figcaption></figure>
 
 ## **[The Marshall House](/go/marshall-house-savannah-ga/)**
 
@@ -35,7 +35,7 @@ Overall, the Marshall House Hotel is a unique and exciting destination for famil
 
 [**See photos, reviews &amp; more**](/go/marshall-house-savannah-ga/)
 
-<figure id="Haunted-hotels-savannah-olde-harbour-inn">[![The Olde Harbor Inn Savannah Inn](https://hotmamatravel.com/wp-content/uploads/2022/12/Haunted-hotels-savannah-olde-harbour-inn.jpg)](/wp-content/uploads/2022/12/Haunted-hotels-savannah-olde-harbour-inn.jpg)<figcaption class="wp-element-caption">Courtesy of The Olde Harbor Inn</figcaption></figure>
+<figure id="Haunted-hotels-savannah-olde-harbour-inn">[![The Olde Harbor Inn Savannah Inn](/images/Haunted-hotels-savannah-olde-harbour-inn.jpg)](/images/Haunted-hotels-savannah-olde-harbour-inn.jpg)<figcaption class="wp-element-caption">Courtesy of The Olde Harbor Inn</figcaption></figure>
 
 ## **[The Olde Harbour Inn](/go/olde-harbour-inn-savannah-ga/)**
 
@@ -53,7 +53,7 @@ Olde Harbour Inn's staff would be happy to organize tours that highlight local l
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QtzSAGoX16U?si=_wyO_fh5hW9wVMHg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<figure id="Haunted-hotels-savannah-east-bay-inn">[![East Bay Inn Savannah Georgia](https://hotmamatravel.com/wp-content/uploads/2022/12/Haunted-hotels-savannah-east-bay-inn.jpg)](/wp-content/uploads/2022/12/Haunted-hotels-savannah-east-bay-inn.jpg)<figcaption class="wp-element-caption">Courtesy of East Bay Inn</figcaption></figure>
+<figure id="Haunted-hotels-savannah-east-bay-inn">[![East Bay Inn Savannah Georgia](/images/Haunted-hotels-savannah-east-bay-inn.jpg)](/images/Haunted-hotels-savannah-east-bay-inn.jpg)<figcaption class="wp-element-caption">Courtesy of East Bay Inn</figcaption></figure>
 
 ## [East Bay Inn](/go/east-bay-inn-savannah-ga/)
 
@@ -67,7 +67,7 @@ If you would like to learn more about the ghosts of East Bay Inn, there are a nu
 
 [**See photos, reviews &amp; more**](/go/east-bay-inn-savannah-ga/)
 
-<figure id="Haunted-hotels-savannah-hamilton-turner-inn">[![The Hamilton-Turner Inn Savannah Georgia](https://hotmamatravel.com/wp-content/uploads/2022/12/Haunted-hotels-savannah-hamilton-turner-inn.jpg)](/wp-content/uploads/2022/12/Haunted-hotels-savannah-hamilton-turner-inn.jpg)</figure>
+<figure id="Haunted-hotels-savannah-hamilton-turner-inn">[![The Hamilton-Turner Inn Savannah Georgia](/images/Haunted-hotels-savannah-hamilton-turner-inn.jpg)](/images/Haunted-hotels-savannah-hamilton-turner-inn.jpg)</figure>
 
 ## **[The Hamilton-Turner Inn](/go/hamilton-turner-inn-savannah-ga/)**
 
@@ -99,6 +99,6 @@ If you would like to see more of what Georgia has to offer, check out our [**Geo
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="👻✨ Looking for a spooky and stylish family getaway? These haunted hotels in Savannah, Georgia mix Southern charm with spine-tingling stories—perfect for adventurous families who love a little ghostly fun with their history! #FamilyTravelWithATwist #HauntedHotels #SavannahGeorgia #FamilyAdventure">[![most haunted hotels in savannah georgia](https://hotmamatravel.com/wp-content/uploads/2022/12/Haunted-Hotels-in-Savannah-Georgia-for-Families-200x300.jpg)](/images/Haunted-Hotels-in-Savannah-Georgia-for-Families.jpg)</figure>
+<figure data-essb-pin-description="👻✨ Looking for a spooky and stylish family getaway? These haunted hotels in Savannah, Georgia mix Southern charm with spine-tingling stories—perfect for adventurous families who love a little ghostly fun with their history! #FamilyTravelWithATwist #HauntedHotels #SavannahGeorgia #FamilyAdventure">[![most haunted hotels in savannah georgia](/images/Haunted-Hotels-in-Savannah-Georgia-for-Families-200x300.jpg)](/images/Haunted-Hotels-in-Savannah-Georgia-for-Families.jpg)</figure>
 </div></div>
 

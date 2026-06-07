@@ -21,7 +21,7 @@ Las Vegas is known for its glitz and glamour, [**amazing hotels**](/best-family-
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure id="gordon-ramsay-steak-celebrity-chef-restaurant-las-vegas">[![Las Vegas Celebrity Restaurants Gordon Ramsay Steak at Paris Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/gordon-ramsay-steak-celebrity-chef-restaurant-las-vegas.jpg)](/wp-content/uploads/2023/02/gordon-ramsay-steak-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Gordon Ramsay Steak</figcaption></figure>
+<figure id="gordon-ramsay-steak-celebrity-chef-restaurant-las-vegas">[![Las Vegas Celebrity Restaurants Gordon Ramsay Steak at Paris Las Vegas](/images/gordon-ramsay-steak-celebrity-chef-restaurant-las-vegas.jpg)](/images/gordon-ramsay-steak-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Gordon Ramsay Steak</figcaption></figure>
 
 #### [Gordon Ramsay Steak at Paris Las Vegas](/go/gordon-ramsay-steak-paris-las-vegas/)
 
@@ -35,7 +35,7 @@ The dining room at Gordon Ramsay Steak is elegant and sophisticated, with a warm
 
 [**See photos, reviews &amp; more**](/go/gordon-ramsay-steak-paris-las-vegas/)
 
-<figure id="nobu-caesars-palace-celebrity-chef-restaurant-las-vegas">[![Nobu at Caesar](https://hotmamatravel.com/wp-content/uploads/2023/02/nobu-caesars-palace-celebrity-chef-restaurant-las-vegas.jpg)](/wp-content/uploads/2023/02/nobu-caesars-palace-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Nobu at Caesar's Palace</figcaption></figure>
+<figure id="nobu-caesars-palace-celebrity-chef-restaurant-las-vegas">[![Nobu at Caesar](/images/nobu-caesars-palace-celebrity-chef-restaurant-las-vegas.jpg)](/images/nobu-caesars-palace-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Nobu at Caesar's Palace</figcaption></figure>
 
 #### [Nobu at Caesars Palace](/go/nobu-caesars-palace-las-vegas/)
 
@@ -47,7 +47,7 @@ The menu at Nobu features an array of traditional Japanese dishes, as well as a 
 
 [**See photos, reviews &amp; more**](/go/nobu-caesars-palace-las-vegas/)
 
-<figure id="giada-cromwell-celebrity-chef-restaurant-las-vegas">[![Giada at The Cromwell Las Vegas Restaurant](https://hotmamatravel.com/wp-content/uploads/2023/02/giada-cromwell-celebrity-chef-restaurant-las-vegas.jpg)](/wp-content/uploads/2023/02/giada-cromwell-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Giada at the Cromwell</figcaption></figure>
+<figure id="giada-cromwell-celebrity-chef-restaurant-las-vegas">[![Giada at The Cromwell Las Vegas Restaurant](/images/giada-cromwell-celebrity-chef-restaurant-las-vegas.jpg)](/images/giada-cromwell-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Giada at the Cromwell</figcaption></figure>
 
 #### [Giada at The Cromwell](/go/giada-cromwell-las-vegas/)
 
@@ -59,7 +59,7 @@ The menu at Giada features a selection of classic Italian dishes with a modern t
 
 [**See photos, reviews &amp; more**](/go/giada-cromwell-las-vegas/)
 
-<figure id="buddy-vs-ristorante-celebrity-chef-restaurant-las-vegas">[![Family-friendly Buddy V](https://hotmamatravel.com/wp-content/uploads/2023/02/buddy-vs-ristorante-celebrity-chef-restaurant-las-vegas.jpg)](/wp-content/uploads/2023/02/buddy-vs-ristorante-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Buddy V's Ristorante</figcaption></figure>
+<figure id="buddy-vs-ristorante-celebrity-chef-restaurant-las-vegas">[![Family-friendly Buddy V](/images/buddy-vs-ristorante-celebrity-chef-restaurant-las-vegas.jpg)](/images/buddy-vs-ristorante-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Buddy V's Ristorante</figcaption></figure>
 
 #### [Buddy V's Ristorante at The Venetian](/go/buddy-v-venetian-las-vegas/)
 
@@ -73,7 +73,7 @@ The atmosphere at Buddy V's Ristorante is warm and welcoming, with a beautiful d
 
 [**See photos, reviews &amp; more**](/go/buddy-v-venetian-las-vegas/)
 
-<figure id="guy-fieris-vegas-kitchen-celebrity-chef-restaurant-las-vegas">[![Celebrity Chef Guy Fieri](https://hotmamatravel.com/wp-content/uploads/2023/02/guy-ferrari-vegas-kitchen-celebrity-chef-restaurant-las-vegas.jpg)](/wp-content/uploads/2023/02/guy-ferrari-vegas-kitchen-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy Guy Fieri's Vegas Kitchen</figcaption></figure>
+<figure id="guy-fieris-vegas-kitchen-celebrity-chef-restaurant-las-vegas">[![Celebrity Chef Guy Fieri](/images/guy-ferrari-vegas-kitchen-celebrity-chef-restaurant-las-vegas.jpg)](/images/guy-ferrari-vegas-kitchen-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy Guy Fieri's Vegas Kitchen</figcaption></figure>
 
 #### [Guy Fieri's Vegas Kitchen &amp; Bar at The LINQ](/go/guy-fieris-vegas-kitchen-linq-las-vegas/)
 
@@ -87,7 +87,7 @@ The atmosphere at Guy Fieri's Vegas Kitchen &amp; Bar is fun and energetic, with
 
 [**See photos, reviews &amp; more**](/go/guy-fieris-vegas-kitchen-linq-las-vegas/)
 
-<figure id="gordon-ramsay-hells-kitchen-celebrity-chef-restaurant-las-vegas">[![Gordon Ramsay Hell](https://hotmamatravel.com/wp-content/uploads/2023/02/gordon-ramsay-hells-kitchen-celebrity-chef-restaurant-las-vegas.jpg)](/wp-content/uploads/2023/02/gordon-ramsay-hells-kitchen-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Gordon Ramsay Hell's Kitchen </figcaption></figure>
+<figure id="gordon-ramsay-hells-kitchen-celebrity-chef-restaurant-las-vegas">[![Gordon Ramsay Hell](/images/gordon-ramsay-hells-kitchen-celebrity-chef-restaurant-las-vegas.jpg)](/images/gordon-ramsay-hells-kitchen-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Gordon Ramsay Hell's Kitchen </figcaption></figure>
 
 #### **[Gordon Ramsay Hell’s Kitchen at Caesar’s Palace](/go/gordon-ramsay-hells-kitchen-las-vegas/)**
 
@@ -99,7 +99,7 @@ A highlight of the restaurant's atmosphere is the floor to ceiling windows offer
 
 [**See photos, reviews &amp; more**](/go/gordon-ramsay-hells-kitchen-las-vegas/)
 
-<figure id="morimoto-celebrity-chef-restaurant-las-vegas">[![Morimoto at MGM Grand Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/morimoto-celebrity-chef-restaurant-las-vegas.jpg)](/wp-content/uploads/2023/02/morimoto-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Morimoto</figcaption></figure>
+<figure id="morimoto-celebrity-chef-restaurant-las-vegas">[![Morimoto at MGM Grand Las Vegas](/images/morimoto-celebrity-chef-restaurant-las-vegas.jpg)](/images/morimoto-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Morimoto</figcaption></figure>
 
 #### **[Morimoto at MGM Grand](/go/morimoto-mgm-grand-las-vegas/)**
 
@@ -111,7 +111,7 @@ Iron Chef, Masaharu Morimoto, created a stunning dining experience that combines
 
 [**See photos, reviews &amp; more**](/go/morimoto-mgm-grand-las-vegas/)
 
-<figure id="border-grill-celebrity-chef-restaurant-las-vegas">[![Celebrity Chef Restaurant Border Grill Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/border-grill-celebrity-chef-restaurant-las-vegas.jpg)](/wp-content/uploads/2023/02/border-grill-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Border Grill</figcaption></figure>
+<figure id="border-grill-celebrity-chef-restaurant-las-vegas">[![Celebrity Chef Restaurant Border Grill Las Vegas](/images/border-grill-celebrity-chef-restaurant-las-vegas.jpg)](/images/border-grill-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Border Grill</figcaption></figure>
 
 #### **[Border Grill at Mandalay Bay](/go/border-grill-mandalay-bay-las-vegas/)**
 
@@ -123,7 +123,7 @@ Feniger and Milliken are serving up California cuisine at [Mandalay Bay](https:/
 
 [**See photos, reviews &amp; more**](/go/border-grill-mandalay-bay-las-vegas/)
 
-<figure id="restaurant-guy-savoy-celebrity-chef-restaurant-las-vegas">[![Celebrity Chef Restaurant Guy Savoy Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/restaurant-guy-savoy-celebrity-chef-restaurant-las-vegas.jpg)](/wp-content/uploads/2023/02/restaurant-guy-savoy-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Restaurant Guy Savoy</figcaption></figure>
+<figure id="restaurant-guy-savoy-celebrity-chef-restaurant-las-vegas">[![Celebrity Chef Restaurant Guy Savoy Las Vegas](/images/restaurant-guy-savoy-celebrity-chef-restaurant-las-vegas.jpg)](/images/restaurant-guy-savoy-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Restaurant Guy Savoy</figcaption></figure>
 
 #### [Restaurant Guy Savoy](/go/restaurant-guy-savoy-las-vegas/)
 
@@ -137,7 +137,7 @@ The dining room at Guy Savoy Las Vegas is elegant and sophisticated, with an atm
 
 [**See photos, reviews &amp; more**](/go/restaurant-guy-savoy-las-vegas/)
 
-<figure id="bazaar-meat-jose-andres-celebrity-chef-restaurant-las-vegas">[![Bazaar Meat by Jose Andres Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/bazaar-meat-jose-andres-celebrity-chef-restaurant-las-vegas.jpg)](/wp-content/uploads/2023/02/bazaar-meat-jose-andres-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy Bazaar Meat by Jose Andres</figcaption></figure>
+<figure id="bazaar-meat-jose-andres-celebrity-chef-restaurant-las-vegas">[![Bazaar Meat by Jose Andres Las Vegas](/images/bazaar-meat-jose-andres-celebrity-chef-restaurant-las-vegas.jpg)](/images/bazaar-meat-jose-andres-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy Bazaar Meat by Jose Andres</figcaption></figure>
 
 #### **[Bazaar Meats By Jose Andres at Sahara](/go/bazaar-meat-jose-andres-las-vegas/)**
 
@@ -149,7 +149,7 @@ Along with prepared tasting menus, Bazaar Meats, located in the [Sahara Hotel](h
 
 [**See photos, reviews &amp; more**](/go/bazaar-meat-jose-andres-las-vegas/)
 
-<figure id="bedford-martha-stewart-celebrity-chef-restaurant-las-vegas">[![Bedford by Martha Stewart Celebrity Restaurant in Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/bedford-martha-stewart-celebrity-chef-restaurant-las-vegas.jpg)](/wp-content/uploads/2023/02/bedford-martha-stewart-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Bedford by Martha Stewart</figcaption></figure>
+<figure id="bedford-martha-stewart-celebrity-chef-restaurant-las-vegas">[![Bedford by Martha Stewart Celebrity Restaurant in Las Vegas](/images/bedford-martha-stewart-celebrity-chef-restaurant-las-vegas.jpg)](/images/bedford-martha-stewart-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Bedford by Martha Stewart</figcaption></figure>
 
 #### [The Bedford by Martha Stewart](/go/bedford-martha-stewart-las-vegas/)
 
@@ -163,7 +163,7 @@ The dining room at The Bedford by Martha Stewart is elegantly decorated, with a 
 
 [**See photos, reviews &amp; more**](/go/bedford-martha-stewart-las-vegas/)
 
-<figure id="vanderpump-cocktail-garden-celebrity-chef-restaurant-las-vegas">[![Vanderpump Cocktail Garden Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/vanderpump-cocktail-garden-celebrity-chef-restaurant-las-vegas.jpg)](/wp-content/uploads/2023/02/vanderpump-cocktail-garden-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Vanderpump Cocktail Garden</figcaption></figure>
+<figure id="vanderpump-cocktail-garden-celebrity-chef-restaurant-las-vegas">[![Vanderpump Cocktail Garden Las Vegas](/images/vanderpump-cocktail-garden-celebrity-chef-restaurant-las-vegas.jpg)](/images/vanderpump-cocktail-garden-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Vanderpump Cocktail Garden</figcaption></figure>
 
 #### [Vanderpump Cocktail Garden](/go/vanderpump-cocktail-garden-las-vegas/)
 
@@ -177,7 +177,7 @@ The bar and lounge at Vanderpump Cocktail Garden is beautifully designed, with a
 
 [**See photos, reviews &amp; more**](/go/vanderpump-cocktail-garden-las-vegas/)
 
-<figure id="vanderpump-a-paris-celebrity-chef-restaurant-las-vegas">[![Restaurant Vanderpump a Paris in Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/vanderpump-a-paris-celebrity-chef-restaurant-las-vegas.jpg)](/wp-content/uploads/2023/02/vanderpump-a-paris-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Vanderpump a Paris</figcaption></figure>
+<figure id="vanderpump-a-paris-celebrity-chef-restaurant-las-vegas">[![Restaurant Vanderpump a Paris in Las Vegas](/images/vanderpump-a-paris-celebrity-chef-restaurant-las-vegas.jpg)](/images/vanderpump-a-paris-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Vanderpump a Paris</figcaption></figure>
 
 #### [Vanderpump à Paris](/go/vanderpump-a-paris-las-vegas/)
 
@@ -189,7 +189,7 @@ The lush Parisian garden vibe pairs beautifully with their selection of eccentri
 
 [**See photos, reviews &amp; more**](/go/vanderpump-a-paris-las-vegas/)
 
-<figure id="RPM-Italian-celebrity-chef-restaurant-las-vegas">[![RPM Italian Celebrity Restaurant Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/RPM-Italian-celebrity-chef-restaurant-las-vegas.jpg)](/wp-content/uploads/2023/02/RPM-Italian-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of RPM Italian</figcaption></figure>
+<figure id="RPM-Italian-celebrity-chef-restaurant-las-vegas">[![RPM Italian Celebrity Restaurant Las Vegas](/images/RPM-Italian-celebrity-chef-restaurant-las-vegas.jpg)](/images/RPM-Italian-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of RPM Italian</figcaption></figure>
 
 #### [RPM Italian Las Vegas](/go/rpm-italian-las-vegas/)
 
@@ -203,7 +203,7 @@ The dining room at RPM Italian is beautifully designed, with a chic and sophisti
 
 [**See photos, reviews &amp; more**](/go/rpm-italian-las-vegas/)
 
-<figure id="Amalfi-Bobby-Flay-celebrity-chef-restaurant-las-vegas">[![Amalfi by Bobby Flay in Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/Amalfi-Bobby-Flay-celebrity-chef-restaurant-las-vegas.jpg)](/wp-content/uploads/2023/02/Amalfi-Bobby-Flay-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Amalfi by Bobby Flay</figcaption></figure>
+<figure id="Amalfi-Bobby-Flay-celebrity-chef-restaurant-las-vegas">[![Amalfi by Bobby Flay in Las Vegas](/images/Amalfi-Bobby-Flay-celebrity-chef-restaurant-las-vegas.jpg)](/images/Amalfi-Bobby-Flay-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Amalfi by Bobby Flay</figcaption></figure>
 
 #### [Amalfi by Bobby Flay](/go/amalfi-bobby-flay-las-vegas/)
 
@@ -215,7 +215,7 @@ The menu at Amalfi by Bobby Flay features a range of classic Italian dishes, inc
 
 [**See photos, reviews &amp; more**](/go/amalfi-bobby-flay-las-vegas/)
 
-<figure id="Pronto-Giada-celebrity-chef-restaurant-las-vegas">[![Pronto by Giada Las Vegas Celebrity Chef Restaurant](https://hotmamatravel.com/wp-content/uploads/2023/02/Pronto-Giada-celebrity-chef-restaurant-las-vegas.jpg)](/wp-content/uploads/2023/02/Pronto-Giada-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Pronto</figcaption></figure>
+<figure id="Pronto-Giada-celebrity-chef-restaurant-las-vegas">[![Pronto by Giada Las Vegas Celebrity Chef Restaurant](/images/Pronto-Giada-celebrity-chef-restaurant-las-vegas.jpg)](/images/Pronto-Giada-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Pronto</figcaption></figure>
 
 #### [Pronto by Giada](/go/pronto-giada-las-vegas/)
 
@@ -227,7 +227,7 @@ The menu at Pronto by Giada features a range of classic Italian dishes, includin
 
 [**See photos, reviews &amp; more**](/go/pronto-giada-las-vegas/)
 
-<figure id="chica-celebrity-chef-restaurant-las-vegas">[![Chica Las Vegas Celebrity Restaurant](https://hotmamatravel.com/wp-content/uploads/2023/02/chica-celebrity-chef-restaurant-las-vegas.jpg)](/wp-content/uploads/2023/02/chica-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Chica</figcaption></figure>
+<figure id="chica-celebrity-chef-restaurant-las-vegas">[![Chica Las Vegas Celebrity Restaurant](/images/chica-celebrity-chef-restaurant-las-vegas.jpg)](/images/chica-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Chica</figcaption></figure>
 
 #### [CHICA Las Vegas](/go/chica-las-vegas/)
 
@@ -239,7 +239,7 @@ The menu at Chica features a range of dishes inspired by the flavors of Latin Am
 
 [**See photos, reviews &amp; more**](/go/chica-las-vegas/)
 
-<figure id="cut-wolfgang-puck-celebrity-chef-restaurant-las-vegas">[![Cut by Wolfgang Puck Las Vegas Restaurant](https://hotmamatravel.com/wp-content/uploads/2023/02/cut-wolfgang-puck-celebrity-chef-restaurant-las-vegas.jpg)](/wp-content/uploads/2023/02/cut-wolfgang-puck-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Cut by Wolfgang Puck</figcaption></figure>
+<figure id="cut-wolfgang-puck-celebrity-chef-restaurant-las-vegas">[![Cut by Wolfgang Puck Las Vegas Restaurant](/images/cut-wolfgang-puck-celebrity-chef-restaurant-las-vegas.jpg)](/images/cut-wolfgang-puck-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Cut by Wolfgang Puck</figcaption></figure>
 
 #### [Cut by Wolfgang Puck](/go/cut-wolfgang-puck-las-vegas/)
 
@@ -251,7 +251,7 @@ The menu at Cut by Wolfgang Puck features a range of cuts of beef, including fil
 
 [**See photos, reviews &amp; more**](/go/cut-wolfgang-puck-las-vegas/)
 
-<figure id="delmonico-steakhouse-celebrity-chef-restaurant-las-vegas">[![Delmonico Steakhouse by Emeril Lagasse Celebrity Chef Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/delmonico-steakhouse-celebrity-chef-restaurant-las-vegas.jpg)](/wp-content/uploads/2023/02/delmonico-steakhouse-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Delmonico Steakhouse</figcaption></figure>
+<figure id="delmonico-steakhouse-celebrity-chef-restaurant-las-vegas">[![Delmonico Steakhouse by Emeril Lagasse Celebrity Chef Las Vegas](/images/delmonico-steakhouse-celebrity-chef-restaurant-las-vegas.jpg)](/images/delmonico-steakhouse-celebrity-chef-restaurant-las-vegas.jpg)<figcaption class="wp-element-caption">Courtesy of Delmonico Steakhouse</figcaption></figure>
 
 #### [Delmonico Steakhouse LLC](/go/delmonico-steakhouse-las-vegas/)
 
@@ -283,5 +283,5 @@ For more Las Vegas tips and tricks, check out our many other** [helpful articles
 
 **Like it? Pin it!**
 
-<figure id="best-celebrity-restaurants-las-vegas">[![Top Celebrity Restaurants Las Vegas ](https://hotmamatravel.com/wp-content/uploads/2023/02/best-celebrity-restaurants-las-vegas-200x300.jpg)](/images/best-celebrity-restaurants-las-vegas.jpg)</figure>
+<figure id="best-celebrity-restaurants-las-vegas">[![Top Celebrity Restaurants Las Vegas ](/images/best-celebrity-restaurants-las-vegas-200x300.jpg)](/images/best-celebrity-restaurants-las-vegas.jpg)</figure>
 </div></section>

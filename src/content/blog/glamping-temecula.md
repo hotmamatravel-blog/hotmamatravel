@@ -15,7 +15,7 @@ author: "Amanda Keeley-Thurman"
 Temecula is home to some fantastic wineries, local casinos, great restaurants and a charming historic Old Town. With so much beautiful countryside and fun activities to explore, glamping in Temecula makes for the perfect weekend getaway to reset, recharge and rejuvenate.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1c1e4b35"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="double-yurt-baileys-palomar-mountain-glamping-temecula">[![](https://hotmamatravel.com/wp-content/uploads/2021/05/double-yurt-bailys-palomar-mountain-glamping-temecula.jpg)](/wp-content/uploads/2021/05/double-yurt-bailys-palomar-mountain-glamping-temecula.jpg)</figure>
+<figure id="double-yurt-baileys-palomar-mountain-glamping-temecula">[![](/images/double-yurt-bailys-palomar-mountain-glamping-temecula.jpg)](/images/double-yurt-bailys-palomar-mountain-glamping-temecula.jpg)</figure>
 
 #### [Bailey's on Palomar Lodging, Retreat, &amp; Event Center](/go/bailys-on-palomar-glamping-temecula-ca/)
 
@@ -32,7 +32,7 @@ The luxury yurts, safari tents and historic cabins have private en-suit bathroom
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e8aee2ad"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="eco-camps-glamping-temecula-ca">[![](https://hotmamatravel.com/wp-content/uploads/2021/05/eco-camps-glamping-temecula-ca.jpg)](/wp-content/uploads/2021/05/eco-camps-glamping-temecula-ca.jpg)</figure>
+<figure id="eco-camps-glamping-temecula-ca">[![](/images/eco-camps-glamping-temecula-ca.jpg)](/images/eco-camps-glamping-temecula-ca.jpg)</figure>
 
 #### [Eco-Camps Temecula](/go/eco-camps-temecula-glamping-temecula-ca/)
 
@@ -49,7 +49,7 @@ At Eco-Camps Temecula you can expect beautiful views of sunsets, starry nights a
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0bc71325"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="glamping-temecula-koa-vail-lake">[![](https://hotmamatravel.com/wp-content/uploads/2023/06/glamping-temecula-koa-vail-lake.jpg)](/wp-content/uploads/2023/06/glamping-temecula-koa-vail-lake.jpg)</figure>
+<figure id="glamping-temecula-koa-vail-lake">[![](/images/glamping-temecula-koa-vail-lake.jpg)](/images/glamping-temecula-koa-vail-lake.jpg)</figure>
 
 #### [Temecula KOA at Vail Lake](/go/temecula-koa-vail-lake-glamping/)
 
@@ -70,7 +70,7 @@ Temecula KOA is conveniently located near popular attractions such as the [Temec
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9222371a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="rusty-fork-ranch-glamping-temecula">[![](https://hotmamatravel.com/wp-content/uploads/2021/05/rusty-fork-ranch-glamping-temecula.jpg)](/wp-content/uploads/2021/05/rusty-fork-ranch-glamping-temecula.jpg)</figure>
+<figure id="rusty-fork-ranch-glamping-temecula">[![](/images/rusty-fork-ranch-glamping-temecula.jpg)](/images/rusty-fork-ranch-glamping-temecula.jpg)</figure>
 
 #### [Rusty Fork Ranch](/go/rusty-fork-ranch-glamping-temecula-ca/)
 
@@ -87,7 +87,7 @@ You will be staying on a mini farm, so there is livestock to see as well as the 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-71c0f3ee"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="glamping-temecula-pechanga-rv-resort">[![](https://hotmamatravel.com/wp-content/uploads/2023/06/glamping-temecula-pechanga-rv-resort.jpg)](/wp-content/uploads/2023/06/glamping-temecula-pechanga-rv-resort.jpg)</figure>
+<figure id="glamping-temecula-pechanga-rv-resort">[![](/images/glamping-temecula-pechanga-rv-resort.jpg)](/images/glamping-temecula-pechanga-rv-resort.jpg)</figure>
 
 #### [P](/go/pechanga-resort-casino-temecula-ca/)[e](/go/pechanga-resort-casino-temecula-ca/)[changa RV Resort](/go/pechanga-resort-casino-temecula-ca/)
 
@@ -151,6 +151,6 @@ If you love glamping and want more places to stay, check out other suggestions f
 
 **Like it? Pin it!**
 
-<figure id="5-best-glamping-sites-temecula-ca">[![](https://hotmamatravel.com/wp-content/uploads/2021/05/5-best-glamping-sites-temecula-ca-200x300.jpg)](/images/5-best-glamping-sites-temecula-ca.jpg)</figure>
+<figure id="5-best-glamping-sites-temecula-ca">[![](/images/5-best-glamping-sites-temecula-ca-200x300.jpg)](/images/5-best-glamping-sites-temecula-ca.jpg)</figure>
 </div></section>
 

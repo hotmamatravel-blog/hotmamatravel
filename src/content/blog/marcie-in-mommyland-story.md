@@ -108,4 +108,4 @@ And every once in awhile, I think back and wonder how many vacation photos in Ch
 
 **Like it? Pin it!**
 
-![We visited Rome and now I think my son is Famous in China](https://hotmamatravel.com/wp-content/uploads/2018/11/Marcie-in-mommyland-family-travel-story-683x1024.jpg)
+![We visited Rome and now I think my son is Famous in China](/images/Marcie-in-mommyland-family-travel-story-683x1024.jpg)

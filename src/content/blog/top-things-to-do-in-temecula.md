@@ -69,7 +69,7 @@ Temecula, California is Riverside County’s southernmost city, bordering San Di
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<figure>[![Get your VinArmour wine travel case today](https://hotmamatravel.com/wp-content/uploads/2022/09/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg)](/go/vinarmour-luxury-wine-bag/)</figure>
+<figure>[![Get your VinArmour wine travel case today](/images/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg)](/go/vinarmour-luxury-wine-bag/)</figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-0ac0ae9c" id="temecula-attractions">
 
@@ -79,7 +79,7 @@ Family-Friendly Temecula Attractions
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c6f0a681"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="europa-village-kid-friendly-wineries-temecula">[![](https://hotmamatravel.com/wp-content/uploads/2021/05/europa-village-kid-friendly-wineries-temecula.jpg)](/wp-content/uploads/2021/05/europa-village-kid-friendly-wineries-temecula.jpg)</figure>
+<figure id="europa-village-kid-friendly-wineries-temecula">[![](/images/europa-village-kid-friendly-wineries-temecula.jpg)](/images/europa-village-kid-friendly-wineries-temecula.jpg)</figure>
 
 #### **[Wine Tasting](/go/wine-tasting-temecula-ca/)**
 
@@ -102,7 +102,7 @@ A popular activity in Temecula is soaring over wine country in a hot air balloon
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1c7896f2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="14-best-breweries-temecula-ca">[![The best breweries in Temecula](https://hotmamatravel.com/wp-content/uploads/2021/06/14-best-breweries-temecula-ca.jpg)](/wp-content/uploads/2021/06/14-best-breweries-temecula-ca.jpg)</figure>
+<figure id="14-best-breweries-temecula-ca">[![The best breweries in Temecula](/images/14-best-breweries-temecula-ca.jpg)](/images/14-best-breweries-temecula-ca.jpg)</figure>
 
 #### **[Temecula Breweries](/go/breweries-temecula-ca/)**
 
@@ -125,7 +125,7 @@ Pechanga is a popular entertainment hub in Temecula. It is a one stop shop for l
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a57f2668"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="best-temecula-golf-courses">[![7 beautiful and challenging golf courses in Temecula](https://hotmamatravel.com/wp-content/uploads/2021/06/best-temecula-golf-courses.jpg)](/wp-content/uploads/2021/06/best-temecula-golf-courses.jpg)</figure>
+<figure id="best-temecula-golf-courses">[![7 beautiful and challenging golf courses in Temecula](/images/best-temecula-golf-courses.jpg)](/images/best-temecula-golf-courses.jpg)</figure>
 
 #### **[Golfing](/go/golf-courses-temecula-ca/)**
 
@@ -142,7 +142,7 @@ If you love to golf, then you will love Temecula. There are several premiere gol
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-42ab5a02"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="old-town-temecula-ca">[![](https://hotmamatravel.com/wp-content/uploads/2021/06/old-town-temecula-ca.jpg)](/wp-content/uploads/2021/06/old-town-temecula-ca.jpg)</figure>
+<figure id="old-town-temecula-ca">[![](/images/old-town-temecula-ca.jpg)](/images/old-town-temecula-ca.jpg)</figure>
 
 #### **[Old Town Temecula](/go/old-town-temecula-ca/)**
 
@@ -173,7 +173,7 @@ Temecula’s mall, this shopping complex opened in 1999 and has continued to thr
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-760fa044"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="rosas-cafe-tortilla-factory-temecula-ca">[![](https://hotmamatravel.com/wp-content/uploads/2021/06/rosas-cafe-tortilla-factory-temecula-ca.jpg)](/wp-content/uploads/2021/06/rosas-cafe-tortilla-factory-temecula-ca.jpg)</figure>
+<figure id="rosas-cafe-tortilla-factory-temecula-ca">[![](/images/rosas-cafe-tortilla-factory-temecula-ca.jpg)](/images/rosas-cafe-tortilla-factory-temecula-ca.jpg)</figure>
 
 #### [Rosa’s Cafe &amp; Tortilla Factory](/go/rosas-cafe-tortilla-factory-temecula-ca/)
 
@@ -198,7 +198,7 @@ This casual restaurant is a popular spot for breakfast, but they also have a gre
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-21cab487"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="filippis-pizza-grotto-temecula-ca">[![](https://hotmamatravel.com/wp-content/uploads/2021/06/filippis-pizza-grotto-temecula-ca.jpg)](/wp-content/uploads/2021/06/filippis-pizza-grotto-temecula-ca.jpg)</figure>
+<figure id="filippis-pizza-grotto-temecula-ca">[![](/images/filippis-pizza-grotto-temecula-ca.jpg)](/images/filippis-pizza-grotto-temecula-ca.jpg)</figure>
 
 #### [Filippi’s Pizza Grotto](/go/filippis-pizza-grotto-temecula-ca/)
 
@@ -223,7 +223,7 @@ If you want to explore more about Temecula wineries, see my guide on the [best f
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-98dbe3cf"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="pechanga-restaurants-great-oak-steakhouse-temecula-ca">[![](https://hotmamatravel.com/wp-content/uploads/2021/06/pechanga-restaurants-great-oak-steakhouse-temecula-ca.jpg)](/wp-content/uploads/2021/06/pechanga-restaurants-great-oak-steakhouse-temecula-ca.jpg)</figure>
+<figure id="pechanga-restaurants-great-oak-steakhouse-temecula-ca">[![](/images/pechanga-restaurants-great-oak-steakhouse-temecula-ca.jpg)](/images/pechanga-restaurants-great-oak-steakhouse-temecula-ca.jpg)</figure>
 
 #### **[Pechanga Restaurants](/go/pechanga-resort-casino-temecula-ca/)**
 
@@ -254,7 +254,7 @@ There are a ton of great dining options in Old Town Temecula, along Front Street
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9a3a07d5"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="south-coast-winery-resort-temecula-winery-hotels">[![](https://hotmamatravel.com/wp-content/uploads/2021/06/south-coast-winery-resort-temecula-winery-hotels.jpg)](/wp-content/uploads/2021/06/south-coast-winery-resort-temecula-winery-hotels.jpg)</figure>
+<figure id="south-coast-winery-resort-temecula-winery-hotels">[![](/images/south-coast-winery-resort-temecula-winery-hotels.jpg)](/images/south-coast-winery-resort-temecula-winery-hotels.jpg)</figure>
 
 #### **[Winery Hotels](/go/winery-hotels-temecula-ca/)**
 
@@ -277,7 +277,7 @@ See photos, reviews &amp; more
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-27322206"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="pechanga-rv-resort-temecula-ca">[![](https://hotmamatravel.com/wp-content/uploads/2021/06/pechanga-rv-resort-temecula-ca.jpg)](/wp-content/uploads/2021/06/pechanga-rv-resort-temecula-ca.jpg)</figure>
+<figure id="pechanga-rv-resort-temecula-ca">[![](/images/pechanga-rv-resort-temecula-ca.jpg)](/images/pechanga-rv-resort-temecula-ca.jpg)</figure>
 
 #### **[Pechanga RV Resort](/go/pechanga-resort-casino-temecula-ca/)**
 
@@ -290,7 +290,7 @@ Located on the Pechanga property with access to all the same amenities you would
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-16a20da2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="temecula-creek-inn-temecula-ca">[![](https://hotmamatravel.com/wp-content/uploads/2021/06/temecula-creek-inn-temecula-ca.jpg)](/wp-content/uploads/2021/06/temecula-creek-inn-temecula-ca.jpg)</figure>
+<figure id="temecula-creek-inn-temecula-ca">[![](/images/temecula-creek-inn-temecula-ca.jpg)](/images/temecula-creek-inn-temecula-ca.jpg)</figure>
 
 #### **[Temecula Creek Inn](/go/temecula-creek-inn-golf-courses-temecula-ca/)**
 
@@ -315,7 +315,7 @@ Indulge in a luxury hotel stay at Pechanga Resort where you can book a room or a
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-872b7609"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="eco-camps-glamping-temecula-ca">[![](https://hotmamatravel.com/wp-content/uploads/2021/05/eco-camps-glamping-temecula-ca.jpg)](/wp-content/uploads/2021/05/eco-camps-glamping-temecula-ca.jpg)</figure>
+<figure id="eco-camps-glamping-temecula-ca">[![](/images/eco-camps-glamping-temecula-ca.jpg)](/images/eco-camps-glamping-temecula-ca.jpg)</figure>
 
 #### **[Glamping Temecula](/glamping-temecula/)**
 
@@ -339,5 +339,5 @@ Wow, that’s a lot of fun for one little town right? Next time you are looking 
 
 **Like it? Pin it!**
 
-<figure id="best-things-to-do-in-temecula-ca">[![](https://hotmamatravel.com/wp-content/uploads/2021/06/best-things-to-do-in-temecula-ca-200x300.jpg)](/images/best-things-to-do-in-temecula-ca.jpg)</figure>
+<figure id="best-things-to-do-in-temecula-ca">[![](/images/best-things-to-do-in-temecula-ca-200x300.jpg)](/images/best-things-to-do-in-temecula-ca.jpg)</figure>
 </div></section>

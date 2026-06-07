@@ -16,7 +16,7 @@ Edinburgh Castle, one of Scotland’s most famous castles, is positioned strateg
 
 Today, Edinburgh Castle is a major tourist attraction.&nbsp; Although this castle and city attract a ton of people, we had a relatively smooth day. I did my research and talked to locals so that my day sightseeing a major tourist attraction would not be unnecessarily stressful. I was traveling with my two babies under 5 years old, my parents and my hubby, so I had to know what I was doing. Here are some tips to help you plan your visit Edinburgh Castle with kids.
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/09/DSCN0064-1024x768.jpg)](/edinburgh-castle-with-kids/)
+[![Edinburgh Castle with Kids](/images/DSCN0064-1024x768.jpg)](/edinburgh-castle-with-kids/)
 
 **HotMama Tips:**
 
@@ -42,7 +42,7 @@ Seniors are (60 and over) are 13.20 GBP
 
 If you are planning to see more than one castle, get the[**Explorer Pass**](http://www.awin1.com/cread.php?awinmid=5501&amp;awinaffid=370007&amp;clickref=Scotrail+text1&amp;p=http%3A%2F%2Ftraingenius.com%2F). It is the most cost effective way to see more of historic Scotland. **[Buy Your Pass](http://www.awin1.com/cread.php?awinmid=5501&amp;awinaffid=370007&amp;clickref=Scotrail+text1&amp;p=http%3A%2F%2Ftraingenius.com%2F)**.
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/09/DSCN0066-1024x768.jpg)](/edinburgh-castle-with-kids/)
+[![Edinburgh Castle with Kids](/images/DSCN0066-1024x768.jpg)](/edinburgh-castle-with-kids/)
 
 ## ***Fun Things to do at Edinburgh Castle with kids***
 
@@ -57,73 +57,73 @@ Exploring Scotland with Kids, including our visit to Edinburgh Castle
 ### Half Moon Battery
 
 As you approach Edinburgh Castle, you'll notice the **Half Moon Battery**. Not only does this give Edinburgh Castle its unique appearance, but it also made for a perfect spot to fire off cannons. It is also where visitors are encouraged to learn the art of various weaponry and artillery. We stumbled upon a **Schiltron Piking** tutorial. My daughter, FireCracker, loved learning this new skill and all the gory details of its historical use. Hopefully, she will never need to use this new talent. She was sure into it!
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/09/DSCN0208-1024x768.jpg)](/edinburgh-castle-with-kids/)
+[![Edinburgh Castle with Kids](/images/DSCN0208-1024x768.jpg)](/edinburgh-castle-with-kids/)
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/09/DSCN0085-768x1024.jpg)](/edinburgh-castle-with-kids/)
+[![Edinburgh Castle with Kids](/images/DSCN0085-768x1024.jpg)](/edinburgh-castle-with-kids/)
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/09/DSCN0185-1024x768.jpg)](/edinburgh-castle-with-kids/)
+[![Edinburgh Castle with Kids](/images/DSCN0185-1024x768.jpg)](/edinburgh-castle-with-kids/)
 
 ### National War Museum &amp; Royal Scots Dragoon
 
 If you are interested&nbsp; in Scotland’s hundreds of years of war history, check out the **National War Museum** and **Royal Scots Dragoon Guards Museum**. My kids were more interested in the statue out front.
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/09/DSCN0098-683x1024.jpg)](/edinburgh-castle-with-kids/)
+[![Edinburgh Castle with Kids](/images/DSCN0098-683x1024.jpg)](/edinburgh-castle-with-kids/)
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/09/DSCN0124-1024x768.jpg)](/edinburgh-castle-with-kids/)
+[![Edinburgh Castle with Kids](/images/DSCN0124-1024x768.jpg)](/edinburgh-castle-with-kids/)
 
 ### Scottish National War Memorial
 
 The **Scottish National War Memorial** honors those fallen in WWI and WWII. No cameras are allowed inside. We only took photos on the outside.
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/09/IMG_7681-1024x768.jpg)](/edinburgh-castle-with-kids/)
+[![Edinburgh Castle with Kids](/images/IMG_7681-1024x768.jpg)](/edinburgh-castle-with-kids/)
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/09/DSCN0172-1024x768.jpg)](/edinburgh-castle-with-kids/)
+[![Edinburgh Castle with Kids](/images/DSCN0172-1024x768.jpg)](/edinburgh-castle-with-kids/)
 
 ### Prisons of War
 
 The part of the castle I was most interested in seeing was the **Prisons of War** under the **Great Hall** and **Queen Anne Building**. These creepy and musty vaults held the prisoners of war, including a 5 year old drummer boy. We actually spent a lot of time here, reading the old engravings in doors and learning about life in these vaults. I was pleasantly surprised to discover that prisoners were given a humane 2 pints a day!
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/09/IMG_7669-1024x768.jpg)](/edinburgh-castle-with-kids/)
+[![Edinburgh Castle with Kids](/images/IMG_7669-1024x768.jpg)](/edinburgh-castle-with-kids/)
 
 ### One O'Clock Gun
 
 The firing of the **One O’Clock Gun** started in 1861 to notify ships to set their maritime clocks. The One O’Clock Gun still fires at 1:00 p.m. every day, ***except Sundays***, and you can witness it. Crowds gather pretty fast, but I suggest getting a higher point view rather than standing in the midst of the crowd.
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/09/DSCN0201-1024x768.jpg)](/edinburgh-castle-with-kids/)
+[![Edinburgh Castle with Kids](/images/DSCN0201-1024x768.jpg)](/edinburgh-castle-with-kids/)
 
 ### Mons Meg
 
 For gun and cannon lovers, take a look at **Mons Meg**. This super famous gun was gifted to King James II in 1457. The cannons that were fired from Mons Meg are gigantic! It is truly unbelievable and the damage this gun must have caused is incredible.
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/09/DSCN0142-1024x768.jpg)](/edinburgh-castle-with-kids/)
+[![Edinburgh Castle with Kids](/images/DSCN0142-1024x768.jpg)](/edinburgh-castle-with-kids/)
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/09/DSCN0143-300x200.jpg)](/edinburgh-castle-with-kids/)
+[![Edinburgh Castle with Kids](/images/DSCN0143-300x200.jpg)](/edinburgh-castle-with-kids/)
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/09/DSCN0135-1024x685.jpg)](/edinburgh-castle-with-kids/)
+[![Edinburgh Castle with Kids](/images/DSCN0135-1024x685_201509.jpg)](/edinburgh-castle-with-kids/)
 
 ### Margaret's Chapel
 
 Switching gears, right behind Mons Meg is **St. Margaret’s Chapel**. Built in 1130, this was where the royal family would worship. It was named after Queen Margaret aka Saint Margaret, as it was built by her son David I. This also happens to be wear Queen Mary of Scots’ mother, Mary of Guise rested there until her burial. It is a tiny, but fascinating little chapel. It is hard to wiggle your way in if the crowds get too big.
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/09/DSCN0137-768x1024.jpg)](/edinburgh-castle-with-kids/)
+[![Edinburgh Castle with Kids](/images/DSCN0137-768x1024.jpg)](/edinburgh-castle-with-kids/)
 
 ### Royal Life
 
 For taste of royal life, take a look at the **Crown Jewels**. They are actually the oldest crown jewels on the British Isles. Also in the exhibit is the **Stone of Destiny**, used in coronation ceremonies. You can explore the various rooms of the place and even see the room that Queen Mary of Scots birthed her son King James VI.
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/09/IMG_0754-768x1024.jpg)](/edinburgh-castle-with-kids/)
+[![Edinburgh Castle with Kids](/images/IMG_0754-768x1024.jpg)](/edinburgh-castle-with-kids/)
 
 Nearby is the **Great Hall**, where you can stand where so many before stood to honor their King. Plus, you get to see some pretty cool weapons.
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/09/IMG_0757-1024x473.jpg)](/edinburgh-castle-with-kids/)
+[![Edinburgh Castle with Kids](/images/IMG_0757-1024x473.jpg)](/edinburgh-castle-with-kids/)
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/09/DSCN0193-1024x768.jpg)](/edinburgh-castle-with-kids/)
+[![Edinburgh Castle with Kids](/images/DSCN0193-1024x768.jpg)](/edinburgh-castle-with-kids/)
 
 **HotMama Tip:**
 
  While you are in Edinburgh, check out the catacombs. Since they are all privately owned, you will have to pay for a tour. There are plenty to choose from along Royal Mile. Some are less gimmicky than others. I had trouble finding a tour that would allow kids under 5 (mine were 4 and 3 at the time). Finally, I did find Auld Reekie Underground Tours, which allowed the kids to partake in the **torture tour**. I know. I know. Sounds bad, but it was fine. Our tour guide, Rebecca was super sweet and FireCracker loved it. [**Book Your Underground Tour**](http://www.awin1.com/cread.php?awinmid=7038&amp;awinaffid=370007&amp;clickref=Underground+Edinburgh&amp;p=https%3A%2F%2Fwww.viator.com%2Ftours%2FEdinburgh%2FUnderground-Walking-Tour-in-Edinburgh%2Fd739-8752P1).
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/09/EDINBURGH-1024x918.jpg)](/edinburgh-castle-with-kids/)
+[![Edinburgh Castle with Kids](/images/EDINBURGH-1024x918.jpg)](/edinburgh-castle-with-kids/)
 
 ## ***Places to eat near Edinburgh Castle***
 
@@ -133,7 +133,7 @@ In fact, it was crazy busy and every place we went was small, hot and loaded wit
 
 My kids and my parents were tired, hungry and grumpy. I had to think fast. I grabbed a cab and told him to take us somewhere amazing, but not loaded with tourists (even though we are tourists). Our driver drove, drove... and drove. He took us to a local favorite, **Sheep’s Heid**. It was really fantastic!
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/07/sheepheid2-1024x862.jpg)](/images/sheepheid2.jpg)
+[![Edinburgh Castle with Kids](/images/sheepheid2-1024x862.jpg)](/images/sheepheid2.jpg)
 
 ## ***That’s A Wrap:***
 
@@ -141,7 +141,7 @@ All in all, we had a great day visiting Edinburgh Castle with kids. I can’t st
 
 Edinburgh Castle is gorgeous and worth seeing. Although it wasn’t as kid-friendly as Stirling Castle, the kids will like the weaponry tutorials, the Explorer Quiz and seeing the firing of the One O’Clock Gun. Edinburgh is a fascinating city, so have fun exploring all its nooks and crannies. If you would like to learn about visiting Stirling Castle too, see my post, **[HERE](/ultimate-guide-visiting-stirling-castle-kids/)**
 
-[![Edinburgh Castle with Kids](https://hotmamatravel.com/wp-content/uploads/2015/09/IMG_0767-1024x768.jpg)](/edinburgh-castle-with-kids/)
+[![Edinburgh Castle with Kids](/images/IMG_0767-1024x768.jpg)](/edinburgh-castle-with-kids/)
 
 *Disclaimer: HotMamaTravel is a participant in affiliate advertising programs. By providing convenient links to my&nbsp; affiliates, I earn a little commission at no extra cost to you. All opinions are my own and I only link to companies that I trust. Thank you for supporting my site!*
 
@@ -153,4 +153,4 @@ Edinburgh Castle is gorgeous and worth seeing. Although it wasn’t as kid-frien
 
 **Like it? Pin it!**
 
-[![](https://hotmamatravel.com/wp-content/uploads/2017/03/ECWK-8.png)](/edinburgh-castle-with-kids/)
+[![](/images/ECWK-8.png)](/edinburgh-castle-with-kids/)

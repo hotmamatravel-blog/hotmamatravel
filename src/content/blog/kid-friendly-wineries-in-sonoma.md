@@ -17,10 +17,10 @@ Sonoma, California is a historic city and home to over 500 wineries. In Sonoma y
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<figure>[![Get your VinArmour wine travel case today](https://hotmamatravel.com/wp-content/uploads/2022/09/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg)](/go/vinarmour-luxury-wine-bag/)</figure>
+<figure>[![Get your VinArmour wine travel case today](/images/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg)](/go/vinarmour-luxury-wine-bag/)</figure>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-19951dd9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>[![](https://hotmamatravel.com/wp-content/uploads/2022/03/Benziger-family-winery-family-friendly-sonoma.jpg)](/wp-content/uploads/2022/03/Benziger-family-winery-family-friendly-sonoma.jpg)</figure>
+<figure>[![](/images/Benziger-family-winery-family-friendly-sonoma.jpg)](/images/Benziger-family-winery-family-friendly-sonoma.jpg)</figure>
 
 #### [Benziger Family Wineries](/go/benziger-family-winery-sonoma-ca/)
 
@@ -35,7 +35,7 @@ Taste the difference of biodynamic estate wines at Benziger Family Wineries. By 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-962229bf"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>[![](https://hotmamatravel.com/wp-content/uploads/2022/03/family-pool-francis-ford-coppola-winery-sonoma.jpg)](/wp-content/uploads/2022/03/family-pool-francis-ford-coppola-winery-sonoma.jpg)</figure>
+<figure>[![](/images/family-pool-francis-ford-coppola-winery-sonoma.jpg)](/images/family-pool-francis-ford-coppola-winery-sonoma.jpg)</figure>
 
 #### [Francis Ford Coppola Winery](/go/francis-ford-coppola-winery-sonoma-ca/)
 
@@ -50,7 +50,7 @@ Wine tasting and swimming? Yes, while your kids are having a blast splashing in 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f5f502ec"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>[![](https://hotmamatravel.com/wp-content/uploads/2022/03/livestock-preston-farm-winery-sonoma.jpg)](/wp-content/uploads/2022/03/livestock-preston-farm-winery-sonoma.jpg)</figure>
+<figure>[![](/images/livestock-preston-farm-winery-sonoma.jpg)](/images/livestock-preston-farm-winery-sonoma.jpg)</figure>
 
 #### [Preston Farm &amp; Winery](/go/preston-farm-winery-sonoma-ca/)
 
@@ -65,7 +65,7 @@ Preston Farm &amp; Winery is a family-owned organic farm with diverse crops, lik
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-fd7e9cea"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>[![](https://hotmamatravel.com/wp-content/uploads/2022/03/family-friendly-cline-cellars-sonoma.jpg)](/wp-content/uploads/2022/03/family-friendly-cline-cellars-sonoma.jpg)</figure>
+<figure>[![](/images/family-friendly-cline-cellars-sonoma.jpg)](/images/family-friendly-cline-cellars-sonoma.jpg)</figure>
 
 #### [Cline Family Cellars](/go/cline-family-cellars-sonoma-ca/)
 
@@ -80,7 +80,7 @@ Family owned and operated since 1982, Cline Family Cellars makes for a beautiful
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-cefc9825"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>[![](https://hotmamatravel.com/wp-content/uploads/2022/03/family-friendly-buena-vista-winery-sonoma.jpg)](/wp-content/uploads/2022/03/family-friendly-buena-vista-winery-sonoma.jpg)</figure>
+<figure>[![](/images/family-friendly-buena-vista-winery-sonoma.jpg)](/images/family-friendly-buena-vista-winery-sonoma.jpg)</figure>
 
 #### [Buena Vista Winery](/go/buena-vista-winery-sonoma-ca/)
 
@@ -118,5 +118,5 @@ For beer lovers, check out our list of kid-friendly breweries.
 
 **Like it? Pin it!**
 
-<figure>[![](https://hotmamatravel.com/wp-content/uploads/2022/03/5-best-kid-friendly-sonoma-wineries-200x300.jpg)](/images/5-best-kid-friendly-sonoma-wineries.jpg)</figure>
+<figure>[![](/images/5-best-kid-friendly-sonoma-wineries-200x300.jpg)](/images/5-best-kid-friendly-sonoma-wineries.jpg)</figure>
 </div></section>

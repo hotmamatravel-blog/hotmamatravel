@@ -14,7 +14,7 @@ author: "Amanda Keeley-Thurman"
 New Buffalo, Michigan is a charming lakeside town located just an hour's drive from Chicago. It's a popular destination for those looking to escape the hustle and bustle of the city and spend some time relaxing by the beach. New Buffalo, Michigan is a great destination for families with children. Here are some things you can do with your kids in New Buffalo.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-15709fe5"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="New-Buffalo-Beach-Michigan">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/New-Buffalo-Beach-Michigan.jpg)](/wp-content/uploads/2023/01/New-Buffalo-Beach-Michigan.jpg)</figure>
+<figure id="New-Buffalo-Beach-Michigan">[![](/images/New-Buffalo-Beach-Michigan.jpg)](/images/New-Buffalo-Beach-Michigan.jpg)</figure>
 
 #### [Visit the New Buffalo Beach](/go/new-buffalo-beach-michigan/)
 
@@ -33,7 +33,7 @@ If you're looking for something to do besides lounging on the beach, there are p
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-220f5875"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Chikaming-Open-Lands-New-Buffalo-Michigan">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/Chikaming-Open-Lands-New-Buffalo-Michigan.jpg)](/wp-content/uploads/2023/01/Chikaming-Open-Lands-New-Buffalo-Michigan.jpg)</figure>
+<figure id="Chikaming-Open-Lands-New-Buffalo-Michigan">[![](/images/Chikaming-Open-Lands-New-Buffalo-Michigan.jpg)](/images/Chikaming-Open-Lands-New-Buffalo-Michigan.jpg)</figure>
 
 #### [The Chikaming Open Land Nature Preserve](/go/chikaming-open-lands-nature-preserve-new-buffalo-michigan/)
 
@@ -52,7 +52,7 @@ Whether you're a nature lover, a birdwatcher, or just looking for a peaceful spo
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b7bfbd48"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Warren-Water-Dunes-State-Park-New-Buffalo-Michigan">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/Warren-Water-Dunes-State-Park-New-Buffalo-Michigan.jpg)](/wp-content/uploads/2023/01/Warren-Water-Dunes-State-Park-New-Buffalo-Michigan.jpg)</figure>
+<figure id="Warren-Water-Dunes-State-Park-New-Buffalo-Michigan">[![](/images/Warren-Water-Dunes-State-Park-New-Buffalo-Michigan.jpg)](/images/Warren-Water-Dunes-State-Park-New-Buffalo-Michigan.jpg)</figure>
 
 #### [Warren Dunes State Park](/go/warren-water-dunes-state-park-new-buffalo-michigan/)
 
@@ -71,7 +71,7 @@ If you're planning a longer visit, the park has a campground with sites for tent
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d8ff7c4e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="New-Buffalo-Farmers-Market-New-Buffalo-Michigan">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/New-Buffalo-Farmers-Market-New-Buffalo-Michigan.jpg)](/wp-content/uploads/2023/01/New-Buffalo-Farmers-Market-New-Buffalo-Michigan.jpg)</figure>
+<figure id="New-Buffalo-Farmers-Market-New-Buffalo-Michigan">[![](/images/New-Buffalo-Farmers-Market-New-Buffalo-Michigan.jpg)](/images/New-Buffalo-Farmers-Market-New-Buffalo-Michigan.jpg)</figure>
 
 #### [New Buffalo Farmer's Market](https://newbuffalofarmersmarket.com/)
 
@@ -90,7 +90,7 @@ Whether you're a foodie, a shopper, or just looking for something to do on a Sat
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9d72e071"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Four-Winds-Casino-Resort-New-Buffalo-Michigan">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/Four-Winds-Casino-Resort-New-Buffalo-Michigan.jpg)](/wp-content/uploads/2023/01/Four-Winds-Casino-Resort-New-Buffalo-Michigan.jpg)<figcaption class="wp-element-caption">Courtesy of Four Winds Casino Resort</figcaption></figure>
+<figure id="Four-Winds-Casino-Resort-New-Buffalo-Michigan">[![](/images/Four-Winds-Casino-Resort-New-Buffalo-Michigan.jpg)](/images/Four-Winds-Casino-Resort-New-Buffalo-Michigan.jpg)<figcaption class="wp-element-caption">Courtesy of Four Winds Casino Resort</figcaption></figure>
 
 #### [Four Winds Casino Resort](/go/four-winds-casino-resort-new-buffalo-michigan/)
 
@@ -109,7 +109,7 @@ If you're looking for something to do besides gambling and dining, the resort al
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5743593f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Lake-Michigan-New-Buffalo-Michigan">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/Lake-Michigan-New-Buffalo-Michigan.jpg)](/wp-content/uploads/2023/01/Lake-Michigan-New-Buffalo-Michigan.jpg)</figure>
+<figure id="Lake-Michigan-New-Buffalo-Michigan">[![](/images/Lake-Michigan-New-Buffalo-Michigan.jpg)](/images/Lake-Michigan-New-Buffalo-Michigan.jpg)</figure>
 
 #### [Rent a boat or go fishing on Lake Michigan](/go/lake-michigan-new-buffalo-michigan/)
 
@@ -126,7 +126,7 @@ Overall, whether you're an experienced angler or just looking to spend a day on 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b3c80bd2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="New-Buffalo-Railroad-Museum-New-Buffalo-Michigan">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/New-Buffalo-Railroad-Museum-New-Buffalo-Michigan.jpg)](/wp-content/uploads/2023/01/New-Buffalo-Railroad-Museum-New-Buffalo-Michigan.jpg)<figcaption class="wp-element-caption">Courtesy of New Buffalo Railroad Museum</figcaption></figure>
+<figure id="New-Buffalo-Railroad-Museum-New-Buffalo-Michigan">[![](/images/New-Buffalo-Railroad-Museum-New-Buffalo-Michigan.jpg)](/images/New-Buffalo-Railroad-Museum-New-Buffalo-Michigan.jpg)<figcaption class="wp-element-caption">Courtesy of New Buffalo Railroad Museum</figcaption></figure>
 
 #### [New Buffalo Railroad Museum](/go/new-buffalo-railroad-museum-michigan/)
 
@@ -143,7 +143,7 @@ Overall, the New Buffalo Railroad Museum is a great destination for families and
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3388ca09"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="st-joseph-Michigan">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/st-joseph-Michigan.jpg)](/wp-content/uploads/2023/01/st-joseph-Michigan.jpg)</figure>
+<figure id="st-joseph-Michigan">[![](/images/st-joseph-Michigan.jpg)](/images/st-joseph-Michigan.jpg)</figure>
 
 #### [Day Trip to St. Joseph](/go/st-joseph-michigan/)
 
@@ -160,7 +160,7 @@ If you're looking for something a little more active, St. Joseph also has a numb
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-77ec3501"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="day-trip-to-sawyer-Michigan-new-buffalo-michigan">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/day-trip-to-sawyer-Michigan-new-buffalo-michigan.jpg)](/wp-content/uploads/2023/01/day-trip-to-sawyer-Michigan-new-buffalo-michigan.jpg)</figure>
+<figure id="day-trip-to-sawyer-Michigan-new-buffalo-michigan">[![](/images/day-trip-to-sawyer-Michigan-new-buffalo-michigan.jpg)](/images/day-trip-to-sawyer-Michigan-new-buffalo-michigan.jpg)</figure>
 
 #### [Day Trip to Sawyer](/go/sawyer-michigan/)
 
@@ -188,5 +188,5 @@ For your next family vacation look no further than New Buffalo, Michigan. Beauty
 
 **Like it? Pin it!**
 
-<figure id="things-to-do-in-new-buffalo-michigan-with-kids">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/things-to-do-in-new-buffalo-michigan-with-kids-200x300.jpg)](/images/things-to-do-in-new-buffalo-michigan-with-kids.jpg)</figure>
+<figure id="things-to-do-in-new-buffalo-michigan-with-kids">[![](/images/things-to-do-in-new-buffalo-michigan-with-kids-200x300.jpg)](/images/things-to-do-in-new-buffalo-michigan-with-kids.jpg)</figure>
 </div></section>

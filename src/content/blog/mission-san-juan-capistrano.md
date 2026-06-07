@@ -20,7 +20,7 @@ For years Mission San Juan Capistrano thrived, but when Mexico won their Indepen
 
 Once California was given to the U.S and declared a state, President Abraham Lincoln returned the missions to the church and restoration began. All this history can be seen, touched, experienced and preserved by simply making a trip to visit a California Mission. So pack up the kids, because today we are checking out the gorgeous Mission San Juan Capistrano with kids!
 
-***[![Mission San Juan Capistrano](https://hotmamatravel.com/wp-content/uploads/2015/09/IMG_8790-e1492840054405-1024x882.jpg)](/mission-san-juan-capistrano/)***
+***[![Mission San Juan Capistrano](/images/IMG_8790-e1492840054405-1024x882.jpg)](/mission-san-juan-capistrano/)***
 
 ## ***Money Saving Tips:***
 
@@ -52,40 +52,40 @@ Not only a great place to find fun souvenirs, but also a way to give back to the
 
 The last time I visited San Juan Capistrano was years ago, before I even had babies. I used to love to wandering the historical grounds and enjoy the fantastic nearby restaurants. Recently, I was feeling the need to be around something historical, a ghost town or old town of some kind. Then it hit me! I had never taken the kids to Mission San Juan Capistrano. Bingo!
 
-[![Kids at Mission San Juan Capistrano](https://hotmamatravel.com/wp-content/uploads/2015/09/DSCN0822-e1492840599818-1024x935.jpg)](/mission-san-juan-capistrano/)
+[![Kids at Mission San Juan Capistrano](/images/DSCN0822-e1492840599818-1024x935.jpg)](/mission-san-juan-capistrano/)
 
 The property is just gorgeous with fountains and gardens to explore. They make for some pretty awesome photo ops as well. I took the opportunity to recreate a photo I had taken with HotDaddy years before, this time with our happy babies. I’m a dork and love doing recreation photos of past travels, so you’ll see a lot of them on my blog.
 
-[![Family at San Juan Capistrano](https://hotmamatravel.com/wp-content/uploads/2015/09/SanJuan-1024x512.jpg)](/mission-san-juan-capistrano/)
+[![Family at San Juan Capistrano](/images/SanJuan-1024x512.jpg)](/mission-san-juan-capistrano/)
 
 ###  The Fountains
 
 Covered with gorgeous lily pads are giant Koi hiding below. My kids found this very fascinating and really the highlight of their day. My little mermaid, FireCracker, seemed to have a real connection the fish as they would gather near her and poke their heads to the surface for a fishy kiss.
 
-[![Mission San Juan Capistrano Fountains](https://hotmamatravel.com/wp-content/uploads/2015/09/SanJuan1-1024x512.jpg)](/mission-san-juan-capistrano/)
+[![Mission San Juan Capistrano Fountains](/images/SanJuan1-1024x512.jpg)](/mission-san-juan-capistrano/)
 
 ### Ruins of The Great Stone Church
 
 My favorite part of Mission San Juan Capistrano is the old church ruins. It is jaw dropping. Once known as the Great Stone Church, it was built in 1806 and was one of the largest structures in Alta California. Sadly, an earthquake struck during Mass in 1812 and the church crumbled, killing 40 people! What remains is a giant reminder of this tragedy that happened so long ago. I can’t get enough of it when I visit. I try to imagine how glorious it must have looked in 1806, because even now, in ruins, the Great Stone Church is magnificent.
 
-[![Ruins at Mission San Juan Capistrano](https://hotmamatravel.com/wp-content/uploads/2015/09/sanjuan3-1024x791.jpg)](/mission-san-juan-capistrano/)
+[![Ruins at Mission San Juan Capistrano](/images/sanjuan3-1024x791.jpg)](/mission-san-juan-capistrano/)
 Come on St. Joseph’s Day (March 19th) and see the witness the miracle of the Swallows. The little swallows flock to the San Juan Capistrano to build their nests atop the ruins of the Great Stone Church. Apparently, it is quite a spectacle. On October 23rd they leave, but not before circling the ruins a few times, as if to say goodbye.
 
 ### Living Quarters
 
 Spend the rest of the day exploring the property. Checkout the soldiers’ quarters and be sure to listen to the free audio tour to hear interesting tales of pirate and soldier encounters.
 
-[![Inside Mission San Juan Capistrano](https://hotmamatravel.com/wp-content/uploads/2015/09/sanjuan5-1024x672.jpg)](/mission-san-juan-capistrano/)
+[![Inside Mission San Juan Capistrano](/images/sanjuan5-1024x672.jpg)](/mission-san-juan-capistrano/)
 
 You can even explore the rooms of the Padres. Such humble dwellings, you’ll learn about the modern urban luxuries of Mexico the Padres had to give up in order to serve at the missions of Alta California.
 
-[![Kitchen inside San Juan Capistrano](https://hotmamatravel.com/wp-content/uploads/2015/09/DSCN0828-1024x768.jpg)](/mission-san-juan-capistrano/)
+[![Kitchen inside San Juan Capistrano](/images/DSCN0828-1024x768.jpg)](/mission-san-juan-capistrano/)
 
 ### Natives
 
 My kids really enjoyed learning about the Native Californians. FireCracker, was really intrigued by the cooking methods of the women and kitchen at the mission. My son, CuddleBear, enjoyed playing with the musical instruments.
 
-[![Kids Activity Mission San Juan Capistrano](https://hotmamatravel.com/wp-content/uploads/2015/09/SJ.jpg)](/mission-san-juan-capistrano/)
+[![Kids Activity Mission San Juan Capistrano](/images/SJ.jpg)](/mission-san-juan-capistrano/)
 
 ##
 
@@ -93,7 +93,7 @@ My kids really enjoyed learning about the Native Californians. FireCracker, was 
 
 Named after the founder of the Mission, St. Junipero Serra, this beautiful chapel is known for its beautiful and ornate baroque alter. That alter came from Barcelona, Spain is said to be over 400 years old!  Off to the side of the entrance is St. Peregrine Chapel, which is a little prayer room dedicated to the patron saint of suffers. The kids really enjoyed visiting the chapel where they made a prayer for members of our family while lighting a candle.
 
-[![Serra Chapel Mission San Juan Capistrano](https://hotmamatravel.com/wp-content/uploads/2015/09/SJMCv2.jpg)](/mission-san-juan-capistrano/)
+[![Serra Chapel Mission San Juan Capistrano](/images/SJMCv2.jpg)](/mission-san-juan-capistrano/)
 
 ## ***Places to Grab a Drink:***
 
@@ -107,13 +107,13 @@ While I was an intern at Churm Media, I reviewed this restaurant. I love the atm
 
 It not only has delicious food, but amazing views of the Great Stone Church Ruins. I love coming here after a long day exploring Mission San Juan Capistrano, sipping on a crisp glass of Blanc while gazing upon the brilliant site. Cedar Creek also has live music on the patio during the weekends, making it a winner in my book. Hopefully your kids will be nice and tired, so you can enjoy a little wine and dine in peace.
 
-[![Cedar Creek Inn Capistrano](https://hotmamatravel.com/wp-content/uploads/2015/09/SJC.jpg)](/mission-san-juan-capistrano/)
+[![Cedar Creek Inn Capistrano](/images/SJC.jpg)](/mission-san-juan-capistrano/)
 
 ### Mission Grill
 
 For lunch, I like to relax at the **Mission Grill****.**It is patio seating, views of the mission and great prices. When prices are low, I can really let my hair down and over-order. Margaritas, cervezas, stuffed jalapenos, carnitas tacos, chorizo burgers, churros and more!! Plus it is nice and casual for the kids.
 
-[![Mission Grill Capistrano](https://hotmamatravel.com/wp-content/uploads/2015/09/SJC1.jpg)](/mission-san-juan-capistrano/)
+[![Mission Grill Capistrano](/images/SJC1.jpg)](/mission-san-juan-capistrano/)
 
 ## ***That’s a Wrap:***
 
@@ -125,4 +125,4 @@ If you love visiting historical sites, then Mission San Juan Capistrano is the p
 
 **Like it? Pin it!**
 
-[![Mission San Juan Capistrano](https://hotmamatravel.com/wp-content/uploads/2015/09/Mission-San-Juan-Capistrano1-683x1024.png)](/mission-san-juan-capistrano/)
+[![Mission San Juan Capistrano](/images/Mission-San-Juan-Capistrano1-683x1024.png)](/mission-san-juan-capistrano/)

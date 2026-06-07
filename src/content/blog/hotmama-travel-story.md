@@ -144,4 +144,4 @@ But **if there is one thing I have learned** traveling the world with my babies,
 
 **Like it? Pin it!**
 
-![Family Travel Uncensored - Sweatpants in Scotland, Tantrums in Airports, &amp; Super Nanny to the Rescue](https://hotmamatravel.com/wp-content/uploads/2018/10/HotMamaTravel-family-travel-uncensored-pin-683x1024.jpg)
+![Family Travel Uncensored - Sweatpants in Scotland, Tantrums in Airports, &amp; Super Nanny to the Rescue](/images/HotMamaTravel-family-travel-uncensored-pin-683x1024.jpg)

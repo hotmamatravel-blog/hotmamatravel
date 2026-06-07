@@ -22,7 +22,7 @@ So whether you're looking for a [**thrilling adventure**](/kid-friendly-day-trip
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure id="marriage-can-be-murder-las-vegas-dinner-show-packages">[![Marriage Can Be Murder Las Vegas Dinner and Show Packages](https://hotmamatravel.com/wp-content/uploads/2023/02/marriage-can-be-murder-las-vegas-dinner-show-packages.jpg)](/wp-content/uploads/2023/02/marriage-can-be-murder-las-vegas-dinner-show-packages.jpg)<figcaption class="wp-element-caption">Courtesy of Vegas.com</figcaption></figure>
+<figure id="marriage-can-be-murder-las-vegas-dinner-show-packages">[![Marriage Can Be Murder Las Vegas Dinner and Show Packages](/images/marriage-can-be-murder-las-vegas-dinner-show-packages.jpg)](/images/marriage-can-be-murder-las-vegas-dinner-show-packages.jpg)<figcaption class="wp-element-caption">Courtesy of Vegas.com</figcaption></figure>
 
 ### [Marriage Can Be Murder](/go/marriage-can-be-murder-dinner-show-las-vegas/)
 
@@ -42,7 +42,7 @@ If you're looking for a unique and thrilling show in Las Vegas, Marriage Can Be 
 
 [**See photos, reviews &amp; more**](/go/marriage-can-be-murder-dinner-show-las-vegas/)
 
-<figure id="tournament-of-kings-las-vegas-dinner-show-packages">[![Tournament of Kings Dinner and Show Package in Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/tournament-of-kings-las-vegas-dinner-show-packages.jpg)](/wp-content/uploads/2023/02/tournament-of-kings-las-vegas-dinner-show-packages.jpg)<figcaption class="wp-element-caption">Courtesy of Vegas.com</figcaption></figure>
+<figure id="tournament-of-kings-las-vegas-dinner-show-packages">[![Tournament of Kings Dinner and Show Package in Las Vegas](/images/tournament-of-kings-las-vegas-dinner-show-packages.jpg)](/images/tournament-of-kings-las-vegas-dinner-show-packages.jpg)<figcaption class="wp-element-caption">Courtesy of Vegas.com</figcaption></figure>
 
 ### [Tournament of Kings](/go/tournament-kings-dinner-show-las-vegas/)
 
@@ -64,7 +64,7 @@ Afterwards, it is an easy walk to [Mandalay Bay Hotel](https://mandalaybay.mgmre
 
 [**See photos, reviews &amp; more**](/go/tournament-kings-dinner-show-las-vegas/)
 
-<figure id="V-Ultimate-Variety-Show-las-vegas-dinner-show-packages">[![V-The Ultimate Variety Show and Dinner in Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/V-Ultimate-Variety-Show-las-vegas-dinner-show-packages.jpg)](/wp-content/uploads/2023/02/V-Ultimate-Variety-Show-las-vegas-dinner-show-packages.jpg)<figcaption class="wp-element-caption">Courtesy of Vegas.com</figcaption></figure>
+<figure id="V-Ultimate-Variety-Show-las-vegas-dinner-show-packages">[![V-The Ultimate Variety Show and Dinner in Las Vegas](/images/V-Ultimate-Variety-Show-las-vegas-dinner-show-packages.jpg)](/images/V-Ultimate-Variety-Show-las-vegas-dinner-show-packages.jpg)<figcaption class="wp-element-caption">Courtesy of Vegas.com</figcaption></figure>
 
 ### [V-The Ultimate Variety Show](/go/v-ultimate-variety-show-dinner-las-vegas/)
 
@@ -83,7 +83,7 @@ In addition to the fantastic performances, V - The Ultimate Variety Show also fe
 [**See photos, reviews &amp; more**](/go/v-ultimate-variety-show-dinner-las-vegas/)
 
 <figure id="rat-pack-is-back-las-vegas-dinner-show-packages">[![Las Vegas Dinner and Show Package The Rat Pack is Back
-](https://hotmamatravel.com/wp-content/uploads/2023/02/rat-pack-is-back-las-vegas-dinner-show-packages.jpg)](/wp-content/uploads/2023/02/rat-pack-is-back-las-vegas-dinner-show-packages.jpg)<figcaption class="wp-element-caption">Courtesy of RatPackisBack.com</figcaption></figure>
+](/images/rat-pack-is-back-las-vegas-dinner-show-packages.jpg)](/images/rat-pack-is-back-las-vegas-dinner-show-packages.jpg)<figcaption class="wp-element-caption">Courtesy of RatPackisBack.com</figcaption></figure>
 
 ### [The Rat Pack is Back](/go/rat-pack-is-back-dinner-show-las-vegas/)
 
@@ -101,7 +101,7 @@ The Rat Pack is Back is a fantastic show that's sure to bring a smile to your fa
 
 [**See photos, reviews &amp; more**](/go/rat-pack-is-back-dinner-show-las-vegas/)
 
-<figure id="Vegas-the-show-las-vegas-dinner-show-packages">[![Vegas the Show Dinner and Show Package ](https://hotmamatravel.com/wp-content/uploads/2023/02/Vegas-the-show-las-vegas-dinner-show-packages.jpg)](/wp-content/uploads/2023/02/Vegas-the-show-las-vegas-dinner-show-packages.jpg)<figcaption class="wp-element-caption">Courtesy of Vegas.com</figcaption></figure>
+<figure id="Vegas-the-show-las-vegas-dinner-show-packages">[![Vegas the Show Dinner and Show Package ](/images/Vegas-the-show-las-vegas-dinner-show-packages.jpg)](/images/Vegas-the-show-las-vegas-dinner-show-packages.jpg)<figcaption class="wp-element-caption">Courtesy of Vegas.com</figcaption></figure>
 
 ### [Vegas! The Show](/go/vegas-the-show-dinner-show-las-vegas/)
 
@@ -121,7 +121,7 @@ If you're planning a trip to Las Vegas, be sure to add Vegas! The Show to your i
 
 [**See photos, reviews &amp; more**](/go/vegas-the-show-dinner-show-las-vegas/)
 
-<figure id="the-mentalist-las-vegas-dinner-show-packages">[![Las Vegas Dinner and Show Packages The Mentalist](https://hotmamatravel.com/wp-content/uploads/2023/02/the-mentalist-las-vegas-dinner-show-packages.jpg)](/wp-content/uploads/2023/02/the-mentalist-las-vegas-dinner-show-packages.jpg)<figcaption class="wp-element-caption">Courtesy of Vegas.com</figcaption></figure>
+<figure id="the-mentalist-las-vegas-dinner-show-packages">[![Las Vegas Dinner and Show Packages The Mentalist](/images/the-mentalist-las-vegas-dinner-show-packages.jpg)](/images/the-mentalist-las-vegas-dinner-show-packages.jpg)<figcaption class="wp-element-caption">Courtesy of Vegas.com</figcaption></figure>
 
 ### [The Mentalist](/go/mentalist-dinner-show-las-vegas/)
 
@@ -141,7 +141,7 @@ The Mentalist is a must-see show for anyone visiting Las Vegas who wants a truly
 
 [**See photos, reviews &amp; more**](/go/mentalist-dinner-show-las-vegas/)
 
-<figure id="all-motown-las-vegas-dinner-show-packages">[![All Motown Las Vegas Dinner and Show ](https://hotmamatravel.com/wp-content/uploads/2023/02/all-motown-las-vegas-dinner-show-packages.jpg)](/wp-content/uploads/2023/02/all-motown-las-vegas-dinner-show-packages.jpg)<figcaption class="wp-element-caption">Courtesy of Vegas.com</figcaption></figure>
+<figure id="all-motown-las-vegas-dinner-show-packages">[![All Motown Las Vegas Dinner and Show ](/images/all-motown-las-vegas-dinner-show-packages.jpg)](/images/all-motown-las-vegas-dinner-show-packages.jpg)<figcaption class="wp-element-caption">Courtesy of Vegas.com</figcaption></figure>
 
 ### [All Motown](/go/all-motown-dinner-show-las-vegas/)
 
@@ -173,5 +173,5 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 **Like it? Pin it!**
 
-<figure id="best-las-vegas-dinner-and-show-packages">[![Best Dinner and Show Packages in Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/best-las-vegas-dinner-and-show-packages-200x300.jpg)](/images/best-las-vegas-dinner-and-show-packages.jpg)</figure>
+<figure id="best-las-vegas-dinner-and-show-packages">[![Best Dinner and Show Packages in Las Vegas](/images/best-las-vegas-dinner-and-show-packages-200x300.jpg)](/images/best-las-vegas-dinner-and-show-packages.jpg)</figure>
 </div></section>

@@ -27,7 +27,7 @@ In this article, I’ll share why I think Alcatraz is absolutely worth visiting 
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure id="military-fort-alcatraz">[![Cannon at Alcatraz ](https://hotmamatravel.com/wp-content/uploads/2023/09/military-fort-alcatraz.jpg)](/wp-content/uploads/2023/09/military-fort-alcatraz.jpg)</figure>
+<figure id="military-fort-alcatraz">[![Cannon at Alcatraz ](/images/military-fort-alcatraz.jpg)](/images/military-fort-alcatraz.jpg)</figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -41,7 +41,7 @@ During the [Civil War, Alcatraz](https://www.nps.gov/alca) was fortified with ca
 
 **[See Photos, Reviews, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-<figure id="visiting-alcatraz-cellhouse">[![Prison Cells in Alcatraz](https://hotmamatravel.com/wp-content/uploads/2023/09/visiting-alcatraz-cellhouse-1.jpg)](/wp-content/uploads/2023/09/visiting-alcatraz-cellhouse-1.jpg)</figure>
+<figure id="visiting-alcatraz-cellhouse">[![Prison Cells in Alcatraz](/images/visiting-alcatraz-cellhouse-1.jpg)](/images/visiting-alcatraz-cellhouse-1.jpg)</figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-690744ca">
 
@@ -59,7 +59,7 @@ Eventually, the maintenance and operating costs were too much and Attorney Gener
 
 **[See Photos, Reviews, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="visiting-alcatraz-native-americans"><figure>[![Alcatraz Occuption of 1969](https://hotmamatravel.com/wp-content/uploads/2023/09/visiting-alcatraz-native-americans.jpg)](/wp-content/uploads/2023/09/visiting-alcatraz-native-americans.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="visiting-alcatraz-native-americans"><figure>[![Alcatraz Occuption of 1969](/images/visiting-alcatraz-native-americans.jpg)](/images/visiting-alcatraz-native-americans.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-f0309aaf">
 
@@ -99,7 +99,7 @@ Over the years, Alcatraz has seen efforts to restore its natural vegetation. Tod
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-b5165a95 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="alcatraz-ferry-visiting-alcatraz"><figure>[![Alcatraz Ferry to get to Alcatraz](https://hotmamatravel.com/wp-content/uploads/2023/09/alcatraz-ferry-visiting-alcatraz.jpg)](/wp-content/uploads/2023/09/alcatraz-ferry-visiting-alcatraz.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-b5165a95 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="alcatraz-ferry-visiting-alcatraz"><figure>[![Alcatraz Ferry to get to Alcatraz](/images/alcatraz-ferry-visiting-alcatraz.jpg)](/images/alcatraz-ferry-visiting-alcatraz.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-941a87aa">
 
@@ -114,7 +114,7 @@ Plan to arrive at least 30 minutes before your scheduled departure time. Alcatra
 
 The ferry ride to Alcatraz Island is not just a means of transportation; it's also a scenic journey that offers fantastic views of the San Francisco skyline, Golden Gate Bridge, and the bay. It takes approximately 15-20 minutes to reach the island.
 
-<div class="wp-block-stackable-image stk-block-image stk-block stk-fc7a6b7" data-block-id="fc7a6b7"><figure>![Family-friendly Alcatraz ferry](https://hotmamatravel.com/wp-content/uploads/2023/09/alcatraz-ferry-visiting-alcatraz-1.jpg)</figure></div>
+<div class="wp-block-stackable-image stk-block-image stk-block stk-fc7a6b7" data-block-id="fc7a6b7"><figure>![Family-friendly Alcatraz ferry](/images/alcatraz-ferry-visiting-alcatraz-1.jpg)</figure></div>
 
 Once you arrive on Alcatraz Island, you'll be greeted by park rangers who will provide you with maps, information about the island, and any scheduled programs or tours. Make sure to grab a brochure that includes the self-guided audio tour.
 
@@ -130,7 +130,7 @@ After you visit Alcatraz, return to the mainland by taking the ferry back to you
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-6a3e819b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="visiting-alcatraz-the-dock"><figure>[![The Alcatraz Dock, first site when visiting Alcatraz ](https://hotmamatravel.com/wp-content/uploads/2023/09/visiting-alcatraz-the-dock.jpg)](/wp-content/uploads/2023/09/visiting-alcatraz-the-dock.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-6a3e819b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="visiting-alcatraz-the-dock"><figure>[![The Alcatraz Dock, first site when visiting Alcatraz ](/images/visiting-alcatraz-the-dock.jpg)](/images/visiting-alcatraz-the-dock.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-df3e03bd">
 
@@ -144,7 +144,7 @@ Today, this is where you watch presentations, shop at the bookstore, grab your g
 
 **[See Photos, Reviews, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-<div class="wp-block-uagb-image uagb-block-dd4d9126 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="barracks-apartments-alcatraz"><figure>[![Barracks and Apartments on Alcatraz Island](https://hotmamatravel.com/wp-content/uploads/2023/09/barracks-apartments-alcatraz.jpg)](/wp-content/uploads/2023/09/barracks-apartments-alcatraz.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-dd4d9126 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="barracks-apartments-alcatraz"><figure>[![Barracks and Apartments on Alcatraz Island](/images/barracks-apartments-alcatraz.jpg)](/images/barracks-apartments-alcatraz.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-dbc83e3d">
 
@@ -156,7 +156,7 @@ Thanks to inmate labor, the finished Barracks Building in 1905 was originally us
 
 **[See Photos, Reviews, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-<div class="wp-block-uagb-image uagb-block-c6dacb1b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="military-fort-alcatraz"><figure>[![Alcatraz guardhouse and sally port military fort](https://hotmamatravel.com/wp-content/uploads/2023/09/military-fort-alcatraz.jpg)](/wp-content/uploads/2023/09/military-fort-alcatraz.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-c6dacb1b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="military-fort-alcatraz"><figure>[![Alcatraz guardhouse and sally port military fort](/images/military-fort-alcatraz.jpg)](/images/military-fort-alcatraz.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-6e8c0abb">
 
@@ -168,7 +168,7 @@ The Guardhouse is the oldest building on the island, built in 1857. It was the f
 
 **[See Photos, Reviews, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-<div class="wp-block-uagb-image uagb-block-cc486cc6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="post-exchange-offciers-club-alcatraz"><figure>[![Post Exchange and Officer](https://hotmamatravel.com/wp-content/uploads/2023/09/post-exchange-offciers-club-alcatraz.jpg)](/wp-content/uploads/2023/09/post-exchange-offciers-club-alcatraz.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-cc486cc6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="post-exchange-offciers-club-alcatraz"><figure>[![Post Exchange and Officer](/images/post-exchange-offciers-club-alcatraz.jpg)](/images/post-exchange-offciers-club-alcatraz.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-e779d261">
 
@@ -180,7 +180,7 @@ This was known as the soldier's clubhouse. Built in 1910 this building held the 
 
 **[See Photos, Reviews, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-<div class="wp-block-uagb-image uagb-block-c2498947 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="military-schoolhouse-club-alcatraz"><figure>[![Military Schoolhouse on Alcatraz Island](https://hotmamatravel.com/wp-content/uploads/2023/09/military-schoolhouse-club-alcatraz.jpg)](/wp-content/uploads/2023/09/military-schoolhouse-club-alcatraz.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-c2498947 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="military-schoolhouse-club-alcatraz"><figure>[![Military Schoolhouse on Alcatraz Island](/images/military-schoolhouse-club-alcatraz.jpg)](/images/military-schoolhouse-club-alcatraz.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-1de04c0a">
 
@@ -192,7 +192,7 @@ This Mission Revival-style building was built in the 1920's. It has served many 
 
 **[See Photos, Reviews, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-<div class="wp-block-uagb-image uagb-block-b0071805 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="cellhouse-tour-alcatraz-island"><figure>[![Historic cellhouse tour on Alcatraz Island](https://hotmamatravel.com/wp-content/uploads/2023/09/cellhouse-tour-alcatraz-island.jpg)](/wp-content/uploads/2023/09/cellhouse-tour-alcatraz-island.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-b0071805 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="cellhouse-tour-alcatraz-island"><figure>[![Historic cellhouse tour on Alcatraz Island](/images/cellhouse-tour-alcatraz-island.jpg)](/images/cellhouse-tour-alcatraz-island.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-b4f6ab23">
 
@@ -208,7 +208,7 @@ The Cellhouse contained four cellblocks, labeled A, B, C, and D. Each cellblock 
 
 **[See Photos, Reviews, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-<div class="wp-block-uagb-image uagb-block-54a860a6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="lighthouse-alcatraz-island"><figure>[![Alcatraz Island Historic Lighthouse](https://hotmamatravel.com/wp-content/uploads/2023/09/lighthouse-alcatraz-island.jpg)](/wp-content/uploads/2023/09/lighthouse-alcatraz-island.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-54a860a6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="lighthouse-alcatraz-island"><figure>[![Alcatraz Island Historic Lighthouse](/images/lighthouse-alcatraz-island.jpg)](/images/lighthouse-alcatraz-island.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-51c9d5cd">
 
@@ -222,7 +222,7 @@ In 1909, the lighthouse you see today replaced the original oil 1854 lighthouse.
 
 **[See Photos, Reviews, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-<div class="wp-block-uagb-image uagb-block-97c392cb wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="wardens-house-alcatraz-island"><figure>[![Ruined Warden](https://hotmamatravel.com/wp-content/uploads/2023/09/wardens-house-alcatraz-island-1.jpg)](/wp-content/uploads/2023/09/wardens-house-alcatraz-island-1.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-97c392cb wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="wardens-house-alcatraz-island"><figure>[![Ruined Warden](/images/wardens-house-alcatraz-island-1.jpg)](/images/wardens-house-alcatraz-island-1.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-efeba141">
 
@@ -234,7 +234,7 @@ The Warden's House was once the impressive Mission Revival home for the wardens 
 
 **[See Photos, Reviews, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-<div class="wp-block-uagb-image uagb-block-7f0b1d2c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![The gardens at Alcatraz](https://hotmamatravel.com/wp-content/uploads/2023/09/gardens-alcatraz-island.jpg)](/wp-content/uploads/2023/09/gardens-alcatraz-island.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-7f0b1d2c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![The gardens at Alcatraz](/images/gardens-alcatraz-island.jpg)](/images/gardens-alcatraz-island.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-71c1ba70">
 
@@ -252,7 +252,7 @@ The first gardens were planted on Alcatraz by the military as a means to keep th
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-147236c9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="escape-attempts-alcatraz-island"><figure>[![Escape attempt 13 Alcatraz 1962](https://hotmamatravel.com/wp-content/uploads/2023/09/escape-attempts-alcatraz-island.jpg)](/wp-content/uploads/2023/09/escape-attempts-alcatraz-island.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-147236c9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="escape-attempts-alcatraz-island"><figure>[![Escape attempt 13 Alcatraz 1962](/images/escape-attempts-alcatraz-island.jpg)](/images/escape-attempts-alcatraz-island.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-fe91834f">
 
@@ -272,7 +272,7 @@ Another infamous escape attempt was the summer of 1962, when Morris and the Angl
 
  **[See Photos, Reviews, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-<div class="wp-block-uagb-image uagb-block-58ff7247 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="visiting-alcatraz-morgue"><figure>[![Visiting Alcatraz Morgue ](https://hotmamatravel.com/wp-content/uploads/2023/09/visiting-alcatraz-morgue.jpg)](/wp-content/uploads/2023/09/visiting-alcatraz-morgue.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-58ff7247 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="visiting-alcatraz-morgue"><figure>[![Visiting Alcatraz Morgue ](/images/visiting-alcatraz-morgue.jpg)](/images/visiting-alcatraz-morgue.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-f578e1f1">
 
@@ -292,13 +292,13 @@ In 1942 inmate, Herring, attacked a fellow inmate, Snow in the shower. Snow ende
 
 During an escape attempt in 1943 inmates, Hamilton, Brest, Hunter and Boarman, were caught after jumping guards and attempting to swim away. All of them were captured and injured, but Boarman was shot and fatally wounded. He was only 24 years old.
 
-<figure id="barberhop-alcatraz-island">[![](https://hotmamatravel.com/wp-content/uploads/2023/09/barberhop-alcatraz-island.jpg)](/wp-content/uploads/2023/09/barberhop-alcatraz-island.jpg)</figure>
+<figure id="barberhop-alcatraz-island">[![](/images/barberhop-alcatraz-island.jpg)](/images/barberhop-alcatraz-island.jpg)</figure>
 
 The barbershop murder that happened in 1945 was between two inmates. Claude Branch and Ralph Greene. Apparently, Greene hit Branch with a metal stand used to hold the barber's clippers, resulting in Branch's death two days later. Then in 1951 another inmate on inmate murder occurred when the prison barber, Freddie Thomas stabbed fellow inmate, Joseph Barsock in the neck and chest with his shears.
 
 **[See Photos, Reviews, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-<div class="wp-block-uagb-image uagb-block-0aaba3d7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="cellhouse-empty-alcatraz-island"><figure>[![hauntings at Alcatraz Prison San Francisco](https://hotmamatravel.com/wp-content/uploads/2023/09/cellhouse-empty-alcatraz-island-1.jpg)](/wp-content/uploads/2023/09/cellhouse-empty-alcatraz-island-1.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0aaba3d7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="cellhouse-empty-alcatraz-island"><figure>[![hauntings at Alcatraz Prison San Francisco](/images/cellhouse-empty-alcatraz-island-1.jpg)](/images/cellhouse-empty-alcatraz-island-1.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-7842e06c">
 
@@ -374,5 +374,5 @@ So, if you're seeking an adventure that combines history, intrigue, and breathta
 
 Like it? Pin it!
 
-<figure>[![Is Visiting Alcatraz Worth it with kids?](https://hotmamatravel.com/wp-content/uploads/2023/09/is-visiting-alcatraz-worth-it-hauntings-escapes-tips-200x300.jpg)](/images/is-visiting-alcatraz-worth-it-hauntings-escapes-tips.jpg)</figure>
+<figure>[![Is Visiting Alcatraz Worth it with kids?](/images/is-visiting-alcatraz-worth-it-hauntings-escapes-tips-200x300.jpg)](/images/is-visiting-alcatraz-worth-it-hauntings-escapes-tips.jpg)</figure>
 </div></div>

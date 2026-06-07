@@ -23,7 +23,7 @@ From the whispers of the wind through abandoned buildings to the echoes of bygon
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="calico-ghost-towns-around-las-vegas"><figure>[![Calico Ghost Towns Around Las Vegas](https://hotmamatravel.com/wp-content/uploads/2024/05/calico-ghost-towns-around-las-vegas.jpg)](/wp-content/uploads/2024/05/calico-ghost-towns-around-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="calico-ghost-towns-around-las-vegas"><figure>[![Calico Ghost Towns Around Las Vegas](/images/calico-ghost-towns-around-las-vegas.jpg)](/images/calico-ghost-towns-around-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -52,7 +52,7 @@ So, if you're looking for a family-friendly outing that's equal parts educationa
 
 **[See Photos, Reviews, &amp; More](/go/calico-ghost-town-california/)**
 
-<div class="wp-block-uagb-image uagb-block-8cbd8981 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="goodsprings-ghost-towns-around-las-vegas"><figure>[![Goodsprings Ghost Town near Las Vegas](https://hotmamatravel.com/wp-content/uploads/2024/05/goodsprings-ghost-towns-around-las-vegas.jpg)](/wp-content/uploads/2024/05/goodsprings-ghost-towns-around-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-8cbd8981 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="goodsprings-ghost-towns-around-las-vegas"><figure>[![Goodsprings Ghost Town near Las Vegas](/images/goodsprings-ghost-towns-around-las-vegas.jpg)](/images/goodsprings-ghost-towns-around-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-c95c3cf0">
 
@@ -77,7 +77,7 @@ Today, about 200 residents call Goodsprings home, carrying on the legacy of this
 
 **[See Photos, Reviews, &amp; More](/go/goodsprings-ghost-town-nv/)**
 
-<div class="wp-block-uagb-image uagb-block-9511933e wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="nelson-ghost-towns-around-las-vegas"><figure>[![Nelson Ghost Town near Las Vegas](https://hotmamatravel.com/wp-content/uploads/2024/05/nelson-ghost-towns-around-las-vegas.jpg)](/wp-content/uploads/2024/05/nelson-ghost-towns-around-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-9511933e wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="nelson-ghost-towns-around-las-vegas"><figure>[![Nelson Ghost Town near Las Vegas](/images/nelson-ghost-towns-around-las-vegas.jpg)](/images/nelson-ghost-towns-around-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-d7bedd76">
 
@@ -94,7 +94,7 @@ Today, visitors can enjoy tours of the Eldorado Canyon and Techatticup Mine for 
 
 **[See Photos, Reviews, &amp; More](/go/nelson-ghost-town-nv/)**
 
-<div class="wp-block-uagb-image uagb-block-25563fbf wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="pioche-ghost-towns-around-las-vegas"><figure>[![Pioche Ghost Town near Las Vegas](https://hotmamatravel.com/wp-content/uploads/2024/05/pioche-ghost-towns-around-las-vegas.jpg)](/wp-content/uploads/2024/05/pioche-ghost-towns-around-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-25563fbf wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="pioche-ghost-towns-around-las-vegas"><figure>[![Pioche Ghost Town near Las Vegas](/images/pioche-ghost-towns-around-las-vegas.jpg)](/images/pioche-ghost-towns-around-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-215af2fb">
 
@@ -115,7 +115,7 @@ While you are in town you might want to stop and grab a bit with the family at [
 
 **[See Photos, Reviews, &amp; More](/go/pioche-ghost-town-nv/)**
 
-<div class="wp-block-uagb-image uagb-block-5a57656b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="rhyolite-ghost-towns-around-las-vegas"><figure>[![Rhyolite Ghost Town near Las Vegas](https://hotmamatravel.com/wp-content/uploads/2024/05/rhyolite-ghost-towns-around-las-vegas.jpg)](/wp-content/uploads/2024/05/rhyolite-ghost-towns-around-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-5a57656b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="rhyolite-ghost-towns-around-las-vegas"><figure>[![Rhyolite Ghost Town near Las Vegas](/images/rhyolite-ghost-towns-around-las-vegas.jpg)](/images/rhyolite-ghost-towns-around-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-5df4ce9d">
 
@@ -140,7 +140,7 @@ Rhyolite is truly a ghost town, therefore there are no restaurants or attraction
 
 **[See Photos, Reviews, &amp; More](/go/rhyolite-ghost-town-nv/)**
 
-<div class="wp-block-uagb-image uagb-block-1d675a47 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="oatman-ghost-towns-around-las-vegas"><figure>[![Oatman Ghost Town near Las Vegas](https://hotmamatravel.com/wp-content/uploads/2024/05/oatman-ghost-towns-around-las-vegas.jpg)](/wp-content/uploads/2024/05/oatman-ghost-towns-around-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-1d675a47 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="oatman-ghost-towns-around-las-vegas"><figure>[![Oatman Ghost Town near Las Vegas](/images/oatman-ghost-towns-around-las-vegas.jpg)](/images/oatman-ghost-towns-around-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-3e50b87f">
 
@@ -177,5 +177,5 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](http://11. htt
 
 Like it? Pin it!
 
-<figure id="best-ghost-towns-around-las-vegas-for-families">[![Best Ghost Towns Around Las Vegas for Families](https://hotmamatravel.com/wp-content/uploads/2024/05/best-ghost-towns-around-las-vegas-for-families-200x300.jpg)](/images/best-ghost-towns-around-las-vegas-for-families.jpg)</figure>
+<figure id="best-ghost-towns-around-las-vegas-for-families">[![Best Ghost Towns Around Las Vegas for Families](/images/best-ghost-towns-around-las-vegas-for-families-200x300.jpg)](/images/best-ghost-towns-around-las-vegas-for-families.jpg)</figure>
 </div></div>

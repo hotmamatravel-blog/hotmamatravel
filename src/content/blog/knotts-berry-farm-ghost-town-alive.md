@@ -29,45 +29,45 @@ Great news! There is no extra charge to experience Ghost Town Alive. Daily ticke
 
 This interactive story actually started last summer ending with the Mayfield Gang escaping Sheriff Wheeler. Now the story continues with Annual Founder’s Day Celebration. Some of the Mayfield Gang have been locked up, but are set for release. The day starts with the welcoming to the Annual Founder’s Day Celebration before we are gathered to witness the release of the Mayfield gang. After the release, the town functions as it would in the 1800’s. The store fronts are open with actors playing the roles of towns’ people and merchants, interacting with you in full character. There are various town announcements made for visitors to follow the Mayfield storyline including an election for the new sheriff as well as a few skirmishes; ending with big hoedown. It is amazing.
 
-[![Knotts Berry Farm Ghost Town Sheriff office](https://hotmamatravel.com/wp-content/uploads/2017/06/DSC01958-e1497331149257.jpg)](/knotts-berry-farm-ghost-town-alive/)
+[![Knotts Berry Farm Ghost Town Sheriff office](/images/DSC01958-e1497331149257.jpg)](/knotts-berry-farm-ghost-town-alive/)
 
 ## *Why We Loved Ghost Town Alive*
 
 Knotts Berry Farm Ghost Town Alive is truly an interactive and immersive event. It is really easy to get sucked into the storyline. As a visitor, you are considered an honorary citizen of Calico Ghost Town and treated as such. The actors in town respond to you in character and you really begin to feel a part of Calico. My kids were completely invested in the story and actually had emotional reactions to the characters and what happened to them throughout the day.
 
-*[![Kids wanted in Calico Knotts](https://hotmamatravel.com/wp-content/uploads/2017/06/DSC01890.JPG-851x1024.jpg)](/knotts-berry-farm-ghost-town-alive/)*
+*[![Kids wanted in Calico Knotts](/images/DSC01890.JPG-851x1024.jpg)](/knotts-berry-farm-ghost-town-alive/)*
 
 ### Meeting The Mayfields
 
 As part of our family media day we were actually assigned a team. We were given black bandanas and a cowboy hat, signifying that we were a part of the Mayfield Gang. Upon learning our role, the kids were eager to meet the Mayfield, even if they were locked up at the time.
 
-[![Knotts Berry Farm Ghost Town Alive Jail](https://hotmamatravel.com/wp-content/uploads/2017/06/IMG_5608-e1497330726484.jpg)](/knotts-berry-farm-ghost-town-alive/)
+[![Knotts Berry Farm Ghost Town Alive Jail](/images/IMG_5608-e1497330726484.jpg)](/knotts-berry-farm-ghost-town-alive/)
 
 ### Siding With The Law
 
 After the release of the Mayfield boys, my kids decided to converse with Sheriff Wheeler. He told them that since they were good Mayfields they could help him keep the bad boys out of trouble. The Sheriff took into the Sheriff’s office and deputized them, which they loved, by swearing an oath to uphold the law and be good citizens of Calico. In fact, my daughter liked Sheriff Wheeler so much that she was very upset when Mayfield won the town election for new sheriff.
 
-[![Knotts Ghost Town Alive Sheriff](https://hotmamatravel.com/wp-content/uploads/2017/06/CXWB0444-e1497330969138.jpg)](/knotts-berry-farm-ghost-town-alive/)
+[![Knotts Ghost Town Alive Sheriff](/images/CXWB0444-e1497330969138.jpg)](/knotts-berry-farm-ghost-town-alive/)
 
 ### Being A Citizen
 
 CuddleBear decided to check into the Pony Express to help the town make deliveries. At the Pony Express CuddleBear was given a package to deliver to Goldie’s Boarding House as well as a cute stick pony to ride through town while he made his deliveries.
 
-[![Knotts Berry Farm Ghost Town Alive](https://hotmamatravel.com/wp-content/uploads/2017/06/IMG_5623-e1497331350529.jpg)](/knotts-berry-farm-ghost-town-alive/)
+[![Knotts Berry Farm Ghost Town Alive](/images/IMG_5623-e1497331350529.jpg)](/knotts-berry-farm-ghost-town-alive/)
 
 CuddleBear also took the time to read the Calico Gazette and to gossip with the paper boy. There was lots going in town to talk about and CuddleBear loved being a citizen.
 
-[![Knotts Ghost Town Alive with kids](https://hotmamatravel.com/wp-content/uploads/2017/06/IMG_5613-e1497331524327.jpg)](/knotts-berry-farm-ghost-town-alive/)
+[![Knotts Ghost Town Alive with kids](/images/IMG_5613-e1497331524327.jpg)](/knotts-berry-farm-ghost-town-alive/)
 
 The old schoolhouse is always a favorite of my children, but it was made even better during Ghost Time Alive as lovely school teachers from the 1800’s were there to engage with the kids. My kids made themselves really comfortable, talking the poor ladies’ ears off. I had to physically remove them to continue on with our day of events
 
-[![Knotts Berry Farm Schoolhouse](https://hotmamatravel.com/wp-content/uploads/2017/06/DSC02045-e1497331826404.jpg)](/knotts-berry-farm-ghost-town-alive/)
+[![Knotts Berry Farm Schoolhouse](/images/DSC02045-e1497331826404.jpg)](/knotts-berry-farm-ghost-town-alive/)
 
 ### Hoedown
 
 This was probably our favorite part of the day. The Ghost Town Alive event concludes with the town hoedown. At first the kids said they were tired and weren’t going to dance, but as soon as we arrived they changed their tune fast. All the characters from the town come out to dance with the guest. My kids were immediately swept up by performers they had seen throughout the day to dance as partners, including the beautiful dancers from the Calico Saloon show that we saw earlier in the day. It was so much fun! For kids who said they weren’t going to dance they ended up dancing the entire hoedown. So be sure not to miss the Ghost Town Hoedown!
 
-[![Knotts Berry Farm Ghost Town Alive Hoedown](https://hotmamatravel.com/wp-content/uploads/2017/06/HoeDown.jpg)](/knotts-berry-farm-ghost-town-alive/)
+[![Knotts Berry Farm Ghost Town Alive Hoedown](/images/HoeDown.jpg)](/knotts-berry-farm-ghost-town-alive/)
 
 ## Shows at Knott's Berry Farm
 
@@ -103,4 +103,4 @@ All in all, Knotts Berry Farm Ghost Town Alive is one of my favorite events. The
 
 **Like it? Pin it!**
 
-[![](https://hotmamatravel.com/wp-content/uploads/2017/06/Knotts-Berry-Farm.png)](/knotts-berry-farm-ghost-town-alive/)
+[![](/images/Knotts-Berry-Farm.png)](/knotts-berry-farm-ghost-town-alive/)

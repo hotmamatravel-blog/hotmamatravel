@@ -17,17 +17,17 @@ Although Thanksgiving is nice when celebrated at home, it is also a perfect oppo
 
 Many people I know love to take the RV out to the desert for Thanksgiving and enjoy all the rituals that go along with desert RVing, but that’s not my thing. If I’m going to have sand in my butt, it is going to be from the beach. Haha. Whatever your preference, RVing for Thanksgiving in Big Bear is really fun. In fact, one of our favorite trips is to RV at Big Bear Shores for this turkey lovin’ holiday. Thanksgiving Big Bear style.Gobble. Gobble.
 
-[![Thanksgiving in Big Bear with kids](https://hotmamatravel.com/wp-content/uploads/2014/11/RSCN7240-1024x683.jpg)](/wp-content/uploads/2014/11/RSCN7240.jpg)
-<h1>[![Thanksgiving camping in Big Bear](https://hotmamatravel.com/wp-content/uploads/2014/11/DSCN7307-1024x682.jpg)](/thanksgiving-in-big-bear/)</h1>
+[![Thanksgiving in Big Bear with kids](/images/RSCN7240-1024x683_201411.jpg)](/images/RSCN7240.jpg)
+<h1>[![Thanksgiving camping in Big Bear](/images/DSCN7307-1024x682.jpg)](/thanksgiving-in-big-bear/)</h1>
 
 ## ***Drop Your Bags:***
 
 
 Big Bear Shores RV Resort: Beautifully located on Big Bear Lake, this RV resort is privately owned, which insures impeccably maintain sites. We love the views, we love the luxury lots, the amenities and we love the proximity to the village. Read more on Big Bear Shores RV Resort in my post, **[HERE](/big-bear-shores-rv-resort-with-kids/)**. You can also see my ultimate guide to visiting Big Bear, [**HERE**.](/big-bear-with-kids/)
 
-[![Thanksgiving in Big Bear](https://hotmamatravel.com/wp-content/uploads/2014/07/DSCN6444-1024x768.jpg)](/thanksgiving-in-big-bear/)
+[![Thanksgiving in Big Bear](/images/DSCN6444-1024x768.jpg)](/thanksgiving-in-big-bear/)
 
-[![Thanksgiving in Big Bear](https://hotmamatravel.com/wp-content/uploads/2014/11/DSCN7303-1024x768.jpg)](/thanksgiving-in-big-bear/)
+[![Thanksgiving in Big Bear](/images/DSCN7303-1024x768.jpg)](/thanksgiving-in-big-bear/)
 
 ## ***Get Your Grub On:***
 
@@ -36,13 +36,13 @@ Thanksgiving dinner is a pretty important meal in most Americans households. Any
 
 We pre-prep all that we can at home. Stuffing, green bean casserole, cranberry sauce are all pretty much done before we leave and only require some warming up or simple assembly at the site which frees up the cook tops and small RV oven for things like sweet potato casserole and mashed potatoes.
 
-[![Thanksgiving dinner camping](https://hotmamatravel.com/wp-content/uploads/2014/11/DSCN7349-768x1024.jpg)](/thanksgiving-in-big-bear/)
+[![Thanksgiving dinner camping](/images/DSCN7349-768x1024.jpg)](/thanksgiving-in-big-bear/)
 
 Now the main dish…THE TURKEY! For a group our size, we can’t mess around with a small little bird. We need a big guy and that won’t work in an RV oven, so what do is bring a deep fryer. I was probably the biggest naysayer of deep fried turkey. It’s dangerous. It’s not going to be as good as a baking the turkey. Etc, etc, etc. Blah, blah. Well, Ozzy was in charge of the turkey this year and he was going to give our bird a dip in the Jacuzzi.
 
-[![Thanksgiving in Big Bear](https://hotmamatravel.com/wp-content/uploads/2014/11/DSCN7315-768x1024.jpg)](/thanksgiving-in-big-bear/)
+[![Thanksgiving in Big Bear](/images/DSCN7315-768x1024.jpg)](/thanksgiving-in-big-bear/)
 
-[![Frying turkey in Big Bear](https://hotmamatravel.com/wp-content/uploads/2014/11/DSCN7339-768x1024.jpg)](/thanksgiving-in-big-bear/)
+[![Frying turkey in Big Bear](/images/DSCN7339-768x1024.jpg)](/thanksgiving-in-big-bear/)
 
 I quickly shut my mouth at the first taste. It was probably the best turkey I’ve ever eaten. The skin was crispy; the turkey was moist and sinfully savory. Here’s to deep fried turkey! Just don’t be careful and don’t start a fire!
 
@@ -51,20 +51,20 @@ I quickly shut my mouth at the first taste. It was probably the best turkey I’
 
 Yes, where we go beer, wine and spirits are a present, but when RVing during Fall, there is nothing like hot coco to warm up those freezing cold nights. Big Bear in November is cold, really cold, so get that fire roaring, gather round and drink something hot.
 
-[![Thanksgiving in Big Bear](https://hotmamatravel.com/wp-content/uploads/2014/11/DSCN7357-1024x768.jpg)](/thanksgiving-in-big-bear/)
+[![Thanksgiving in Big Bear](/images/DSCN7357-1024x768.jpg)](/thanksgiving-in-big-bear/)
 
-[![Thanksgiving in Big Bear](https://hotmamatravel.com/wp-content/uploads/2014/11/DSCN7362-1024x768.jpg)](/thanksgiving-in-big-bear/)
+[![Thanksgiving in Big Bear](/images/DSCN7362-1024x768.jpg)](/thanksgiving-in-big-bear/)
 
 ## ***Entertain Me:***
 
 
 It is tradition to play football on Thanksgiving...why not play some with a view like this?
 
-[![Thanksgiving in Big Bear](https://hotmamatravel.com/wp-content/uploads/2014/11/DSCN7371-1024x682.jpg)](/thanksgiving-in-big-bear/)
+[![Thanksgiving in Big Bear](/images/DSCN7371-1024x682_201411.jpg)](/thanksgiving-in-big-bear/)
 
 During the Thanksgiving weekend the village holds their annual tree lighting ceremony. It is quite an event with carolers, live entertainment and of course, SANTA!!
 
-[![Thanksgiving in Big Bear](https://hotmamatravel.com/wp-content/uploads/2014/11/IMG_0537-1024x1024.jpg)](/thanksgiving-in-big-bear/)
+[![Thanksgiving in Big Bear](/images/IMG_0537-1024x1024_201411.jpg)](/thanksgiving-in-big-bear/)
 
 Also during the weekend is the Turkey Trot and the Mountain Christmas Boutique at the Convention Center.
 

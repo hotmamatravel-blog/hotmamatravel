@@ -38,7 +38,7 @@ See this article as a web story, [Las Vegas Day Trips](/web-stories/las-vegas-da
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure id="beautiful-grand-canyon-south-rim-scenic">[![Stunning view from Grand Canyon South Rim](https://hotmamatravel.com/wp-content/uploads/2019/04/beautiful-grand-canyon-south-rim-scenic.jpg)](/wp-content/uploads/2019/04/beautiful-grand-canyon-south-rim-scenic.jpg)</figure>
+<figure id="beautiful-grand-canyon-south-rim-scenic">[![Stunning view from Grand Canyon South Rim](/images/beautiful-grand-canyon-south-rim-scenic.jpg)](/images/beautiful-grand-canyon-south-rim-scenic.jpg)</figure>
 
 ### [King of Canyons Tour](/go/vegas-tour-king-of-canyons/)
 
@@ -66,7 +66,7 @@ The pilots are also extremely nice and talkative and will discuss all the points
 
 [**Check for Deals on Vegas.com with their Best Price Guarantee**](/go/vegas-tour-king-of-canyons/)
 
-<figure id="valley-of-fire-lost-city-day-trips-las-vegas">[![Valley of Fire and Lost City Museum Tour kid-friendly day trips from Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/05/valley-of-fire-lost-city-day-trips-las-vegas.jpg)](/wp-content/uploads/2023/05/valley-of-fire-lost-city-day-trips-las-vegas.jpg)</figure>
+<figure id="valley-of-fire-lost-city-day-trips-las-vegas">[![Valley of Fire and Lost City Museum Tour kid-friendly day trips from Las Vegas](/images/valley-of-fire-lost-city-day-trips-las-vegas.jpg)](/images/valley-of-fire-lost-city-day-trips-las-vegas.jpg)</figure>
 
 ### [Valley of Fire and Lost City Museum Tour](/go/valley-of-fire-lost-city-las-vegas-day-trip/)
 
@@ -94,7 +94,7 @@ On top of all that, the tour guides are super friendly and enthusiastic, and the
 
 **[Check for Deals on Vegas.com with their Best Price Guarantee](/go/valley-of-fire-lost-city-las-vegas-day-trip/)**
 
-<figure id="Grand-Canyon-day-trip">[![Grand Canyon Beautiful landscape](https://hotmamatravel.com/wp-content/uploads/2018/08/Grand-Canyon-day-trip.jpg)](/wp-content/uploads/2018/08/Grand-Canyon-day-trip.jpg)</figure>
+<figure id="Grand-Canyon-day-trip">[![Grand Canyon Beautiful landscape](/images/Grand-Canyon-day-trip.jpg)](/images/Grand-Canyon-day-trip.jpg)</figure>
 
 ### [Grand Canyon West Rim and Hoover Dam Bus Photo Stop Tour](/kid-friendly-day-trips-las-vegas/)
 
@@ -122,7 +122,7 @@ At Guano Point, kids will love seeing the abandoned mine and exploring the diffe
 
 **[Check for Deals on Vegas.com with their Best Price Guarantee](/kid-friendly-day-trips-las-vegas/)**
 
-<figure id="hoover-dam-raft-post-card-tour-day-trips-las-vegas">[![Hoover Dam Rafting and Post Card Tour day trip from Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/05/hoover-dam-raft-post-card-tour-day-trips-las-vegas.jpg)](/wp-content/uploads/2023/05/hoover-dam-raft-post-card-tour-day-trips-las-vegas.jpg)</figure>
+<figure id="hoover-dam-raft-post-card-tour-day-trips-las-vegas">[![Hoover Dam Rafting and Post Card Tour day trip from Las Vegas](/images/hoover-dam-raft-post-card-tour-day-trips-las-vegas.jpg)](/images/hoover-dam-raft-post-card-tour-day-trips-las-vegas.jpg)</figure>
 
 ### [Hoover Dam Rafting and Post Card Tour](/go/hoover-dam-rafting-post-card-tour/)
 
@@ -152,7 +152,7 @@ Kids will love the Hoover Dam Rafting and Postcard Tour because it offers a uniq
 
 **[Check for Deals on Vegas.com with their Best Price Guarantee](/go/hoover-dam-rafting-post-card-tour/)**
 
-<figure id="Hoover-dam-day-trip-from-Vegas">[![Hoover Dam and Lake Mead trip](https://hotmamatravel.com/wp-content/uploads/2018/08/Hoover-dam-day-trip-from-Vegas.jpg)](/wp-content/uploads/2018/08/Hoover-dam-day-trip-from-Vegas.jpg)</figure>
+<figure id="Hoover-dam-day-trip-from-Vegas">[![Hoover Dam and Lake Mead trip](/images/Hoover-dam-day-trip-from-Vegas.jpg)](/images/Hoover-dam-day-trip-from-Vegas.jpg)</figure>
 
 ### [Hoover Dam Express Bus Tour](/go/hoover-dam-express-bus-tour/)
 
@@ -178,7 +178,7 @@ When you arrive at the Hoover Dam, you'll get to explore the dam, check out the 
 
 **[Check for Deals on Vegas.com with their Best Price Guarantee](/go/hoover-dam-express-bus-tour/)**
 
-<figure id="Red-Rock-Canyon-Las-Vegas-day-trip">[![Red Rock Canyon Tour ](https://hotmamatravel.com/wp-content/uploads/2018/08/Red-Rock-Canyon-Las-Vegas-day-trip.jpg)](/wp-content/uploads/2018/08/Red-Rock-Canyon-Las-Vegas-day-trip.jpg)</figure>
+<figure id="Red-Rock-Canyon-Las-Vegas-day-trip">[![Red Rock Canyon Tour ](/images/Red-Rock-Canyon-Las-Vegas-day-trip.jpg)](/images/Red-Rock-Canyon-Las-Vegas-day-trip.jpg)</figure>
 
 ### [Red Rock Canyon Tour](/go/red-rock-canyon-vegas-day-trip/)
 
@@ -204,7 +204,7 @@ Your kids have probably never seen a place quite like Red Rock Canyon. The pictu
 
 **[Check for Deals on Vegas.com with their Best Price Guarantee](/go/red-rock-canyon-vegas-day-trip/)**
 
-<figure id="death-valley-tour-day-trips-las-vegas">[![Death Valley Tour from Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/05/death-valley-tour-day-trips-las-vegas.jpg)](/wp-content/uploads/2023/05/death-valley-tour-day-trips-las-vegas.jpg)</figure>
+<figure id="death-valley-tour-day-trips-las-vegas">[![Death Valley Tour from Las Vegas](/images/death-valley-tour-day-trips-las-vegas.jpg)](/images/death-valley-tour-day-trips-las-vegas.jpg)</figure>
 
 ### [Death Valley Tour](/go/death-valley-las-vegas-day-trip/)
 
@@ -230,7 +230,7 @@ Kids are going to love exploring the [Area 51 Alien Center](https://area51alienc
 
 **[Check for Deals on Vegas.com with their Best Price Guarantee](/go/death-valley-las-vegas-day-trip/)**
 
-<figure id="wild-west-horseback-adventure-day-trips-las-vegas">[![Wild West Horseback Adventure from Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/05/wild-west-horseback-adventure-day-trips-las-vegas.jpg)](/wp-content/uploads/2023/05/wild-west-horseback-adventure-day-trips-las-vegas.jpg)</figure>
+<figure id="wild-west-horseback-adventure-day-trips-las-vegas">[![Wild West Horseback Adventure from Las Vegas](/images/wild-west-horseback-adventure-day-trips-las-vegas.jpg)](/images/wild-west-horseback-adventure-day-trips-las-vegas.jpg)</figure>
 
 ### [Wild West Horseback Adventure](/go/wild-west-horseback-adventure/)
 
@@ -272,7 +272,7 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 **Like it? Pin it!**
 
-<figure id="8-Amazing-kid-friendly-day-trips-from-Las-Vegas">[![8 kid-friendly day trips from Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/05/family-day-trips-las-vegas-200x300.jpg)](/images/family-day-trips-las-vegas.jpg)</figure>
+<figure id="8-Amazing-kid-friendly-day-trips-from-Las-Vegas">[![8 kid-friendly day trips from Las Vegas](/images/family-day-trips-las-vegas-200x300.jpg)](/images/family-day-trips-las-vegas.jpg)</figure>
 </div></section>
 
 -

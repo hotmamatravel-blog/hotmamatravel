@@ -23,7 +23,7 @@ This year to celebrate my beautiful baby boy’s birthday and the luck of the Ir
 
 Let’s be honest for a moment, birthday parties are expensive and a lot of work. Although I enjoy sprinkling in parties every now and then, I prefer to take trips and I think the kids do as well. Instead of spending a ton of money one day, for the same cost we get a whole weekend of fun. What a better gift than the gift of memories and adventure?
 
-<figure>[![St. Patrick](https://hotmamatravel.com/wp-content/uploads/2014/03/IMG_2189-1024x1024.jpg)](/original-st-patrick-dunes-post/)</figure>
+<figure>[![St. Patrick](/images/IMG_2189-1024x1024_201403.jpg)](/original-st-patrick-dunes-post/)</figure>
 
 ## ***Drop your Bags***
 
@@ -35,51 +35,51 @@ This year we splurged a bit on the camp spot, opting for the expensive Newport D
 
 We prepare the menu before the trip. Sis, Grams and this HotMama usually discuss the menu and delegate responsibilities over chilled tequila. This trip, we kept it simple. Friday night was set up night and no one wanted to cook so we ordered pizza! Easy, cheap and tasty; everyone is happy. Saturday was our big campsite meals day. In the morning HotDaddy and The Boss made breakfast burritos, which cost practically nothing to feed a group our size. In fact, they looked so yummy that other kids from other campsites were coming over trying to score one.
 
-<figure>[![St. Patrick](https://hotmamatravel.com/wp-content/uploads/2014/03/DSCN5121-1024x768.jpg)](/original-st-patrick-dunes-post/)</figure>
+<figure>[![St. Patrick](/images/DSCN5121-1024x768.jpg)](/original-st-patrick-dunes-post/)</figure>
 
-<figure>[![St. Patrick](https://hotmamatravel.com/wp-content/uploads/2014/03/DSCN5126-679x1024.jpg)](/original-st-patrick-dunes-post/)</figure>
+<figure>[![St. Patrick](/images/DSCN5126-679x1024.jpg)](/original-st-patrick-dunes-post/)</figure>
 
 For lunch Grams made her famous pasta salad and tuna sandwiches. Sis put out a veggie platter, summer sausage and cheese to nibble on while we busied ourselves with beach activities. Recycling ingredients from breakfast, for we made hot links and wrapped them up in the tortillas.
 
 Sunday was Cuddle Bear's birthday and we had plans to hit the OC Marketplace, so we had easy breakfast of bagels and fruit. The marketplace provided two meals for us that day, deliciously juicy carnitas tacos, tender tri-tip to grill for dinner and a plethora of spreads for Greek Mama to enjoy with pita bread as an appetizer before the BBQ. Needless to say, we ate very well and spent less to feed our group than going to restaurants.
 
-<figure>[![St. Patrick](https://hotmamatravel.com/wp-content/uploads/2014/03/DSCN5194-1024x768.jpg)](/original-st-patrick-dunes-post/)</figure>
+<figure>[![St. Patrick](/images/DSCN5194-1024x768.jpg)](/original-st-patrick-dunes-post/)</figure>
 
-<figure>[![St. Patrick](https://hotmamatravel.com/wp-content/uploads/2014/03/DSCN5257-1024x768.jpg)](/original-st-patrick-dunes-post/)</figure>
+<figure>[![St. Patrick](/images/DSCN5257-1024x768.jpg)](/original-st-patrick-dunes-post/)</figure>
 
 ## ***Chug-a-lug***
 
 We’re camping! So drinking is cheap and necessary. Lots of Irish beer, filler beer, champagne, wine, rum and whiskey were stocked and ready for drinking. We take our libations pretty seriously in this family so from sunrise to sundown we have a cocktail in hand. In addition to copious amounts of coffee, to get our morning started right we also consume refreshing Mimosas and Bloody Marys’. Good morning Newport! The rest of our days we spend drinking beer and other spirits; whatever you need we got it.
 
-<figure>[![St. Patrick](https://hotmamatravel.com/wp-content/uploads/2014/03/DSCN0359-1024x682.jpg)](/original-st-patrick-dunes-post/)</figure>
+<figure>[![St. Patrick](/images/DSCN0359-1024x682.jpg)](/original-st-patrick-dunes-post/)</figure>
 
-<figure>[![St. Patrick](https://hotmamatravel.com/wp-content/uploads/2014/03/DSCN0356-1024x683.jpg)](/original-st-patrick-dunes-post/)</figure>
+<figure>[![St. Patrick](/images/DSCN0356-1024x683.jpg)](/original-st-patrick-dunes-post/)</figure>
 
-<figure>[![St. Patrick](https://hotmamatravel.com/wp-content/uploads/2014/03/DSCN0343-768x1024.jpg)](/original-st-patrick-dunes-post/)</figure>
+<figure>[![St. Patrick](/images/DSCN0343-768x1024.jpg)](/original-st-patrick-dunes-post/)</figure>
 
 At the marketplace we were celebrating Irish Fest, so of course we had to have our green beers to represent our Irish pride!
 
-<figure>[![St. Patrick](https://hotmamatravel.com/wp-content/uploads/2014/03/DSCN5185-680x1024.jpg)](/original-st-patrick-dunes-post/)</figure>
+<figure>[![St. Patrick](/images/DSCN5185-680x1024.jpg)](/original-st-patrick-dunes-post/)</figure>
 
-<figure>[![St. Patrick](https://hotmamatravel.com/wp-content/uploads/2014/03/DSCN5188-1024x685.jpg)](/original-st-patrick-dunes-post/)</figure>
+<figure>[![St. Patrick](/images/DSCN5188-1024x685.jpg)](/original-st-patrick-dunes-post/)</figure>
 
 ## ***Entertain Me!***
 
 When camping at the Newport Dunes there are tons of beach activities to keep everyone busy and happy. For the kids there is the playground on the sand with the famous blue whale to climb on. Kids can enjoy the beautiful sunset while swinging pleasantly on the shore. You can rent various water sports and yard games.
 
-<figure>[![St. Patrick](https://hotmamatravel.com/wp-content/uploads/2014/03/DSCN4992-1024x682.jpg)](/original-st-patrick-dunes-post/)</figure>
+<figure>[![St. Patrick](/images/DSCN4992-1024x682.jpg)](/original-st-patrick-dunes-post/)</figure>
 
-<figure>[![St. Patrick](https://hotmamatravel.com/wp-content/uploads/2014/03/IMG_2164-1024x1024.jpg)](/original-st-patrick-dunes-post/)</figure>
+<figure>[![St. Patrick](/images/IMG_2164-1024x1024.jpg)](/original-st-patrick-dunes-post/)</figure>
 
-<figure>![St. Patrick](https://hotmamatravel.com/wp-content/uploads/2014/03/DSCN4990-1024x684.jpg)</figure>
+<figure>![St. Patrick](/images/DSCN4990-1024x684.jpg)</figure>
 
-<figure>[![St. Patrick](https://hotmamatravel.com/wp-content/uploads/2014/03/DSCN5069-1024x681.jpg)](/original-st-patrick-dunes-post/)</figure>
+<figure>[![St. Patrick](/images/DSCN5069-1024x681.jpg)](/original-st-patrick-dunes-post/)</figure>
 
 This HotMama my HotDaddy like to paddle board. It is just a really relaxing way to enjoy and afternoon on the water, plus it is a great core workout. We even take the kids sometimes, because it’s really calming and a great way to enjoy quality time together.
 
-<figure>[![St. Patrick](https://hotmamatravel.com/wp-content/uploads/2014/03/DSCN0419-1024x684.jpg)](/original-st-patrick-dunes-post/)</figure>
+<figure>[![St. Patrick](/images/DSCN0419-1024x684.jpg)](/original-st-patrick-dunes-post/)</figure>
 
-<figure>[![St. Patrick](https://hotmamatravel.com/wp-content/uploads/2014/03/DSCN0416-1024x768.jpg)](/original-st-patrick-dunes-post/)</figure>
+<figure>[![St. Patrick](/images/DSCN0416-1024x768_201403.jpg)](/original-st-patrick-dunes-post/)</figure>
 
 Since we were camping during St. Patrick’s weekend there were many Irish related activities as well as Irish Fest at the OC Marketplace. Irish dancers, Irish music, green beer and fun food trucks added a little extra excitement to our day.
 
@@ -93,4 +93,4 @@ For information on RVing at Newport Dunes, see my post, **[HERE](/newport-dunes-
 
 **Like it? Pin it!**
 
-<figure>[![St. Patrick](https://hotmamatravel.com/wp-content/uploads/2014/03/Hotmamatravel.com_-683x1024.jpg)](/original-st-patrick-dunes-post/)</figure>
+<figure>[![St. Patrick](/images/Hotmamatravel.com_-683x1024_201403.jpg)](/original-st-patrick-dunes-post/)</figure>

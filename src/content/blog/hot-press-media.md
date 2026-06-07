@@ -39,49 +39,49 @@ Listen to the full interview here: **[True or False: Las Vegas is Suitable for a
 
 ## Publications &amp; Guest Posts
 
-[![Press &amp; Media](https://hotmamatravel.com/wp-content/uploads/2016/11/10612559_826331157398907_8983998816816530687_n-150x150.png)](/hot-press-media/)
+[![Press &amp; Media](/images/10612559_826331157398907_8983998816816530687_n-150x150.png)](/hot-press-media/)
 
 ### [Dining in Glasgow: Fun for the Whole Family](http://welltraveledkids.com/2015/09/dining-in-glasgow-fun-for-the-whole-family/)
 
 Going to a restaurant with kids can send a chill up some parents’ back. The stress of kids getting bored and antsy, while you spend money on a meal that is hard to enjoy will make some parents opt for dinner at home. But when you are traveling, the experience of new restaurants is at least half the fun...
 
-[![Press &amp; Media](https://hotmamatravel.com/wp-content/uploads/2016/11/10612559_826331157398907_8983998816816530687_n-150x150.png)](/hot-press-media/)
+[![Press &amp; Media](/images/10612559_826331157398907_8983998816816530687_n-150x150.png)](/hot-press-media/)
 
 ### [Top 5 Laguna Beach Spots for Dining with an Ocean View](http://welltraveledkids.com/2016/02/top-5-laguna-beach-spots-for-dining-with-an-ocean-view/)
 
 Along California’s coast are oodles of awesome beach towns, but Laguna Beach is a special little piece of paradise. Some think that it is an isolated bubble of rich people and artists, but there is nothing snobby about Laguna Beach, which is great news for those of us traveling with kids.
 
-![Press &amp; Media](https://hotmamatravel.com/wp-content/uploads/2016/11/13092105_1707542709513094_8057860165631330637_n-150x150.png)
+![Press &amp; Media](/images/13092105_1707542709513094_8057860165631330637_n-150x150.png)
 
 ### [How Summer Travel Helps Promote Outdoor Play](http://www.parent.co/how-summer-travel-helps-promote-outdoor-play/)
 
 As I watch iridescent orbs float through the sunset sky I think, “Wow.” In the age of iPads, iPhones, and numerous other electronic devices, something as simple as blowing bubbles can still stir up so much excitement. Although we live in a world of over-stimulation, kids really do love the simple things in life, and I think deep down, so do adults.
 
-[![Press &amp; Media](https://hotmamatravel.com/wp-content/uploads/2016/11/jet-lag-150x150.jpg)](/hot-press-media/)
+[![Press &amp; Media](/images/jet-lag-150x150.jpg)](/hot-press-media/)
 
 ### [Ultimate Guide to RVing](http://jetlagandjuiceboxes.com/the-ultimate-guide-to-rving/)
 
 For many families RVing is an affordable and convenient way to travel, but how do you know if it is right for *your* family? If you had asked me three years ago, I would have been doubtful. I was raised as a resort girl. My parents were not into RVing, camping or any style of travel that appeared to be more work than pleasure. Although the thought of hitting the open road in an RV did intrigue me, it was just outside my family’s travel comfort zone of no stress, no mess holidays...
 
-[![Press &amp; Media](https://hotmamatravel.com/wp-content/uploads/2016/11/girls-vs-globe-launch-small-947x631-150x150.jpg)](/hot-press-media/)
+[![Press &amp; Media](/images/girls-vs-globe-launch-small-947x631-150x150.jpg)](/hot-press-media/)
 
 ### [10 Mocktail Recipes from Around the World](http://www.girlsvsglobe.com/10-mocktail-recipes-from-around-the-world/)
 
 After many years behind bars, I’ve learned a thing or two. Relax; I’m talking about doing time as a bartender. In addition to making drinks, I also write about them. I’ve combined my passion for spirits and travel as a regular contributor to Cigar &amp; Spirits Magazine and of course, my blog. I’ve found that drinks are a great way to learn about history and culture. They not only enhance your travel experience, but can help you create a travel experience at home...
 
-[![Press &amp; Media](https://hotmamatravel.com/wp-content/uploads/2016/11/girls-vs-globe-launch-small-947x631-150x150.jpg)](/hot-press-media/)
+[![Press &amp; Media](/images/girls-vs-globe-launch-small-947x631-150x150.jpg)](/hot-press-media/)
 
 ### [Wild Women of the West](http://www.girlsvsglobe.com/wild-women-west/)
 
 Swinging saloon doors, gunfights, law dogs, outlaws, miners, and cowboys – these are iconic images of the Wild West, popularized by decades of media and culture. The stories we tell about the rough-and-tumble American frontier are chock-full of masculine imagery and male characters. No doubt that the new frontier was rough, but what about the women that lived, loved, and worked there?...
 
-[![Press &amp; Media](https://hotmamatravel.com/wp-content/uploads/2016/11/14095799_598058500376097_6238804627321691780_n-150x150.jpg)](/hot-press-media/)
+[![Press &amp; Media](/images/14095799_598058500376097_6238804627321691780_n-150x150.jpg)](/hot-press-media/)
 
 ### [Arts and Food in Idyllwild, California](http://www.culturewithtravel.com/2016/03/15/arts-and-food-in-idyllwild-california/)
 
 A quick Google search will yield little results, and chances are you haven’t heard of this little town despite it being the setting of the movie Galahad, starring Elvis Presley. Where am I talking about you ask? I’m talking about Idyllwild, of course! For those unfamiliar, the San Jacinto Mountains are located in Riverside County about 90 minutes east of Orange County. Unlike other Southern California mountain towns such as Big Bear that are geared towards the sporty types, Idyllwild indulges the art lovers and foodies...
 
-[![](https://hotmamatravel.com/wp-content/uploads/2016/12/52-Perfect-Days-150x150.jpg)](/about/)
+[![](/images/52-Perfect-Days-150x150.jpg)](/about/)
 
 ##
 
@@ -91,7 +91,7 @@ Glasgow is not only the largest city in Scotland, it also one of the friendliest
 
 ##
 
-[![](https://hotmamatravel.com/wp-content/uploads/2016/12/13662311_1241300992547351_3052403099188197067_o-150x150.jpg)](/about/)
+[![](/images/13662311_1241300992547351_3052403099188197067_o-150x150.jpg)](/about/)
 
 ### [10 Ways Family Travel Differs from Couple Travel](https://twodrifters.us/blog/family-travel-tips.html)
 
@@ -99,7 +99,7 @@ There is nothing like seeing the world with the one you love. Jet setting around
 
 ##
 
-[![](https://hotmamatravel.com/wp-content/uploads/2016/12/16996407_1229775410447870_4291374979182046259_n-150x150.png)](/about/)
+[![](/images/16996407_1229775410447870_4291374979182046259_n-150x150.png)](/about/)
 
 ##
 
@@ -109,7 +109,7 @@ With it being the setting for shows like Real Housewives, Laguna Beach, Arrested
 
 ##
 
-[![](https://hotmamatravel.com/wp-content/uploads/2016/12/FlipFlopGlobetrotters.com-favorite-kids-museums-worldwide-main-586x400-150x150.jpg)](/about/)
+[![](/images/FlipFlopGlobetrotters.com-favorite-kids-museums-worldwide-main-586x400-150x150.jpg)](/about/)
 
 ##
 
@@ -119,20 +119,20 @@ I first heard of Pretend City Children’s Museum during my daughter’s field t
 
 ## Features &amp; Interviews
 
-[![Hot Press &amp; Media](https://hotmamatravel.com/wp-content/uploads/2016/11/579547_553990491329889_1486925222_n-150x150.jpg)](/hot-press-media/)
+[![Hot Press &amp; Media](/images/579547_553990491329889_1486925222_n-150x150.jpg)](/hot-press-media/)
 
 ### [Jetsetters: @Hotmamatravel](http://thelazytravelers.com/jetsetters-hotmamatravel/)
 
 Meet our girl Amanda. She’s a lot like us: she travels as much as she can, whether it’s a long weekend or a simple day trip, and her favorite way to explore is by eating and drinking her way around. What makes her infinitely more impressive than us, however, is that she does it **with two kids...
 **
 
-[![Press &amp; Media](https://hotmamatravel.com/wp-content/uploads/2016/11/10612559_826331157398907_8983998816816530687_n-150x150.png)](/hot-press-media/)
+[![Press &amp; Media](/images/10612559_826331157398907_8983998816816530687_n-150x150.png)](/hot-press-media/)
 
 ### 30 Days of Grateful Travel
 
 In honor Thanksgiving, Amanda from HotMamatravel.com shared a travel experience that she thankful for this year. This photo was taken at the Rest &amp; Be Thankful in the Scottish Highlands this past June. This trip was special, because it was filled with a bunch of firsts for her and her family...
 
-[![Hot Press &amp; Media](https://hotmamatravel.com/wp-content/uploads/2016/11/564339_282129351901691_1044856479_n-150x150.jpg)](/hot-press-media/)
+[![Hot Press &amp; Media](/images/564339_282129351901691_1044856479_n-150x150.jpg)](/hot-press-media/)
 
 ### **Family Travel Blogger- HotMamaTravel**
 

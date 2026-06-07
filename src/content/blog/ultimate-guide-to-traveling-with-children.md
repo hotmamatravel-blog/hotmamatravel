@@ -110,5 +110,5 @@ With this advice, you’re sure to enjoy your travels as a new parent. Don’t f
 
 **Like it? Pin it!**
 
-<figure id="tips-traveling-with-children-">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/tips-traveling-with-children--200x300.jpg)](/images/tips-traveling-with-children-.jpg)</figure>
+<figure id="tips-traveling-with-children-">[![](/images/tips-traveling-with-children--200x300.jpg)](/images/tips-traveling-with-children-.jpg)</figure>
 </div></section>

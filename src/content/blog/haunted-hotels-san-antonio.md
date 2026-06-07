@@ -15,7 +15,7 @@ author: "Amanda Keeley-Thurman"
 
 San Antonio, Texas, is a city rich in history, culture, and a touch of the supernatural. There is so much [**to do in San Antonio**](/things-san-antonio-kids/), but if you're an adventurous traveler with a penchant for the paranormal, you're in for a spine-tingling treat. Prepare to delve into the eerie world of the most haunted hotels in San Antonio, where history and mystery collide.
 
-<figure id="menger-hotel-haunted-hotels-san-antonio">[![Haunted Menger Hotel San Antonio](https://hotmamatravel.com/wp-content/uploads/2023/08/menger-hotel-haunted-hotels-san-antonio.jpg)](/wp-content/uploads/2023/08/menger-hotel-haunted-hotels-san-antonio.jpg)</figure>
+<figure id="menger-hotel-haunted-hotels-san-antonio">[![Haunted Menger Hotel San Antonio](/images/menger-hotel-haunted-hotels-san-antonio.jpg)](/images/menger-hotel-haunted-hotels-san-antonio.jpg)</figure>
 
 ## [Menger Hotel](/go/menger-hotel-san-antonio-tx/)
 
@@ -49,7 +49,7 @@ Perhaps one of the most captivating tales associated with the Menger Hotel invol
 
 [**See photos, reviews &amp; more**](/go/menger-hotel-san-antonio-tx/)
 
-<figure id="the-emily-morgan-hotel-haunted-hotels-san-antonio">[![Emily Morgan Hotel San Antonio](https://hotmamatravel.com/wp-content/uploads/2023/08/the-emily-morgan-hotel-haunted-hotels-san-antonio.jpg)](/wp-content/uploads/2023/08/the-emily-morgan-hotel-haunted-hotels-san-antonio.jpg)</figure>
+<figure id="the-emily-morgan-hotel-haunted-hotels-san-antonio">[![Emily Morgan Hotel San Antonio](/images/the-emily-morgan-hotel-haunted-hotels-san-antonio.jpg)](/images/the-emily-morgan-hotel-haunted-hotels-san-antonio.jpg)</figure>
 
 ## [The Emily Morgan Hotel](/go/the-emily-morgan-hotel-san-antonio-tx/)
 
@@ -75,7 +75,7 @@ The Emily Morgan Hotel's connection to its history is not limited to its physica
 
 [**See photos, reviews &amp; more**](/go/the-emily-morgan-hotel-san-antonio-tx/)
 
-<figure id="The-crockett-hotel-haunted-hotels-san-antonio">[![The Crockett Hotel San Antonio](https://hotmamatravel.com/wp-content/uploads/2023/08/The-crockett-hotel-haunted-hotels-san-antonio.jpg)](/wp-content/uploads/2023/08/The-crockett-hotel-haunted-hotels-san-antonio.jpg)</figure>
+<figure id="The-crockett-hotel-haunted-hotels-san-antonio">[![The Crockett Hotel San Antonio](/images/The-crockett-hotel-haunted-hotels-san-antonio.jpg)](/images/The-crockett-hotel-haunted-hotels-san-antonio.jpg)</figure>
 
 ## [The Crockett Hotel](/go/the-crockett-hotel-san-antonio-tx/)
 
@@ -105,7 +105,7 @@ The Crockett Hotel's allure goes beyond its historical façade – it's a place 
 
 [**See photos, reviews &amp; more**](/go/the-crockett-hotel-san-antonio-tx/)
 
-<figure>[![The St. Anthony Hotel San Antonio](https://hotmamatravel.com/wp-content/uploads/2023/08/st-anthony-hotel-haunted-hotels-san-antonio.jpg)](/wp-content/uploads/2023/08/st-anthony-hotel-haunted-hotels-san-antonio.jpg)</figure>
+<figure>[![The St. Anthony Hotel San Antonio](/images/st-anthony-hotel-haunted-hotels-san-antonio.jpg)](/images/st-anthony-hotel-haunted-hotels-san-antonio.jpg)</figure>
 
 ## [The St. Anthony Hotel](/go/st-anthony-hotel-san-antonio-tx/)
 
@@ -131,7 +131,7 @@ Those who've crossed paths with the lady in blue often speak of the peculiar sen
 
 [**See photos, reviews &amp; more**](/go/st-anthony-hotel-san-antonio-tx/)
 
-<figure id="the-gunter-hotel-haunted-hotels-san-antonio">[![The Gunter Hotel San Antonio](https://hotmamatravel.com/wp-content/uploads/2023/08/the-gunter-hotel-haunted-hotels-san-antonio.jpg)](/wp-content/uploads/2023/08/the-gunter-hotel-haunted-hotels-san-antonio.jpg)</figure>
+<figure id="the-gunter-hotel-haunted-hotels-san-antonio">[![The Gunter Hotel San Antonio](/images/the-gunter-hotel-haunted-hotels-san-antonio.jpg)](/images/the-gunter-hotel-haunted-hotels-san-antonio.jpg)</figure>
 
 ## [The Gunter Hotel](/go/the-gunter-hotel-san-antonio-tx/)
 
@@ -165,5 +165,5 @@ Explore more [**haunted hotels in Texas**](/haunted-hotels-texas/) as well as ac
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Stay in one of these family-friendly haunted hotels in San Antonio">[![Family-Friendly Haunted Hotels in San Antonio](https://hotmamatravel.com/wp-content/uploads/2023/08/Haunted-Hotels-San-Antonio-200x300.jpg)](/images/Haunted-Hotels-San-Antonio.jpg)</figure>
+<figure data-essb-pin-description="Stay in one of these family-friendly haunted hotels in San Antonio">[![Family-Friendly Haunted Hotels in San Antonio](/images/Haunted-Hotels-San-Antonio-200x300.jpg)](/images/Haunted-Hotels-San-Antonio.jpg)</figure>
 </div></div>

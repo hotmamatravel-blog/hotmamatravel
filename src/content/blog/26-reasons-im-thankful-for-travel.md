@@ -23,7 +23,7 @@ It is approaching Turkey Day here in the U.S. and families are busy preparing bi
 
  First thing I am thankful for is my lovely, exciting and crazy family. Without them my travels and life would not be nearly as exciting. Even when we aren’t on the road, everyday feels like a vacation with this wild bunch. I love our teamwork and support system. We work together like a machine to make our group goals a reality. I love them more than words will ever be able to express.
 
-[![Thankful for Travel](https://hotmamatravel.com/wp-content/uploads/2015/06/DSCN9302-1024x684.jpg)](/26-reasons-im-thankful-for-travel/)
+[![Thankful for Travel](/images/DSCN9302-1024x684.jpg)](/26-reasons-im-thankful-for-travel/)
 
 ## **2. Self-Motivation
 **
@@ -38,7 +38,7 @@ I am thankful my drive. It sounds silly, but multiple multi-generational trips a
 I’m thankful for the travels experiences I have given my kids. I hear them talk about the world and my heart flutters. They already know so much about different cultures, food and geography. They are curious, courageous and compassionate.
 
 
-[![Thankful for Travel](https://hotmamatravel.com/wp-content/uploads/2015/11/DSC06370-1024x683.jpg)](/26-reasons-im-thankful-for-travel/)
+[![Thankful for Travel](/images/DSC06370-1024x683.jpg)](/26-reasons-im-thankful-for-travel/)
 
 ## **4. Earning Rewards**
 
@@ -55,7 +55,7 @@ I’m thankful for flight trackers like Google Flights, Yapta and SkyScanner for
 
 I’m thankful for my bartending job, because not only has provided me enough money to fund our travels, it also has an amazingly flexible schedule that allows me freedom to spend time with my kids and take time to actually travel. Plus, it is a really fun work environment, a social outlet and gives the gift of cocktails!
 
-[![Thankful for Travel](https://hotmamatravel.com/wp-content/uploads/2015/11/Craft-Cocktails-8-1024x856.jpg)](/26-reasons-im-thankful-for-travel/)
+[![Thankful for Travel](/images/Craft-Cocktails-8-1024x856.jpg)](/26-reasons-im-thankful-for-travel/)
 
 ## **7. Serendipity **
 
@@ -69,7 +69,7 @@ This brings me to my next travel thanks. If I didn’t work at the bar, I would 
 
  I’m thankful for our two week trip to Scotland for many reasons. HotDaddy and I were able to take my parents and our kids our this grand adventure. There were lots firsts for our group such as, Papa’s first passport, our first trip together to Europe, and our first time to Scotland.
 
-[![Thankful for Travel](https://hotmamatravel.com/wp-content/uploads/2015/07/DSCN9640-1024x748.jpg)](/26-reasons-im-thankful-for-travel/)
+[![Thankful for Travel](/images/DSCN9640-1024x748.jpg)](/26-reasons-im-thankful-for-travel/)
 
 ## 9. Scotch
 
@@ -82,7 +82,7 @@ Scotch. Yes. Scotch. Thank you Scotland for turning me into a Scotch lover. Alth
 I’m thankful for our last trip to St. Pete Beach. We love visiting every year, but with our Scotland trip planned a week later, we almost gave it up! I am so grateful I we didn't, because with  HotDaddy starting a new job and we couldn't visit in 2016. Thankfully, we are must likely going to be back in 2017 and I am hopeful for that possibility. For more on St. Pete, see **[HERE](/st-pete-beach-with-kids/)** or where to stay, see **[HERE](/tradewinds-island-grand/)**.
 
 
-[![Thankful for Travel](https://hotmamatravel.com/wp-content/uploads/2015/11/DSCN92981-1024x683.jpg)](/26-reasons-im-thankful-for-travel/)
+[![Thankful for Travel](/images/DSCN92981-1024x683.jpg)](/26-reasons-im-thankful-for-travel/)
 
 ## **11. Financial Freedom**
 
@@ -101,14 +101,14 @@ I’m thankful FireCracker started kindergarten. It has given her an outlet to s
 
  I am thankful for living in Southern California, because there is so much to do. So, even though we have been restricted to weekend getaways, due to work and school schedules, we are having a blast! We have enjoyed everything from our beaches to our mountains, our amusement parks to our big cities. What an exciting state to live and visit!
 
-[![Thankful for Travel](https://hotmamatravel.com/wp-content/uploads/2015/10/LB-113-1024x684.jpg)](/wp-content/uploads/2015/10/LB-113.jpg)
+[![Thankful for Travel](/images/LB-113-1024x684.jpg)](/images/LB-113.jpg)
 
 ## **14. Access to Disney**
 
 
 Disneyland is a big deal to many families and I am so grateful to have Disney Passports, allowing our family to practically live at Disney parks. We don’t need all day marathons that leave us feeling exhausted and grumpy. We have the freedom to pop over for a couple hours during the evening to squeeze in a few rides and a beer. What more do you need?
 
-[![Thankful for Travel](https://hotmamatravel.com/wp-content/uploads/2015/11/IMG_4750-1024x1024.jpg)](/26-reasons-im-thankful-for-travel/)
+[![Thankful for Travel](/images/IMG_4750-1024x1024.jpg)](/26-reasons-im-thankful-for-travel/)
 
 ## 15. Upgrades
 
@@ -116,14 +116,14 @@ Disneyland is a big deal to many families and I am so grateful to have Disney Pa
  Although I really like our first RV, I’m thankful for Sis’s new RV, The Voltage! Now we have even more room for our big family RV trips! It seems like every year our trips get bigger as the family grows, so an upgrade was needed.
 
 
-[![Thankful for Travel](https://hotmamatravel.com/wp-content/uploads/2015/06/IMG_5908-1024x768.jpg)](/26-reasons-im-thankful-for-travel/)
+[![Thankful for Travel](/images/IMG_5908-1024x768.jpg)](/26-reasons-im-thankful-for-travel/)
 
 ## 16. Firsts
 
 
 I am thankful that we finally took our first Disney Cruise. Not only was it amazing experience, but we are now official Castaway Club members. This means there are many more Disney cruising in our future and I am very thankful for that!
 
-[![Thankful for Travel](https://hotmamatravel.com/wp-content/uploads/2015/11/237-24207386-Embrk-Terminal-21509_GPR-1024x819.jpg)](/26-reasons-im-thankful-for-travel/)
+[![Thankful for Travel](/images/237-24207386-Embrk-Terminal-21509_GPR-1024x819_201511.jpg)](/26-reasons-im-thankful-for-travel/)
 
 ## 17. RV Trips
 
@@ -136,7 +136,7 @@ I’m thankful for all our RV trips this year! We were really busy with other tr
  I’m thankful for our annual weekend getaways in Idyllwild. Fireside Inn is our favorite place to stay, giving my kids an awesome experience every time. CuddleBear still talks about our cabin weekend even though he has been all over the place. Most likely, because it a slow-travel where all we do is enjoy nature, eat at amazing restaurants and play card games. For more about Idyllwild, see **[HERE](/things-to-do-in-idyllwild-with-kids/)** or about Fireside Inn, see [**HERE**](/fireside-inn-idyllwild/).
 
 
-[![Thankful for Travel](https://hotmamatravel.com/wp-content/uploads/2015/02/DSCN8705-1024x515.jpg)](/26-reasons-im-thankful-for-travel/)
+[![Thankful for Travel](/images/DSCN8705-1024x515.jpg)](/26-reasons-im-thankful-for-travel/)
 
 ## 19. Travel Eats
 
@@ -148,7 +148,7 @@ I’m thankful for all our RV trips this year! We were really busy with other tr
 
 Speaking of food, I am thankful I don’t have [**picky eaters**](/developing-kids-global-palate/) for kids. Actually, that was something HotDaddy was concerned about before we had children. We love food so much that the thought of having picky eaters terrified him. Well good news, we don’t and they are willing to try anything and everything. However, CuddleBear does need a bit more encouragement than FireCracker sometimes.
 
-[![Thankful for Travel](https://hotmamatravel.com/wp-content/uploads/2015/09/IMG_8677-682x1024.jpg)](/26-reasons-im-thankful-for-travel/)
+[![Thankful for Travel](/images/IMG_8677-682x1024.jpg)](/26-reasons-im-thankful-for-travel/)
 
 ## 21. Smooth Flying
 
@@ -171,7 +171,7 @@ I’m thankful for safe and healthy travels. As a mom you always stress before a
 
 Britney Spears and Iggy Azalea made the list too! CuddleBear was obsessed (and when I say obsessed, I mean obsessed) with their Pretty Girls video. It saved me so many times this year. It calmed him down from meltdowns, it entertained him during long transportation, and it soothed him to sleep! Thank you Britney and Iggy for being so pretty and talented to capture my son’s heart at 3 years old!
 
-[![Thankful for Travel](https://hotmamatravel.com/wp-content/uploads/2015/11/IMG_5787-768x1024.jpg)](/26-reasons-im-thankful-for-travel/)
+[![Thankful for Travel](/images/IMG_5787-768x1024.jpg)](/26-reasons-im-thankful-for-travel/)
 
 ## 25. Meeting New People
 

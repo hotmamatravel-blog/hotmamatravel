@@ -23,7 +23,7 @@ Here is why.
 
 The first thing that thrilled us was the rich history of the Best Western Windsor. I am a huge history buff and the Best Western Plus Windsor Hotel is dripping with charm from another time. Built in 1892, the magnificently restored hotel was originally designed as a five story 100 room Victorian reminiscent of the luxury 19th century hotels of Europe. Complete with a tower, turret, balconies and three story open atrium the Windsor hotel Americus took up an entire city block. The Windsor didn’t just look lavish, it was lavish. In her day,[the Windsor](http://www.anrdoezrs.net/links/8336032/type/dlg/https://www.bestwestern.com/en_US/book/hotels-in-americus/best-western-plus-windsor-hotel/propertyCode.11208.html) attracted many high-profile guests and was the site of glamorous galas.
 
-[![The Windsor Hotel](https://hotmamatravel.com/wp-content/uploads/2017/07/DSC03168-e1501597617807.jpg)](/best-west-plus-windsor-hotel/)
+[![The Windsor Hotel](/images/DSC03168-e1501597617807.jpg)](/best-west-plus-windsor-hotel/)
 
 ### Famous Guests:
 
@@ -35,7 +35,7 @@ The presidential suite is named after President Carter, who grew up in nearby Pl
 
 Sadly after 80 years, the Windsor Hotel closed its doors in 1972. But, after a 6.5 million dollar renovation the doors re-opened in 1991. Then again in 2010 it underwent another major renovation, restoring much of the Windsor’s former glory. The hotel has retained most of the original features including the hand-carved golden oak woodwork, heart pine and beautiful marble floors, but now has been reduced to 53 individual guest rooms and suites. However, it is still stunning and I can only imagine how the first guests of the Windsor felt. Upon walking in we were in complete awe. The open lobby atrium, sparkling chandeliers, marble floors, intricate woodwork and Victorian furnishing instantly transported us to another time. It is not surprising that some guests never wanted to leave.** [Check Prices](http://www.anrdoezrs.net/links/8336032/type/dlg/https://www.bestwestern.com/en_US/book/hotels-in-americus/best-western-plus-windsor-hotel/propertyCode.11208.html)**.
 
-*[![The Windsor Hotel interior ](https://hotmamatravel.com/wp-content/uploads/2017/07/windsor.jpg)](/best-west-plus-windsor-hotel/)*
+*[![The Windsor Hotel interior ](/images/windsor.jpg)](/best-west-plus-windsor-hotel/)*
 
 ## *Ghosts:*
 
@@ -54,17 +54,17 @@ Another spirit said to haunt the halls is the friendly former employee by the na
 
 We actually came into town to visit the National Cemetery and National Prisoner of War Museum in Andersonville. The close location of the Best Western Plus Windsor Hotel Americus made it the perfect fit. Not only is it a lovely, but an easy commute to popular sites. Located in downtown Americus, the Windsor is near the Rylander Theatre, Koinonia Farms, Jimmy Carter National Historic Site, Thirteenth Colony Distillery and the Andersonville National Historic Site. We came to town on a mission, but honestly after arriving to the Windsor Hotel I wanted more time to explore Americus. It was such a sweet little town. Read more about our visit to Andersonville, [**HERE**.](/visiting-andersonville-prison-kids/)
 
-*[![Andersonville National Historic Site](https://hotmamatravel.com/wp-content/uploads/2017/07/IMG_5822.jpg)](/best-west-plus-windsor-hotel/)*
+*[![Andersonville National Historic Site](/images/IMG_5822.jpg)](/best-west-plus-windsor-hotel/)*
 
 ## *Amenities:*
 
 The Windsor Hotel may be a blast from the past. However, it is stocked with all the modern luxuries today’s traveling families will love. After a major overhaul in 2010, the guest rooms are unique and maintain Victorian charm while providing guests with modern comforts such granite counter-tops, luscious bedding and duvets, a microwave and mini-fridge, and 32 inch flat screen televisions with cable satellite HBO® and high-speed Internet access. There are even business services, dry cleaning services and spacious meeting facilities as well as a restaurant, pub, beauty salon and fitness center on site. **[Check Prices](http://www.anrdoezrs.net/links/8336032/type/dlg/https://www.bestwestern.com/en_US/book/hotels-in-americus/best-western-plus-windsor-hotel/propertyCode.11208.html).**
 
-[![Rooms at Windsor Hotel](https://hotmamatravel.com/wp-content/uploads/2017/07/DSC03132-e1501598701786.jpg)](/best-west-plus-windsor-hotel/)
+[![Rooms at Windsor Hotel](/images/DSC03132-e1501598701786.jpg)](/best-west-plus-windsor-hotel/)
 
 Thanks to the romantic atmosphere, grand atrium and other amenities, the Windsor Hotel has become a popular wedding venue in Georgia among brides. In fact, you can affordably rent out the entire hotel for your event, making for one grand event. Upon hearing this I wanted and excuse to throw a big party here too!
 
-*[![The Windsor Hotel Atrium ](https://hotmamatravel.com/wp-content/uploads/2017/07/DSC03095-e1501598866233.jpg)](/best-west-plus-windsor-hotel/)*
+*[![The Windsor Hotel Atrium ](/images/DSC03095-e1501598866233.jpg)](/best-west-plus-windsor-hotel/)*
 
 ## *Eat &amp; Drink:*
 
@@ -72,7 +72,7 @@ Thanks to the romantic atmosphere, grand atrium and other amenities, the Windsor
 
 Our first night at the Windsor Hotel, we were excited to dine at the beautiful Rosemary &amp; Thyme Restaurant. The restaurant was breathtaking, yet unpretentious. The cuisine was mouthwatering and service was on point. I can safely say we all thoroughly enjoyed our first meal in Americus. They also offer a delicious breakfast each morning that I unfortunately missed. However, the boys assured me it was scrumptious.
 
-[![Rosemary and Thyme at Windsor Hotel](https://hotmamatravel.com/wp-content/uploads/2017/07/Rosemary.jpg)](/best-west-plus-windsor-hotel/)
+[![Rosemary and Thyme at Windsor Hotel](/images/Rosemary.jpg)](/best-west-plus-windsor-hotel/)
 
 ### Floyd’s Pub:
 
@@ -80,7 +80,7 @@ Remember our friend Floyd from the ghost stories? During the renovation a safe w
 
 After dinner, we enjoyed a nightcap at Floyd’s. Yes, even the kids. We relaxed on the veranda as we swayed in the rocking chairs. It was so nice to watch the light summer rain gently sparkle in the glow of the vintage street lamps. We went on a pretty quiet night, but on Fridays they have live acoustic music that I bet is amazing.
 
-*[![Flyods Pub Windsor Hotel](https://hotmamatravel.com/wp-content/uploads/2017/07/Flyods.jpg)](/best-west-plus-windsor-hotel/)*
+*[![Flyods Pub Windsor Hotel](/images/Flyods.jpg)](/best-west-plus-windsor-hotel/)*
 
 ## *That’s A Wrap!*
 
@@ -94,4 +94,4 @@ I have to say; out of all the hotels in Americus I am so thankful we had the cha
 
 **Like it? Pin it!**
 
-[![Staying at the Best Western Plus Windsor Hotel ](https://hotmamatravel.com/wp-content/uploads/2017/07/BWPW-10.jpg)](/best-west-plus-windsor-hotel/)
+[![Staying at the Best Western Plus Windsor Hotel ](/images/BWPW-10.jpg)](/best-west-plus-windsor-hotel/)

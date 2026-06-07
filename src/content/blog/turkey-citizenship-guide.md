@@ -173,6 +173,6 @@ With such a quick and streamlined visa process, apply today for citizenship in T
 
 Like it? Pin it!
 
-<figure id="Citizenship-Guide-by-Global-Residence-Index">[![](https://hotmamatravel.com/wp-content/uploads/2023/11/Citizenship-Guide-by-Global-Residence-Index-200x300.jpg)](/images/Citizenship-Guide-by-Global-Residence-Index.jpg)</figure>
+<figure id="Citizenship-Guide-by-Global-Residence-Index">[![](/images/Citizenship-Guide-by-Global-Residence-Index-200x300.jpg)](/images/Citizenship-Guide-by-Global-Residence-Index.jpg)</figure>
 </div></div>
 

@@ -60,5 +60,5 @@ You wouldn’t just have to deal with a longer flight, but also a few other step
 
 **Like it? Pin it!**
 
-<figure id="tips-for-planning-a-US-vacation">[![](https://hotmamatravel.com/wp-content/uploads/2023/08/tips-for-planning-a-US-vacation-200x300.jpg)](/images/tips-for-planning-a-US-vacation.jpg)</figure>
+<figure id="tips-for-planning-a-US-vacation">[![](/images/tips-for-planning-a-US-vacation-200x300.jpg)](/images/tips-for-planning-a-US-vacation.jpg)</figure>
 </div></section>

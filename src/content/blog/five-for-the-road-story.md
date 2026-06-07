@@ -130,4 +130,4 @@ I will always remember all the crazy moments from our road trips, but mostly, I 
 
 **Like it? Pin it!**
 
-![Family Travel Uncensored - A little Barf is just a Bump in the Road for this Road Trippin’ Family](https://hotmamatravel.com/wp-content/uploads/2018/11/Five-for-the-road-pin-683x1024.jpg)
+![Family Travel Uncensored - A little Barf is just a Bump in the Road for this Road Trippin’ Family](/images/Five-for-the-road-pin-683x1024.jpg)

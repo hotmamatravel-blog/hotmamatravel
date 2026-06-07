@@ -23,7 +23,7 @@ I love staying at haunted hotels with my family! I have put a list together of o
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Holbrooke-hotel-grass-valley-hotels"><figure>[![Holbrooke-hotel-grass-valley-hotels](https://hotmamatravel.com/wp-content/uploads/2021/05/Holbrooke-hotel-grass-valley-hotels.jpg)](/wp-content/uploads/2021/05/Holbrooke-hotel-grass-valley-hotels.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Holbrooke-hotel-grass-valley-hotels"><figure>[![Holbrooke-hotel-grass-valley-hotels](/images/Holbrooke-hotel-grass-valley-hotels.jpg)](/images/Holbrooke-hotel-grass-valley-hotels.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -48,7 +48,7 @@ One of the most famous ghostly residents is said to be a chambermaid named Sarah
 
 **[See Photos, Reviews, &amp; More](/go/holbrooke-hotel-grass-valley-ca/)**
 
-<div class="wp-block-uagb-image uagb-block-67a6d215 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="queen-anne-hotel-haunted-hotels-california"><figure>[![Haunted Queen Anne Hotel San Francisco California](https://hotmamatravel.com/wp-content/uploads/2023/08/queen-anne-hotel-haunted-hotels-california.jpg)](/wp-content/uploads/2023/08/queen-anne-hotel-haunted-hotels-california.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-67a6d215 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="queen-anne-hotel-haunted-hotels-california"><figure>[![Haunted Queen Anne Hotel San Francisco California](/images/queen-anne-hotel-haunted-hotels-california.jpg)](/images/queen-anne-hotel-haunted-hotels-california.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-932fa14b">
 
@@ -75,7 +75,7 @@ If you're fascinated by haunted stays, don’t miss my guide to **[Haunted Hotel
 
 **[See Photos, Reviews, &amp; More](/go/the-queen-anne-hotel-ca/)**
 
-<div class="wp-block-uagb-image uagb-block-ae044830 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Westin-st-francis-san-francisco-haunted-hotels-california"><figure>[![Haunted San Francisco Hotel Westin St. Francis](https://hotmamatravel.com/wp-content/uploads/2023/08/Westin-st-francis-san-francisco-haunted-hotels-california.jpg)](/wp-content/uploads/2023/08/Westin-st-francis-san-francisco-haunted-hotels-california.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-ae044830 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Westin-st-francis-san-francisco-haunted-hotels-california"><figure>[![Haunted San Francisco Hotel Westin St. Francis](/images/Westin-st-francis-san-francisco-haunted-hotels-california.jpg)](/images/Westin-st-francis-san-francisco-haunted-hotels-california.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-5095d424">
 
@@ -112,7 +112,7 @@ As dusk settles and shadows grow longer, The Westin St. Francis reveals a side t
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-030ab657 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-groveland-hotel-haunted-hotels-california"><figure>[![The Groveland Hotel Haunted Hotels in California](https://hotmamatravel.com/wp-content/uploads/2023/08/the-groveland-hotel-haunted-hotels-california.jpg)](/wp-content/uploads/2023/08/the-groveland-hotel-haunted-hotels-california.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-030ab657 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-groveland-hotel-haunted-hotels-california"><figure>[![The Groveland Hotel Haunted Hotels in California](/images/the-groveland-hotel-haunted-hotels-california.jpg)](/images/the-groveland-hotel-haunted-hotels-california.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-ea4403ac">
 
@@ -141,7 +141,7 @@ The hotel's dining room has also been the site of paranormal experiences. Visito
 
 **[See Photos, Reviews, &amp; More](/go/groveland-hotel-groveland-ca/)**
 
-<div class="wp-block-uagb-image uagb-block-a2349a65 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="santa-maria-inn-haunted-hotels-california"><figure>[![Santa Maria Inn historic and haunted hotel in California](https://hotmamatravel.com/wp-content/uploads/2023/08/santa-maria-inn-haunted-hotels-california.jpg)](/wp-content/uploads/2023/08/santa-maria-inn-haunted-hotels-california.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-a2349a65 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="santa-maria-inn-haunted-hotels-california"><figure>[![Santa Maria Inn historic and haunted hotel in California](/images/santa-maria-inn-haunted-hotels-california.jpg)](/images/santa-maria-inn-haunted-hotels-california.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-b3358cd8">
 
@@ -168,7 +168,7 @@ Room 224 has become synonymous with intrigue, as visitors report a range of eeri
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-d283e0b8 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="queen-mary-haunted-hotels-california"><figure>[![Haunted Hotel in California The Queen Mary Hotel](https://hotmamatravel.com/wp-content/uploads/2023/08/queen-mary-haunted-hotels-california.jpg)](/wp-content/uploads/2023/08/queen-mary-haunted-hotels-california.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-d283e0b8 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="queen-mary-haunted-hotels-california"><figure>[![Haunted Hotel in California The Queen Mary Hotel](/images/queen-mary-haunted-hotels-california.jpg)](/images/queen-mary-haunted-hotels-california.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-8d3b79e9">
 
@@ -193,7 +193,7 @@ Additionally, the entire ship has stories and spirits to explore. [**Staying on 
 
 **[See Photos, Reviews, &amp; More](/go/queen-mary-long-beach/)**
 
-<div class="wp-block-uagb-image uagb-block-7743a439 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hotel-del-coronado-haunted-hotels-california"><figure>[![Haunted Hotel Del Coronada in California](https://hotmamatravel.com/wp-content/uploads/2023/08/hotel-del-coronado-haunted-hotels-california.jpg)](/wp-content/uploads/2023/08/hotel-del-coronado-haunted-hotels-california.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-7743a439 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hotel-del-coronado-haunted-hotels-california"><figure>[![Haunted Hotel Del Coronada in California](/images/hotel-del-coronado-haunted-hotels-california.jpg)](/images/hotel-del-coronado-haunted-hotels-california.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-9ef5d0fa">
 
@@ -230,5 +230,5 @@ Be sure to visit our [**California Family Travel**](/california-family-travel/) 
 
 Like it? Pin it!
 
-<figure id="most-haunted-hotel-california" data-essb-pin-description="Ready to sleep where the spirits roam? These haunted family hotels in California mix ghostly legends with gorgeous stays—so you can chase chills and relax in style. Perfect for adventurous families who love a story with their sleepover! #FamilyTravelWithATwist #HauntedHotels #CaliforniaTravel #FamilyAdventure">[![Most Haunted Family Hotels in California ](https://hotmamatravel.com/wp-content/uploads/2023/08/most-haunted-hotel-california-200x300.jpg)](/images/most-haunted-hotel-california.jpg)</figure>
+<figure id="most-haunted-hotel-california" data-essb-pin-description="Ready to sleep where the spirits roam? These haunted family hotels in California mix ghostly legends with gorgeous stays—so you can chase chills and relax in style. Perfect for adventurous families who love a story with their sleepover! #FamilyTravelWithATwist #HauntedHotels #CaliforniaTravel #FamilyAdventure">[![Most Haunted Family Hotels in California ](/images/most-haunted-hotel-california-200x300.jpg)](/images/most-haunted-hotel-california.jpg)</figure>
 </div></div>

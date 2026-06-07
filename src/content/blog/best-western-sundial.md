@@ -37,15 +37,15 @@ Best Western Sundial has all the comfortable amenities that one comes to expect 
 
 One of the highlights of the Best Western Plus Sundial for us was the lovely outdoor swimming pool and hot tub. It had sweet cabanas to provide protection from the hot desert sun by day and beautiful lights to add some excitement to the night. The first thing we did after checking into the Best Western Plus Sundial was go night swimming. It was the perfect for us to unwind after a long day of driving. In fact, it was so warm at night we went night swimming each night of our stay. The kids had a blast swimming under the stars, burning off lots of energy before bed.
 
-[![The Pool at Best Western Sundial](https://hotmamatravel.com/wp-content/uploads/2017/12/BWP-POOL-1.jpg)](/best-western-sundial/)
+[![The Pool at Best Western Sundial](/images/BWP-POOL-1.jpg)](/best-western-sundial/)
 
 Second thing we loved was that every room had a balcony. It made it so nice to enjoy those warm desert nights with a glass of wine enjoying the view of the pool while the kids slept in their bed. You could hear the music and all the people still out having fun in the Entertainment District. We were even treated to an amazing lightning storm far in the distance. In the morning, I snuck out to the balcony to have a peaceful cup of coffee before the kids woke up. Needless to say, the balcony was a major plus!
 
-[![Rooms with balcony at Best Western Sundial](https://hotmamatravel.com/wp-content/uploads/2017/12/Two-Queen-e1512506750523.jpg)](/best-western-sundial/) Courtesy of Best Western
+[![Rooms with balcony at Best Western Sundial](/images/Two-Queen-e1512506750523.jpg)](/best-western-sundial/) Courtesy of Best Western
 
 Finally, I can’t say enough about how much I love the Best Western’s complimentary full breakfasts. The selection of breakfast breads, cereals and fruits was great. They had amazing muffins that we enjoyed a little too much. Of course, my daughter loved the chocolate ones. To make a breakfast complete, there are also hot eggs, hot breakfast meats, other hot items as well as yogurts, juices, and coffee.
 
-[![Complimentary Breakfast at Best Western Sundial](https://hotmamatravel.com/wp-content/uploads/2017/12/Breakfast-e1512506190300.jpg)](/best-western-sundial/) Courtesy of Best Western
+[![Complimentary Breakfast at Best Western Sundial](/images/Breakfast-e1512506190300.jpg)](/best-western-sundial/) Courtesy of Best Western
 
 ## *That’s A Wrap!*
 
@@ -57,4 +57,4 @@ We all loved our time in Scottsdale, and our stay at the Best Western Plus Sundi
 
 **Like it? Pin it!&nbsp;**
 
-![Family Travel to Scottsdale, AZ: Best Western Sundial Hotel Review - HotMamaTravel: Planning a family trip to Scottdale, Az and looking for a place to stay? Look no further. We have found a great pick that is close to the action, offers great amenities and has competitive rates!](https://hotmamatravel.com/wp-content/uploads/2017/12/Best-Western-Plus-Sundial.png)
+![Family Travel to Scottsdale, AZ: Best Western Sundial Hotel Review - HotMamaTravel: Planning a family trip to Scottdale, Az and looking for a place to stay? Look no further. We have found a great pick that is close to the action, offers great amenities and has competitive rates!](/images/Best-Western-Plus-Sundial.png)

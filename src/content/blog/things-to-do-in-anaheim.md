@@ -152,7 +152,7 @@ If you are visiting Anaheim and looking for a great family-friendly accommodatio
 
 <div class="stk-block-heading__bottom-line"></div></div>
 
-<figure>![Fun things to do in Anaheim CA besides Disneyland](https://hotmamatravel.com/wp-content/uploads/2017/05/things-to-do-anaheim-besides-disney.png)</figure>
+<figure>![Fun things to do in Anaheim CA besides Disneyland](/images/things-to-do-anaheim-besides-disney.png)</figure>
 
 ### [Angel Stadium of Anaheim](/go/angel-stadium-anaheim/)
 
@@ -266,7 +266,7 @@ The [OC Fair](https://ocfair.com/) runs during the summer months, starting mid-J
 
 **[See photos, reviews &amp; more](https://ocfair.com/)**
 
-<figure>![List of Best Beaches near Disneyland in Anaheim](https://hotmamatravel.com/wp-content/uploads/2017/05/best-beaches-near-anaheim-disneyland-guide.png)</figure>
+<figure>![List of Best Beaches near Disneyland in Anaheim](/images/best-beaches-near-anaheim-disneyland-guide.png)</figure>
 
 ### [Orange County Beaches](/beaches-near-anaheim/)
 
@@ -310,7 +310,7 @@ Anaheim is a treasure trove of amazing breweries. For more family-friendly brewe
 
 **[See more photos, reviews, and more](/go/brewery-x-anaheim-ca/)**
 
-<figure>![Anaheim Packing House with kids](https://hotmamatravel.com/wp-content/uploads/2014/08/Anaheim-packing-house-guide.png)</figure>
+<figure>![Anaheim Packing House with kids](/images/Anaheim-packing-house-guide.png)</figure>
 
 ### [Anaheim Packing District](/go/anaheim-packing-house-district/)
 
@@ -394,7 +394,7 @@ Balboa Fun Zone has been bringing family fun to Newport since 1936 and it is sti
 
 [**See photos, reviews &amp; more**](/go/balboa-fun-zone-newport-beach/)
 
-<figure>![Guide to Visit Queen Mary Long Beach with Kids](https://hotmamatravel.com/wp-content/uploads/2016/09/visit-queen-mary-long-beach-with-kids-historic-cruise-ship.png)</figure>
+<figure>![Guide to Visit Queen Mary Long Beach with Kids](/images/visit-queen-mary-long-beach-with-kids-historic-cruise-ship.png)</figure>
 
 ### [The Queen Mary](/go/queen-mary-long-beach/)
 
@@ -406,7 +406,7 @@ Queen Mary set sail on her maiden voyage in 1936 from Southampton and for the ne
 
 [**See photos, reviews &amp; more**](/go/queen-mary-long-beach/)
 
-<figure>![Guide to visit San Juan Capistrano with Kids](https://hotmamatravel.com/wp-content/uploads/2017/04/san-juan-capitstrano-with-kids-ultimate-guide.png)</figure>
+<figure>![Guide to visit San Juan Capistrano with Kids](/images/san-juan-capitstrano-with-kids-ultimate-guide.png)</figure>
 
 ### [Mission San Juan Capistrano](/mission-san-juan-capistrano/)
 
@@ -556,5 +556,5 @@ For more help planning your next California family vacation, visit our [**Califo
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Best Things To Do In Anaheim With Kids (Besides Disney)">[![Best things to do in Anaheim with kids besides Disney](https://hotmamatravel.com/wp-content/uploads/2023/11/Best-Things-to-do-in-Anaheim-with-kids-1-200x300.jpg)](/images/Best-Things-to-do-in-Anaheim-with-kids-1.jpg)</figure>
+<figure data-essb-pin-description="Best Things To Do In Anaheim With Kids (Besides Disney)">[![Best things to do in Anaheim with kids besides Disney](/images/Best-Things-to-do-in-Anaheim-with-kids-1-200x300.jpg)](/images/Best-Things-to-do-in-Anaheim-with-kids-1.jpg)</figure>
 </div></div>

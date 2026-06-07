@@ -83,7 +83,7 @@ People love getting stuff for free, and giveaways are a tried-and-true method of
 
 ### Some great brands we have worked with:
 
-[![Image of brand HotMamaTravel work with](https://hotmamatravel.com/wp-content/uploads/2017/11/Brands-We-work-with.png)](/work-with-us/)
+[![Image of brand HotMamaTravel work with](/images/Brands-We-work-with.png)](/work-with-us/)
 
 ### Contact Us
 

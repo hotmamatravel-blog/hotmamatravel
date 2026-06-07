@@ -14,7 +14,7 @@ author: "Amanda Keeley-Thurman"
 
 Los Angeles is a bustling metropolis home to Hollywood movie studios, famous beaches and trendy restaurants, but would you believe me if I told you it is also home the world’s most famous fossil sites? Well, it is. Smack dab in the middle of L.A are 10,000 to 40,000 year old asphalt pools that contained many Ice Age animal bones, like mammoths and saber-toothed cats. That is right, alongside skyscrapers and city traffic, is a live fossil excavation site. I’ve wanted to take my kids for a while now, so when my daughter wanted to go to L.A for her birthday, I seized the opportunity to explore the La Brea Tar Pits with kids.
 
-[![La Brea Tar Pits with kids](https://hotmamatravel.com/wp-content/uploads/2016/09/IMG_3566-1024x1024.jpg)](/la-brea-tar-pits-with-kids/)
+[![La Brea Tar Pits with kids](/images/IMG_3566-1024x1024.jpg)](/la-brea-tar-pits-with-kids/)
 
 ## *Keep the Cost in Check:*
 
@@ -57,9 +57,9 @@ La Brea Tar Pits is more than just a museum. Out of all the fun things to do in 
 
 The fun starts as soon as you park your car. The aroma of steaming asphalt fills your nose as you take in the sights at Hancock Park. Named after George Allen Hancock, the last owner of the land who understood the scientific significance of the fossils found in the tar pits. In 1924 he donated 23 acres of the ranch land to Los Angeles County for the preservation and exhibition of the fossils. Today the park is sprinkled with life-sized Ice Age replicas and bubbling tar pits. Kids can run and play on these larger than life creatures, snap some photos, and get a giant sloth hug, but beware of sticky asphalt seeps throughout the area. The largest tar pit is located directly in front of the museum entrance and features large replicas displaying how the animals got trapped in the liquid asphalt.
 
-[![La Brea Tar Pits Bear Statue children](https://hotmamatravel.com/wp-content/uploads/2016/09/HP.jpg)](/la-brea-tar-pits-with-kids/)
+[![La Brea Tar Pits Bear Statue children](/images/HP.jpg)](/la-brea-tar-pits-with-kids/)
 
-[![La Brea Tar Pits display of mammoths](https://hotmamatravel.com/wp-content/uploads/2016/09/TP.jpg)](/la-brea-tar-pits-with-kids/)
+[![La Brea Tar Pits display of mammoths](/images/TP.jpg)](/la-brea-tar-pits-with-kids/)
 
 ### Pleistocene Gardens
 
@@ -71,7 +71,7 @@ Located within the Hancock Park is the Pleistocene Gardens, which showcases flor
 
 When the Los Angeles County Museum of Art (LACMA), the neighboring museum to La Brea Tar Pits, started construction on an underground garage, they found more than just rocks. What they found were 16 fossil deposits, including an intact Columbian Mammoth. The fossils were loaded into 23 tree crates and set over to Hancock Park for study. Now, visitors can see observe Project 23 for themselves!
 
-[![La Brea Tar Pits Kids exploring Fossils](https://hotmamatravel.com/wp-content/uploads/2016/09/P23.jpg)](/la-brea-tar-pits-with-kids/)
+[![La Brea Tar Pits Kids exploring Fossils](/images/P23.jpg)](/la-brea-tar-pits-with-kids/)
 
 ### Observation Pit
 
@@ -83,16 +83,16 @@ Free with your admission to the museum, the Excavator Tour allows visitor to wha
 
 You will need your tickets to enter the museum. If you purchased your tickets online, you will need to bring the printed version with you. If you bought the passport, you have a ticket for each individual attraction. I know it is a lot of papers, especially when you’re visiting with a large group.
 
-[![La Brea Tar Pits entrance](https://hotmamatravel.com/wp-content/uploads/2016/09/M.jpg)](/la-brea-tar-pits-with-kids/)
+[![La Brea Tar Pits entrance](/images/M.jpg)](/la-brea-tar-pits-with-kids/)
 
 ### Exhibits
 
 
 There are over 1 million fossils from 650 species on display at the La Brea Tar Pits Museum. Some of the animal fossils exhibited here include, Bisons, Camels, Condors, Coyotes, Dire Wolf, Ground Sloth, Horses, Mammoths, Smilodon, and many more.
 
-[![La Brea Tar Pits Kids at mammoth skeleton](https://hotmamatravel.com/wp-content/uploads/2016/09/Mammoth.jpg)](/la-brea-tar-pits-with-kids/)
+[![La Brea Tar Pits Kids at mammoth skeleton](/images/Mammoth.jpg)](/la-brea-tar-pits-with-kids/)
 
-[![kid playing with fossil skull](https://hotmamatravel.com/wp-content/uploads/2016/09/KEYS.jpg)](/la-brea-tar-pits-with-kids/)
+[![kid playing with fossil skull](/images/KEYS.jpg)](/la-brea-tar-pits-with-kids/)
 
 
 
@@ -101,7 +101,7 @@ There are over 1 million fossils from 650 species on display at the La Brea Tar 
 
 Here, you actually to see the scientist studying and preparing the fossils. What is usually done behind closed doors, large observation windows allow visitor to watch this interesting process of paleontological lab work. My daughter loved this so much that I had to pull her away from the window to explore more of the museum.
 
-[![La Brea Tar Pits Fossil lab](https://hotmamatravel.com/wp-content/uploads/2016/09/IMG_3552-1024x576.jpg)](/la-brea-tar-pits-with-kids/)
+[![La Brea Tar Pits Fossil lab](/images/IMG_3552-1024x576.jpg)](/la-brea-tar-pits-with-kids/)
 
 ### Titans of the Ice Age
 
@@ -113,11 +113,11 @@ This is a 3D 25 minute film that takes you on a journey to the Ice Age. The film
 
 Although you can purchase tickets for this show separately, I recommend buying ahead of time with a museum admission package. Advance purchasing also allows you to reserve your seating time, which you will need to do as the shows fill up fast. If you are a first time visitor and you are traveling with kids, I encourage you to see Ice Age Encounters, which tells the story of the Saber-Tooth Cat.
 
-[![Kids having fun at La Brea Tar Pits](https://hotmamatravel.com/wp-content/uploads/2016/09/STC2.jpg)](/la-brea-tar-pits-with-kids/)
+[![Kids having fun at La Brea Tar Pits](/images/STC2.jpg)](/la-brea-tar-pits-with-kids/)
 
 The show only lasts 15 minutes, but the kids will love the life-sized Saber-Tooth Cat puppet. It is so realistic, it is scary, and it gets right up close to the kids. Over 2,500 of these cats were found in the La Brea Tar Pits, which makes it even more interesting to how they moved, hunted, and died in the pits. After the show, the kids are encourage to hangout touch replica fossils of sabers and ask questions, which my daughter did of course.
 
-[![Kids touching fossils at La Brea Tar Pits](https://hotmamatravel.com/wp-content/uploads/2016/09/stc.jpg)](/la-brea-tar-pits-with-kids/)
+[![Kids touching fossils at La Brea Tar Pits](/images/stc.jpg)](/la-brea-tar-pits-with-kids/)
 
 ## That’s A Wrap:
 
@@ -128,4 +128,4 @@ Los Angeles has a lot to offer, but nothing will be as unique as this experience
 
 **Like it? Pin it!**
 
-[![La Brea Tar Pits with kids](https://hotmamatravel.com/wp-content/uploads/2016/09/LA-BREA-PIN-683x1024.jpg)](/la-brea-tar-pits-with-kids/)
+[![La Brea Tar Pits with kids](/images/LA-BREA-PIN-683x1024.jpg)](/la-brea-tar-pits-with-kids/)

@@ -184,4 +184,4 @@ And be sure to sign up for our **[FREE Newsletter](/subscribe-hotmamatravel/)** 
 
 **Like it? Pin it!**
 
-![An unexpected encounter with a real-life Bengal Tiger on safari with my 4 teens](https://hotmamatravel.com/wp-content/uploads/2019/06/family-travel-uncensored-bengal-tiger-story-pin-683x1024.jpg)
+![An unexpected encounter with a real-life Bengal Tiger on safari with my 4 teens](/images/family-travel-uncensored-bengal-tiger-story-pin-683x1024.jpg)

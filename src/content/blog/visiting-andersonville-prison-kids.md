@@ -43,15 +43,15 @@ Andersonville today, consists of three areas to explore. There is the National P
 
 After parking, you will start your journey at the museum. It is a really fascinating place and I was surprised at how much my kids enjoyed learning about Civil War camp life. In fact, FireCracker wanted to read all of the Andersonville prisoner names and every single letter written by the POWs held at Sumter Prison.
 
-[![Andersonville POW Museum](https://hotmamatravel.com/wp-content/uploads/2017/09/DSC03307.jpg)](/visiting-andersonville-prison-kids/)Exhibit Hall:
+[![Andersonville POW Museum](/images/DSC03307.jpg)](/visiting-andersonville-prison-kids/)Exhibit Hall:
 
 The National Prisoner of War Museum isn’t just about the Civil War POW. The museum takes you on a course, sharing the stories of many prisoners of war throughout American history. The first gallery explains what a POW is and from there you follow along the prisoners’ journey. In addition to the prison history, you will learn the about how many were captured and what their living conditions were like at a POW camp. Much of this is known thanks to journals and letters written by the Union prisoners of war. You will even learn how they maintained morale and relationships until their escape, release or death.
 
-[![Andersonville POW Museum](https://hotmamatravel.com/wp-content/uploads/2017/09/DSC03329-e1504626580713.jpg)](/visiting-andersonville-prison-kids/)
+[![Andersonville POW Museum](/images/DSC03329-e1504626580713.jpg)](/visiting-andersonville-prison-kids/)
 
 The exhibits are hands-on, which is great for encouraging children’s comprehension and sustain their interest. There are touchable items and drawers that can be opened to reveal information about the prisoners of war. This is where my daughter loved reading all the letters and my son loved playing with the many touchable gadgets.
 
-[![Andersonville POW Museum](https://hotmamatravel.com/wp-content/uploads/2017/09/DSC03335-e1504626860351.jpg)](/visiting-andersonville-prison-kids/)
+[![Andersonville POW Museum](/images/DSC03335-e1504626860351.jpg)](/visiting-andersonville-prison-kids/)
 
 ### Andersonville Film:
 
@@ -74,7 +74,7 @@ Outside the museum is a circular road that takes you around to the important loc
 
 The first thing you will see as you make your way outside are the ominous walls of the reconstructed Northeast corner of the military stockade. It is here that you really get a feel for camp life during the Civil War. You feel just how horrible the Andersonville prison conditions must have been without basic necessities like shelter, food and water. The water they did have was minimal and contaminated, causing disease. It was sad to see the markers where men had dug their own wells in desperate need for fresh water. My son, CuddleBear, stood under the hot Georgia sun staring solemnly out at the makeshift civil war camp. I could tell he was digesting the pain and suffering that happened here all those years ago. For kids who have everything, it was a very humbling experience.
 
-[![Camp Sumter Andersonville Prison Camp](https://hotmamatravel.com/wp-content/uploads/2017/09/Camp-Sumter.jpg)](/visiting-andersonville-prison-kids/)
+[![Camp Sumter Andersonville Prison Camp](/images/Camp-Sumter.jpg)](/visiting-andersonville-prison-kids/)
 
 #### Monuments
 
@@ -91,13 +91,13 @@ Next are the 11 prison site monuments. There are benches within the monument gar
  10. Tennessee
  11. Eight-State
 
-[![Monuments at Andersonville Prison](https://hotmamatravel.com/wp-content/uploads/2017/09/DSC03364-e1504628866900.jpg)](/visiting-andersonville-prison-kids/)
+[![Monuments at Andersonville Prison](/images/DSC03364-e1504628866900.jpg)](/visiting-andersonville-prison-kids/)
 
 #### The North Gate
 
 Keep moving and you will come to the North Gate. Walking through the doors with its towering walls, you can imagine how hopeless many of these Union prisoners of war felt. Many would enter one of the worst prisons in Georgia, but few would leave. North Gate sits high on a hill allowing you to view the white posts that outline where the walls would have been surrounding Andersonville Civil War Prison camp. You can also get a clear view of the “Dead Line,” which was an inner wall designed to keep prisoners from reaching the outer wall. According to the prison records, guards were to shoot anyone who even touched the wall without warning. Happily, you also get a great view of Providence Spring.
 
-[![Northgate Andersonville Prison](https://hotmamatravel.com/wp-content/uploads/2017/09/NORTHGATE.jpg)](/visiting-andersonville-prison-kids/)
+[![Northgate Andersonville Prison](/images/NORTHGATE.jpg)](/visiting-andersonville-prison-kids/)
 
 #### Providence Spring:
 
@@ -105,23 +105,23 @@ The story of Providence Spring is about the only happy story that you’ll hear 
 
 The miracle of Providence Spring is thanks to a thunderstorm that appeared out of nowhere on a clear day. Not only did the rain give them fresh water, but a lightning bolt struck the ground revealing a new spring of water. The spring still flows today and has been memorialized at Andersonville Prison. At the gift shop you can purchase a little glass bottle to take some of the spring water home with you. The label ensures that we will never forget the thirst of the prisoners that suffered here at Andersonville. We bought a bottle and my daughter took great pride in filling up at Providence Spring.
 
-[![Providence Spring Andersonville Prison](https://hotmamatravel.com/wp-content/uploads/2017/09/Provendce-Spring.jpg)](/visiting-andersonville-prison-kids/)
+[![Providence Spring Andersonville Prison](/images/Provendce-Spring.jpg)](/visiting-andersonville-prison-kids/)
 
 #### Star Fort:
 
 The walls have since disappeared, but this was once the headquarters of this Civil War prison. Here, you can still see the Star Fort cannons, which at one time had four facing outward toward Union raids and five facing toward the overcrowded POW camp.
 
-[![Star Fort Andersonville Prison](https://hotmamatravel.com/wp-content/uploads/2017/09/DSC03360-e1504629691812.jpg)](/visiting-andersonville-prison-kids/)
+[![Star Fort Andersonville Prison](/images/DSC03360-e1504629691812.jpg)](/visiting-andersonville-prison-kids/)
 
 ### Andersonville National Cemetery:
 
 Established in 1865, the Andersonville cemetery holds the 13,000 Union soldiers that died at Camp Sumter. It continues to serve as a permanent place of honor for those gave their life in military service, holding 150 burials a year. Since the cemetery is related to the historic prison site, in 1970 it was added the National Park System.
 
-[![Andersonville National Cemetery](https://hotmamatravel.com/wp-content/uploads/2017/09/Andersonville-National-Cemetery.jpg)](/visiting-andersonville-prison-kids/)
+[![Andersonville National Cemetery](/images/Andersonville-National-Cemetery.jpg)](/visiting-andersonville-prison-kids/)
 
 This was one of the most special parts of our visit to Andersonville. It was quite a moment when we all got out of the car and saw the tombstone of our Civil War Grandpa. I grew up listening to my dad proudly tell stories of his Great-Great Grandfather that fought and died as a Union Soldier. However, he never knew his name or the exact location of the prison. Thanks to a friend’s ancestry research and my love of travel, a very amazing moment was created for my dad. It was an incredible moment for me too and my kids. I loved that we were all there to experience this together.
 
-*[![Andersonville National Cemetery](https://hotmamatravel.com/wp-content/uploads/2017/09/Andersonville-National-Cemetery2.jpg)](/visiting-andersonville-prison-kids/)*
+*[![Andersonville National Cemetery](/images/Andersonville-National-Cemetery2.jpg)](/visiting-andersonville-prison-kids/)*
 
 ## Things to do with kids:
 
@@ -129,7 +129,7 @@ I don’t go anywhere without my babies in tow and I know that a prisoner of war
 
  Plus, Andersonville offers plenty of activities for kids to lighten up the day. There is the Junior Ranger program for kids 8 and over, where upon completion of activities, they receive an official Andersonville Junior Ranger badge and a Key to Freedom patch. There is also the Travel Clara Barton activity, scouting activities and trading cards.
 
-*[![Andersonville POW Museum](https://hotmamatravel.com/wp-content/uploads/2017/09/Andersonville-POW-Museum.jpg)](/visiting-andersonville-prison-kids/)*
+*[![Andersonville POW Museum](/images/Andersonville-POW-Museum.jpg)](/visiting-andersonville-prison-kids/)*
 
 ## *That’s A Wrap!*
 
@@ -139,4 +139,4 @@ You might think that the history of a heavy site, like a Civil War prison camp, 
 
 **Like it? Pin it?**
 
-[![Visiting Andersonville Prison with kids](https://hotmamatravel.com/wp-content/uploads/2017/09/AP-4.jpg)](/visiting-andersonville-prison-kids/)
+[![Visiting Andersonville Prison with kids](/images/AP-4.jpg)](/visiting-andersonville-prison-kids/)

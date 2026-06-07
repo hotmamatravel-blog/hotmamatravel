@@ -168,7 +168,7 @@ Fabulous shopping and restaurants, Glasgow University, and the School of Art hav
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9d7f493c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/04/science-center-glasgow-scotland.jpg)</figure>
+<figure>![](/images/science-center-glasgow-scotland.jpg)</figure>
 
 #### **[Science Center](/go/glasgow-science-center-glasgow-scotland/)**
 
@@ -205,7 +205,7 @@ This is the best way to see the whole city in one or two days. I actually bought
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1c561f36"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![bustling shopping district in downtown glasgaow scotland](https://hotmamatravel.com/wp-content/uploads/2015/07/IMG_0281-1024x768.jpg)</figure>
+<figure>![bustling shopping district in downtown glasgaow scotland](/images/IMG_0281-1024x768.jpg)</figure>
 
 #### **[Downtown Glasgow](/go/buchanan-street-glasgow-scotland/)**
 
@@ -218,7 +218,7 @@ These streets are bustling with excitement and have great Glasgow shopping! This
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-76c981f5"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![Ride the clockwork orange subway in glasgow scotland](https://hotmamatravel.com/wp-content/uploads/2015/07/DSCN9350-1024x768.jpg)</figure>
+<figure>![Ride the clockwork orange subway in glasgow scotland](/images/DSCN9350-1024x768.jpg)</figure>
 
 #### [Ride Clockwork Orange](/go/clockwork-orange-subway-glasgow-scotland/)
 
@@ -231,7 +231,7 @@ The subway is a super easy way to take a full loop around the city of Glasgow. Y
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-574b989f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/04/armadillo-glasgow-scotland.jpg)</figure>
+<figure>![](/images/armadillo-glasgow-scotland.jpg)</figure>
 
 #### [SEC Armadillo](/go/sec-armadillo-glasgow-scotland/)
 
@@ -244,7 +244,7 @@ It is called the Armadillo, because it looks like an armadillo. However, it is a
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-129519c2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/04/SSE-Hyrdo-glasgow-scotland.jpg)</figure>
+<figure>![](/images/SSE-Hyrdo-glasgow-scotland.jpg)</figure>
 
 #### [SSE Hydro](/go/sse-hydro-glasgow-scotland/)
 
@@ -264,7 +264,7 @@ The SSE Hydro is a really cool looking all-purpose arena. Also located by the Sc
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3f9556d2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![Glasgow historic site University of Glasgow](https://hotmamatravel.com/wp-content/uploads/2015/07/IMG_70901-1024x1024.jpg)</figure>
+<figure>![Glasgow historic site University of Glasgow](/images/IMG_70901-1024x1024.jpg)</figure>
 
 #### **[Glasgow University](/go/university-glasgow-glasgow-scotland/)**
 
@@ -277,7 +277,7 @@ Glasgow University was founded in 145, making it the fourth-oldest English speak
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1dfaf5b0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![glasgow cathedral historic site to visit with kids in glasgow scotland](https://hotmamatravel.com/wp-content/uploads/2015/07/IMG_7415-1024x768.jpg)</figure>
+<figure>![glasgow cathedral historic site to visit with kids in glasgow scotland](/images/IMG_7415-1024x768.jpg)</figure>
 
 #### **[The Glasgow Cathedral](/go/glasgow-cathedral-glasgow-scotland/)**
 
@@ -287,12 +287,12 @@ Built in 1197 this is the oldest cathedral on the mainland of Scotland and truel
 
 [See photos, reviews &amp; more](/go/glasgow-cathedral-glasgow-scotland/)
 
-<figure>![St. Mungo](https://hotmamatravel.com/wp-content/uploads/2015/07/IMG_7304-1024x768.jpg)<figcaption class="wp-element-caption">The tomb of St. Mungo in the lower crypt of Glasgow Cathedral</figcaption></figure>
+<figure>![St. Mungo](/images/IMG_7304-1024x768.jpg)<figcaption class="wp-element-caption">The tomb of St. Mungo in the lower crypt of Glasgow Cathedral</figcaption></figure>
 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-68cc84d9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![visiting the city of the dead with kids at necropolis in glasgow scotland](https://hotmamatravel.com/wp-content/uploads/2015/07/IMG_7401-1024x768.jpg)</figure>
+<figure>![visiting the city of the dead with kids at necropolis in glasgow scotland](/images/IMG_7401-1024x768.jpg)</figure>
 
 #### **[Glasgow Necropolis](/go/necropolis-glasgow-scotland/)**
 
@@ -305,7 +305,7 @@ Necropolis is a massive victorian cemetery established in the 1830’s. At first
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8be25137"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![oldest home in glasgow provand](https://hotmamatravel.com/wp-content/uploads/2015/07/DSCN9973-1024x683.jpg)</figure>
+<figure>![oldest home in glasgow provand](/images/DSCN9973-1024x683.jpg)</figure>
 
 #### **[Provand’s Lordship](/go/provands-lordship-glasgow-scotland/)**
 
@@ -337,7 +337,7 @@ From 1906 to 1914 this was the home of the famous Glaswegian architect Charles R
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c3e9ce1b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![Hunterian Museum is a free museum to visit with kids in glasgow scotland](https://hotmamatravel.com/wp-content/uploads/2015/07/IMG_0499-1024x461.jpg)</figure>
+<figure>![Hunterian Museum is a free museum to visit with kids in glasgow scotland](/images/IMG_0499-1024x461.jpg)</figure>
 
 #### **[Hunterian Museum](/go/hunterian-museum-glasgow-scotland/)**
 
@@ -350,7 +350,7 @@ Located at the University of Glasgow, The Hunterian Museum is the oldest museum 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c58b5262"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![kid-friendly free riverside museum in glasgow scotland](https://hotmamatravel.com/wp-content/uploads/2015/07/IMG_7643-1024x768.jpg)</figure>
+<figure>![kid-friendly free riverside museum in glasgow scotland](/images/IMG_7643-1024x768.jpg)</figure>
 
 #### **[Riverside Museum](/go/riverside-museum-glasgow-scotland/)**
 
@@ -363,7 +363,7 @@ The Riverside Museum displays Glasgow transportation throughout the decades. The
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4c24ce73"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![kelvingrove museum for families in glasgow scotland](https://hotmamatravel.com/wp-content/uploads/2015/07/DSCN9965-1024x819.jpg)</figure>
+<figure>![kelvingrove museum for families in glasgow scotland](/images/DSCN9965-1024x819.jpg)</figure>
 
 #### **[Kelvingrove Art Gallery &amp; Museum](/go/kelvingrove-museum-glasgow-scotland/)**
 
@@ -376,7 +376,7 @@ The Kelvingrove museum opened in 1901 and is relaxing with a great mix of exhibi
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c7dd7e0c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![glasgow museum of modern art glasgow scotland](https://hotmamatravel.com/wp-content/uploads/2015/07/DSCN98721-1024x768.jpg)</figure>
+<figure>![glasgow museum of modern art glasgow scotland](/images/DSCN98721-1024x768.jpg)</figure>
 
 #### **[Museum of Modern Art](/go/gallery-modern-art-glasgow-scotland/)**
 
@@ -389,7 +389,7 @@ This is Glasgow’s main gallery for contemporary art. The museum is housed insi
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4c0bfce5"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![people](https://hotmamatravel.com/wp-content/uploads/2015/07/IMG_7484-1024x768.jpg)</figure>
+<figure>![people](/images/IMG_7484-1024x768.jpg)</figure>
 
 #### **[People’s Palace &amp; Glasgow Green](/go/peoples-palace-glasgow-green-glasgow-scotland/)**
 
@@ -399,7 +399,7 @@ Opened in 1898, the People’s Palace Museum takes you&nbsp; on a journey throug
 
 [See photos, reviews &amp; more](/go/peoples-palace-glasgow-green-glasgow-scotland/)
 
-<figure>![Jacobite resting place at glasgow green in glasgow scotland](https://hotmamatravel.com/wp-content/uploads/2015/07/IMG_7487-1024x768.jpg)<figcaption class="wp-element-caption">Glasgow Green on a typical cloudy day</figcaption></figure>
+<figure>![Jacobite resting place at glasgow green in glasgow scotland](/images/IMG_7487-1024x768.jpg)<figcaption class="wp-element-caption">Glasgow Green on a typical cloudy day</figcaption></figure>
 
 </div></section>
 
@@ -435,7 +435,7 @@ This is a historic house museum from 1892 that has been preserved in time to ref
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-54d7dda4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![visit glasgow botanic gardens with kids](https://hotmamatravel.com/wp-content/uploads/2015/07/DSCN9571-768x1024.jpg)</figure>
+<figure>![visit glasgow botanic gardens with kids](/images/DSCN9571-768x1024.jpg)</figure>
 
 #### **[Glasgow Botanic Garden](/go/glasgow-botanic-gardens-glasgow-scotland/)**
 
@@ -448,7 +448,7 @@ The Botanic Garden is located on the West End of Glasgow. Since it was really cl
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-34268790"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![kelvingrove park in glasgow scotland](https://hotmamatravel.com/wp-content/uploads/2015/07/DSCN9407-1024x768.jpg)</figure>
+<figure>![kelvingrove park in glasgow scotland](/images/DSCN9407-1024x768.jpg)</figure>
 
 #### **[Kelvingrove Park](/go/kelvingrove-park-glasgow-scotland/)**
 
@@ -461,7 +461,7 @@ Also located on the West End, this park is along the Kelvingrove River right by 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-39312799"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/04/mugdock-country-park-glasgow-scotland.jpg)</figure>
+<figure>![](/images/mugdock-country-park-glasgow-scotland.jpg)</figure>
 
 #### **[Mugdock Country Park](/go/mugdock-country-park-glasgow-scotland/)**
 
@@ -481,7 +481,7 @@ This made the list, because this park contains castle ruins!! Yes, castle ruins.
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a1fea8c1"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![the bothy a family restaurant in glasgow scotland](https://hotmamatravel.com/wp-content/uploads/2015/07/Bothy-1024x1024.jpg)</figure>
+<figure>![the bothy a family restaurant in glasgow scotland](/images/Bothy-1024x1024.jpg)</figure>
 
 #### **[The Bothy](/go/bothy-restaurant-glasgow-scotland/)**
 
@@ -494,7 +494,7 @@ Located down a quiet alley on the lovely West End of Glasgow, The Bothy is a bea
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c1fe1b5b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![hanoi bike shop family friendly restaurant in glasgow scotland](https://hotmamatravel.com/wp-content/uploads/2015/07/IMG_7063-1024x768.jpg)</figure>
+<figure>![hanoi bike shop family friendly restaurant in glasgow scotland](/images/IMG_7063-1024x768.jpg)</figure>
 
 #### **[Hanoi Bike Shop](/go/hanoi-bike-shop-glasgow-scotland/)**
 
@@ -519,7 +519,7 @@ DiMaggio’s was one of the Italian restaurants in Glasgow that became the kids�
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-570b5c35"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![brel family restaurant in glasgow scotland](https://hotmamatravel.com/wp-content/uploads/2015/07/IMG_72351-1024x1024.jpg)</figure>
+<figure>![brel family restaurant in glasgow scotland](/images/IMG_72351-1024x1024.jpg)</figure>
 
 #### **[Brel](/go/brel-glasgow-scotland/)**
 
@@ -532,7 +532,7 @@ Brel is a Belgian restaurant with great outdoor seating right on Ashton Lane as 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-70a8c374"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![grosvenor cafe family restaurant in glasgow scotland ](https://hotmamatravel.com/wp-content/uploads/2015/07/DSCN9461-1024x768.jpg)</figure>
+<figure>![grosvenor cafe family restaurant in glasgow scotland ](/images/DSCN9461-1024x768.jpg)</figure>
 
 #### **[Grosvenor Cafe](/go/grosvenor-cafe-glasgow-scotland/)**
 
@@ -545,7 +545,7 @@ Connected to the Grosvenor Theater, the Grosvenor Cafe is perfect for dinner and
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1158516b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![casual family restaurant in glasgow scotland university cafe](https://hotmamatravel.com/wp-content/uploads/2015/07/IMG_7182-1024x1024.jpg)</figure>
+<figure>![casual family restaurant in glasgow scotland university cafe](/images/IMG_7182-1024x1024.jpg)</figure>
 
 #### **[University Cafe](/go/university-cafe-glasgow-scotland/)**
 
@@ -558,7 +558,7 @@ Established in 1918, it is somewhat of an institution and attracts many famous c
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a6a75d4a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/04/family-restaurant-hillhead-book-club-glasgow-scotland.jpg)</figure>
+<figure>![](/images/family-restaurant-hillhead-book-club-glasgow-scotland.jpg)</figure>
 
 #### **[Hillhead Book Club](/go/hillhead-bookclub-glasgow-scotland/)**
 
@@ -571,7 +571,7 @@ The Hillhead Book Club has really cool décor, a great cocktail list, cheap beer
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5aafbc53"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![old school house family restaurant and pub in glasgow scotland](https://hotmamatravel.com/wp-content/uploads/2015/07/DSCN0029-1024x768.jpg)</figure>
+<figure>![old school house family restaurant and pub in glasgow scotland](/images/DSCN0029-1024x768.jpg)</figure>
 
 #### **[Old School House](/go/old-school-house-glasgow-scotland/)**
 
@@ -584,7 +584,7 @@ Once an actual old time schoolhouse, the Old Schoolhouse pub has really reasonab
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-257ce156"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/04/browns-family-restaurant-glasgow-scotland.jpg)</figure>
+<figure>![](/images/browns-family-restaurant-glasgow-scotland.jpg)</figure>
 
 #### **[Brown's](/go/browns-glasgow-scotland/)**
 
@@ -597,7 +597,7 @@ Brown's is a very elegant British restaurant with a grand cafe vibe. It has lobs
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9880a993"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![family friendly drum and monkey pub and restaurant glasgow scotland](https://hotmamatravel.com/wp-content/uploads/2015/07/IMG_6624-1024x1024.jpg)</figure>
+<figure>![family friendly drum and monkey pub and restaurant glasgow scotland](/images/IMG_6624-1024x1024.jpg)</figure>
 
 #### **[Drum &amp; Monkey](/go/drum-monkey-glasgow-scotland/)**
 
@@ -610,7 +610,7 @@ This grand pub, built in the 1920’s is located in downtown Glasgow. We visited
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-50a7a6e7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![family restaurant in glasgow scotland cathedral house ](https://hotmamatravel.com/wp-content/uploads/2015/07/DSCN9955-e1436221915130-768x1024.jpg)</figure>
+<figure>![family restaurant in glasgow scotland cathedral house ](/images/DSCN9955-e1436221915130-768x1024.jpg)</figure>
 
 #### **[Cathedral House Hotel &amp; Green Room Restaurant](/go/cathedral-house-hotel-restaurant-glasgow-scotland/)**
 
@@ -623,7 +623,7 @@ The Cathedral House Hotel Green House Restaurant is located right by the Glasgow
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5886fed6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/04/curlers-rest-glasgow-scotland-family-pub.jpg)</figure>
+<figure>![](/images/curlers-rest-glasgow-scotland-family-pub.jpg)</figure>
 
 #### **[Curler’s Rest](/go/curlers-rest-glasgow-scotland/)**
 
@@ -636,7 +636,7 @@ Curler’s Rest was our favorite place for a night cup (or a before 8:00pm drink
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c06c99e3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![family restaurant glasgow scotland oran mor](https://hotmamatravel.com/wp-content/uploads/2015/07/DSCN9424-1024x768.jpg)</figure>
+<figure>![family restaurant glasgow scotland oran mor](/images/DSCN9424-1024x768.jpg)</figure>
 
 #### **[Oran Mor](/go/oran-mor-glasgow-scotland/)**
 
@@ -649,7 +649,7 @@ Built in 1862 Oran Mor is an old church with a really cool bar and dining room! 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ac12b5c9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![willow tea rooms glasgow scotland](https://hotmamatravel.com/wp-content/uploads/2015/07/Willow-Tea-Rooms-1024x1024.jpg)</figure>
+<figure>![willow tea rooms glasgow scotland](/images/Willow-Tea-Rooms-1024x1024.jpg)</figure>
 
 #### **[Willow Tea Rooms](/go/willow-tea-rooms-glasgow-scotland/)**
 
@@ -669,7 +669,7 @@ Enjoy a fun afternoon tea at the famous Willow Tea Rooms on Buchanan Street, ins
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-54a757f6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/04/hilton-glasgow-grosvenor-glasgow-scotland.jpg)</figure>
+<figure>![](/images/hilton-glasgow-grosvenor-glasgow-scotland.jpg)</figure>
 
 #### **[Hilton Glasgow Grosvenor Hotel](/go/hilton-glasgow-grosvenor-hotel-glasgow-scotland/)**
 
@@ -682,7 +682,7 @@ Located in a historic building on the West End of Glasgow right on the corner of
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c70d5c48"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/04/radission-blu-glasgow-scotland.jpg)</figure>
+<figure>![](/images/radission-blu-glasgow-scotland.jpg)</figure>
 
 #### **[Radisson Blu Hotel](/go/radisson-blu-glasgow-scotland/)**
 
@@ -695,7 +695,7 @@ If you would like to stay in the City Center, a great option is the Radisson Blu
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-fce2a3f2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/04/belhaven-hotel-family-room-glasgow-scotland.jpg)</figure>
+<figure>![](/images/belhaven-hotel-family-room-glasgow-scotland.jpg)</figure>
 
 #### **[The Belhaven Hotel](/go/belhaven-hotel-glasgow-scotland/)**
 
@@ -717,7 +717,7 @@ Located on the West End of Glasgow off Bryers Road, it looks over the beautiful 
 Glasgow is close to other points of interest outside the city and makes for fun day trips. If you are going to be in Scotland for a few days and plan on doing a lot of sightseeing, I recommend getting the Historic Scotland Explorer Pass. It is the most cost effective way to see some of the best Scotland attractions. You can customize your itinerary into 3 to 7 day passes.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b4ec9c08"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![discover scotland highland tours from glasgow scotland](https://hotmamatravel.com/wp-content/uploads/2015/07/IMG_6941-1024x768.jpg)</figure>
+<figure>![discover scotland highland tours from glasgow scotland](/images/IMG_6941-1024x768.jpg)</figure>
 
 #### **[Discover Scotland](/go/discover-scotland-tours-glasgow-scotland/)**
 
@@ -727,14 +727,14 @@ Discover Scotland is a fabulous tour company that takes you all over with set it
 
 [See photos, reviews &amp; more](/go/discover-scotland-tours-glasgow-scotland/)
 
-<figure>![visiting glencoe scotland with discover scotland highland tours from glasgow](https://hotmamatravel.com/wp-content/uploads/2015/07/DSCN9743-1024x768.jpg)</figure>
+<figure>![visiting glencoe scotland with discover scotland highland tours from glasgow](/images/DSCN9743-1024x768.jpg)</figure>
 
-<figure>![family friendly inveraray castle scotland tours](https://hotmamatravel.com/wp-content/uploads/2015/07/DSCN9683-1024x768.jpg)</figure>
+<figure>![family friendly inveraray castle scotland tours](/images/DSCN9683-1024x768.jpg)</figure>
 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-76b2b78d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![riding scotrail with kids from glasgow scotland](https://hotmamatravel.com/wp-content/uploads/2015/07/DSCN0052-1024x768.jpg)</figure>
+<figure>![riding scotrail with kids from glasgow scotland](/images/DSCN0052-1024x768.jpg)</figure>
 
 #### [Ride Scotrail](/go/scotrail-glasgow-scotland/)
 
@@ -747,7 +747,7 @@ Scotrail is simple, efficient and inexpensive. It only took us 45 minutes by rai
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ca90b334"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![Edinburgh Castle Visitors Guide with Kids](https://hotmamatravel.com/wp-content/uploads/2017/03/visit-edinburgh-castle-with-kids-scotland.png)</figure>
+<figure>![Edinburgh Castle Visitors Guide with Kids](/images/visit-edinburgh-castle-with-kids-scotland.png)</figure>
 
 #### **[Edinburgh Castle](/go/edinburgh-castle-edinburgh-scotland/)**
 
@@ -760,7 +760,7 @@ If it is your first time to Edinburgh, chances are you came to see Edinburgh Cas
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-72c63c25"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![Stirling Castle Scotland with kids Visitor Guide](https://hotmamatravel.com/wp-content/uploads/2017/01/stirling-castle-with-kids-scotland.png)</figure>
+<figure>![Stirling Castle Scotland with kids Visitor Guide](/images/stirling-castle-with-kids-scotland.png)</figure>
 
 #### **[Stirling Castle](/go/stirling-castle-stirling-scotland/)**
 
@@ -797,5 +797,5 @@ All in all, Glasgow is an amazing and complex city! It will take me a few posts 
 
 **Like it? Pin it!**
 
-<figure>![everything you need to know about visiting glasgow scotland with kids](https://hotmamatravel.com/wp-content/uploads/2016/09/GWK-8-200x300.jpg)</figure>
+<figure>![everything you need to know about visiting glasgow scotland with kids](/images/GWK-8-200x300.jpg)</figure>
 </div></section>

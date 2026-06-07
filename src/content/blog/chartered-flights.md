@@ -97,5 +97,5 @@ Bespoke travel has truly taken flight.
 
 **Like it? Pin it!**
 
-<figure id="How-chartered-flights-can-optimize-family-travel">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/How-chartered-flights-can-optimize-family-travel-200x300.jpg)](/images/How-chartered-flights-can-optimize-family-travel.jpg)</figure>
+<figure id="How-chartered-flights-can-optimize-family-travel">[![](/images/How-chartered-flights-can-optimize-family-travel-200x300.jpg)](/images/How-chartered-flights-can-optimize-family-travel.jpg)</figure>
 </div></section>

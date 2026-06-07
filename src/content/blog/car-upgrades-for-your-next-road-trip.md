@@ -112,5 +112,5 @@ As you gear up for your next road trip, these eight car upgrades are your ticket
 
 Like it? Pin it!
 
-<figure id="8-car-upgrades-for-your-next-road-trip">[![](https://hotmamatravel.com/wp-content/uploads/2023/11/8-car-upgrades-for-your-next-road-trip-1-200x300.jpg)](/images/8-car-upgrades-for-your-next-road-trip-1.jpg)</figure>
+<figure id="8-car-upgrades-for-your-next-road-trip">[![](/images/8-car-upgrades-for-your-next-road-trip-1-200x300.jpg)](/images/8-car-upgrades-for-your-next-road-trip-1.jpg)</figure>
 </div></div>

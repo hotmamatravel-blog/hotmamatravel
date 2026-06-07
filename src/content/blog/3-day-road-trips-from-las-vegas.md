@@ -80,7 +80,7 @@ View this post as a Google Web Story, here: [**Las Vegas Road Trips**](/web-stor
 
 Oatman is this cute ghost town off one of the most scenic stretches of road on historic Route 66. There are wild donkeys that literally roam the streets, an old mine to walk through, and quite a few restaurants and gift shops to keep you and your family busy for several hours exploring the city of Oatman.
 
-<figure id="burros-oatman-arizona">[![Wild Burros in Oatman Arizona](https://hotmamatravel.com/wp-content/uploads/2024/05/oatman-arizona.jpg)](/wp-content/uploads/2024/05/oatman-arizona.jpg)<figcaption class="wp-element-caption">Like I said, there are donkeys EVERYWHERE and the kids just loved it!</figcaption></figure>
+<figure id="burros-oatman-arizona">[![Wild Burros in Oatman Arizona](/images/oatman-arizona.jpg)](/images/oatman-arizona.jpg)<figcaption class="wp-element-caption">Like I said, there are donkeys EVERYWHERE and the kids just loved it!</figcaption></figure>
 
 We visited Oatman on our [**Route 66 family road trip**](/route-66-family-road-trip-itinerary/), so you can read more details about the history of the town and our experience [**HERE**](/route-66-kingman-classic-stops/). Needless to say, this is a unique place to visit near Vegas by car that really couldn't be more different from the glitz and glam of Las Vegas.
 
@@ -94,7 +94,7 @@ You should plan to eat lunch in town and spend a few hours exploring before cont
 
 In less than an hour you will be at your destination - a wild, pirate-themed resort situated on the Colorado River just north of popular Lake Havasu in an area called Topock. Technically, Pirate Cove Resort is just across the river and on the California side (hence the address is in the city of Needles, but this is still generally considered "Topock".
 
-<figure>[![Topock Arizona Road Trips from Las Vegas](https://hotmamatravel.com/wp-content/uploads/2024/05/Topock-arizona.jpg)](/wp-content/uploads/2024/05/Topock-arizona.jpg)</figure>
+<figure>[![Topock Arizona Road Trips from Las Vegas](/images/Topock-arizona.jpg)](/images/Topock-arizona.jpg)</figure>
 
 We haven't stayed at Pirate Cove Resort ourselves, but we got a strong recommendation to stay here from a family friend with two young children. There is so much to do here that is fun for kids and adults, with everything from water sports activities (you can rent boats and jet skis) to off-roading or just lounging by the river.
 
@@ -126,7 +126,7 @@ On your scenic drive back to Las Vegas in time for [**dinner and a show**](/las-
 
 On the first day of this 3-day road trip from Vegas, you will first drive a couple of hours across the state line of Arizona and then Utah to reach the small town of St George. I recommend grabbing lunch in town, and there are a few nice upscale options like [Painted Pony Restaurant](https://painted-pony.com/) and [Cliffside Restaurant](https://www.cliffsiderestaurant.com/), or you can grab a cheap bite at the local Cracker Barrel.
 
-<figure id="st-george-utah-road-trip">[![Road Trips from Las Vegas in St. George Utah](https://hotmamatravel.com/wp-content/uploads/2024/05/st-george-arizona.jpg)](/wp-content/uploads/2024/05/st-george-arizona.jpg)</figure>
+<figure id="st-george-utah-road-trip">[![Road Trips from Las Vegas in St. George Utah](/images/st-george-arizona.jpg)](/images/st-george-arizona.jpg)</figure>
 
 Next, you will drive less than 10 minutes to reach the Pioneer Hills Trailhead at the [Red Cliffs National Conservation Area](https://www.blm.gov/programs/national-conservation-lands/utah/red-cliffs-nca) for a short afternoon hike. Enjoy the scenery of this mild hike and take some lovely photos of yourself in the great outdoors with red sand and distinct desert plants and animals. Just remember to bring some bottled water!
 
@@ -138,7 +138,7 @@ After your hike at Red Cliffs, you will drive for less than an hour to reach you
 
 Depending on the time of year, you may also want to glamp and soak up your outdoor adventure in Zion. If you would like to know where you can have an amazing glamping experience, check out my post, [**Mind-Blowing Glamping Sites in Zion National Park**](/glamping-zion-national-park/).
 
-<figure id="zion-utah-road-trip">[![Zion National Park Utah](https://hotmamatravel.com/wp-content/uploads/2024/05/zion-utah.jpg)](/wp-content/uploads/2024/05/zion-utah.jpg)</figure>
+<figure id="zion-utah-road-trip">[![Zion National Park Utah](/images/zion-utah.jpg)](/images/zion-utah.jpg)</figure>
 
 ### Day 2: Explore [Zion National Park](/go/zion-national-park-utah/)
 
@@ -182,13 +182,13 @@ As an alternative, you can drive there, but why would you want to do that when y
 
 The views of the South Rim are just spectacular. I think this photo speaks for itself, which is one we took on our latest trip there.
 
-<figure id="grand-canyon-arizona">[![Grand Canyon Southern Rim Arizona](https://hotmamatravel.com/wp-content/uploads/2024/05/grand-canyon-arizona.jpg)](/wp-content/uploads/2024/05/grand-canyon-arizona.jpg)</figure>
+<figure id="grand-canyon-arizona">[![Grand Canyon Southern Rim Arizona](/images/grand-canyon-arizona_202405.jpg)](/images/grand-canyon-arizona_202405.jpg)</figure>
 
 There are a few places to grab food at the South Rim before you set out on a hike or other adventure. We enjoyed views of the Canyon while eating a full service meal at the Arizona Steakhouse in the [Bright Angel Lodge](https://www.grandcanyonlodges.com/dine/).
 
 Be sure to leave a few minutes at the end of your visit (before the train picks up) to tour the historic and classy El Tovar Hotel.
 
-<figure id="grand-canyon-train-arizona">[![Grand Canyon Train](https://hotmamatravel.com/wp-content/uploads/2024/05/grand-canyon-train-arizona.jpg)](/wp-content/uploads/2024/05/grand-canyon-train-arizona.jpg)</figure>
+<figure id="grand-canyon-train-arizona">[![Grand Canyon Train](/images/grand-canyon-train-arizona.jpg)](/images/grand-canyon-train-arizona.jpg)</figure>
 
 ### Day 3: Drive back to Vegas
 
@@ -206,5 +206,5 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Best weekend road trips from Las Vegas your family will love.">[![Weekend road trips from  Las Vegas](https://hotmamatravel.com/wp-content/uploads/2024/05/Best-weekend-road-trips-from-Las-Vegas-200x300.jpg)](/images/Best-weekend-road-trips-from-Las-Vegas.jpg)</figure>
+<figure data-essb-pin-description="Best weekend road trips from Las Vegas your family will love.">[![Weekend road trips from  Las Vegas](/images/Best-weekend-road-trips-from-Las-Vegas-200x300.jpg)](/images/Best-weekend-road-trips-from-Las-Vegas.jpg)</figure>
 </div></div>

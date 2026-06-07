@@ -61,7 +61,7 @@ St. George is a beautiful city located in Southwestern Utah. It’s 4 ½ hours s
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1c3760fc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="snow-canyon-state-park-utah">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/snow-canyon-state-park-utah.jpg)](/wp-content/uploads/2022/04/snow-canyon-state-park-utah.jpg)</figure>
+<figure id="snow-canyon-state-park-utah">[![](/images/snow-canyon-state-park-utah.jpg)](/images/snow-canyon-state-park-utah.jpg)</figure>
 
 #### **[Snow Canyon State Park](/go/snow-canyon-state-park-utah/)**
 
@@ -72,7 +72,7 @@ People have been coming to hike in St. George for decades. Zion National Park an
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e0976ab8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Thunder-junction-all-abilities-park-utah">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/Thunder-junction-all-abilities-park-utah.jpg)](/wp-content/uploads/2022/04/Thunder-junction-all-abilities-park-utah.jpg)</figure>
+<figure id="Thunder-junction-all-abilities-park-utah">[![](/images/Thunder-junction-all-abilities-park-utah.jpg)](/images/Thunder-junction-all-abilities-park-utah.jpg)</figure>
 
 #### **[Thunder Junction All-Abilities Park](/go/thunder-junction-all-abilities-park-utah/)**
 
@@ -83,7 +83,7 @@ When it comes to playgrounds, swing sets, and woodchips, most city parks are ver
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b8260c66"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="red-hills-desert-garden-st-george-utah">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/red-hills-desert-garden-st-george-utah.jpg)](/wp-content/uploads/2022/04/red-hills-desert-garden-st-george-utah.jpg)</figure>
+<figure id="red-hills-desert-garden-st-george-utah">[![](/images/red-hills-desert-garden-st-george-utah.jpg)](/images/red-hills-desert-garden-st-george-utah.jpg)</figure>
 
 #### **[Red Hills Desert Garden](/go/red-hills-desert-garden-utah/)**
 
@@ -94,7 +94,7 @@ Desert plants are some of the most interesting plants in the world, and the Red 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f38910a8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="pioneer-park-st-george-utah">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/pioneer-park-st-george-utah.jpg)](/wp-content/uploads/2022/04/pioneer-park-st-george-utah.jpg)</figure>
+<figure id="pioneer-park-st-george-utah">[![](/images/pioneer-park-st-george-utah.jpg)](/images/pioneer-park-st-george-utah.jpg)</figure>
 
 #### **[Pioneer Park](/go/pioneer-park-utah/)**
 
@@ -105,7 +105,7 @@ A rock climber’s dream spot! Pioneer Park is a 52-acre community park that all
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-631f3455"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="sand-hollow-state-park-utah">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/sand-hollow-state-park-utah.jpg)](/wp-content/uploads/2022/04/sand-hollow-state-park-utah.jpg)</figure>
+<figure id="sand-hollow-state-park-utah">[![](/images/sand-hollow-state-park-utah.jpg)](/images/sand-hollow-state-park-utah.jpg)</figure>
 
 #### **[Sand Hollow State Park](/go/sand-hollow-state-park-utah/)**
 
@@ -124,7 +124,7 @@ While some of the already-mentioned activities are catered to younger children, 
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0c702ba3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="fiesta-fun-family-center-st-george-utah">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/fiesta-fun-family-center-st-george-utah.jpg)](/wp-content/uploads/2022/04/fiesta-fun-family-center-st-george-utah.jpg)</figure>
+<figure id="fiesta-fun-family-center-st-george-utah">[![](/images/fiesta-fun-family-center-st-george-utah.jpg)](/images/fiesta-fun-family-center-st-george-utah.jpg)</figure>
 
 #### [Fiesta Fun Family Center](/go/fiesta-fun-utah/)
 
@@ -135,7 +135,7 @@ Bowling, mini golf, laser tag, go karts, bumper boats, batting cages, and an arc
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4f1f56b2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="dinosaur-discovery-center-st-george-utah">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/dinosaur-discovery-center-st-george-utah.jpg)](/wp-content/uploads/2022/04/dinosaur-discovery-center-st-george-utah.jpg)</figure>
+<figure id="dinosaur-discovery-center-st-george-utah">[![](/images/dinosaur-discovery-center-st-george-utah.jpg)](/images/dinosaur-discovery-center-st-george-utah.jpg)</figure>
 
 #### **[St. George Dinosaur Discovery Site](/go/st-george-dinosaur-discovery-site-utah/)**
 
@@ -156,7 +156,7 @@ The museum’s motto is, “Discover, Imagine, and Create!” It features 12 exh
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a8c0907f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Sand-Hollow-Aquatic-Center-utah">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/Sand-Hollow-Aquatic-Center-utah.jpg)](/wp-content/uploads/2022/04/Sand-Hollow-Aquatic-Center-utah.jpg)</figure>
+<figure id="Sand-Hollow-Aquatic-Center-utah">[![](/images/Sand-Hollow-Aquatic-Center-utah.jpg)](/images/Sand-Hollow-Aquatic-Center-utah.jpg)</figure>
 
 #### **[Sand Hollow Aquatic Center](/go/sand-hollow-aquatic-center-utah/)**
 
@@ -194,7 +194,7 @@ For More Utah family travel tips, see guide on [mind-blowing glamping sites in Z
 
 **Like it? Pin it!**
 
-<div id="Top-10-activities-for-kids-st-george-utah" class="wp-block-image"><figure class="alignleft size-medium">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/Top-10-activities-for-kids-st-george-utah-200x300.jpg)](/images/Top-10-activities-for-kids-st-george-utah.jpg)</figure></div>
+<div id="Top-10-activities-for-kids-st-george-utah" class="wp-block-image"><figure class="alignleft size-medium">[![](/images/Top-10-activities-for-kids-st-george-utah-200x300.jpg)](/images/Top-10-activities-for-kids-st-george-utah.jpg)</figure></div>
 </div></section>
 
 **Author Bio**

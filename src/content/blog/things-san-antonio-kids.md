@@ -95,7 +95,7 @@ Luckily, for a big city we were able to accomplish even more than we thought and
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a0221c02-6d04-4405-8622-88521c95cf2a" id="uagb-section-0b23bced-f17e-4ec6-a576-a614710e86ec"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/rio-san-antonio-cruise-family-fun-activities.jpg)</figure>
+<figure>![](/images/rio-san-antonio-cruise-family-fun-activities.jpg)</figure>
 
 #### [Rio San Antonio Cruise](/go/rio-san-antonio-cruises-san-antonio-tx/)
 
@@ -110,7 +110,7 @@ Since it is hot during the day, especially during the summer when we visited, I 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c8f8c40e-b62b-4a87-958f-b33221389639" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/family-friendly-riverwalk-san-antonio-tx.jpg)</figure>
+<figure>![](/images/family-friendly-riverwalk-san-antonio-tx.jpg)</figure>
 
 #### **[Riverwalk](/go/riverwalk-san-antonio-tx/)**
 
@@ -123,7 +123,7 @@ A true South Texas treasure, the San Antonio Riverwalk is a 15-mile urban waterw
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-17dceabc-9027-4c33-8a78-2d8a7e12161e" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![family activity in san antonio city sightseeing bus](https://hotmamatravel.com/wp-content/uploads/2017/07/DSC02573-1024x683.jpg)</figure>
+<figure>![family activity in san antonio city sightseeing bus](/images/DSC02573-1024x683.jpg)</figure>
 
 #### **[City Sightseeing Bus](/go/city-sightseeing-bus-san-antonio-tx/)**
 
@@ -136,7 +136,7 @@ San Antonio is a big city, but an approachable city. Many of San Antonio's point
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-94c7d9f1-06df-4085-8082-292f2e4c2157" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/Morgans-Wounderland-San-Antonio.jpg)</figure>
+<figure>![](/images/Morgans-Wounderland-San-Antonio.jpg)</figure>
 
 #### **[Morgan’s Wonderland](/go/morgans-wonderland-san-antonio-tx/)**
 
@@ -149,7 +149,7 @@ Morgan’s Wonderland is a non-profit theme park created to be fully accessible 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-83e84808-6673-4996-9846-f0bdbfde5a81" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/natural-bridge-caverns-san-antonio.jpg)</figure>
+<figure>![](/images/natural-bridge-caverns-san-antonio.jpg)</figure>
 
 #### **[Natural Bridge Caverns](/go/natural-bridge-caverns-san-antonio-tx/)**
 
@@ -162,7 +162,7 @@ This city has it all - history, cool restaurants, live music and even caves! Yes
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1fbaa455-c63d-402d-9cd7-5a07447f3ef3" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/natural-bridge-wildlife-ranch-san-antonio.jpg)</figure>
+<figure>![](/images/natural-bridge-wildlife-ranch-san-antonio.jpg)</figure>
 
 #### **[Natural Bridge Wildlife Ranch](/go/natural-bridge-wildlife-ranch-san-antonio-tx/)**
 
@@ -175,7 +175,7 @@ Nearby the awesome Natural Bridge Caverns is the Natural Bridge Wildlife Ranch. 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ee36eb6f-5a40-4048-9a63-4fb6c874217c" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/san-antonio-zoo-san-antonio-tx.jpg)</figure>
+<figure>![](/images/san-antonio-zoo-san-antonio-tx.jpg)</figure>
 
 #### **[San Antonio Zoo](/go/san-antonio-zoo-san-antonio-tx/)**
 
@@ -188,7 +188,7 @@ At the San Antonio Zoo, you can visit over 750 animal species within 56-acres of
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e8cd1a64-a09a-4e89-8a5a-0b3fe6d1653b" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/seaworld-san-antonio.jpg)</figure>
+<figure>![](/images/seaworld-san-antonio.jpg)</figure>
 
 #### **[SeaWorld &amp; Aquatica San Antonio](/go/seaworld-aquatica-san-antonio-tx/)**
 
@@ -201,7 +201,7 @@ SeaWorld &amp; Aquatica has everything you need for a fun day in San Antonio wit
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c3adca11-54a3-4fad-a6dd-614eb3edd139" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/six-flags-fiesta-texas-san-antonio.jpg)</figure>
+<figure>![](/images/six-flags-fiesta-texas-san-antonio.jpg)</figure>
 
 #### **[Six Flags Fiesta Texas](/go/six-flags-fiesta-texas-san-antonio-tx/)**
 
@@ -214,7 +214,7 @@ If you are all about the thrills, then you might want to visit Six Flags. Here, 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8f63f012-b567-44ea-be7b-9697fc2aafe2" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/tower-americas-san-antonio.jpg)<figcaption>courtesy of U.S Air Force</figcaption></figure>
+<figure>![](/images/tower-americas-san-antonio.jpg)<figcaption>courtesy of U.S Air Force</figcaption></figure>
 
 #### **[Tower of the Americas](/go/tower-americas-san-antonio-tx/)**
 
@@ -235,7 +235,7 @@ Take in panorama views of San Antonio at the top of the Tower of the Americas. S
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6c1d2839-8610-48a8-b4df-e8a83a13dc52" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/san-antonio-family-activity-alamo.jpg)</figure>
+<figure>![](/images/san-antonio-family-activity-alamo.jpg)</figure>
 
 #### **[The Alamo](/go/the-alamo-san-antonio-tx/)**
 
@@ -252,7 +252,7 @@ The Alamo as well as the other four missions offer some free things to do in San
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ca8ba26d-3c12-4eb3-b4d6-46c486998aa9" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/Mission-National-Park-San-Antonio.jpg)</figure>
+<figure>![](/images/Mission-National-Park-San-Antonio.jpg)</figure>
 
 #### **[San Antonio Missions National Park](/go/san-antonio-missions-national-historical-park-san-antonio-tx/)**
 
@@ -265,7 +265,7 @@ A UNESCO World Heritage Site, this area holds four of the five Spanish missions 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ef4d62af-d9bc-4801-b2c1-e05b8f60d479" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/king-william-district-san-antonio.jpg)</figure>
+<figure>![](/images/king-william-district-san-antonio.jpg)</figure>
 
 #### **[King William Historic District](/go/king-william-historic-district-san-antonio-tx/)**
 
@@ -276,7 +276,7 @@ This area south of downtown San Antonio is known for its cluster of 19th-century
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-44a6a786-5b8b-4a46-8fe8-e333fef1004f" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/pearl-brewery-san-antonio.jpg)</figure>
+<figure>![](/images/pearl-brewery-san-antonio.jpg)</figure>
 
 #### **[Pearl Brewery](/go/pearl-brewery-san-antonio-tx/)**
 
@@ -291,7 +291,7 @@ There is a mini San Antonio splash zone that is very popular among the kids. It 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5c7d2f9c-835c-4305-bd3a-22ee016d55c6" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/spanish-governors-palace-san-antonio.jpg)</figure>
+<figure>![](/images/spanish-governors-palace-san-antonio.jpg)</figure>
 
 #### **[Spanish Governor’s Palace](/go/spanish-governors-palace-san-antonio-tx/)**
 
@@ -304,7 +304,7 @@ Built in 1749 this house served at the residence and working offices of the Span
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-99870926-f90a-401f-a6b5-0e7f8738eaa3" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/charline-mccombs-empire-theater-san-antonio.jpg)</figure>
+<figure>![](/images/charline-mccombs-empire-theater-san-antonio.jpg)</figure>
 
 #### **[Charline McCombs Empire Theater](/go/charline-mccombs-empire-theatre-san-antonio-tx/)**
 
@@ -317,7 +317,7 @@ Built in 1913 this historic theater was once the Rische’s Opera House. Now it 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d73f5bf3-a4d1-46a5-95b3-f604a4d14263" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/maverick-carter-house-san-antonio.jpg)</figure>
+<figure>![](/images/maverick-carter-house-san-antonio.jpg)</figure>
 
 #### **[Maverick Carter House](https://maverickcarterhouse.org/)**
 
@@ -338,7 +338,7 @@ This three-story limestone estate was built in 1893 for the Texas real estate de
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-798a4570-5deb-41be-b2d1-ceeece7492d0" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![family friendly restaurant in San Antonio Boiler House](https://hotmamatravel.com/wp-content/uploads/2017/07/DSC02651-1024x683.jpg)</figure>
+<figure>![family friendly restaurant in San Antonio Boiler House](/images/DSC02651-1024x683.jpg)</figure>
 
 #### **[Boiler House Texas Grill &amp; Wine Garden](/go/boiler-house-texas-grill-wine-garden-san-antonio-tx/)**
 
@@ -353,7 +353,7 @@ Happy hour is Monday through Friday from opening to 6:00pm, which is really long
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b756e937-d3eb-4a65-bd1c-4bc2c1d6c3f7" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/waxy-oconnors-san-antonio.jpg)</figure>
+<figure>![](/images/waxy-oconnors-san-antonio.jpg)</figure>
 
 #### **[Waxy O’Connor’s Irish Pub](/go/waxy-oconnors-riverwalk-san-antonio-tx/)**
 
@@ -366,7 +366,7 @@ You can’t go wrong with an Irish pub. I know it sounds kind of funny, but the 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3d5028b7-46ee-4f74-9ead-05b3ce006d9d" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/cafe-ole-san-antonio.jpg)<figcaption>Photo courtesy of Cafe Ole</figcaption></figure>
+<figure>![](/images/cafe-ole-san-antonio.jpg)<figcaption>Photo courtesy of Cafe Ole</figcaption></figure>
 
 #### **[Café Ole](/go/cafe-ole-san-antonio-tx/)**
 
@@ -379,7 +379,7 @@ Located right on the Riverwalk, Cafe Ole features Tex-Mex cuisine and great marg
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-054298c9-3eda-497f-9212-85a5f3f14c34" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/casa-rio-san-antonio.jpg)</figure>
+<figure>![](/images/casa-rio-san-antonio.jpg)</figure>
 
 #### **[Casa Rio](/go/casa-rio-san-antonio-tx/)**
 
@@ -392,7 +392,7 @@ This was one of the first restaurants to open on the Riverwalk and it is probabl
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d8f93ebc-d4d7-4547-95b3-6a6c66bd9563" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/buckhorn-saloon-museum-san-antonio.jpg)</figure>
+<figure>![](/images/buckhorn-saloon-museum-san-antonio.jpg)</figure>
 
 #### **[The Buckhorn Saloon and Museum](/go/the-buckhorn-saloon-museum-san-antonio-tx/)**
 
@@ -413,7 +413,7 @@ Opening in 1881, The Buckhorn Saloon is a historic site, an attraction and a coo
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1146f094-b59a-4374-874f-c9018c2d7c7c" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/best-western-plus-sunset-suites-rivewalk-family-hotel-san-antonio.jpg)</figure>
+<figure>![](/images/best-western-plus-sunset-suites-rivewalk-family-hotel-san-antonio.jpg)</figure>
 
 #### **[Best Western Plus Sunset Suites Riverwalk](/go/best-western-plus-sunset-suites-riverwalk-san-antonio-tx/)**
 
@@ -426,7 +426,7 @@ This is a big city, so there are many options for where to stay in San Antonio. 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-419f0c26-57a4-47bb-8c0e-70c4601c7db9" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/emma-hotel-san-antonio.jpg)</figure>
+<figure>![](/images/emma-hotel-san-antonio.jpg)</figure>
 
 #### **[Hotel Emma](/go/hotell-emma-san-antonio-tx/)**
 
@@ -439,7 +439,7 @@ This hotel is a landmark in San Antonio. Hotel Emma is housed in what was once t
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8c3de720-7b61-4b2b-937e-51cad2c17bf3" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/05/emily-morgan-hotel-san-antonio.jpg)</figure>
+<figure>![](/images/emily-morgan-hotel-san-antonio.jpg)</figure>
 
 #### [Emily Morgan Hotel- A Doubletree by Hilton](/go/emily-morgan-hotel-san-antonio-tx/)
 
@@ -467,5 +467,5 @@ We really enjoyed the vibe in San Antonio and would love to go back to enjoy mor
 
 **Like it? Pin it!**
 
-<div class="wp-block-image"><figure class="alignleft size-medium">![family travel guide: San Antonio, Texas](https://hotmamatravel.com/wp-content/uploads/2017/07/SAN-ANTONIO-200x300.png)</figure></div>
+<div class="wp-block-image"><figure class="alignleft size-medium">![family travel guide: San Antonio, Texas](/images/SAN-ANTONIO-200x300.png)</figure></div>
 </div></section>

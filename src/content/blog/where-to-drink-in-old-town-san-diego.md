@@ -24,52 +24,52 @@ Okay, I don’t drink tequila here, but this where we kicks off. It has become t
 
 *Since this post O'Hungry's has gone under new ownership. I will post updated chances after my next visit.
 
-[![Where to drink in Old San Diego](https://hotmamatravel.com/wp-content/uploads/2014/07/IMG_4242-1024x768.jpg)](/where-to-drink-in-old-town-san-diego/)
+[![Where to drink in Old San Diego](/images/IMG_4242-1024x768.jpg)](/where-to-drink-in-old-town-san-diego/)
 
-[![Where to drink in Old San Diego](https://hotmamatravel.com/wp-content/uploads/2014/07/DSCN6833-1024x683.jpg)](/where-to-drink-in-old-town-san-diego/)
+[![Where to drink in Old San Diego](/images/DSCN6833-1024x683.jpg)](/where-to-drink-in-old-town-san-diego/)
 
 ## **Fiesta De Reyes/Casa De Reyes: **
 
 
 This is where the party is at. Live music, dancing, shops and more, this is our favorite spot to hangout in Old Town. Within Fiesta De Reyes you can shop, watch the performances and enjoy giant beers or mixed cocktails. There is also a place to beer taste from local breweries.
 
-[![Where to drink in Old San Diego](https://hotmamatravel.com/wp-content/uploads/2014/07/DSCN4300-1024x683.jpg)](/where-to-drink-in-old-town-san-diego/)
+[![Where to drink in Old San Diego](/images/DSCN4300-1024x683.jpg)](/where-to-drink-in-old-town-san-diego/)
 
 In the restaurant Casa De Reyes, which is within Fiesta De Reyes, you can feast on delicious Mexican comfort food and the bar is fully loaded. The options of tequila are fantastic. I know it a bit pricey, but I encourage you to try a shot of the Clase Azul Tequila. It is so buttery and delicious.
 
-[![Where to drink in Old San Diego](https://hotmamatravel.com/wp-content/uploads/2014/07/DSCN6901-684x1024.jpg)](/where-to-drink-in-old-town-san-diego/)
+[![Where to drink in Old San Diego](/images/DSCN6901-684x1024.jpg)](/where-to-drink-in-old-town-san-diego/)
 
 The main reason we go to Casa De Reyes is for the El Jefe Margarita served with our choice of beer plopped inside the jumbo glass. It is fun. It is jumbo. It is yummy.
 
-[![Where to drink in Old San Diego](https://hotmamatravel.com/wp-content/uploads/2014/06/DSCN1538-1024x683.jpg)](/where-to-drink-in-old-town-san-diego/)
+[![Where to drink in Old San Diego](/images/DSCN1538-1024x683_201406.jpg)](/where-to-drink-in-old-town-san-diego/)
 
 ## **Old Town Mexican Café:**
 
 
 With a great selection of tequila and scrumptious street tacos, this makes for a fun little pit stop. We usually don’t spend a huge amount of time at this establishment; because Fiesta De Reyes is has so much entertainment, but it is definitely worth the stop. The also host tequila dinners which pair various brands of features tequila with a coursed meal.The kids will enjoy watching the ladies make homemade tortillas as the parents enjoy a libation.
 
-[![Where to drink in Old San Diego](https://hotmamatravel.com/wp-content/uploads/2014/07/DSCN6900-1024x768.jpg)](/where-to-drink-in-old-town-san-diego/)
+[![Where to drink in Old San Diego](/images/DSCN6900-1024x768.jpg)](/where-to-drink-in-old-town-san-diego/)
 
 ## **El Agave:**
 
 
 If you love tequila or really want to try, I encourage you to check out this place. They have over 2000 different tequilas displayed throughout the restaurant, making it a tequila museum of sorts. They even have their own brand of tequila. It is up a ways from the main plaza and not extremely kid- friendly, so we don’t make trek up there often.
 
-[![Where to drink in Old San Diego](https://hotmamatravel.com/wp-content/uploads/2014/06/El-Agave-2-1024x667.jpg)](/images/El-Agave-2.jpg)
+[![Where to drink in Old San Diego](/images/El-Agave-2-1024x667.jpg)](/images/El-Agave-2.jpg)
 
 ## Tequila Factory:
 
 
 Tequila Factory is connected to the Hacienda, the hotel we always stay at while in town. If you like to read more about where to stay, click HERE. Anyway, this restaurant has spectacular views of old town and a great buffet breakfast and Bloody Marys. Be sure to check out promotions, because we often get tickets for a complimentary cocktail and breakfast. The problem is that we often dine here after we check out, but start having so much fun we end up calling into work and staying another night. We are naughty.
 
-[![Where to drink in Old San Diego](https://hotmamatravel.com/wp-content/uploads/2014/07/DSCN7588-1024x768.jpg)](/where-to-drink-in-old-town-san-diego/)
+[![Where to drink in Old San Diego](/images/DSCN7588-1024x768.jpg)](/where-to-drink-in-old-town-san-diego/)
 
-[![Where to drink in Old San Diego](https://hotmamatravel.com/wp-content/uploads/2014/07/IMG_0132-1024x1024.jpg)](/where-to-drink-in-old-town-san-diego/)
+[![Where to drink in Old San Diego](/images/IMG_0132-1024x1024.jpg)](/where-to-drink-in-old-town-san-diego/)
 
 ## Barra Barra Saloon:
 
 
-[![Where to drink in Old San Diego](https://hotmamatravel.com/wp-content/uploads/2014/07/DSCN4359-1024x768.jpg)](/where-to-drink-in-old-town-san-diego/)
+[![Where to drink in Old San Diego](/images/DSCN4359-1024x768.jpg)](/where-to-drink-in-old-town-san-diego/)
 
 ## That's A Wrap!
 

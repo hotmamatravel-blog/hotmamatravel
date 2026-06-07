@@ -22,7 +22,7 @@ So where should you start? Start here with this list of 14 breweries in Temecula
 <div class="uagb-separator"></div></div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4fa992e7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="aftershock-brewing-company-breweries-temecula">[![](https://hotmamatravel.com/wp-content/uploads/2021/06/aftershock-brewing-company-breweries-temecula.jpg)](/wp-content/uploads/2021/06/aftershock-brewing-company-breweries-temecula.jpg)</figure>
+<figure id="aftershock-brewing-company-breweries-temecula">[![](/images/aftershock-brewing-company-breweries-temecula.jpg)](/images/aftershock-brewing-company-breweries-temecula.jpg)</figure>
 
 #### [Aftershock Brewing Co.](/go/aftershock-brewing-co-temecula-ca/)
 
@@ -155,7 +155,7 @@ At [Relentless Brewing Company](https://www.relentlessbrewingandspirits.com/) co
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bb473b52"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="stone-church-brewing-temecula-breweries">[![](https://hotmamatravel.com/wp-content/uploads/2021/06/stone-church-brewing-temecula-breweries.jpg)](/wp-content/uploads/2021/06/stone-church-brewing-temecula-breweries.jpg)</figure>
+<figure id="stone-church-brewing-temecula-breweries">[![](/images/stone-church-brewing-temecula-breweries.jpg)](/images/stone-church-brewing-temecula-breweries.jpg)</figure>
 
 #### [Stone Church Brewing](/go/stone-church-brewing-temecula-ca/)
 
@@ -338,7 +338,7 @@ Kids and adults alike will love the retro-style arcade games, foosball tables an
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-865b68a5"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="8-bit-brewing-company-temecula-breweries">[![](https://hotmamatravel.com/wp-content/uploads/2021/06/8-bit-brewing-company-temecula-breweries.jpg)](/wp-content/uploads/2021/06/8-bit-brewing-company-temecula-breweries.jpg)</figure>
+<figure id="8-bit-brewing-company-temecula-breweries">[![](/images/8-bit-brewing-company-temecula-breweries.jpg)](/images/8-bit-brewing-company-temecula-breweries.jpg)</figure>
 
 #### [8 Bit Brewing Company](/go/8-bit-brewing-company-temecula-ca/)
 
@@ -402,5 +402,5 @@ While you are in Temecula, you want to check out the wineries and stay a while. 
 
 **Like it? Pin it!**
 
-<figure>[![](https://hotmamatravel.com/wp-content/uploads/2021/06/best-temecula-breweries-200x300.jpg)](/images/best-temecula-breweries.jpg)</figure>
+<figure>[![](/images/best-temecula-breweries-200x300.jpg)](/images/best-temecula-breweries.jpg)</figure>
 </div></section>

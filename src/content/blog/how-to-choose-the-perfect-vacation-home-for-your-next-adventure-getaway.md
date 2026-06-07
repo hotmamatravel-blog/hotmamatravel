@@ -130,5 +130,5 @@ In conclusion, choosing the right vacation home can greatly enhance your adventu
 
 Like it? Pin it!
 
-<figure id="how-to-choose-the-perfect-vacation-home-for-your-next-family-adventure">[![](https://hotmamatravel.com/wp-content/uploads/2023/12/how-to-choose-the-perfect-vacation-home-for-your-next-family-adventure-200x300.jpg)](/images/how-to-choose-the-perfect-vacation-home-for-your-next-family-adventure.jpg)</figure>
+<figure id="how-to-choose-the-perfect-vacation-home-for-your-next-family-adventure">[![](/images/how-to-choose-the-perfect-vacation-home-for-your-next-family-adventure-200x300.jpg)](/images/how-to-choose-the-perfect-vacation-home-for-your-next-family-adventure.jpg)</figure>
 </div></div>

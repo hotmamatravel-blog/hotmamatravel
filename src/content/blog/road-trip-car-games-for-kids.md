@@ -589,5 +589,5 @@ There you have it, I hope you found my list helpful for preparing for your next 
 
 **Like it? Pin it!**
 
-<figure>![Genius List of Kids Games for Car Trips](https://hotmamatravel.com/wp-content/uploads/2020/02/List-best-car-trip-games-for-kids-200x300.png)</figure>
+<figure>![Genius List of Kids Games for Car Trips](/images/List-best-car-trip-games-for-kids-200x300.png)</figure>
 </div></section>

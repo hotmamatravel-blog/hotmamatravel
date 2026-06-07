@@ -18,7 +18,7 @@ However, the journey to Williams takes about 8 hours from our home town, so we d
 
 After lunch, light shopping and petting of some wild burros, we got back on the road en route to Williams, Arizona, taking the scenic old Route 66 through the winding desert roads. **It was absolutely gorgeous in early spring with wildflowers everywhere!**
 
-![Route 66 in Arizona Springtime flowers](https://hotmamatravel.com/wp-content/uploads/2019/04/driving-historic-route-66-arizona.jpg)
+![Route 66 in Arizona Springtime flowers](/images/driving-historic-route-66-arizona.jpg)
 
 As the desert landscape slowly transitioned to Ponderosa Pine forest, the excitement was building. We were getting closer and were *so ready* to get out of the car and drop our bags at the Best Western Plus Inn of Williams.
 
@@ -34,7 +34,7 @@ As the desert landscape slowly transitioned to Ponderosa Pine forest, the excite
 
 If you have ever traveled long distances with kids, you know what a relief it is to finally reach your destination. We were tired, hungry and ready to check in. As the automatic doors opened to the hotel the sweet tunes of what sounded like live music wafted through the lobby. If you know us or have seen much on our content, we are a little OBSESSED with live music. (See our favorite kid-friendly places with live music across the US [**HERE**](/top-kid-friendly-places-live-music-usa/)).
 
-![Family posing outside Best Western Plus Inn of Williams](https://hotmamatravel.com/wp-content/uploads/2019/04/williams-az-with-kids.jpg)
+![Family posing outside Best Western Plus Inn of Williams](/images/williams-az-with-kids.jpg)
 
 With my legs stiff and hair a *mess* from the long drive, I rushed towards the sounds of guitar strings with a new found energy.  YES! It was dinner time and they had live music right upon entering the lobby of the hotel. Beyond that I could see the flickering of what appeared to be a fire pit on the patio.  I knew instantly that this was going to be a great stay!
 
@@ -43,7 +43,7 @@ With my legs stiff and hair a *mess* from the long drive, I rushed towards the s
 
 The Best Western Williams, AZ is located right off Interstate 40 along the historic Route 66, just about 5 minutes from downtown Williams. It is a great choice for those planning to ride the train from Williams Depot into the Southern Rim of the Grand Canyon (which we did and you can read more about below). *You can check rates read more reviews on Best Western's website* **[HERE](/go/best-western-plus-inn-williams/)**.
 
-![Exterior of Best Western Williams Arizona](https://hotmamatravel.com/wp-content/uploads/2019/04/best-western-inn-williams-az-exterior.jpg)
+![Exterior of Best Western Williams Arizona](/images/best-western-inn-williams-az-exterior.jpg)
 
 We’ve also stayed at the Grand Canyon Railway hotel for the **[Polar Express Train](/polar-express-in-arizona/)**, but besides the convenience factor of being *at* Williams Depot, there are several reasons we’d actually prefer the Best Western Plus Inn of Williams (keep reading to find out why!). It is also a great family hotel near Bearizona, which is located just 10 minutes away (5 miles). Check rates [**HERE**](/go/best-western-plus-inn-williams/).
 
@@ -52,19 +52,19 @@ We’ve also stayed at the Grand Canyon Railway hotel for the **[Polar Express T
 
 The Western View Steakhouse is the restaurant onsite at the Best Western Plus Inn of Williams. It is located right behind the main lobby on the other side of the grand dual fire place, with sweeping views of the Ponderosa Pine Forest.
 
-![Western View Steakhouse in Williams AZ](https://hotmamatravel.com/wp-content/uploads/2019/04/western-view-steakhouse-bw-plus-inn-williams-az.jpg)
+![Western View Steakhouse in Williams AZ](/images/western-view-steakhouse-bw-plus-inn-williams-az.jpg)
 
 The Western View Steakhouse is open daily for the complimentary breakfast from 6:30AM to 9:30AM as well as nightly for dinner service from 4:00PM to 10:00PM. This is where we enjoyed four meals of our trip, including two breakfasts and, yes, two dinners.
 
 We did make it down for our yummy breakfast each morning, but barely. The hubby would take the kids down first, so I could finish getting myself and the baby ready in the room. Mornings are rough for a family like ours and that is what is so nice about having a complimentary breakfast inside your hotel.
 
-![Kids getting free breakfast at Best Western Plus](https://hotmamatravel.com/wp-content/uploads/2019/04/kids-breakfast-best-western-plus-inn-williams.jpg)
+![Kids getting free breakfast at Best Western Plus](/images/kids-breakfast-best-western-plus-inn-williams.jpg)
 
 You can sprinkle down at your leisure without getting the kids all *hangry* (hungry and angry) waiting for mom to get ready. You can also bring goodies up to your room (if you aren't completely ready to commit to the day ahead).
 
 As you may have guessed from our first impressions, we definitely had dinner at the Western View Steakhouse the night we checked in. We excitedly settled into a table right in front of **[Omar Mondragon De Leon](https://www.williamsnews.com/news/2009/apr/14/bringing-great-music-to-williams-for-14-years/)**, the live musician for the evening who has been entertaining visitors to Williams for over two decades.
 
-![Omar Mondragon de Leon live music on guitar](https://hotmamatravel.com/wp-content/uploads/2019/04/live-music-williams-az-omar-mondragon-de-leon.jpg)
+![Omar Mondragon de Leon live music on guitar](/images/live-music-williams-az-omar-mondragon-de-leon.jpg)
 
 Let me tell you, we had a blast! The wine was flowing, the filet mignon melted in my mouth, the staff was beyond accommodating and sweet (*shout out* to Esteban our server and Sergio the bartender, you guys were GREAT!) and the music was on point. My son, Kevin, even claimed Omar was his favorite live musician we’ve *ever* seen, and that says a lot considering how much we [**enjoy live music with our kids**](/top-kid-friendly-places-live-music-usa/).
 
@@ -84,11 +84,11 @@ The **swimming pool** was closed due to the cold temperatures during our stay, b
 
 The **fire pit**, open from 4:00PM to 9:00PM, was a definite highlight for us during our stay. After dinner both nights we took our drink and sat around the roaring fire in the cold night to chat some more and meet fellow travelers. You can hear the music from the patio with crystal clear speakers, too, so you don't miss out of the fun inside!
 
-![Fire pit at BW Plus Inn of Williams](https://hotmamatravel.com/wp-content/uploads/2019/04/outdoor-fire-pit-best-western-plus-williams-arizona.jpg)
+![Fire pit at BW Plus Inn of Williams](/images/outdoor-fire-pit-best-western-plus-williams-arizona.jpg)
 
 What I love about staying at Best Western Plus is that there is almost always a **guest laundry facility**, which is so nice when you are traveling with kids. Since we were on a road trip with a big family, I had to pack as light as possible. Well, kids are messy. We had a liquid fiasco, taking out two clean outfits and a couple jackets on day one, so having a guest laundry facility onsite really helped a mama out.
 
-![Inside hotel room at BW Plus Inn of Williams](https://hotmamatravel.com/wp-content/uploads/2019/04/hotel-room-best-western-plus-inn-williams-az.jpg)
+![Inside hotel room at BW Plus Inn of Williams](/images/hotel-room-best-western-plus-inn-williams-az.jpg)
 
 If you’re the type that likes to get that daily workout in, then you’ll appreciate the onsite **fitness center**, open 24 hours daily. My kids actually enjoy gyms, so I will take them down with me sometimes to squeeze in a morning sweat.
 
@@ -103,15 +103,15 @@ The historic Williams Depot, built in 1901, is located less than a mile down the
 
 We *love* trains, so we were really excited to take The Grand Canyon Railway for a two hour journey to the South Rim of the Grand Canyon National Park.
 
-![Old train at Williams Depot](https://hotmamatravel.com/wp-content/uploads/2019/04/historic-train-grand-canyon-railway-williams-depot.jpg)
+![Old train at Williams Depot](/images/historic-train-grand-canyon-railway-williams-depot.jpg)
 
 I definitely recommend this mode of transportation when traveling with kids, because it takes stress away from the parents trying to navigate to the Grand Canyon, plus there are refreshments, entertainment and lovely views along the way.
 
-![Lovely view from train to Grand Canyon](https://hotmamatravel.com/wp-content/uploads/2019/04/view-from-grand-canyon-train-williams-az.jpg)
+![Lovely view from train to Grand Canyon](/images/view-from-grand-canyon-train-williams-az.jpg)
 
 The cost of the journey depends on the class of service purchased, but all class prices include your entry into the Grand Canyon National Park. There are six classes to choose from: Luxury Parlor, Luxury Dome, Observation Dome, First Class, Coach and Pullman. However, The Luxury Parlor and Luxury Dome do not allow children and the Observation Dome doesn’t allow kids under the age of 2.
 
-![Grand Canyon Railway Train cars](https://hotmamatravel.com/wp-content/uploads/2019/04/grand-canyon-railway-train.jpg)
+![Grand Canyon Railway Train cars](/images/grand-canyon-railway-train.jpg)
 
 We were on a budget and opted for the Pullman Car, which I have to say was fine. More than fine, actually, we *loved* it there. I love history and the car we were in happened to be their oldest car, almost 100 years old from the 1920’s. Our guide along the way was **Breanna** and she was so funny, great with the kids and gave us tons of useful information, which made our visit to the Grand Canyon with kids extra special and enjoyable. Plus, we had fresh air, entertainment, snacks and beer. It was all good and I would *definitely* do the Grand Canyon Railway train again.
 
@@ -124,7 +124,7 @@ We were on a budget and opted for the Pullman Car, which I have to say was fine.
 
 First let me just say that the South Rim is absolutely gorgeous. We also lucked out on the weather - I mean, this might be my favorite photo we've taken of all time!
 
-![Stunning view from Grand Canyon South Rim](https://hotmamatravel.com/wp-content/uploads/2019/04/beautiful-grand-canyon-south-rim-scenic.jpg)
+![Stunning view from Grand Canyon South Rim](/images/beautiful-grand-canyon-south-rim-scenic.jpg)
 
 If you are coming by train, the train will let you off at the base of the historic EL Tovar Hotel. There are stairs and ramp leading up to the hotel. There is also a complimentary handicap shuttle for those requiring assistance. Here are some options upon arriving at the train depot:
 
@@ -164,7 +164,7 @@ The Train arrives at the Grand Canyon Depot around 11:45AM, just in time for lun
 
 **Arizona Room at The Bright Angel Lodge - **We are *not *those people. We thrive on a full, sit-down dining experience. Gratefully, our guide on the train, Breanna, told us about the Arizona Room at the Bright Angel Lodge. She told us that it was only restaurant that had a view of the Grand Canyon from *every* table and wasn’t overly expensive. She also warned that the dining room gets busy and there is often a wait. So thanks to her advice, we made a beeline for the Arizona Room as soon as the train arrived.
 
-![Plates of food at Arizona Room at Grand Canyon](https://hotmamatravel.com/wp-content/uploads/2019/04/lunch-arizona-room-grand-canyon-south-rim.jpg)
+![Plates of food at Arizona Room at Grand Canyon](/images/lunch-arizona-room-grand-canyon-south-rim.jpg)
 
 We took our time with lunch. We had a lovely table, fabulous food (I recommend the Green Chili Tamales) and cold beers while gazing at the majesty of the Grand Canyon with small children from a safe environment.
 
@@ -177,7 +177,7 @@ We took our time with lunch. We had a lovely table, fabulous food (I recommend t
 
 We used our last couple hours to walk carefully along the South Rim of the Grand Canyon. Now, much of the rim in this area has guard rails, yet people still manage to fall to their deaths every year with two of them happening within a couple days of our visit. So please be careful while visiting the Grand Canyon with kids. As our guide told us, “you may be on vacation, but gravity still works here.”
 
-![Family at Grand Canyon South Rim](https://hotmamatravel.com/wp-content/uploads/2019/04/family-posing-grand-canyon-fun.jpg)
+![Family at Grand Canyon South Rim](/images/family-posing-grand-canyon-fun.jpg)
 
 We told the kids they had to **hold onto an adult’s hand the whole time** and were not allowed to walk ahead without us. We felt very safe and did not get too close to the edge for any of our photo opps.
 
@@ -200,14 +200,14 @@ All in all we had a great day with plenty of time to explore the magnificent Gra
  	- If taking The Train, don’t venture too far from depot as the train departs at 3:30PM with or without you.
 
 
-**![Funny kids at Grand Canyon](https://hotmamatravel.com/wp-content/uploads/2019/04/south-rim-grand-canyon-kids.jpg)**
+**![Funny kids at Grand Canyon](/images/south-rim-grand-canyon-kids.jpg)**
 
 ### **The Grand Canyon Train Back to Williams, AZ**
 
 
 On the way back, the Grand Canyon train offers refreshments and provides entertainment to keep everyone awake after a brilliant day at the Grand Canyon.
 
-![Gang robbing the Grand Canyon Railway train](https://hotmamatravel.com/wp-content/uploads/2019/04/train-robbery-show-grand-canyon-railway.jpg)
+![Gang robbing the Grand Canyon Railway train](/images/train-robbery-show-grand-canyon-railway.jpg)
 
 What was really exciting for the kids was looking out the window to see outlaws on horseback riding along the Grand Canyon train. Sure enough the train slowed to a stop as our guide prepared us for an old west *robbery*.
 
@@ -222,4 +222,4 @@ Overall, I couldn’t have asked for an easier family trip to the Grand Canyon. 
 
 **Like it? Pin it!**
 
-![Visiting the Grand Canyon with kids](https://hotmamatravel.com/wp-content/uploads/2019/04/visiting-grand-canyon-with-kids-pin-683x1024.jpg)
+![Visiting the Grand Canyon with kids](/images/visiting-grand-canyon-with-kids-pin-683x1024.jpg)

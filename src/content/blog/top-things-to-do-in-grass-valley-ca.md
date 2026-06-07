@@ -23,7 +23,7 @@ In this article, I provide a list of things to do in [Grass Valley](https://www.
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure id="empire-mine-state-park-cottage-grass-valley-ca">[![Empire Mine Park Grass Valley](https://hotmamatravel.com/wp-content/uploads/2021/05/empire-mine-state-park-cottage-grass-valley-ca.jpg)](/wp-content/uploads/2021/05/empire-mine-state-park-cottage-grass-valley-ca.jpg)</figure>
+<figure id="empire-mine-state-park-cottage-grass-valley-ca">[![Empire Mine Park Grass Valley](/images/empire-mine-state-park-cottage-grass-valley-ca.jpg)](/images/empire-mine-state-park-cottage-grass-valley-ca.jpg)</figure>
 
 ### [Empire Mine State Historic Park](/go/empire-mine-state-park-grass-valley-ca/)
 
@@ -35,11 +35,11 @@ Founded in 1850, The Empire Mine operated for over 100 years and is one of the o
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZNn-ivqlOYY?si=_IgLWWRAQ-9mPJKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<figure id="empire-mine-state-park-grass-valley-ca">[![Empire Mine State Park Grass Valley CA](https://hotmamatravel.com/wp-content/uploads/2021/05/empire-mine-state-park-grass-valley-ca.jpg)](/wp-content/uploads/2021/05/empire-mine-state-park-grass-valley-ca.jpg)</figure>
+<figure id="empire-mine-state-park-grass-valley-ca">[![Empire Mine State Park Grass Valley CA](/images/empire-mine-state-park-grass-valley-ca.jpg)](/images/empire-mine-state-park-grass-valley-ca.jpg)</figure>
 
 [**See photos, reviews &amp; more**](/go/empire-mine-state-park-grass-valley-ca/)
 
-<figure id="northstar-powerhouse-mining-museum-grass-valley-ca">[![Northstar Powerhouse Mining Museum](https://hotmamatravel.com/wp-content/uploads/2021/05/northstar-powerhouse-mining-museum-grass-valley-ca.jpg)](/wp-content/uploads/2021/05/northstar-powerhouse-mining-museum-grass-valley-ca.jpg)</figure>
+<figure id="northstar-powerhouse-mining-museum-grass-valley-ca">[![Northstar Powerhouse Mining Museum](/images/northstar-powerhouse-mining-museum-grass-valley-ca.jpg)](/images/northstar-powerhouse-mining-museum-grass-valley-ca.jpg)</figure>
 
 ### [Northstar Powerhouse Mining Museum](/go/northstar-powerhouse-mining-museum-grass-valley-ca/)
 
@@ -49,7 +49,7 @@ If you are eager to explore more of Grass Valley mining history, check out the N
 
 [**See photos, reviews &amp; more**](/go/northstar-powerhouse-mining-museum-grass-valley-ca/)
 
-<figure id="downtown-grass-valley-ca">[![downtown Grass Valley](https://hotmamatravel.com/wp-content/uploads/2021/05/downtown-grass-valley-ca.jpg)](/wp-content/uploads/2021/05/downtown-grass-valley-ca.jpg)</figure>
+<figure id="downtown-grass-valley-ca">[![downtown Grass Valley](/images/downtown-grass-valley-ca.jpg)](/images/downtown-grass-valley-ca.jpg)</figure>
 
 ### [Downtown Grass Valley Shopping and Events](/go/downtown-grass-valley-ca/)
 
@@ -59,7 +59,7 @@ Step back in time while still enjoying modern shopping and dining as you stroll 
 
 [**See photos, reviews &amp; more**](/go/downtown-grass-valley-ca/)
 
-<figure id="nevada-city-things-to-do-grass-valley">[![Nevada City](https://hotmamatravel.com/wp-content/uploads/2021/05/nevada-city-things-to-do-grass-valley.jpg)](/wp-content/uploads/2021/05/nevada-city-things-to-do-grass-valley.jpg)</figure>
+<figure id="nevada-city-things-to-do-grass-valley">[![Nevada City](/images/nevada-city-things-to-do-grass-valley.jpg)](/images/nevada-city-things-to-do-grass-valley.jpg)</figure>
 
 ### [Nevada City](/go/nevada-city-grass-valley-ca/)
 
@@ -75,7 +75,7 @@ If you can’t get enough of California’s mining history, then take the short 
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure id="union-hill-trails-grass-valley-ca">[![Union Hill Trails Grass Valley](https://hotmamatravel.com/wp-content/uploads/2021/05/union-hill-trails-grass-valley-ca.jpg)](/wp-content/uploads/2021/05/union-hill-trails-grass-valley-ca.jpg)</figure>
+<figure id="union-hill-trails-grass-valley-ca">[![Union Hill Trails Grass Valley](/images/union-hill-trails-grass-valley-ca.jpg)](/images/union-hill-trails-grass-valley-ca.jpg)</figure>
 
 ### [Union Hill Trails](/go/empire-mine-state-park-grass-valley-ca/)
 
@@ -107,7 +107,7 @@ This is a high elevation and difficult 9.9 mile trail. Sharing a portion of the 
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure id="golden-gate-saloon-restaurant-grass-valley-ca">[![Golden Gate Saloon Grass Valley](https://hotmamatravel.com/wp-content/uploads/2021/05/golden-gate-saloon-restaurant-grass-valley-ca.jpg)](/wp-content/uploads/2021/05/golden-gate-saloon-restaurant-grass-valley-ca.jpg)</figure>
+<figure id="golden-gate-saloon-restaurant-grass-valley-ca">[![Golden Gate Saloon Grass Valley](/images/golden-gate-saloon-restaurant-grass-valley-ca.jpg)](/images/golden-gate-saloon-restaurant-grass-valley-ca.jpg)</figure>
 
 ### [Golden Gate Saloon](/go/holbrooke-hotel-grass-valley-ca/)
 
@@ -117,7 +117,7 @@ Located inside the Holbrooke Hotel, this historic restaurant and bar dates back 
 
 [**See photos, reviews &amp; more**](/go/holbrooke-hotel-grass-valley-ca/)
 
-<figure id="tofanellis-restaurant-grass-valley-ca">[![Tofanelli](https://hotmamatravel.com/wp-content/uploads/2021/05/tofanellis-restaurant-grass-valley-ca.jpg)](/wp-content/uploads/2021/05/tofanellis-restaurant-grass-valley-ca.jpg)</figure>
+<figure id="tofanellis-restaurant-grass-valley-ca">[![Tofanelli](/images/tofanellis-restaurant-grass-valley-ca.jpg)](/images/tofanellis-restaurant-grass-valley-ca.jpg)</figure>
 
 ### [Tofanelli’s](/go/tofanellis-grass-valley-ca/)
 
@@ -127,7 +127,7 @@ There is no wonder why Tofanelli’s is a local favorite. A third-generation fam
 
 [**See photos, reviews &amp; more**](/go/tofanellis-grass-valley-ca/)
 
-<figure id="cirinos-main-street-grass-valley-restaurants">[![Cirinos at Main Street](https://hotmamatravel.com/wp-content/uploads/2021/05/cirinos-main-street-grass-valley-restaurants.jpg)](/wp-content/uploads/2021/05/cirinos-main-street-grass-valley-restaurants.jpg)</figure>
+<figure id="cirinos-main-street-grass-valley-restaurants">[![Cirinos at Main Street](/images/cirinos-main-street-grass-valley-restaurants.jpg)](/images/cirinos-main-street-grass-valley-restaurants.jpg)</figure>
 
 ### [Cirinos at Main Street](/go/cirinos-main-street-grass-valley-ca/)
 
@@ -151,7 +151,7 @@ Open for breakfast, lunch and dinner, Humpty Dumpty Kitchen is a fun and friendl
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure id="Holbrooke-hotel-grass-valley-ca">[![Holbrooke Hotel Grass Valley](https://hotmamatravel.com/wp-content/uploads/2021/05/Holbrooke-hotel-grass-valley-ca.jpg)](/wp-content/uploads/2021/05/Holbrooke-hotel-grass-valley-ca.jpg)</figure>
+<figure id="Holbrooke-hotel-grass-valley-ca">[![Holbrooke Hotel Grass Valley](/images/Holbrooke-hotel-grass-valley-ca.jpg)](/images/Holbrooke-hotel-grass-valley-ca.jpg)</figure>
 
 ### [Holbrooke Hotel](/go/holbrooke-hotel-grass-valley-ca/)
 
@@ -167,11 +167,11 @@ Onsite, you can dine in the historic Golden State Saloon or sneak downstairs for
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L07rlrzsb5U?si=YjWsuNYWQFrA5FeO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<figure id="Holbrooke-hotel-grass-valley-hotels">[![Holbrooke Hotel Grass Valley Ca](https://hotmamatravel.com/wp-content/uploads/2021/05/Holbrooke-hotel-grass-valley-hotels.jpg)](/wp-content/uploads/2021/05/Holbrooke-hotel-grass-valley-hotels.jpg)</figure>
+<figure id="Holbrooke-hotel-grass-valley-hotels">[![Holbrooke Hotel Grass Valley Ca](/images/Holbrooke-hotel-grass-valley-hotels.jpg)](/images/Holbrooke-hotel-grass-valley-hotels.jpg)</figure>
 
 [**See photos, reviews &amp; more**](/go/holbrooke-hotel-grass-valley-ca/)
 
-<figure id="sierra-mountain-inn-hotels-grass-valley-ca">[![Sierra Mountain Inn Grass Valley](https://hotmamatravel.com/wp-content/uploads/2021/05/sierra-mountain-inn-hotels-grass-valley-ca.jpg)](/wp-content/uploads/2021/05/sierra-mountain-inn-hotels-grass-valley-ca.jpg)</figure>
+<figure id="sierra-mountain-inn-hotels-grass-valley-ca">[![Sierra Mountain Inn Grass Valley](/images/sierra-mountain-inn-hotels-grass-valley-ca.jpg)](/images/sierra-mountain-inn-hotels-grass-valley-ca.jpg)</figure>
 
 ### [Sierra Mountain Inn](/go/sierra-mountain-inn-grass-valley-ca/)
 
@@ -181,7 +181,7 @@ Walking distance from Old Town Grass Valley shops and restaurants, the Sierra Mo
 
 [**See photos, reviews &amp; more**](/go/sierra-mountain-inn-grass-valley-ca/)
 
-<figure id="gold-miners-inn-grass-valley-hotels">[![Gold Miners Inn Grass Valley](https://hotmamatravel.com/wp-content/uploads/2021/05/gold-miners-inn-grass-valley-hotels.jpg)](/wp-content/uploads/2021/05/gold-miners-inn-grass-valley-hotels.jpg)</figure>
+<figure id="gold-miners-inn-grass-valley-hotels">[![Gold Miners Inn Grass Valley](/images/gold-miners-inn-grass-valley-hotels.jpg)](/images/gold-miners-inn-grass-valley-hotels.jpg)</figure>
 
 ### [Gold Miner’s Inn](/go/gold-miners-inn-grass-valley-ca/)
 
@@ -203,5 +203,5 @@ Like it? Pin it!
 
 Check out our full guide to the best family activities in Grass Valley on HotMamaTravel.com
 
-#GrassValley #NorthernCalifornia #FamilyTravel #CaliforniaRoadTrip #TravelWithKids #VisitCalifornia #FamilyVacation #GoldCountry #CaliforniaWithKids #HotMamaTravel">[![Best things to do in grass valley, ca with kids ](https://hotmamatravel.com/wp-content/uploads/2021/05/Best-Things-to-do-in-Grass-Valley-Ca-with-kids-200x300.jpg)](/images/Best-Things-to-do-in-Grass-Valley-Ca-with-kids.jpg)</figure>
+#GrassValley #NorthernCalifornia #FamilyTravel #CaliforniaRoadTrip #TravelWithKids #VisitCalifornia #FamilyVacation #GoldCountry #CaliforniaWithKids #HotMamaTravel">[![Best things to do in grass valley, ca with kids ](/images/Best-Things-to-do-in-Grass-Valley-Ca-with-kids-200x300.jpg)](/images/Best-Things-to-do-in-Grass-Valley-Ca-with-kids.jpg)</figure>
 </div></div>

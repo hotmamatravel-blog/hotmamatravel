@@ -66,5 +66,5 @@ As you zip up your suitcase and glance over the neatly folded clothes, you've no
 
 Like it? Pin it!
 
-<figure id="cut-the-stress-from-packing">[![](https://hotmamatravel.com/wp-content/uploads/2023/12/cut-the-stress-from-packing-200x300.jpg)](/images/cut-the-stress-from-packing.jpg)</figure>
+<figure id="cut-the-stress-from-packing">[![](/images/cut-the-stress-from-packing-200x300.jpg)](/images/cut-the-stress-from-packing.jpg)</figure>
 </div></div>

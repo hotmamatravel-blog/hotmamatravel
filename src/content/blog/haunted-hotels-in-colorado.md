@@ -19,7 +19,7 @@ From the world-famous *Stanley Hotel* in Estes Park to the elegant *Hotel Jerome
 
 If your crew loves a good mix of travel and thrills, make sure to also check out the [**best Halloween towns to visit**](/best-towns-for-halloween/), because in Colorado, spooky season isn’t limited to October.
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="The-Stanley-Hotel-Haunted-Hotels-Colorado"><figure>[![The Stanley Hotel one of the Most Haunted Hotels in Colorado](https://hotmamatravel.com/wp-content/uploads/2023/08/The-Stanley-Hotel-Haunted-Hotels-Colorado.jpg)](/wp-content/uploads/2023/08/The-Stanley-Hotel-Haunted-Hotels-Colorado.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="The-Stanley-Hotel-Haunted-Hotels-Colorado"><figure>[![The Stanley Hotel one of the Most Haunted Hotels in Colorado](/images/The-Stanley-Hotel-Haunted-Hotels-Colorado.jpg)](/images/The-Stanley-Hotel-Haunted-Hotels-Colorado.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -46,7 +46,7 @@ Two musical spirits still like to jam out in the afterlife at Stanley Hotel. The
 
 **[See Photos, Reviews, &amp; More](/go/the-stanley-hotel-colorado/)**
 
-<div class="wp-block-uagb-image uagb-block-b1fd52a7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Hotel-Jerome-Haunted-Hotels-Colorado"><figure>[![Hotel Jerome is a Haunted Hotel in Colorado](https://hotmamatravel.com/wp-content/uploads/2023/08/Hotel-Jerome-Haunted-Hotels-Colorado.jpg)](/wp-content/uploads/2023/08/Hotel-Jerome-Haunted-Hotels-Colorado.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-b1fd52a7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Hotel-Jerome-Haunted-Hotels-Colorado"><figure>[![Hotel Jerome is a Haunted Hotel in Colorado](/images/Hotel-Jerome-Haunted-Hotels-Colorado.jpg)](/images/Hotel-Jerome-Haunted-Hotels-Colorado.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-5188cf60">
 
@@ -71,7 +71,7 @@ The hotel's vintage elevator has been known to operate on its own, seemingly res
 
 **[See Photos, Reviews, &amp; More](/go/prospect-hotel-jerome-aspen-colorado/)**
 
-<div class="wp-block-uagb-image uagb-block-97c62e20 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="The-Oxford-Hotel-Haunted-Hotels-Colorado"><figure>[![Haunted Hotels in Colorado include The Oxford Hotel](https://hotmamatravel.com/wp-content/uploads/2023/08/The-Oxford-Hotel-Haunted-Hotels-Colorado.jpg)](/wp-content/uploads/2023/08/The-Oxford-Hotel-Haunted-Hotels-Colorado.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-97c62e20 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="The-Oxford-Hotel-Haunted-Hotels-Colorado"><figure>[![Haunted Hotels in Colorado include The Oxford Hotel](/images/The-Oxford-Hotel-Haunted-Hotels-Colorado.jpg)](/images/The-Oxford-Hotel-Haunted-Hotels-Colorado.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-3ba85b28">
 
@@ -100,7 +100,7 @@ The Oxford Hotel's antique elevator is known to operate on its own, stopping on 
 
 **[See Photos, Reviews, &amp; More](/go/the-oxford-hotel-colorado/)**
 
-<div class="wp-block-uagb-image uagb-block-ea163bae wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="The-Brown-Palace-Hotel-Haunted-Hotels-Colorado"><figure>[![The Haunted Brown Palace Hotel ](https://hotmamatravel.com/wp-content/uploads/2023/08/The-Brown-Palace-Hotel-Haunted-Hotels-Colorado.jpg)](/wp-content/uploads/2023/08/The-Brown-Palace-Hotel-Haunted-Hotels-Colorado.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-ea163bae wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="The-Brown-Palace-Hotel-Haunted-Hotels-Colorado"><figure>[![The Haunted Brown Palace Hotel ](/images/The-Brown-Palace-Hotel-Haunted-Hotels-Colorado.jpg)](/images/The-Brown-Palace-Hotel-Haunted-Hotels-Colorado.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-36ef328a">
 
@@ -140,12 +140,12 @@ Because in Colorado, adventure never rests… and apparently, neither do the gho
 Like it? Pin it!
 
 <figure id="haunte-hotels-colorado" data-essb-pin-description="Ready for a spooktacular stay in the Rockies? Discover the most haunted hotels in Colorado for families — where ghost stories meet cozy stays! From the legendary Stanley Hotel to elegant haunted hideaways, these family-friendly destinations mix chills, charm, and mountain views.
-#HauntedHotels #FamilyTravel #ColoradoTravel #HauntedColorado #GhostStories #SpookyGetaway #HotMamaTravel">[![Most Haunted Hotels Colorado for Families](https://hotmamatravel.com/wp-content/uploads/2023/08/haunted-hotels-colorado-200x300.jpg)](/images/haunted-hotels-colorado.jpg)</figure>
+#HauntedHotels #FamilyTravel #ColoradoTravel #HauntedColorado #GhostStories #SpookyGetaway #HotMamaTravel">[![Most Haunted Hotels Colorado for Families](/images/haunted-hotels-colorado-200x300.jpg)](/images/haunted-hotels-colorado.jpg)</figure>
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
 
 Like it? Pin it!
 
-<figure id="beautiful-haunted-hotels-colorado">[![](https://hotmamatravel.com/wp-content/uploads/2023/08/haunted-hotels-colorado-200x300.jpg)](/images/haunted-hotels-colorado.jpg)</figure>
+<figure id="beautiful-haunted-hotels-colorado">[![](/images/haunted-hotels-colorado-200x300.jpg)](/images/haunted-hotels-colorado.jpg)</figure>
 </div></div>

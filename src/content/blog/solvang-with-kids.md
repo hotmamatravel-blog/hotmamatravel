@@ -19,7 +19,7 @@ Solvang, which is Danish for *sunny fields*, is a quaint little Danish village o
 
 Settled in 1911 by Danish immigrants, Solvang remains a little piece of Denmark in sunny California. With so many places to shop, drink and eat, it is best to make a weekend out of your visit - but it also makes for a fun little pit-stop on your way up (or down) California’s coast as well.
 
-<figure>![Family in Solvang CA](https://hotmamatravel.com/wp-content/uploads/2019/11/family-friendly-solvang-ca-things-to-do.jpg)</figure>
+<figure>![Family in Solvang CA](/images/family-friendly-solvang-ca-things-to-do.jpg)</figure>
 
 We typically break up road trips to one of our favorite spots, [Apple Farm Inn](/experience-spring-time-at-the-apple-farm-san-luis-obispo/) in San Luis Obispo, with a quick stop in Solvang. Honestly, it is really fun little town that the whole family will really enjoy!
 
@@ -106,7 +106,7 @@ In this article I will go over all the fun things to do in Solvang with kids, so
 We love to walk around and enjoy the scenery in Solvang. It’s not every day we get to see darling Danish architecture and windmills here in California. I’m sure you and your family will find ample photo opportunities! These are some of our favorite Solvang family activities:
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ddbfcbeb-e9cf-4bb3-ae99-5be5e2eda746"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![Shopping in Solvang](https://hotmamatravel.com/wp-content/uploads/2019/11/things-to-do-in-solvang-ca.jpg)<figcaption>Love perusing stores with Christmas Decorations? Me too! You'll love Solvang :)</figcaption></figure>
+<figure>![Shopping in Solvang](/images/things-to-do-in-solvang-ca.jpg)<figcaption>Love perusing stores with Christmas Decorations? Me too! You'll love Solvang :)</figcaption></figure>
 
 #### Shopping in Solvang
 
@@ -125,7 +125,7 @@ There are **tons **of cute boutique shops to explore in Solvang. Antique shops, 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-26f606ef-2728-430a-80fc-d69ca0aed379"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![Solvang Carriage](https://hotmamatravel.com/wp-content/uploads/2014/12/DSCN7982-1024x768.jpg)</figure>
+<figure>![Solvang Carriage](/images/DSCN7982-1024x768.jpg)</figure>
 
 #### [Solvang Trolley &amp; Carriage Company](/go/solvang-trolley-carriage-solvang-california/)
 
@@ -136,7 +136,7 @@ Take your family for a ride on a Honan, a Danish wooden street car pulled by two
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6075198c-fcec-425f-b394-fa87e645a8f4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![Dascomb Cellars Solvang Wine Tasting](https://hotmamatravel.com/wp-content/uploads/2014/12/DSCN8009-1024x768.jpg)</figure>
+<figure>![Dascomb Cellars Solvang Wine Tasting](/images/DSCN8009-1024x768.jpg)</figure>
 
 #### Grab a drink somewhere!
 
@@ -146,7 +146,7 @@ Solvang is located in California wine country and there are plenty of places tha
 - [Sort This Out Cellars](/go/sort-this-out-cellars-solvang-california/)
 - [Solvang Brewing Company](/go/solvang-brewing-company-solvang-california/)
 
-<figure>![Solvang Beer Garden](https://hotmamatravel.com/wp-content/uploads/2014/12/IPA.jpg)<figcaption>We are no strangers to a drink while traveling with kids!</figcaption></figure>
+<figure>![Solvang Beer Garden](/images/IPA.jpg)<figcaption>We are no strangers to a drink while traveling with kids!</figcaption></figure>
 
 </div></section>
 
@@ -219,7 +219,7 @@ This expansive green is where Solvang holds a number of annual events like Winte
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-931b616a-5d75-4dc4-a92a-ea791f5d7c4d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<div class="wp-block-image"><figure class="aligncenter size-medium">![Danish Mill Bakery](https://hotmamatravel.com/wp-content/uploads/2014/12/DSCN7957-e1573709199901-300x284.jpg)</figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-medium">![Danish Mill Bakery](/images/DSCN7957-e1573709199901-300x284.jpg)</figure></div>
 
 #### [Danish Mill Bakery](/go/danish-mill-bakery-solvang-california/)
 
@@ -256,7 +256,7 @@ Another cute family-owned bakery, this a great spot to grab a sweet Danish treat
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-84287734-0d44-4b17-830f-1439c827066f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![Solvang Bakery](https://hotmamatravel.com/wp-content/uploads/2016/11/guide-visit-Solvang-with-kids-california-small-town.png)</figure>
+<figure>![Solvang Bakery](/images/guide-visit-Solvang-with-kids-california-small-town.png)</figure>
 
 #### [Solvang Bakery](/go/solvang-bakery-solvang-california/)
 
@@ -264,7 +264,7 @@ Another cute family-owned bakery, this a great spot to grab a sweet Danish treat
 
 There is a theme with the bakeries, as The Solvang Bakery is also family-owned. Located under the pretty pink windmill, this bakery oozes charm. They specialize in authentic Danish pastries, bread and tarts as well as creating beautifully designed specialty cakes and wedding cakes.
 
-<figure>![Inside Solvang Bakery with Kids](https://hotmamatravel.com/wp-content/uploads/2014/12/DSCN8000-1024x768.jpg)</figure>
+<figure>![Inside Solvang Bakery with Kids](/images/DSCN8000-1024x768.jpg)</figure>
 
 [See photos, reviews &amp; more](/go/solvang-bakery-solvang-california/)
 
@@ -293,7 +293,7 @@ This sweet little restaurant has it all, it is Danish, it is cozy and it is hist
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-247460af-93c8-4ec1-a720-b2f2bed975b7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![solvang brewing company](https://hotmamatravel.com/wp-content/uploads/2019/11/solvang-brewing-company.jpg)</figure>
+<figure>![solvang brewing company](/images/solvang-brewing-company.jpg)</figure>
 
 #### [Solvang Brewing Company](/go/solvang-brewing-company-solvang-california/)
 
@@ -301,7 +301,7 @@ This sweet little restaurant has it all, it is Danish, it is cozy and it is hist
 
 I came for the Bloody Mary, but I stayed for the atmosphere and food! This restaurant is a real crowd pleaser with diverse offerings, brewery and massive Bloody Mary's. The inside is very cozy and fun, while the outdoor patio is perfect for people watching on warm weekends.
 
-<div class="wp-block-image"><figure class="aligncenter size-full">![bloody mary at solvang brewing company](https://hotmamatravel.com/wp-content/uploads/2019/11/solvang-brewing-company-bloody-mary.jpg)</figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-full">![bloody mary at solvang brewing company](/images/solvang-brewing-company-bloody-mary.jpg)</figure></div>
 
 [See photos, reviews &amp; more](/go/solvang-brewing-company-solvang-california/)
 
@@ -320,7 +320,7 @@ Succulent Cafe has a great location in downtown Solvang with a delicious menu th
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8fd557c9-440a-4bdc-81fc-a14b19452462"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![aebleskiver Solvang](https://hotmamatravel.com/wp-content/uploads/2014/12/IMG_4071-1024x764.jpg)</figure>
+<figure>![aebleskiver Solvang](/images/IMG_4071-1024x764.jpg)</figure>
 
 #### [Solvang Restaurant](/go/solvang-restaurant-solvang-california/)
 
@@ -415,7 +415,7 @@ Looking for a good old burger and shake? Then your family will love Chomp Burger
 There are plenty of hotels to choose from, but if you are visiting Solvang with kids I recommend staying in a hotel that feels Danish and is walking distance from the village center. Park, relax, drink some wine (or lots of wine), and then just walk back to your room. That’s how I like to roll, anyway. Plus, when traveling with kids, the less you have to get them in and out of the car the better.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-deecd580-734e-40fb-80e4-724e5c81e108"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![Hadsten Inn Solvang Hotel](https://hotmamatravel.com/wp-content/uploads/2014/12/Hadsten.jpg)<figcaption>Photo credit: Hadsten House</figcaption></figure>
+<figure>![Hadsten Inn Solvang Hotel](/images/Hadsten.jpg)<figcaption>Photo credit: Hadsten House</figcaption></figure>
 
 #### [Hadsten House Inn](/go/hadsten-house-solvang-california/)
 
@@ -428,7 +428,7 @@ Beautifully decorated and luxurious. It is romantic for couples, but also great 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-35938de9-4dcc-4ab2-a207-42650a857a2f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![Hamlet Inn Hotel in Solvang](https://hotmamatravel.com/wp-content/uploads/2014/12/Hamlet-1024x682.jpg)<figcaption>Photo credit: Hamlet Inn</figcaption></figure>
+<figure>![Hamlet Inn Hotel in Solvang](/images/Hamlet-1024x682.jpg)<figcaption>Photo credit: Hamlet Inn</figcaption></figure>
 
 #### [Hamlet Inn](/go/hamlet-inn-solvang-california/)
 
@@ -441,7 +441,7 @@ Most of the time the rates are very affordable and there are always packages off
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8c1a0fb0-b187-49b5-9292-74545352a975"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<div class="wp-block-image"><figure class="aligncenter size-large">![King Frederik Inn Solvang](https://hotmamatravel.com/wp-content/uploads/2014/12/King-Fred.jpg)<figcaption>Photo Credit: King Frederik Inn</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large">![King Frederik Inn Solvang](/images/King-Fred.jpg)<figcaption>Photo Credit: King Frederik Inn</figcaption></figure></div>
 
 #### [King Frederik Inn](/go/king-frederik-inn-solvang-california/)
 
@@ -454,7 +454,7 @@ Not the fanciest, but conveniently located and one of the most affordable hotels
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0d90639e-d52e-46fd-8d33-972b199d2832"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![Hotel Corque in Solvang](https://hotmamatravel.com/wp-content/uploads/2014/12/HOTEL-CORQUE.jpg)<figcaption>Photo credit: SantaYnezVallery.org</figcaption></figure>
+<figure>![Hotel Corque in Solvang](/images/HOTEL-CORQUE.jpg)<figcaption>Photo credit: SantaYnezVallery.org</figcaption></figure>
 
 #### [Hotel Corque](/go/hotel-corque-solvang-california/)
 
@@ -506,5 +506,5 @@ If you’re a local, this is an affordable and convenient way to feel like you a
 
 **Like it? Pin it!**
 
-<div class="wp-block-image"><figure class="alignleft size-medium">![Fun Things to do in Solvang CA with kids](https://hotmamatravel.com/wp-content/uploads/2019/11/Things-to-do-in-Solvang-ca-with-kids-200x300.jpg)</figure></div>
+<div class="wp-block-image"><figure class="alignleft size-medium">![Fun Things to do in Solvang CA with kids](/images/Things-to-do-in-Solvang-ca-with-kids-200x300.jpg)</figure></div>
 </div></section>

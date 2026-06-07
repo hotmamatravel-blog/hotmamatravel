@@ -19,7 +19,7 @@ author: "Amanda Keeley-Thurman"
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure>[![Guide to Las Vegas with a toddler](https://hotmamatravel.com/wp-content/uploads/2025/02/Las-Vegas-with-a-toddler.jpg)](/las-vegas-with-kids/)</figure>
+<figure>[![Guide to Las Vegas with a toddler](/images/Las-Vegas-with-a-toddler.jpg)](/las-vegas-with-kids/)</figure>
 
 Hey, I’m Amanda—aka **Hot Mama**—a wife, mom, writer, and bartender who’s made it her mission to prove that family travel can be exciting, affordable, and *just the right amount of [**weird**](/best-haunted-places-to-visit-for-families/)*. Around here, we don’t do boring.
 
@@ -33,7 +33,7 @@ Yes, I take kids to [**Vegas**](/family-friendly-vegas/). Yes, we’ve hunted gh
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure>[![Multigenerational family travel ](https://hotmamatravel.com/wp-content/uploads/2025/05/Multigenerational-family-travel-.jpg)](/wp-content/uploads/2025/05/Multigenerational-family-travel-.jpg)</figure>
+<figure>[![Multigenerational family travel ](/images/Multigenerational-family-travel-.jpg)](/images/Multigenerational-family-travel-.jpg)</figure>
 
 When most people think “family vacation,” they picture chaos, cranky kids, and overpriced snacks. Not here. I believe family travel should be fun for *everyone*—from toddlers to grandparents—and I’ve built a life around proving it. We’re a **multigenerational travel crew** that doesn’t just “manage” trips with kids—we thrive on them.
 
@@ -46,7 +46,7 @@ Where Mama goes, the babies go.
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure>[![HotMamaTravel Fun Family Travel](https://hotmamatravel.com/wp-content/uploads/2025/05/HotMama-Fun-in-Vegas-930-x-520-px.gif)](/wp-content/uploads/2025/05/HotMama-Fun-in-Vegas-930-x-520-px.gif)</figure>
+<figure>[![HotMamaTravel Fun Family Travel](/images/HotMama-Fun-in-Vegas-930-x-520-px.gif)](/images/HotMama-Fun-in-Vegas-930-x-520-px.gif)</figure>
 
 - **Family-friendly Las Vegas guides** (yes, they exist—and they rock)
 

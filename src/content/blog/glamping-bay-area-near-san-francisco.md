@@ -18,7 +18,7 @@ If you are looking for a unique place to lose yourself in nature, but don’t wa
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c5d07b46"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="family-glamping-bay-area-ca-safari-west">[![](https://hotmamatravel.com/wp-content/uploads/2020/12/family-glamping-bay-area-ca-safari-west.jpg)](/wp-content/uploads/2020/12/family-glamping-bay-area-ca-safari-west.jpg)<figcaption class="wp-element-caption">Courtesy of Safari West</figcaption></figure>
+<figure id="family-glamping-bay-area-ca-safari-west">[![](/images/family-glamping-bay-area-ca-safari-west.jpg)](/images/family-glamping-bay-area-ca-safari-west.jpg)<figcaption class="wp-element-caption">Courtesy of Safari West</figcaption></figure>
 
 #### [Safari West](/go/safari-west-glamping-bay-area-ca/)
 
@@ -35,7 +35,7 @@ What is awesome about these luxurious safari tents and cottages is that they are
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-74c1f40b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="glamping-bay-area-ca-autocamp-russian-river">[![](https://hotmamatravel.com/wp-content/uploads/2020/12/glamping-bay-area-ca-autocamp-russian-river.jpg)](/wp-content/uploads/2020/12/glamping-bay-area-ca-autocamp-russian-river.jpg)<figcaption class="wp-element-caption">Courtesy of AutoCamp Russian River</figcaption></figure>
+<figure id="glamping-bay-area-ca-autocamp-russian-river">[![](/images/glamping-bay-area-ca-autocamp-russian-river.jpg)](/images/glamping-bay-area-ca-autocamp-russian-river.jpg)<figcaption class="wp-element-caption">Courtesy of AutoCamp Russian River</figcaption></figure>
 
 #### [AutoCamp Russian River](/go/autocamp-russian-river-glamping-bay-area-ca/)
 
@@ -58,7 +58,7 @@ The Premium Accessible Suites sleep up to three adults or two adults and two kid
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1b559690"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="bay-area-glamping-mendocino-grove-ca">[![](https://hotmamatravel.com/wp-content/uploads/2020/12/bay-area-glamping-mendocino-grove-ca.jpg)](/wp-content/uploads/2020/12/bay-area-glamping-mendocino-grove-ca.jpg)<figcaption class="wp-element-caption">Courtesy of Mendocino Grove</figcaption></figure>
+<figure id="bay-area-glamping-mendocino-grove-ca">[![](/images/bay-area-glamping-mendocino-grove-ca.jpg)](/images/bay-area-glamping-mendocino-grove-ca.jpg)<figcaption class="wp-element-caption">Courtesy of Mendocino Grove</figcaption></figure>
 
 #### [Mendocino Grove](/go/mendocino-grove-glamping-bay-area-ca/)
 
@@ -77,7 +77,7 @@ The Family Tents are grouped together near the Meadow, where kids can play and d
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-518372d7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="costanoa-lodge-camp-family-glamping-bay-area-ca">[![](https://hotmamatravel.com/wp-content/uploads/2020/12/costanoa-lodge-camp-family-glamping-bay-area-ca.jpg)](/wp-content/uploads/2020/12/costanoa-lodge-camp-family-glamping-bay-area-ca.jpg)<figcaption class="wp-element-caption">Courtesy of Costanoa Lodge and Camp</figcaption></figure>
+<figure id="costanoa-lodge-camp-family-glamping-bay-area-ca">[![](/images/costanoa-lodge-camp-family-glamping-bay-area-ca.jpg)](/images/costanoa-lodge-camp-family-glamping-bay-area-ca.jpg)<figcaption class="wp-element-caption">Courtesy of Costanoa Lodge and Camp</figcaption></figure>
 
 #### [Costanoa Resort San Mateo](/go/costanoa-resort-glamping-bay-area-ca/)
 
@@ -94,7 +94,7 @@ There are a variety of accommodation options at Costanoa. There are the&nbsp;39 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-aa0e069c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="family-glamping-wildhaven-sonoma-ca">[![](https://hotmamatravel.com/wp-content/uploads/2020/12/family-glamping-wildhaven-sonoma-ca.jpg)](/wp-content/uploads/2020/12/family-glamping-wildhaven-sonoma-ca.jpg)<figcaption class="wp-element-caption">Courtesy of Wildhaven Sonoma</figcaption></figure>
+<figure id="family-glamping-wildhaven-sonoma-ca">[![](/images/family-glamping-wildhaven-sonoma-ca.jpg)](/images/family-glamping-wildhaven-sonoma-ca.jpg)<figcaption class="wp-element-caption">Courtesy of Wildhaven Sonoma</figcaption></figure>
 
 #### [Wildhaven Sonoma](/go/wildhaven-sonoma-glamping-bay-area-ca/)
 
@@ -160,5 +160,5 @@ Have fun Glamping!
 
 **Like it? Pin it!**
 
-<figure id="glamping-bay-area-near-san-francisco-ca">[![](https://hotmamatravel.com/wp-content/uploads/2020/12/5-Best-glamping-bay-area-near-san-francisco-ca-200x300.jpg)](/images/5-Best-glamping-bay-area-near-san-francisco-ca.jpg)</figure>
+<figure id="glamping-bay-area-near-san-francisco-ca">[![](/images/5-Best-glamping-bay-area-near-san-francisco-ca-200x300.jpg)](/images/5-Best-glamping-bay-area-near-san-francisco-ca.jpg)</figure>
 </div></section>

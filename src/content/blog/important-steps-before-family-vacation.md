@@ -82,5 +82,5 @@ Emergency cash, cleaning prior the trip, pet management plans, cutting edge secu
 
 **Like it? Pin it!**
 
-<figure id="6-important-steps-before-family-vacation">[![](https://hotmamatravel.com/wp-content/uploads/2022/09/Before-You-Go-Guide-to-Family-Travel-200x300.jpg)](/images/Before-You-Go-Guide-to-Family-Travel.jpg)</figure>
+<figure id="6-important-steps-before-family-vacation">[![](/images/Before-You-Go-Guide-to-Family-Travel-200x300.jpg)](/images/Before-You-Go-Guide-to-Family-Travel.jpg)</figure>
 </div></section>

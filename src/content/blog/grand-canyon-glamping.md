@@ -16,7 +16,7 @@ The Grand Canyon is a natural wonder, exposing 2-billion years of the Earth’s 
 Since visiting the Grand Canyon is such an amazing destination, you can make it *extra *special with a truly wild west experience. I have put together an incredible list of Grand Canyon glamping sites that I promise will take your visit to the next level!
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-872d1d7a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="under-canvas-grand-canyon-tent-glamping">[![](https://hotmamatravel.com/wp-content/uploads/2021/07/under-canvas-grand-canyon-tent-glamping.jpg)](/wp-content/uploads/2021/07/under-canvas-grand-canyon-tent-glamping.jpg)</figure>
+<figure id="under-canvas-grand-canyon-tent-glamping">[![](/images/under-canvas-grand-canyon-tent-glamping.jpg)](/images/under-canvas-grand-canyon-tent-glamping.jpg)</figure>
 
 #### [Under Canvas Grand Canyon](/go/under-canvas-grand-canyon-glamping/)
 
@@ -33,7 +33,7 @@ Onsite, you can enjoy fresh locally-sourced breakfast and dinner at the lobby di
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6ab6e30e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="clear-sky-resort-grand-canyon-glamping-sky-dome">[![](https://hotmamatravel.com/wp-content/uploads/2021/07/clear-sky-resort-grand-canyon-glamping-sky-dome.jpg)](/wp-content/uploads/2021/07/clear-sky-resort-grand-canyon-glamping-sky-dome.jpg)</figure>
+<figure id="clear-sky-resort-grand-canyon-glamping-sky-dome">[![](/images/clear-sky-resort-grand-canyon-glamping-sky-dome.jpg)](/images/clear-sky-resort-grand-canyon-glamping-sky-dome.jpg)</figure>
 
 #### [Clear Sky Resorts](/go/clear-sky-resort-grand-canyon-glamping/)
 
@@ -50,7 +50,7 @@ Onsite, you will love to be greeted in the huge Welcome Dome with lounge areas f
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8d5024b0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="wander-camp-grand-canyon-glamping-tents">[![](https://hotmamatravel.com/wp-content/uploads/2021/07/wander-camp-grand-canyon-glamping-tents.jpg)](/wp-content/uploads/2021/07/wander-camp-grand-canyon-glamping-tents.jpg)</figure>
+<figure id="wander-camp-grand-canyon-glamping-tents">[![](/images/wander-camp-grand-canyon-glamping-tents.jpg)](/images/wander-camp-grand-canyon-glamping-tents.jpg)</figure>
 
 #### [Wander Camp](/go/wander-camp-grand-canyon-glamping/)
 
@@ -67,7 +67,7 @@ Onsite, you can enjoy campfire meals, prepared with Dutch ovens over a hot campf
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1517bec3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="grand-canyon-western-ranch-tent-glamping-grand-canyon">[![](https://hotmamatravel.com/wp-content/uploads/2021/07/grand-canyon-western-ranch-tent-glamping-grand-canyon.jpg)](/wp-content/uploads/2021/07/grand-canyon-western-ranch-tent-glamping-grand-canyon.jpg)</figure>
+<figure id="grand-canyon-western-ranch-tent-glamping-grand-canyon">[![](/images/grand-canyon-western-ranch-tent-glamping-grand-canyon.jpg)](/images/grand-canyon-western-ranch-tent-glamping-grand-canyon.jpg)</figure>
 
 #### [Grand Canyon Western Ranch](/go/grand-canyon-western-ranch-grand-canyon-glamping/)
 
@@ -86,7 +86,7 @@ Onsite you can enjoy an authentic western-style meal, live music and cocktail at
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f8ee901b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="bright-angel-lodge-cabins-glamping-grand-canyon">[![](https://hotmamatravel.com/wp-content/uploads/2021/07/bright-angel-lodge-cabins-glamping-grand-canyon.jpg)](/wp-content/uploads/2021/07/bright-angel-lodge-cabins-glamping-grand-canyon.jpg)</figure>
+<figure id="bright-angel-lodge-cabins-glamping-grand-canyon">[![](/images/bright-angel-lodge-cabins-glamping-grand-canyon.jpg)](/images/bright-angel-lodge-cabins-glamping-grand-canyon.jpg)</figure>
 
 #### [Bright Angel Lodge](/go/bright-angel-lodge-grand-canyon-glamping/)
 
@@ -148,5 +148,5 @@ If you love glamping and just can’t get enough we have a more locations for yo
 
 **Like it? Pin it!**
 
-<figure id="5-best-glamping-sites-grand-canyon">[![](https://hotmamatravel.com/wp-content/uploads/2021/07/5-best-glamping-sites-grand-canyon-200x300.jpg)](/images/5-best-glamping-sites-grand-canyon.jpg)</figure>
+<figure id="5-best-glamping-sites-grand-canyon">[![](/images/5-best-glamping-sites-grand-canyon-200x300.jpg)](/images/5-best-glamping-sites-grand-canyon.jpg)</figure>
 </div></section>

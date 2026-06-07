@@ -17,7 +17,7 @@ California offers a wide variety of natural landscapes from the coast to the mou
 It's a big diverse state, so looking for California glamping sites might be overwhelming. I have put together a list of my top picks from popular locations to help you narrow things down. If you would like more options on glamping in California, be sure to check out our full-length articles on the destinations covered below.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-29a27ec8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="https://hotmamatravel.com/wp-content/uploads/2020/09/living-desert-starry-safari-family-glamping-palm-springs-ca">[![teepee glamping at living desert starry safari- palm springs glamping](https://hotmamatravel.com/wp-content/uploads/2020/09/living-desert-starry-safari-family-glamping-palm-springs-ca.jpg)](/wp-content/uploads/2020/09/living-desert-starry-safari-family-glamping-palm-springs-ca.jpg)</figure>
+<figure id="/images/living-desert-starry-safari-family-glamping-palm-springs-ca">[![teepee glamping at living desert starry safari- palm springs glamping](/images/living-desert-starry-safari-family-glamping-palm-springs-ca.jpg)](/images/living-desert-starry-safari-family-glamping-palm-springs-ca.jpg)</figure>
 
 #### [The Living Desert Starry Safari](/go/living-desert-starry-safari-palm-springs-ca/)
 
@@ -36,7 +36,7 @@ See our full list for more on [glamping Palm Springs](/glamping-palm-springs/).
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ba27fa89"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="joshua-tree-glamping-hicksville-trailer-palace">[![](https://hotmamatravel.com/wp-content/uploads/2021/08/joshua-tree-glamping-hicksville-trailer-palace.jpg)](/wp-content/uploads/2021/08/joshua-tree-glamping-hicksville-trailer-palace.jpg)</figure>
+<figure id="joshua-tree-glamping-hicksville-trailer-palace">[![](/images/joshua-tree-glamping-hicksville-trailer-palace.jpg)](/images/joshua-tree-glamping-hicksville-trailer-palace.jpg)</figure>
 
 #### [Hicksville Trailer Palace](/go/hicksville-trailer-palace-joshua-tree-ca/)
 
@@ -55,7 +55,7 @@ Some trailers have a private bathroom, while others share a communal shower room
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5210305b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="family-glamping-bay-area-ca-safari-west">[![](https://hotmamatravel.com/wp-content/uploads/2020/12/family-glamping-bay-area-ca-safari-west.jpg)](/wp-content/uploads/2020/12/family-glamping-bay-area-ca-safari-west.jpg)</figure>
+<figure id="family-glamping-bay-area-ca-safari-west">[![](/images/family-glamping-bay-area-ca-safari-west.jpg)](/images/family-glamping-bay-area-ca-safari-west.jpg)</figure>
 
 #### [Safari West](/go/safari-west-glamping-bay-area-ca/)
 
@@ -74,7 +74,7 @@ The safari tents and cottages are located on the Safari West animal reserve, giv
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d36c1fbb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="santee-lakes-recreation-preserve-glamping-san-diego-ca">[![Floating glamping cabins in San Diego Santee Lakes Recreation Preserve](https://hotmamatravel.com/wp-content/uploads/2020/10/santee-lakes-recreation-preserve-glamping-san-diego-ca.jpeg)](/wp-content/uploads/2020/10/santee-lakes-recreation-preserve-glamping-san-diego-ca.jpeg)</figure>
+<figure id="santee-lakes-recreation-preserve-glamping-san-diego-ca">[![Floating glamping cabins in San Diego Santee Lakes Recreation Preserve](/images/santee-lakes-recreation-preserve-glamping-san-diego-ca.jpeg)](/images/santee-lakes-recreation-preserve-glamping-san-diego-ca.jpeg)</figure>
 
 #### [Santee Lakes Recreation Preserve](/go/santee-lakes-recreation-preserve-san-diego-ca/)
 
@@ -93,7 +93,7 @@ Onsite you and your family can enjoy taking the pedal boat out on the lakes, swi
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e0e95a3c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="saddle-mountain-ranch-family-glamping-big-sur">[![glamping tents at Saddle Mountain Ranch in Carmel-Big Sur California](https://hotmamatravel.com/wp-content/uploads/2020/10/saddle-mountain-ranch-family-glamping-big-sur.jpg)](/wp-content/uploads/2020/10/saddle-mountain-ranch-family-glamping-big-sur.jpg)</figure>
+<figure id="saddle-mountain-ranch-family-glamping-big-sur">[![glamping tents at Saddle Mountain Ranch in Carmel-Big Sur California](/images/saddle-mountain-ranch-family-glamping-big-sur.jpg)](/images/saddle-mountain-ranch-family-glamping-big-sur.jpg)</figure>
 
 #### [Saddle Mountain Ranch](/go/saddle-mountain-ranch-big-sur-ca/)
 
@@ -112,7 +112,7 @@ For larger families, there are ten cabins to choose from which sleep four to sev
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-53f65fd2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="glamping-el-capitan-canyon-santa-barbara">[![Cabin glamping at El Capitan Canyon in Santa Barbara California](https://hotmamatravel.com/wp-content/uploads/2020/10/glamping-el-capitan-canyon-santa-barbara.jpg)](/wp-content/uploads/2020/10/glamping-el-capitan-canyon-santa-barbara.jpg)</figure>
+<figure id="glamping-el-capitan-canyon-santa-barbara">[![Cabin glamping at El Capitan Canyon in Santa Barbara California](/images/glamping-el-capitan-canyon-santa-barbara.jpg)](/images/glamping-el-capitan-canyon-santa-barbara.jpg)</figure>
 
 #### [El Capitan Canyon](/go/el-capitan-canyon-santa-barbara-ca/)
 
@@ -131,7 +131,7 @@ On the property, you'll be able to unplug and connect with nature while having a
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-cd020f75"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="ventura-ranch-koa-wagon-glamping-los-angeles-ca">[![](https://hotmamatravel.com/wp-content/uploads/2021/05/ventura-ranch-koa-wagon-glamping-los-angeles-ca.jpg)](/wp-content/uploads/2021/05/ventura-ranch-koa-wagon-glamping-los-angeles-ca.jpg)</figure>
+<figure id="ventura-ranch-koa-wagon-glamping-los-angeles-ca">[![](/images/ventura-ranch-koa-wagon-glamping-los-angeles-ca.jpg)](/images/ventura-ranch-koa-wagon-glamping-los-angeles-ca.jpg)</figure>
 
 #### [Ventura Ranch KOA Holiday](/go/ventura-ranch-koa-los-angeles-ca/)
 
@@ -152,7 +152,7 @@ Ventura Ranch KOA Holiday is a great glamping site for families thanks to the ab
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-002db03d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="eco-camps-glamping-temecula-ca">[![](https://hotmamatravel.com/wp-content/uploads/2021/05/eco-camps-glamping-temecula-ca.jpg)](/wp-content/uploads/2021/05/eco-camps-glamping-temecula-ca.jpg)</figure>
+<figure id="eco-camps-glamping-temecula-ca">[![](/images/eco-camps-glamping-temecula-ca.jpg)](/images/eco-camps-glamping-temecula-ca.jpg)</figure>
 
 #### [Eco-Camps Temecula](/go/eco-camps-temecula-glamping-temecula-ca/)
 

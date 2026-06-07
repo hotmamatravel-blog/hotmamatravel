@@ -14,7 +14,7 @@ author: "Amanda Keeley-Thurman"
 When it comes to California, most people tend to think of the Golden Gate Bridge, Disneyland, and Hollywood Boulevard. However, California has much more to offer than its well-known attractions. Some of California's best activities are off the beaten path, waiting to be discovered. If you're looking to explore the hidden gems of California, read on for ten unique activities that will pique your interest.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-79921152"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="hot-air-balloon-rides-temecula-california">[![](https://hotmamatravel.com/wp-content/uploads/2023/03/hot-air-balloon-rides-temecula-california.jpg)](/wp-content/uploads/2023/03/hot-air-balloon-rides-temecula-california.jpg)</figure>
+<figure id="hot-air-balloon-rides-temecula-california">[![](/images/hot-air-balloon-rides-temecula-california.jpg)](/images/hot-air-balloon-rides-temecula-california.jpg)</figure>
 
 #### [Take a Hot Air Balloon Ride](/go/hot-air-balloon-rides-temecula/)
 
@@ -24,10 +24,10 @@ Temecula Valley is home to some of the [best wineries in California](/kid-friend
 
 </div></section>
 
-<figure id="vinarmour-travel-wine-bag">[![Get your VinArmour wine travel case today](https://hotmamatravel.com/wp-content/uploads/2022/09/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg)](/go/vinarmour-luxury-wine-bag/)</figure>
+<figure id="vinarmour-travel-wine-bag">[![Get your VinArmour wine travel case today](/images/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg)](/go/vinarmour-luxury-wine-bag/)</figure>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e1b37721"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="stargazing-palm-springs-california">[![](https://hotmamatravel.com/wp-content/uploads/2023/03/stargazing-palm-springs-california.jpg)](/wp-content/uploads/2023/03/stargazing-palm-springs-california.jpg)</figure>
+<figure id="stargazing-palm-springs-california">[![](/images/stargazing-palm-springs-california.jpg)](/images/stargazing-palm-springs-california.jpg)</figure>
 
 #### [Go Stargazing](/go/stargazing-tours-palm-springs/)
 
@@ -38,7 +38,7 @@ California is home to some of the darkest skies in North America, making it an i
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2ba37648"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="explore-california-caves">[![](https://hotmamatravel.com/wp-content/uploads/2023/03/explore-california-caves.jpg)](/wp-content/uploads/2023/03/explore-california-caves.jpg)</figure>
+<figure id="explore-california-caves">[![](/images/explore-california-caves.jpg)](/images/explore-california-caves.jpg)</figure>
 
 #### [Explore a Cave](/go/best-caves-to-explore-california/)
 
@@ -49,7 +49,7 @@ Head underground and explore one of California's many caves! Whether you're inte
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-36d7b20b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="inyo-national-forest-ansel-adams-wilderness-california">[![](https://hotmamatravel.com/wp-content/uploads/2023/03/inyo-national-forest-ansel-adams-wilderness-california.jpg)](/wp-content/uploads/2023/03/inyo-national-forest-ansel-adams-wilderness-california.jpg)</figure>
+<figure id="inyo-national-forest-ansel-adams-wilderness-california">[![](/images/inyo-national-forest-ansel-adams-wilderness-california.jpg)](/images/inyo-national-forest-ansel-adams-wilderness-california.jpg)</figure>
 
 #### [Visit Ansel Adams Wilderness - Inyo National Forest](/go/ansel-adams-wilderness-yosemite-ca/)
 
@@ -60,7 +60,7 @@ The Ansel Adams Wilderness is located in central California near Yosemite Nation
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e112100d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="redwood-national-park-california">[![](https://hotmamatravel.com/wp-content/uploads/2023/03/redwood-national-park-california.jpg)](/wp-content/uploads/2023/03/redwood-national-park-california.jpg)</figure>
+<figure id="redwood-national-park-california">[![](/images/redwood-national-park-california.jpg)](/images/redwood-national-park-california.jpg)</figure>
 
 #### [Take A Hike Through The Redwood Forest](/go/redwood-national-park-california/)
 
@@ -71,7 +71,7 @@ The Redwood Forest is one of California's most iconic natural wonders and one of
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1fd6e3e5"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="learn-how-to-fly-california-aernautical-university">[![](https://hotmamatravel.com/wp-content/uploads/2022/06/learn-to-fly.jpg)](/wp-content/uploads/2022/06/learn-to-fly.jpg)</figure>
+<figure id="learn-how-to-fly-california-aernautical-university">[![](/images/learn-to-fly.jpg)](/images/learn-to-fly.jpg)</figure>
 
 #### Learn To Fly
 
@@ -80,7 +80,7 @@ If you've ever dreamed about soaring through the skies, why not [apply for fligh
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-74a92b82"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="whale-watching-california">[![](https://hotmamatravel.com/wp-content/uploads/2023/03/whale-watching-california.jpg)](/wp-content/uploads/2023/03/whale-watching-california.jpg)</figure>
+<figure id="whale-watching-california">[![](/images/whale-watching-california.jpg)](/images/whale-watching-california.jpg)</figure>
 
 #### [Go Whale Watching](/go/whale-watching-dana-point-ca/)
 
@@ -93,7 +93,7 @@ There are some many places to go whale watching from San Diego up the coast of N
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c20d9b1b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="calico-ghost-town-california">[![](https://hotmamatravel.com/wp-content/uploads/2023/03/calico-ghost-town-california.jpg)](/wp-content/uploads/2023/03/calico-ghost-town-california.jpg)</figure>
+<figure id="calico-ghost-town-california">[![](/images/calico-ghost-town-california.jpg)](/images/calico-ghost-town-california.jpg)</figure>
 
 #### [Visit An Abandoned Ghost Town](/go/calico-ghost-town-california/)
 
@@ -104,7 +104,7 @@ Explore what remains of some long-forgotten towns with visits to abandoned ghost
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9800a749"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="road-trip-california-coast">[![](https://hotmamatravel.com/wp-content/uploads/2023/03/road-trip-california-coast.jpg)](/wp-content/uploads/2023/03/road-trip-california-coast.jpg)</figure>
+<figure id="road-trip-california-coast">[![](/images/road-trip-california-coast.jpg)](/images/road-trip-california-coast.jpg)</figure>
 
 #### [Take A Road Trip Along The Pacific Coast Highway](/go/pacific-coast-highway-road-trip/)
 
@@ -115,7 +115,7 @@ Take all California offers with a road trip along its famous Pacific Coast Highw
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0fbe434f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="california-wineries-breweries">[![](https://hotmamatravel.com/wp-content/uploads/2022/03/castello-di-amorosa-kid-friendly-winery-napa-ca.jpeg)](/wp-content/uploads/2022/03/castello-di-amorosa-kid-friendly-winery-napa-ca.jpeg)</figure>
+<figure id="california-wineries-breweries">[![](/images/castello-di-amorosa-kid-friendly-winery-napa-ca.jpeg)](/images/castello-di-amorosa-kid-friendly-winery-napa-ca.jpeg)</figure>
 
 #### [Visit A Local Winery Or Brewery](/go/california-wineries/)
 
@@ -127,10 +127,10 @@ Looking for some family-friendly options? Check out our picks for the best winer
 
 </div></section>
 
-<figure>[![Get your VinArmour wine travel case today](https://hotmamatravel.com/wp-content/uploads/2022/09/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg)](/go/vinarmour-luxury-wine-bag/)</figure>
+<figure>[![Get your VinArmour wine travel case today](/images/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg)](/go/vinarmour-luxury-wine-bag/)</figure>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-42444204"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="hike-to-hollywood-sign-california">[![](https://hotmamatravel.com/wp-content/uploads/2023/03/hike-to-hollywood-sign-california.jpg)](/wp-content/uploads/2023/03/hike-to-hollywood-sign-california.jpg)</figure>
+<figure id="hike-to-hollywood-sign-california">[![](/images/hike-to-hollywood-sign-california.jpg)](/images/hike-to-hollywood-sign-california.jpg)</figure>
 
 #### [Hike to the Hollywood Sign via the Bronson Canyon Trail](/go/hollywood-sign-hike-trail-california/)
 
@@ -152,5 +152,5 @@ As you can see, California is full of hidden gems waiting to be discovered. Whet
 
 **Like it? Pin it!**
 
-<figure id="unique-off-beaten-path-california-hidden-gems">[![](https://hotmamatravel.com/wp-content/uploads/2023/03/unique-off-beaten-path-california-hidden-gems-200x300.jpg)](/images/unique-off-beaten-path-california-hidden-gems.jpg)</figure>
+<figure id="unique-off-beaten-path-california-hidden-gems">[![](/images/unique-off-beaten-path-california-hidden-gems-200x300.jpg)](/images/unique-off-beaten-path-california-hidden-gems.jpg)</figure>
 </div></section>

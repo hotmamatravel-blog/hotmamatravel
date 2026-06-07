@@ -52,13 +52,13 @@ Here is a useful infographic highlighting the top beaches near Anaheim and Disne
 <textarea onclick='this.focus();this.select()' style='width:540px;height:120px'>
 **Please include attribution to HotMamaTravel.com with this graphic.**
 
-[![The Best Beaches Near Disneyland, Anaheim CA](https://hotmamatravel.com/wp-content/uploads/2017/05/Best-Beaches-Near-Anaheim-Disneyland-Map.jpg)](https://hotmamatravel.com/beaches-near-anaheim/)
+[![The Best Beaches Near Disneyland, Anaheim CA](/images/Best-Beaches-Near-Anaheim-Disneyland-Map.jpg)](https://hotmamatravel.com/beaches-near-anaheim/)
 </textarea>
 
 ## VISITING NEWPORT BEACH
 
 
-[![Newport beach sail boats near Balboa island](https://hotmamatravel.com/wp-content/uploads/2017/05/newport-beach-sail-boats-balboa-island.jpg)](/beaches-near-anaheim/)
+[![Newport beach sail boats near Balboa island](/images/newport-beach-sail-boats-balboa-island.jpg)](/beaches-near-anaheim/)
 
 The beach is my own happy place and Newport Beach is like home to me. It is where I first tried my favorite mint chocolate chip ice cream when my family rented a beach house at the age of five. Newport Beach is where my baby girl was born. Two kids later, it is where I get to watch my children play like I did when I was little. Newport Coast truly offers something special for everyone, from the chic to the family-friendly.
 
@@ -72,7 +72,7 @@ Just south of Disneyland, it is an 18 mile drive on the 5 south to the 55 south 
 
 Despite several areas with high end shopping on Newport Coast, such as Fashion Island Mall, Newport Beach can actually be pretty laid back, especially where we like to go (and pretty much everybody else), which is 21st street. You can find metered parking on Oceanfront (you might have to circle a few times during peak hours) and do a host of family-friendly activities like walking on the Newport pier, eating ice cream at one of many local shops, grabbing a drink at one of the dive bars like Baja Sharkeez, walking along the boardwalk to see the quaint beach houses, and of course, swimming in the beautiful surf near the Newport pier. Every time we go to Newport we have to eat dinner at the Old Spaghetti Factory, our family’s all-time favorite restaurant. It is just home to us.
 
-[![Kids in Newport Beach](https://hotmamatravel.com/wp-content/uploads/2017/05/Untitled-design.png)](/beaches-near-anaheim/)
+[![Kids in Newport Beach](/images/Untitled-design.png)](/beaches-near-anaheim/)
 
 ### List of Things to do in Newport Beach:
 
@@ -94,7 +94,7 @@ Despite several areas with high end shopping on Newport Coast, such as Fashion I
 ## VISITING LAGUNA BEACH
 
 
-[![Laguna beach scenic view from ritz carlton](https://hotmamatravel.com/wp-content/uploads/2017/05/Laguna-beach-scenic-view.jpg)](/beaches-near-anaheim/)
+[![Laguna beach scenic view from ritz carlton](/images/Laguna-beach-scenic-view.jpg)](/beaches-near-anaheim/)
 
 Laguna Beach is a little piece of paradise in Orange County, California. The setting for many popular movies and television shows, Laguna Beach has definitely earned its extraordinary reputation. There are endless options for fantastic dining, miles of untouched coastline, hiking trails and tide pools to explore, and a thriving art culture. It is a beautiful mix of sophistication and simplicity. As adults, we love the variety of restaurants and rooftop cocktails. The kids love playing on the beachside playground and discovering sea life in the tide pools. In so many words, it is a great place to take the family and has a little something for everyone to love.
 
@@ -108,7 +108,7 @@ Southeast of Disneyland, it is a 25 mile drive on the 5 south to the 133 toll ro
 
 Laguna Beach is a very unique place. There are quaint, seaside boutique shops and restaurants everywhere. There are art galleries galore on just about every corner. The beach part is actually pretty small, but it never seems too crowded when we've gone. The beach has volleyball courts, a children's playground, and tide pools to explore and see little creatures and sea animals. It is impossible to leave Laguna without feeling refreshed and inspired.
 
-[![Laguna Beach](https://hotmamatravel.com/wp-content/uploads/2017/05/Untitled-design1.png)](/beaches-near-anaheim/)
+[![Laguna Beach](/images/Untitled-design1.png)](/beaches-near-anaheim/)
 
 ### List of Things to do in Laguna Beach:
 
@@ -132,7 +132,7 @@ Laguna Beach is a very unique place. There are quaint, seaside boutique shops an
 ## VISITING HUNTINGTON BEACH
 
 
-[![](https://hotmamatravel.com/wp-content/uploads/2017/05/huntington-beach-pier-lifeguard-tower.jpg)](/beaches-near-anaheim/)
+[![](/images/huntington-beach-pier-lifeguard-tower.jpg)](/beaches-near-anaheim/)
 
 Surf City USA, Huntington Beach is known for their active-lifestyle beach culture and superb surf. In fact it has been coined the “Surfing Capital of the World". Mind you, this is not due to the massive size of the swells, but rather the consistency in excellence of the waves. A beach of juxtapositions, Huntington is laidback yet active, cool yet approachable. I always got excited to hangout in Huntington, especially when I was in my early twenties. There is always some kind of festivity or sporting event going on, making this a very lively beach town and where you go if you are looking for a good time.
 
@@ -146,7 +146,7 @@ Surf City USA, Huntington Beach is known for their active-lifestyle beach cultur
 
 We used to visit Huntington Beach a lot in our twenties, and it is a great town for young singles, young couples, or younger families. Heck, who am I kidding it is a great little surf town for anybody. It just does not have an Old Spaghetti Factory, so we usually find ourselves at Newport Beach. At any rate, Huntington is the most laid back and affordable option of the three best beaches near Anaheim. The Main Street has a bunch of surf shops, bars and restaurants, and one of our favorite things to do in Huntington Beach is to dine at Ruby's on the Pier, a retro themed diner with excellent burgers and shakes. Oh yeah, and if you fancy surfing, this is absolutely the place to go, and you can even rent a board when you get there.
 
-[![Family at Huntington Beach](https://hotmamatravel.com/wp-content/uploads/2017/05/PARISIAN.png)](/beaches-near-anaheim/)
+[![Family at Huntington Beach](/images/PARISIAN.png)](/beaches-near-anaheim/)
 
 ### Things to do in Huntington Beach:
 
@@ -194,4 +194,4 @@ Have you been to the OC? What is your favorite public beach?
 ### Like it? Pin it!
 
 
-[![Best Beaches near Anaheim](https://hotmamatravel.com/wp-content/uploads/2017/05/Best-Beaches-Near-Anaheim-683x1024.png)](/beaches-near-anaheim/)
+[![Best Beaches near Anaheim](/images/Best-Beaches-Near-Anaheim-683x1024.png)](/beaches-near-anaheim/)

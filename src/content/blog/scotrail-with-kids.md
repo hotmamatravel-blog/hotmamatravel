@@ -17,7 +17,7 @@ I love train travel. There is something so relaxing about sitting back and watch
 While visiting Scotland, it was a given that we would take the train somewhere, anywhere; hence, our adventure on ScotRail. Servicing Scotland’s seven cities of Aberdeen, Edinburgh, Dundee, Glasgow, Inverness, Perth, and Stirling as well as many scenic rail journeys, ScotRail can literally take you anywhere in Scotland. Being an easy and affordable way to travel the country with your family, I'm sharing why you should ride Scotrail with kids. [**Get Your  Train Tickets**](http://www.awin1.com/cread.php?awinmid=5501&amp;awinaffid=370007&amp;clickref=Scotrail+text1&amp;p=http%3A%2F%2Ftraingenius.com%2F).
 
 
-[![Scotrail with kids](https://hotmamatravel.com/wp-content/uploads/2015/08/scotrail-1024x512.jpg)](/scotrail-with-kids/)
+[![Scotrail with kids](/images/scotrail-1024x512.jpg)](/scotrail-with-kids/)
 
 
 ## ***Seven Cities***
@@ -34,7 +34,7 @@ Known as “Granite City” many of the old building are built using this materi
 
 We took the [**ScotRail**](http://www.awin1.com/cread.php?awinmid=5501&amp;awinaffid=370007&amp;clickref=Scotrail+text1&amp;p=http%3A%2F%2Ftraingenius.com%2F)to Scotland’s capital, Edinburgh, from Glasgow. Departomg from Central Station, we arrived at Edinburgh Waverley. We were warned that maintenance work on the rail would delay our journey, which may have been true for weekday commuters, but our Saturday adventure proved to be no problem. We arrived to Edinburgh in 45 minutes. Riding comfortably, we got to gaze at the beautiful green rolling hills and relaxed. We had a fantastic day exploring the castle and the catacombs, which you read about in more detail, **[HERE](/edinburgh-castle-with-kids/)**. The kids loved it!
 
-[![Scotrail with kids](https://hotmamatravel.com/wp-content/uploads/2015/08/scotrail2-1024x1024.jpg)](/scotrail/scotrail2/) **Waverly Station**
+[![Scotrail with kids](/images/scotrail2-1024x1024.jpg)](/scotrail/scotrail2/) **Waverly Station**
 
 ### **Dundee:**
 
@@ -46,7 +46,7 @@ This rail journey offers excellent water views as you ride along River Tay and c
 
 This was our home city during our two- week stay in Scotland. It is known as the friendliest city and it was! We really loved Glasgow and encourage everyone to visit. The two train stations in the city are Central Station and Queen’s Station, both in downtown and steps for awesome restaurants and attractions. Find out more in my guide to Glasgow with Kids,**[HERE](/glasgow-with-kids/)**.
 
-[![Scotrail with kids](https://hotmamatravel.com/wp-content/uploads/2015/08/central-1024x1024.jpg)](/scotrail/central/)
+[![Scotrail with kids](/images/central-1024x1024.jpg)](/scotrail/central/)
 
 ### **Inverness:**
 
@@ -64,7 +64,7 @@ A small, big city and home to Balhousie Castle. If traveling with kids, check ou
 Home to Stirling Castle, we took the train departing from Queen Station in Glasgow and arrived at Stirling in 30 minutes. This short, comfortable train ride not only offered breathtaking views, but coffee service and snacks. We loved visiting Stirling! It is an amazing site and worth checking out. The castle is super family-friendly. After a long day sightseeing, it was nice to hop on a train for an easy journey home. Read more about visiting Stirling Castle, **[HERE](/ultimate-guide-visiting-stirling-castle-kids/)**.
 
 
-[![Scotrail with kids](https://hotmamatravel.com/wp-content/uploads/2015/08/queen-1024x1024.jpg)](/scotrail/queen/)
+[![Scotrail with kids](/images/queen-1024x1024.jpg)](/scotrail/queen/)
 
 ##  ***Scenic Rail Journeys***
 
@@ -160,6 +160,6 @@ We loved our train travel experience in Scotland. The stations are beautifully m
 
 **Like it? Pin it!**
 
-[![](https://hotmamatravel.com/wp-content/uploads/2017/03/RSR-7.png)](/scotrail-with-kids/)
+[![](/images/RSR-7.png)](/scotrail-with-kids/)
 
 &nbsp;

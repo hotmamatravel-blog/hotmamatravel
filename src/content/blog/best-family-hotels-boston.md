@@ -40,7 +40,7 @@ As an alternative, you can jump straight ahead to our list of Boston's Best Fami
 
 **[Jump to: Best all-around](#residence-inn-boston-harbor)**
 
-<figure>[![Residence Inn on the Harbor in Tudor Wharf Boston](https://hotmamatravel.com/wp-content/uploads/2019/08/family-hotel-boston-Residence-Harbor-tudor-whart-front.jpg)](#residence-inn-boston-harbor)<figcaption>*Residence Inn Boston Harbor On Tudor Wharf* </figcaption></figure>
+<figure>[![Residence Inn on the Harbor in Tudor Wharf Boston](/images/family-hotel-boston-Residence-Harbor-tudor-whart-front.jpg)](#residence-inn-boston-harbor)<figcaption>*Residence Inn Boston Harbor On Tudor Wharf* </figcaption></figure>
 
 </div>
 
@@ -48,21 +48,21 @@ As an alternative, you can jump straight ahead to our list of Boston's Best Fami
 
 **[Jump to: Top budget-friendly](#seaport-hotel)**
 
-<figure>[![Breakfast at Seaport Hotel Boston](https://hotmamatravel.com/wp-content/uploads/2019/08/boston-family-hotel-Seaport-world-trade-center-Family-Breakfast.jpg)](#seaport-hotel)<figcaption> *Seaport Hotel &amp; World Trade Center*</figcaption></figure>
+<figure>[![Breakfast at Seaport Hotel Boston](/images/boston-family-hotel-Seaport-world-trade-center-Family-Breakfast.jpg)](#seaport-hotel)<figcaption> *Seaport Hotel &amp; World Trade Center*</figcaption></figure>
 </div>
 </div>
 
 <div class="wp-block-columns has-3-columns">
 <div class="wp-block-column">
-<figure>[![Four Seasons Boston Hotel restaurant](https://hotmamatravel.com/wp-content/uploads/2019/08/kid-friendly-boston-hotel-four-seasons-restauarnt.jpg)](#four-seasons-boston)<figcaption> *Four Seasons Hotel Boston*</figcaption></figure>
+<figure>[![Four Seasons Boston Hotel restaurant](/images/kid-friendly-boston-hotel-four-seasons-restauarnt.jpg)](#four-seasons-boston)<figcaption> *Four Seasons Hotel Boston*</figcaption></figure>
 </div>
 
 <div class="wp-block-column">
-<figure>[![Kimpton nine zero hotel in Boston Lounge area](https://hotmamatravel.com/wp-content/uploads/2019/08/lounge-family-hotel-boston-Kimpton-Nine-Zero.jpg)](#kimpton-nine-zero)<figcaption> *Kimpton Nine Zero Hotel*</figcaption></figure>
+<figure>[![Kimpton nine zero hotel in Boston Lounge area](/images/lounge-family-hotel-boston-Kimpton-Nine-Zero.jpg)](#kimpton-nine-zero)<figcaption> *Kimpton Nine Zero Hotel*</figcaption></figure>
 </div>
 
 <div class="wp-block-column">
-<figure>[![City Bar in Lenox Hotel Boston](https://hotmamatravel.com/wp-content/uploads/2019/08/boston-family-hotel-city-bar-Lenox.jpg)](#lenox-hotel)<figcaption> *The Lenox Hotel*</figcaption></figure>
+<figure>[![City Bar in Lenox Hotel Boston](/images/boston-family-hotel-city-bar-Lenox.jpg)](#lenox-hotel)<figcaption> *The Lenox Hotel*</figcaption></figure>
 </div>
 </div>
 
@@ -121,7 +121,7 @@ As an alternative, you can jump straight ahead to our list of Boston's Best Fami
 Pin'able Comparison Chart:
 </div>
 
-<div class="wp-block-image"><figure class="aligncenter">![Top 5 Family Hotels in Boston Comparison Chart](https://hotmamatravel.com/wp-content/uploads/2019/08/Top-family-hotels-boston-with-kids-downtown.png)</figure></div>
+<div class="wp-block-image"><figure class="aligncenter">![Top 5 Family Hotels in Boston Comparison Chart](/images/Top-family-hotels-boston-with-kids-downtown.png)</figure></div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-color uagb-block-ba9559de-d049-4a2f-aed4-05f8b4294f04"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 <div class="wp-block-uagb-advanced-heading uagb-block-ded5c8a7-f661-45c9-a97b-28e86b470fb5" id="uagb-adv-heading-87ae4c0c-982d-4577-a06c-1c31ebb640a1">
@@ -132,7 +132,7 @@ Pin'able Comparison Chart:
 3-star hotel |  34-44 Charles River Ave, Boston MA, 02129
 </div>
 
-<figure>[![Residence inn Boston Harbor](https://hotmamatravel.com/wp-content/uploads/2019/08/boston-family-hotel-Residence-Harbor-tudor-wharf-patio.jpg)](/go/residence-inn-marriott-harbor-tudor-wharf-boston/)<figcaption>*Photo courtesy of Residence Inn Boston Harbor On Tudor Wharf*</figcaption></figure>
+<figure>[![Residence inn Boston Harbor](/images/boston-family-hotel-Residence-Harbor-tudor-wharf-patio.jpg)](/go/residence-inn-marriott-harbor-tudor-wharf-boston/)<figcaption>*Photo courtesy of Residence Inn Boston Harbor On Tudor Wharf*</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-56394de ugb-button--design-plain ugb-main-block" id=""><style>.ugb-56394de .ugb-block-content{justify-content:center}.ugb-56394de .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-56394de .ugb-button1 .ugb-button--inner,.ugb-56394de .ugb-button1 svg{color:#000000}.ugb-56394de .ugb-button1:before{border-radius:4px !important}.ugb-56394de .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container">[<svg aria-hidden="true" data-icon="images" class="svg-inline--fa ugbfa-images fa-w-18 " role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512">
 </path></svg>**See more photos**](/go/residence-inn-marriott-harbor-tudor-wharf-boston/)</div></div></div></div>
@@ -160,7 +160,7 @@ Pin'able Comparison Chart:
 </path></svg><div class="uagb-icon-list__label-wrap">No no-site restaurants (though many nearby) </div></div>](void(0);)[<div class="uagb-icon-list__content-wrap"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512">
 </path></svg><div class="uagb-icon-list__label-wrap">You have to cross bridge to get the downtown Boston activities</div></div>](void(0);)</div></div>
 
-<div class="wp-block-image"><figure class="aligncenter">[![Rooms inside Residence Inn Boston Tudor Wharf](https://hotmamatravel.com/wp-content/uploads/2019/08/inside-kid-friendly-boston-hotel-Residence-harbor-tudor-wharf-Two-Room-family-Suite.jpg)](/go/residence-inn-marriott-harbor-tudor-wharf-boston/)<figcaption>They have a room with 2 queens and sofa bed for larger families with kids</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter">[![Rooms inside Residence Inn Boston Tudor Wharf](/images/inside-kid-friendly-boston-hotel-Residence-harbor-tudor-wharf-Two-Room-family-Suite.jpg)](/go/residence-inn-marriott-harbor-tudor-wharf-boston/)<figcaption>They have a room with 2 queens and sofa bed for larger families with kids</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-36d11d03-7936-4f77-a6e0-3104ba157cee" id="uagb-adv-heading-e052679e-7378-411a-a9a2-3c1ab7ec679e">
 
@@ -186,7 +186,7 @@ Overlooking the Boston Harbor yet out of the way from hoards of tourists, Reside
 4-star hotel |  One Seaport Lane, Boston, Massachusetts 02210
 </div>
 
-<figure>[![Seaport Hotel Boston](https://hotmamatravel.com/wp-content/uploads/2019/08/family-hotel-boston-Seaport-world-trade-center-front.jpg)](/go/seaport-hotel-world-trade-center-boston/)<figcaption> *Photo courtesy of Seaport Hotel &amp; World Trade Center*</figcaption></figure>
+<figure>[![Seaport Hotel Boston](/images/family-hotel-boston-Seaport-world-trade-center-front.jpg)](/go/seaport-hotel-world-trade-center-boston/)<figcaption> *Photo courtesy of Seaport Hotel &amp; World Trade Center*</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-2f4d93b ugb-button--design-plain ugb-main-block" id=""><style>.ugb-2f4d93b .ugb-block-content{justify-content:center}.ugb-2f4d93b .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-2f4d93b .ugb-button1 .ugb-button--inner,.ugb-2f4d93b .ugb-button1 svg{color:#000000}.ugb-2f4d93b .ugb-button1:before{border-radius:4px !important}.ugb-2f4d93b .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container">[<svg aria-hidden="true" data-icon="images" class="svg-inline--fa ugbfa-images fa-w-18 " role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512">
 </path></svg>**See more photos**](/go/seaport-hotel-world-trade-center-boston/)</div></div></div></div>
@@ -214,7 +214,7 @@ Overlooking the Boston Harbor yet out of the way from hoards of tourists, Reside
 </path></svg><div class="uagb-icon-list__label-wrap">Double beds only (no queens) </div></div>](void(0);)[<div class="uagb-icon-list__content-wrap"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512">
 </path></svg><div class="uagb-icon-list__label-wrap">No complimentary breakfast</div></div>](void(0);)</div></div>
 
-<div class="wp-block-image"><figure class="aligncenter">[![Room inside Seaport Hotel Boston with kids](https://hotmamatravel.com/wp-content/uploads/2019/08/inside-kid-friendly-boston-hotel-Seaport-world-trade-center-Deluxe-Double.jpg)](/go/seaport-hotel-world-trade-center-boston/)<figcaption>Their rooms have a clean, modern decor that we really like</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter">[![Room inside Seaport Hotel Boston with kids](/images/inside-kid-friendly-boston-hotel-Seaport-world-trade-center-Deluxe-Double.jpg)](/go/seaport-hotel-world-trade-center-boston/)<figcaption>Their rooms have a clean, modern decor that we really like</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-7dd90d5d-7283-407c-9d7f-2d27d22775c8" id="uagb-adv-heading-3a082119-aa85-4d09-8f96-9950a0dedd7d">
 
@@ -240,7 +240,7 @@ When you stay at the Seaport Hotel, will have access to some of Boston’s most 
 5-star hotel |  200 Boylston Street, Boston MA, 02116
 </div>
 
-<figure>[![Lobby of Four Seasons Hotel Boston](https://hotmamatravel.com/wp-content/uploads/2019/08/boston-family-hotel-lobby-four-seasons.jpg)](/go/four-seasons-boston/)<figcaption> *Photo courtesy of Four Seasons Hotel Boston*</figcaption></figure>
+<figure>[![Lobby of Four Seasons Hotel Boston](/images/boston-family-hotel-lobby-four-seasons.jpg)](/go/four-seasons-boston/)<figcaption> *Photo courtesy of Four Seasons Hotel Boston*</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-c77491a ugb-button--design-plain ugb-main-block" id=""><style>.ugb-c77491a .ugb-block-content{justify-content:center}.ugb-c77491a .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-c77491a .ugb-button1 .ugb-button--inner,.ugb-c77491a .ugb-button1 svg{color:#000000}.ugb-c77491a .ugb-button1:before{border-radius:4px !important}.ugb-c77491a .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container">[<svg aria-hidden="true" data-icon="images" class="svg-inline--fa ugbfa-images fa-w-18 " role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512">
 </path></svg>**See more photos**](/go/four-seasons-boston/)</div></div></div></div>
@@ -265,7 +265,7 @@ When you stay at the Seaport Hotel, will have access to some of Boston’s most 
 </path></svg><div class="uagb-icon-list__label-wrap">Double beds only (no rooms with 2queens) </div></div>](void(0);)[<div class="uagb-icon-list__content-wrap"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512">
 </path></svg><div class="uagb-icon-list__label-wrap">It will cost a pretty penny</div></div>](void(0);)</div></div>
 
-<div class="wp-block-image"><figure class="aligncenter">[![Boston Four Seasons rooms](https://hotmamatravel.com/wp-content/uploads/2019/08/inside-family-hotel-boston-four-seasons-suite.jpg)](/go/four-seasons-boston/)<figcaption>Four Seasons in Boston has luxurious, upscale furnishings everywhere</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter">[![Boston Four Seasons rooms](/images/inside-family-hotel-boston-four-seasons-suite.jpg)](/go/four-seasons-boston/)<figcaption>Four Seasons in Boston has luxurious, upscale furnishings everywhere</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-4dda7abb-0cef-48c8-82ee-b364235e9dd7" id="uagb-adv-heading-e5d4d372-d9dc-4b4b-988e-ab01c6ff6a2c">
 
@@ -291,7 +291,7 @@ For dining, the Four Seasons Boston has one onsite restaurant and bar that is op
 4-star hotel |  90 Tremont Street Boston, MA 02108
 </div>
 
-<figure>[![Kimpton Nine Zero Hotel in Boston](https://hotmamatravel.com/wp-content/uploads/2019/08/family-hotel-boston-kimpton-nine-zero-front.jpg)](/go/kimpton-nine-zero-boston/)<figcaption> *Photo courtesy of Kimpton Nine Zero Hotel*</figcaption></figure>
+<figure>[![Kimpton Nine Zero Hotel in Boston](/images/family-hotel-boston-kimpton-nine-zero-front.jpg)](/go/kimpton-nine-zero-boston/)<figcaption> *Photo courtesy of Kimpton Nine Zero Hotel*</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-2cc409a ugb-button--design-plain ugb-main-block" id=""><style>.ugb-2cc409a .ugb-block-content{justify-content:center}.ugb-2cc409a .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-2cc409a .ugb-button1 .ugb-button--inner,.ugb-2cc409a .ugb-button1 svg{color:#000000}.ugb-2cc409a .ugb-button1:before{border-radius:4px !important}.ugb-2cc409a .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container">[<svg aria-hidden="true" data-icon="images" class="svg-inline--fa ugbfa-images fa-w-18 " role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512">
 </path></svg>**See more photos**](/go/kimpton-nine-zero-boston/)</div></div></div></div>
@@ -316,7 +316,7 @@ For dining, the Four Seasons Boston has one onsite restaurant and bar that is op
 </path></svg><div class="uagb-icon-list__label-wrap">They have no pool </div></div>](void(0);)[<div class="uagb-icon-list__content-wrap"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512">
 </path></svg><div class="uagb-icon-list__label-wrap">They have a $25 amenities fee per night</div></div>](void(0);)</div></div>
 
-<div class="wp-block-image"><figure class="aligncenter">[![Rooms inside Kimpton 90 Boston](https://hotmamatravel.com/wp-content/uploads/2019/08/inside-kid-friendly-boston-hotel-Kimpton-Nine-Zero-queen-guest-room.jpg)](/go/kimpton-nine-zero-boston/)<figcaption>What a view!? These rooms also have unique accents and furnishings</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter">[![Rooms inside Kimpton 90 Boston](/images/inside-kid-friendly-boston-hotel-Kimpton-Nine-Zero-queen-guest-room.jpg)](/go/kimpton-nine-zero-boston/)<figcaption>What a view!? These rooms also have unique accents and furnishings</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-bbd92f2f-b040-4796-8f2e-e739c53561c0" id="uagb-adv-heading-67161300-c915-465c-a5ed-509d38811c89">
 
@@ -342,7 +342,7 @@ Also complimentary to guests is the European style breakfast and nightly wine re
 4-star hotel |  61 Exeter Street at Boylston Boston, Massachusetts 02116
 </div>
 
-<figure>[![Lenox Hotel Boston](https://hotmamatravel.com/wp-content/uploads/2019/08/family-hotel-boston-Lenox-front.jpg)](/go/lenox-hotel-boston/)<figcaption> *Photo courtesy of The Lenox Hotel Boston*</figcaption></figure>
+<figure>[![Lenox Hotel Boston](/images/family-hotel-boston-Lenox-front.jpg)](/go/lenox-hotel-boston/)<figcaption> *Photo courtesy of The Lenox Hotel Boston*</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-a4a5fba ugb-button--design-plain ugb-main-block" id=""><style>.ugb-a4a5fba .ugb-block-content{justify-content:center}.ugb-a4a5fba .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-a4a5fba .ugb-button1 .ugb-button--inner,.ugb-a4a5fba .ugb-button1 svg{color:#000000}.ugb-a4a5fba .ugb-button1:before{border-radius:4px !important}.ugb-a4a5fba .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container">[<svg aria-hidden="true" data-icon="images" class="svg-inline--fa ugbfa-images fa-w-18 " role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512">
 </path></svg>**See more photos**](/go/lenox-hotel-boston/)</div></div></div></div>
@@ -367,7 +367,7 @@ Also complimentary to guests is the European style breakfast and nightly wine re
 </path></svg><div class="uagb-icon-list__label-wrap">They have no pool </div></div>](void(0);)[<div class="uagb-icon-list__content-wrap"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512">
 </path></svg><div class="uagb-icon-list__label-wrap">No complimentary breakfast</div></div>](void(0);)</div></div>
 
-<div class="wp-block-image"><figure class="aligncenter">[![Fireplace inside family suites Boston at Lenox Hotel](https://hotmamatravel.com/wp-content/uploads/2019/08/inside-kid-friendly-boston-hotel-Lenox-Junior-Suite.jpg)](/go/lenox-hotel-boston/)<figcaption>Yes, The Lenox Hotel has Fireplaces in some rooms. Love it!</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter">[![Fireplace inside family suites Boston at Lenox Hotel](/images/inside-kid-friendly-boston-hotel-Lenox-Junior-Suite.jpg)](/go/lenox-hotel-boston/)<figcaption>Yes, The Lenox Hotel has Fireplaces in some rooms. Love it!</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-c5708a42-8bdf-456a-90b0-59ceb9a3f507" id="uagb-adv-heading-a4bb83ed-1d0c-45ac-86e5-fb289bf9383a">
 
@@ -396,11 +396,11 @@ Well there you have it. In our opinion, these are 5 of the best family hotels in
 
 <div class="wp-block-columns has-2-columns">
 <div class="wp-block-column">
-<div class="wp-block-image"><figure class="aligncenter">![5 Best Family Hotels in Boston with kids](https://hotmamatravel.com/wp-content/uploads/2019/08/Best-family-hotels-boston-with-kids-200x300.jpg)</figure></div>
+<div class="wp-block-image"><figure class="aligncenter">![5 Best Family Hotels in Boston with kids](/images/Best-family-hotels-boston-with-kids-200x300.jpg)</figure></div>
 </div>
 
 <div class="wp-block-column">
-<div class="wp-block-image"><figure class="aligncenter">![Top 5 Family Hotels in Boston Comparison Chart](https://hotmamatravel.com/wp-content/uploads/2019/08/Top-family-hotels-boston-with-kids-downtown-200x300.png)</figure></div>
+<div class="wp-block-image"><figure class="aligncenter">![Top 5 Family Hotels in Boston Comparison Chart](/images/Top-family-hotels-boston-with-kids-downtown-200x300.png)</figure></div>
 </div>
 </div>
 

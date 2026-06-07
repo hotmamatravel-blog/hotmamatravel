@@ -23,22 +23,22 @@ Feel free to browse around by geography by clicking the cards below. **If you ha
 
 <div class="wp-block-uagb-container uagb-block-9f6c1d1f alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
 <div class="wp-block-uagb-container uagb-block-b330dab9">
-<figure>[![United States Travel Card](https://hotmamatravel.com/wp-content/uploads/2017/10/United-States.jpg)](/united-states/)</figure>
+<figure>[![United States Travel Card](/images/United-States.jpg)](/united-states/)</figure>
 </div>
 
 <div class="wp-block-uagb-container uagb-block-a6183c93">
-<figure>[![Mexico Travel Card](https://hotmamatravel.com/wp-content/uploads/2017/10/Mexico.jpg)](/mexico-family-travel/)</figure>
+<figure>[![Mexico Travel Card](/images/Mexico.jpg)](/mexico-family-travel/)</figure>
 </div>
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-f4530baf alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
 <div class="wp-block-uagb-container uagb-block-114fe0f2">
-<figure>[![Canada family travel](https://hotmamatravel.com/wp-content/uploads/2024/01/Canada-Travel-Card.jpg)](/canada-family-travel/)</figure>
+<figure>[![Canada family travel](/images/Canada-Travel-Card.jpg)](/canada-family-travel/)</figure>
 </div>
 
 <div class="wp-block-uagb-container uagb-block-56a7a102">
-<figure>[![Europe Travel Card](https://hotmamatravel.com/wp-content/uploads/2017/10/Europe.jpg)](/europe-family-travel/)</figure>
+<figure>[![Europe Travel Card](/images/Europe.jpg)](/europe-family-travel/)</figure>
 </div>
 </div></div>
 
-<figure>[![Caribbean Travel Card](https://hotmamatravel.com/wp-content/uploads/2017/10/Caribbean.jpg)](/caribbean-family-travel/)</figure>
+<figure>[![Caribbean Travel Card](/images/Caribbean.jpg)](/caribbean-family-travel/)</figure>

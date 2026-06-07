@@ -14,7 +14,7 @@ author: "Amanda Keeley-Thurman"
 
 If you followed us on our 60 day **[road trip](/family-road-trip-across-us/)** across the US last summer (#HotMamaDoesAmerica), you will have noticed that we spend a lot of time in bars, pubs, saloons and basically any place with live music and cocktails. This is just how we roll, and **there is no shame in our game**. And the kids seem to love it too.
 
-[![kids dancing in new orleans to live jazz music Market Cafe](https://hotmamatravel.com/wp-content/uploads/2018/01/kids-dancing-in-new-orleans-live-music-jazz.gif)](/kid-friendly-travel-blogger-roundup/)
+[![kids dancing in new orleans to live jazz music Market Cafe](/images/kids-dancing-in-new-orleans-live-music-jazz.gif)](/kid-friendly-travel-blogger-roundup/)
 
 One thing we noticed traveling from city to city, is just **how few resources there are on the web** for finding "kid friendly" establishments that serve great drinks and live music. We would often have to call each place to find out what time the music started and whether or not they allowed kids in the bar area.
 
@@ -68,8 +68,8 @@ To get a summary of the results at a glance, **we have created this custom, shar
 <textarea onclick='this.focus();this.select()' style='width:360px;height:120px'>
 **Please include attribution to HotMamaTravel.com with this graphic.**
 
-[![What does Kid Friendly mean to you? Roundup of 14 family travel bloggers](https://hotmamatravel.com/wp-content/uploads/2018/01/What-does-kid-friendly-mean-to-you-Infographic-735.png)](https://hotmamatravel.com/kid-friendly-travel-blogger-roundup/)
-</textarea>**[yTravelBlog.com](https://ytravelblog.com)**[![caz and crag makepeace and family ytravel blog](https://hotmamatravel.com/wp-content/uploads/2018/01/Profile-ytravel-blog.jpg)](/kid-friendly-travel-blogger-roundup/)
+[![What does Kid Friendly mean to you? Roundup of 14 family travel bloggers](/images/What-does-kid-friendly-mean-to-you-Infographic-735.png)](https://hotmamatravel.com/kid-friendly-travel-blogger-roundup/)
+</textarea>**[yTravelBlog.com](https://ytravelblog.com)**[![caz and crag makepeace and family ytravel blog](/images/Profile-ytravel-blog.jpg)](/kid-friendly-travel-blogger-roundup/)
 
 "Family friendly is not checking off a label, it's an attitude and an atmosphere. It's being welcoming and respectful towards children. It's seeing them as a present participant in the travel experience, not a side event. It's an experience that helps them learn, interact, and have fun. It doesn't have to be kid-oriented, but can be kid-friendly simply with the right attitude.
 
@@ -87,7 +87,7 @@ We spent some time recently in Nashville with the kids and visited many adult-fr
 
 Other attractions can be great at offering kid version audio tours. We had this experience at the **[Daintree Rainforest Center in Australia](https://www.ytravelblog.com/the-daintree-rainforest/)**. It would have been very boring for the girls otherwise, but the audio kept them engaged and they had scavenger hunt tasks to do. I think age appropriate ways to engage in an adult friendly activity like this can work really well."
 
-*Thank you Caz and Craig!*[**2TravelDads.com**](https://2traveldads.com)[![2 Travel Dads family travel blog](https://hotmamatravel.com/wp-content/uploads/2018/01/Profile-2-travel-dads-blog.jpg)](/?attachment_id=7655)
+*Thank you Caz and Craig!*[**2TravelDads.com**](https://2traveldads.com)[![2 Travel Dads family travel blog](/images/Profile-2-travel-dads-blog.jpg)](/?attachment_id=7655)
 
 "Being "kid-friendly" doesn't mean that that a place or experience is designed for kids, but that it is appropriate for and even encourages kids to be a part of it. A kid friendly destination is a place where kids will both be welcome and be able to enjoy themselves in some capacity. There needs to be something that's engaging in a non-academic way and probably also visually stimulating to keep a kid's attention.
 
@@ -95,7 +95,7 @@ We do fully consider how kid-friendly a place is going be before confirming trav
 
 When we're visiting a place that's clearly meant for adults, we bring along some sort of activity for the kids. If we're doing something relating to culture or history, we take the time to explain what we're doing and we talk to the kids about it before we even get there. And something really cool that many people might not know is that adult activities, such as wine tasting, usually have some sort of experience for kids too, whether it's a play area, a snack tasting, or even grapes to crush. Businesses are getting wise to the fact that parents take their kids everywhere nowadays."
 
-*Thank you Rob!*[**ExploreWithErin.com**](https://explorewitherin.com)[![Erin Holmes explore with erin](https://hotmamatravel.com/wp-content/uploads/2018/01/Profile-explore-with-erin.jpg)](/?attachment_id=7657)
+*Thank you Rob!*[**ExploreWithErin.com**](https://explorewitherin.com)[![Erin Holmes explore with erin](/images/Profile-explore-with-erin.jpg)](/?attachment_id=7657)
 
 "What isn’t Kid Friendly? Unless it is specified Adults Only my kids can do it. They understand that sometimes Mum needs to go to a museum. And that might not be as fun as a playground. So we have Parents day and kids day. Kid friendly doesn’t need to be kid oriented. Sometimes those kids might surprise you.
 
@@ -103,7 +103,7 @@ We do seek out kid hotels and kid attractions. It plays a pretty integral part o
 
 Trying to get the kid involved and interested is the key. So if you are visiting an art gallery, look to increase their interest before hand with YouTube videos on the artist. Or have them sketch while there or organize a scavenger hunt. When attending spa treatments, my daughter always comes and gets her own nails done or hair cream bath. There are so many ways kids can enjoy adult activities if one has the time, patience and knowledge on how to go about it. "
 
-*Thank you Erin!*[**TravelBabbo.com**](https://travelbabbo.com)[![Eric Stoen of Travelbabbo](https://hotmamatravel.com/wp-content/uploads/2018/01/Profile-travel-babbo.jpg)](/?attachment_id=7659)
+*Thank you Erin!*[**TravelBabbo.com**](https://travelbabbo.com)[![Eric Stoen of Travelbabbo](/images/Profile-travel-babbo.jpg)](/?attachment_id=7659)
 
 "Kid-friendly simply means that something is able to be enjoyed by my kids. It definitely doesn’t need to be kid-oriented. Some of our favorite hotels around the world aren’t kid-oriented, but they’re kid-friendly because our kids are comfortable there. The employees go out of their way to make my kids feel welcome. They’re proactive at suggesting things that we would enjoy.
 
@@ -112,7 +112,7 @@ But kid-friendliness isn’t important when we are seeking out hotels. I want to
 
 The problem is that you don’t always know what’s kid-friendly or not kid-friendly until you go. So we stay where we want to stay and hope for the best, and we’ve only been disappointed in kid-friendliness a handful of times. Likewise, we dine where we want based on the foodie tastes of our kids. We don’t need crayons. Our kids are well-behaved. I can’t think of any non-kid-friendly dining experiences that we’ve had anywhere, and we’ve eaten in a lot of the world’s best restaurants."
 
-*Thank you Eric!*[**AmorForTravel.com**](http://amorfortravel.com/)[![Anabel Newell amor for travel](https://hotmamatravel.com/wp-content/uploads/2018/01/Profile-amor-for-travel-blog.jpg)](/?attachment_id=7660)
+*Thank you Eric!*[**AmorForTravel.com**](http://amorfortravel.com/)[![Anabel Newell amor for travel](/images/Profile-amor-for-travel-blog.jpg)](/?attachment_id=7660)
 
 "The term kid-friendly to us simply means an activity our children have the ability to do and are allowed to take part in. I do not believe an activity has to be identified as kid friendly for them to be able to take part in and have a great time. For example, canoeing through Lake Louise in Canada was not advertised as kid-oriented however, as they allowed all of our kids to participate with the supervision of an adult, it became a fantastic adventure for our little ones. Gliding through the crystal blue water surrounded by incredible landscape was fun for the whole family.
 
@@ -120,7 +120,7 @@ As we narrow down what countries we visit every year, we don’t look for only k
 
 I believe many adult friendly activities can be catered to kids as the parent takes into account what he/she thinks their kids can handle and make safety a top priority. One example is when we visited the coastal region of Lima Peru where we discovered paragliding at the edge of the cliffs along the seashore. I would have never considered taking a leap off a cliff strapped to a parachute at the mercy of the wind to be a kid-friendly activity. However, we were surprised to find out the youngest age of participants to be allowed was 5 years old when we inquired. Our son who at the time was 7 years old was so excited to try it, and after much pondering we agreed to let him do it. In the end he had a great time and he still talks about what an epic time he had peacefully gliding through the air while admiring the amazing views of the coast below."
 
-*Thank you Anabel!*[**WellTraveledKids.com**](https://welltraveledkids.com)[![Sarah Hirsch well traveled kids](https://hotmamatravel.com/wp-content/uploads/2018/01/Profile-well-traveled-kids.jpg)](/?attachment_id=7663)
+*Thank you Anabel!*[**WellTraveledKids.com**](https://welltraveledkids.com)[![Sarah Hirsch well traveled kids](/images/Profile-well-traveled-kids.jpg)](/?attachment_id=7663)
 
 "We are known to push  limits in this area. Basically as long as kids aren't strictly prohibited, we believe well behaved children are always welcome everywhere. However, I think it's very important to know your own kids limits and realistically evaluate what they are capable of in any given situation. We've included our son in numerous outings that would never be deemed "Kid-oriented" but are now spectacular family memories. It's been my observation that kids have a way of rising to the occasion when offered an opportunity for an experience that is more mature than they are accustomed to in every day life.
 
@@ -128,7 +128,7 @@ When planning a family trip we really try to schedule a mix of activities, attra
 
 Sometimes we worry about that and other times we don't. We have been known to make it an adventure and try to explain why adults think the activity is so fun, and other times we just allow some screen time so that our kid is occupied and satisfied while we have some peace to enjoy the adult activity."
 
-*Thank you Sarah!*[**FiveForTheRoad.com**](https://www.fivefortheroad.com/)[![Leah Caraher Five for the road family travel blog](https://hotmamatravel.com/wp-content/uploads/2018/01/Profile-five-for-the-road.jpg)](/?attachment_id=7664)
+*Thank you Sarah!*[**FiveForTheRoad.com**](https://www.fivefortheroad.com/)[![Leah Caraher Five for the road family travel blog](/images/Profile-five-for-the-road.jpg)](/?attachment_id=7664)
 
 "I don’t really think about a place being “kid-friendly” before making plans to visit with my kids. Often, we are visiting family friendly destinations but I would not hesitate to visit a place that wasn’t targeted at families.
 
@@ -142,7 +142,7 @@ I think that any place you visit can be more kid-friendly by involving the kids.
 
 When we are planning our family travels I like to include the kids as much as possible. This makes it more fun for them but also gives you an opportunity to explain the expectations for the places you are planning to visit. A trip to the art museum is not the same as a visit to a playground. When expectations are set-up early on the kids are better able to understand what is expected."
 
-*Thank you Leah!*[**KidsAreATrip.com**](https://kidsareatrip.com)[![Kirsten Maxwell Kids are a trip travel blog](https://hotmamatravel.com/wp-content/uploads/2018/01/Profile-kids-are-a-trip.jpg)](/?attachment_id=7666)
+*Thank you Leah!*[**KidsAreATrip.com**](https://kidsareatrip.com)[![Kirsten Maxwell Kids are a trip travel blog](/images/Profile-kids-are-a-trip.jpg)](/?attachment_id=7666)
 
 "Kid friendly for us means something our kids actually enjoy doing and are able to participate in as “equals”. For example, when we look at kid friendly tours, we want to make sure they are going to keep our kids entertained and engaged, not just give them some crayons and paper. Nothing needs to be kid-oriented, but it can certainly have an element of kid-friendliness so everyone in the family can enjoy the experience.
 
@@ -150,7 +150,7 @@ Kid-friendliness is important on a certain level. We always choose a destination
 
 Recently I have seen hotels offer mock tail mixology classes instead of their adult counterparts (not sure how I feel about this). I’ve seen plenty of tour companies thinking outside of the box to accommodate children of all ages on their tours and I think they are doing a fabulous job. More resorts are offering a variety of classes for their younger guests to allow parents some quiet time instead of sitting kids in front of a tv or computer. I think properties/companies are starting to realize families want to travel and kid-friendly essential to their success."
 
-*Thank you Kirsten!*[**StrollerInTheCity.com**](http://www.strollerinthecity.com)[![Brianne Manz Stroller in the City Travel Blog](https://hotmamatravel.com/wp-content/uploads/2018/01/Profile-stroller-in-the-city.jpg)](/?attachment_id=7667)
+*Thank you Kirsten!*[**StrollerInTheCity.com**](http://www.strollerinthecity.com)[![Brianne Manz Stroller in the City Travel Blog](/images/Profile-stroller-in-the-city.jpg)](/?attachment_id=7667)
 
 "There are many styles of “kid friendly”. For me a kid friendly hotel, welcomes children. I don’t want to walk into a hotel and have everyone staring at me along with my three children. Kid Friendly for me also means there’s a children’s menu (I do prefer one with healthy options), maybe a kids club, and even some kid friendly activities during the day.
 
@@ -158,7 +158,7 @@ I don’t always seek out kid-friendly places, because I don’t want to feel as
 
 Oh I make adult-friendly activities kid friendly all the time. There’s a vineyard that plays live music out in the Hamptons every summer. It’s not 100% kid-friendly, but with a picnic blanket, the right games and snacks, the kids have a absolute blast as do the parents!"
 
-*Thank you Brianne!*[**HaveDiapersWillTravel.com**](https://havediaperswilltravel.com/)[![Kate Saville Have diapers will travel blog](https://hotmamatravel.com/wp-content/uploads/2018/01/Profile-have-diapers-will-travel.jpg)](/?attachment_id=7669)
+*Thank you Brianne!*[**HaveDiapersWillTravel.com**](https://havediaperswilltravel.com/)[![Kate Saville Have diapers will travel blog](/images/Profile-have-diapers-will-travel.jpg)](/?attachment_id=7669)
 
 "Thanks to my husband’s job, I’m often traveling alone with the kids - so to me, the term ‘kid-friendly’ means I can walk in the door with a 5-year old and a toddler and we won’t immediately be asked to leave! If we are welcome in an establishment by the people who work there, then I’m happy to call it kid-friendly, although I think some things make me more comfortable; for instance, if restaurants have kids menus, hotel rooms have cribs, or tours have kids prices, then I assume they’re used to having kids there. I think a lot of the time, parents worry about what others will say if they take their kids somewhere that you might not normally take a child; a pub in the middle of England, or a whale-watching tour in Iceland, but at the end of the day, if your kids are well-behaved, I think you’ll be welcome almost anywhere.
 
@@ -166,7 +166,7 @@ I do try to be practical when I bring my kids along though, especially to an act
 
 Above all, I try to be considerate, both of other people and of my kids. Some places just do not welcome kids, and I completely understand that; I don’t want to take them somewhere they’ll be a nuisance, it won’t be fun for anyone! But I also try to be as relaxed as possible; I want to my kids to see the world and I try to show them as much of it as possible while I have the chance."
 
-*Thank you Kate!*[**SmartMouseTravel.com**](https://smartmousetravel.com)[![Cristin Bee Smart Mouse Travel Blog](https://hotmamatravel.com/wp-content/uploads/2018/01/Profile-smart-mouse-travel.jpg)](/?attachment_id=7671)
+*Thank you Kate!*[**SmartMouseTravel.com**](https://smartmousetravel.com)[![Cristin Bee Smart Mouse Travel Blog](/images/Profile-smart-mouse-travel.jpg)](/?attachment_id=7671)
 
 "For me to consider a place kid-friendly I like for it to have the following features: kids are allowed in, there is something interesting for the kids to see or do, and there will not likely be something seen/heard that will require a discussion I am not ready to have based on the age of the child.
 
@@ -184,13 +184,13 @@ Most places can be kid-friendly with some research and care. Even at preschool a
 
 For places that may be a little less kid-focused I think the timing of your activities can do a lot to make them kid friendly. For example, we had our pool time in Las Vegas in the morning before the party people were up and moving. This allowed us to leisurely hang out at the pool until noon when rowdier crowds started to show up. For bars with live music we tend to arrive a little before the performers are set to start and then leave mid-way through the set."
 
-*Thank you Cristin!*[**MommaToGo.com**](http://mommatogo.com)[![Harmony Skillman momma to go family travel blog](https://hotmamatravel.com/wp-content/uploads/2018/01/Profile-momma-to-go.jpg)](/?attachment_id=7672)
+*Thank you Cristin!*[**MommaToGo.com**](http://mommatogo.com)[![Harmony Skillman momma to go family travel blog](/images/Profile-momma-to-go.jpg)](/?attachment_id=7672)
 
 " I have been thinking alot of about this. At first, I was all ... well any place that accepts people is kid-friendly  being that kids are people too (barring the obvious age restricted places like casinos and nightclubs where you have to be of a certain age to enter). BUT then I started thinking, and I realized its not so black and white. There are many times where we parents opted to either get a babysitter (if we are in a position to do so, like at home) OR for go'd something because the enjoyment level of us, and other patrons would be compromised by having my kids in tow. For us, the threshold did not include little ones. Examples would be expensive, fancy dinners. My kids would not eat, not enjoy, and disrupt other patrons. So for those reasons, my kids were  not welcome (by my standards). Other kids, maybe older, with better palettes, and better behaved - bring em!
 
 In fact, when I was a kid, my parents dragged us to the fanciest restaurants (always!) on vacation. Honestly I always wanted to go to McDonald's on vacation! LOL but we did learn to sit, be quiet, eat filet mignons and what not. With that in mind, we have brought our kids on casino trips, the nicer restaurants where grown ups drink wine and kids eat plain pasta or french fries. You know, a step up from Fridays but not quite your Michelin 5 star. On trips we have had jokes where "This is the grown up portion of the show" for example in Hawaii we visited a coffee farm (because I was super interested) and in the Central Coast of California visited some wineries. Not for the kids interests, but we explained to them that this is an activity mom or dad wants to do (and we do lots for the kids). But of course at the winery we brought crayons and cards and let the kids run around in the grass, stuff like that. We also kept the time spent doing adult activities to a reasonable amount."
 
-*Thank you Harmony!*[**TheWorkingMomsTravels.com**](https://theworkingmomstravels.com)[![Francesca the working moms travels blog](https://hotmamatravel.com/wp-content/uploads/2018/01/Profile-working-moms-travels.jpg)](/?attachment_id=7673)
+*Thank you Harmony!*[**TheWorkingMomsTravels.com**](https://theworkingmomstravels.com)[![Francesca the working moms travels blog](/images/Profile-working-moms-travels.jpg)](/?attachment_id=7673)
 
 "As long as I don't get attitude or disapproving looks from anyone when I walk in with my kids, almost any place can be kid-friendly!
 
@@ -198,7 +198,7 @@ We choose travel destinations based on where we want to go, then we research the
 
 My kids have been to typical "adult-friendly" places like wineries and breweries. (There really is no shame in my game!) Some such establishments make it a point to have activities or things to do for kids, knowing that Mom and Dad would like to enjoy a drink or sample a beer flight. We've seen things like kids' board games and video games at craft breweries, as well as sidewalk chalk for the kids to use on the outdoor patio."
 
-*Thank you Francesca!*[**WalkingOnTravels.com**](https://walkingontravels.com)[![Keryn Means walking on travels blog](https://hotmamatravel.com/wp-content/uploads/2018/01/Profile-walking-on-travels.jpg)](/?attachment_id=7675)
+*Thank you Francesca!*[**WalkingOnTravels.com**](https://walkingontravels.com)[![Keryn Means walking on travels blog](/images/Profile-walking-on-travels.jpg)](/?attachment_id=7675)
 
 "Kid-friendly generally means that kids are allowed in the door for my family. No one will stare at us or make rude sounds when I sit down or wander through with my troop. Kid-oriented is when a destination, attraction or restaurant is actually geared towards children. These spots have a time and a place for sure, but they aren’t the spots I like to center our trips around.
 
@@ -213,7 +213,7 @@ Kid-friendly comes in so many shapes and sizes. Simply having crayons at a resta
 
 As you can clearly see, kid friendly means a little something different to every family, and that is OK. In this blog roundup, we heard from 14 family travel experts who unanimously agree that a place definitely does not have to be kid-oriented in order to be a kid friendly travel destination. The lesson is this: Don't be afraid to take your children, no matter what age, to any city, establishment or attraction, as long as they will let you in the door with them! And I leave you with this, from when my daughter was just a year old (leave a comment if you know what movie this is from for bonus points!):
 
-[![Look you have a baby in a bar](https://hotmamatravel.com/wp-content/uploads/2018/01/baby-in-a-bar-meme.gif)](/kid-friendly-travel-blogger-roundup/)
+[![Look you have a baby in a bar](/images/baby-in-a-bar-meme.gif)](/kid-friendly-travel-blogger-roundup/)
 
 *Again, I want to thank all of the wonderful bloggers that agreed to participate in this blog roundup! You gals (and guys!) all rock - keep inspiring families to get out there with their kids and make the world a better place.*
 

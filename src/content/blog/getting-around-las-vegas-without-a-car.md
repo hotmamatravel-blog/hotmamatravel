@@ -21,7 +21,7 @@ Are you planning a trip to** [Las Vegas with your kids](/las-vegas-with-kids/)**
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-defd4698 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="map-free-las-vegas-monorail"><figure>[![map of free las vegas monorail](https://hotmamatravel.com/wp-content/uploads/2024/06/map-free-las-vegas-monorail.jpg)](/wp-content/uploads/2024/06/map-free-las-vegas-monorail.jpg)<figcaption class="uagb-image-caption">Courtesy of LV Monorail</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-defd4698 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="map-free-las-vegas-monorail"><figure>[![map of free las vegas monorail](/images/map-free-las-vegas-monorail.jpg)](/images/map-free-las-vegas-monorail.jpg)<figcaption class="uagb-image-caption">Courtesy of LV Monorail</figcaption></figure></div>
 
 The [Las Vegas Monorail](https://www.lvmonorail.com/) is a fantastic option for families, especially if you're staying along the Strip. The monorail is completely electric with zero-emission trains, and runs from the MGM Grand to the SAHARA Las Vegas, with seven stops in between. It's fast, reliable, and offers stunning views of the Strip. Kids will love the smooth ride and the chance to see the city from above.
 
@@ -99,7 +99,7 @@ In addition to the monorail, there are several free trams that connect key hotel
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-1d5690e8 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="las-vegas-pedestrian-bridges"><figure>[![Las Vegas Pedestrian Bridges](https://hotmamatravel.com/wp-content/uploads/2024/06/las-vegas-pedestrian-bridges.jpg)](/wp-content/uploads/2024/06/las-vegas-pedestrian-bridges.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-1d5690e8 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="las-vegas-pedestrian-bridges"><figure>[![Las Vegas Pedestrian Bridges](/images/las-vegas-pedestrian-bridges.jpg)](/images/las-vegas-pedestrian-bridges.jpg)</figure></div>
 
 Don’t underestimate the power of walking in Las Vegas! The Strip is about 4.2 miles long, and walking is a great way to soak in the sights, sounds, and lights of the city. To help you get the most out of your walking adventure, I have put together a full [**walking the Strip guide**](/walking-las-vegas-strip/) with more details specific to families and their safety, like which time of day and side of the Strip is better for walking with your kids. So go check that post out for all that information.
 
@@ -195,5 +195,5 @@ Also, check out our other [**Las Vegas family travel guides**](/family-friendly-
 
 Like it? Pin it!
 
-<figure id="getting-around-las-vegas-without-a-car-for-families">[![Tips For Getting Around Las Vegas Without A Car for Families](https://hotmamatravel.com/wp-content/uploads/2024/06/getting-around-las-vegas-without-a-car-for-families-200x300.jpg)](/images/getting-around-las-vegas-without-a-car-for-families.jpg)</figure>
+<figure id="getting-around-las-vegas-without-a-car-for-families">[![Tips For Getting Around Las Vegas Without A Car for Families](/images/getting-around-las-vegas-without-a-car-for-families-200x300.jpg)](/images/getting-around-las-vegas-without-a-car-for-families.jpg)</figure>
 </div></div>

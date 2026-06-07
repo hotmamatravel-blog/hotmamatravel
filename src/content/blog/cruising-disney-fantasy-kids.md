@@ -21,7 +21,7 @@ Cruising on the <strong>[Disney Fantasy](/go/disney-fantasy-cruise/)** with kids
 
 ***P.S. **Yo**u might want to have your calendar out, because you will want to book a Disney Cruise next!*
 
-[![Welcome Aboard Disney Fantasy Photo](https://hotmamatravel.com/wp-content/uploads/2016/12/237-24207386-Embrk-Terminal-21509_GPR-1024x819.jpg)](/cruising-disney-fantasy-kids/)
+[![Welcome Aboard Disney Fantasy Photo](/images/237-24207386-Embrk-Terminal-21509_GPR-1024x819_201612.jpg)](/cruising-disney-fantasy-kids/)
 
 ***HotMama Tip**: There are lots of ways to book a Disney Cruise. You can book it directly through **[Disney Cruise Line](https://disneycruise.disney.go.com/), **but you can also find some great deals at 3rd party sites like Cruise Direct, which you can check out and compare **[Right HERE](/go/disney-fantasy-cruise/)**. HotMamaTravel participates in the affiliate program with CruiseDirect (since DCL doesn't have one), so if you book through them with one of the links in this article, it will help support the cost of running this blog and allow us to keep bringing you fresh content. The price is the same for you, so it is what they call a "win-win"!*[![Disney Cruise Line](http://www.ftjcfx.com/image-8336032-10566388)](http://www.anrdoezrs.net/click-8336032-10566388)
 
@@ -33,7 +33,7 @@ Another aspect unique to Disney cruise ships is their horn system. Instead of th
 
 Currently based at Port Canaveral, Disney Fantasy only sails to the Eastern and Western Caribbean, but also making a special stop at Disney’s own private island, Castaway Cay in the Bahamas. We took the Disney Western Caribbean cruise. You can read more about the Disney Cruise ports in our other posts on [**Mexico**](/cozumel-with-kids/), [**Jamaica**](/dunns-river-falls-with-kids/)and [**Tiki Beach**](/grand-cayman-with-kids/). Additionally, a popular add-on to a Disney cruise out of Florida is to spend pre or post cruise days at Walt Disney World. For tips on making the most our your see [Inside Our Suitcase Walt Disney World Planning Guide](https://insideoursuitcase.com/walt-disney-world-planning-guide/?fbclid=IwAR2f4yqxvOnHasN4ANMioNqh25Zg3kUBsk1XSCo90057yhAvuVCrDGfb0a8).
 
-[![Disney Fantasy Ship Docked](https://hotmamatravel.com/wp-content/uploads/2016/12/DSC07596-1024x683.jpg)](/cruising-disney-fantasy-kids/) Look how big it is to the other ship!
+[![Disney Fantasy Ship Docked](/images/DSC07596-1024x683.jpg)](/cruising-disney-fantasy-kids/) Look how big it is to the other ship!
 
 **Check out our YouTube video giving you the full Disney Fantasy experience.**
 <div id="video-laptop"><iframe src="https://www.youtube.com/embed/FGcGXkkonHQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -82,7 +82,7 @@ We had the Ocean View on deck 9, which we loved. It was located right off the el
 
 First of all, the portholes are huge and they have big window seats inside, so you can comfortably gaze out at the sea. This is where the kids spent all their time in the room. It was big enough for both to enjoy at the same time. They would take their blankets up there and just sit; a rare thing for my kids. Couple times, they even fell asleep on them.
 
-[![Kids in Fantasy Oceanview State Room](https://hotmamatravel.com/wp-content/uploads/2016/12/DFRoom-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
+[![Kids in Fantasy Oceanview State Room](/images/DFRoom-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
 
 ### Disney Cruise Door Magnets
 
@@ -98,7 +98,7 @@ Once you book your cruise you will have the option of choosing between two dinne
 
 Once you have your time, you will be set on a rotation; dining in each of the three main dining rooms on different nights. You will be notified which dining room you are assigned to the evening before. The fun part is that your server follows you each night! Your servers really become like family by the end of the cruise. Our servers Iggy and Satria were awesome and so sweet with the kids. They played games, taught them magic tricks and made origami animals for each child.
 
-[![Restaurant on Disney Fantasy with kids](https://hotmamatravel.com/wp-content/uploads/2016/12/Magic-tricks-1024x696.jpg)](/cruising-disney-fantasy-kids/)
+[![Restaurant on Disney Fantasy with kids](/images/Magic-tricks-1024x696.jpg)](/cruising-disney-fantasy-kids/)
 
 #### Animator’s Palate
 
@@ -106,11 +106,11 @@ This is the most exciting dining room, for sure. It is colorful, interactive and
 
 Another night, they will have everyone at the table draw a person on their place mat. At the end of the meal they animate everyone’s drawing in a funny musical Disney montage, complete with credits.
 
-[![Animator](https://hotmamatravel.com/wp-content/uploads/2016/12/Animators-P-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
+[![Animator](/images/Animators-P-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
 
 This is also the dining room for the Disney Junior Breakfast. This is a character dining experience that, although does not cost an additional fee, it does require per-boarding reservations that you can make online. Make reservations as early as possible, because this is very popular and fills up fast.
 
-[![Disney Jr Breakfast on Fantasy](https://hotmamatravel.com/wp-content/uploads/2016/12/DJBrk-1-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
+[![Disney Jr Breakfast on Fantasy](/images/DJBrk-1-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
 
 #### Royal Court
 
@@ -118,13 +118,13 @@ This dining room is inspired by the Disney princesses. Everything is very elegan
 
 A formal sit down breakfast is served here daily as well as the Royal Court Royal Tea. This is another character dining experience with the Disney Princesses, but it does cost an additional charge.
 
-[![Family Dinner Royal Court Disney Fantasy](https://hotmamatravel.com/wp-content/uploads/2016/12/DSC08291-1024x683.jpg)](/cruising-disney-fantasy-kids/)
+[![Family Dinner Royal Court Disney Fantasy](/images/DSC08291-1024x683.jpg)](/cruising-disney-fantasy-kids/)
 
 #### Enchanted Garden
 
 Designed to look like the garden of Versailles, the room is complete with fountains and the changing of colors throughout the meal represent an afternoon picnic. It starts with a bright blue of morning skies, then transforms to the pinks and reds of sunset. By the end of the meal, the room is aglow with the twinkling lights of evening stars. The menu is as fresh and seasonal as the garden design. There is also a breakfast buffet offered in this dining room each morning.
 
-[![Family Dinner Enchanted Garden Disney Cruise](https://hotmamatravel.com/wp-content/uploads/2016/12/DSC07153-1024x683.jpg)](/cruising-disney-fantasy-kids/)
+[![Family Dinner Enchanted Garden Disney Cruise](/images/DSC07153-1024x683_201612.jpg)](/cruising-disney-fantasy-kids/)
 
 ### Adults-only Dining
 
@@ -148,13 +148,13 @@ Three quick service eating options located on the Lido Deck near the pool, which
 
 This is a tropical, beachy buffet located on the Lido Deck. Open for breakfast, lunch and dinner, Cabanas offers a great alternative for those looking for a casual dining experience at their leisure. We frequented Cabanas for breakfast, but I enjoy the main dining rotation too much to give it up for a buffet dinner. However, my sister did opt to miss main dining one night in order to have a freestyle dinner.
 
-[![Cabanas Buffet Disney Fantasy with kids](https://hotmamatravel.com/wp-content/uploads/2016/12/Cabanas-1024x512.jpg)](/cruising-disney-fantasy-kids/)
+[![Cabanas Buffet Disney Fantasy with kids](/images/Cabanas-1024x512.jpg)](/cruising-disney-fantasy-kids/)
 
 #### Frozone
 
 Unlimited frozen treats? Yes! The soft serve is complimentary and a favorite of our family. For an additional charge you may have a made to order smoothie. Delicious treats are perfect for hot days spent by the pool.
 
-[![Disney Fantasy Frozone](https://hotmamatravel.com/wp-content/uploads/2016/12/IMG_4082-682x1024.jpg)](/cruising-disney-fantasy-kids/)
+[![Disney Fantasy Frozone](/images/IMG_4082-682x1024.jpg)](/cruising-disney-fantasy-kids/)
 
 ### Room Service
 
@@ -168,19 +168,19 @@ Although soft drinks, juice, milk, etc. are included, alcohol is not. However th
 
 This is where you will most likely have your first drink onboard. It is where we did! The Bon Voyage bar is located in the Main Atrium of the Disney Fantasy. At the time of our cruise the bar was decorated for Halloween as it was Halloween on the High Seas, which you can read about, HERE. Normally, this bar has an Art Deco appearance, but had a beautiful black bat. It is great for meeting up with family and grabbing a cocktail before heading to other parts of the ship. Time it right and you could make happy hour.
 
-[![Disney Fantasy Bon Voyage Bar](https://hotmamatravel.com/wp-content/uploads/2016/12/DSC06956-1024x683.jpg)](/cruising-disney-fantasy-kids/)
+[![Disney Fantasy Bon Voyage Bar](/images/DSC06956-1024x683.jpg)](/cruising-disney-fantasy-kids/)
 
 ### Europa
 
 On the fourth deck is the magical world of Europa! Five bars, representing five destinations grace this section of the ship. Yes, I was in heaven and spent my evenings bar hopping in European utopia.
 
-[![Europa Disney Fantasy kids](https://hotmamatravel.com/wp-content/uploads/2016/12/DSC07090-1024x683.jpg)](/cruising-disney-fantasy-kids/)
+[![Europa Disney Fantasy kids](/images/DSC07090-1024x683.jpg)](/cruising-disney-fantasy-kids/)
 
 ### Skyline
 
 Coming off the stairs or elevator, Skyline is the first bar that greets you. This bar reminded me of a New York penthouse with dark lighting, chic grey furnishing accessorized with silver studs. Everything is backlit with the slight glow from the fireplace. What makes this place really fabulous is that the bar has panoramic city skyline views that change periodically throughout the evening. Sip a signature cocktail from the backlit menu, each drink representing the rotating skylines of St. Petersburg, Athens, Florence, Budapest, Paris London and Barcelona. Another fun tidbit, look closely in the windows of the buildings, because you never know when a Disney character might pop into view to say hi.
 
-[![Skyline Lounge Disney Fantasy](https://hotmamatravel.com/wp-content/uploads/2016/12/Skyline-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
+[![Skyline Lounge Disney Fantasy](/images/Skyline-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
 
 ### The Tube
 
@@ -192,31 +192,31 @@ Wonder through the Barcelona inspired hallway, where the restrooms are worth che
 
 Upon exiting the Spanish hallway, you find yourself in this cute French looking courtyard. This section is important after midnight, for that is when yummy little appetizers are served. In between bar hopping, be sure to grab a snack.
 
-[![Kids on Disney Fantasy](https://hotmamatravel.com/wp-content/uploads/2016/12/DSC07079-1024x683.jpg)](/cruising-disney-fantasy-kids/)
+[![Kids on Disney Fantasy](/images/DSC07079-1024x683.jpg)](/cruising-disney-fantasy-kids/)
 
 ### Ooh La La
 
 Champs anyone? Glam, chic and totally French, Ooh La La is the champagne bar that will leave you feeling très sexy. Decorated with Victorian furniture, the romantic setting was enhanced with dim lighting and pink velvet-tufted walls. Oh and the bar was just breathtaking with glowing glass bubbles that seem to float to the ceiling. Naturally, we girls had to sip some sparkling bubbles while sitting at the sparkling bubble bar.
 
-[![Ladies at Ooh La La Disney Fantasy](https://hotmamatravel.com/wp-content/uploads/2016/12/Ohlala-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
+[![Ladies at Ooh La La Disney Fantasy](/images/Ohlala-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
 
 ### La Piazza
 
 Sitting it the center, between Ooh La La and O’Gills, is La Piazza. Adults can pull up anywhere to enjoy an Italian libation around the 360 bar. Reminiscent of a vintage carousel this bar is complete with the charming glow of fairground lights. The atmosphere is bright, airy and playful like the many outdoor plazas in Italy. During the day families are welcomed to enjoy a game of trivia and by night adults can enjoy the sounds live music. I took my kids down for a mocktail one afternoon at sea, but they were more interested in the Vespa on display. Yes, you can take photo ops.
 
-[![Kids at La Piazza Disney Fantasy](https://hotmamatravel.com/wp-content/uploads/2016/12/Piaza-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
+[![Kids at La Piazza Disney Fantasy](/images/Piaza-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
 
 ### O’Gills
 
 This is the Irish pub and our go-to bar of the trip. What can I say? We are pub people. This warm and cozy bar is where Papa and HotDaddy snuck away to play a fantasy football draft, where we would pop in for an afternoon Guinness, and where all of us would inevitably end up for a nightcap and game of trivia. For dads traveling during football season, O’Gill’s has several televisions for your game-day viewing pleasure.
 
-[![O Gills Pub Disney Fantasy](https://hotmamatravel.com/wp-content/uploads/2016/12/OGills-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
+[![O Gills Pub Disney Fantasy](/images/OGills-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
 
 ### Meridian Bar
 
 This bar is not located in Europa. This secret bar is hidden between Remy and Palo on deck 12. Okay, it is not technically secret, but it is hard to find if you aren’t looking for it. We only knew about it when one of the ship’s officers took us up there one night, as it is his favorite spot on the ship. I can see why. Although most of the bar is indoors with the style of classic old-world sea travel, it is the patio that we fell for. The open air patio not only has the refreshing ocean breezes, but also spots to enjoy an evening cigar. Didn’t bring your own cigar, no worries Meridian bar has some great ones for purchase.
 
-[![Meridian Bar Disney Fantasy](https://hotmamatravel.com/wp-content/uploads/2016/12/Meridian-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
+[![Meridian Bar Disney Fantasy](/images/Meridian-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
 
 ### Currents
 
@@ -230,7 +230,7 @@ I’m just going to say it.
 
 As much as you may want to, you cannot do it all. There is so much to do Disney Cruise vacations. Live shows, dance parties, various events and activities will have you in trouble deciding what to do each day. Every night you will receive the next day’s Disney Cruise itinerary with your turndown service. Disney recommends you bring different color highlighters to keep track of each family member’s daily choice of activities. Some activities vary, depending on the theme of the cruise, but here is list of staple events &amp; activities that occur on the Disney Fantasy ship.
 
-[![Towel Origami Disney Cruise](https://hotmamatravel.com/wp-content/uploads/2016/12/DSC07166-1024x683.jpg)](/cruising-disney-fantasy-kids/)
+[![Towel Origami Disney Cruise](/images/DSC07166-1024x683.jpg)](/cruising-disney-fantasy-kids/)
 
 ### Pools
 
@@ -238,29 +238,29 @@ As much as you may want to, you cannot do it all. There is so much to do Disney 
 
 This is the water coaster that encircles the whole top deck, even stretching out over the sea. Seating two per inner tube, riders must be 42” tall to ride with an adult and 54” to ride alone. This is a very popular attraction and the line can get very long, but the kids love it! A couple days into the cruise and you find the best times to get on fast.
 
-[![Aquaduck Disney Fantasy Cruise](https://hotmamatravel.com/wp-content/uploads/2016/12/Aquaduck-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
+[![Aquaduck Disney Fantasy Cruise](/images/Aquaduck-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
 
 #### The Aqualab
 
 Although you can find the Aquaduck on another ship, like the Dream, the Aqualab is only found on the Fantasy. Located just behind the Aquaduck, this splash zone is a really fun spot for the kiddos.
 
-[![Aqualab Disney Fantasy with kids](https://hotmamatravel.com/wp-content/uploads/2016/12/Aqualab-1024x913.jpg)](/cruising-disney-fantasy-kids/)
+[![Aqualab Disney Fantasy with kids](/images/Aqualab-1024x913.jpg)](/cruising-disney-fantasy-kids/)
 
 #### Nemo’s Reef
 
 For the little kids, there is a more mellow water play area for them. Nemos’ Reef has fun little splash zones and a small slide that my son really enjoyed. I loved that is was covered, providing much needed shade.
 
-[![Kids at Nemos Reef Disney Cruise](https://hotmamatravel.com/wp-content/uploads/2016/12/Nemo-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
+[![Kids at Nemos Reef Disney Cruise](/images/Nemo-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
 
 #### Mickey Pool
 
 There is a bigger pool (Donald’s Pool) on the Lido Deck, but the Mickey Pool is perfect for the little ones. It is small and shallow and located right by the Nemo’s Reef. Right next to the pool is the yellow water slide. Although the slide is much smaller than the Aquaduck, my son would not go down it alone. I had to go up a get him down three times!! So embarrassing!
 
-[![Mickeys Pool Disney Fantasy with Kids](https://hotmamatravel.com/wp-content/uploads/2016/12/Mickey-pool-1024x512.jpg)](/cruising-disney-fantasy-kids/)
+[![Mickeys Pool Disney Fantasy with Kids](/images/Mickey-pool-1024x512.jpg)](/cruising-disney-fantasy-kids/)
 
 In addition to all the water fun, Disney movies are constantly being play on the Funnel Vision screen poolside.
 
-[![Disney Fantasy Pool Deck](https://hotmamatravel.com/wp-content/uploads/2016/12/DSC06982-1024x683.jpg)](/cruising-disney-fantasy-kids/)
+[![Disney Fantasy Pool Deck](/images/DSC06982-1024x683.jpg)](/cruising-disney-fantasy-kids/)
 
 #### Cove
 
@@ -304,7 +304,7 @@ For ages 3 to 12, this area is super popular and for good reason. My older nephe
 
 The fun thing is that there is always an event or party going on and Disney Characters often make an appearance. There is even a dining area where meals are provided. My kids often snuck meals there, even though I always pulled them out to dine with us. It was fun for them to eat with other kids and my son even cried when I pulled him out before the dinner in the kids club.
 
-[![Kids in Oceaneer Club Disney Fantasy](https://hotmamatravel.com/wp-content/uploads/2016/12/Oceaner-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
+[![Kids in Oceaneer Club Disney Fantasy](/images/Oceaner-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
 
 #### Edge
 
@@ -336,39 +336,39 @@ Sun-up to sun-down, there is always something going on while cruising the Disney
 
 This is the first party of your cruise. It takes place on the Lido Deck (pool deck) and starts as the Disney Fantasy is pulling away from port. There are characters, music and dancing. The musical horns blow, too! Oh my gosh, it is just a really exciting event as you set out to sea on your magical adventure.
 
-[![Sail away Disney Cruise](https://hotmamatravel.com/wp-content/uploads/2016/12/Sail-away-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
+[![Sail away Disney Cruise](/images/Sail-away-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
 
 #### Pirate Party
 
 Every cruise has pirate night, so don’t forget to pack you pirate wear. This is an amusing dress-up night loaded with pirate themed events. There are pirate themed games, dance parties, shows and even a firework show over the dark sea! Jack Sparrow makes an appearance, performing crazy stunts on deck, like dangling from the horn shaft! It is a wild night!
 
-[![Family Portrait Pirate Night Disney Cruise](https://hotmamatravel.com/wp-content/uploads/2016/12/237-24445158-DCL-Pirate-Shipwreck-21594_GPR-819x1024.jpg)](/cruising-disney-fantasy-kids/)
+[![Family Portrait Pirate Night Disney Cruise](/images/237-24445158-DCL-Pirate-Shipwreck-21594_GPR-819x1024_201612.jpg)](/cruising-disney-fantasy-kids/)
 
-[![Pirate night with kids Disney Fantasy](https://hotmamatravel.com/wp-content/uploads/2016/12/Pirate-Night-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
+[![Pirate night with kids Disney Fantasy](/images/Pirate-Night-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
 
 #### Formal Night &amp; Welcome Cocktail Party
 
 The second night on board is the welcome night where everyone cleans up nicely, wearing their evening best. The Captain hosts a welcome cocktail party, offering complimentary cocktails and mocktails to the passengers. We were putting down the free drinks, but it was my son who dropped his mocktail, shattering it on the floor. Yes, the mocktails come in a glass, so parents beware.
 
-[![Formal Family Portrait Disney Fantasy](https://hotmamatravel.com/wp-content/uploads/2016/12/237-24299811-F-Stairs-3-MS-21551_GPR-819x1024.jpg)](/cruising-disney-fantasy-kids/)
+[![Formal Family Portrait Disney Fantasy](/images/237-24299811-F-Stairs-3-MS-21551_GPR-819x1024.jpg)](/cruising-disney-fantasy-kids/)
 
 #### See You Real Soon
 
 This is the farewell party the last night on the ship. It is held in the Main Atrium and includes live music, characters and dancing. It is actually kind of sad, because your trip is over and I don’t like a good time to end.
 
-[![Disney Characters on Halloween Cruise](https://hotmamatravel.com/wp-content/uploads/2016/12/see-you-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
+[![Disney Characters on Halloween Cruise](/images/see-you-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
 
 #### Themed Parties
 
 Depending on your sail dates, there may a theme to your cruise and an accompanying party. For example we sailed during October for Halloween on the High Seas, which you can read more about, **[HERE](/halloween-on-the-high-seas/)**. In addition to the events listed above, we also had Halloween party, games, and events.
 
-[![Family in Costume Disney Cruise](https://hotmamatravel.com/wp-content/uploads/2016/12/237-24339562-DCL-Halloween-3-Port-21580_GPR-819x1024.jpg)](/cruising-disney-fantasy-kids/)
+[![Family in Costume Disney Cruise](/images/237-24339562-DCL-Halloween-3-Port-21580_GPR-819x1024_201612.jpg)](/cruising-disney-fantasy-kids/)
 
 #### Character Meet &amp; Greet
 
 Characters are all over the ship, so there are plenty of opportunities for photo ops. There a a couple that require per-reserved tickets, but we didn't do those ones. Your daily itinerary will inform you of the times and locations of meet and greets.
 
-[![Kids with Disney Characters on Cruise](https://hotmamatravel.com/wp-content/uploads/2016/12/Characters-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
+[![Kids with Disney Characters on Cruise](/images/Characters-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
 
 ## That’s a Wrap!
 
@@ -384,4 +384,4 @@ Oh boy, this was a long post. I know covered a lot, but I wanted to take you on 
 
 **Like it? Pin it!**
 
-[![Guide to Cruising the Disney Fantasy](https://hotmamatravel.com/wp-content/uploads/2016/12/CDF-6.png)](/cruising-disney-fantasy-kids/)
+[![Guide to Cruising the Disney Fantasy](/images/CDF-6.png)](/cruising-disney-fantasy-kids/)

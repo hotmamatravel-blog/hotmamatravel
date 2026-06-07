@@ -25,7 +25,7 @@ Curious about the best-kept secrets of this picturesque town? Discover the true 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-da06c274"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="sunset-carricitos-beach-sayulita-mexico">[![](https://hotmamatravel.com/wp-content/uploads/2023/07/sunset-carricitos-beach-sayulita-mexico.jpg)](/wp-content/uploads/2023/07/sunset-carricitos-beach-sayulita-mexico.jpg)</figure>
+<figure id="sunset-carricitos-beach-sayulita-mexico">[![](/images/sunset-carricitos-beach-sayulita-mexico.jpg)](/images/sunset-carricitos-beach-sayulita-mexico.jpg)</figure>
 
 #### [Experience the Mesmerizing Sunset at Carricitos Beach](/go/carricitos-beach-sayulita-mexico/)
 
@@ -38,7 +38,7 @@ Want to know the secret spot? Make your way to Carricitos Beach, fondly known as
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c6da8743"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="whale-watching-tours-sayulita-mexico">[![](https://hotmamatravel.com/wp-content/uploads/2023/03/whale-watching-california.jpg)](/wp-content/uploads/2023/03/whale-watching-california.jpg)</figure>
+<figure id="whale-watching-tours-sayulita-mexico">[![](/images/whale-watching-california.jpg)](/images/whale-watching-california.jpg)</figure>
 
 #### [Embark on a Majestic Whale-Watching Journey](/go/whale-watching-sayulita-mexico/)
 
@@ -52,7 +52,7 @@ Imagine witnessing these magnificent creatures up close, their size mesmerizing 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8de05758"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="galleries-shops-sayulita-mexico">[![](https://hotmamatravel.com/wp-content/uploads/2023/07/galleries-shops-sayulita-mexico.jpg)](/wp-content/uploads/2023/07/galleries-shops-sayulita-mexico.jpg)</figure>
+<figure id="galleries-shops-sayulita-mexico">[![](/images/galleries-shops-sayulita-mexico.jpg)](/images/galleries-shops-sayulita-mexico.jpg)</figure>
 
 #### [Explore the Many Galleries of Sayulita](/things-to-do-in-sayulita-in-2023/)
 
@@ -71,7 +71,7 @@ much more meaningful and worthwhile.
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-62d68c02"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="mezcal-tour-sayulita-mexico">[![](https://hotmamatravel.com/wp-content/uploads/2023/07/mezcal-tour-sayulita-mexico.jpg)](/wp-content/uploads/2023/07/mezcal-tour-sayulita-mexico.jpg)</figure>
+<figure id="mezcal-tour-sayulita-mexico">[![](/images/mezcal-tour-sayulita-mexico.jpg)](/images/mezcal-tour-sayulita-mexico.jpg)</figure>
 
 #### [Indulge in Sayulita's Eclectic Mezcal Selection](/go/tacos-tequila-mezcal-tour-sayulita-mexico/)
 
@@ -85,7 +85,7 @@ selection, you'll have the pleasure of choosing from over 50 mesmerizing Mezcal 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2ccb6e52"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="surf-camp-sayulita-mexico">[![](https://hotmamatravel.com/wp-content/uploads/2023/07/surf-camp-sayulita-mexico.jpg)](/wp-content/uploads/2023/07/surf-camp-sayulita-mexico.jpg)</figure>
+<figure id="surf-camp-sayulita-mexico">[![](/images/surf-camp-sayulita-mexico.jpg)](/images/surf-camp-sayulita-mexico.jpg)</figure>
 
 #### [Ride the Waves at Sayulita's Dynamic Surf Camps](/go/surf-camps-sayulita-mexico/)
 
@@ -102,7 +102,7 @@ For those venturing into surfing for the first time, the [WildMex 7-Day Progress
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b167aa91"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="surf-school-sayulita-mexico">[![](https://hotmamatravel.com/wp-content/uploads/2023/07/surf-school-sayulita-mexico.jpg)](/wp-content/uploads/2023/07/surf-school-sayulita-mexico.jpg)</figure>
+<figure id="surf-school-sayulita-mexico">[![](/images/surf-school-sayulita-mexico.jpg)](/images/surf-school-sayulita-mexico.jpg)</figure>
 
 #### [Experience the Ultimate Surfing Adventure](/go/surf-school-sayulita-mexico/)
 
@@ -115,7 +115,7 @@ Sayulita offers ideal conditions for year-round surfing, making this the ideal s
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d6bdc1aa"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="day-of-the-dead-sayulita-mexico">[![](https://hotmamatravel.com/wp-content/uploads/2023/07/day-of-the-dead-sayulita-mexico.jpg)](/wp-content/uploads/2023/07/day-of-the-dead-sayulita-mexico.jpg)</figure>
+<figure id="day-of-the-dead-sayulita-mexico">[![](/images/day-of-the-dead-sayulita-mexico.jpg)](/images/day-of-the-dead-sayulita-mexico.jpg)</figure>
 
 #### Embrace the Spirit of the Day of the Dead
 
@@ -129,7 +129,7 @@ some delectable treats from nearby shacks offering mouthwatering food and refres
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c457549f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="open-air-markets-sayulita-mexico">[![](https://hotmamatravel.com/wp-content/uploads/2023/07/open-air-markets-sayulita-mexico.jpg)](/wp-content/uploads/2023/07/open-air-markets-sayulita-mexico.jpg)</figure>
+<figure id="open-air-markets-sayulita-mexico">[![](/images/open-air-markets-sayulita-mexico.jpg)](/images/open-air-markets-sayulita-mexico.jpg)</figure>
 
 #### [Immerse Yourself in the Bohemian Charm of Open-Air Markets](/go/market-tours-sayulita-mexico/)
 
@@ -155,5 +155,5 @@ travel moments with us.
 
 **Like it? Pin it!**
 
-<figure id="best-things-to-do-in-sayulita-mexico">[![](https://hotmamatravel.com/wp-content/uploads/2023/07/best-things-to-do-in-sayulita-mexico-200x300.jpg)](/images/best-things-to-do-in-sayulita-mexico.jpg)</figure>
+<figure id="best-things-to-do-in-sayulita-mexico">[![](/images/best-things-to-do-in-sayulita-mexico-200x300.jpg)](/images/best-things-to-do-in-sayulita-mexico.jpg)</figure>
 </div></section>

@@ -18,7 +18,7 @@ Honestly, I didn’t know much about it until I started planning our [family vac
 
 The thought of exploring the Vancouver rain forest via suspension bridge was just too enchanting to pass up - yes, even with three little kids and a scaredy-cat grandma in tow.
 
-![Raining at Capilano Suspension Bridge Park](https://hotmamatravel.com/wp-content/uploads/2018/09/kids-at-capilano-suspension-bridge-park.jpg)
+![Raining at Capilano Suspension Bridge Park](/images/kids-at-capilano-suspension-bridge-park.jpg)
 
 So, come rain or shine we made it a priority to visit Capilano Suspension Bridge Park. And boy, we are glad we did!
 
@@ -40,7 +40,7 @@ Then in 1914 a gentleman by the name of Edward Mahon purchase the land and bridg
 
 As fate would have it, Mac later bought the bridge and in 1935 he asked the First Nations to display their beautiful totem poles around the park.
 
-![Capilano Totem Poles Kia](https://hotmamatravel.com/wp-content/uploads/2018/09/Vancouver-Capilano-totem-poles.jpg)
+![Capilano Totem Poles Kia](/images/Vancouver-Capilano-totem-poles.jpg)
 
 Then in 1953 a man by the name of Rae Mitchell purchased the bridge and land, rebuilding the bridge, developing trails and even turning Edward Mahon’s old tea house into the Trading Post Gift Store is it today.
 
@@ -58,23 +58,23 @@ In this area of the park, visitors get to view the amazing totem poles that stan
 
 Let's face it folks, this is the main attraction! Everyone comes to Capilano Park to cross this massive, historic suspension bridge. The Capilano bridge stretches 450-feet across the Capilano River, suspending high above the Vancouver rainforest at 230-feet.
 
-![View of Capilano suspension bridge](https://hotmamatravel.com/wp-content/uploads/2018/09/Capilano-suspension-bridge-family.jpg)
+![View of Capilano suspension bridge](/images/Capilano-suspension-bridge-family.jpg)
 
 Actually, in preparation for this trip we watched several YouTube videos of the bridge to get an idea of what crossing the Capilano Suspension Bridge would be like.
 
 But let me tell you, nothing prepares you for what it is truly like in person. As cliché as it sounds, breathtaking pretty much sums it up.
 
-![View from Capilano Suspension Bridge](https://hotmamatravel.com/wp-content/uploads/2018/09/Capilano-View-from-bridge-2.gif)
+![View from Capilano Suspension Bridge](/images/Capilano-View-from-bridge-2.gif)
 
 Just a warning, the bridge is pretty wobbly. Not dangerously so, but perhaps uncomfortably for some. For example, my mom couldn’t get her bearings and had to turn around and get off. Because it is very high and sways, it can be a bit disorienting for some.
 
 It was a little tricky for me at first too, because I was juggling a phone and umbrella and had a 20 lb baby Kent strapped to the front of me and a backpack strapped to the back. However, I did find my groove and the bridge was significantly less wobbly in the middle and that’s where the best views are anyway.
 
-![Standing on the Capilano Suspension Bridge](https://hotmamatravel.com/wp-content/uploads/2018/09/Capilano-Suspension-Bridge.gif)
+![Standing on the Capilano Suspension Bridge](/images/Capilano-Suspension-Bridge.gif)
 
 Now, I am told that the bridge and park can get very crowded and I am sure that the crowds could take away from some of the magic. However, we went on a cool and rainy Vancouver morning and stayed all day until closing at 6:00pm. We had a lovely experience!
 
-![](https://hotmamatravel.com/wp-content/uploads/2018/09/Family-on-suspension-bridge-Capilano-Park.jpg)
+![](/images/Family-on-suspension-bridge-Capilano-Park.jpg)
 
 The crowds actually dispersed later in the afternoon for us, so keep that in mind when you plan your trip.
 
@@ -82,7 +82,7 @@ The crowds actually dispersed later in the afternoon for us, so keep that in min
 
 Once you make it across the Capilano Suspension Bridge, you can start exploring the other exciting trails. With the Treeptops Adventure you get a chance to view the Vancouver rainforest from a squirrel’s perspective thanks to a series of 110-feet high suspension bridges attached to the 250 year old Douglas Firs.
 
-![Tree tops adventure at Capilano Park Vancouver](https://hotmamatravel.com/wp-content/uploads/2018/09/Capilano-treetops-adventure-with-kids.jpg)
+![Tree tops adventure at Capilano Park Vancouver](/images/Capilano-treetops-adventure-with-kids.jpg)
 
 The kids participated in the Kids’ Rain forest Explorer Program by completing a fun little scavenger hunt as we made our way high above the forest floor. It made the already thrilling adventure even more exciting and engaging for the kids.
 
@@ -96,11 +96,11 @@ Down along the Nature’s Edge Walk is Raptors Ridge where visitors can learn ab
 
 The Cliff Walk is located near the entrance of the suspension bridge. So, you will want to do this either before you cross the bridge for the first time or after you get back. We completed the Cliff Walk after we returned from our Treetops Adventure and after a yummy lunch at Cliff House Restaurant.
 
-![Family at Capilano Cliff Walk Vancouver](https://hotmamatravel.com/wp-content/uploads/2018/09/family-scared-cliff-walk-Capilano-Park.jpg)
+![Family at Capilano Cliff Walk Vancouver](/images/family-scared-cliff-walk-Capilano-Park.jpg)
 
 Frankly, this was a bit freakier to us then the huge suspension bridge. This is the newest attraction at Capilano Suspension Bridge Park and may be the most thrilling. You literally walk along the cliff’s edge on a series of suspended narrow walkways.
 
-![Cliffwalk at Capilano Suspension Bridge Park with kids](https://hotmamatravel.com/wp-content/uploads/2018/09/Capilano-cliffwalk.gif)
+![Cliffwalk at Capilano Suspension Bridge Park with kids](/images/Capilano-cliffwalk.gif)
 
 It is so narrow guys! You honestly feel like nothing is separating you from the canyon below. There are even sections and lookouts that are see-through and where there is visually nothing preventing you from falling hundreds of feet! The Cliff Walk Vancouver will absolutely get your heart pumping.
 
@@ -110,7 +110,7 @@ It is so narrow guys! You honestly feel like nothing is separating you from the 
 
 This is cozy full-service restaurant with gorgeous views of the Capilano Canyon. Complete with a roaring fireplace, hanging candelabras and full craft cocktail bar, this place is a winner in our book!
 
-![Capilano Cliff House Restaurant](https://hotmamatravel.com/wp-content/uploads/2018/09/Capilano-cliffhouse-restaurant.gif)
+![Capilano Cliff House Restaurant](/images/Capilano-cliffhouse-restaurant.gif)
 
 We hung out here for a long time during our visit to the park. All that adventure and rain sure worked up an appetite….and thirst, so we couldn’t wait to get snug at the Cliff House restaurant. The food was delicious, the beer selection was great and the atmosphere was everything you would want and expect for a forest adventure in British Columbia.
 
@@ -134,7 +134,7 @@ A quick-service option, the Logger’s Grill is where you can grab a delicious C
 
 I heard some people complain about the price of Capilano Suspension Bridge tickets. It may seem a little high at first glance, but if you consider the fact that it goes into preserving this beautiful coastal rain forest, it doesn’t seem like such a hard pill to swallow. For perspective, it is only half the price of a day at Disneyland and kids under 6 are actually free.
 
-![Entrance to Capilano Suspension Bridge Park Tickets](https://hotmamatravel.com/wp-content/uploads/2018/09/Capilano-Park-Entrance-Vancouver.jpg)
+![Entrance to Capilano Suspension Bridge Park Tickets](/images/Capilano-Park-Entrance-Vancouver.jpg)
 
 Adult (17-64): $46.95
 Seniors (65+): $42.95
@@ -149,7 +149,7 @@ Kiddie (under 6): FREE!
 
 There is a free Capilano Suspension Bridge shuttle. It picks up in various points around the city of Vancouver, making it super convenient for visitors. We took the shuttle from Century Plaza Hotel, where were staying during our trip.
 
-![](https://hotmamatravel.com/wp-content/uploads/2018/09/Capilano-Free-Trolley-Ride.gif)
+![](/images/Capilano-Free-Trolley-Ride.gif)
 
 ***Hot Tip:** The schedule and route changes from season to season, so be sure to check their site *[**HERE**](https://www.capbridge.com/visit/shuttle-service/)* for up-to-date information to catch the free Capilano Park shuttle.*
 
@@ -161,4 +161,4 @@ I can not imagine anybody visiting Vancouver without spending a day at Capilano 
 
 **Like it? Pin it!**
 
-![Vancouver Capilano Suspension Bridge with kids](https://hotmamatravel.com/wp-content/uploads/2018/09/Capilano-Park-with-kids-Vancouver.jpg)
+![Vancouver Capilano Suspension Bridge with kids](/images/Capilano-Park-with-kids-Vancouver.jpg)

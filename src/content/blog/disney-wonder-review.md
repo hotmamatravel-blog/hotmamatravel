@@ -24,7 +24,7 @@ So without further adieu, here is our Disney Wonder review...
 
 *(First off the top, I'd like to give a special shout-out to Vesko, our head waiter who really made our family cruise on Disney Wonder extra memorable.)*
 
-![Waiter on Disney Cruise shares paper flower with child](https://hotmamatravel.com/wp-content/uploads/2018/12/Disney-Cruise-kid-interaction-with-waiter.gif)
+![Waiter on Disney Cruise shares paper flower with child](/images/Disney-Cruise-kid-interaction-with-waiter.gif)
 
 
 
@@ -36,7 +36,7 @@ So without further adieu, here is our Disney Wonder review...
 
 Built in 1999, the Disney Wonder is the second ship in Disney Cruise Line’s fleet and sister ship to the Disney Magic. However, it recently went through a major renovation in 2016 and the ship actually felt brand new.
 
-![Disney Wonder in Port](https://hotmamatravel.com/wp-content/uploads/2018/12/disney-wonder-ship.jpg)
+![Disney Wonder in Port](/images/disney-wonder-ship.jpg)
 
 Smaller than the Disney Dream and Disney Fantasy, the Disney Wonder is perfect for unique itineraries that require tight passage ways like the Alaskan Glaciers or Panama Canal.
 
@@ -45,7 +45,7 @@ Smaller than the Disney Dream and Disney Fantasy, the Disney Wonder is perfect f
 
 There are four main categories for Disney Wonder staterooms with a total of 10 different room types. Rates will vary depending on category and room type you want to book.
 
-![View of ocean from porthole in stateroom on Disney Wonder](https://hotmamatravel.com/wp-content/uploads/2018/12/Oceanview-Deluxe-Stateroom-porthole-Disney-Cruise.gif)
+![View of ocean from porthole in stateroom on Disney Wonder](/images/Oceanview-Deluxe-Stateroom-porthole-Disney-Cruise.gif)
 
 ***HotMama Tip**: There are wheelchair-accessible staterooms available for guests who require such accommodations.*
 
@@ -78,7 +78,7 @@ Next level down from Concierge is the Verandah rooms which are spacious and obvi
 
 This is our personal favorite Disney Wonder stateroom. Although very safe, I just don’t having a verandah with all my young children. We love looking at the ocean, but we don’t need to on a balcony to enjoy the view. Unfortunately, the portholes in Disney Wonder staterooms do not have window seats like the ones the in the Fantasy staterooms. However, even without the window seats the porthole windows are enough for our family. There is only one type of room offered in this category and that is the *Deluxe Oceanview Stateroom*. This was the room that we booked for our vacation. **Check current deals and rates** [**HERE**](/go/disney-wonder-cruise/)
 
-![Inside Disney Wonder Deluxe Oceanview Stateroom](https://hotmamatravel.com/wp-content/uploads/2018/12/Deluxe-Oceanview-Stateroom-Disney-Wonder.jpg)
+![Inside Disney Wonder Deluxe Oceanview Stateroom](/images/Deluxe-Oceanview-Stateroom-Disney-Wonder.jpg)
 
 #### 4. Inside Stateroom
 
@@ -92,7 +92,7 @@ This is the most affordable stateroom aboard the Disney Wonder. But as you can e
 
 ***HotMama Tip**: Be sure to find yourself some great Disney-themed Magnets for your stateroom door before embarking on your Disney Cruise. You can find some great designs on Etsy, which is what we did here:*
 
-![Door Magnets for Disney Cruise from Etsy](https://hotmamatravel.com/wp-content/uploads/2018/12/Disney-Cruise-Door-Magnets-Etsy.jpg)
+![Door Magnets for Disney Cruise from Etsy](/images/Disney-Cruise-Door-Magnets-Etsy.jpg)
 
 ## Disney Wonder Restaurants &amp; Bars
 
@@ -105,14 +105,14 @@ Onboard the Disney Wonder there is three main dining rooms that you will rotate 
 
 It sounds late, but we actually prefer the 8:15 PM seating, because there is so much to do in a day, especially if you are visiting ports of call, that it is hard to make it to the early dinner on time.
 
-![Animator](https://hotmamatravel.com/wp-content/uploads/2018/12/Disney-Wonder-animators-palate.jpg)
+![Animator](/images/Disney-Wonder-animators-palate.jpg)
 
 #### 1. Animator’s Palate
 
 
 Animator’s Palate is a staple on all four Disney Cruise Line Ships. This is full sensory dining experience that the family will love! At dining room starts out in black and white with Disney sketches all over the walls. As the meal progresses the walls and lighting in the room begin to change and by the end it is an explosion of color, music and animation.
 
-![Triton](https://hotmamatravel.com/wp-content/uploads/2018/12/Tritons-Restaurant-Disney-Wonder.jpg)
+![Triton](/images/Tritons-Restaurant-Disney-Wonder.jpg)
 
 #### 2. Triton’s *(Disney Wonder exclusive)*
 
@@ -121,7 +121,7 @@ Unique to the Disney Wonder, Triton’s is themed after the Little Mermaid. It i
 
 Although themed after wonders of the sea, the menu is more complex than just seafood with dishes having more of a French flare. A perfect way to combine the worlds and get a little fancy is with an order of escargot. Yes, sea snails and you know what? The kids actually liked them.
 
-![Tiana](https://hotmamatravel.com/wp-content/uploads/2018/12/Tianas-place-Disney-Wonder-Cruise.jpg)
+![Tiana](/images/Tianas-place-Disney-Wonder-Cruise.jpg)
 
 #### 3. Tiana’s Place *(Disney Wonder exclusive)*
 
@@ -130,7 +130,7 @@ Experience the vivacity of New Orleans out at sea aboard the Disney Wonder. This
 
 Our family loves a good party and this was not just a dinner **it was a full on Bayou bash!** We had such a good time that we would sail on the Disney Wonder again just so we could dine at Tiana’s Place again.
 
-![Live Music at Tianas Place on Disney Wonder](https://hotmamatravel.com/wp-content/uploads/2018/12/Tianas-Place-Live-Music-Disney-Wonder.gif)
+![Live Music at Tianas Place on Disney Wonder](/images/Tianas-Place-Live-Music-Disney-Wonder.gif)
 
 ***HotMama Tip**: If you enjoy wine with your dinner, like us, then get one of the wine packages on the first night. It saves you money and you are guaranteed to have a bottle of wine of your choice with each dinner. There is also a great beer package too. You get 24 beers for the price of 20, plus a nice Disney cooler. We got it on the first day, sharing one package among three adults and it lasted us the whole trip.*
 
@@ -145,7 +145,7 @@ Our family loves a good party and this was not just a dinner **it was a full on 
 
 This open lounge, on both the Disney Wonder and Disney Magic, is a great spot to take a little break and enjoy the ocean views with a cocktail and some live music. Kids are allowed in the Promenade Lounge and there is even a toddler play area, to keep the little ones entertained. There are also appetizers out and available throughout the evening.
 
-![Disney Wonder Promenade Lounge](https://hotmamatravel.com/wp-content/uploads/2018/12/Promenade-Lounge-Disney-Wonder-Cruise.jpg)
+![Disney Wonder Promenade Lounge](/images/Promenade-Lounge-Disney-Wonder-Cruise.jpg)
 
 Promenade Lounge is where we would enjoy sipping some bubbles, nibbling on chips and salsa while the kids danced to live band. This is great option for families who like to enjoy the lounges together.
 
@@ -182,7 +182,7 @@ This upscale Italian restaurant is on all four of the Disney ships, but requires
 
 Located on the Deck 3, are the adult only lounges. This is one of my favorite sections of the ship. I love the themes of each lounge and they make for fun little hangouts while the kids are having their own fun at the youth clubs. Plus, they have pretty bomb appetizers in these lounges too!
 
-![](https://hotmamatravel.com/wp-content/uploads/2018/12/Disney-Wonder-after-hours-lounges.jpg)
+![](/images/Disney-Wonder-after-hours-lounges.jpg)
 
 ***HotMama Tip**: Although it is the “adults only” area, kids are allowed until 9:00Pm. However, you rarely see kids in the lounges. We never took our two older kids into the lounges, but I did wheel in the baby in the stroller.*
 
@@ -200,7 +200,7 @@ However we didn’t spend too much time in the Cadillac Lounge. It may be more w
 
 This was by far our favorite place to be on the Disney Wonder. If you have seen any of our other blogs, you will know that pubs are kind of our thing. The Crown &amp; Fin Pub was always lively, which we love.
 
-![Crown and Fin Pub on Disney Wonder](https://hotmamatravel.com/wp-content/uploads/2018/12/Crown-and-Fin-Pub-Disney-Wonder.jpg)
+![Crown and Fin Pub on Disney Wonder](/images/Crown-and-Fin-Pub-Disney-Wonder.jpg)
 
 This is where we would grab a pint and some yummy wings and play a little trivia before dinner. I really like the setup of the pub, especially the comfy oversized leather chairs conversationally situated next to jumbo portholes.
 
@@ -222,7 +222,7 @@ This is considered the nightclub on board the Disney Wonder. By night it is a ha
 
 Although called the Sail Away party on the Fantasy, it is same celebration kicking off the excitement of your adventure. After lunch and the safety drill, guests are invited to party on deck with all their favorite Disney characters with a wild dance party The Wonder pulls away from port and out the open sea.
 
-![Adventures away deck party on Disney Wonder](https://hotmamatravel.com/wp-content/uploads/2018/12/Adventures-Away-Deck-Party-Disney-Wonder.gif)
+![Adventures away deck party on Disney Wonder](/images/Adventures-Away-Deck-Party-Disney-Wonder.gif)
 
 The most exciting part is when the ship’s blow horn blasts with “When You Wish Upon a Star.” It is a powerful moment.
 
@@ -231,7 +231,7 @@ The most exciting part is when the ship’s blow horn blasts with “When You Wi
 
 Standard on all for ships, no matter if you are sailing a themed cruise during Christmas, Halloween or Marvel days, every cruise has a pirate night. Although the Disney Fantasy’s pirate night was bit more outrageous with Jack Sparrow dropping down on deck, Disney Wonder’s pirate night was just as fun.
 
-![Pirate night party on Disney Wonder](https://hotmamatravel.com/wp-content/uploads/2018/12/Disney-Cruise-Pirate-Night.jpg)
+![Pirate night party on Disney Wonder](/images/Disney-Cruise-Pirate-Night.jpg)
 
 There are a bunch of pirate themed activities throughout the evening in the youth clubs. At dinner the servers are dressed up and dance at the end of the meal. Then it all culminates at the end of the evening with a dance party and fireworks on deck. It is just a really fun night and it is always fun see everyone’s creativity expressing their inner pirate.
 
@@ -254,7 +254,7 @@ What a wonderful show! Recounting the tale of Anna and Elsa, this musical is ful
 
 This is a super fun award-style show reminiscent of the Oscars with nominees performing musical numbers representing the category in which they are being nominated.
 
-![Golden Mickeys Red Carpet with kids](https://hotmamatravel.com/wp-content/uploads/2018/12/Disney-Cruise-Golden-Mickeys-Show.jpg)
+![Golden Mickeys Red Carpet with kids](/images/Disney-Cruise-Golden-Mickeys-Show.jpg)
 
 It even starts with a pre-show red carpet event where kids can get interviewed by the ship’s celebrity reporter. The interview is then aired onto the big screens inside the Walt Disney Theater. Of course our kids loved this and milked their time on the red carpet.
 
@@ -268,7 +268,7 @@ This show is an inspirational tale following young girl who has lost the since o
 
 It is nearly impossible to miss a character meet &amp; greet, because they are all day long throughout the cruise. If there is a specific character you don’t want to miss, check you daily itinerary for times and locations for meet &amp; greets. All meet &amp; greets are free and most the time you can just get in line and get your picture, but there are a couple meet &amp; greets that require a pre-reservation. The Princess and the Frozen meet &amp; greets are the two that you have to reserve your spot ahead of time when booking your cruise.
 
-![Disney Cruise Character meet and greets](https://hotmamatravel.com/wp-content/uploads/2018/12/Disney-Cruise-meet-and-greet.jpg)
+![Disney Cruise Character meet and greets](/images/Disney-Cruise-meet-and-greet.jpg)
 
 We had reserved spots for both, but ended up canceling our Frozen meet &amp; greet to watch Christopher Robin in the WaltDisney Theater.
 
@@ -292,7 +292,7 @@ All of the following youth clubs are on all four Disney ships, however each ship
 
 This is a safe and secure multi-room play area that requires a magic Disney band to check in and an approved adult with secret password to check out. The bands are placed on kids before boarding and they must wear throughout the cruise as it also acts as a GPS on your kid in case they wonder off. The password and approved adults for pick up is arranged when you book the cruise and pre-register your child.
 
-![Disney Wonder Oceaneer Club and Oceaneer Lab](https://hotmamatravel.com/wp-content/uploads/2018/12/Disney-Wonder-Oceaneer-Club.jpg)
+![Disney Wonder Oceaneer Club and Oceaneer Lab](/images/Disney-Wonder-Oceaneer-Club.jpg)
 
 This is my kids favorite part of a Disney cruise. They were obsessed with the Oceaner Club and Lab on the Disney Fantasy and were so excited to see how the rooms were different on the Disney Wonder.
 
@@ -309,7 +309,7 @@ This is my kids favorite part of a Disney cruise. They were obsessed with the Oc
  	- **Frozen Adventure -** If you like warm hugs, then you will love this cute Frozen themed room. looks like the supply shop in the Frozen movie, complete with an animated visit from. This room was not on the Fantasy, so the kids were really excited to explore this new space.
 
 
-![Playing Marvel Avengers](https://hotmamatravel.com/wp-content/uploads/2018/12/Kid-play-Marvel-Disney-Wonder-Oceaneer.gif)
+![Playing Marvel Avengers](/images/Kid-play-Marvel-Disney-Wonder-Oceaneer.gif)
 
 #### Oceaneer Lab
 
@@ -340,7 +340,7 @@ This ultra cool lounge is for the teens to chill out and relax…or party hard. 
 
 There is nothing like a bit of pampering to get into vacation mode. With a variety of packages to choose from, the Bibbidi Bobbidi Boutique is not just for girls. We booked both our kids for a day at this magical salon.
 
-![Disney Cruise Bibbidi Bobbidi Boutique](https://hotmamatravel.com/wp-content/uploads/2018/12/bibbidi-bobbidi-boutique-Disney-Wonder.jpg)
+![Disney Cruise Bibbidi Bobbidi Boutique](/images/bibbidi-bobbidi-boutique-Disney-Wonder.jpg)
 
 We booked the Crown package for Keeley which included hair, makeup, nails, tiara, princess sash and a take home goodie bag of care products. For Kevin we booked the Knight package where he was given an awesome hair do, shield and sword.
 They have special options available for pirate night where the whole family can get the works.
@@ -359,21 +359,21 @@ This is the big family pool. It faces Funnel Vision, the open air movie screen, 
 
 This is the fun Huey, Dewey and Louie splash zone complete with pouring paint can, leaky pipes and the show stopper, Donald’s Boiler. When you push the buttons the tension builds until Donald blows off steam and sprays the crowd.
 
-![Aqua Lab on Disney Wonder](https://hotmamatravel.com/wp-content/uploads/2018/12/Disney-Wonder-Pool-Aqua-lab.jpg)
+![Aqua Lab on Disney Wonder](/images/Disney-Wonder-Pool-Aqua-lab.jpg)
 
 #### Twist n’ Spout Slide
 
 
 Rising high above the AquaLab is this double-looping waterslide. What I loved about this slide was that there was a video camera at the top so parents could see when their child was about to go the slide. My son, Kevin, was scared to go down the little slide on the Disney Fantasy, so I was super surprised when he braved the Twist n’ Spout Slide on the Disney Wonder. The funny thing is that I could see him contemplating his decision from the camera.
 
-![Twist and Spout Slide Disney Wonder](https://hotmamatravel.com/wp-content/uploads/2018/12/Disney-Wonder-Toddler-Pool.jpg)
+![Twist and Spout Slide Disney Wonder](/images/Disney-Wonder-Toddler-Pool.jpg)
 
 #### Dory’s Reef
 
 
 Just off the toddler pool, next to the AquaLab is the cute Dory’s Reef splash park. Perfect for babies and toddlers, Dort’s Reef has tons of water fun, like pop jets, a water curtain and fountains. It is a playful, colorful and safe space for little ones to get wet.
 
-![Dory](https://hotmamatravel.com/wp-content/uploads/2018/12/Dorys-Reef-Disney-Wonder-Pool.jpg)
+![Dory](/images/Dorys-Reef-Disney-Wonder-Pool.jpg)
 
 #### Quiet Cove Pool
 
@@ -385,7 +385,7 @@ Maybe you are into giggling kids while trying to lounge poolside. Or maybe your 
 
 Do you like to stay active on vacation? Great, because now you can have playing your favorite sports with an ocean view. On the Disney Wonder guests can play basketball, ping-pong and soccer at one of the many open-air courts. There is also shuffleboard and a running track in addition to deck activities to join.
 
-![Playing Basketball on Disney Wonder Deck](https://hotmamatravel.com/wp-content/uploads/2018/12/Disney-Cruise-Basketball-court.jpg)
+![Playing Basketball on Disney Wonder Deck](/images/Disney-Cruise-Basketball-court.jpg)
 
 My kids are really into basketball right now and loved playing a few rounds on deck. I enjoyed sipping a Bloody Mary, gazing at the sparkling sea while they played.
 
@@ -406,7 +406,7 @@ There are also cool fitness boot camps, hair treatments and skin bronzing. Heck 
 
 Although this ship is smaller than the Disney Fantasy, size isn’t everything. Truthfully, the Disney Wonder is so grand that you can hardly tell a difference in size and if anything the smaller size makes it quainter and easier to maneuver.
 
-![Family Photo Embarking Disney Wonder](https://hotmamatravel.com/wp-content/uploads/2018/12/Embarking-Disney-Cruise-Family-photo.jpg)
+![Family Photo Embarking Disney Wonder](/images/Embarking-Disney-Cruise-Family-photo.jpg)
 
 There were also a few things we preferred on the Disney Wonder verses the Disney Fantasy. For instance, we really enjoyed the Crown &amp; Fin pub on the Disney Wonder a little more than the pub on the Disney Fantasy. The Frozen Musical was spectacular. Furthermore, we can safely say that Tiana’s Place has been our favorite restaurant on any Disney Cruise!
 
@@ -416,4 +416,4 @@ Every ship is a little different and that makes it exciting. All in all our expe
 
 **Like it? Pin it!**
 
-![Family Review of Disney Wonder](https://hotmamatravel.com/wp-content/uploads/2018/12/Disney-Wonder-Review-Article-683x1024.png)
+![Family Review of Disney Wonder](/images/Disney-Wonder-Review-Article-683x1024.png)

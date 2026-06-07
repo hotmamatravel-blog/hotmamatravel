@@ -17,7 +17,7 @@ Community is a small word for a big concept. What is a community? What does comm
 
 Kids are sponges and it is so important that we allow them the limitless opportunity to explore and learn. This is one of the reasons I love family travel so much. They are exposed to different cultures, food and landscapes; learning to adapt to changes and accept diversities. Well, today we visited an awesome place that taught kids the importance of community and how we all play a part in helping our communities flourish. Today we visited **[Pretend City Children’s Museum](http://pretendcity.org/)** in Irvine, California.
 
-[![Pretend City](https://hotmamatravel.com/wp-content/uploads/2015/10/IMG_9309-e1446149634855-1024x573.jpg)](/pretend-city-childrens-museum/)
+[![Pretend City](/images/IMG_9309-e1446149634855-1024x573.jpg)](/pretend-city-childrens-museum/)
 
 ## ***Keep the Cost in Check***
 
@@ -31,21 +31,21 @@ If you arrive after 4:00pm, which only gives you an hour of play time, ticket pr
 
 I recommend eating before your visit, but if you or your kids do get hungry there are snacks available. Over at the Real Café there are vending machines with healthy food for purchase. That is right, a vending machine that is not stocked with junk food.
 
-[![Pretend City](https://hotmamatravel.com/wp-content/uploads/2015/10/IMG_9316-682x1024.jpg)](/pretend-city-childrens-museum/)
+[![Pretend City](/images/IMG_9316-682x1024.jpg)](/pretend-city-childrens-museum/)
 
 ## ***Fun Things for kids at Pretend City***
 
 
 Okay, this is why the kids love Pretend City, because it is entertaining. What they don’t realize is that it is also very educational. It really is a full on pretend city with a ton of interactive exhibits for the kids to play and learn. Get your map, your time cards and let’s go!
 
-[![Pretend City](https://hotmamatravel.com/wp-content/uploads/2015/10/IMG_9317-683x1024.jpg)](/pretend-city-childrens-museum/)
+[![Pretend City](/images/IMG_9317-683x1024.jpg)](/pretend-city-childrens-museum/)
 
 ### **Amphitheater**
 
 
 Amphitheater was a hit with the kids. There are costumes hanging “backstage” that kids can try on before stepping on stage for a “performance.” What I love is that there is also an engineer booth for those kids who like to tinker with lighting and sound. I found it interesting to see which area of the theater the kids gravitated. There are even audience seats for those who prefer to observe.
 
-[![Pretend City Amphitheatre](https://hotmamatravel.com/wp-content/uploads/2015/10/DSCN1261-1024x768.jpg)](/pretend-city-childrens-museum/)
+[![Pretend City Amphitheatre](/images/DSCN1261-1024x768.jpg)](/pretend-city-childrens-museum/)
 
 ### **Art Studio**
 
@@ -62,7 +62,7 @@ These help teach the kids about the value of money. There are ATMs scattered thr
 
 The beach is not only fun, but it also teaches kids the importance of preserving our oceans. There is real sand to play in, but there is also trash to clean up. The beach is closed if polluted, so kids will want to clean up in order to play.
 
-[![Pretend City beach](https://hotmamatravel.com/wp-content/uploads/2015/10/IMG_9335-680x1024.jpg)](/pretend-city-childrens-museum/)
+[![Pretend City beach](/images/IMG_9335-680x1024.jpg)](/pretend-city-childrens-museum/)
 
 ### **Café**
 
@@ -79,7 +79,7 @@ This is where kids receive their time card that they can get stamped at the vari
 
 Construction site was a big hit with the kids. They love to build, play with tools and wear hard hats. Kids get to connect plumbing and build with lumber.
 
-[![Kids playing at Pretend City Construction site](https://hotmamatravel.com/wp-content/uploads/2015/10/IMG_9318-683x1024.jpg)](/pretend-city-childrens-museum/)
+[![Kids playing at Pretend City Construction site](/images/IMG_9318-683x1024.jpg)](/pretend-city-childrens-museum/)
 
 ### **Emergency Services**
 
@@ -91,7 +91,7 @@ These include the dispatch office, the police station and the fire station. Kids
 
 The Farm is really fun, because the kids get to pick fruit off the trees, dig in the pretend dirt and plant gardens. There are even real baby chickens to view as well as farm animal toys to play with. This was one of FireCracker’s favorite exhibits. She loves gardening and picking fresh produce. She even earned pretend money for working so hard on the Farm.
 
-[![The Farm at Pretend City](https://hotmamatravel.com/wp-content/uploads/2015/10/IMG_9311-681x1024.jpg)](/pretend-city-childrens-museum/)
+[![The Farm at Pretend City](/images/IMG_9311-681x1024.jpg)](/pretend-city-childrens-museum/)
 
 ### **Gas Station**
 
@@ -103,47 +103,47 @@ The Gas Station teaches kids important things like checking tires, washing winds
 
 is sponsored by Ralph's, so the kids will recognize the store. It is fun to watch the kids shop for groceries in the different departments and who jumps at the chance to be the cashier. Who likes to spend money and who likes to collect money? Kids also learn about the different food groups by having to return their play groceries to the proper isles.
 
-[![Pretend City Grocery Store](https://hotmamatravel.com/wp-content/uploads/2015/10/DSCN1262-1024x683.jpg)](/pretend-city-childrens-museum/)
+[![Pretend City Grocery Store](/images/DSCN1262-1024x683.jpg)](/pretend-city-childrens-museum/)
 
-[![Pretend City](https://hotmamatravel.com/wp-content/uploads/2015/10/DSCN1263-682x1024.jpg)](/pretend-city-childrens-museum/)
+[![Pretend City](/images/DSCN1263-682x1024.jpg)](/pretend-city-childrens-museum/)
 
 ### **Health Center**
 
 
 This was a big one for my kids. FireCracker always says she wants to be a doctor and today she got to be. There is a doctor’s office with medical tools, crutches, casts, toy organs and bones to explore. Connected to the doctor’s office is the dentist office with a dentist chair, teeth and much more. My kids really loved this exhibit.
 
-[![Pretend City health center doctor office](https://hotmamatravel.com/wp-content/uploads/2015/10/IMG_9342-1024x684.jpg)](/pretend-city-childrens-museum/)
+[![Pretend City health center doctor office](/images/IMG_9342-1024x684.jpg)](/pretend-city-childrens-museum/)
 
-[![Kids playing at Pretend City Irvine CA](https://hotmamatravel.com/wp-content/uploads/2015/10/IMG_9345-681x1024.jpg)](/pretend-city-childrens-museum/)
+[![Kids playing at Pretend City Irvine CA](/images/IMG_9345-681x1024.jpg)](/pretend-city-childrens-museum/)
 
-[![Pretend City](https://hotmamatravel.com/wp-content/uploads/2015/10/IMG_9350-682x1024.jpg)](/pretend-city-childrens-museum/)
+[![Pretend City](/images/IMG_9350-682x1024.jpg)](/pretend-city-childrens-museum/)
 
 ### **The Marina**
 
 
 This is where kids can play with water and also learn about sailing, wind, water and the fresh fish market. This is a fun exhibit, but beware your kids will get a little wet.
 
-[![Pretend City](https://hotmamatravel.com/wp-content/uploads/2015/10/IMG_9340-682x1024.jpg)](/pretend-city-childrens-museum/)
+[![Pretend City](/images/IMG_9340-682x1024.jpg)](/pretend-city-childrens-museum/)
 
 ### **Orange Plaza**
 
 
 Orange Plaza is a cute gathering place in the middle of the pretend city to help kids learn the pros of having a common meeting place for the community.
 
-[![Orange Plaza at Pretend City Irvine](https://hotmamatravel.com/wp-content/uploads/2015/10/DSCN1260-1024x684.jpg)](/pretend-city-childrens-museum/)
+[![Orange Plaza at Pretend City Irvine](/images/DSCN1260-1024x684.jpg)](/pretend-city-childrens-museum/)
 
 ### **Our Home**
 
 
 The Home is fun with a family room, kids’ bedrooms, bathroom and kitchen to play in. On our visit the house was decorated in Dia de los Muertos décor for the holiday.
 
-[![Pretend City Home](https://hotmamatravel.com/wp-content/uploads/2015/10/IMG_9338-683x1024.jpg)](/pretend-city-childrens-museum/)
+[![Pretend City Home](/images/IMG_9338-683x1024.jpg)](/pretend-city-childrens-museum/)
 
-[![Kids having fun at Pretend City](https://hotmamatravel.com/wp-content/uploads/2015/10/IMG_9326-683x1024.jpg)](/pretend-city-childrens-museum/)
+[![Kids having fun at Pretend City](/images/IMG_9326-683x1024.jpg)](/pretend-city-childrens-museum/)
 
-[![Pretend City](https://hotmamatravel.com/wp-content/uploads/2015/10/IMG_9330-682x1024.jpg)](/pretend-city-childrens-museum/)
+[![Pretend City](/images/IMG_9330-682x1024.jpg)](/pretend-city-childrens-museum/)
 
-[![Pretend City bathroom display](https://hotmamatravel.com/wp-content/uploads/2015/10/IMG_9331-768x1024.jpg)](/pretend-city-childrens-museum/)
+[![Pretend City bathroom display](/images/IMG_9331-768x1024.jpg)](/pretend-city-childrens-museum/)
 
 ### **Post Office**
 

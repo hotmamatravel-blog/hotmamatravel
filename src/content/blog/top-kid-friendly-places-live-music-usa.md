@@ -281,4 +281,4 @@ Well, there you have it. These are some of our all-time favorite kid-friendly pl
 
 **Like it? Pin it!**
 
-![11 Best Kid Friendly Places with Live Music across the US](https://hotmamatravel.com/wp-content/uploads/2019/03/kid-friendly-places-live-music-across-usa-pin-683x1024.jpg)
+![11 Best Kid Friendly Places with Live Music across the US](/images/kid-friendly-places-live-music-across-usa-pin-683x1024.jpg)

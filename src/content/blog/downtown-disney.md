@@ -14,7 +14,7 @@ author: "Amanda Keeley-Thurman"
 
 By now, many of you know that we are quite the Disney family and have read my tips on both **[Disneyland](/disneyland/)** and **[Disney California Adventure](/disney-california-adventure/)**. Well, there is more. Between both parks, connecting the various Disney resorts is a magical little place called Downtown Disney. The first thing that makes this place one a HotMama Picks is that it is free to get in. Something at Disney, for free? Short answer, yes. Now, there are plenty of places to spend you money: restaurants, shops and bars, but if you want the Disney feeling without the expense of going into the parks, there are so many things to do in Downtown Disney Anaheim.
 
-[![IMG_3606](https://hotmamatravel.com/wp-content/uploads/2014/10/IMG_3606-1024x764.jpg)](/downtown-disney/)
+[![IMG_3606](/images/IMG_3606-1024x764.jpg)](/downtown-disney/)
 
 ## ***Keep the Cost in Check:***
 
@@ -39,13 +39,13 @@ You could spend the day (or night) just at Downtown Disney Anaheim; it also make
 
 **Earl of Sandwich:** Looks good, but honestly I haven’t tried it myself yet.
 
-[![IMG_3608](https://hotmamatravel.com/wp-content/uploads/2014/10/IMG_3608-1024x682.jpg)](/downtown-disney/)
+[![IMG_3608](/images/IMG_3608-1024x682.jpg)](/downtown-disney/)
 
 **Jazz Kitchen** comes with a New Orleans vibe and Creole cuisine and is more, well, jazzy with fashioned after French Quarter and offers live music select nights and offers a quick service option.
 
-[![IMG_3614](https://hotmamatravel.com/wp-content/uploads/2014/10/IMG_3614-681x1024.jpg)](/downtown-disney/) **Tortilla Jo’s:** You guessed it, Mexican food. Guests can opt for the dine-in or the quick service. I however, prefer the tequila bar.
+[![IMG_3614](/images/IMG_3614-681x1024.jpg)](/downtown-disney/) **Tortilla Jo’s:** You guessed it, Mexican food. Guests can opt for the dine-in or the quick service. I however, prefer the tequila bar.
 
-[![IMG_3618](https://hotmamatravel.com/wp-content/uploads/2014/10/IMG_3618-1024x684.jpg)](/downtown-disney/)**Catal:** Is more of a fine dining experience with Mediterranean cuisine. The dining room has an upstairs views of downtown, which makes for a lovely atmosphere for date night.
+[![IMG_3618](/images/IMG_3618-1024x684.jpg)](/downtown-disney/)**Catal:** Is more of a fine dining experience with Mediterranean cuisine. The dining room has an upstairs views of downtown, which makes for a lovely atmosphere for date night.
 
 **Naples** and Napolini are both Italian, but Naples is a casual dining experience and Napolini is quick service. The pizza at Naples is really tasty and we love to relax on the patio after a day at Disneyland.
 
@@ -60,7 +60,7 @@ Despite the word Disney, Downtown Disney has a very popular nightlife scene amon
 
 My most favorite is the **UVA Bar**. It sits in the center of Downtown and is completely open-air with a 360 view of Downtown. I love it at night when all the lights are shining. It is great for people watching and listening the all the live music that fills the night sky.
 
-[![IMG_3634](https://hotmamatravel.com/wp-content/uploads/2014/10/IMG_3634-1024x684.jpg)](/downtown-disney/)
+[![IMG_3634](/images/IMG_3634-1024x684.jpg)](/downtown-disney/)
 
 The tequila bar at **Tortilla Jo’s** is outside on the patio under a thatched roof. I really like the atmosphere and the all the tequila options makes me plain giddy!
 
@@ -69,7 +69,7 @@ The tequila bar at **Tortilla Jo’s** is outside on the patio under a thatched 
 
 Let’s just start with my favorite, shall we? Live music is everywhere!! At various points throughout Downtown there are artists performing outdoors. In addition, many of the restaurants offer live music as well. It is none stop entertainment and I love every freaking moment of it!
 
-[![IMG_3609](https://hotmamatravel.com/wp-content/uploads/2014/10/IMG_3609-1024x682.jpg)](/downtown-disney/)
+[![IMG_3609](/images/IMG_3609-1024x682.jpg)](/downtown-disney/)
 
 AMC Movie Theater is located towards the entrance of Downtown and is a fun place to catch a movie before dinner.
 

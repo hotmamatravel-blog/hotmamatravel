@@ -33,7 +33,7 @@ In this article, we highlight some our favorite affordable family activities in 
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="eiffel-tower-paris-las-vegas"><figure>[![Eiffel tower paris hotel las vegas](https://hotmamatravel.com/wp-content/uploads/2022/08/Las-Vegas-Eiffel-Tower.jpg)](/wp-content/uploads/2022/08/Las-Vegas-Eiffel-Tower.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="eiffel-tower-paris-las-vegas"><figure>[![Eiffel tower paris hotel las vegas](/images/Las-Vegas-Eiffel-Tower.jpg)](/images/Las-Vegas-Eiffel-Tower.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -54,7 +54,7 @@ If you have more money to spend, you should splurge on a fancy family meal at th
 
 **[See Photos, Reviews, &amp; More](/go/paris-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-0d35f0c3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="v-ultimate-varitety-show-las-vegas"><figure>[![V-Ultimate Variety Show Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/V-Ultimate-Variety-Show-las-vegas-dinner-show-packages.jpg)](/wp-content/uploads/2023/02/V-Ultimate-Variety-Show-las-vegas-dinner-show-packages.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0d35f0c3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="v-ultimate-varitety-show-las-vegas"><figure>[![V-Ultimate Variety Show Las Vegas](/images/V-Ultimate-Variety-Show-las-vegas-dinner-show-packages.jpg)](/images/V-Ultimate-Variety-Show-las-vegas-dinner-show-packages.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-8b6a8cf6">
 
@@ -80,7 +80,7 @@ Here are just **some** of the many affordable shows is Las Vegas:
 
 **[See Photos, Reviews, &amp; More](/go/las-vegas-shows/)**
 
-<div class="wp-block-uagb-image uagb-block-51d9db65 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Shark-reef-mandalay-bay-las-vegas"><figure>[![shark reef an affordable family activities las vegas](https://hotmamatravel.com/wp-content/uploads/2024/05/Shark-reef-mandalay-bay-las-vegas.jpg)](/wp-content/uploads/2024/05/Shark-reef-mandalay-bay-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-51d9db65 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Shark-reef-mandalay-bay-las-vegas"><figure>[![shark reef an affordable family activities las vegas](/images/Shark-reef-mandalay-bay-las-vegas.jpg)](/images/Shark-reef-mandalay-bay-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-3d7d524e">
 
@@ -97,7 +97,7 @@ However, the basic ticket price gets you admission to all the exhibits, includin
 
 **[See Photos, Reviews, &amp; More](/go/mandalay-bay-hotel-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-bcc1fa7e wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="ew-york-new-york-las-vegas-big-apple-coaster"><figure>[![NYNY roller coaster in Vegas](https://hotmamatravel.com/wp-content/uploads/2020/03/new-york-new-york-las-vegas-big-apple-coaster.jpg)](/wp-content/uploads/2020/03/new-york-new-york-las-vegas-big-apple-coaster.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-bcc1fa7e wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="ew-york-new-york-las-vegas-big-apple-coaster"><figure>[![NYNY roller coaster in Vegas](/images/new-york-new-york-las-vegas-big-apple-coaster.jpg)](/images/new-york-new-york-las-vegas-big-apple-coaster.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-bc4dc479">
 
@@ -114,7 +114,7 @@ Plus, [**Vegas arcades**](/best-arcades-in-las-vegas/) are a great way to kill h
 
 **[See Photos, Reviews, &amp; More](/go/big-apple-coaster-nyny-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-d6846425 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="crepes-paris-las-vegas"><figure>[![Affordable crepes at Paris Las Vegas](https://hotmamatravel.com/wp-content/uploads/2024/05/crepes-paris-las-vegas.jpg)](/wp-content/uploads/2024/05/crepes-paris-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-d6846425 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="crepes-paris-las-vegas"><figure>[![Affordable crepes at Paris Las Vegas](/images/crepes-paris-las-vegas.jpg)](/images/crepes-paris-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-779274af">
 
@@ -131,7 +131,7 @@ La Creperie is a walk-up sidewalk café where both sweet and savory crepes are m
 
 **[See Photos, Reviews, &amp; More](/go/paris-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-d51a1d3f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="high-roller-las-vegas-activity"><figure>[![High Roller Las Vegas family attraction](https://hotmamatravel.com/wp-content/uploads/2019/07/high-roller-las-vegas-activity.jpg)](/wp-content/uploads/2019/07/high-roller-las-vegas-activity.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-d51a1d3f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="high-roller-las-vegas-activity"><figure>[![High Roller Las Vegas family attraction](/images/high-roller-las-vegas-activity.jpg)](/images/high-roller-las-vegas-activity.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-034a4f9e">
 
@@ -146,7 +146,7 @@ Floating 550 feet in the sky, the large cabins provide 360 degree views of the c
 
 **[See Photos, Reviews, &amp; More](/go/high-roller-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-439be92a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="real-bodies-ballys-las-vegas-attraction-for-teens"><figure>[![Real Bodies at Ballys in Vegas](https://hotmamatravel.com/wp-content/uploads/2020/03/real-bodies-ballys-las-vegas-attraction-for-teens.jpg)](/wp-content/uploads/2020/03/real-bodies-ballys-las-vegas-attraction-for-teens.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-439be92a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="real-bodies-ballys-las-vegas-attraction-for-teens"><figure>[![Real Bodies at Ballys in Vegas](/images/real-bodies-ballys-las-vegas-attraction-for-teens.jpg)](/images/real-bodies-ballys-las-vegas-attraction-for-teens.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-9c28624f">
 
@@ -167,7 +167,7 @@ Prices for each exhibit are around $30-$35, while kids 3 and under are free. How
 
 [**Learn more about Luxor at Vegas.com**](/go/luxor-las-vegas-expedia/)
 
-<div class="wp-block-uagb-image uagb-block-7ae3420b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="venetian-grand-canal-las-vegas"><figure>[![Gondola rides at Venetian Las Vegas](https://hotmamatravel.com/wp-content/uploads/2022/08/venetian-grand-canal-las-vegas.jpg)](/wp-content/uploads/2022/08/venetian-grand-canal-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-7ae3420b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="venetian-grand-canal-las-vegas"><figure>[![Gondola rides at Venetian Las Vegas](/images/venetian-grand-canal-las-vegas.jpg)](/images/venetian-grand-canal-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-f54505d2">
 
@@ -182,7 +182,7 @@ The outdoor ride is best at night, as it is slightly cooler and provides excitin
 
 **[See Photos, Reviews, &amp; More](/go/the-venetian-resort-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-7778c431 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="madame-tussauds-las-vegas"><figure>[![Madame Tussauds in Las Vegas](https://hotmamatravel.com/wp-content/uploads/2024/05/madame-tussads-las-vegas.jpg)](/wp-content/uploads/2024/05/madame-tussads-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-7778c431 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="madame-tussauds-las-vegas"><figure>[![Madame Tussauds in Las Vegas](/images/madame-tussads-las-vegas.jpg)](/images/madame-tussads-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-5e11b3fa">
 
@@ -195,7 +195,7 @@ Singers, actors, athletes, and politicians - hundreds of celebrities past and pr
 
 **[See Photos, Reviews, &amp; More](/go/madame-tussauds-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-6701e028 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="mob-museum-las-vegas"><figure>[![Las Vegas Mob Museum](https://hotmamatravel.com/wp-content/uploads/2020/03/mob-museum-las-vegas.jpg)](/wp-content/uploads/2020/03/mob-museum-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-6701e028 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="mob-museum-las-vegas"><figure>[![Las Vegas Mob Museum](/images/mob-museum-las-vegas.jpg)](/images/mob-museum-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-7d3537d9">
 
@@ -212,7 +212,7 @@ Parents, listen up! Now at the Mob Museum there is an underground speakeasy, The
 
 **[See Photos, Reviews, &amp; More](/go/las-vegas-mob-museum/)**
 
-<div class="wp-block-uagb-image uagb-block-56afdc7c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="area-15-las-vegas"><figure>[![Area 15 Family Las Vegas Attraction](https://hotmamatravel.com/wp-content/uploads/2024/05/area-15-las-vegas.jpg)](/wp-content/uploads/2024/05/area-15-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-56afdc7c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="area-15-las-vegas"><figure>[![Area 15 Family Las Vegas Attraction](/images/area-15-las-vegas.jpg)](/images/area-15-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-3a5d65d4">
 
@@ -239,7 +239,7 @@ One of the best aspects of Area 15 is its affordability. While there are numerou
 
 **[See Photos, Reviews, &amp; More](/go/area-15-las-vegas-teens/)**
 
-<div class="wp-block-uagb-image uagb-block-99b29575 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="kid-friendly-gaming-hyper-x-arena-las-vegas"><figure>[![family-friendly gaming at Hyper X Arena Las Vegas](https://hotmamatravel.com/wp-content/uploads/2018/07/affordable-family-activities-las-vegas.jpg)](/wp-content/uploads/2018/07/affordable-family-activities-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-99b29575 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="kid-friendly-gaming-hyper-x-arena-las-vegas"><figure>[![family-friendly gaming at Hyper X Arena Las Vegas](/images/affordable-family-activities-las-vegas.jpg)](/images/affordable-family-activities-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-bb30a426">
 
@@ -268,5 +268,5 @@ Check out more of our [**Las Vegas family travel guides**](/family-friendly-vega
 
 Like it? Pin it!
 
-<figure id="best-affordable-family-activities-las-vegas">[![](https://hotmamatravel.com/wp-content/uploads/2024/05/best-affordable-family-activities-las-vegas-200x300.jpg)](/images/best-affordable-family-activities-las-vegas.jpg)</figure>
+<figure id="best-affordable-family-activities-las-vegas">[![](/images/best-affordable-family-activities-las-vegas-200x300.jpg)](/images/best-affordable-family-activities-las-vegas.jpg)</figure>
 </div></div>

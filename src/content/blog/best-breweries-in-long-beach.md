@@ -21,7 +21,7 @@ Long Beach, California, is not only known for its stunning coastline and vibrant
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="long-beach-beer-lab-best-breweries-in-long-beach"><figure>[![Family-Friendly Long Beach Beer Labs Brewery Long Beach ](https://hotmamatravel.com/wp-content/uploads/2024/01/long-beach-beer-lab-best-breweries-in-long-beach.jpg)](/wp-content/uploads/2024/01/long-beach-beer-lab-best-breweries-in-long-beach.jpg)<figcaption class="uagb-image-caption">Courtesy of Long Beach Beer Lab</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="long-beach-beer-lab-best-breweries-in-long-beach"><figure>[![Family-Friendly Long Beach Beer Labs Brewery Long Beach ](/images/long-beach-beer-lab-best-breweries-in-long-beach.jpg)](/images/long-beach-beer-lab-best-breweries-in-long-beach.jpg)<figcaption class="uagb-image-caption">Courtesy of Long Beach Beer Lab</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -76,7 +76,7 @@ Long Beach Beer Labs often transforms into a live music venue, turning your visi
 
 **[See Photos, Reviews, &amp; More](/go/long-beach-beer-lab-long-beach/)**
 
-<div class="wp-block-uagb-image uagb-block-1ffdb7b3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="ballast-point-brewing-best-breweries-in-long-beach"><figure>[![Kid-Friendly Ballast Point Brewing Long Beach ](https://hotmamatravel.com/wp-content/uploads/2024/01/ballast-point-brewing-best-breweries-in-long-beach.jpg)](/wp-content/uploads/2024/01/ballast-point-brewing-best-breweries-in-long-beach.jpg)<figcaption class="uagb-image-caption">Courtesy of Ballast Point Brewing Company</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-1ffdb7b3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="ballast-point-brewing-best-breweries-in-long-beach"><figure>[![Kid-Friendly Ballast Point Brewing Long Beach ](/images/ballast-point-brewing-best-breweries-in-long-beach.jpg)](/images/ballast-point-brewing-best-breweries-in-long-beach.jpg)<figcaption class="uagb-image-caption">Courtesy of Ballast Point Brewing Company</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-ec623ea4">
 
@@ -121,7 +121,7 @@ Overlooking Alamitos Bay, [Ballast Point Brewing Company](https://ballastpoint.c
 
 **[See Photos, Reviews, &amp; More](/go/ballest-point-brewing-long-beach/)**
 
-<figure id="beachwood-blendery-best-breweries-in-long-beach">[![](https://hotmamatravel.com/wp-content/uploads/2024/01/beachwood-blendery-best-breweries-in-long-beach.jpg)](/wp-content/uploads/2024/01/beachwood-blendery-best-breweries-in-long-beach.jpg)<figcaption class="wp-element-caption">Courtesy of Beachwood Blendery</figcaption></figure>
+<figure id="beachwood-blendery-best-breweries-in-long-beach">[![](/images/beachwood-blendery-best-breweries-in-long-beach.jpg)](/images/beachwood-blendery-best-breweries-in-long-beach.jpg)<figcaption class="wp-element-caption">Courtesy of Beachwood Blendery</figcaption></figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-87a63820">
 
@@ -166,7 +166,7 @@ Nestled in the heart of downtown Long Beach, [Beachwood Blendery](https://beachw
 
 Bring your furry friends along, as the patio is dog-friendly. Beachwood Blendery frequently hosts live music events, enhancing the laid-back ambiance. They also host a variety of exciting events, like funk night, trivia nights, and paint and pints nights. Keep an eye out for their rotating food popup on Tuesdays, offering delectable bites that complement their diverse beer selection. You are also welcomed to bring your own food.
 
-<figure id="beachwood-brewing-distilling-best-breweries-in-long-beach">[![](https://hotmamatravel.com/wp-content/uploads/2024/01/beachwood-brewing-distilling-best-breweries-in-long-beach.jpg)](/wp-content/uploads/2024/01/beachwood-brewing-distilling-best-breweries-in-long-beach.jpg)<figcaption class="wp-element-caption">Courtesy of Beachwood Brewing &amp; Distilling</figcaption></figure>
+<figure id="beachwood-brewing-distilling-best-breweries-in-long-beach">[![](/images/beachwood-brewing-distilling-best-breweries-in-long-beach.jpg)](/images/beachwood-brewing-distilling-best-breweries-in-long-beach.jpg)<figcaption class="wp-element-caption">Courtesy of Beachwood Brewing &amp; Distilling</figcaption></figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-6f40c2bd">
 
@@ -311,7 +311,7 @@ To complete your experience, indulge in the diverse offerings with a rotating ki
 
 **[See Photos, Reviews, &amp; More](/go/ten-mile-brewing-company-long-beach/)**
 
-<div class="wp-block-uagb-image uagb-block-c0111861 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="steelcraft-best-breweries-in-long-beach"><figure>[![foodie haven at SteelCraft in Long Beach](https://hotmamatravel.com/wp-content/uploads/2024/01/steelcraft-best-breweries-in-long-beach.jpg)](/wp-content/uploads/2024/01/steelcraft-best-breweries-in-long-beach.jpg)<figcaption class="uagb-image-caption">Courtesy of SteelCraft Long Beach</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-c0111861 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="steelcraft-best-breweries-in-long-beach"><figure>[![foodie haven at SteelCraft in Long Beach](/images/steelcraft-best-breweries-in-long-beach.jpg)](/images/steelcraft-best-breweries-in-long-beach.jpg)<figcaption class="uagb-image-caption">Courtesy of SteelCraft Long Beach</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-bab0e9ad">
 
@@ -468,7 +468,7 @@ Dutch's Brewhouse doesn't just serve up stellar suds; they've got a culinary lin
 
 **[See Photos, Reviews, &amp; More](/go/dutchs-brewhouse-long-beach/)**
 
-<div class="wp-block-uagb-image uagb-block-850c7834 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="trademark-brewing-best-breweries-in-long-beach"><figure>[![Trademark Brewing in Long Beach](https://hotmamatravel.com/wp-content/uploads/2024/01/trademark-brewing-best-breweries-in-long-beach.jpg)](/wp-content/uploads/2024/01/trademark-brewing-best-breweries-in-long-beach.jpg)<figcaption class="uagb-image-caption">Courtesy of Trademark Brewing</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-850c7834 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="trademark-brewing-best-breweries-in-long-beach"><figure>[![Trademark Brewing in Long Beach](/images/trademark-brewing-best-breweries-in-long-beach.jpg)](/images/trademark-brewing-best-breweries-in-long-beach.jpg)<figcaption class="uagb-image-caption">Courtesy of Trademark Brewing</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-381bd0f8">
 
@@ -529,5 +529,5 @@ For more cool breweries in more cool cities, check out our [Best Breweries in Am
 
 Like it? Pin it!
 
-<figure id="best-family-friendly-breweries-long-beach-california">[![](https://hotmamatravel.com/wp-content/uploads/2024/01/best-family-friendly-breweries-long-beach-california-200x300.jpg)](/images/best-family-friendly-breweries-long-beach-california.jpg)</figure>
+<figure id="best-family-friendly-breweries-long-beach-california">[![](/images/best-family-friendly-breweries-long-beach-california-200x300.jpg)](/images/best-family-friendly-breweries-long-beach-california.jpg)</figure>
 </div></div>

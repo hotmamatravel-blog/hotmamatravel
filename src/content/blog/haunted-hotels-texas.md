@@ -15,7 +15,7 @@ author: "Amanda Keeley-Thurman"
 
 The Lone Star State, where history and the supernatural collide in the most entertaining way possible! Texas isn't just about cowboys and barbecue; it's also home to some spine-tingling, hair-raising haunted hotels that promise an unforgettable stay. Get ready to pack your bags and your courage as we embark on a ghostly journey through the heart of Texas, where you'll find accommodations that are eerily comfortable, devilishly charming, and hauntingly hospitable. If you're itching for a spooktacular getaway that's more fun than frightening, these haunted hotels in Texas are sure to cast their spell on you!
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="menger-hotel-haunted-hotels-san-antonio"><figure>[![Haunted Menger Hotel in San Antonio Texas](https://hotmamatravel.com/wp-content/uploads/2023/08/menger-hotel-haunted-hotels-san-antonio.jpg)](/wp-content/uploads/2023/08/menger-hotel-haunted-hotels-san-antonio.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="menger-hotel-haunted-hotels-san-antonio"><figure>[![Haunted Menger Hotel in San Antonio Texas](/images/menger-hotel-haunted-hotels-san-antonio.jpg)](/images/menger-hotel-haunted-hotels-san-antonio.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -50,7 +50,7 @@ Planning a full San Antonio adventure? Check out our **[San Antonio Family Trave
 
 **[See Photos, Reviews, &amp; More](/go/menger-hotel-san-antonio-tx/)**
 
-<div class="wp-block-uagb-image uagb-block-a7bcc740 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="The-Driskill-haunted-hotels-texas"><figure>[![Haunted hotels in Texas The Driskill](https://hotmamatravel.com/wp-content/uploads/2023/09/The-Driskill-haunted-hotels-texas.jpg)](/wp-content/uploads/2023/09/The-Driskill-haunted-hotels-texas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-a7bcc740 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="The-Driskill-haunted-hotels-texas"><figure>[![Haunted hotels in Texas The Driskill](/images/The-Driskill-haunted-hotels-texas.jpg)](/images/The-Driskill-haunted-hotels-texas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-d2f3a6c6">
 
@@ -95,7 +95,7 @@ Want to see more family-friendly stays in Austin? Check out our [**Best Western 
 
 **[See Photos, Reviews, &amp; More](/go/the-driskill-hotel-texas/)**
 
-<div class="wp-block-uagb-image uagb-block-985e475b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Hotel-Icon-haunted-hotels-texas"><figure>[![Hotel Icon, Autograph Collection is a haunted hotel in Texas](https://hotmamatravel.com/wp-content/uploads/2023/09/Hotel-Icon-haunted-hotels-texas.jpg)](/wp-content/uploads/2023/09/Hotel-Icon-haunted-hotels-texas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-985e475b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Hotel-Icon-haunted-hotels-texas"><figure>[![Hotel Icon, Autograph Collection is a haunted hotel in Texas](/images/Hotel-Icon-haunted-hotels-texas.jpg)](/images/Hotel-Icon-haunted-hotels-texas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-fa58e2e8">
 
@@ -134,7 +134,7 @@ With a mix of history, luxury, and practical amenities, Hotel ICON strikes the p
 
 **[See Photos, Reviews, &amp; More](/go/hotel-icon-autograph-collection-texas/)**
 
-<div class="wp-block-uagb-image uagb-block-9f23bae7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Adolphus-haunted-hotels-texas"><figure>[![Haunted hotels in Texas The Adolphus](https://hotmamatravel.com/wp-content/uploads/2023/09/Adolphus-haunted-hotels-texas.jpg)](/wp-content/uploads/2023/09/Adolphus-haunted-hotels-texas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-9f23bae7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Adolphus-haunted-hotels-texas"><figure>[![Haunted hotels in Texas The Adolphus](/images/Adolphus-haunted-hotels-texas.jpg)](/images/Adolphus-haunted-hotels-texas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-cd8a3ea6">
 
@@ -181,7 +181,7 @@ With a perfect blend of history, luxury, and practical amenities, The Adolphus H
 
 **[See Photos, Reviews, &amp; More](/go/the-adolphus-texas/)**
 
-<div class="wp-block-uagb-image uagb-block-6ff2cec9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="magnolia-hotel-haunted-hotels-texas"><figure>[![Haunted Texas Magnolia Hotel](https://hotmamatravel.com/wp-content/uploads/2023/09/magnolia-hotel-haunted-hotels-texas.jpg)](/wp-content/uploads/2023/09/magnolia-hotel-haunted-hotels-texas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-6ff2cec9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="magnolia-hotel-haunted-hotels-texas"><figure>[![Haunted Texas Magnolia Hotel](/images/magnolia-hotel-haunted-hotels-texas.jpg)](/images/magnolia-hotel-haunted-hotels-texas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-d7386ce8">
 
@@ -238,5 +238,5 @@ Explore more haunted places in Texas as wells as across America, in the **[best 
 
 Like it? Pin it!
 
-<figure id="most-haunted-hotels-texas" data-essb-pin-description="Step back in time at the haunted Magnolia Hotel in Seguin, TX 👻. This historic bed &amp; breakfast gives your family the entire second floor to yourselves—if you dare spend the night with its ghostly guests! Perfect for spooky history buffs and adventurous families looking for a unique Texas stay. #HauntedHotel #SeguinTX #FamilyTravelWithATwist">[![Most Haunted Hotels in Texas for Families](https://hotmamatravel.com/wp-content/uploads/2023/09/haunted-hotels-texas-200x300.jpg)](/images/haunted-hotels-texas.jpg)</figure>
+<figure id="most-haunted-hotels-texas" data-essb-pin-description="Step back in time at the haunted Magnolia Hotel in Seguin, TX 👻. This historic bed &amp; breakfast gives your family the entire second floor to yourselves—if you dare spend the night with its ghostly guests! Perfect for spooky history buffs and adventurous families looking for a unique Texas stay. #HauntedHotel #SeguinTX #FamilyTravelWithATwist">[![Most Haunted Hotels in Texas for Families](/images/haunted-hotels-texas-200x300.jpg)](/images/haunted-hotels-texas.jpg)</figure>
 </div></div>

@@ -19,7 +19,7 @@ Now, before you start imagining restless spirits causing chaos, let me assure yo
 
 So, if you're seeking a unique and unforgettable stay in the Empire State, join us as we explore the enchanting world of haunted hotels in New York that are, believe it or not, wonderful places to spend a night...or several!
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hotel-chelsea-haunted-hotels-new-york"><figure>[![Haunted Hotel Chelsea in New York New York](https://hotmamatravel.com/wp-content/uploads/2023/09/hotel-chelsea-haunted-hotels-new-york.jpg)](/wp-content/uploads/2023/09/hotel-chelsea-haunted-hotels-new-york.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hotel-chelsea-haunted-hotels-new-york"><figure>[![Haunted Hotel Chelsea in New York New York](/images/hotel-chelsea-haunted-hotels-new-york.jpg)](/images/hotel-chelsea-haunted-hotels-new-york.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -66,7 +66,7 @@ The Chelsea Hotel is HotMamaTravel approved because it serves up history, haunti
 
 **[See Photos, Reviews, &amp; More](/go/hotel-chelsea-new-york/)**
 
-<div class="wp-block-uagb-image uagb-block-c638749f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-algonquin-hotel-haunted-hotels-new-york"><figure>[![The Algonquin Haunted Hotel in New York City](https://hotmamatravel.com/wp-content/uploads/2023/09/the-algonquin-hotel-haunted-hotels-new-york.jpg)](/wp-content/uploads/2023/09/the-algonquin-hotel-haunted-hotels-new-york.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-c638749f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-algonquin-hotel-haunted-hotels-new-york"><figure>[![The Algonquin Haunted Hotel in New York City](/images/the-algonquin-hotel-haunted-hotels-new-york.jpg)](/images/the-algonquin-hotel-haunted-hotels-new-york.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-7c59124f">
 
@@ -115,7 +115,7 @@ The Algonquin is HotMamaTravel approved because it proves you don’t have to tr
 
 **[See Photos, Reviews, &amp; More](/go/the-algonquin-hotel-new-york/)**
 
-<div class="wp-block-uagb-image uagb-block-a8c57a3a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-sagamore-resort-haunted-hotels-new-york"><figure>[![The Haunted Sagamore New York Hotel ](https://hotmamatravel.com/wp-content/uploads/2023/09/the-sagamore-resort-haunted-hotels-new-york.jpg)](/wp-content/uploads/2023/09/the-sagamore-resort-haunted-hotels-new-york.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-a8c57a3a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-sagamore-resort-haunted-hotels-new-york"><figure>[![The Haunted Sagamore New York Hotel ](/images/the-sagamore-resort-haunted-hotels-new-york.jpg)](/images/the-sagamore-resort-haunted-hotels-new-york.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-2a3e6991">
 
@@ -154,7 +154,7 @@ The Sagamore Hotel is a HotMamaTravel-approved destination because it’s the ra
 
 **[See Photos, Reviews, &amp; More](/go/the-sagamore-resort-new-york/)**
 
-<div class="wp-block-uagb-image uagb-block-3a6196e2 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="mohonk-mountain-house-haunted-hotels-new-york"><figure>[![Haunted hotels in New York the Mohonk Mountain House](https://hotmamatravel.com/wp-content/uploads/2023/09/mohonk-mountain-house-haunted-hotels-new-york.jpg)](/wp-content/uploads/2023/09/mohonk-mountain-house-haunted-hotels-new-york.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-3a6196e2 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="mohonk-mountain-house-haunted-hotels-new-york"><figure>[![Haunted hotels in New York the Mohonk Mountain House](/images/mohonk-mountain-house-haunted-hotels-new-york.jpg)](/images/mohonk-mountain-house-haunted-hotels-new-york.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-bce775f5">
 
@@ -199,7 +199,7 @@ Mohonk Mountain House is HotMamaTravel approved because it nails the trifecta: j
 
 **[See Photos, Reviews, &amp; More](/haunted-hotels-new-york/)**
 
-<div class="wp-block-uagb-image uagb-block-a2cd00f7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![The Otesaga Resort Haunted Hotel in New York](https://hotmamatravel.com/wp-content/uploads/2023/09/the-otesaga-resort-haunted-hotels-new-york.jpg)](/wp-content/uploads/2023/09/the-otesaga-resort-haunted-hotels-new-york.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-a2cd00f7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![The Otesaga Resort Haunted Hotel in New York](/images/the-otesaga-resort-haunted-hotels-new-york.jpg)](/images/the-otesaga-resort-haunted-hotels-new-york.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-a968d50c">
 
@@ -242,7 +242,7 @@ The Otesaga is HotMamaTravel approved because it blends lakefront fun, family-fr
 
 **[See Photos, Reviews, &amp; More](/go/otesaga-resort-new-york/)**
 
-<div class="wp-block-uagb-image uagb-block-3304a447 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hotel-utica-haunted-hotels-new-york"><figure>[![Haunted Hotel Utica New York ](https://hotmamatravel.com/wp-content/uploads/2023/09/hotel-utica-haunted-hotels-new-york.jpg)](/wp-content/uploads/2023/09/hotel-utica-haunted-hotels-new-york.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-3304a447 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hotel-utica-haunted-hotels-new-york"><figure>[![Haunted Hotel Utica New York ](/images/hotel-utica-haunted-hotels-new-york.jpg)](/images/hotel-utica-haunted-hotels-new-york.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-6801b174">
 
@@ -294,5 +294,5 @@ If Christmas is more your jam, then check out our favorite [**New York Christmas
 Like it? Pin it!
 
 <figure id="haunted-hotels-new-york" data-essb-pin-description="Most haunted hotels in New York that are also family-friendly! ">[![Most Haunted family-friendly hotels in New York
-](https://hotmamatravel.com/wp-content/uploads/2023/09/haunted-hotels-new-york-200x300.jpg)](/images/haunted-hotels-new-york.jpg)</figure>
+](/images/haunted-hotels-new-york-200x300.jpg)](/images/haunted-hotels-new-york.jpg)</figure>
 </div></div>

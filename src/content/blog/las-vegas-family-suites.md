@@ -25,7 +25,7 @@ I will say that you can create family suites by reserving two connecting rooms, 
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="westgate-las-vegas-family-suite"><figure>[![Westgate Las Vegas Family Suites](https://hotmamatravel.com/wp-content/uploads/2024/05/westgate-las-vegas-family-suite.jpg)](/wp-content/uploads/2024/05/westgate-las-vegas-family-suite.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="westgate-las-vegas-family-suite"><figure>[![Westgate Las Vegas Family Suites](/images/westgate-las-vegas-family-suite.jpg)](/images/westgate-las-vegas-family-suite.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -61,7 +61,7 @@ Families will experience the best of Las Vegas in a luxurious and fun-filled set
 
 **[See Photos, Reviews, &amp; More](/go/mandalay-bay-hotel-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-fab62fb3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="excalibur-las-vegas-family-hotel"><figure>[![Excalibur Las Vegas Family Hotel](https://hotmamatravel.com/wp-content/uploads/2024/02/family-restaurants-excalibur-vegas.jpg)](/wp-content/uploads/2024/02/family-restaurants-excalibur-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-fab62fb3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="excalibur-las-vegas-family-hotel"><figure>[![Excalibur Las Vegas Family Hotel](/images/family-restaurants-excalibur-vegas.jpg)](/images/family-restaurants-excalibur-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-d79d1f31">
 
@@ -93,7 +93,7 @@ Experience unparalleled luxury at [SKYLOFTS at MGM Grand](https://mgmgrand.mgmre
 
 **[See Photos, Reviews, &amp; More](/go/mgm-grand-hotel-las-vegas/)**
 
-<figure id="cosmopolitan-hotel-las-vegas-balcony-rooms">[![Cosmopolitan hotel Las Vegas Balcony rooms](https://hotmamatravel.com/wp-content/uploads/2023/02/terrace-suites-cosmopolitan-balcony-rooms-las-vegas.jpg)](/wp-content/uploads/2023/02/terrace-suites-cosmopolitan-balcony-rooms-las-vegas.jpg)</figure>
+<figure id="cosmopolitan-hotel-las-vegas-balcony-rooms">[![Cosmopolitan hotel Las Vegas Balcony rooms](/images/terrace-suites-cosmopolitan-balcony-rooms-las-vegas.jpg)](/images/terrace-suites-cosmopolitan-balcony-rooms-las-vegas.jpg)</figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-bb38b50b">
 
@@ -123,7 +123,7 @@ Indulge in the grandeur of [Caesars Palace](https://www.caesars.com/caesars-pala
 
 **[See Photos, Reviews, &amp; More](/go/caesars-palace-hotel-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-df3a31e4 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="flamingo-las-vegas-family-suite"><figure>[![Family suites in Flamingo Las Vegas](https://hotmamatravel.com/wp-content/uploads/2024/05/flamingo-las-vegas-family-suite.jpg)](/wp-content/uploads/2024/05/flamingo-las-vegas-family-suite.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-df3a31e4 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="flamingo-las-vegas-family-suite"><figure>[![Family suites in Flamingo Las Vegas](/images/flamingo-las-vegas-family-suite.jpg)](/images/flamingo-las-vegas-family-suite.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-7464163e">
 
@@ -151,7 +151,7 @@ The LINQ is a modern and energetic hotel that families will love. Featuring spac
 
 **[See Photos, Reviews, &amp; More](/go/linq-hotel-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-0009a604 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bellagio-las-vegas-fountains"><figure>[![Bellagio Las Vegas](https://hotmamatravel.com/wp-content/uploads/2022/06/bellagio-water-show-las-vegas.jpg)](/wp-content/uploads/2022/06/bellagio-water-show-las-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0009a604 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bellagio-las-vegas-fountains"><figure>[![Bellagio Las Vegas](/images/bellagio-water-show-las-vegas.jpg)](/images/bellagio-water-show-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-47956b42">
 
@@ -174,5 +174,5 @@ Also, be sure to join my **[Las Vegas With Kids Facebook Group](https://www.face
 
 Like it? Pin it!
 
-<figure id="best-las-vegas-family-suites">[![Best Las Vegas Family Suites for Big Families ](https://hotmamatravel.com/wp-content/uploads/2024/05/best-las-vegas-family-suites-1-200x300.jpg)](/images/best-las-vegas-family-suites-1.jpg)</figure>
+<figure id="best-las-vegas-family-suites">[![Best Las Vegas Family Suites for Big Families ](/images/best-las-vegas-family-suites-1-200x300.jpg)](/images/best-las-vegas-family-suites-1.jpg)</figure>
 </div></div>

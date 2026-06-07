@@ -19,7 +19,7 @@ Before this trip, I had never stayed at a B&amp;B, but I’m glad we had this ch
 
 Once we discovered **[The Kirklee Hotel](http://www.tkqlhce.com/click-8336032-10937588)** Glasgow we knew it was just want we needed to make our Scotland Adventure complete. Surprisingly, not many people had heard of the Kirklee Hotel (even some cab drivers!), but I think it is fabulous and I want to share it with you! [**Check rates and availability**](http://www.tkqlhce.com/click-8336032-10937588)**.**
 
-[![The Kirklee Hotel Glasgow Scotland](https://hotmamatravel.com/wp-content/uploads/2015/07/DSCN9475-1024x768.jpg)](/kirklee-hotel-glasgow-scotland/)
+[![The Kirklee Hotel Glasgow Scotland](/images/DSCN9475-1024x768.jpg)](/kirklee-hotel-glasgow-scotland/)
 
 ## ***Rates:***
 
@@ -59,17 +59,17 @@ Once we discovered **[The Kirklee Hotel](http://www.tkqlhce.com/click-8336032-10
 
 No, it is not modern, chic or contemporary. Rather, it is warm, original and fantastically Scottish! The minute we walked in we were greeted with plaid carpeting and antiques! Yes, we squealed. How exciting! We were even handed real metal keys to give us access to our rooms and the hotel’s front door.
 
-[![Kids at Kirklee Hotel Glasgow](https://hotmamatravel.com/wp-content/uploads/2015/07/Kirklee-1-1024x1024.jpg)](/kirklee-hotel-glasgow-scotland/)
+[![Kids at Kirklee Hotel Glasgow](/images/Kirklee-1-1024x1024.jpg)](/kirklee-hotel-glasgow-scotland/)
 
 ### **2. Breakfast:**
 
 Breakfast is included in the room rate, but unlike most B&amp;B’s where breakfast is served in the dining room, [**The Kirklee Hotel**](http://www.tkqlhce.com/click-8336032-10937588) serves breakfast to your room. Now, dining with other house guests has its perks, but so does having breakfast in the privacy of your room. First of all, we have a large loud group featuring 2 parents, 2 grandparents and 2 crazy kids. So, I doubt other guests would want to dine with us every morning. Secondly, my kids loved eating breakfast in their jammies. Can we just talk about the presentation? I mean how cute and classy.
 
-[![Breakfast at Kirklee Hotel Glasgow](https://hotmamatravel.com/wp-content/uploads/2015/07/Kirklee2-1024x512.jpg)](/kirklee-hotel/kirklee2/)
+[![Breakfast at Kirklee Hotel Glasgow](/images/Kirklee2-1024x512.jpg)](/kirklee-hotel/kirklee2/)
 
 Breakfast comes with a variety of options. For instance, you may choose egg/bacon/sausages/choice of toast or choice of cereal/croissants/fruit or loch/bagel. You also receive coffee, tea and O.J. Breakfast is served between 7:00am-9:00am. We loved the flexibility and often made changes to our breakfast order the night before depending on our mood or next day’s activities.
 
-[![The Kirklee Hotel Breakfast](https://hotmamatravel.com/wp-content/uploads/2015/07/IMG_6516-1024x1024.jpg)](/kirklee-hotel-glasgow-scotland/)
+[![The Kirklee Hotel Breakfast](/images/IMG_6516-1024x1024.jpg)](/kirklee-hotel-glasgow-scotland/)
 
 ### **3. The staff:**
 
@@ -79,12 +79,12 @@ The owners, Rosemary and Douglas were so sweet and super helpful. They helped us
 
  The issue we were having when trying to find an accommodation in Glasgow was finding one room to fit our group. We usually travel together and one of the ways we cut costs is sharing a room. The problem was that European standard rooms are a lot smaller than U.S standard rooms. [**Kirklee Hotel**](http://www.tkqlhce.com/click-8336032-10937588) had a family room that, although is smaller than a standard in the U.S, worked for us. Douglas was concerned though when we all showed up. I reassured that is was fine and that we all stay in one RV together once a month. We are all good in the hood. We don’t mind being cozy.
 
-[![The Kirklee Hotel Guest room](https://hotmamatravel.com/wp-content/uploads/2015/07/Kirklee3-1024x1024.jpg)](/kirklee-hotel-glasgow-scotland/)
+[![The Kirklee Hotel Guest room](/images/Kirklee3-1024x1024.jpg)](/kirklee-hotel-glasgow-scotland/)
 
 ### **5. The location:**
 
 Although, it was a bit too far for Papa to walk to town, [**The Kirklee Hotel**](http://www.tkqlhce.com/click-8336032-10937588) is walking distance from the happening Byres Rd and Botanical Garden. If you don’t want to walk or it is raining (it will probably be raining), it super easy and cheap to call a cab. I loved that is was in a residential neighborhood, giving us the feeling of living in Glasgow. The gardens on the property were gorgeous and the kids loved exploring and looking for fairies. There was also a corner store that Grams and I would walk to and pick up some vino for the evening. We just loved walking through the neighborhood. It was just lovely.
-<h1>[![Kirklee Hotel Garden with kids](https://hotmamatravel.com/wp-content/uploads/2015/07/Kirklee4-1024x1024.jpg)](/kirklee-hotel-glasgow-scotland/)</h1>
+<h1>[![Kirklee Hotel Garden with kids](/images/Kirklee4-1024x1024.jpg)](/kirklee-hotel-glasgow-scotland/)</h1>
 
 ## *That's A Wrap!*
 
@@ -104,4 +104,4 @@ Would I recommend **[The Kirklee Hotel](http://www.tkqlhce.com/click-8336032-109
 
 **Like it? Pin it!**
 
-[![Kirklee Hotel Glasgow](https://hotmamatravel.com/wp-content/uploads/2017/04/KH-1.png)](/kirklee-hotel-glasgow-scotland/)
+[![Kirklee Hotel Glasgow](/images/KH-1.png)](/kirklee-hotel-glasgow-scotland/)

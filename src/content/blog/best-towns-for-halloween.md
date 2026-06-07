@@ -21,7 +21,7 @@ So, don your favorite costume, grab your jack-o'-lantern, and join us as we emba
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zBWxPVZniFA?si=ySECt5no-xqnoNVT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Salem-massachusetts-best-halloween-towns"><figure>[![Salem, Massachusetts is one of the best towns to visit during Halloween](https://hotmamatravel.com/wp-content/uploads/2023/09/Salem-massachusetts-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/Salem-massachusetts-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Salem-massachusetts-best-halloween-towns"><figure>[![Salem, Massachusetts is one of the best towns to visit during Halloween](/images/Salem-massachusetts-best-halloween-towns.jpg)](/images/Salem-massachusetts-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -39,7 +39,7 @@ One of the highlights of Salem's Halloween calendar is the month-long Haunted Ha
 
 **[See Photos, Reviews, &amp; More](/go/salem-massachusetts-travel/)**
 
-<div class="wp-block-uagb-image uagb-block-c7045517 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Sleepy-Hollow-New-York-best-halloween-towns"><figure>[![Best Halloween Towns Sleepy Hollow, New York](https://hotmamatravel.com/wp-content/uploads/2023/09/Sleepy-Hollow-New-York-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/Sleepy-Hollow-New-York-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-c7045517 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Sleepy-Hollow-New-York-best-halloween-towns"><figure>[![Best Halloween Towns Sleepy Hollow, New York](/images/Sleepy-Hollow-New-York-best-halloween-towns.jpg)](/images/Sleepy-Hollow-New-York-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-82d97549">
 
@@ -59,7 +59,7 @@ Looking for a place to stay? Check out our list of the best [**haunted hotels in
 
 **[See Photos, Reviews, &amp; More](/go/sleepy-hollow-new-york-travel/)**
 
-<div class="wp-block-uagb-image uagb-block-22806d3f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="new-orleans-louisiana-best-halloween-towns"><figure>[![New Orleans is a must visit Halloween Town](https://hotmamatravel.com/wp-content/uploads/2023/09/new-orleans-louisiana-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/new-orleans-louisiana-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-22806d3f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="new-orleans-louisiana-best-halloween-towns"><figure>[![New Orleans is a must visit Halloween Town](/images/new-orleans-louisiana-best-halloween-towns.jpg)](/images/new-orleans-louisiana-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-895a0afe">
 
@@ -85,7 +85,7 @@ Lastly, the city's culinary scene offers delightful treats and drinks with a spo
 
 **[See Photos, Reviews, &amp; More](/go/new-orleans-louisiana-travel/)**
 
-<div class="wp-block-uagb-image uagb-block-b36cb18c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="savannah-georgia-best-halloween-towns"><figure>[![Savannah Georgia best town to visit during Halloween](https://hotmamatravel.com/wp-content/uploads/2023/09/savannah-georgia-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/savannah-georgia-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-b36cb18c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="savannah-georgia-best-halloween-towns"><figure>[![Savannah Georgia best town to visit during Halloween](/images/savannah-georgia-best-halloween-towns.jpg)](/images/savannah-georgia-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-565731fd">
 
@@ -109,7 +109,7 @@ See our post for more [**fun things to do in Savannah**](/things-to-do-in-savann
 
 **[See Photos, Reviews, &amp; More](/go/savannah-georgia-travel/)**
 
-<div class="wp-block-uagb-image uagb-block-ecdc0fa9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Anoka-Minnesota-best-halloween-towns"><figure>[![Anoka Halloween town in the USA, Anoka Minnesota](https://hotmamatravel.com/wp-content/uploads/2023/09/Anoka-Minnesota-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/Anoka-Minnesota-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-ecdc0fa9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Anoka-Minnesota-best-halloween-towns"><figure>[![Anoka Halloween town in the USA, Anoka Minnesota](/images/Anoka-Minnesota-best-halloween-towns.jpg)](/images/Anoka-Minnesota-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-4f6ac93c">
 
@@ -131,7 +131,7 @@ But it's not just about the organized events; it's the entire town's transformat
 
 **[See Photos, Reviews, &amp; More](/go/anoka-minnesota-travel/)**
 
-<div class="wp-block-uagb-image uagb-block-97221dc1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="transylvania-county-brevard-north-carolina-best-halloween-towns"><figure>[![Transylvania County, NC has one of the Best towns for Halloween](https://hotmamatravel.com/wp-content/uploads/2023/09/transylvania-county-brevard-north-carolina-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/transylvania-county-brevard-north-carolina-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-97221dc1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="transylvania-county-brevard-north-carolina-best-halloween-towns"><figure>[![Transylvania County, NC has one of the Best towns for Halloween](/images/transylvania-county-brevard-north-carolina-best-halloween-towns.jpg)](/images/transylvania-county-brevard-north-carolina-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-c7deb358">
 
@@ -153,7 +153,7 @@ Yet, it's the community spirit that truly sets Vampire Valley apart. The locals,
 
 **[See Photos, Reviews, &amp; More](/go/transylvania-county-brevard-north-carolina-travel/)**
 
-<div class="wp-block-uagb-image uagb-block-cdbaad79 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="st-helens-oregon-best-halloween-towns"><figure>[![St Helens Oregon best Halloween town in the USA](https://hotmamatravel.com/wp-content/uploads/2023/09/st-helens-oregon-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/st-helens-oregon-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-cdbaad79 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="st-helens-oregon-best-halloween-towns"><figure>[![St Helens Oregon best Halloween town in the USA](/images/st-helens-oregon-best-halloween-towns.jpg)](/images/st-helens-oregon-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-a3798f6b">
 
@@ -171,7 +171,7 @@ Costume contests are another highlight of the "Halloweentown" celebration. Local
 
 **[See Photos, Reviews, &amp; More](/go/saint-helens-oregon-travel/)**
 
-<div class="wp-block-uagb-image uagb-block-a3a8a2ae wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="new-hope-pennsylvania-best-halloween-towns"><figure>[![best Halloween towns New Hope Pennsylvania](https://hotmamatravel.com/wp-content/uploads/2023/09/new-hope-pennsylvania-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/new-hope-pennsylvania-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-a3a8a2ae wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="new-hope-pennsylvania-best-halloween-towns"><figure>[![best Halloween towns New Hope Pennsylvania](/images/new-hope-pennsylvania-best-halloween-towns.jpg)](/images/new-hope-pennsylvania-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-70baf5f5">
 
@@ -193,7 +193,7 @@ Throughout the Halloween season, New Hope offers a variety of live entertainment
 
 **[See Photos, Reviews, &amp; More](/go/new-hope-pennsylvania-travel/)**
 
-<div class="wp-block-uagb-image uagb-block-c9557ef7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="key-west-florida-best-halloween-towns"><figure>[![Key West best halloween towns in America](https://hotmamatravel.com/wp-content/uploads/2023/09/key-west-florida-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/key-west-florida-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-c9557ef7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="key-west-florida-best-halloween-towns"><figure>[![Key West best halloween towns in America](/images/key-west-florida-best-halloween-towns.jpg)](/images/key-west-florida-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-a255b9d4">
 
@@ -215,7 +215,7 @@ See our post for a full list of awesome [**family hotels in Key West**](/hotels-
 
 **[See Photos, Reviews, &amp; More](/go/key-west-florida-travel/)**
 
-<div class="wp-block-uagb-image uagb-block-433ff67c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="provincetown-massachusetts-best-halloween-towns"><figure>[![Provincetown best Halloween Towns in the US](https://hotmamatravel.com/wp-content/uploads/2023/09/provincetown-massachusetts-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/provincetown-massachusetts-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-433ff67c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="provincetown-massachusetts-best-halloween-towns"><figure>[![Provincetown best Halloween Towns in the US](/images/provincetown-massachusetts-best-halloween-towns.jpg)](/images/provincetown-massachusetts-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-920bc54b">
 
@@ -233,7 +233,7 @@ Steeped in history, this coastal town boasts its share of haunted legends and ee
 
 **[See Photos, Reviews, &amp; More](/go/provincetown-cape-cod-massachusetts-travel/)**
 
-<div class="wp-block-uagb-image uagb-block-817880d3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="charleston-south-carolina-best-halloween-towns"><figure>[![Best Halloween Towns Charleston SC](https://hotmamatravel.com/wp-content/uploads/2023/09/charleston-south-carolina-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/charleston-south-carolina-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-817880d3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="charleston-south-carolina-best-halloween-towns"><figure>[![Best Halloween Towns Charleston SC](/images/charleston-south-carolina-best-halloween-towns.jpg)](/images/charleston-south-carolina-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-cca47af3">
 
@@ -257,7 +257,7 @@ See our list of [**family-friendly hotels in Charleston**](/best-family-hotels-c
 
 **[See Photos, Reviews, &amp; More](/go/charleston-south-carolina-travel/)**
 
-<div class="wp-block-uagb-image uagb-block-1ead4bed wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="old-town-san-diego-california-best-halloween-towns"><figure>[![Old Town San Diego Best Halloween Towns in US](https://hotmamatravel.com/wp-content/uploads/2023/09/old-town-san-diego-california-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/old-town-san-diego-california-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-1ead4bed wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="old-town-san-diego-california-best-halloween-towns"><figure>[![Old Town San Diego Best Halloween Towns in US](/images/old-town-san-diego-california-best-halloween-towns.jpg)](/images/old-town-san-diego-california-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-d7f70fdc">
 
@@ -289,7 +289,7 @@ Some of the town's historic buildings are rumored to be haunted, adding an extra
 
 **[See Photos, Reviews, &amp; More](/go/old-town-san-diego-california-travel/)**
 
-<div class="wp-block-uagb-image uagb-block-177f7239 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="san-antonio-texas-best-halloween-towns"><figure>[![Best Halloween towns USA San Antonio TX](https://hotmamatravel.com/wp-content/uploads/2023/09/san-antonio-texas-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/san-antonio-texas-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-177f7239 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="san-antonio-texas-best-halloween-towns"><figure>[![Best Halloween towns USA San Antonio TX](/images/san-antonio-texas-best-halloween-towns.jpg)](/images/san-antonio-texas-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-0a4dafb5">
 
@@ -309,7 +309,7 @@ The city embraces Halloween with a range of festive activities and events. Costu
 
 **[See Photos, Reviews, &amp; More](/go/san-antonio-texas-travel/)**
 
-<div class="wp-block-uagb-image uagb-block-658be994 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="celina-texas-best-halloween-towns"><figure>[![Celina Texas Halloween Capital Best Halloween Towns](https://hotmamatravel.com/wp-content/uploads/2023/09/celina-texas-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/celina-texas-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-658be994 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="celina-texas-best-halloween-towns"><figure>[![Celina Texas Halloween Capital Best Halloween Towns](/images/celina-texas-best-halloween-towns.jpg)](/images/celina-texas-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-ed61230c">
 
@@ -331,7 +331,7 @@ The event often features live entertainment, including musical performances, dan
 
 **[See Photos, Reviews, &amp; More](/go/celina-texas-travel/)**
 
-<div class="wp-block-uagb-image uagb-block-63bab82c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="louisville-kentucky-best-halloween-towns"><figure>[![Louisville Kentucky Best Halloween Towns](https://hotmamatravel.com/wp-content/uploads/2023/09/louisville-kentucky-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/louisville-kentucky-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-63bab82c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="louisville-kentucky-best-halloween-towns"><figure>[![Louisville Kentucky Best Halloween Towns](/images/louisville-kentucky-best-halloween-towns.jpg)](/images/louisville-kentucky-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-fe51d6f6">
 
@@ -349,7 +349,7 @@ Leading up to Halloween, Louisville hosts a wide range of spooky events that cat
 
 **[See Photos, Reviews, &amp; More](/go/louisville-kentucky-travel/)**
 
-<div class="wp-block-uagb-image uagb-block-91a27549 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="jerome-arizona-best-halloween-towns"><figure>[![Best Halloween Town in USA Jerome AZ](https://hotmamatravel.com/wp-content/uploads/2023/09/jerome-arizona-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/jerome-arizona-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-91a27549 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="jerome-arizona-best-halloween-towns"><figure>[![Best Halloween Town in USA Jerome AZ](/images/jerome-arizona-best-halloween-towns.jpg)](/images/jerome-arizona-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-3927f2a0">
 
@@ -369,7 +369,7 @@ Jerome, Arizona, is a town known for its unique and vibrant Halloween celebratio
 
 **[See Photos, Reviews, &amp; More](/go/jerome-arizona-travel/)**
 
-<div class="wp-block-uagb-image uagb-block-896b9fcc wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="cape-may-new-jersey-best-halloween-towns"><figure>[![Halloween Town Cape May NJ](https://hotmamatravel.com/wp-content/uploads/2023/09/cape-may-new-jersey-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/cape-may-new-jersey-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-896b9fcc wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="cape-may-new-jersey-best-halloween-towns"><figure>[![Halloween Town Cape May NJ](/images/cape-may-new-jersey-best-halloween-towns.jpg)](/images/cape-may-new-jersey-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-dd9e6a15">
 
@@ -389,7 +389,7 @@ Cape May's historic cemeteries, such as Cold Spring Cemetery and the Cape May Lu
 
 **[See Photos, Reviews, &amp; More](/go/cape-may-new-jersey-travel/)**
 
-<div class="wp-block-uagb-image uagb-block-e894d9af wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bisbee-arizona-best-halloween-towns"><figure>[![Bisbee Arizona Halloween Town America](https://hotmamatravel.com/wp-content/uploads/2023/09/bisbee-arizona-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/bisbee-arizona-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-e894d9af wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bisbee-arizona-best-halloween-towns"><figure>[![Bisbee Arizona Halloween Town America](/images/bisbee-arizona-best-halloween-towns.jpg)](/images/bisbee-arizona-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-cfb82738">
 
@@ -409,7 +409,7 @@ Bisbee wholeheartedly embraces Halloween, and the town hosts a variety of spooky
 
 **[See Photos, Reviews, &amp; More](/go/bisbee-arizona-travel/)**
 
-<div class="wp-block-uagb-image uagb-block-7c12ffb9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="estes-park-colorado-best-halloween-towns"><figure>[![Estes Park Colorado Best Halloween Town in America](https://hotmamatravel.com/wp-content/uploads/2023/09/estes-park-colorado-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/estes-park-colorado-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-7c12ffb9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="estes-park-colorado-best-halloween-towns"><figure>[![Estes Park Colorado Best Halloween Town in America](/images/estes-park-colorado-best-halloween-towns.jpg)](/images/estes-park-colorado-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-faa04b1b">
 
@@ -427,7 +427,7 @@ Estes Park fully embraces the Halloween season with a variety of themed events a
 
 **[See Photos, Reviews, &amp; More](/go/estes-park-colorado-travel/)**
 
-<div class="wp-block-uagb-image uagb-block-865c647f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="galena-illinois-best-halloween-towns"><figure>[![Galena Illinois Best Halloween Towns](https://hotmamatravel.com/wp-content/uploads/2023/09/galena-illinois-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/galena-illinois-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-865c647f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="galena-illinois-best-halloween-towns"><figure>[![Galena Illinois Best Halloween Towns](/images/galena-illinois-best-halloween-towns.jpg)](/images/galena-illinois-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-d32be8eb">
 
@@ -449,7 +449,7 @@ Galena hosts a variety of Halloween-themed events and festivities. These may inc
 
 **[See Photos, Reviews, &amp; More](/go/galena-illinois-travel/)**
 
-<div class="wp-block-uagb-image uagb-block-c3442b67 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="alton-illinois-best-halloween-towns"><figure>[![Alton Illinois best Halloween Towns](https://hotmamatravel.com/wp-content/uploads/2023/09/alton-illinois-best-halloween-towns.jpg)](/wp-content/uploads/2023/09/alton-illinois-best-halloween-towns.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-c3442b67 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="alton-illinois-best-halloween-towns"><figure>[![Alton Illinois best Halloween Towns](/images/alton-illinois-best-halloween-towns.jpg)](/images/alton-illinois-best-halloween-towns.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-c7d6c1a8">
 
@@ -475,5 +475,5 @@ These towns and cities offer a diverse range of Halloween experiences, from hist
 
 Like it? Pin it!
 
-<figure id="halloween-towns-us">[![Best Halloween Towns in the US](https://hotmamatravel.com/wp-content/uploads/2023/09/best-halloween-towns-worth-visiting-with-your-family-200x300.jpg)](/images/best-halloween-towns-worth-visiting-with-your-family.jpg)</figure>
+<figure id="halloween-towns-us">[![Best Halloween Towns in the US](/images/best-halloween-towns-worth-visiting-with-your-family-200x300.jpg)](/images/best-halloween-towns-worth-visiting-with-your-family.jpg)</figure>
 </div></div>

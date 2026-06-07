@@ -70,7 +70,7 @@ Orange Circle, most of the time, is very laid-back, but has its moments of comin
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-17ee8dcc uagb-section__background-undefined" id="uagb-section-0b23bced-f17e-4ec6-a576-a614710e86ec"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![antique mall in old towne orange](https://hotmamatravel.com/wp-content/uploads/2014/09/Orangecircle-1024x1024.jpg)</figure>
+<figure>![antique mall in old towne orange](/images/Orangecircle-1024x1024.jpg)</figure>
 
 #### [Antique Shopping](/go/orange-circle-antique-mall-orange-ca/)
 
@@ -81,7 +81,7 @@ Shops, shops and more shops. If you love antiques and sweet boutiques, then you�
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-ee55d5ce uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![International street fair at orange circle ](https://hotmamatravel.com/wp-content/uploads/2014/09/Street-Fari-e1491513362146.png)</figure>
+<figure>![International street fair at orange circle ](/images/Street-Fari-e1491513362146.png)</figure>
 
 #### **[International Street Fair](/go/old-towne-orange-ca/)**
 
@@ -110,7 +110,7 @@ Yes people, ghost tours. It is a historical district after all and what historic
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-7733e4ef uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![old towne orange family restaurant filling station cafe](https://hotmamatravel.com/wp-content/uploads/2014/09/Filling-Station-e1491511012159.png)</figure>
+<figure>![old towne orange family restaurant filling station cafe](/images/Filling-Station-e1491511012159.png)</figure>
 
 #### **[Filling Station Cafe](/go/filling-station-cafe-old-towne-orange-ca/)**
 
@@ -137,7 +137,7 @@ Healthy and delicious? Yup. Rutabegorz nailed it. In this 1915 converted home of
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-cc8d856d uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/06/family-restaurant-old-town-orange-felix-continental-cafe.jpg)<figcaption>courtesy of Felix Continental Cafe</figcaption></figure>
+<figure>![](/images/family-restaurant-old-town-orange-felix-continental-cafe.jpg)<figcaption>courtesy of Felix Continental Cafe</figcaption></figure>
 
 #### **[Felix Continental Café](/go/felix-continental-cafe-old-towne-orange-ca/)**
 
@@ -152,7 +152,7 @@ In addition to beer and wine, libations include a variety of specialty drinks an
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-74f6aa68 uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/06/tokyo-cafe-orange.jpg)</figure>
+<figure>![](/images/tokyo-cafe-orange.jpg)</figure>
 
 #### **[Tokyo Café](/go/tokyo-cafe-old-towne-orange-ca/)**
 
@@ -177,7 +177,7 @@ Avila’s El Ranchito is a delicious family-owned restaurant in Old Towne Orange
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-2fffb5c3 uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/06/haven-gastropub-orange.jpg)</figure>
+<figure>![](/images/haven-gastropub-orange.jpg)</figure>
 
 #### **[Haven Craft Kitchen+Bar](/go/haven-craft-kitchen-bar-old-towne-orange-ca/)**
 
@@ -190,7 +190,7 @@ Haven is a really nice gastropub with a great menu and impressive whiskey and be
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-801aace6 uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/06/gabbis-mexican-kitchen-old-town-orange.jpg)</figure>
+<figure>![](/images/gabbis-mexican-kitchen-old-town-orange.jpg)</figure>
 
 #### **[Gabbi’s Mexican Kitchen](/go/gabbis-mexican-kitchen-old-towne-orange-ca/)**
 
@@ -233,7 +233,7 @@ This beautiful restaurant features an upscale northern Italian menu that adults 
 </div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-077be2ea uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/06/plaza-square-park-old-towne-orange.jpg)</figure>
+<figure>![](/images/plaza-square-park-old-towne-orange.jpg)</figure>
 
 #### **[The Plaza Park](/go/plaza-square-park-old-towne-orange-ca/)**
 
@@ -246,7 +246,7 @@ Located right in the center of Old Towne Orange Historic District, The Plaza Par
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-0c610e55 uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![](https://hotmamatravel.com/wp-content/uploads/2020/06/watsons-drug-soda-old-towne-orange.jpg)</figure>
+<figure>![](/images/watsons-drug-soda-old-towne-orange.jpg)</figure>
 
 #### **[Watson’s Drug &amp; Soda Fountain](/go/watsons-drug-store-soda-fountain-old-towne-orange-ca/)**
 
@@ -261,7 +261,7 @@ Today, you can still come in and enjoy the nostalgia over a good burger and a sh
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-2f0c17d8 uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>![filming location of Big Momma](https://hotmamatravel.com/wp-content/uploads/2017/04/big-mommas-house-old-town-orange.jpg)</figure>
+<figure>![filming location of Big Momma](/images/big-mommas-house-old-town-orange.jpg)</figure>
 
 #### **[Big Momma’s House](/go/old-towne-orange-ca/)**
 
@@ -315,5 +315,5 @@ If you would like to spookier side to Old Towne Orange, check out our guide to [
 
 **Like it? Pin it!**
 
-<figure>![visiting old towne orange with kids](https://hotmamatravel.com/wp-content/uploads/2014/09/Orange-Circle3-200x300.png)</figure>
+<figure>![visiting old towne orange with kids](/images/Orange-Circle3-200x300.png)</figure>
 </div></section>

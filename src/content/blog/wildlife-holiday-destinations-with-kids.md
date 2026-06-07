@@ -17,7 +17,7 @@ Wildlife has always been a big fascination for young children. Whether through b
 There is a definite [thrill in wildlife watching](https://mothernatured.com/things-to-do/tips-for-planning-a-wildlife-holiday-overseas/) and it will not only enrich your child’s knowledge of the world, but will also offer a great opportunity to bond with the family. From the Kruger Park to the waters of the Norwegian Sea, there is so much to see and do in wildlife holiday destinations that it will make for an ideal family holiday. Here are some of the best family holiday destinations for spotting wildlife.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-75fd2bc5"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>[![](https://hotmamatravel.com/wp-content/uploads/2022/04/South-Africa.jpg)](/wp-content/uploads/2022/04/South-Africa.jpg)</figure>
+<figure>[![](/images/South-Africa.jpg)](/images/South-Africa.jpg)</figure>
 
 #### **[South Africa](/go/south-africa-vacations/)**
 
@@ -28,7 +28,7 @@ If you want to see the Big Five, head to South Africa. It is an El Dorado for al
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c599334c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>[![](https://hotmamatravel.com/wp-content/uploads/2022/04/Madagascar.jpg)](/wp-content/uploads/2022/04/Madagascar.jpg)</figure>
+<figure>[![](/images/Madagascar.jpg)](/images/Madagascar.jpg)</figure>
 
 #### **[Madagascar](/go/madagascar-africa-vacations/)**
 
@@ -39,7 +39,7 @@ All of us have seen the magnificent island nation in movies but it is also an id
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-82a6e9fc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>[![](https://hotmamatravel.com/wp-content/uploads/2022/04/sri-lanka.jpg)](/wp-content/uploads/2022/04/sri-lanka.jpg)</figure>
+<figure>[![](/images/sri-lanka.jpg)](/images/sri-lanka.jpg)</figure>
 
 #### **[Sri Lanka](/go/sri-lanka-family-vacations/)**
 
@@ -50,7 +50,7 @@ Do not worry if you cannot make it to Africa, you can plan your family holiday i
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9f058dc6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>[![](https://hotmamatravel.com/wp-content/uploads/2022/04/finland.jpg)](/wp-content/uploads/2022/04/finland.jpg)</figure>
+<figure>[![](/images/finland.jpg)](/images/finland.jpg)</figure>
 
 #### **[Finland](/go/finland-family-vacations/)**
 
@@ -61,7 +61,7 @@ The dense wood forests of Northern Finland are right out of the Slavic fairytale
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6997f16b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>[![](https://hotmamatravel.com/wp-content/uploads/2022/04/india.jpg)](/wp-content/uploads/2022/04/india.jpg)</figure>
+<figure>[![](/images/india.jpg)](/images/india.jpg)</figure>
 
 #### **[India](/go/india-family-vacations/)**
 
@@ -72,7 +72,7 @@ If you are looking for the Big cat, you cannot miss out on the Asiatic Lion. Ind
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-cf7c434d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure>[![](https://hotmamatravel.com/wp-content/uploads/2022/04/Costa-Rica.jpg)](/wp-content/uploads/2022/04/Costa-Rica.jpg)</figure>
+<figure>[![](/images/Costa-Rica.jpg)](/images/Costa-Rica.jpg)</figure>
 
 #### **[Costa Rica](/go/costa-rica-family-vacations/)**
 
@@ -98,5 +98,5 @@ If a real-life wildlife experience interests you and you need help planning you 
 
 **Like it? Pin it!**
 
-<div id="6-Best-Wildlife-Destinations-Traveling-With-Kids" class="wp-block-image"><figure class="alignleft size-medium">[![](https://hotmamatravel.com/wp-content/uploads/2022/04/Wildlife-Destinations-200x300.jpg)](/images/Wildlife-Destinations.jpg)</figure></div>
+<div id="6-Best-Wildlife-Destinations-Traveling-With-Kids" class="wp-block-image"><figure class="alignleft size-medium">[![](/images/Wildlife-Destinations-200x300.jpg)](/images/Wildlife-Destinations.jpg)</figure></div>
 </div></section>

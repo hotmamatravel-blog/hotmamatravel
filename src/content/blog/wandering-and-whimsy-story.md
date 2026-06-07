@@ -192,4 +192,4 @@ Hmm, *I wonder why?* ;)**Read more about Laci and her family's adventures at her
 
 **Like it? Pin it!**
 
-![A simple day at the Beach turns into “Revenge of the Squeegulls!”](https://hotmamatravel.com/wp-content/uploads/2018/12/A-simple-day-at-the-Beach-turns-into-Revenge-of-the-Squeegulls-683x1024.jpg)
+![A simple day at the Beach turns into “Revenge of the Squeegulls!”](/images/A-simple-day-at-the-Beach-turns-into-Revenge-of-the-Squeegulls-683x1024.jpg)

@@ -34,7 +34,7 @@ Take a look around and who knows, *maybe you'll see a question you didn't even t
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
 <figure>[![Best Guide to Visiting Las Vegas with Kids
-Las Vegas kids frequently asked questions](https://hotmamatravel.com/wp-content/uploads/2023/05/Best-Guide-Las-Vegas-with-Kids.jpg)](/wp-content/uploads/2023/05/Best-Guide-Las-Vegas-with-Kids.jpg)</figure>
+Las Vegas kids frequently asked questions](/images/Best-Guide-Las-Vegas-with-Kids.jpg)](/images/Best-Guide-Las-Vegas-with-Kids.jpg)</figure>
 
 <div class="wp-block-rank-math-faq-block"><div class="rank-math-faq-item">
 
@@ -172,5 +172,5 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Most Frequently Asked Questions About Taking Your Kids to Las Vegas With Honest Answers!">[![Las Vegas with Kids Most Frequently Asked Questions](https://hotmamatravel.com/wp-content/uploads/2024/05/Most-Frequently-Asked-Questions-Las-Vegas-With-Kids-200x300.jpg)](/images/Most-Frequently-Asked-Questions-Las-Vegas-With-Kids.jpg)</figure>
+<figure data-essb-pin-description="Most Frequently Asked Questions About Taking Your Kids to Las Vegas With Honest Answers!">[![Las Vegas with Kids Most Frequently Asked Questions](/images/Most-Frequently-Asked-Questions-Las-Vegas-With-Kids-200x300.jpg)](/images/Most-Frequently-Asked-Questions-Las-Vegas-With-Kids.jpg)</figure>
 </div></div>

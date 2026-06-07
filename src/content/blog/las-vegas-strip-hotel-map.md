@@ -25,7 +25,7 @@ In addition to viewing our Las Vegas Strip hotel map, check out our **[Vegas Str
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure id="Las-Vegas-Strip-Hotel-Map">[![Las Vegas Hotel Map 2024](https://hotmamatravel.com/wp-content/uploads/2024/03/Las-Vegas-Strip-Hotel-Map-2024-683x1024.jpg)](/images/Las-Vegas-Strip-Hotel-Map-2024.jpg)</figure>
+<figure id="Las-Vegas-Strip-Hotel-Map">[![Las Vegas Hotel Map 2024](/images/Las-Vegas-Strip-Hotel-Map-2024-683x1024.jpg)](/images/Las-Vegas-Strip-Hotel-Map-2024.jpg)</figure>
 
 <div class="wp-block-ugb-heading ugb-heading ugb-3f8c026 ugb-main-block"><style>.ugb-3f8c026 .ugb-heading__title{text-align:center}.ugb-3f8c026 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-3f8c026 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
@@ -99,5 +99,5 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 Like it? Pin it!
 
-<figure id="Las-Vegas-Strip-Hotel-Map">[![Best Map of Las Vegas Hotels for Families](https://hotmamatravel.com/wp-content/uploads/2024/03/Las-Vegas-Strip-Hotel-Map-2024-1-200x300.jpg)](/images/Las-Vegas-Strip-Hotel-Map-2024-1.jpg)</figure>
+<figure id="Las-Vegas-Strip-Hotel-Map">[![Best Map of Las Vegas Hotels for Families](/images/Las-Vegas-Strip-Hotel-Map-2024-1-200x300.jpg)](/images/Las-Vegas-Strip-Hotel-Map-2024-1.jpg)</figure>
 </div></div>

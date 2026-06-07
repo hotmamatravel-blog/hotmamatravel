@@ -134,5 +134,5 @@ Your moving experience can be as calm and organized as you make it. Each step ta
 
 Like it? Pin it!
 
-<figure id="10-essential-tips-for-stress-free-moving-experience">[![](https://hotmamatravel.com/wp-content/uploads/2023/12/10-essential-tips-for-stress-free-moving-experience-200x300.jpg)](/images/10-essential-tips-for-stress-free-moving-experience.jpg)</figure>
+<figure id="10-essential-tips-for-stress-free-moving-experience">[![](/images/10-essential-tips-for-stress-free-moving-experience-200x300.jpg)](/images/10-essential-tips-for-stress-free-moving-experience.jpg)</figure>
 </div></div>

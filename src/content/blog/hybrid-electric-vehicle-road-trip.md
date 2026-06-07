@@ -74,5 +74,5 @@ A road trip is an amazing way to see the world, but if you're going to worry abo
 
 **Like it? Pin it!**
 
-<figure id="Electric-hybrid-car-family-road-trip-ready">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/Electric-hybrid-car-family-road-trip-ready-200x300.jpg)](/images/Electric-hybrid-car-family-road-trip-ready.jpg)</figure>
+<figure id="Electric-hybrid-car-family-road-trip-ready">[![](/images/Electric-hybrid-car-family-road-trip-ready-200x300.jpg)](/images/Electric-hybrid-car-family-road-trip-ready.jpg)</figure>
 </div></section>

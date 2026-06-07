@@ -14,7 +14,7 @@ author: "Amanda Keeley-Thurman"
 The Quad Cities is a region located in the midwestern United States, consisting of four cities on the Mississippi River: Davenport and Bettendorf in Iowa, and Rock Island and Moline in Illinois. The Quad Cities offers a wide range of activities for visitors to enjoy. Here are a few things to do in the Quad Cities with your kids.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0a57a61b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Mississippi-Riverfront-quad-cities">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/Mississippi-Riverfront-quad-cities.jpg)](/wp-content/uploads/2023/01/Mississippi-Riverfront-quad-cities.jpg)</figure>
+<figure id="Mississippi-Riverfront-quad-cities">[![](/images/Mississippi-Riverfront-quad-cities.jpg)](/images/Mississippi-Riverfront-quad-cities.jpg)</figure>
 
 #### [Mississippi Riverfront](/go/mississippi-river-visitor-center-quad-cities/)
 
@@ -33,7 +33,7 @@ The visitor center is a great place start and to learn about the history of the 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-dfd37c09"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="family-friendly-john-deere-pavilion-quad-cities">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/family-friendly-john-deere-pavilion-quad-cities.jpg)](/wp-content/uploads/2023/01/family-friendly-john-deere-pavilion-quad-cities.jpg)</figure>
+<figure id="family-friendly-john-deere-pavilion-quad-cities">[![](/images/family-friendly-john-deere-pavilion-quad-cities.jpg)](/images/family-friendly-john-deere-pavilion-quad-cities.jpg)</figure>
 
 #### [John Deere Pavilion](/go/john-deere-pavilion-quad-cities/)
 
@@ -52,7 +52,7 @@ Before you go stop by the gift shop that offers a variety of John Deere merchand
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-655050f8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="figge-art-museum-quad-cities">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/figge-art-museum-quad-cities.jpg)](/wp-content/uploads/2023/01/figge-art-museum-quad-cities.jpg)</figure>
+<figure id="figge-art-museum-quad-cities">[![](/images/figge-art-museum-quad-cities.jpg)](/images/figge-art-museum-quad-cities.jpg)</figure>
 
 #### [Figge Art Museum](/go/figge-art-museum-quad-cities/)
 
@@ -71,7 +71,7 @@ Stop by the Museum Store for a wide selection of art-related items, including bo
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6523ef43"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="channel-cat-taxi-quad-cities">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/channel-cat-taxi-quad-cities.jpg)](/wp-content/uploads/2023/01/channel-cat-taxi-quad-cities.jpg)</figure>
+<figure id="channel-cat-taxi-quad-cities">[![](/images/channel-cat-taxi-quad-cities.jpg)](/images/channel-cat-taxi-quad-cities.jpg)</figure>
 
 #### [Channel Cat Taxi](/go/channel-cat-taxi-quad-cities/)
 
@@ -90,7 +90,7 @@ The Channel Cat Water Taxi is a fun and unique way to see the Quad Cities and is
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3ddf959e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="quad-city-botanical-center-quad-cities">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/quad-city-botanical-center-quad-cities.jpg)](/wp-content/uploads/2023/01/quad-city-botanical-center-quad-cities.jpg)</figure>
+<figure id="quad-city-botanical-center-quad-cities">[![](/images/quad-city-botanical-center-quad-cities.jpg)](/images/quad-city-botanical-center-quad-cities.jpg)</figure>
 
 #### [Quad City Botanical Center](/go/quad-city-botanical-center-quad-cities/)
 
@@ -111,7 +111,7 @@ The botanical center hosts a variety of events throughout the year, such as conc
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e0185031"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Modern-Woodmen-Park-quad-cities">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/Modern-Woodmen-Park-quad-cities.jpg)](/wp-content/uploads/2023/01/Modern-Woodmen-Park-quad-cities.jpg)</figure>
+<figure id="Modern-Woodmen-Park-quad-cities">[![](/images/Modern-Woodmen-Park-quad-cities.jpg)](/images/Modern-Woodmen-Park-quad-cities.jpg)</figure>
 
 #### [Modern Woodmen Park](/go/modern-woodmen-park-quad-cities/)
 
@@ -128,7 +128,7 @@ The park hosts a variety of special events throughout the season, such as firewo
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e501aadc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="davenport-skybridge-quad-cities">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/davenport-skybridge-quad-cities.jpg)](/wp-content/uploads/2023/01/davenport-skybridge-quad-cities.jpg)</figure>
+<figure id="davenport-skybridge-quad-cities">[![](/images/davenport-skybridge-quad-cities.jpg)](/images/davenport-skybridge-quad-cities.jpg)</figure>
 
 #### [Davenport Skybridge](/go/davenport-skybridge-quad-cities/)
 
@@ -139,7 +139,7 @@ The Davenport Skybridge is a pedestrian bridge located in Davenport, Iowa, Unite
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c748a205"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Colonel-Davenport-House-quad-cities">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/Colonel-Davenport-House-quad-cities.jpg)](/wp-content/uploads/2023/01/Colonel-Davenport-House-quad-cities.jpg)</figure>
+<figure id="Colonel-Davenport-House-quad-cities">[![](/images/Colonel-Davenport-House-quad-cities.jpg)](/images/Colonel-Davenport-House-quad-cities.jpg)</figure>
 
 #### [Colonel Davenport House](/go/colonel-davenport-house-quad-cities/)
 
@@ -158,7 +158,7 @@ Whether you are a history buff, a lover of architecture, or simply someone who a
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8f10eeb0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="palmer-family-residence-quad-cities">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/palmer-family-residence-quad-cities.jpg)](/wp-content/uploads/2023/01/palmer-family-residence-quad-cities.jpg)</figure>
+<figure id="palmer-family-residence-quad-cities">[![](/images/palmer-family-residence-quad-cities.jpg)](/images/palmer-family-residence-quad-cities.jpg)</figure>
 
 #### [The Palmer Family Residence](/go/palmer-family-historical-house-quad-cities/)
 
@@ -175,7 +175,7 @@ The home is open to the public with guided tours Monday through Friday from 9:00
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f7a31d7a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Rock-Island-Arsenal-Museum-quad-cities">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/Rock-Island-Arsenal-Museum-quad-cities.jpg)](/wp-content/uploads/2023/01/Rock-Island-Arsenal-Museum-quad-cities.jpg)</figure>
+<figure id="Rock-Island-Arsenal-Museum-quad-cities">[![](/images/Rock-Island-Arsenal-Museum-quad-cities.jpg)](/images/Rock-Island-Arsenal-Museum-quad-cities.jpg)</figure>
 
 #### [Rock Island Arsenal Museum](/go/rock-island-arsenal-museum-quad-cities/)
 
@@ -203,5 +203,5 @@ Knock out four cities in one trip with a trip to the Quad Cities. Hope this list
 
 **Like it? Pin it!**
 
-<figure id="Things-to-do-in-the-quad-cities">[![](https://hotmamatravel.com/wp-content/uploads/2023/01/Things-to-do-in-the-quad-cities-200x300.jpg)](/images/Things-to-do-in-the-quad-cities.jpg)</figure>
+<figure id="Things-to-do-in-the-quad-cities">[![](/images/Things-to-do-in-the-quad-cities-200x300.jpg)](/images/Things-to-do-in-the-quad-cities.jpg)</figure>
 </div></section>

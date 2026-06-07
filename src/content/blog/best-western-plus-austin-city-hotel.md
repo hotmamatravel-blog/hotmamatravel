@@ -24,7 +24,7 @@ The Best Western Plus in Austin is conveniently located in the historic neighbor
 
 Whether you call it SOCO or **[South Congress District](https://www.austintexas.org/listings/south-congress-avenue-(soco)/4359/)**, both locals as well as visitors agree that this is a lively cultural district worth spending some time exploring. The colorful street is sprinkled with mural art, eclectic shops, restaurants and food trucks as well as music and art venues. Known as the gateway to the capital city, views of the Capital Building can be seen gracefully rising from the end of the street. The great thing is the Best Western Plus Austin City Hotel is less than a mile from all the fun.
 
-[![SOCO Austin](https://hotmamatravel.com/wp-content/uploads/2017/11/SOCO-e1511206983108.jpg)](/best-western-plus-austin-city-hotel/)
+[![SOCO Austin](/images/SOCO-e1511206983108.jpg)](/best-western-plus-austin-city-hotel/)
 
 ###
 
@@ -32,7 +32,7 @@ Whether you call it SOCO or **[South Congress District](https://www.austintexas.
 
 Right in the core of Downtown Austin,** [6th Street](https://6street.com/)** is a historic district that is well known for the number of entertainment venues, bars and clubs. For those, like us, who love live music, this is the street to visit. Just walking down the street you can hear the tunes of live music pouring out of from almost every building. Although many places are for a 21 and over crowd, afternoon and mornings offer family-friendly spots to have a meal, a drink and enjoy some live music like the famous and historical Driskill Hotel lounge.
 
-[![The Driskell Hotel Austin TX](https://hotmamatravel.com/wp-content/uploads/2017/11/Driskell-e1511207309496.jpg)](/best-western-plus-austin-city-hotel/)
+[![The Driskell Hotel Austin TX](/images/Driskell-e1511207309496.jpg)](/best-western-plus-austin-city-hotel/)
 
 ### Rainey Street
 
@@ -50,7 +50,7 @@ Now, let me tell you more about the Best Western Austin City. You could tell imm
 
 The hotel, which is also 100 percent smoke-free, smelled fresh and clean. Although, the haunting aroma of coffee did fill my nose as we entered the lobby. Off in the cozy corner of the lobby there is a really cool coffee machine that makes specialty gourmet coffees. I immediately helped myself to a cup of Mexican hot chocolate to open up the senses.
 
-[![Lobby at Best Western Austin City](https://hotmamatravel.com/wp-content/uploads/2017/11/Lobby-e1511206463645.jpg)](/best-western-plus-austin-city-hotel/) Courtesy of Best Western
+[![Lobby at Best Western Austin City](/images/Lobby-e1511206463645.jpg)](/best-western-plus-austin-city-hotel/) Courtesy of Best Western
 
 ### Opal Divine’s Austin Grill:
 
@@ -58,7 +58,7 @@ I always love when hotels have a good onsite restaurant. It just makes things so
 
 If you are looking for an Austin hotel with great free breakfast, look no further than Best Western Plus Austin City. It a great spot to grab a beer at the bar and some dinner. In addition, was also the site of the Best Western complimentary breakfast. Served buffet style, every morning guests can enjoy a hot deluxe breakfast right here in Opal Divine’s Austin Grill. There was so much variety in options and the fresh food was constantly being provided. No need to drive around hunting for a good breakfast in Austin, all you have to do is wake up. It is one of the few hotels with free breakfast in Austin, TX and I have to honestly say, it was one of the best breakfasts we had on our 60 day road trip.
 
-[![Complimentary Breakfast at Best Western Austin City Hotel](https://hotmamatravel.com/wp-content/uploads/2017/11/Breakfast-e1511208736325.jpg)](/best-western-plus-austin-city-hotel/)
+[![Complimentary Breakfast at Best Western Austin City Hotel](/images/Breakfast-e1511208736325.jpg)](/best-western-plus-austin-city-hotel/)
 
 ### Pool:
 
@@ -76,7 +76,7 @@ This might sound crazy, but I loved the Best Western Plus Austin City Hotel laun
 
 The rooms at the Best Western Plus Austin City Hotel are very nice and comfortable. In addition to the standard comforts of many Austin hotels, like cable television, air-conditioning, hairdryers, ironing boards and irons, and a coffee maker, the rooms also have free high-speed wifi, a microwave and mini refrigerator. When traveling with kids it is so helpful to have a mini-fridge and microwave to store milk or heat-up leftovers. However, what we really loved about our room was that we had a lovely view of downtown Austin cityscape.
 
-[![Guest Rooms at Best Western Plus Austin City Hotel](https://hotmamatravel.com/wp-content/uploads/2017/11/Guest-Rooms-e1511206621803.jpg)](/best-western-plus-austin-city-hotel/) Courtesy of Best Western
+[![Guest Rooms at Best Western Plus Austin City Hotel](/images/Guest-Rooms-e1511206621803.jpg)](/best-western-plus-austin-city-hotel/) Courtesy of Best Western
 
 ## *That’s A Wrap:*
 
@@ -86,4 +86,4 @@ Although there are many hotels in Austin, TX, we all agreed that we really enjoy
 
 **Like it? Pin it!**
 
-[![Best Western Plus Austin City Hotel](https://hotmamatravel.com/wp-content/uploads/2017/11/BWP-AUSTIN.jpg)](/best-western-plus-austin-city-hotel/)
+[![Best Western Plus Austin City Hotel](/images/BWP-AUSTIN.jpg)](/best-western-plus-austin-city-hotel/)

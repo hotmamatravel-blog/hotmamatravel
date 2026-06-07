@@ -23,7 +23,7 @@ But first, if you want to see our family explore Glasgow, we have a series of fu
 
 By now it is no secret that this family likes our libations, so it will come as no surprise that we were stoked to be visiting the land of Scotch and beer. Shockingly, Glasgow has recently enforced some strict liquor licensing laws. So what does this mean for you? Well, if you are traveling with kids, you can’t be in some establishments after 8:00pm if alcohol is still being served. Some restaurants don’t serve alcohol after 8:00pm, which means kids can stay. You can’t purchase alcohol at markets or liquor stores after 10:00pm. In pubs last call is 11:00pm and pubs close at midnight. We learned about these laws the hard way the first two days, which you can read about in related about in  our **[Ultimate Guide](/glasgow-with-kids/)**.
 
-[![Curlers Rest bar Glasgow](https://hotmamatravel.com/wp-content/uploads/2015/10/DSCN9440-1024x681.jpg)](/10-insane-but-true-facts-about-glasgow/)
+[![Curlers Rest bar Glasgow](/images/DSCN9440-1024x681.jpg)](/10-insane-but-true-facts-about-glasgow/)
 
 ## ***2. Tabs &amp; Tips:***
 
@@ -34,7 +34,7 @@ As for tipping, have some cash on hand. Although you can tip on your credit card
 
 Like I said, I am a bartender in the U.S and tips are my income, so I have strong feelings about tipping well. Even in the UK I’m dropping at least 20%. So, if they ran my card without the opportunity to leave a tip I was running around the corner to the nearest ATM to grab some cash.
 
-[![British pounds](https://hotmamatravel.com/wp-content/uploads/2015/08/IMG_6473-1024x1024.jpg)](/10-insane-but-true-facts-about-glasgow/)
+[![British pounds](/images/IMG_6473-1024x1024.jpg)](/10-insane-but-true-facts-about-glasgow/)
 
 ## ***3. Is AMEX Accepted?***
 
@@ -46,7 +46,7 @@ My best travel rewards and biggest credit limit are on my AMEX card, which is wh
 
 I’m from Southern California and if you don’t have a car, you are pretty much screwed. I absolutely LOVED the public transportation in Glasgow. I had so much freedom!! Cabs are just lined up waiting to take you wherever you want to go and if you call they show up right away. The Subway and trains run like clockwork! Best part? I was able to maneuver around this big city with my kids with ease! Glasgow’s public transportation is clean, inexpensive and efficient.
 
-[![Glasgow Transportation](https://hotmamatravel.com/wp-content/uploads/2015/10/Public-Transport-1024x1024.jpg)](/images/Public-Transport.jpg)
+[![Glasgow Transportation](/images/Public-Transport-1024x1024.jpg)](/images/Public-Transport.jpg)
 
 ## ***5. Drink the Tap Water!!***
 
@@ -58,7 +58,7 @@ Many places I’ve traveled, you can’t drink the tap water or you will get sic
 
 Did you know that there is a bit of a rivalry between the cities? Is Glasgow friendly and creative or tacky and scruffy? Is Edinburgh snooty and boring or sophisticated? I guess that is for you to decided. When you visit you will notice snarky comments made about either city, depending on where you are visiting. It is kind of funny. For instance, a popular quote you’ll hear is, “The best thing out of Edinburgh is the train back to Glasgow.”Although both cities are amazing, I have to say I felt more comfortable in Glasgow. I found the city well organized, easier to get around and less touristy. They have culture, art, music, university, museums, amazing restaurants and awesome people!
 
-[![Edinburgh vs Glasgow](https://hotmamatravel.com/wp-content/uploads/2015/10/edinburgh-v-Glasgow-1024x512.jpg)](/images/edinburgh-v-Glasgow.jpg)
+[![Edinburgh vs Glasgow](/images/edinburgh-v-Glasgow-1024x512.jpg)](/images/edinburgh-v-Glasgow.jpg)
 
 ## ***7. Rough and Tough History:***
 
@@ -75,14 +75,14 @@ Bringing me to the next point: the people in Glasgow are fantastic! I stayed in 
 
 I never really go to museums, but Scotland rains…a lot and the kids and I needed some inside activities to do while in Glasgow. Always on a budget, I had to be careful of spending too much every day. Luckily of us, most museums in Glasgow are FREE. We got to see so many amazing things, because we had the freedom of just wandering in and out of a number of museums. The kids loved it, because many of the museums were interactive, like the Riverside Museum and People’s Palace. When in Glasgow, definitely make time for museum hoping. It is fun, fascinating and FREE!
 
-[![Kelvingrove Museum Glasgow](https://hotmamatravel.com/wp-content/uploads/2015/07/DSCN9965-1024x819.jpg)](/10-insane-but-true-facts-about-glasgow/) **Kelvingrove Art Museum**
+[![Kelvingrove Museum Glasgow](/images/DSCN9965-1024x819.jpg)](/10-insane-but-true-facts-about-glasgow/) **Kelvingrove Art Museum**
 
 ## ***10. The Best Indian Cuisine:***
 
 
 Amazing Indian food in Scotland? Yes. Glasgow in general has fantastic food! Every restaurant was better than the next. However, fabulous Indian restaurants specifically, are abundant in Glasgow. Ashoka, The Wee Curry Shop and Mother India are just some to name a few. There is literally an Indian restaurant around every corner in Glasgow…more than Starbucks! Not sure why it is so popular in Glasgow, but it has a long history in the city. In fact, did you know that Chicken Tikka Masala was invented in Glasgow, not India??? If you want the best Indian cuisine, then go to Glasgow.
 
-[![Wee Curry Shop Glasgow](https://hotmamatravel.com/wp-content/uploads/2015/10/DSCN9349-1024x768.jpg)](/10-insane-but-true-facts-about-glasgow/) **The Wee Curry Shop**
+[![Wee Curry Shop Glasgow](/images/DSCN9349-1024x768.jpg)](/10-insane-but-true-facts-about-glasgow/) **The Wee Curry Shop**
 
 ## *That's A Wrap!*
 
@@ -91,4 +91,4 @@ Well, I hope you found these little tidbits interesting and helpful! If you have
 
 **Like it? Pin it!**
 
-[![10 Insane (but true) facts about Glasgow](https://hotmamatravel.com/wp-content/uploads/2015/10/hotmamatravel.com_-1.png)](/10-insane-but-true-facts-about-glasgow/)
+[![10 Insane (but true) facts about Glasgow](/images/hotmamatravel.com_-1.png)](/10-insane-but-true-facts-about-glasgow/)

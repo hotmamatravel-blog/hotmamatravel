@@ -26,7 +26,7 @@ Being a local, it’s a wonder I travel anywhere else! Without further ado, here
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure>![Things to do with kids on Newport Coast OC](https://hotmamatravel.com/wp-content/uploads/2017/02/fun-things-to-do-newport-coast-with-kids-orange-county.png)</figure>
+<figure>![Things to do with kids on Newport Coast OC](/images/fun-things-to-do-newport-coast-with-kids-orange-county.png)</figure>
 
 ### **[Newport Beach Pier](/go/newport-beach-pier-ca/)**
 
@@ -48,7 +48,7 @@ With its easy access to amenities, vibrant atmosphere, and endless play opportun
 
 [**See photos, reviews &amp; more**](/go/newport-beach-pier-ca/)
 
-<figure id="balboa-fun-zone-newport-beach">![Balboa Fun Zone](https://hotmamatravel.com/wp-content/uploads/2020/09/Untitled-design-1.jpg)</figure>
+<figure id="balboa-fun-zone-newport-beach">![Balboa Fun Zone](/images/Untitled-design-1_202009.jpg)</figure>
 
 ### **[Balboa Fun Zone Rides](/go/balboa-fun-zone-newport-beach-ca/)**
 
@@ -72,7 +72,7 @@ Whether you’re seeking thrills, nostalgia, or simply a relaxing day by the wat
 
 [**See photos, reviews &amp; more**](/go/balboa-fun-zone-newport-beach-ca/)
 
-<figure id="newport-beach-back-bay-conservatory">![Newport Back Bay](https://hotmamatravel.com/wp-content/uploads/2020/09/Untitled-design-2.jpg)</figure>
+<figure id="newport-beach-back-bay-conservatory">![Newport Back Bay](/images/Untitled-design-2_202009.jpg)</figure>
 
 ### [**Newport Back Bay Preserve**](/go/back-bay-conservatory-newport-beach-ca/)
 
@@ -92,7 +92,7 @@ With its tranquil atmosphere, scenic vistas, and abundance of outdoor activities
 
 [**See photos, reviews &amp; more**](/go/back-bay-conservatory-newport-beach-ca/)
 
-<div class="wp-block-uagb-image uagb-block-d02f0e47 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Newport Dunes Resort guide for visiting](https://hotmamatravel.com/wp-content/uploads/2018/02/ultimate-guide-newport-dunes-rv-resort-with-kids-header.png)](/wp-content/uploads/2018/02/ultimate-guide-newport-dunes-rv-resort-with-kids-header.png)</figure></div>
+<div class="wp-block-uagb-image uagb-block-d02f0e47 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Newport Dunes Resort guide for visiting](/images/ultimate-guide-newport-dunes-rv-resort-with-kids-header.png)](/images/ultimate-guide-newport-dunes-rv-resort-with-kids-header.png)</figure></div>
 
 ### **Newport Dunes Waterfront Resort &amp; Marina**
 
@@ -110,7 +110,7 @@ For our family, this is more than just a destination, it’s a place where some 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AygyWQcZY4Q?si=_xBdidSNzNbAu-t2&amp;start=314" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="wp-block-uagb-image uagb-block-c1f7b03a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Family-friendly Marina Park Newport Beach](https://hotmamatravel.com/wp-content/uploads/2020/09/Marina-Park-Newport-Beach.jpg)](/wp-content/uploads/2020/09/Marina-Park-Newport-Beach.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-c1f7b03a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Family-friendly Marina Park Newport Beach](/images/Marina-Park-Newport-Beach.jpg)](/images/Marina-Park-Newport-Beach.jpg)</figure></div>
 
 ### **[Marina Park Newport Beach](/go/marina-park-newport-beach/)**
 
@@ -142,7 +142,7 @@ Be your captain as you cruise around the Newport Harbor in an electric Duffy Boa
 
 [See photos, reviews &amp; more](/go/duffy-boat-rentals-newport-beach-ca/)
 
-<figure id="paddle-boarding-with-kids-newport-beach">![paddleboard in Newport Beach](https://hotmamatravel.com/wp-content/uploads/2020/09/Untitled-design-4.jpg)</figure>
+<figure id="paddle-boarding-with-kids-newport-beach">![paddleboard in Newport Beach](/images/Untitled-design-4_202009.jpg)</figure>
 
 ### **[Pirate Coast Paddleboarding](/go/pirate-coast-paddle-boarding-newport-beach-ca/)**
 
@@ -152,7 +152,7 @@ Paddleboarding is one of my favorite activities to do when in Newport Beach. I l
 
 [**See photos, reviews &amp; more**](/go/pirate-coast-paddle-boarding-newport-beach-ca/)
 
-<figure id="newport-family-activity-parasailing">![parasail newport beach](https://hotmamatravel.com/wp-content/uploads/2020/09/Untitled-design-5.jpg)</figure>
+<figure id="newport-family-activity-parasailing">![parasail newport beach](/images/Untitled-design-5_202009.jpg)</figure>
 
 ### **[Balboa Parasail](/go/balboa-parasail-newport-beach-ca/)**
 
@@ -162,7 +162,7 @@ Soar high above Newport Beach, taking in the breathtaking panoramic views with a
 
 [**See photos, reviews &amp; more**](/go/balboa-parasail-newport-beach-ca/)
 
-<figure id="family-friendly-whale-watching-newport-beach">![Newport whale watching](https://hotmamatravel.com/wp-content/uploads/2020/09/Untitled-design-6.jpg)</figure>
+<figure id="family-friendly-whale-watching-newport-beach">![Newport whale watching](/images/Untitled-design-6_202009.jpg)</figure>
 
 ### **[Newport Landing Whale Watching](/go/newport-landing-whale-watching-newport-beach-ca/)**
 
@@ -188,7 +188,7 @@ All meals come with bread, salad, and ice cream, which makes this meal a great v
 
 [See photos, reviews &amp; more](/go/old-spaghetti-factory-newport-beach-ca/)
 
-<figure>![crab cooker newport beach](https://hotmamatravel.com/wp-content/uploads/2015/09/IMG_8689-1024x683.jpg)</figure>
+<figure>![crab cooker newport beach](/images/IMG_8689-1024x683.jpg)</figure>
 
 ### **[Crab Cooker](/go/crab-cooker-newport-beach-ca/)**
 
@@ -208,7 +208,7 @@ Simple, classic, and totally Newport.
 
 [**See photos, reviews &amp; more**](/go/crab-cooker-newport-beach-ca/)
 
-<figure id="newport-beach-family-restaurant-charlies-chili">![](https://hotmamatravel.com/wp-content/uploads/2020/09/Untitled-design-3.jpg)</figure>
+<figure id="newport-beach-family-restaurant-charlies-chili">![](/images/Untitled-design-3.jpg)</figure>
 
 ### **[Charlie’s Chili](/go/charlies-chili-newport-beach-ca/)**
 
@@ -218,7 +218,7 @@ This restaurant is located right off the pier and has been in this location for 
 
 [**See photos, reviews &amp; more**](/go/charlies-chili-newport-beach-ca/)
 
-<figure>![family-restaurant-newport-beach-harborside-inn-restaurant-ballroom](https://hotmamatravel.com/wp-content/uploads/2016/03/DSC00512-1024x576.jpg)</figure>
+<figure>![family-restaurant-newport-beach-harborside-inn-restaurant-ballroom](/images/DSC00512-1024x576.jpg)</figure>
 
 ### **[Harborside Restaurant and Ballroom](/go/harborside-restaurant-ballroom-newport-beach-ca/)**
 
@@ -284,7 +284,7 @@ It’s the kind of spot where you can slow down, refuel, and enjoy that easy New
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-3672dc41 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![hyatt regency newport beach family hotel](https://hotmamatravel.com/wp-content/uploads/2020/09/Hyatt-Regency-Newport-Beach.jpg)](/wp-content/uploads/2020/09/Hyatt-Regency-Newport-Beach.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-3672dc41 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![hyatt regency newport beach family hotel](/images/Hyatt-Regency-Newport-Beach.jpg)](/images/Hyatt-Regency-Newport-Beach.jpg)</figure></div>
 
 ### [Hyatt Regency Newport Beach](/go/hyatt-regency-newport-beach/)
 
@@ -332,7 +332,7 @@ Another great option is beach house rentals. It is great for large families and 
 
 [**See photos, reviews &amp; more**](/go/vrbo-newport-beach/)
 
-<figure>[![Newport Dunes Beach Cottages](https://hotmamatravel.com/wp-content/uploads/2017/06/Newport-Dunes-Beach-Cottages.jpg)](/wp-content/uploads/2017/06/Newport-Dunes-Beach-Cottages.jpg)</figure>
+<figure>[![Newport Dunes Beach Cottages](/images/Newport-Dunes-Beach-Cottages.jpg)](/images/Newport-Dunes-Beach-Cottages.jpg)</figure>
 
 ### **[Newport Dunes RV Resort](/go/newport-dunes-rv-resort-newport-beach-ca/)**
 
@@ -360,5 +360,5 @@ Like it? Pin it!
 
 Save this for your next California trip planning and get more family travel ideas at HotMamaTravel.com 🌴✨
 
-#NewportBeach #NewportCoast #OrangeCounty #CaliforniaWithKids #FamilyTravel #KidsActivities #BeachVacation #TravelWithKids #OCBeaches #CaliforniaTravel #FamilyVacation #TravelGuide #BeachDay #MomTravel #HotMamaTravel">[![things to do in Newport Coast with kids](https://hotmamatravel.com/wp-content/uploads/2020/09/things-to-do-newport-coast-with-kids-200x300.jpg)](/images/things-to-do-newport-coast-with-kids.jpg)</figure>
+#NewportBeach #NewportCoast #OrangeCounty #CaliforniaWithKids #FamilyTravel #KidsActivities #BeachVacation #TravelWithKids #OCBeaches #CaliforniaTravel #FamilyVacation #TravelGuide #BeachDay #MomTravel #HotMamaTravel">[![things to do in Newport Coast with kids](/images/things-to-do-newport-coast-with-kids-200x300.jpg)](/images/things-to-do-newport-coast-with-kids.jpg)</figure>
 </div></div>

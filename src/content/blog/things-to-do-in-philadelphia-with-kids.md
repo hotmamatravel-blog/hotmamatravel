@@ -38,7 +38,7 @@ This is a big city, so there are a ton of options for hotels in the Philadelphia
 
 We were invited to stay at the Best Western Plus Philadelphia Convention Center Hotel, which is located in center city Philadelphia. The hotel is right across the street from the Convention Center as well as the popular Reading Terminal Market. The location was convenient for our Philadelphia sightseeing adventures. We also enjoyed the lobby bar. Hey, family travel includes parents’ enjoyment too. This isn’t just about Philadelphia for kids only. Besides they had their fun during the complimentary breakfast, chowing down on Liberty Bell waffles. For more details about our stay at the Best Western Plus Philadelphia Convention Center Hotel, [**see our full review**](/best-western-plus-philadelphia-convention-center-hotel/). To book your stay, [**check rates and availability**](http://www.anrdoezrs.net/links/8336032/type/dlg/https://www.bestwestern.com/en_US/book/hotels-in-philadelphia/best-western-plus-philadelphia-convention-center-hotel/propertyCode.39135.html).
 
-[![Best Western Plus Philadelphia Convention Center Hotel](https://hotmamatravel.com/wp-content/uploads/2017/10/DSC06630-e1506967940322.jpg)](/things-to-do-in-philadelphia-with-kids/)
+[![Best Western Plus Philadelphia Convention Center Hotel](/images/DSC06630-e1506967940322.jpg)](/things-to-do-in-philadelphia-with-kids/)
 
 ### Best Western Plus Independence Park Hotel
 
@@ -67,7 +67,7 @@ They do serve alcohol at the Reading Terminal Market and have a few restaurants/
 
 We loaded up on Cheeses and olives from Valley Shepherd Creamery. Then we tried the carved turkey sandwich, which was huge and delicious! The kids really liked the sandwich. Hot Daddy got a tip to try the famous roast pork sandwhich at DiNic's, and he says it was definitely worth the buzz. Afterwards we finished with some ice cream at Bassetts Ice Cream and candy at the Sweet Fudge Candy Shop. We definitely needed more time and bigger stomachs to fully enjoy our time at Reading Terminal Market.
 
-[![Reading Terminal Market](https://hotmamatravel.com/wp-content/uploads/2017/10/DSC07286-e1506968204430.jpg)](/things-to-do-in-philadelphia-with-kids/)
+[![Reading Terminal Market](/images/DSC07286-e1506968204430.jpg)](/things-to-do-in-philadelphia-with-kids/)
 
 ### China Town
 
@@ -87,13 +87,13 @@ There are a ton of things to do in Philly with kids. The issue is deciding what 
 
 At $5 for an all day pass and 22 stops, this purple bus is a very affordable way to visit the many popular Philadelphia points of interest. I didn’t even know about the PHLASH until we were invited to try it by [Visit Philly](http://www.visitphilly.com/?gclid=CjwKCAjwu7LOBRBZEiwAQtfbGJX6wVe0KVbFaD9JNaoHg4VXgp_NW9r-tRuRtOtStL0bSe9_6CbHgxoC6P0QAvD_BwE). There are so many things to do with kids in Philadelphia that I highly recommend purchasing passes for your Philadelphia visit.
 
-[![Riding the Philly Phlash ](https://hotmamatravel.com/wp-content/uploads/2017/10/DSC06795-e1506976760291.jpg)](/things-to-do-in-philadelphia-with-kids/)
+[![Riding the Philly Phlash ](/images/DSC06795-e1506976760291.jpg)](/things-to-do-in-philadelphia-with-kids/)
 
 ### Spruce Street Harbor Park
 
 This was one of the first places in Philadelphia we visited. We went during the dusk, just as the multicolored crystal lights that dripped from the trees were aglow. If you are looking for fun places for kids in Philadelphia, then get to Spruce Street Harbor Park. It is where to go in Philadelphia. Located on the Delaware River, Spruce Street Harbor Park is a lively gathering place filled with food, drinks, games and hammocks.
 
-[![Spruce Street Harbor Park Philadelphia](https://hotmamatravel.com/wp-content/uploads/2017/10/Untitled-design-e1506969916572.jpg)](/things-to-do-in-philadelphia-with-kids/)
+[![Spruce Street Harbor Park Philadelphia](/images/Untitled-design-e1506969916572.jpg)](/things-to-do-in-philadelphia-with-kids/)
 
 The park is a favorite among locals as well as visitors. My dad reminisced as he gazed upon the Ben Franklin Bridge, the kids relaxed in hammocks and ate ice cream and my mom and hubby enjoyed some local brews. Spruce Street Harbor Park was a wonderful introduction to the city and one of those great places for kids in Philadelphia.
 <div id="video-laptop"><iframe src="https://www.youtube.com/embed/4uAyLDpx6H4" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -106,7 +106,7 @@ The Independence Hall is a National Historic Site and does not charge admission.
 
 For more fun for kids in Philly, you will often find reenactments going on in the court yard of the Independence Hall. My kids enjoyed watching the show and meeting the actors.
 
-[![Independence Hall Philadelphia](https://hotmamatravel.com/wp-content/uploads/2017/10/Untitled-design1-e1506971570654.jpg)](/things-to-do-in-philadelphia-with-kids/)
+[![Independence Hall Philadelphia](/images/Untitled-design1-e1506971570654.jpg)](/things-to-do-in-philadelphia-with-kids/)
 
 ### Liberty Bell
 
@@ -114,7 +114,7 @@ The **[Liberty Bell](https://www.nps.gov/inde/learn/historyculture/stories-liber
 
 Once inside, you wander through a visual timeline telling the story of the Liberty Bell. Then you reach the grand finale. The Liberty Bell originally hung in the steeple of Independence Hall. It was used to announce public meetings and to beckon lawmakers to attend legislative sessions. However, the Liberty Bell cracked after it was first rung upon its arrival to Philadelphia. Now, it sits in the Liberty Bell Center for visitors to observe up close and personal.
 
-[![Liberty Bell Philadelphia](https://hotmamatravel.com/wp-content/uploads/2017/10/Untitled-design2-e1506972723223.jpg)](/things-to-do-in-philadelphia-with-kids/)
+[![Liberty Bell Philadelphia](/images/Untitled-design2-e1506972723223.jpg)](/things-to-do-in-philadelphia-with-kids/)
 
 I was surprised at how close we could get to the Liberty Bell. There was just a little rope between us and history. You can take as much time as you like viewing the bell and my daughter really wanted to examine every detail. Sure it is touristy, but it is a must-see Philadelphia site. Of course, my kids had to take a little Liberty Bell home. It was one of there favorite souvenirs. [**GET YOURS**](https://www.amazon.com/gp/offer-listing/B00P1SE6GU/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00P1SE6GU&amp;linkCode=am2&amp;tag=hmt016-20&amp;linkId=05adb8c91bdc31774cc61d9b869c7ae6)[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=US&amp;ASIN=B00P1SE6GU&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL250_&amp;tag=hmt016-20)](https://www.amazon.com/gp/product/B00P1SE6GU/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00P1SE6GU&amp;linkCode=as2&amp;tag=hmt016-20&amp;linkId=463ab4ab2b52cd9fdb10a0b0fd24d295)![](//ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;l=am2&amp;o=1&amp;a=B00P1SE6GU)
 
@@ -122,7 +122,7 @@ I was surprised at how close we could get to the Liberty Bell. There was just a 
 
 Most of us have heard of Betsy Ross. She was commissioned by General George Washington to make the first American Flag. A must see in Philadelphia, you can visit the [Betsy Ross house](http://historicphiladelphia.org/betsy-ross-house/what-to-see/), the home of America’s most famous flag-maker. Philadelphia historic sites are all over the city, but this one is a very personal experience. For one, you are touring the home of a historical figure. Secondly, you are also visiting her grave site. Yes, she is buried on the property. Lastly, my kids were excited because Betsy Ross may have been an ancestor of ours which is why the Ross name has been passed down on HotDaddy’s side of the family. Our son Kevin Ross even bears the name.
 
-[![Betsy Ross House Philadelphia](https://hotmamatravel.com/wp-content/uploads/2017/10/Untitled-design3-e1506974058205.jpg)](/things-to-do-in-philadelphia-with-kids/)
+[![Betsy Ross House Philadelphia](/images/Untitled-design3-e1506974058205.jpg)](/things-to-do-in-philadelphia-with-kids/)
 
 It does cost a small admission to tour the home. Adults are $5 while kids, seniors and military are only $4. It cost a $2 to add an audio tour. We just bought one and shared. After listening to the audio tour, we appreciated her work even more. See at the time she made the flag, we were not technically our own country yet. The making of the first American flag was an act of treason to Britain at the time. Little Betsy was a bold lady.
 
@@ -136,13 +136,13 @@ For interesting things to do in Philadelphia, you can visit [Ben Franklin’s gr
 
 Admission into the cemetery is $3 for adults and $1 for children. Now, this may not seem like one the most exciting things for kids to do in Philadelphia, but I think it is important. I always take my kids to historical cemeteries and they have always behaved respectfully. We gave the pennies to throw on Ben Franklin’s grave, a tradition for visitors as an ode to his famous quote, “A penny saved is a penny earned.”
 
-[![Benjamin Franklin Gravesite](https://hotmamatravel.com/wp-content/uploads/2017/10/DSC07483-e1506974371163.jpg)](/things-to-do-in-philadelphia-with-kids/)
+[![Benjamin Franklin Gravesite](/images/DSC07483-e1506974371163.jpg)](/things-to-do-in-philadelphia-with-kids/)
 
 ### Eastern State Penitentiary
 
 While riding on the PHLASH, looking for more family fun in Philadelphia we came across the hulking castle-like walls of Eastern State Penitentiary. I have always wanted to visit this infamous prison, but I didn’t think it was close enough to our other Philadelphia tourist attractions. Not the case. It was really close to the old city Philadelphia sights. I was so excited when it came up on our route as a stop. This is probably one of the most unique things to do in Philadelphia.
 
-[![Eastern State Penitentiary](https://hotmamatravel.com/wp-content/uploads/2017/10/Untitled-design4-e1506975106284.jpg)](/things-to-do-in-philadelphia-with-kids/)
+[![Eastern State Penitentiary](/images/Untitled-design4-e1506975106284.jpg)](/things-to-do-in-philadelphia-with-kids/)
 
 Why is it one of the cool things to do in Philadelphia? For one, it is said to be the most haunted prison in America. Secondly, it opened in 1829 and is considered the world’s first true penitentiary. It was the first prison to introduce separate confinement, coining the term, “The Pennsylvania System.” Third, it housed many famous prisoners, including the notorious Al Capone. Lastly, my dad actually performed for the prisoners here as a child in 1940.
 
@@ -167,4 +167,4 @@ I put together what I feel are the best things to do in Philadelphia. I hope thi
 
 **Like it? Pin it!**
 
-[![Things to do in Philadelphia with kids](https://hotmamatravel.com/wp-content/uploads/2017/10/Things-to-do-in.png)](/things-to-do-in-philadelphia-with-kids/)
+[![Things to do in Philadelphia with kids](/images/Things-to-do-in.png)](/things-to-do-in-philadelphia-with-kids/)

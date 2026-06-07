@@ -132,5 +132,5 @@ Creating a relaxing home, especially after the physically, mentally, and emotion
 
 Like it? Pin it!
 
-<figure id="10-tips-for-a-relaxing-home-after-moving">[![](https://hotmamatravel.com/wp-content/uploads/2023/12/10-tips-for-a-relaxing-home-after-moving-200x300.jpg)](/images/10-tips-for-a-relaxing-home-after-moving.jpg)</figure>
+<figure id="10-tips-for-a-relaxing-home-after-moving">[![](/images/10-tips-for-a-relaxing-home-after-moving-200x300.jpg)](/images/10-tips-for-a-relaxing-home-after-moving.jpg)</figure>
 </div></div>

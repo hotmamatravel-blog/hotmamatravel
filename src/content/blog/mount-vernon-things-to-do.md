@@ -16,7 +16,7 @@ When we decided to visit Washington D.C on our [**cross-country summer road trip
 
 This home was so special to Washington that he almost refused his nomination to be President of the United States just so he could enjoy retirement at his lovely Mount Vernon estate. Interestingly enough, the White House had not been built yet, so President Washington was able to continue living at Mount Vernon throughout his presidency and until his death in 1799.
 
-![Inside Mount Vernon Inn Restaurant Lobby](https://hotmamatravel.com/wp-content/uploads/2019/02/restaurant-mount-vernon-with-kids.jpg)
+![Inside Mount Vernon Inn Restaurant Lobby](/images/restaurant-mount-vernon-with-kids.jpg)
 
 Originally built in 1735 by George Washington’s father, George Washington took over ownership in 1754 and expanded it to the 21 room estate we can all visit today. In 1798 President Washington hosted 677 guests in one year. Now, Mount Vernon incredibly receives around a million visitors each year!
 
@@ -36,7 +36,7 @@ And let me tell you, this place is *incredibly* *well-preserved*! So if you are 
 
 **HotMama Tip**: I highly recommend to purchase your tickets online. It saves you money and time since you also get to skip the line at the gate.
 
-![Mount Vernon with kids and wheelchair](https://hotmamatravel.com/wp-content/uploads/2019/02/family-day-mount-vernon-virginia.jpg)
+![Mount Vernon with kids and wheelchair](/images/family-day-mount-vernon-virginia.jpg)
 
 ### **Specialty Tours**
 
@@ -54,7 +54,7 @@ All activities listed in this post are included in the general admission, howeve
 
 Upon entering the main gate, the first thing you will see is the Ford Orientation Center. Here, you are greeted with a playful statue of George Washington with his wife and grandchildren, which my kids loved. We all thought Kevin looked like little Washy.
 
-![George Washington Family Statues at Mount Vernon](https://hotmamatravel.com/wp-content/uploads/2019/02/visitors-center-mount-vernon-george-washington.jpg)
+![George Washington Family Statues at Mount Vernon](/images/visitors-center-mount-vernon-george-washington.jpg)
 
 Then before you start exploring the grounds, take a minute to enjoy *We Fight to Be Free* action adventure movie. It gives a great overview of Mount Vernon and introduces you to the *real man* we all know as the first President of the United States, George Washington. The video and orientation center do a good job of humanizing this mythic person and help set the stage for exploring Washington's historic home.
 
@@ -62,7 +62,7 @@ Then before you start exploring the grounds, take a minute to enjoy *We Fight to
 
 The experienced tour guides usher in small groups of visitors in 15-20 minute intervals so that there isn’t an onslaught of people to clog up the mansion. I mean the mansion is&nbsp;**BIG**, but not *that* big! To enter the mansion, you will have to wait until the time indicated on your ticket, which you choose&nbsp; at the time of purchase.
 
-![Mount Vernon Mansion](https://hotmamatravel.com/wp-content/uploads/2019/02/family-at-mount-vernon-mansion.jpg)
+![Mount Vernon Mansion](/images/family-at-mount-vernon-mansion.jpg)
 
 The Mansion tour includes a walkthrough of the three-story 20 room estate as well as all beautiful grounds surrounding the mansion. On the grounds you will find numerous building that were used for various trades and tasks, farms, gardens and the actual resting places of Martha and George Washington!
 
@@ -90,11 +90,11 @@ The Key to the Bastille was give to Washington by the Marquis de Lafayette after
 
 **Piazza -&nbsp;**Okay, this was the highlight of our visit at Mount Vernon. Stretching the whole length of the house, this grand patio is lined with rocking chairs, perfect for enjoying summer breezes and sparkling views of the Potomac River. The Washington's treated this space as an extension of their home, hence the grand size.
 
-![View of Potomac River from Patio at Mount Vernon](https://hotmamatravel.com/wp-content/uploads/2019/02/view-mount-vernon-piazza-potomac-river.jpg)
+![View of Potomac River from Patio at Mount Vernon](/images/view-mount-vernon-piazza-potomac-river.jpg)
 
 During our visit the skies opened and a major summer thunderstorm passed over, actually *trapping* us on the piazza! It was so exciting and surreal to be sitting on a rocking chair on George Washington’s back porch watching the storm! It was perhaps the biggest memory of our time at Mount Vernon.
 
-![Rain Storm at Mt Vernon](https://hotmamatravel.com/wp-content/uploads/2019/02/mount-vernon-with-kids-back-patio.jpg)
+![Rain Storm at Mt Vernon](/images/mount-vernon-with-kids-back-patio.jpg)
 
 #### Second Floor
 
@@ -144,7 +144,7 @@ The kitchen building at Mount Vernon is where all the meals for the Washington's
 
 **Stables -&nbsp;**George Washington loved horses and loved to ride his horses regularly. Thomas Jefferson even called him the “greatest horseman of his age.”
 
-![Stables at Mount Vernon with kids](https://hotmamatravel.com/wp-content/uploads/2019/02/mount-vernon-with-kids-stables.jpg)
+![Stables at Mount Vernon with kids](/images/mount-vernon-with-kids-stables.jpg)
 
 At the brick stable you get see where he kept his many horses and some his best carriages. In 1785 there were 130 horses on the Mount Vernon property. Also funny story, when the King of Spain gifted Washington a jackass named Royal Gift, a slave by the Peter Hardman oversaw a breeding program on the property and by 1799 there Mount Vernon went from housing zero mules to 58!
 
@@ -154,7 +154,7 @@ At the brick stable you get see where he kept his many horses and some his best 
 
 Although George Washington designed the landscaping, it was skilled slaves that maintained the gardens. The gardens were used to supply food as well as to enjoy. &nbsp;While Martha ran the kitchen garden, Washington took much pride in his pleasure garden.
 
-![Mount Vernon Green gardens](https://hotmamatravel.com/wp-content/uploads/2019/02/mount-vernon-garden-grounds.jpg)
+![Mount Vernon Green gardens](/images/mount-vernon-garden-grounds.jpg)
 
 **Upper Garden -&nbsp;**Next to the Greenhouse, the Upper Garden was what George Washington called his pleasure garden. Filled with shaded paths lined with beautiful flowers and vegetables this garden was meant for enjoyment of his family and his many guests and perfect for after dinner walks.
 
@@ -168,13 +168,13 @@ Although George Washington designed the landscaping, it was skilled slaves that 
 
 This was probably the most interesting section of the grounds for me. It was surreal to visit the actual resting place of the first US president and first lady. After touring his home and doing some research it is clear to see that George Washington loved his home. He almost refused the presidency just to spend a nice retirement there, it seems fitting that Mount Vernon would be his final resting place.
 
-![Location of tomb George Washington](https://hotmamatravel.com/wp-content/uploads/2019/02/tomb-of-george-washington-mount-vernon.jpg)
+![Location of tomb George Washington](/images/tomb-of-george-washington-mount-vernon.jpg)
 
 **Old Tomb -&nbsp;**George Washington died in his bedchamber in 1799 and it was his desire to be buried in the brick family vault on the property. However his and Martha’s body were moved to the new Vault in 1831
 
 **New Tomb -&nbsp;**The Tomb was requested in George Washington’s will as he was not happy with the location of the Old Tomb nor the fact that it needed repairs. So he designed a new brick vault at the foot of his beloved Fruit Garden and Nursery and requested that all the family members within the Old Tomb be moved as well.
 
-![Marble tomb of George Washington](https://hotmamatravel.com/wp-content/uploads/2019/02/resting-place-george-martha-washington.jpg)
+![Marble tomb of George Washington](/images/resting-place-george-martha-washington.jpg)
 
 The New Tomb was opened in 1831 and is the final resting place of George, Martha Washington as well as some key family members. Visitors can view these beautiful marble sarcophagi and pay their respects to the first president of the new nation.
 
@@ -206,7 +206,7 @@ The Donald W. Reynolds Museum &amp; Education Center is also really cool and a *
 
 There are interesting interactive displays, personal artifacts from the Washington's, short films and an action adventure movie to create a full immersive experience.
 
-![Mount Vernon Museum Washington on Horseback](https://hotmamatravel.com/wp-content/uploads/2019/02/museum-at-mount-vernon-history-center.jpg)
+![Mount Vernon Museum Washington on Horseback](/images/museum-at-mount-vernon-history-center.jpg)
 
 **Revolutionary War Theater: 4-D Experience -&nbsp;**Our family enjoyed this 4-D action movie which follows Washington on three campaigns- Boston, Trenton and Yorktown. Cannons fire, fog fills the theater, snow falls and lighting strikes, making you feel like you are right there in battle with General George Washington.
 
@@ -234,11 +234,11 @@ Don’t forget to take home a fun souvenir! The Shops at Mount Vernon is a colle
 
 I highly recommend taking the time to sit down and enjoy a meal, brunch or happy hour at the Mount Vernon Inn Restaurant. Finding awesome spots to have a great meal and cold drink is super important to our travel experience and the Mount Vernon Inn Restaurant was one of the highlights of our day at Mount Vernon.
 
-![Entrance to Mount Vernon Inn Restaurant](https://hotmamatravel.com/wp-content/uploads/2019/02/entrance-mount-vernon-inn-restaurant.jpg)
+![Entrance to Mount Vernon Inn Restaurant](/images/entrance-mount-vernon-inn-restaurant.jpg)
 
 This colonial-inspired restaurant is just outside the entrance to Mount Vernon and the décor is simply adorable. You will honestly feel like you have stepped back in time. The food is really hearty and it’s a good opportunity to try some George Washington whiskey.
 
-![Inside Mt Vernon Inn Restaurant](https://hotmamatravel.com/wp-content/uploads/2019/02/inside-mount-vernon-restaurant.jpg)
+![Inside Mt Vernon Inn Restaurant](/images/inside-mount-vernon-restaurant.jpg)
 
 ### Food Court
 
@@ -254,4 +254,4 @@ Ultimately, there is so much to learn and be enjoyed that a full day at Mount Ve
 
 **Like it? Pin it!**
 
-![Everything you EVER wanted to know about visiting George Washington’s Mount Vernon](https://hotmamatravel.com/wp-content/uploads/2019/02/Mount-vernon-ultimate-visitors-guide-683x1024.jpg)
+![Everything you EVER wanted to know about visiting George Washington’s Mount Vernon](/images/Mount-vernon-ultimate-visitors-guide-683x1024.jpg)

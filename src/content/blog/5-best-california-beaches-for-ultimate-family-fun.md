@@ -14,7 +14,7 @@ author: "Amanda Keeley-Thurman"
 California is the place to go when seeking a beach vacation, whether you are going solo, with friends, a partner or with your family. It can be challenging to find a destination that is family-friendly and somewhere that everyone will enjoy. Luckily, there are some great spots in California with something for everyone and that would be make for the perfect setting for some family fun at the beach.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e307c27a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="california-family-beaches-long-beach">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/Long-Beach.jpg)](/wp-content/uploads/2022/07/Long-Beach.jpg)</figure>
+<figure id="california-family-beaches-long-beach">[![](/images/Long-Beach.jpg)](/images/Long-Beach.jpg)</figure>
 
 #### Long Beach
 
@@ -25,7 +25,7 @@ See our guide to [visiting The  Queen Mary](/the-queen-mary-with-kids/)
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a88c6b1c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="california-family-beaches-newport-beach">[![Things to do with kids on Newport Coast OC](https://hotmamatravel.com/wp-content/uploads/2017/02/fun-things-to-do-newport-coast-with-kids-orange-county.png)](/wp-content/uploads/2017/02/fun-things-to-do-newport-coast-with-kids-orange-county.png)</figure>
+<figure id="california-family-beaches-newport-beach">[![Things to do with kids on Newport Coast OC](/images/fun-things-to-do-newport-coast-with-kids-orange-county.png)](/images/fun-things-to-do-newport-coast-with-kids-orange-county.png)</figure>
 
 #### Newport Beach
 
@@ -36,7 +36,7 @@ See our full guide of [things to do in Newport with Kids](/newport-coast-with-ki
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8e0a18c4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="california-family-beaches-santa-monica">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/Santa-Monica.jpg)](/wp-content/uploads/2022/07/Santa-Monica.jpg)</figure>
+<figure id="california-family-beaches-santa-monica">[![](/images/Santa-Monica.jpg)](/images/Santa-Monica.jpg)</figure>
 
 #### Santa Monica&nbsp;
 
@@ -45,7 +45,7 @@ Santa Monica is another charming beachside town that has the beautiful beaches a
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-12f70975"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="california-family-beaches-santa-cruz">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/Santa-Cruz.jpg)](/wp-content/uploads/2022/07/Santa-Cruz.jpg)</figure>
+<figure id="california-family-beaches-santa-cruz">[![](/images/Santa-Cruz.jpg)](/images/Santa-Cruz.jpg)</figure>
 
 #### Santa Cruz
 
@@ -54,7 +54,7 @@ Santa Cruz is a popular beachside city in California that draws many tourists ev
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-72cf3d06"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="california-family-beaches-big-sur">[![glamping in Big Sur California](https://hotmamatravel.com/wp-content/uploads/2020/10/big-sur-ca-glamping.jpg)](/wp-content/uploads/2020/10/big-sur-ca-glamping.jpg)</figure>
+<figure id="california-family-beaches-big-sur">[![glamping in Big Sur California](/images/big-sur-ca-glamping.jpg)](/images/big-sur-ca-glamping.jpg)</figure>
 
 #### Big Sur
 
@@ -78,5 +78,5 @@ There are so many great beaches in California, but these are just 5 worth checki
 
 **Like it? Pin it!**
 
-<figure id="best-beaches-california-family-fun">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/best-california-beaches-for-families-200x300.jpg)](/images/best-california-beaches-for-families.jpg)</figure>
+<figure id="best-beaches-california-family-fun">[![](/images/best-california-beaches-for-families-200x300.jpg)](/images/best-california-beaches-for-families.jpg)</figure>
 </div></section>

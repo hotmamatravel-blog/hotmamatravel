@@ -41,7 +41,7 @@ Most people are leaving at that time. It will be easier to park, it will be easi
 
 Most water parks close around 5:00p.m, which makes it easier to enforce that two hour time limit. “Honey, I wish we could stay longer too, but the park is closing.” HAHAHA!
 
-[![water parks with kids](https://hotmamatravel.com/wp-content/uploads/2016/08/DSCN0938-682x1024.jpg)](/water-parks-with-kids/)
+[![water parks with kids](/images/DSCN0938-682x1024.jpg)](/water-parks-with-kids/)
 
 ## Have a P-L-A-N Plan!
 
@@ -50,7 +50,7 @@ You have to be strategic if you are going to accomplish a day at the water park 
 
 There are lots of people at water parks and it gets really hectic, really quickly. I recommend you go with a one adult per one child ratio, so that one adult is responsible for keeping track of one child. Obviously, decide the child you’ll be watching ahead time. You don’t want to assume and have two adult watching one kid while the other is running off. Sometimes you can’t work out having an adult buddy to go with you, so plan is even more important if flying solo.
 
-[![kids swimming at water park](https://hotmamatravel.com/wp-content/uploads/2016/08/DSCN1510-1024x768.jpg)](/water-parks-with-kids/)
+[![kids swimming at water park](/images/DSCN1510-1024x768.jpg)](/water-parks-with-kids/)
 
 ## BYO Supplies!
 
@@ -77,7 +77,7 @@ I hate eating at water parks. The food is usually not that great, there are few 
 
 How do most of us get through tough times? We look for the light at the end of the tunnel. For me, that comes in the form of a happy hour. Parents, you just took your kids to a water park. You need to reward yourself for your efforts. Believe me, you will be much happier and have a much better time if you have something to look forward to at the end. I usually make a deal with my kids as part of our pre-plan. It goes something like this, “I’ll take you to the water park for a couple hours, if you are good for mama during happy hour.” Believe it or not, it works. They will be tired from their busy day, allowing you to fully decompress.
 
-[![parents at happy hour](https://hotmamatravel.com/wp-content/uploads/2016/08/DSCN2561-1024x683.jpg)](/water-parks-with-kids/)
+[![parents at happy hour](/images/DSCN2561-1024x683.jpg)](/water-parks-with-kids/)
 
 ## *That’s a Wrap!*
 

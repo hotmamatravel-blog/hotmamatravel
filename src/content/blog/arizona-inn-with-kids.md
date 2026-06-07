@@ -21,14 +21,14 @@ For decades the inn has attracted a number of famous guests, including (time for
 
 My family and I were invited to stay a couple nights on our way home from a **[visit to Tombstone](/tombstone-with-kids/)**, and we had such a warm, inviting and wonderful experience that I can’t wait to share it with you. So, come on and explore what it is like to stay at the **[Arizona Inn](http://www.anrdoezrs.net/links/8336032/type/dlg/https://www.expedia.com/Tucson-Hotels-Arizona-Inn.h170100.Hotel-Information) **with kids.
 
-[![Arizona Inn with Kids](https://hotmamatravel.com/wp-content/uploads/2016/04/IMG_1383-1024x1024.jpg)](/arizona-inn-with-kids/)
+[![Arizona Inn with Kids](/images/IMG_1383-1024x1024.jpg)](/arizona-inn-with-kids/)
 
 ## ***Keep the Cost in Check:***
 
 
 I recently read an Arizona Inn receipt from the 1930’s and I will say rates have gone up, ha! Seriously though, this is a luxury resort and although it may be more than what a family on a tight budget wants to spend on accommodations, I would encourage you to consider the value of what this experience offers. The amazing amenities as well as the 14 acres of gorgeous grounds and gardens can all be enjoyed without a resort fee. It really is a great deal and well worth the value. I’ll explain further in the post. [**Check Prices Now**](http://www.anrdoezrs.net/links/8336032/type/dlg/https://www.expedia.com/Tucson-Hotels-Arizona-Inn.h170100.Hotel-Information)
 
-[![Arizona Inn with kids](https://hotmamatravel.com/wp-content/uploads/2017/02/AZI2-1024x1024.jpg)](/arizona-inn-with-kids/)
+[![Arizona Inn with kids](/images/AZI2-1024x1024.jpg)](/arizona-inn-with-kids/)
 
 ## ***Drop Your Bags:***
 
@@ -37,7 +37,7 @@ The rooms! You can’t make me leave. I won’t, I just won’t! Immediately upo
 
 There are three types of accommodations offered at Arizona Inn. There are rooms, suites and houses. We stayed in a Deluxe Room, which is the largest of the rooms. It had two queens, a pull-out sofa bed, a sitting area, wet bar and private patio and it was class all the way. Every detail is considered from the elegant furniture, to the romantically lit wet bar, to the pristine bathrooms and even the darling screens on the front and patio doors.
 
-[![Arizona Inn with kids](https://hotmamatravel.com/wp-content/uploads/2017/02/AZI4-1-1024x872.jpg)](/arizona-inn-with-kids/)
+[![Arizona Inn with kids](/images/AZI4-1-1024x872.jpg)](/arizona-inn-with-kids/)
 
 ### All rooms include:
 
@@ -87,29 +87,29 @@ There are several places to dine at Arizona Inn, but the menu remains the same t
  Open of lunch and dinner, this dining room is both elegant and cozy. The tall cathedral ceilings, table cloths, warm woods, fireplace and romantic lighting come together to create a truly wonderful atmosphere. The Filet Mignon, French Onion Soup, Paella and Scallops were amazing!
 
 
-[![Arizona Inn with Kids](https://hotmamatravel.com/wp-content/uploads/2016/04/DSCN2264-1024x684.jpg)](/arizona-inn-with-kids/)
+[![Arizona Inn with Kids](/images/DSCN2264-1024x684.jpg)](/arizona-inn-with-kids/)
 
-[![Arizona Inn with Kids](https://hotmamatravel.com/wp-content/uploads/2016/04/Dinner-1024x1024.jpg)](/arizona-inn-with-kids/)
+[![Arizona Inn with Kids](/images/Dinner-1024x1024.jpg)](/arizona-inn-with-kids/)
 
 ### **Audubon Bar and Patio:**
 
 
 This is the more casual dining option off the Main Dining Room. In the bar is a piano, which is played nightly. Not only can you enjoy the live piano in the bar, but throughout the dining spaces as the lovely music trickles out the patio and into the Main Dining Room.
 
-[![Arizona Inn with Kids](https://hotmamatravel.com/wp-content/uploads/2016/04/DSCN2275-1024x686.jpg)](/arizona-inn-with-kids/)
+[![Arizona Inn with Kids](/images/DSCN2275-1024x686.jpg)](/arizona-inn-with-kids/)
 
-[![Arizona Inn with Kids](https://hotmamatravel.com/wp-content/uploads/2016/04/DSCN2276-1024x683.jpg)](/arizona-inn-with-kids/)
+[![Arizona Inn with Kids](/images/DSCN2276-1024x683.jpg)](/arizona-inn-with-kids/)
 
 I really enjoyed having breakfast on the patio, because I could enjoy the views of the gorgeous gardens before the Arizona sun got too hot.
 
-[![Arizona Inn with kids](https://hotmamatravel.com/wp-content/uploads/2017/02/AZI5-1024x872.jpg)](/arizona-inn-with-kids/)
+[![Arizona Inn with kids](/images/AZI5-1024x872.jpg)](/arizona-inn-with-kids/)
 
 ### **Pool Dining:**
 
 
 Whether you are swimming or not, you can still enjoy lighter dishes surrounded by the sparkling pool. Why does food taste so good when you’re playing in warm sun and cool water?
 
-[![Arizona Inn with kids](https://hotmamatravel.com/wp-content/uploads/2017/02/AZI6-1024x512.jpg)](/arizona-inn-with-kids/)
+[![Arizona Inn with kids](/images/AZI6-1024x512.jpg)](/arizona-inn-with-kids/)
 
 ### **Room Service:**
 
@@ -121,26 +121,26 @@ Hungry, but don’t feel like leaving your room. Maybe you want to dine in those
 
 Every night from 5:00pm to 9:00pm, Arizona Inn provides a free sundae bar poolside! Yes, the kids loved it! In fact, it was the highlight of their whole trip. We let them indulge during our stay and get a sundae before and after dinner. Why not? I must make a point that the sundaes, although a win for the kids, are great for all ages. I don’t even have a sweet tooth and enjoyed making myself a little cool treat. It was sweet to see grandparents, grandchildren and parents enjoying twilight snack al fresco. [**Check Prices Now**](http://www.anrdoezrs.net/links/8336032/type/dlg/https://www.expedia.com/Tucson-Hotels-Arizona-Inn.h170100.Hotel-Information)
 
-[![Arizona Inn with kids](https://hotmamatravel.com/wp-content/uploads/2017/02/AZI7-1024x1024.jpg)](/arizona-inn-with-kids/)
+[![Arizona Inn with kids](/images/AZI7-1024x1024.jpg)](/arizona-inn-with-kids/)
 
 **HotMama Tip: **Order the fresh cookie platter at one of the dining areas. This was a favorite among our group. The cookies are warm and gooey with a slight crunch. So delicious!
 
-[![Arizona Inn with Kids](https://hotmamatravel.com/wp-content/uploads/2016/04/IMG_1375-1024x683.jpg)](/arizona-inn-with-kids/)
+[![Arizona Inn with Kids](/images/IMG_1375-1024x683.jpg)](/arizona-inn-with-kids/)
 
 ## ***Chug-A-Lug***
 
 
 Let me start by saying, every morning is a great morning when it starts with a Bloody Mary. For $6 at the Audubon Bar and Patio are Mimosas and Bloody Marys offered at breakfast.
 
-[![Arizona Inn with Kids](https://hotmamatravel.com/wp-content/uploads/2016/04/DSCN2274-1024x684.jpg)](/arizona-inn-with-kids/)
+[![Arizona Inn with Kids](/images/DSCN2274-1024x684.jpg)](/arizona-inn-with-kids/)
 
 Although I enjoyed my morning coffee in the room while getting the kids ready for the day, Papa started every morning off sipping complimentary coffee while reading the paper in the gorgeous library. In fact, one local that I met conceded that he travels to visit the library daily, claiming it to be the most beautiful room on Tucson.
 
-[![Arizona Inn with Kids](https://hotmamatravel.com/wp-content/uploads/2016/04/IMG_1377-1024x1024.jpg)](/arizona-inn-with-kids/)
+[![Arizona Inn with Kids](/images/IMG_1377-1024x1024.jpg)](/arizona-inn-with-kids/)
 
 After breakfast it was time to lounge poolside and libations by the pool are necessary. So, I did what I had to do and sipped on a frosty Pina Colada by the pool. You’re welcome.
 
-[![Arizona Inn with Kids](https://hotmamatravel.com/wp-content/uploads/2016/04/pina-1024x1024.jpg)](/arizona-inn-with-kids/)
+[![Arizona Inn with Kids](/images/pina-1024x1024.jpg)](/arizona-inn-with-kids/)
 
 For a proper afternoon, you might enjoy the complimentary afternoon tea offered at the Arizona Inn. I didn’t get a chance to partake this activity during my stay, but I love a good afternoon tea!
 
@@ -156,18 +156,18 @@ Active guests may enjoy a morning workout at the 24 hour exercise facility or ta
 
 My kids loved playing Ping Pong and Croquet after breakfast. There are darling cushioned chairs situated around under the shady thatched hut that covers the Ping Pong table, which allowed the family to hang out and enjoy the beautiful flowers while taking turns playing.
 
-[![Arizona Inn with Kids](https://hotmamatravel.com/wp-content/uploads/2016/04/active-1024x1024.jpg)](/arizona-inn-with-kids/)
+[![Arizona Inn with Kids](/images/active-1024x1024.jpg)](/arizona-inn-with-kids/)
 
 ### The pool
 
 
 Anywhere we travel the pool is a favorite activity for my water babies, so this is where we spend a lot of our time. Well, the silly mama that I am, I forgot CuddleBear’s water-wings. Ugh. The kids were determined to spend the day poolside, but luckily the Arizona Inn had me covered. The pool area has complimentary water-noodles and floaties, as well as sunscreen! Try finding these items complimentary at a resort in Las Vegas! I was very impressed.
 
-[![Arizona Inn with kids](https://hotmamatravel.com/wp-content/uploads/2017/02/AZI8-1024x1024.jpg)](/arizona-inn-with-kids/)
+[![Arizona Inn with kids](/images/AZI8-1024x1024.jpg)](/arizona-inn-with-kids/)
 
 Can I just express my love for the restrooms at the Arizona Inn? They are so nice. I really liked the ones near the pool, because they have all the works. Changing rooms, showers with complimentary toiletries beautifully displayed and saunas! I had never tried a sauna before and I have to say I liked it. The fact that no kids are allowed in the sauna might have aided in my liking, because it was like a mama-break.
 
-[![Arizona Inn with Kids](https://hotmamatravel.com/wp-content/uploads/2016/04/IMG_1406-1024x683.jpg)](/arizona-inn-with-kids/)
+[![Arizona Inn with Kids](/images/IMG_1406-1024x683.jpg)](/arizona-inn-with-kids/)
 
 ### Movies
 

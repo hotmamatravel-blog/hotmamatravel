@@ -108,4 +108,4 @@ Still, it taught me a few important lessons.
 
 **Like it? Pin it!**
 
-![How a police escort saved my family going to NYC in the dead of night](https://hotmamatravel.com/wp-content/uploads/2019/01/Family-travel-uncensored-Adria-Saracino-683x1024.jpg)
+![How a police escort saved my family going to NYC in the dead of night](/images/Family-travel-uncensored-Adria-Saracino-683x1024.jpg)

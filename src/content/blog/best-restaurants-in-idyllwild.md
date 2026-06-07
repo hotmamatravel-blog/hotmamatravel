@@ -33,7 +33,7 @@ From cozy cafes to gourmet gems, let’s explore how Idyllwild’s food scene tu
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="gastrognome-restaurants-in-idyllwild"><figure>[![family friendly gastrognome best restaurants in Idyllwild](https://hotmamatravel.com/wp-content/uploads/2023/06/gastrognome-restaurants-in-idyllwild.jpg)](/wp-content/uploads/2023/06/gastrognome-restaurants-in-idyllwild.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="gastrognome-restaurants-in-idyllwild"><figure>[![family friendly gastrognome best restaurants in Idyllwild](/images/gastrognome-restaurants-in-idyllwild.jpg)](/images/gastrognome-restaurants-in-idyllwild.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -48,7 +48,7 @@ Gastrognome opened in 1973 and is one of the classic Idyllwild restaurants, and 
 
 **[See Photos, Reviews, &amp; More](/go/restaurant-gastrognome-idyllwild/)**
 
-<div class="wp-block-uagb-image uagb-block-1221f213 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="FERRO-italian-restaurant-Idyllwild"><figure>[![FERRO family restaurant in Idyllwild](https://hotmamatravel.com/wp-content/uploads/2024/01/FERRO-italian-restaurant-Idyllwild.jpg)](/wp-content/uploads/2024/01/FERRO-italian-restaurant-Idyllwild.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-1221f213 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="FERRO-italian-restaurant-Idyllwild"><figure>[![FERRO family restaurant in Idyllwild](/images/FERRO-italian-restaurant-Idyllwild.jpg)](/images/FERRO-italian-restaurant-Idyllwild.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-57d8d9c6">
 
@@ -61,7 +61,7 @@ Love Italian food? Good, because I have another great restaurant for you. Owned 
 
 **[See Photos, Reviews, &amp; More](/go/ferro-idyllwild/)**
 
-<div class="wp-block-uagb-image uagb-block-baa36967 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="cafe-aroma-restaurants-in-idyllwild"><figure>[![Cafe Aroma family restaurant in Idyllwild](https://hotmamatravel.com/wp-content/uploads/2023/06/cafe-aroma-restaurants-in-idyllwild.jpg)](/wp-content/uploads/2023/06/cafe-aroma-restaurants-in-idyllwild.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-baa36967 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="cafe-aroma-restaurants-in-idyllwild"><figure>[![Cafe Aroma family restaurant in Idyllwild](/images/cafe-aroma-restaurants-in-idyllwild.jpg)](/images/cafe-aroma-restaurants-in-idyllwild.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-f84b442c">
 
@@ -76,7 +76,7 @@ There isn't a bad seat in the house either. I always request the main dining roo
 
 **[See Photos, Reviews, &amp; More](/go/cafe-aroma-idyllwild/)**
 
-<div class="wp-block-uagb-image uagb-block-1c2562c1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="La-Casita-restaurants-in-idyllwild"><figure>[![Live music at La Casita Idyllwild](https://hotmamatravel.com/wp-content/uploads/2023/06/La-Casita-restaurants-in-idyllwild.jpg)](/wp-content/uploads/2023/06/La-Casita-restaurants-in-idyllwild.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-1c2562c1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="La-Casita-restaurants-in-idyllwild"><figure>[![Live music at La Casita Idyllwild](/images/La-Casita-restaurants-in-idyllwild.jpg)](/images/La-Casita-restaurants-in-idyllwild.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-089f6ff0">
 
@@ -89,7 +89,7 @@ Really good Mexican food with a view. I prefer patio seating while visiting, bec
 
 **[See Photos, Reviews, &amp; More](/go/la-casita-restaurant-idyllwild/)**
 
-<div class="wp-block-uagb-image uagb-block-5be41c80 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Idyllwild-Brewpub-restaurants-in-idyllwild"><figure>[![family-friendly brewpub idyllwild](https://hotmamatravel.com/wp-content/uploads/2023/06/Idyllwild-Brewpub-restaurants-in-idyllwild.jpg)](/wp-content/uploads/2023/06/Idyllwild-Brewpub-restaurants-in-idyllwild.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-5be41c80 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Idyllwild-Brewpub-restaurants-in-idyllwild"><figure>[![family-friendly brewpub idyllwild](/images/Idyllwild-Brewpub-restaurants-in-idyllwild.jpg)](/images/Idyllwild-Brewpub-restaurants-in-idyllwild.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-6fc96e15">
 
@@ -102,7 +102,7 @@ This is an upscale pub and live music venue with a very cool "bigger city" vibe.
 
 **[See Photos, Reviews, &amp; More](/go/idyllwild-brewpub/)**
 
-<div class="wp-block-uagb-image uagb-block-d5cd1a81 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![mile high cafe idyllwild](https://hotmamatravel.com/wp-content/uploads/2024/01/Mile-High-Cafe-Idyllwild.jpg)](/wp-content/uploads/2024/01/Mile-High-Cafe-Idyllwild.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-d5cd1a81 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![mile high cafe idyllwild](/images/Mile-High-Cafe-Idyllwild.jpg)](/images/Mile-High-Cafe-Idyllwild.jpg)</figure></div>
 
 ### [Mile High Cafe](/go/mile-high-cafe-idyllwild/)
 
@@ -114,7 +114,7 @@ Whether you’re fueling up after a hike or just craving something deliciously d
 
 **[See Photos, Reviews &amp; More](/go/mile-high-cafe-idyllwild/)**
 
-<div class="wp-block-uagb-image uagb-block-d03662e0 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="red-kettle-restaurant-Idyllwild"><figure>[![family-friendly restaurant Red Kettle in Idyllwild](https://hotmamatravel.com/wp-content/uploads/2024/01/red-kettle-restaurant-Idyllwild.jpg)](/wp-content/uploads/2024/01/red-kettle-restaurant-Idyllwild.jpg)<figcaption class="uagb-image-caption">Courtesy of Red Kettle</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-d03662e0 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="red-kettle-restaurant-Idyllwild"><figure>[![family-friendly restaurant Red Kettle in Idyllwild](/images/red-kettle-restaurant-Idyllwild.jpg)](/images/red-kettle-restaurant-Idyllwild.jpg)<figcaption class="uagb-image-caption">Courtesy of Red Kettle</figcaption></figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-7ceea986">
 
@@ -127,7 +127,7 @@ The Red Kettle is one of the oldest cafes in Idyllwild, built in 1920. It has si
 
 **[See Photos, Reviews, &amp; More](/go/red-kettle-idyllwild/)**
 
-<div class="wp-block-uagb-image uagb-block-7b543e23 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Fratellos-italian-ristorante-restaurants-in-idyllwild"><figure>[![Fratellos](https://hotmamatravel.com/wp-content/uploads/2023/06/Fratellos-italian-ristorante-restaurants-in-idyllwild.jpg)](/wp-content/uploads/2023/06/Fratellos-italian-ristorante-restaurants-in-idyllwild.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-7b543e23 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Fratellos-italian-ristorante-restaurants-in-idyllwild"><figure>[![Fratellos](/images/Fratellos-italian-ristorante-restaurants-in-idyllwild.jpg)](/images/Fratellos-italian-ristorante-restaurants-in-idyllwild.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-0e8b9d6b">
 
@@ -163,6 +163,6 @@ And if California is calling your name for more family travel escapades, explore
 
 Like it? Pin it!
 
-<figure id="best-restaurants-in-idyllwild-for-families-and-fun">[![Best Restaurants in Idyllwild Families will Love #idyllwild #idyllwildrestaurants #familytravel ](https://hotmamatravel.com/wp-content/uploads/2024/01/best-restaurants-in-idyllwild-for-families-and-fun-200x300.jpg)](/images/best-restaurants-in-idyllwild-for-families-and-fun.jpg)</figure>
+<figure id="best-restaurants-in-idyllwild-for-families-and-fun">[![Best Restaurants in Idyllwild Families will Love #idyllwild #idyllwildrestaurants #familytravel ](/images/best-restaurants-in-idyllwild-for-families-and-fun-200x300.jpg)](/images/best-restaurants-in-idyllwild-for-families-and-fun.jpg)</figure>
 </div></div>
 

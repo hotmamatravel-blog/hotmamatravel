@@ -16,7 +16,7 @@ After completing the southern portion of our #[**HotMamaDoesAmerica**** road tri
 
 We had a jam-packed weekend planned in this historical city. So, we needed suitable Philadelphia accommodations to rest our heads at the end of these long days. Luckily, were invited to stay at the Best Western Plus Philadelphia Convention Center Hotel. Here is what we thought about our stay.
 
-*[![Best Western Plus Philadelphia Convention Center Hotel](https://hotmamatravel.com/wp-content/uploads/2017/09/DSC06630-e1505239368847.jpg)](/best-western-plus-philadelphia-convention-center-hotel/)*
+*[![Best Western Plus Philadelphia Convention Center Hotel](/images/DSC06630-e1505239368847.jpg)](/best-western-plus-philadelphia-convention-center-hotel/)*
 
 ## *Where to Eat in Philadelphia:*
 
@@ -24,7 +24,7 @@ There are many Philadelphia hotels to choose from. However, if you happen to be 
 
 In addition to the city’s best Asian dishes, the hotel is also across the street from the famous [Reading Terminal Market](http://www.readingterminalmarket.org/). Recommended by both locals and visitors alike, the Reading Terminal Market is a foodie’s paradise. As I said, our family likes to eat and this delicious attraction was at the top of our list. I just wish we had more time and more room in our bellies to try all the vendors in the exciting indoor market.
 
-[![Reading Terminal Market](https://hotmamatravel.com/wp-content/uploads/2017/09/DSC07286-e1505239740572.jpg)](/best-western-plus-philadelphia-convention-center-hotel/)
+[![Reading Terminal Market](/images/DSC07286-e1505239740572.jpg)](/best-western-plus-philadelphia-convention-center-hotel/)
 
 ##
 
@@ -36,11 +36,11 @@ Like I said earlier, we had a lot we wanted to see while visiting Philadelphia. 
 
 See more about our time in Philadelphia in our [**Ultimate Guide to Philadelphia with Kids**](/things-to-do-in-philadelphia-with-kids/).
 
-[![Liberty Bell in Philadelphia](https://hotmamatravel.com/wp-content/uploads/2017/09/DSC06670-e1505240187808.jpg)](/best-western-plus-philadelphia-convention-center-hotel/)
+[![Liberty Bell in Philadelphia](/images/DSC06670-e1505240187808.jpg)](/best-western-plus-philadelphia-convention-center-hotel/)
 
 Only a mile and half away from The Best Western Plus Philadelphia Convention Center Hotel is the infamous [Eastern State Penitentiary](https://www.easternstate.org/). I wasn’t sure if we were going to have time, but I am so happy we had the chance to tour this historical prison. For one, it is the first prison of its kind, paving the foundation of the modern prison system. Second, Eastern State Penitentiary housed one of the most infamous prisoners in US history - Al Capone. Third, it is haunted. Lastly and most personally interesting, this is where my dad had performed in the 1940’s as a child.
 
-[![Eastern State Penitentiary Philadelphia](https://hotmamatravel.com/wp-content/uploads/2017/09/DSC06949-e1505240460474.jpg)](/best-western-plus-philadelphia-convention-center-hotel/)
+[![Eastern State Penitentiary Philadelphia](/images/DSC06949-e1505240460474.jpg)](/best-western-plus-philadelphia-convention-center-hotel/)
 
 Thanks to the convenient location of The Best Western Plus Philadelphia Convention Center Hotel, we were able to everything on our list, including a few extras in just one weekend. **[Check rates and availability](http://www.jdoqocy.com/click-8336032-13039224)**.
 
@@ -61,11 +61,11 @@ The Best Western Plus Philadelphia Convention Center Hotel is 100% smoke-free an
 
 Like many big city hotels, there is a need to maximize space. Although the rooms are smaller, they have many in-room comforts. Happily, every Best Western Plus we stayed at had HBO, allowing us to never miss an episode of Game of Thrones the entire summer! The Philadelphia Convention Center Hotel was no different. Every room has a refrigerator, which is great for storing baby’s milk or mama’s beer. If you are traveling with babies, there are cribs available for your room. Let me just say, the view of the Philadelphia from the rooms is breathtaking. After a long day of sightseeing, it was so nice to come back to the room and look at the city aglow.
 
-[![View of Philadelphia from Best Western Plus Philadelphia Convention Center Hotel](https://hotmamatravel.com/wp-content/uploads/2017/09/DSC06633-e1505241265192.jpg)](/best-western-plus-philadelphia-convention-center-hotel/)
+[![View of Philadelphia from Best Western Plus Philadelphia Convention Center Hotel](/images/DSC06633-e1505241265192.jpg)](/best-western-plus-philadelphia-convention-center-hotel/)
 
 One of my favorite parts of the Best Western Plus Philadelphia Convention Center Hotel was the cocktail lounge. This was the spot we ended each night in Philadelphia. Open 7 days a week from 5:00pm to 11:00pm, the bar is located at the entrance to hotel with a big scenic window for viewing the city outside. The bartenders were so nice and loaded with great information about their city. One night the bartender even put on the Disney Channel for our kids, so we could enjoy another round of drinks. Honestly, The Best Western Plus Philadelphia Convention Center Hotel cocktail lounge was one of the highlights of our trip.
 
-[![Best Western Plus Philadelphia Convention Center Hotel Lobby Bar](https://hotmamatravel.com/wp-content/uploads/2017/09/DSC06618-e1505241135435.jpg)](/best-western-plus-philadelphia-convention-center-hotel/)
+[![Best Western Plus Philadelphia Convention Center Hotel Lobby Bar](/images/DSC06618-e1505241135435.jpg)](/best-western-plus-philadelphia-convention-center-hotel/)
 
 ##
 
@@ -73,7 +73,7 @@ One of my favorite parts of the Best Western Plus Philadelphia Convention Center
 
 You have to love complimentary breakfast. Every morning in the lobby, the Best Western Plus Philadelphia Convention Center Hotel puts out a full breakfast buffet with a selection of hot and cold items. Everything was so nicely done. Even the waffles came complete with a Liberty Bell branding, which my daughter loved.
 
-[![Best Western Plus Philadelphia Convention Center Hotel Breakfast](https://hotmamatravel.com/wp-content/uploads/2017/09/DSC06625-e1505241535418.jpg)](/best-western-plus-philadelphia-convention-center-hotel/)
+[![Best Western Plus Philadelphia Convention Center Hotel Breakfast](/images/DSC06625-e1505241535418.jpg)](/best-western-plus-philadelphia-convention-center-hotel/)
 
 ##
 
@@ -89,4 +89,4 @@ If you are looking for where to stay in Philadelphia, look no further. We starte
 
 **Like it? Pin it!**
 
-[![Best Western Plus Philadelphia Convention Center Hotel ](https://hotmamatravel.com/wp-content/uploads/2017/09/BWPPC-7.png)](/best-western-plus-philadelphia-convention-center-hotel/)
+[![Best Western Plus Philadelphia Convention Center Hotel ](/images/BWPPC-7.png)](/best-western-plus-philadelphia-convention-center-hotel/)

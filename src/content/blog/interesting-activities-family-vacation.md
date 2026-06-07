@@ -31,7 +31,7 @@ Now that you are done with your planning, all is set for an unforgettable trip. 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0b25679c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="family-beach-vacation">[![](https://hotmamatravel.com/wp-content/uploads/2022/06/family-beach-vacation.jpg)](/wp-content/uploads/2022/06/family-beach-vacation.jpg)</figure>
+<figure id="family-beach-vacation">[![](/images/family-beach-vacation.jpg)](/images/family-beach-vacation.jpg)</figure>
 
 #### Visit the beach
 
@@ -40,7 +40,7 @@ For water lovers, a vacation without a beach visit is definitely a no no. Enjoy 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b433e09f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="airshow-family-vacation">[![](https://hotmamatravel.com/wp-content/uploads/2022/06/airshow-family-vacation.jpg)](/wp-content/uploads/2022/06/airshow-family-vacation.jpg)</figure>
+<figure id="airshow-family-vacation">[![](/images/airshow-family-vacation.jpg)](/images/airshow-family-vacation.jpg)</figure>
 
 #### Go for Airshows
 
@@ -49,7 +49,7 @@ For aviation enthusiasts, your family trip wouldn’t be complete without going 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9b8cc611"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="hiking-kids-family-travel">[![](https://hotmamatravel.com/wp-content/uploads/2022/06/hiking-kids-family-travel.jpg)](/wp-content/uploads/2022/06/hiking-kids-family-travel.jpg)</figure>
+<figure id="hiking-kids-family-travel">[![](/images/hiking-kids-family-travel.jpg)](/images/hiking-kids-family-travel.jpg)</figure>
 
 #### Try Hiking or Rock Climbing
 
@@ -58,7 +58,7 @@ If you are looking for adventure, hiking or rock climbing is just for you. Note:
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5092345f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="cycling-family-travel">[![](https://hotmamatravel.com/wp-content/uploads/2022/06/cycling-family-travel.jpg)](/wp-content/uploads/2022/06/cycling-family-travel.jpg)</figure>
+<figure id="cycling-family-travel">[![](/images/cycling-family-travel.jpg)](/images/cycling-family-travel.jpg)</figure>
 
 #### Go Cycling
 
@@ -67,7 +67,7 @@ If you are looking for adventure, hiking or rock climbing is just for you. Note:
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a5d13b0d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="volunteerism-family-travel">[![](https://hotmamatravel.com/wp-content/uploads/2022/06/volunteerism-family-travel.jpg)](/wp-content/uploads/2022/06/volunteerism-family-travel.jpg)</figure>
+<figure id="volunteerism-family-travel">[![](/images/volunteerism-family-travel.jpg)](/images/volunteerism-family-travel.jpg)</figure>
 
 #### Use Your Trip for Volunteerism
 
@@ -78,7 +78,7 @@ Alternatively, you can join any volunteer organization and contribute to their e
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8293f877"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Stirling-castle-scotland-family-travel">[![Stirling Castle Scotland with kids Visitor Guide](https://hotmamatravel.com/wp-content/uploads/2017/01/stirling-castle-with-kids-scotland.png)](/wp-content/uploads/2017/01/stirling-castle-with-kids-scotland.png)</figure>
+<figure id="Stirling-castle-scotland-family-travel">[![Stirling Castle Scotland with kids Visitor Guide](/images/stirling-castle-with-kids-scotland.png)](/images/stirling-castle-with-kids-scotland.png)</figure>
 
 #### Visiting Museums and Interesting Attractions
 
@@ -87,7 +87,7 @@ You cannot complete your family vacation without visiting some of the interestin
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-258e5954"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="family-challenge-family-travel">[![](https://hotmamatravel.com/wp-content/uploads/2022/06/family-challenge-family-travel.jpg)](/wp-content/uploads/2022/06/family-challenge-family-travel.jpg)</figure>
+<figure id="family-challenge-family-travel">[![](/images/family-challenge-family-travel.jpg)](/images/family-challenge-family-travel.jpg)</figure>
 
 #### Family challenge
 

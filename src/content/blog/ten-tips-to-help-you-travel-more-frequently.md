@@ -136,5 +136,5 @@ Those who love to travel can’t help but find ways to do so. Traveling more oft
 
 Like it? Pin it!
 
-<figure id="tne-tips-to-help-you-travel-more-frequently">[![](https://hotmamatravel.com/wp-content/uploads/2024/01/tne-tips-to-help-you-travel-more-frequently-200x300.jpg)](/images/tne-tips-to-help-you-travel-more-frequently.jpg)</figure>
+<figure id="tne-tips-to-help-you-travel-more-frequently">[![](/images/tne-tips-to-help-you-travel-more-frequently-200x300.jpg)](/images/tne-tips-to-help-you-travel-more-frequently.jpg)</figure>
 </div></div>

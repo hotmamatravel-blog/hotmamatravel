@@ -15,7 +15,7 @@ author: "Amanda Keeley-Thurman"
 San Francisco, with its picturesque landscapes, vibrant culture, and numerous attractions, is an enticing destination for families seeking an unforgettable vacation. Choosing the right place to stay is a crucial part of planning a family trip, and the city offers a variety of family-friendly hotels that cater to the needs of travelers with children. From spacious accommodations to special amenities and convenient locations, these hotels provide a comfortable and welcoming base for exploring all that the City by the Bay has to offer. In this guide, we'll introduce you to some of the best family hotels in San Francisco, ensuring that your family's stay is not only comfortable but also filled with memorable experiences.
 
 <div class="wp-block-uagb-container uagb-block-5c0803f5 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Fairmont Family hotel in San Francisco](https://hotmamatravel.com/wp-content/uploads/2023/10/fairmont-san-francisco-haunted-hotels-san-francisco-1.jpg)](/wp-content/uploads/2023/10/fairmont-san-francisco-haunted-hotels-san-francisco-1.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Fairmont Family hotel in San Francisco](/images/fairmont-san-francisco-haunted-hotels-san-francisco-1.jpg)](/images/fairmont-san-francisco-haunted-hotels-san-francisco-1.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -59,7 +59,7 @@ As a side note, the Fairmont also happens to be a historical hotel, which means 
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-da1527af alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-91ecf05d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hotel-zephyr-family-hotels-san-francisco"><figure>[![Hotel Zephyr Family Hotel in San Francisco](https://hotmamatravel.com/wp-content/uploads/2023/10/hotel-zephyr-family-hotels-san-francisco.jpg)](/wp-content/uploads/2023/10/hotel-zephyr-family-hotels-san-francisco.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-91ecf05d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hotel-zephyr-family-hotels-san-francisco"><figure>[![Hotel Zephyr Family Hotel in San Francisco](/images/hotel-zephyr-family-hotels-san-francisco.jpg)](/images/hotel-zephyr-family-hotels-san-francisco.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-53ef24d5">
 
@@ -105,7 +105,7 @@ Hotel Zephyr is home to the family-friendly restaurant and bar called The Camper
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-e7c460d6 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-400f5142 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-ritz-carlton-family-hotels-san-francisco"><figure>[![The Ritz-Carlton family-friendly hotels in San Francisco](https://hotmamatravel.com/wp-content/uploads/2023/10/the-ritz-carlton-family-hotels-san-francisco.jpg)](/wp-content/uploads/2023/10/the-ritz-carlton-family-hotels-san-francisco.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-400f5142 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-ritz-carlton-family-hotels-san-francisco"><figure>[![The Ritz-Carlton family-friendly hotels in San Francisco](/images/the-ritz-carlton-family-hotels-san-francisco.jpg)](/images/the-ritz-carlton-family-hotels-san-francisco.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-c0c9deb1">
 
@@ -143,7 +143,7 @@ The hotel features an indoor pool, allowing families to enjoy a relaxing swim re
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-87f15a2e alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-f99b300e wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="omni-family-hotels-san-francisco"><figure>[![Omni family hotel San Francisco](https://hotmamatravel.com/wp-content/uploads/2023/10/omni-family-hotels-san-francisco.jpg)](/wp-content/uploads/2023/10/omni-family-hotels-san-francisco.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-f99b300e wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="omni-family-hotels-san-francisco"><figure>[![Omni family hotel San Francisco](/images/omni-family-hotels-san-francisco.jpg)](/images/omni-family-hotels-san-francisco.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-442adc2c">
 
@@ -179,7 +179,7 @@ The hotel often offers special family packages that include perks such as compli
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-214864cb alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-f696e5d1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hyatt-regency-family-hotels-san-francisco"><figure>[![Family Hotels San Francisco Hyatt Regency](https://hotmamatravel.com/wp-content/uploads/2023/10/hyatt-regency-family-hotels-san-francisco.jpg)](/wp-content/uploads/2023/10/hyatt-regency-family-hotels-san-francisco.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-f696e5d1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hyatt-regency-family-hotels-san-francisco"><figure>[![Family Hotels San Francisco Hyatt Regency](/images/hyatt-regency-family-hotels-san-francisco.jpg)](/images/hyatt-regency-family-hotels-san-francisco.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-a8e18f8d">
 
@@ -221,7 +221,7 @@ Experience year-round indoor camping at Hyatt! Our family-friendly package offer
 </div></div>
 
 <div class="wp-block-uagb-container uagb-block-111cf737 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-image uagb-block-b1a3ed60 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="holiday-inn-express-fishermans-wharf-family-hotels-san-francisco"><figure>[![Holiday Inn Express Fishermans Wharf Family Hotel in San Francisco](https://hotmamatravel.com/wp-content/uploads/2023/10/holiday-inn-express-fishermans-wharf-family-hotels-san-francisco.jpg)](/wp-content/uploads/2023/10/holiday-inn-express-fishermans-wharf-family-hotels-san-francisco.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-b1a3ed60 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="holiday-inn-express-fishermans-wharf-family-hotels-san-francisco"><figure>[![Holiday Inn Express Fishermans Wharf Family Hotel in San Francisco](/images/holiday-inn-express-fishermans-wharf-family-hotels-san-francisco.jpg)](/images/holiday-inn-express-fishermans-wharf-family-hotels-san-francisco.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-9775a110">
 
@@ -260,5 +260,5 @@ Whether it's a cable car ride, a stroll along Fisherman's Wharf, or a visit to a
 
 Like it? Pin it!
 
-<figure id="family-hotels-san-francisco-for-families-with-kids">[![](https://hotmamatravel.com/wp-content/uploads/2023/10/family-hotels-san-francisco-for-families-with-kids-200x300.jpg)](/images/family-hotels-san-francisco-for-families-with-kids.jpg)</figure>
+<figure id="family-hotels-san-francisco-for-families-with-kids">[![](/images/family-hotels-san-francisco-for-families-with-kids-200x300.jpg)](/images/family-hotels-san-francisco-for-families-with-kids.jpg)</figure>
 </div></div>

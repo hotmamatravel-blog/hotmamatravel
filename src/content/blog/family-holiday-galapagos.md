@@ -19,7 +19,7 @@ Galapagos is a one-of-a-kind destination and claims first place on the list of u
 Traveling should always be about what you want to see, feel, experience, do and taste. Moreover, traveling with family and kids should be about education and memories. So, we giving you the amazing reasons why you need to visit Galapagos for your next holiday.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-36bca5cc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Family-Holiday-Galapagos-Beaches">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/Family-Holiday-Galapagos-Beaches.jpg)](/wp-content/uploads/2022/07/Family-Holiday-Galapagos-Beaches.jpg)</figure>
+<figure id="Family-Holiday-Galapagos-Beaches">[![](/images/Family-Holiday-Galapagos-Beaches.jpg)](/images/Family-Holiday-Galapagos-Beaches.jpg)</figure>
 
 #### The Breathtaking Beaches
 
@@ -34,7 +34,7 @@ Do not expect to see any umbrellas, decks, or bars, this is not a beach in Ibiza
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6c5e48d8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Family-Holiday-Galapagos-scuba-diving">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/Family-Holiday-Galapagos-scuba-diving.jpg)](/wp-content/uploads/2022/07/Family-Holiday-Galapagos-scuba-diving.jpg)</figure>
+<figure id="Family-Holiday-Galapagos-scuba-diving">[![](/images/Family-Holiday-Galapagos-scuba-diving.jpg)](/images/Family-Holiday-Galapagos-scuba-diving.jpg)</figure>
 
 #### Incredible Water Activities
 
@@ -49,7 +49,7 @@ Regarding the weather and the season you should visit the Galapagos so you can e
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a8c2f160"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Family-Holiday-Galapagos-hiking">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/Family-Holiday-Galapagos-hiking.jpg)](/wp-content/uploads/2022/07/Family-Holiday-Galapagos-hiking.jpg)</figure>
+<figure id="Family-Holiday-Galapagos-hiking">[![](/images/Family-Holiday-Galapagos-hiking.jpg)](/images/Family-Holiday-Galapagos-hiking.jpg)</figure>
 
 #### Stunning Vistas When Hiking
 
@@ -60,7 +60,7 @@ For nature lovers and hikers, Galapagos has some of the most unique trails you c
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-449d8e8d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Family-Holiday-Galapagos-lanscapes">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/Family-Holiday-Galapagos-lanscapes.jpg)](/wp-content/uploads/2022/07/Family-Holiday-Galapagos-lanscapes.jpg)</figure>
+<figure id="Family-Holiday-Galapagos-lanscapes">[![](/images/Family-Holiday-Galapagos-lanscapes.jpg)](/images/Family-Holiday-Galapagos-lanscapes.jpg)</figure>
 
 #### Stunningly Beautiful Landscapes
 
@@ -73,7 +73,7 @@ The Galapagos Islands are unlike each other, so you will remember their landscap
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-24ac40f7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Family-Holiday-Galapagos-giant-tortoises">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/Family-Holiday-Galapagos-giant-tortoises.jpg)](/wp-content/uploads/2022/07/Family-Holiday-Galapagos-giant-tortoises.jpg)</figure>
+<figure id="Family-Holiday-Galapagos-giant-tortoises">[![](/images/Family-Holiday-Galapagos-giant-tortoises.jpg)](/images/Family-Holiday-Galapagos-giant-tortoises.jpg)</figure>
 
 #### The Wildlife
 
@@ -86,7 +86,7 @@ The marine iguanas are a species of lizards with razor-sharp teeth, beady eyes, 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c5348486"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="Family-Holiday-Galapagos-Marine-Iguanas">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/Family-Holiday-Galapagos-Marine-Iguanas.jpg)](/wp-content/uploads/2022/07/Family-Holiday-Galapagos-Marine-Iguanas.jpg)</figure>
+<figure id="Family-Holiday-Galapagos-Marine-Iguanas">[![](/images/Family-Holiday-Galapagos-Marine-Iguanas.jpg)](/images/Family-Holiday-Galapagos-Marine-Iguanas.jpg)</figure>
 
 #### Unique History
 
@@ -113,5 +113,5 @@ The Galapagos thrills, motivates, amazes, and enchants all at once! If you are l
 
 **Like it? Pin it!**
 
-<figure id="Things-to-do-Family-Holiday-Galapagos">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/Things-to-do-Family-Holiday-Galapagos-200x300.jpg)](/images/Things-to-do-Family-Holiday-Galapagos.jpg)</figure>
+<figure id="Things-to-do-Family-Holiday-Galapagos">[![](/images/Things-to-do-Family-Holiday-Galapagos-200x300.jpg)](/images/Things-to-do-Family-Holiday-Galapagos.jpg)</figure>
 </div></section>

@@ -122,4 +122,4 @@ It was also wonderful to have some time with my busy daughter and hopefully I wa
 
 **Like it? Pin it!**
 
-![A Farm girl’s adventure with grandkids at LEGOLAND Beach Resort](https://hotmamatravel.com/wp-content/uploads/2019/02/Travel-Adventures-Farm-Girl-Legoland-Story-683x1024.jpg)
+![A Farm girl’s adventure with grandkids at LEGOLAND Beach Resort](/images/Travel-Adventures-Farm-Girl-Legoland-Story-683x1024.jpg)

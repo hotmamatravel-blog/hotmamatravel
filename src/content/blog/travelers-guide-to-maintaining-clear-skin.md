@@ -94,5 +94,5 @@ Maintaining clear and healthy skin while traveling is essential for both your ph
 
 Like it? Pin it!
 
-<figure id="maintaining-skincare-while-traveling-the-world">[![](https://hotmamatravel.com/wp-content/uploads/2024/01/maintaining-skincare-while-traveling-the-world-200x300.jpg)](/images/maintaining-skincare-while-traveling-the-world.jpg)</figure>
+<figure id="maintaining-skincare-while-traveling-the-world">[![](/images/maintaining-skincare-while-traveling-the-world-200x300.jpg)](/images/maintaining-skincare-while-traveling-the-world.jpg)</figure>
 </div></div>

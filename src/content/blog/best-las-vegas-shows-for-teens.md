@@ -25,7 +25,7 @@ So, let's cut to the chase and unveil the top picks for the best Las Vegas shows
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="cris-angel-best-las-vegas-shows-for-teens"><figure>[![Criss Angel Mindfreak best Las Vegas shows for teens](https://hotmamatravel.com/wp-content/uploads/2020/03/criss-angel-mindfreak-planet-hollywood.jpg)](/wp-content/uploads/2020/03/criss-angel-mindfreak-planet-hollywood.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="cris-angel-best-las-vegas-shows-for-teens"><figure>[![Criss Angel Mindfreak best Las Vegas shows for teens](/images/criss-angel-mindfreak-planet-hollywood.jpg)](/images/criss-angel-mindfreak-planet-hollywood.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
@@ -42,7 +42,7 @@ But it's not just the jaw-dropping magic that makes "Criss Angel Mindfreak" a mu
 
 **[See Photos, Reviews, &amp; More](/go/criss-angel-las-vegas-bov/)**
 
-<div class="wp-block-uagb-image uagb-block-f19ddf62 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="jabbawockeez-teen-las-vegas-show"><figure>[![Jabbawockeez at MGM Grand Las Vegas Show for Teens](https://hotmamatravel.com/wp-content/uploads/2020/03/jabbawockeez-mgm-show-in-vegas-for-teenagers.jpg)](/wp-content/uploads/2020/03/jabbawockeez-mgm-show-in-vegas-for-teenagers.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-f19ddf62 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="jabbawockeez-teen-las-vegas-show"><figure>[![Jabbawockeez at MGM Grand Las Vegas Show for Teens](/images/jabbawockeez-mgm-show-in-vegas-for-teenagers.jpg)](/images/jabbawockeez-mgm-show-in-vegas-for-teenagers.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-91df4a1b">
 
@@ -59,7 +59,7 @@ But what sets "Jabbawockeez" at [MGM](https://mgmgrand.mgmresorts.com/en.html) a
 
 **[See Photos, Reviews, &amp; More](/go/jabbawockeez-las-vegas-bov/)**
 
-<div class="wp-block-uagb-image uagb-block-2d2ecad3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="magic-reinvented-nightly-vegas-show-teens"><figure>[![Magic Reinvented Nightly Las Vegas Show for Teens](https://hotmamatravel.com/wp-content/uploads/2024/03/magic-reinvented-nightly-vegas-show-teens.jpg)](/wp-content/uploads/2024/03/magic-reinvented-nightly-vegas-show-teens.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-2d2ecad3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="magic-reinvented-nightly-vegas-show-teens"><figure>[![Magic Reinvented Nightly Las Vegas Show for Teens](/images/magic-reinvented-nightly-vegas-show-teens.jpg)](/images/magic-reinvented-nightly-vegas-show-teens.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-e48eaa00">
 
@@ -78,7 +78,7 @@ It's not just the magic that makes "Magic Reinvented Nightly" a hit with teens. 
 
 **[See Photos, Reviews, &amp; More](/go/magic-reinvented-nightly-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-c3009b6a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="michael-jackson-one-las-vegas-teen-shows"><figure>[![Michael Jackson One Show at Mandalay Las Vegas](https://hotmamatravel.com/wp-content/uploads/2020/03/michael-jackson-one-mandalay-vegas-show.jpg)](/wp-content/uploads/2020/03/michael-jackson-one-mandalay-vegas-show.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-c3009b6a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="michael-jackson-one-las-vegas-teen-shows"><figure>[![Michael Jackson One Show at Mandalay Las Vegas](/images/michael-jackson-one-mandalay-vegas-show.jpg)](/images/michael-jackson-one-mandalay-vegas-show.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-b46dc5b9">
 
@@ -99,7 +99,7 @@ After the show, enjoy more music with an exciting [**dinner with live music**](/
 
 **[See Photos, Reviews, &amp; More](/go/michael-jackson-one-las-vegas-bov/)**
 
-<div class="wp-block-uagb-image uagb-block-83b88c23 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="awkening-vegas-show-teens"><figure>[![Awakening Las Vegas show for teens at Wynn](https://hotmamatravel.com/wp-content/uploads/2024/03/awkening-vegas-show-teens.jpg)](/wp-content/uploads/2024/03/awkening-vegas-show-teens.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-83b88c23 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="awkening-vegas-show-teens"><figure>[![Awakening Las Vegas show for teens at Wynn](/images/awkening-vegas-show-teens.jpg)](/images/awkening-vegas-show-teens.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-c535b805">
 
@@ -116,7 +116,7 @@ The electrifying soundtrack sets the stage on fire and keeps audiences on the ed
 
 **[See Photos, Reviews, &amp; More](/go/awakening-las-vegas-show/)**
 
-<div class="wp-block-uagb-image uagb-block-d7afe445 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="carrot-top-vegas-show-teens"><figure>[![Carrot Top Teen show in Vegas](https://hotmamatravel.com/wp-content/uploads/2024/03/carrot-top-vegas-show-teens.jpg)](/wp-content/uploads/2024/03/carrot-top-vegas-show-teens.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-d7afe445 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="carrot-top-vegas-show-teens"><figure>[![Carrot Top Teen show in Vegas](/images/carrot-top-vegas-show-teens.jpg)](/images/carrot-top-vegas-show-teens.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-2bad231f">
 
@@ -135,7 +135,7 @@ With his wild red hair and larger-than-life character with a personality to matc
 
 **[See Photos, Reviews, &amp; More](/go/carrot-top-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-be658c48 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-mentalist-vegas-show-teens"><figure>[![The Mentalist Vegas show for teens](https://hotmamatravel.com/wp-content/uploads/2024/03/the-mentalist-vegas-show-teens.jpg)](/wp-content/uploads/2024/03/the-mentalist-vegas-show-teens.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-be658c48 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-mentalist-vegas-show-teens"><figure>[![The Mentalist Vegas show for teens](/images/the-mentalist-vegas-show-teens.jpg)](/images/the-mentalist-vegas-show-teens.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-12bd148e">
 
@@ -154,7 +154,7 @@ And then there's the element of suspense and surprise that permeates every momen
 
 **[See Photos, Reviews, &amp; More](/go/mentalist-las-vegas/)**
 
-<div class="wp-block-stackable-image stk-block-image stk-block stk-b13df22" id="potted-potter-las-vegas-show" data-block-id="b13df22"><figure>![Potted Potter Show Las Vegas](https://hotmamatravel.com/wp-content/uploads/2024/03/potted-potter-show-las-vegas.jpg)</figure></div>
+<div class="wp-block-stackable-image stk-block-image stk-block stk-b13df22" id="potted-potter-las-vegas-show" data-block-id="b13df22"><figure>![Potted Potter Show Las Vegas](/images/potted-potter-show-las-vegas.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-60f0704b">
 
@@ -173,7 +173,7 @@ Let's not forget the nostalgia factor for teens who grew up with the Harry Potte
 
 **[See Photos, Reviews, &amp; More](/go/potted-potter-vegas-show/)**
 
-<div class="wp-block-uagb-image uagb-block-31ea4092 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="ka-vegas-show-teens"><figure>[![Ka Las Vegas show for teens](https://hotmamatravel.com/wp-content/uploads/2024/03/ka-vegas-show-teens.jpg)](/wp-content/uploads/2024/03/ka-vegas-show-teens.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-31ea4092 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="ka-vegas-show-teens"><figure>[![Ka Las Vegas show for teens](/images/ka-vegas-show-teens.jpg)](/images/ka-vegas-show-teens.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-0e0b8206">
 
@@ -192,7 +192,7 @@ But wait, it gets even better. Ever seen a suspended fight scene? Well, get read
 
 **[See Photos, Reviews, &amp; More](/go/ka-las-vegas-bov/)**
 
-<div class="wp-block-uagb-image uagb-block-0f048259 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="shin-lim-vegas-show-teens"><figure>[![Teen magic show in Vegas Shin Lim](https://hotmamatravel.com/wp-content/uploads/2024/03/shin-lim-vegas-show-teens.jpg)](/wp-content/uploads/2024/03/shin-lim-vegas-show-teens.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0f048259 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="shin-lim-vegas-show-teens"><figure>[![Teen magic show in Vegas Shin Lim](/images/shin-lim-vegas-show-teens.jpg)](/images/shin-lim-vegas-show-teens.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-4a2569a3">
 
@@ -209,7 +209,7 @@ So if you've got a teen who's itching for some serious magic, look no further th
 
 **[See Photos, Reviews, &amp; More](/go/shin-lim-las-vegas-show/)**
 
-<div class="wp-block-uagb-image uagb-block-0d1fcc11 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="tournament-of-kings-excalibur-family-show"><figure>[![Tournament of Kings at Excalibur family las vegas show](https://hotmamatravel.com/wp-content/uploads/2023/02/tournament-of-kings-las-vegas-dinner-show-packages.jpg)](/wp-content/uploads/2023/02/tournament-of-kings-las-vegas-dinner-show-packages.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0d1fcc11 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="tournament-of-kings-excalibur-family-show"><figure>[![Tournament of Kings at Excalibur family las vegas show](/images/tournament-of-kings-las-vegas-dinner-show-packages.jpg)](/images/tournament-of-kings-las-vegas-dinner-show-packages.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-c2c3d160">
 
@@ -232,7 +232,7 @@ Check out the show in this video:
 
 **[See Photos, Reviews, &amp; More](/go/tournament-kings-las-vegas-bov/)**
 
-<div class="wp-block-uagb-image uagb-block-6649cae6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="blue-man-group-vegas-show-teens"><figure>[![Blue Man Group Las Vegas family show ](https://hotmamatravel.com/wp-content/uploads/2024/03/blue-man-group-vegas-show-teens.jpg)](/wp-content/uploads/2024/03/blue-man-group-vegas-show-teens.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-6649cae6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="blue-man-group-vegas-show-teens"><figure>[![Blue Man Group Las Vegas family show ](/images/blue-man-group-vegas-show-teens.jpg)](/images/blue-man-group-vegas-show-teens.jpg)</figure></div>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-4de11e46">
 
@@ -263,5 +263,5 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 Like it? Pin it!
 
-<figure id="best-shows-in-las-vegas-for-teens">[![](https://hotmamatravel.com/wp-content/uploads/2024/03/best-shows-in-las-vegas-for-teens-200x300.jpg)](/images/best-shows-in-las-vegas-for-teens.jpg)</figure>
+<figure id="best-shows-in-las-vegas-for-teens">[![](/images/best-shows-in-las-vegas-for-teens-200x300.jpg)](/images/best-shows-in-las-vegas-for-teens.jpg)</figure>
 </div></div>

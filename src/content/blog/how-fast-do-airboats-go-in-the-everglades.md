@@ -50,5 +50,5 @@ So that's about airboats and the Everglades. The speed and safety might bother y
 
 Like it? Pin it!
 
-<figure id="how-fast-do-airboats-go-in-the-everglades">[![](https://hotmamatravel.com/wp-content/uploads/2024/02/how-fast-do-airboats-go-in-the-everglades-200x300.jpg)](/images/how-fast-do-airboats-go-in-the-everglades.jpg)</figure>
+<figure id="how-fast-do-airboats-go-in-the-everglades">[![](/images/how-fast-do-airboats-go-in-the-everglades-200x300.jpg)](/images/how-fast-do-airboats-go-in-the-everglades.jpg)</figure>
 </div></div>

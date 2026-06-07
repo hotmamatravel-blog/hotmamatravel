@@ -52,7 +52,7 @@ For $40 gives you access to three Nashville historical sites, including Belle Me
 
 Add an Adventure Backpack or Plantation Station Backpack for $10 to keep the kids entertained during the tour. There are more details on what the backpacks include in the **Entertain Me** section of this post.
 
-[![Stream at Belle Meade Plantation](https://hotmamatravel.com/wp-content/uploads/2017/11/DSC02085.jpg)](/belle-meade-plantation/)
+[![Stream at Belle Meade Plantation](/images/DSC02085.jpg)](/belle-meade-plantation/)
 
 If you are local, there are a number of options for student and scout tours.
 
@@ -97,7 +97,7 @@ There are many hotels in Belle Meade, TN as well as in the greater Nashville are
 
 **[Check Rates and Availability](http://www.anrdoezrs.net/links/8336032/type/dlg/https://www.bestwestern.com/en_US/book/hotels-in-nashville/best-western-plus-belle-meade-inn-suites/propertyCode.43172.html).**
 
-*[![Best Western Plus Belle Meade Inn &amp; Suites](https://hotmamatravel.com/wp-content/uploads/2017/10/DSC02488-e1509380934203.jpg)](/staying-best-western-plus-belle-meade-inn-suites/)*
+*[![Best Western Plus Belle Meade Inn &amp; Suites](/images/DSC02488-e1509380934203.jpg)](/staying-best-western-plus-belle-meade-inn-suites/)*
 
 ## *Top places to eat
 *
@@ -110,7 +110,7 @@ Once you are on the Belle Meade Plantation you will want to spend a good chunk o
 
 Just down the road from the Belle Meade Plantation and the Best Western Bell Meade, is the famous HattieB’s Hot Chicken. Although there are many good Belle Meade restaurants, you honestly can’t leave Nashville without trying hot chicken, and Hattie B’s is said by many to be the best. There are two locations in Nashville, but luckily the bigger location is just down the road (0.6 miles) from the Best Western Belle Meade.
 
-*[![Hattie B](https://hotmamatravel.com/wp-content/uploads/2017/10/DSC02446-e1509380304502.jpg)](/staying-best-western-plus-belle-meade-inn-suites/)*
+*[![Hattie B](/images/DSC02446-e1509380304502.jpg)](/staying-best-western-plus-belle-meade-inn-suites/)*
 
 ## *Where to grab a drink
 *
@@ -119,7 +119,7 @@ Just down the road from the Belle Meade Plantation and the Best Western Bell Mea
 
 You can’t visit Belle Meade Plantation without sipping on some wine. The Belle Meade Plantation Winery was founded in 2009 as way to preserve the site. It honors the American South tradition of producing Muscadine and Blackberry wines. Luckily, every tour includes a complimentary wine tasting. Beware, you will want to buy some wine to take home and the complimentary wine tasting can turn expensive fast. I speak from experience.
 
-[![Belle Meade Winery](https://hotmamatravel.com/wp-content/uploads/2017/11/DSC01962-e1510004911440.jpg)](/belle-meade-plantation/)
+[![Belle Meade Winery](/images/DSC01962-e1510004911440.jpg)](/belle-meade-plantation/)
 
 ### Belle Meade Bourbon:
 
@@ -131,17 +131,17 @@ The Belle Meade Plantation is such a lovely property to explore and there a numb
 
 Since it was our first time in Belle Meade, we wanted to see inside the Belle Meade Mansion and opted for the Mansion Tour. The tour includes a 45 minutes guided tour through the Greek-Revival mansion as well as access to the other historical buildings located on the grounds and a complimentary wine tasting.
 
-*[![Belle Meade Mansion Portrait](https://hotmamatravel.com/wp-content/uploads/2017/10/DSC01991-e1509380029328.jpg)](/staying-best-western-plus-belle-meade-inn-suites/)*
+*[![Belle Meade Mansion Portrait](/images/DSC01991-e1509380029328.jpg)](/staying-best-western-plus-belle-meade-inn-suites/)*
 
 For the half the price you can purchase tickets to just again access to the gardens and all the historic buildings on the property minus the mansion. The buildings on the property include the dairy, horse stable, carriage house, mausoleum and log cabin. Yes, this tour also included complimentary wine tasting at the Belle Meade winery.
 
-[![Kids Experiencing Belle Meade Plantation](https://hotmamatravel.com/wp-content/uploads/2017/11/Untitled-design-1-1-e1510005006478.jpg)](/belle-meade-plantation/)
+[![Kids Experiencing Belle Meade Plantation](/images/Untitled-design-1-1-e1510005006478.jpg)](/belle-meade-plantation/)
 
 ### For the Kids:
 
 If you are traveling with kids, I recommend getting the Adventure Backpack for ages 7 to 12 or the Plantation Station Backpack for ages 6 and under. Each backpack is filled with fun activities, treasure map and special key to help make exploring the Belle Meade Plantation a bit more exciting for children. My kids loved looking at the map to find hidden treasure boxes sprinkled all over the property and using their key to unlock the toys and fun activities inside.** [More and more families](/kid-friendly-travel-blogger-roundup/) **are taking their kids to historic sites and wine tastings when they travel, and the Belle Meade Plantation really hits the mark in terms of making this attraction family friendly all around.
 
-[![Kid Treasure hunt Belle Meade Plantation](https://hotmamatravel.com/wp-content/uploads/2017/11/DSC02001-e1510005312236.jpg)](/belle-meade-plantation/)
+[![Kid Treasure hunt Belle Meade Plantation](/images/DSC02001-e1510005312236.jpg)](/belle-meade-plantation/)
 
 ### Belle Meade Plantation Hours:
 
@@ -155,4 +155,4 @@ All in all, visiting Belle Meade Plantation is one the unique things to do in Na
 
 **Like it? Pin it!**
 
-[![Belle Meade Plantation](https://hotmamatravel.com/wp-content/uploads/2017/11/Nashville-with-Kids.png)](/belle-meade-plantation/)
+[![Belle Meade Plantation](/images/Nashville-with-Kids.png)](/belle-meade-plantation/)

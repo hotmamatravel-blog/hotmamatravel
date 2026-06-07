@@ -50,7 +50,7 @@ As an alternative, you can jump straight ahead to our list of Austin's Best Fami
 
 **[Jump to: Best all-around](#hyatt-regency-austin)**
 
-<figure>[![Pool at the Hyatt Regency Austin](https://hotmamatravel.com/wp-content/uploads/2019/08/austin-family-pool-hyatt-regency-austin.jpg)](#hyatt-regency-austin)<figcaption class="wp-element-caption">*Hyatt Regency Austin*</figcaption></figure>
+<figure>[![Pool at the Hyatt Regency Austin](/images/austin-family-pool-hyatt-regency-austin.jpg)](#hyatt-regency-austin)<figcaption class="wp-element-caption">*Hyatt Regency Austin*</figcaption></figure>
 
 </div>
 
@@ -58,21 +58,21 @@ As an alternative, you can jump straight ahead to our list of Austin's Best Fami
 
 **[Jump to: Top budget-friendly](#best-western-austin)**
 
-<figure>[![Austin Family Pool at Aiden by Best Western](https://hotmamatravel.com/wp-content/uploads/2019/08/austin-family-pool-aiden-best-western-austin-city-hotel.jpg)](#best-western-austin)<figcaption class="wp-element-caption">*Aiden by Best Western at Austin City Hotel*</figcaption></figure>
+<figure>[![Austin Family Pool at Aiden by Best Western](/images/austin-family-pool-aiden-best-western-austin-city-hotel.jpg)](#best-western-austin)<figcaption class="wp-element-caption">*Aiden by Best Western at Austin City Hotel*</figcaption></figure>
 </div>
 </div>
 
 <div class="wp-block-columns has-3-columns">
 <div class="wp-block-column">
-<figure>[![Kid-friendly pool at Omni Austin Hotel Southpark](https://hotmamatravel.com/wp-content/uploads/2019/08/austin-family-pool-omni-austin-southpark.jpg)](#omni-austin-southpark-hotel)<figcaption class="wp-element-caption"> *Omni Austin Hotel at Southpark*</figcaption></figure>
+<figure>[![Kid-friendly pool at Omni Austin Hotel Southpark](/images/austin-family-pool-omni-austin-southpark.jpg)](#omni-austin-southpark-hotel)<figcaption class="wp-element-caption"> *Omni Austin Hotel at Southpark*</figcaption></figure>
 </div>
 
 <div class="wp-block-column">
-<figure>[![Embassy Suites Austin hotel for families](https://hotmamatravel.com/wp-content/uploads/2019/08/austin-family-hotel-embassy-suites-downtown-south-congress-artium.jpg)](#embassy-suites-austin-downtown)<figcaption class="wp-element-caption"> *Embassy Suites by Hilton Austin Downtown South Congress*</figcaption></figure>
+<figure>[![Embassy Suites Austin hotel for families](/images/austin-family-hotel-embassy-suites-downtown-south-congress-artium.jpg)](#embassy-suites-austin-downtown)<figcaption class="wp-element-caption"> *Embassy Suites by Hilton Austin Downtown South Congress*</figcaption></figure>
 </div>
 
 <div class="wp-block-column">
-<figure>[![Graffiti art in lobby of Hampton Inn Suites Austin](https://hotmamatravel.com/wp-content/uploads/2019/08/austin-family-hotel-lobby-art-hampton-inn-suites-austin-university-capital.jpg)](#hampton-inn-suites-austin)<figcaption class="wp-element-caption"> *Hampton Inn &amp; Suites Austin @ The University/Capitol*</figcaption></figure>
+<figure>[![Graffiti art in lobby of Hampton Inn Suites Austin](/images/austin-family-hotel-lobby-art-hampton-inn-suites-austin-university-capital.jpg)](#hampton-inn-suites-austin)<figcaption class="wp-element-caption"> *Hampton Inn &amp; Suites Austin @ The University/Capitol*</figcaption></figure>
 </div>
 </div>
 
@@ -128,7 +128,7 @@ As an alternative, you can jump straight ahead to our list of Austin's Best Fami
 Pin'able Comparison Chart:
 </div>
 
-<figure>![Austin Family Hotels Comparison Chart Pin](https://hotmamatravel.com/wp-content/uploads/2019/08/family-friendly-hotels-austin-chart-683x1024.png)</figure>
+<figure>![Austin Family Hotels Comparison Chart Pin](/images/family-friendly-hotels-austin-chart-683x1024.png)</figure>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-color uagb-block-5973c5bd"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 <div class="wp-block-uagb-advanced-heading uagb-block-7aae26d6" id="uagb-adv-heading-2e1a2483-fc23-43af-8bd7-75711039a76c">
@@ -138,7 +138,7 @@ Pin'able Comparison Chart:
 4-star hotel |  208 Barton Springs, Austin, TX 78704
 </div>
 
-<figure>[![Hyatt Regency Austin kid-friendly hotel](https://hotmamatravel.com/wp-content/uploads/2019/08/family-hotel-austin-hyatt-regencey-austin-front.jpg)](/go/hyatt-regency-austin/)<figcaption class="wp-element-caption">*Photo courtesy of Hyatt Regency Austin*</figcaption></figure>
+<figure>[![Hyatt Regency Austin kid-friendly hotel](/images/family-hotel-austin-hyatt-regencey-austin-front.jpg)](/go/hyatt-regency-austin/)<figcaption class="wp-element-caption">*Photo courtesy of Hyatt Regency Austin*</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-6f32051 ugb-main-block"><style>.ugb-6f32051 .ugb-block-content{justify-content:center !important}.ugb-6f32051 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-6f32051 .ugb-button1 .ugb-button--inner,.ugb-6f32051 .ugb-button1 svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-6f32051 .ugb-button1:before{border-radius:4px !important}.ugb-6f32051 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="images" class="svg-inline--fa fa-images fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
 </path></svg></div>**See more photos**](/go/hyatt-regency-austin/)</div></div></div></div>
@@ -176,7 +176,7 @@ Pin'able Comparison Chart:
 </path></svg>List item</div>
 </div></div>
 
-<figure>[![Austin Family suite at Hyatt Regency](https://hotmamatravel.com/wp-content/uploads/2019/08/inside-kid-friendly-austin-hotel-hyatt-regency-austin-rooms.jpg)](/go/hyatt-regency-austin/)<figcaption class="wp-element-caption">The large family-friendly rooms have upscale modern furnishings and comfy bedding</figcaption></figure>
+<figure>[![Austin Family suite at Hyatt Regency](/images/inside-kid-friendly-austin-hotel-hyatt-regency-austin-rooms.jpg)](/go/hyatt-regency-austin/)<figcaption class="wp-element-caption">The large family-friendly rooms have upscale modern furnishings and comfy bedding</figcaption></figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-f4978119-a6a8-4c9f-baec-f46f74357f54" id="uagb-adv-heading-c137b1b6-1a14-4c21-8977-3c5c31eb7828">
 
@@ -200,7 +200,7 @@ Set on the beautiful Ladybird Lake, the Hyatt Regency Austin features three on-s
 3-star hotel |  2200 S I H 35 Austin, TX 78704
 </div>
 
-<figure>[![Best Western Austin City Hotel](https://hotmamatravel.com/wp-content/uploads/2019/08/family-hotel-austin-aiden-best-western-austin-city-hotel-exterior.jpg)](/go/aiden-best-western-austin-city-hotel-austin/)<figcaption class="wp-element-caption">*Photo courtesy of Aiden by Best Western at Austin City Hotel*</figcaption></figure>
+<figure>[![Best Western Austin City Hotel](/images/family-hotel-austin-aiden-best-western-austin-city-hotel-exterior.jpg)](/go/aiden-best-western-austin-city-hotel-austin/)<figcaption class="wp-element-caption">*Photo courtesy of Aiden by Best Western at Austin City Hotel*</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-5e8c115 ugb-main-block"><style>.ugb-5e8c115 .ugb-block-content{justify-content:center !important}.ugb-5e8c115 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-5e8c115 .ugb-button1 .ugb-button--inner,.ugb-5e8c115 .ugb-button1 svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-5e8c115 .ugb-button1:before{border-radius:4px !important}.ugb-5e8c115 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="images" class="svg-inline--fa fa-images fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
 </path></svg></div>**See more photos**](/go/aiden-best-western-austin-city-hotel-austin/)</div></div></div></div>
@@ -238,7 +238,7 @@ Set on the beautiful Ladybird Lake, the Hyatt Regency Austin features three on-s
 </path></svg>List item</div>
 </div></div>
 
-<figure>[![Inside room at Best Western Austin Hotel](https://hotmamatravel.com/wp-content/uploads/2019/08/inside-kid-friendly-austin-hotel-aiden-best-western-austin-city-hotel.jpg)](/go/aiden-best-western-austin-city-hotel-austin/)<figcaption class="wp-element-caption">The rooms are comfortable and have everything you need at a great price</figcaption></figure>
+<figure>[![Inside room at Best Western Austin Hotel](/images/inside-kid-friendly-austin-hotel-aiden-best-western-austin-city-hotel.jpg)](/go/aiden-best-western-austin-city-hotel-austin/)<figcaption class="wp-element-caption">The rooms are comfortable and have everything you need at a great price</figcaption></figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-f87cdcc8-0856-4fb2-b0a3-4ed8a632086c" id="uagb-adv-heading-70bad548-0f6d-4314-9c89-91e902e3caf4">
 
@@ -262,7 +262,7 @@ The lush garden pool is definitely a highlight of the Aiden by Best Western at A
 4-star hotel |  4140 Governors Row, Austin, TX 78744
 </div>
 
-<figure>[![Front of Omni Austin Southpark Hotel](https://hotmamatravel.com/wp-content/uploads/2019/08/family-hotel-austin-omni-austin-southpark-exterior.jpg)](/go/omni-austin-southpark-austin/)<figcaption class="wp-element-caption">*Photo courtesy of Omni Austin Hotel at Southpark*</figcaption></figure>
+<figure>[![Front of Omni Austin Southpark Hotel](/images/family-hotel-austin-omni-austin-southpark-exterior.jpg)](/go/omni-austin-southpark-austin/)<figcaption class="wp-element-caption">*Photo courtesy of Omni Austin Hotel at Southpark*</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-3d5f9f4 ugb-main-block"><style>.ugb-3d5f9f4 .ugb-block-content{justify-content:center !important}.ugb-3d5f9f4 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-3d5f9f4 .ugb-button1 .ugb-button--inner,.ugb-3d5f9f4 .ugb-button1 svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-3d5f9f4 .ugb-button1:before{border-radius:4px !important}.ugb-3d5f9f4 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="images" class="svg-inline--fa fa-images fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
 </path></svg></div>**See more photos**](/go/omni-austin-southpark-austin/)</div></div></div></div>
@@ -297,7 +297,7 @@ The lush garden pool is definitely a highlight of the Aiden by Best Western at A
 </path></svg>List item</div>
 </div></div>
 
-<figure>[![Inside room at Austin Omni Hotel Southpark](https://hotmamatravel.com/wp-content/uploads/2019/08/inside-kid-friendly-austin-hotel-omni-austin-southpark-rooms.jpg)](/go/omni-austin-southpark-austin/)<figcaption class="wp-element-caption">This room has two double beds - you won't find a room with two queens at Omni</figcaption></figure>
+<figure>[![Inside room at Austin Omni Hotel Southpark](/images/inside-kid-friendly-austin-hotel-omni-austin-southpark-rooms.jpg)](/go/omni-austin-southpark-austin/)<figcaption class="wp-element-caption">This room has two double beds - you won't find a room with two queens at Omni</figcaption></figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-8f49e3e4-172c-45fb-af00-8fe017ec32af" id="uagb-adv-heading-22c6bdcc-c9d0-4868-871a-b274c282d7ce">
 
@@ -321,7 +321,7 @@ Families will also love the awesome indoor/outdoor pool that can be enjoyed year
 3-star hotel |  300 South Congress Avenue, Austin, TX 78704
 </div>
 
-<figure>[![Embassy Suites by Hilton in Downtown Austin](https://hotmamatravel.com/wp-content/uploads/2019/08/family-hotel-austin-embassy-suites-hilton-downtown-south-congress.jpg)](/go/embassy-suites-hilton-austin-downtown-south-congress-austin/)<figcaption class="wp-element-caption">*Photo courtesy of Embassy Suites Austin Downtown South Congress*</figcaption></figure>
+<figure>[![Embassy Suites by Hilton in Downtown Austin](/images/family-hotel-austin-embassy-suites-hilton-downtown-south-congress.jpg)](/go/embassy-suites-hilton-austin-downtown-south-congress-austin/)<figcaption class="wp-element-caption">*Photo courtesy of Embassy Suites Austin Downtown South Congress*</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-94f04f1 ugb-main-block"><style>.ugb-94f04f1 .ugb-block-content{justify-content:center !important}.ugb-94f04f1 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-94f04f1 .ugb-button1 .ugb-button--inner,.ugb-94f04f1 .ugb-button1 svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-94f04f1 .ugb-button1:before{border-radius:4px !important}.ugb-94f04f1 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="images" class="svg-inline--fa fa-images fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
 </path></svg></div>**See more photos**](/go/embassy-suites-hilton-austin-downtown-south-congress-austin/)</div></div></div></div>
@@ -356,7 +356,7 @@ Families will also love the awesome indoor/outdoor pool that can be enjoyed year
 </path></svg>List item</div>
 </div></div>
 
-<figure>[![Family suite in Austin at Embassy Suites](https://hotmamatravel.com/wp-content/uploads/2019/08/inside-kid-friendly-austin-hotel-embassy-suites-hilton-downtown-south-congress-family-suites.jpg)](/go/embassy-suites-hilton-austin-downtown-south-congress-austin/)<figcaption class="wp-element-caption">Yes, Embassy suites has - you guessed it - family suites!</figcaption></figure>
+<figure>[![Family suite in Austin at Embassy Suites](/images/inside-kid-friendly-austin-hotel-embassy-suites-hilton-downtown-south-congress-family-suites.jpg)](/go/embassy-suites-hilton-austin-downtown-south-congress-austin/)<figcaption class="wp-element-caption">Yes, Embassy suites has - you guessed it - family suites!</figcaption></figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-d88c2687-f749-4c93-ab74-3188e427e0b4" id="uagb-adv-heading-ba9c59b9-01d6-40c7-9dad-6e01efd4d7e5">
 
@@ -380,7 +380,7 @@ The Embassy Suites by Hilton Austin really makes guests feel at home with compli
 3-star hotel |  1701 Lavaca Street, Austin, TX 78701
 </div>
 
-<figure>[![Hampton Inn and Suites Austin](https://hotmamatravel.com/wp-content/uploads/2019/08/family-hotel-austin-hampton-inn-suites-austin-university-capital.jpg)](/go/hampton-inn-suites-austin-university-capitol-austin/)<figcaption class="wp-element-caption">*Photo courtesy of Hampton Inn &amp; Suites Austin @ The University/Capitol*</figcaption></figure>
+<figure>[![Hampton Inn and Suites Austin](/images/family-hotel-austin-hampton-inn-suites-austin-university-capital.jpg)](/go/hampton-inn-suites-austin-university-capitol-austin/)<figcaption class="wp-element-caption">*Photo courtesy of Hampton Inn &amp; Suites Austin @ The University/Capitol*</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-c37548d ugb-main-block"><style>.ugb-c37548d .ugb-block-content{justify-content:center !important}.ugb-c37548d .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-c37548d .ugb-button1 .ugb-button--inner,.ugb-c37548d .ugb-button1 svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-c37548d .ugb-button1:before{border-radius:4px !important}.ugb-c37548d .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="images" class="svg-inline--fa fa-images fa-w-18" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
 </path></svg></div>**See more photos**](/go/hampton-inn-suites-austin-university-capitol-austin/)</div></div></div></div>
@@ -415,7 +415,7 @@ The Embassy Suites by Hilton Austin really makes guests feel at home with compli
 </path></svg>List item</div>
 </div></div>
 
-<figure>[![Inside room at Hampton Inn and Suites Austin University](https://hotmamatravel.com/wp-content/uploads/2019/08/inside-kid-friendly-austin-hotel-hampton-inn-suites-austin-university-capital-rooms.jpg)](/go/hampton-inn-suites-austin-university-capitol-austin/)<figcaption class="wp-element-caption">The best feature of this hotel is location - it's walking distance to the Capital building</figcaption></figure>
+<figure>[![Inside room at Hampton Inn and Suites Austin University](/images/inside-kid-friendly-austin-hotel-hampton-inn-suites-austin-university-capital-rooms.jpg)](/go/hampton-inn-suites-austin-university-capitol-austin/)<figcaption class="wp-element-caption">The best feature of this hotel is location - it's walking distance to the Capital building</figcaption></figure>
 
 <div class="wp-block-uagb-advanced-heading uagb-block-467019a2-ead4-4bf6-9106-135056355320" id="uagb-adv-heading-6e59fe41-6514-466e-b0e9-9808ec12a2a7">
 
@@ -443,11 +443,11 @@ Well there you have it! In my opinion, these are the 5 best family hotels in Aus
 
 <div class="wp-block-columns has-2-columns">
 <div class="wp-block-column">
-<figure>![5 Best Family Hotels in Austin Texas](https://hotmamatravel.com/wp-content/uploads/2019/08/Best-Austin-hotels-family-200x300.png)</figure>
+<figure>![5 Best Family Hotels in Austin Texas](/images/Best-Austin-hotels-family-200x300.png)</figure>
 </div>
 
 <div class="wp-block-column">
-<figure>![Austin Family Hotels Comparison Chart Pin](https://hotmamatravel.com/wp-content/uploads/2019/08/family-friendly-hotels-austin-chart-200x300.png)</figure>
+<figure>![Austin Family Hotels Comparison Chart Pin](/images/family-friendly-hotels-austin-chart-200x300.png)</figure>
 </div>
 </div>
 

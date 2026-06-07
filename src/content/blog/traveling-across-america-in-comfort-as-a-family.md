@@ -66,5 +66,5 @@ Comfort is important when traveling, especially on lengthy road trips. Make sure
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Traveling across America in comfort as a family - HotMamaTravel">[![Traveling across America in comfort as a family - HotMamaTravel](https://hotmamatravel.com/wp-content/uploads/2024/07/traveling-across-america-in-comfort-as-a-family-200x300.jpg)](/images/traveling-across-america-in-comfort-as-a-family.jpg)</figure>
+<figure data-essb-pin-description="Traveling across America in comfort as a family - HotMamaTravel">[![Traveling across America in comfort as a family - HotMamaTravel](/images/traveling-across-america-in-comfort-as-a-family-200x300.jpg)](/images/traveling-across-america-in-comfort-as-a-family.jpg)</figure>
 </div></div>

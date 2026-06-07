@@ -15,7 +15,7 @@ author: "Amanda Keeley-Thurman"
 
 Overseas travel can seem a bit overwhelming, especially you have never traveled abroad, don’t do travel often or taking the kids for the first time. The more I travel the more I learn ways to make things easier for myself and my family. I get asked questions about overseas travel all the time and I have the answers you are looking for right here to make your next international trip a breeze.
 
-[![Keeping kids entertained during overseas travel](https://hotmamatravel.com/wp-content/uploads/2015/08/IMG_5357-1024x1024.jpg)](/10-tips-for-overseas-travel/)
+[![Keeping kids entertained during overseas travel](/images/IMG_5357-1024x1024_201508.jpg)](/10-tips-for-overseas-travel/)
 
 ## ***1. Passports:***
 
@@ -34,7 +34,7 @@ For example, My dad who is 81 years old didn’t realize, until he was trying to
  	- Get kids their passports while still under 16. Again, even if you don’t plan on traveling internationally, it is best to get it as soon as you can. First, it is cheaper and you’ll just have to pay to renew. Second, unexpected opportunities to travel may pop up and you’ll everything ready. For instance, I made a plan to get my kids passports in January as part of my New Year’s Resolution without any international travel plans. Coincidentally, HotDaddy got asked to work in Scotland in June and thankfully, we were all ready to go!
 
 
-[![International travel tips: Get your kids passports as young as possiple ](https://hotmamatravel.com/wp-content/uploads/2015/08/1495386_801090953305017_3598390383881243936_o-1024x1024.jpg)](/wp-content/uploads/2015/08/1495386_801090953305017_3598390383881243936_o.jpg)
+[![International travel tips: Get your kids passports as young as possiple ](/images/1495386_801090953305017_3598390383881243936_o-1024x1024.jpg)](/images/1495386_801090953305017_3598390383881243936_o.jpg)
 
  	- Ladies, listen up, because this affects us the most. So what happens if your name has changed and doesn’t match your passport? According to TSA, you’re the** name on your flight ticket MUST match the name on your passport**. So, if you recently got married and changed your name, book your flight with the name that is on your passport!! Travel with a copy of your marriage license just in case.
 
@@ -48,12 +48,12 @@ I love international flights, because there are a lot of perks.
  	- You don’t need to be first class to get complimentary meals, snacks, beer and wine.
 
 
-[![Complimentary Drinks on Transatlantic Flights](https://hotmamatravel.com/wp-content/uploads/2015/08/Complimentary-Drinks.png)](/wp-content/uploads/2015/08/Complimentary-Drinks.png)
+[![Complimentary Drinks on Transatlantic Flights](/images/Complimentary-Drinks.png)](/images/Complimentary-Drinks.png)
 
  	- Kids and parents stay entertained with free games and movies.
 
 
-[![Free games and movies on transatlantic flights](https://hotmamatravel.com/wp-content/uploads/2015/08/IMG_6460-1024x768.jpg)](/10-tips-for-overseas-travel/)
+[![Free games and movies on transatlantic flights](/images/IMG_6460-1024x768_201508.jpg)](/10-tips-for-overseas-travel/)
 
  	- Transatlantic flights are smooth! I have a fear of flying and any turbulence even minor bumps freak me out. So, I was pleasantly surprised when I discovered that transatlantic flights are typically very smooth.
 
@@ -63,7 +63,7 @@ I love international flights, because there are a lot of perks.
 
 
 
-[![Layovers are great for burning energy](https://hotmamatravel.com/wp-content/uploads/2015/08/IMG_0242-768x1024.jpg)](/10-tips-for-overseas-travel/)
+[![Layovers are great for burning energy](/images/IMG_0242-768x1024_201508.jpg)](/10-tips-for-overseas-travel/)
 
  	- Checked bags are free!
 
@@ -101,7 +101,7 @@ I love international flights, because there are a lot of perks.
  	- Don’t exchange money at home bank or departing airport. Instead, just wait and withdraw cash at the ATM when you land at your desired destination. You will need cash for taxis and tipping.
 
 
-[![Withdraw new currency at ATMs](https://hotmamatravel.com/wp-content/uploads/2015/08/IMG_6473-1024x1024.jpg)](/10-tips-for-overseas-travel/)
+[![Withdraw new currency at ATMs](/images/IMG_6473-1024x1024.jpg)](/10-tips-for-overseas-travel/)
 
  	- Get a credit card with NO foreign exchange fee. This will save you money and we like to save money.
 
@@ -191,7 +191,7 @@ Kids love familiarity, so before you throw them into something unfamiliar, prepa
  	- **[Developing Kids' Culinary Palette](/developing-kids-global-palate/)**
 
 
-[![Preparing the kids for overseas travel through food](https://hotmamatravel.com/wp-content/uploads/2015/08/IMG_4876-1024x1024.jpg)](/10-tips-for-overseas-travel/)
+[![Preparing the kids for overseas travel through food](/images/IMG_4876-1024x1024.jpg)](/10-tips-for-overseas-travel/)
 
 ## *That's A Wrap!*
 
@@ -200,4 +200,4 @@ That’s it! See? Not so hard. Just like everything else, it just takes a little
 
 **Like it? Pin it!**
 
-[![10 Tips For Overseas Travel](https://hotmamatravel.com/wp-content/uploads/2015/08/10-Tips-For-1.png)](/10-tips-for-overseas-travel/)
+[![10 Tips For Overseas Travel](/images/10-Tips-For-1.png)](/10-tips-for-overseas-travel/)

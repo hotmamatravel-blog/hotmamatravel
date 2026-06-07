@@ -98,5 +98,5 @@ These are just a few top tips for a road trip with friends that are sure to help
 
 Like it? Pin it!
 
-<figure id="tips-for-taking-road-trips-with-friends">[![](https://hotmamatravel.com/wp-content/uploads/2023/10/Tips-for-road-trips-with-friends-2-200x300.jpg)](/images/Tips-for-road-trips-with-friends-2.jpg)</figure>
+<figure id="tips-for-taking-road-trips-with-friends">[![](/images/Tips-for-road-trips-with-friends-2-200x300.jpg)](/images/Tips-for-road-trips-with-friends-2.jpg)</figure>
 </div></div>

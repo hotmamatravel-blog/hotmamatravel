@@ -26,13 +26,13 @@ After a long travel day from **[Williams, AZ](/grand-canyon-with-kids-williams-a
 
 First of all, the earth-colored adobe exterior architecture screamed, “We are in SANTA FE BABY!”
 
-![Hot Mama in front of Best Western Plus Inn of Santa Fe](https://hotmamatravel.com/wp-content/uploads/2019/04/Front-BW-plus-santa-fe-new-mexico.jpg)
+![Hot Mama in front of Best Western Plus Inn of Santa Fe](/images/Front-BW-plus-santa-fe-new-mexico.jpg)
 
 Happily, the theme continued into the interior of the hotel with a cozy lobby, complete with fireplace and southwestern design. Even our rooms were oozing with Santa Fe décor with bold Native American printed fabrics splashed over the bedding.
 
 Little attentions-to-detail like this really excite us for some reason, and it’s one of the reasons we love about staying at Best Western Hotel and Resorts. Being independently owned and operated, they usually do a great job reflecting the local culture. **Check room rates and see more photos** [**HERE**](/go/best-western-plus-inn-santa-fe/)
 
-![Rooms inside Best Western Plus Santa Fe hotel](https://hotmamatravel.com/wp-content/uploads/2019/04/Room-inside-best-western-plus-santa-fe-nm.jpg)
+![Rooms inside Best Western Plus Santa Fe hotel](/images/Room-inside-best-western-plus-santa-fe-nm.jpg)
 
 ### **Location**
 
@@ -46,13 +46,13 @@ Who doesn’t love a** complimentary breakfast**? We sure do and I love having a
 
 At the Best Western Inn of Santa Fe they had a cute little breakfast room that serves a hot breakfast every morning until 10:00AM. I love when the breakfast goes a little later, because travel is exhausting and having that extra time gave us more time in the morning to motivate.
 
-![Pool at Best Western Plus Inn Santa Fe New Mexico](https://hotmamatravel.com/wp-content/uploads/2019/04/pool-best-western-plus-santa-fe-with-kids.jpg)
+![Pool at Best Western Plus Inn Santa Fe New Mexico](/images/pool-best-western-plus-santa-fe-with-kids.jpg)
 
 Santa Fe is super high in elevation and it gets downright cold. *Fun fact: Santa Fe is the highest elevation state capital in the US.* Luckily for us they had an** Indoor pool**, which we put to good use while in town. Pools are a nice way for kids to burn off some energy and swimming is something our kids enjoy a lot, so we were stoked to be able to use the pool even when temps outside were frigid.
 
 Believe it or not, our kids love gyms and were eager to use the** fitness center **at the Best Western Santa Fe. In fact my daughter used the fitness center each morning during our stay. I am *all about* a good workout, but this trip I just supervised with my morning coffee instead.
 
-![Kids in fitness center at BW Plus Santa Fe](https://hotmamatravel.com/wp-content/uploads/2019/04/Best-western-Santa-fe-gym.jpg)
+![Kids in fitness center at BW Plus Santa Fe](/images/Best-western-Santa-fe-gym.jpg)
 
 What can I say? Staying at a hotel with** guest laundry facilities **always makes traveling with kids a little easier. No matter how short the trip or how heavy you pack, something is bound to get dirty when kids are involved. You know what I’m talking about.
 
@@ -67,7 +67,7 @@ What can I say? Staying at a hotel with** guest laundry facilities **always make
 
 The Santa Fe Plaza is a National Historic Landmark located in the heart of downtown Santa Fe. As it has been there nearly 400 years, the Santa Fe Plaza continues to be a popular gathering place for locals as well as visitors.
 
-![Santa Fe Plaza](https://hotmamatravel.com/wp-content/uploads/2019/04/santa-fe-plaza-historic-district.jpg)
+![Santa Fe Plaza](/images/santa-fe-plaza-historic-district.jpg)
 
 At the plaza you will find a central park surrounded by an historic mix of adobe architecture. The Santa Fe Plaza is a great place for families as it is filled with numerous restaurants, shops, art galleries and Santa Fe museums. It is also the location for many events throughout the year.
 
@@ -81,7 +81,7 @@ Visiting the Palace of the Governors is a real chance to step into Santa Fe hist
 
 While visiting the Santa Fe Plaza, be sure to check out the Cathedral Basilica of Saint Francis of Assisi. It was built around 1880’s on the site of an older adobe church that was built in 1626, but destroyed in the Pueblo Revolt of 1680.
 
-![Kids in Santa Fe at Saint Francis de Assisi](https://hotmamatravel.com/wp-content/uploads/2019/04/Saint-francis-of-assisi-cathedral-santa-fe-with-kids.jpg)
+![Kids in Santa Fe at Saint Francis de Assisi](/images/Saint-francis-of-assisi-cathedral-santa-fe-with-kids.jpg)
 
 The architectural style of Romanesque Revival is in vast contrast to the surrounding adobe buildings in downtown, making it really stand out.
 
@@ -90,13 +90,13 @@ The architectural style of Romanesque Revival is in vast contrast to the surroun
 
 Located in the Barrio de Analco Historic District, it is the oldest church structure in the United States. Yes, you read that right – it is the oldest church in the US! The San Miguel Chapel was built in 1610 by the Tlaxcala Indians.
 
-![San Miguel Historic Church in New Mexico](https://hotmamatravel.com/wp-content/uploads/2019/04/san-miguel-historic-santa-fe-church.jpg)
+![San Miguel Historic Church in New Mexico](/images/san-miguel-historic-santa-fe-church.jpg)
 
 Over the years it has gone through some things that have caused some damage, including an attack by a provincial governor, Luis de Rojas, in 1640 and the Pueblo Revolt in 1680. However, the city of Santa Fe has continued to fund renovations of this historic structure since the 1700’s, leaving the beautiful chapel we can still visit today.
 
 It is great place to visit to bask in the distinct history of Santa Fe. The huge San Jose Bell, which fell during a storm in the 1872, is on display inside the San Miguel Chapel and the kids were given a chance to ring it! How cool is that?
 
-![Family friendly Santa Fe New Mexico San Miguel Church](https://hotmamatravel.com/wp-content/uploads/2019/04/family-san-miguel-church.jpg)
+![Family friendly Santa Fe New Mexico San Miguel Church](/images/family-san-miguel-church.jpg)
 
 What I found interesting was the beautiful altar screen. When you go up to the Communion rail, you can view the original dirt floor and 400 year old sanctuary steps below!
 
@@ -105,7 +105,7 @@ What I found interesting was the beautiful altar screen. When you go up to the C
 
 The New Mexico State Capital Building, located in Santa Fe is the only circular shaped capital building in the United States, lending to its nickname as the Roundhouse. It is designed after the Zia Pueblo sun sign, which also happens to be the state symbol.
 
-![Santa Fe Capitol Building with kids](https://hotmamatravel.com/wp-content/uploads/2019/04/Santa-fe-capital-building-with-kids.jpg)
+![Santa Fe Capitol Building with kids](/images/Santa-fe-capital-building-with-kids.jpg)
 
 What is super cool about the Roundhouse it that not only is it the capital building, but it is also an art gallery.  Inside you can wander the halls and admire the local New Mexican art. Outside there is a 6 ½ acre garden with over 100 varieties of plants.
 
@@ -118,13 +118,13 @@ If you are looking for a truly unique experience, go check out Meow Wolf in Sant
 
 What is Meow Wolf exactly? It is the result when a group of artists come together to create a one-of-a-kind interactive and immersive experience.
 
-![Kids playing at Meow Wolf in Santa Fe NM](https://hotmamatravel.com/wp-content/uploads/2019/04/santa-fe-kids-meow-wolf.jpg)
+![Kids playing at Meow Wolf in Santa Fe NM](/images/santa-fe-kids-meow-wolf.jpg)
 
 The permanent installation, the House of Eternal Return, is a multidimensional house of mystery filled with magic portals to secret worlds beyond your imagination. Nothing is what it seems and it is awesome!
 
 We only intended to spend a couple hours at Meow Wolf, but ended up playing and exploring for the whole day. Sure, it is easy to say that the kids were having too much fun and didn’t want to leave, but that isn’t the whole truth. The adults were having just as much fun. There was just so much to explore.
 
-![Meow Wolf family portrait](https://hotmamatravel.com/wp-content/uploads/2019/04/family-meow-wolf-santa-fe.jpg)
+![Meow Wolf family portrait](/images/family-meow-wolf-santa-fe.jpg)
 
 Meow Wolf is about challenging norms, embracing weirdness and exercising the power of creativity to change the world.  This is an initiative I can totally get behind.
 
@@ -133,7 +133,7 @@ Meow Wolf is about challenging norms, embracing weirdness and exercising the pow
 
 It is no secret that when we go out with our without kids, we are on the hunt for three things: good food, cold drinks and live music. If we can find **all three** in a historic building, then we’ve hit the HotMama Jackpot.
 
-![View from Santa Fe Plaza New Mexico](https://hotmamatravel.com/wp-content/uploads/2019/04/view-santa-fe-plaza.jpg)
+![View from Santa Fe Plaza New Mexico](/images/view-santa-fe-plaza.jpg)
 
 There is ton of great food in Santa Fe, but I am just going to share the ones that have it all. If you are going out on the town with your kids, why not make it the best time you can in Santa Fe.
 
@@ -147,14 +147,14 @@ El Farol is not only the oldest bar and restaurant in Santa Fe, it’s a party.�
 
 Located off the Santa Fe Plaza on the site of the city’s first inn in 1607, is the historic La Fonda on the Plaza, built in 1922.  Not only, this a beautiful site to visit, there are also several dining options we recommend enjoying while in town.
 
-![La Fonda on the Plaza Santa Fe Hotel](https://hotmamatravel.com/wp-content/uploads/2019/04/la-fonda-from-santa-fe-plaza.jpg)
+![La Fonda on the Plaza Santa Fe Hotel](/images/la-fonda-from-santa-fe-plaza.jpg)
 
 ### **La Plazuela**
 
 
 The massive rod iron chandelier and surrounding courtyard façade gives you the bright feeling of dining al fresco without having to subject to the elements.
 
-![La Plazuela at La Fonda on the Plaza Santa Fe](https://hotmamatravel.com/wp-content/uploads/2019/04/la-plazuela-la-fonda-plaza-santa-fe.jpg)
+![La Plazuela at La Fonda on the Plaza Santa Fe](/images/la-plazuela-la-fonda-plaza-santa-fe.jpg)
 
 Dining in this colorful space, beneath twinkling trees gives such a warm and cozy feeling that is difficult to find anywhere else. Not to mention, the food was incredible. I rarely eat my whole meal and I *killed* my beef burrito.
 
@@ -172,7 +172,7 @@ Float Café is located inside Meow Wolf, but you don’t have to purchase admiss
 
 Their cocktail list is as wacky as the exhibits, like MeowGarita topped with a cotton candy cloud or the Petricor that contains tequila, elderflower liqueur, prickly pear puree, and Prosecco, served over dry ice!
 
-![Meowgarita cocktail at Meow Wolf](https://hotmamatravel.com/wp-content/uploads/2019/04/drinks-at-meow-wolf-meowgarita.jpg)
+![Meowgarita cocktail at Meow Wolf](/images/drinks-at-meow-wolf-meowgarita.jpg)
 
 It is definitely a bar to check out if you are looking for something a little funky fresh.
 
@@ -189,4 +189,4 @@ All in all the kids had fun, we had fun and we are definitely going back. Soon, 
 
 **Like it? Pin it!**
 
-![Hot Tips for visiting Santa Fe with Kids - from historic and artsy to the psychedelic](https://hotmamatravel.com/wp-content/uploads/2019/04/Things-to-do-Santa-fe-new-mexico-with-kids-683x1024.jpg)
+![Hot Tips for visiting Santa Fe with Kids - from historic and artsy to the psychedelic](/images/Things-to-do-Santa-fe-new-mexico-with-kids-683x1024.jpg)

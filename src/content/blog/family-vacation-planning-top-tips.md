@@ -74,5 +74,5 @@ Planning a family vacation can be an exciting and rewarding experience. By follo
 
 **Like it? Pin it!**
 
-<figure id="family-vacation-planning-tips-to-maintain-control">[![](https://hotmamatravel.com/wp-content/uploads/2023/07/family-vacation-planning-tips-to-maintain-control-200x300.jpg)](/images/family-vacation-planning-tips-to-maintain-control.jpg)</figure>
+<figure id="family-vacation-planning-tips-to-maintain-control">[![](/images/family-vacation-planning-tips-to-maintain-control-200x300.jpg)](/images/family-vacation-planning-tips-to-maintain-control.jpg)</figure>
 </div></section>

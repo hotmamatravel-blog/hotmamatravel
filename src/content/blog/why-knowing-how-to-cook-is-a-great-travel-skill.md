@@ -62,5 +62,5 @@ Knowing how to cook when you travel is fantastic because it opens up many more p
 
 **Like it? Pin it!**
 
-<figure id="Why-Knowing-How-To-Cook-Is-a-Great-Travel-Skill">[![](https://hotmamatravel.com/wp-content/uploads/2023/07/Why-Knowing-How-To-Cook-Is-a-Great-Travel-Skill-200x300.jpg)](/images/Why-Knowing-How-To-Cook-Is-a-Great-Travel-Skill.jpg)</figure>
+<figure id="Why-Knowing-How-To-Cook-Is-a-Great-Travel-Skill">[![](/images/Why-Knowing-How-To-Cook-Is-a-Great-Travel-Skill-200x300.jpg)](/images/Why-Knowing-How-To-Cook-Is-a-Great-Travel-Skill.jpg)</figure>
 </div></section>

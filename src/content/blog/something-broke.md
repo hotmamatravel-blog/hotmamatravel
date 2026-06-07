@@ -12,7 +12,7 @@ wpSlug: "something-broke"
 author: "Amanda Keeley-Thurman"
 ---
 
-** [![OH NO](https://hotmamatravel.com/wp-content/uploads/2015/08/IMG_2358-e1439598687175-1024x681.jpg)](/something-broke/)      I'm sorry! You've found a broken link or requested a page          that is no longer available. **
+** [![OH NO](/images/IMG_2358-e1439598687175-1024x681.jpg)](/something-broke/)      I'm sorry! You've found a broken link or requested a page          that is no longer available. **
 **         But there is good news!**
 
 **         You can go back to the [Home Page](/) and start over.**

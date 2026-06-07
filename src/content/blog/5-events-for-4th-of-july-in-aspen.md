@@ -28,7 +28,7 @@ And it's not just about the parade. [The Old Fashioned 4th of July Celebration](
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7515a0ee"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="ajax-taven-aspen-colorado">[![](https://hotmamatravel.com/wp-content/uploads/2023/06/ajax-taven-aspen-colorado.jpg)](/wp-content/uploads/2023/06/ajax-taven-aspen-colorado.jpg)</figure>
+<figure id="ajax-taven-aspen-colorado">[![](/images/ajax-taven-aspen-colorado.jpg)](/images/ajax-taven-aspen-colorado.jpg)</figure>
 
 #### [A Feast for the Senses at Ajax Tavern](/go/ajax-tavern-aspen-co/)
 
@@ -45,7 +45,7 @@ But the real showstopper here is the view. Located at the base of Aspen Mountain
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-db45525b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="wet-deck-w-aspen-colorado">[![](https://hotmamatravel.com/wp-content/uploads/2023/06/wet-deck-w-aspen-colorado.jpg)](/wp-content/uploads/2023/06/wet-deck-w-aspen-colorado.jpg)</figure>
+<figure id="wet-deck-w-aspen-colorado">[![](/images/wet-deck-w-aspen-colorado.jpg)](/images/wet-deck-w-aspen-colorado.jpg)</figure>
 
 #### [Soak in the Scenery at WET Deck](/go/wet-deck-w-aspen-colorado/)
 
@@ -60,7 +60,7 @@ Fancy a dip? The rooftop pool beckons, its crystal-clear waters mirroring the az
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-cf61830b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="prospect-hotel-jerome-aspen-colorado">[![](https://hotmamatravel.com/wp-content/uploads/2023/06/prospect-hotel-jerome-aspen-colorado.jpg)](/wp-content/uploads/2023/06/prospect-hotel-jerome-aspen-colorado.jpg)</figure>
+<figure id="prospect-hotel-jerome-aspen-colorado">[![](/images/prospect-hotel-jerome-aspen-colorado.jpg)](/images/prospect-hotel-jerome-aspen-colorado.jpg)</figure>
 
 #### [A Taste of Tradition at Prospect at Hotel Jerome](/go/prospect-hotel-jerome-aspen-colorado/)
 
@@ -75,7 +75,7 @@ As you sit under the starlit Aspen sky in the spacious courtyard, surrounded by 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-437c46a9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="benedict-music-tent-aspen-colorado">[![](https://hotmamatravel.com/wp-content/uploads/2023/06/benedict-music-tent-aspen-colorado.jpg)](/wp-content/uploads/2023/06/benedict-music-tent-aspen-colorado.jpg)</figure>
+<figure id="benedict-music-tent-aspen-colorado">[![](/images/benedict-music-tent-aspen-colorado.jpg)](/images/benedict-music-tent-aspen-colorado.jpg)</figure>
 
 #### [A Symphony of Sounds at the Fourth of July Concert Benedict Music
 Tent](/go/benedict-music-tent-aspen-colorado/)

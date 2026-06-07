@@ -19,7 +19,7 @@ As a couple, we’ve been visiting Idyllwild since 2003, and it quickly became o
 
 ***Us in 2010 on our last trip to Idyllwild, as just a couple. A babymoon, as you could say. Little Keeley would be joining the family in a few short months.***
 
-<div class="wp-block-uagb-image uagb-block-71663c90 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Fireside Idyllwild Romantic Getaway ](https://hotmamatravel.com/wp-content/uploads/2017/01/Fireside-Idyllwild-Couples-Retreat-.jpg)](/wp-content/uploads/2017/01/Fireside-Idyllwild-Couples-Retreat-.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-71663c90 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Fireside Idyllwild Romantic Getaway ](/images/Fireside-Idyllwild-Couples-Retreat-.jpg)](/images/Fireside-Idyllwild-Couples-Retreat-.jpg)</figure></div>
 
 <div class="wp-block-ugb-heading ugb-heading ugb-19454ab ugb-main-block"><style>.ugb-19454ab .ugb-heading__title{text-align:center}.ugb-19454ab .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-19454ab .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
@@ -179,5 +179,5 @@ Like it? Pin it!
 
 <figure data-essb-pin-description="Cozy cabins, roaring fireplaces, and family-friendly fun await at Fireside Inn in Idyllwild! 🌲✨ Perfect for mountain getaways with kids, full kitchens, private patios, and plenty of space to make memories. Discover why this charming retreat is a family favorite! 🏡❤️
 
-#IdyllwildCabins #FamilyTravelCalifornia #KidFriendlyGetaways #MountainRetreat #FiresideInnIdyllwild #FamilyVacationIdeas #CaliforniaTravel #CozyCabins #TravelWithKids #IdyllwildAdventures">[![Fireside Inn Idyllwild Review](https://hotmamatravel.com/wp-content/uploads/2017/01/Fireside-Inn-Idyllwild-Family-Review-200x300.jpg)](/images/Fireside-Inn-Idyllwild-Family-Review.jpg)</figure>
+#IdyllwildCabins #FamilyTravelCalifornia #KidFriendlyGetaways #MountainRetreat #FiresideInnIdyllwild #FamilyVacationIdeas #CaliforniaTravel #CozyCabins #TravelWithKids #IdyllwildAdventures">[![Fireside Inn Idyllwild Review](/images/Fireside-Inn-Idyllwild-Family-Review-200x300.jpg)](/images/Fireside-Inn-Idyllwild-Family-Review.jpg)</figure>
 </div></div>

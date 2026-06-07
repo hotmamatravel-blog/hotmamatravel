@@ -54,7 +54,7 @@ In fact, the lack of your ability to drink and gamble all night will actually fo
 
 When we go to Las Vegas, we always stay at a big hotel on the Vegas Strip and rarely venture far from the strip (except that one time we drove several stressful miles searching for a grocery store for baby formula!). Here are some hotels to consider on the Vegas Strip with special prenatal pregnancy massages for expecting mothers.
 
-<figure id="serenity-spa-westgate-las-vegas-spa-prenatal-massage">[![Serenity Spa at The Westgate Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/serenity-spa-westgate-las-vegas-spa-prenatal-massage.jpg)](/wp-content/uploads/2023/02/serenity-spa-westgate-las-vegas-spa-prenatal-massage.jpg)</figure>
+<figure id="serenity-spa-westgate-las-vegas-spa-prenatal-massage">[![Serenity Spa at The Westgate Las Vegas](/images/serenity-spa-westgate-las-vegas-spa-prenatal-massage.jpg)](/images/serenity-spa-westgate-las-vegas-spa-prenatal-massage.jpg)</figure>
 
 ### [Serenity Spa at The Westgate Las Vegas](/go/spa-westgate-las-vegas/)
 
@@ -66,7 +66,7 @@ This 50-minute prenatal massage at [Westgate](https://www.westgateresorts.com/ho
 
 [**See photos, reviews &amp; more**](/go/spa-westgate-las-vegas/)
 
-<figure id="bellagio-spa-las-vegas-spa-prenatal-massage">[![Expecting Mother Massage Bellagio Spa](https://hotmamatravel.com/wp-content/uploads/2023/02/bellagio-spa-las-vegas-spa-prenatal-massage.jpg)](/wp-content/uploads/2023/02/bellagio-spa-las-vegas-spa-prenatal-massage.jpg)</figure>
+<figure id="bellagio-spa-las-vegas-spa-prenatal-massage">[![Expecting Mother Massage Bellagio Spa](/images/bellagio-spa-las-vegas-spa-prenatal-massage.jpg)](/images/bellagio-spa-las-vegas-spa-prenatal-massage.jpg)</figure>
 
 ### **[Bellagio Spa](/go/bellagio-spa-las-vegas/)**
 
@@ -78,7 +78,7 @@ This 50 or 80 minute massage is similar to the pregnancy massage offered at Mira
 
 [**See photos, reviews &amp; more**](/go/bellagio-spa-las-vegas/)
 
-<figure id="four-seasons-spa-las-vegas-spa-prenatal-massage">[![Babymoon Massage at Four Seasons Spa Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/four-seasons-spa-las-vegas-spa-prenatal-massage.jpg)](/wp-content/uploads/2023/02/four-seasons-spa-las-vegas-spa-prenatal-massage.jpg)</figure>
+<figure id="four-seasons-spa-las-vegas-spa-prenatal-massage">[![Babymoon Massage at Four Seasons Spa Las Vegas](/images/four-seasons-spa-las-vegas-spa-prenatal-massage.jpg)](/images/four-seasons-spa-las-vegas-spa-prenatal-massage.jpg)</figure>
 
 ### **[Four Seasons Spa](/go/four-seasons-spa-las-vegas/)**
 
@@ -98,7 +98,7 @@ The Four Seasons is connected to the [Mandalay Bay hotel](https://mandalaybay.mg
 
 Relaxing by the pool is a Las Vegas Maternity itinerary. One of the best things to do in Las Vegas when pregnant is float. Most big hotels on the Vegas strip have at least a decent pool, but there are a few that really step it up a notch and stand out for the amazing resort-style pool experience for enjoying your Las Vegas babymoon. Here are my favorite [**Vegas pools for families**](/best-family-pools-in-vegas/) and expecting mothers.
 
-<figure id="mandalay-bay-lazy-river-things-to-do-in-vegas-pregnant">[![Mandalay Beach at Mandalay Bay Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/mandalay-bay-lazy-river-things-to-do-in-vegas-pregnant.jpg)](/wp-content/uploads/2023/02/mandalay-bay-lazy-river-things-to-do-in-vegas-pregnant.jpg)</figure>
+<figure id="mandalay-bay-lazy-river-things-to-do-in-vegas-pregnant">[![Mandalay Beach at Mandalay Bay Las Vegas](/images/mandalay-bay-lazy-river-things-to-do-in-vegas-pregnant.jpg)](/images/mandalay-bay-lazy-river-things-to-do-in-vegas-pregnant.jpg)</figure>
 
 ### **[Mandalay Beach at the Mandalay Bay](/go/mandalay-las-vegas-expedia/)**
 
@@ -108,7 +108,7 @@ The Mandalay Beach Pool is just as the name implies – it is a beach with real 
 
 [**See photos, reviews &amp; more**](/go/mandalay-las-vegas-expedia/)
 
-<figure id="Caesars-palace-pool-things-to-do-in-vegas-pregnant-(1)">[![Pregnant In Las Vegas Poolside](https://hotmamatravel.com/wp-content/uploads/2023/02/Caesars-palace-pool-things-to-do-in-vegas-pregnant-1.jpg)](/wp-content/uploads/2023/02/Caesars-palace-pool-things-to-do-in-vegas-pregnant-1.jpg)</figure>
+<figure id="Caesars-palace-pool-things-to-do-in-vegas-pregnant-(1)">[![Pregnant In Las Vegas Poolside](/images/Caesars-palace-pool-things-to-do-in-vegas-pregnant-1.jpg)](/images/Caesars-palace-pool-things-to-do-in-vegas-pregnant-1.jpg)</figure>
 
 ### **[Garden of the Gods at Caesar’s Palace](/go/caesars-palace-las-vegas-expedia/)**
 
@@ -118,7 +118,7 @@ The pool at [Caesar’s Palace](https://www.caesars.com/caesars-palace) is not m
 
 [**See photos, reviews &amp; more**](/go/caesars-palace-las-vegas-expedia/)
 
-<figure id="venetian-pool-things-to-do-in-vegas-pregnant">[![Venetian Pool Pregnant Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/02/venetian-pool-things-to-do-in-vegas-pregnant.jpg)](/wp-content/uploads/2023/02/venetian-pool-things-to-do-in-vegas-pregnant.jpg)</figure>
+<figure id="venetian-pool-things-to-do-in-vegas-pregnant">[![Venetian Pool Pregnant Las Vegas](/images/venetian-pool-things-to-do-in-vegas-pregnant.jpg)](/images/venetian-pool-things-to-do-in-vegas-pregnant.jpg)</figure>
 
 ### **[The Venetian Pool at Venetian](/go/venetian-las-vegas-expedia/)**
 
@@ -128,7 +128,7 @@ The [Venetian](https://www.venetianlasvegas.com/) is a large rectangular pool wi
 
 [**See photos, reviews &amp; more**](/go/venetian-las-vegas-expedia/)
 
-<figure id="NY-NY-pool-things-to-do-in-vegas-pregnant">[![New York New York Las Vegas Pool Pregnant](https://hotmamatravel.com/wp-content/uploads/2023/02/NY-NY-pool-things-to-do-in-vegas-pregnant.jpg)](/wp-content/uploads/2023/02/NY-NY-pool-things-to-do-in-vegas-pregnant.jpg)</figure>
+<figure id="NY-NY-pool-things-to-do-in-vegas-pregnant">[![New York New York Las Vegas Pool Pregnant](/images/NY-NY-pool-things-to-do-in-vegas-pregnant.jpg)](/images/NY-NY-pool-things-to-do-in-vegas-pregnant.jpg)</figure>
 
 #### [New York New York Pool](/go/nyny-las-vegas-expedia/)
 
@@ -146,7 +146,7 @@ This pool at [New York New York](https://newyorknewyork.mgmresorts.com/en.html) 
 
 Catching a show is the perfect way to spend the evening pregnant in Las Vegas. There are so many great shows to choose from in Vegas, but we always tend to gravitate toward Cirque Du Soleil shows with intense acrobatics, interesting storytelling, and heart-pounding music and theatrics. It seems that every major hotel on the strip has its own Cirque-style show, and for good reason. These shows are spectacular and super popular, and will give you hours of interesting conversation afterwards. For a complete list of our favorite shows in Las Vegas, check our list of [**Las Vegas Shows for Families**](/las-vegas-shows-for-kids/), [**Best Cirque du Soleil Shows in Las Vegas**](/best-cirque-du-soleil-shows-in-vegas-for-families/), and [**Las Vegas Dinner and Show Packages**](/las-vegas-dinner-and-show-packages/).
 
-<figure id="KA-Things-to-in-Las-Vegas-Pregnant">[![O at Bellagio Cirque du Soleil Shows Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/03/O-Cirque-du-soleil-las-vegas-show.jpg)](/wp-content/uploads/2023/03/O-Cirque-du-soleil-las-vegas-show.jpg)<figcaption class="wp-element-caption">Courtesy of Vegas.com</figcaption></figure>
+<figure id="KA-Things-to-in-Las-Vegas-Pregnant">[![O at Bellagio Cirque du Soleil Shows Las Vegas](/images/O-Cirque-du-soleil-las-vegas-show.jpg)](/images/O-Cirque-du-soleil-las-vegas-show.jpg)<figcaption class="wp-element-caption">Courtesy of Vegas.com</figcaption></figure>
 
 ### **["O" At Bellagio](/go/o-cirque-du-soleil-bellagio/)**
 
@@ -156,7 +156,7 @@ Catching a show is the perfect way to spend the evening pregnant in Las Vegas. T
 
 [**See photos, reviews &amp; more**](/go/o-cirque-du-soleil-bellagio/)
 
-<figure id="KA-Things-to-in-Las-Vegas-Pregnant">[![Ka at MGM Grand Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/03/KA-Things-to-in-Las-Vegas-Pregnant.jpg)](/wp-content/uploads/2023/03/KA-Things-to-in-Las-Vegas-Pregnant.jpg)<figcaption class="wp-element-caption">Courtesy of Vegas.com</figcaption></figure>
+<figure id="KA-Things-to-in-Las-Vegas-Pregnant">[![Ka at MGM Grand Las Vegas](/images/KA-Things-to-in-Las-Vegas-Pregnant.jpg)](/images/KA-Things-to-in-Las-Vegas-Pregnant.jpg)<figcaption class="wp-element-caption">Courtesy of Vegas.com</figcaption></figure>
 
 ### **[KA at MGM Grand](/go/ka-las-vegas-bov/)**
 
@@ -194,7 +194,7 @@ The show's storyline is told through a series of vignettes, each of which explor
 
 There are lots of places to shop in Vegas pregnant, but here we will focus on my favorite hotels on the Vegas strip with major shopping areas.
 
-<figure id="Shops-Crystals-Things-to-in-Las-Vegas-Pregnant">[![Shops at Crystals Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/03/Shops-Crystals-Things-to-in-Las-Vegas-Pregnant.jpg)](/wp-content/uploads/2023/03/Shops-Crystals-Things-to-in-Las-Vegas-Pregnant.jpg)<figcaption class="wp-element-caption">Courtesy of Shops at Crystals</figcaption></figure>
+<figure id="Shops-Crystals-Things-to-in-Las-Vegas-Pregnant">[![Shops at Crystals Las Vegas](/images/Shops-Crystals-Things-to-in-Las-Vegas-Pregnant.jpg)](/images/Shops-Crystals-Things-to-in-Las-Vegas-Pregnant.jpg)<figcaption class="wp-element-caption">Courtesy of Shops at Crystals</figcaption></figure>
 
 ### [Shops at Crystals](/go/shops-crystals-aria/)
 
@@ -204,7 +204,7 @@ The Shops at Crystals is a glamorous collection of the finest luxury brands in t
 
 [**See photos, reviews &amp; more**](/go/shops-crystals-aria/)
 
-<figure id="le-boulevard-at-paris-shopping-las-vegas">[![Paris Las Vegas Hotel for Families](https://hotmamatravel.com/wp-content/uploads/2018/03/Paris-Hotel-family-friendly-vegas-hotel-review.jpg)](/wp-content/uploads/2018/03/Paris-Hotel-family-friendly-vegas-hotel-review.jpg)</figure>
+<figure id="le-boulevard-at-paris-shopping-las-vegas">[![Paris Las Vegas Hotel for Families](/images/Paris-Hotel-family-friendly-vegas-hotel-review.jpg)](/images/Paris-Hotel-family-friendly-vegas-hotel-review.jpg)</figure>
 
 ### **[Le Boulevard at Paris](/go/paris-las-vegas-expedia/)**
 
@@ -214,7 +214,7 @@ I love, love, love the French style of the cobblestone streets and boutique shop
 
 [**See photos, reviews &amp; more**](/go/paris-las-vegas-expedia/)
 
-<figure id="forum-shoppes-caesars-palace">[![The forum Shjops at Caesars Palace Vegas](https://hotmamatravel.com/wp-content/uploads/2017/07/Caesars-palace-forum-shoppes-entrance.png)](/wp-content/uploads/2017/07/Caesars-palace-forum-shoppes-entrance.png)</figure>
+<figure id="forum-shoppes-caesars-palace">[![The forum Shjops at Caesars Palace Vegas](/images/Caesars-palace-forum-shoppes-entrance.png)](/images/Caesars-palace-forum-shoppes-entrance.png)</figure>
 
 ### **[Forum Shops at Caesar’s Palace](/go/caesars-palace-las-vegas-expedia/)**
 
@@ -224,7 +224,7 @@ The sky is always blue and the weather perfect as you stroll through the Italian
 
 [**See photos, reviews &amp; more**](/go/caesars-palace-las-vegas-expedia/)
 
-<figure id="mandalay-bay-shopping-las-vegas">[![Family Hotel Mandalay Bay Las Vegas](https://hotmamatravel.com/wp-content/uploads/2018/03/Mandalay-family-vegas-hotel-review.jpg)](/wp-content/uploads/2018/03/Mandalay-family-vegas-hotel-review.jpg)</figure>
+<figure id="mandalay-bay-shopping-las-vegas">[![Family Hotel Mandalay Bay Las Vegas](/images/Mandalay-family-vegas-hotel-review.jpg)](/images/Mandalay-family-vegas-hotel-review.jpg)</figure>
 
 ### **[The Shoppes at Mandalay Place](/go/mandalay-las-vegas-expedia/)**
 
@@ -234,7 +234,7 @@ The Mandalay Bay property is huge, and it stands to reason that they would have 
 
 [**See photos, reviews &amp; more**](/go/mandalay-las-vegas-expedia/)
 
-<figure id="venetian-grand-canal-las-vegas">[![Grand Canal Shops at Venetian](https://hotmamatravel.com/wp-content/uploads/2022/08/venetian-grand-canal-las-vegas.jpg)](/wp-content/uploads/2022/08/venetian-grand-canal-las-vegas.jpg)</figure>
+<figure id="venetian-grand-canal-las-vegas">[![Grand Canal Shops at Venetian](/images/venetian-grand-canal-las-vegas.jpg)](/images/venetian-grand-canal-las-vegas.jpg)</figure>
 
 ### **[Grand Canal Shops at Venetian](/go/venetian-las-vegas-expedia/)**
 
@@ -280,5 +280,5 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 Like it? Pin it!
 
-<figure id="best-guide-for-being-pregnant-in-las-vegas">[![](https://hotmamatravel.com/wp-content/uploads/2024/01/best-guide-for-being-pregnant-in-las-vegas-200x300.jpg)](/images/best-guide-for-being-pregnant-in-las-vegas.jpg)</figure>
+<figure id="best-guide-for-being-pregnant-in-las-vegas">[![](/images/best-guide-for-being-pregnant-in-las-vegas-200x300.jpg)](/images/best-guide-for-being-pregnant-in-las-vegas.jpg)</figure>
 </div></div>

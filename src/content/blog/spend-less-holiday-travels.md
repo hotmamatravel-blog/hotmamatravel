@@ -14,7 +14,7 @@ author: "Amanda Keeley-Thurman"
 
 We’re in the thick of the holiday season, which means you’re likely running around getting gifts for everyone on your list, packing your suitcase to head out to see your family, and hitting up [crowded airports](/flying-with-kids/). It’s easy to find yourself spending much more than anticipated during the holiday months, especially when it comes to travel costs. Use these[travel tips](/10-tips-for-overseas-travel/) to make your holiday travel easy and inexpensive.
 
-[![Busy Airports during the holidays](https://hotmamatravel.com/wp-content/uploads/2017/12/Airport-1.jpg)](/spend-less-holiday-travels/)
+[![Busy Airports during the holidays](/images/Airport-1.jpg)](/spend-less-holiday-travels/)
 
 ## **
 
@@ -52,10 +52,10 @@ Depending on your family’s plans, flying on an actual holiday can save you big
 
 Don’t buy food at the airport. So long as you don’t bring liquids (who brings soup on a plane ride anyway?), all of your favorite snacks are fair game. Buying snacks on the flight itself is a no-go—spending 10 dollars on a small bag of nuts and slice of cheese is a surefire way to go over budget on your travels. Bringing your own snacks aboard the flight will help you save a significant chunk of change.
 
-[![Holiday flying tips](https://hotmamatravel.com/wp-content/uploads/2017/12/Lady-at-airport-1.jpg)](/spend-less-holiday-travels/)
+[![Holiday flying tips](/images/Lady-at-airport-1.jpg)](/spend-less-holiday-travels/)
 
 Before your holiday travel kicks off, be sure to consider the ways these strategies can save you money. Focus on the joy of spending time with loved ones, and spend less time stressing about the costs of your holiday plans.
 
 **Like it? Pin it! **
 
-[![Spend less on holiday travels](https://hotmamatravel.com/wp-content/uploads/2017/12/Spend-less-holiday-travels-1.png)](/spend-less-holiday-travels/) Click for tips on how to spend less during your holiday travels. #traveltips
+[![Spend less on holiday travels](/images/Spend-less-holiday-travels-1.png)](/spend-less-holiday-travels/) Click for tips on how to spend less during your holiday travels. #traveltips

@@ -30,7 +30,7 @@ I’ve always been told stories of various family members’ services to our cou
 
  I have always been told I had a grandpa that served in the Civil War. I heard he died as a prisoner of war, but didn’t have his name or the name of the prison. These were gaps in my personal history that I have been hungry for years to discover. Well, now I have! Thanks to a friend of my dad, his hobby is to research ancestry and he started to see what he could find out about my dad’s side. Within a day, I had the information I have wanted to know all my life. I learned that it was my Great-Great-Great Grandpa who fought in the Civil War for the Union. He was about 37 years old when he joined the 13th Pennsylvania Cavalry also known as the Irish Dragoons. Sadly, he was wounded in battle and taken as a prisoner of war where he died of Scorbutus (scurvy) in 1864.
 
-[![Memorial Day ](https://hotmamatravel.com/wp-content/uploads/2016/05/13th-pen.png)](/how-memorial-day-inspired-family-travel/) **13th Pennsylvania Cavalry Flag**
+[![Memorial Day ](/images/13th-pen.png)](/how-memorial-day-inspired-family-travel/) **13th Pennsylvania Cavalry Flag**
 
 I finally had a name and the name of the prison. His name was William and he died at Andersonville. I learned that my Great-Great Grandpa (Sam) was only 13 years old when his father died in the war. Interestingly, William’s best friend, also a Union soldier, ended up marrying his widow, my Great-Great-Great Grandma Elizabeth.
 
@@ -42,7 +42,7 @@ I have a location as well as where his tombstone rest, and now I know where I wa
 
 This summer, I will be taking my family to Andersonville, Georgia as part of our **[#HotMamaDoesAmerica](/family-road-trip-across-us/)** epic family road trip.&nbsp; We will actually get to visit the grave of my fallen Great-Great-Great Grandpa William, a Union Soldier in the Civil War. Wow. Even saying that is a trip! I want us to take a photo by the gravestone that bares my surname; the name I have given to my daughter as a first name. I have been to many old graveyards and read the names of old tombstones, but never have I had a connection like this. What a moment it will be for my family; for my dad!
 
-[![ Memorial Day ](https://hotmamatravel.com/wp-content/uploads/2016/05/Grave.jpg)](/how-memorial-day-inspired-family-travel/) **My Grandpa William's Grave**
+[![ Memorial Day ](/images/Grave.jpg)](/how-memorial-day-inspired-family-travel/) **My Grandpa William's Grave**
 
 ### **For the kids:**
 
@@ -60,4 +60,4 @@ Memorial Day is not about backyard barbecues and getting turned-up. It is about 
 
 **Like it? Pin it!**
 
-[![Memorial Day ](https://hotmamatravel.com/wp-content/uploads/2016/05/Memorial-Day-683x1024.jpg)](/how-memorial-day-inspired-family-travel/)
+[![Memorial Day ](/images/Memorial-Day-683x1024.jpg)](/how-memorial-day-inspired-family-travel/)

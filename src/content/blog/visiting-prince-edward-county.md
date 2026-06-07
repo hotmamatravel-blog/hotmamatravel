@@ -71,5 +71,5 @@ Visiting Prince Edward County is a great opportunity to relax while still enjoyi
 
 Like it? Pin it!
 
-<figure id="4-things-to-know-before-visting-prince-edward-county">[![](https://hotmamatravel.com/wp-content/uploads/2023/10/4-things-to-know-before-visting-prince-edward-county-200x300.jpg)](/images/4-things-to-know-before-visting-prince-edward-county.jpg)</figure>
+<figure id="4-things-to-know-before-visting-prince-edward-county">[![](/images/4-things-to-know-before-visting-prince-edward-county-200x300.jpg)](/images/4-things-to-know-before-visting-prince-edward-county.jpg)</figure>
 </div></div>

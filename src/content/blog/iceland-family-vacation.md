@@ -17,7 +17,7 @@ Consider Iceland when searching for the best place to visit as a family. This co
 Iceland has many exciting activities for both adults and kids, such as hiking, whale watching, waterfalls, and the famous Vikings, all of which can be fully experienced through various [tours in Iceland](https://guidetoiceland.is/book-trips-holiday). Here is a small list of some of the best things to do in Iceland as a family.
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bafa022e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="blue-lagoon-iceland">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/Blue-Lagoon-Iceland.jpg)](/wp-content/uploads/2022/07/Blue-Lagoon-Iceland.jpg)</figure>
+<figure id="blue-lagoon-iceland">[![](/images/Blue-Lagoon-Iceland.jpg)](/images/Blue-Lagoon-Iceland.jpg)</figure>
 
 #### The Blue Lagoon
 
@@ -28,7 +28,7 @@ The Blue Lagoon is probably one of the most popular places in Iceland, and for a
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-851facd8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="viking-saga-museum-iceland">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/Viking-Icleand.jpg)](/wp-content/uploads/2022/07/Viking-Icleand.jpg)</figure>
+<figure id="viking-saga-museum-iceland">[![](/images/Viking-Icleand.jpg)](/images/Viking-Icleand.jpg)</figure>
 
 #### Learn about Vikings
 
@@ -39,7 +39,7 @@ Viking culture is one of the most exciting things to learn about in Iceland, esp
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c47d0b3c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="tour-iceland-waterfalls-kirkjufell">[![](https://hotmamatravel.com/wp-content/uploads/2024/01/tour-iceland-waterfalls-kirkjufell.jpg)](/wp-content/uploads/2024/01/tour-iceland-waterfalls-kirkjufell.jpg)</figure>
+<figure id="tour-iceland-waterfalls-kirkjufell">[![](/images/tour-iceland-waterfalls-kirkjufell.jpg)](/images/tour-iceland-waterfalls-kirkjufell.jpg)</figure>
 
 #### Eye-catching waterfalls
 
@@ -50,7 +50,7 @@ There are countless waterfalls in Iceland. Waterfalls are a true natural wonder 
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d6e4e3ec"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="puffins-iceland-wildlife">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/Iceland-Puffins.jpg)](/wp-content/uploads/2022/07/Iceland-Puffins.jpg)</figure>
+<figure id="puffins-iceland-wildlife">[![](/images/Iceland-Puffins.jpg)](/images/Iceland-Puffins.jpg)</figure>
 
 #### Observe the wildlife
 
@@ -61,7 +61,7 @@ People, including children, are allowed on board the whale-watching wildlife tou
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-fab6e562"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="black-beaches-iceland">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/Black-beach-Iceland.jpg)](/wp-content/uploads/2022/07/Black-beach-Iceland.jpg)</figure>
+<figure id="black-beaches-iceland">[![](/images/Black-beach-Iceland.jpg)](/images/Black-beach-Iceland.jpg)</figure>
 
 #### Explore the black beaches
 
@@ -72,7 +72,7 @@ We all love a trip or vacation to the beach. Well, have you ever been to a black
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-82a280dd"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="family-hikes-iceland">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/iceland-family-hiking.jpg)](/wp-content/uploads/2022/07/iceland-family-hiking.jpg)</figure>
+<figure id="family-hikes-iceland">[![](/images/iceland-family-hiking.jpg)](/images/iceland-family-hiking.jpg)</figure>
 
 #### Family-friendly Hike
 
@@ -94,5 +94,5 @@ Iceland is a land full of breathtaking landscapes and Viking history, that you w
 
 **Like it? Pin it!**
 
-<figure id="must-do-see-things-iceland-family-vacation">[![](https://hotmamatravel.com/wp-content/uploads/2022/07/iceland-family-vacation-200x300.jpg)](/images/iceland-family-vacation.jpg)</figure>
+<figure id="must-do-see-things-iceland-family-vacation">[![](/images/iceland-family-vacation-200x300.jpg)](/images/iceland-family-vacation.jpg)</figure>
 </div></section>

@@ -25,7 +25,7 @@ Then once your little one arrives, come back here for our ultimate [guide to thi
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e93e877b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="amara-cay-resort-florida-keys-babymoon-resorts">[![babymoon florida keys at Bliss Cay Resort](https://hotmamatravel.com/wp-content/uploads/2023/04/amara-cay-resort-florida-keys-kid-friendly-resorts.jpg)](/wp-content/uploads/2023/04/amara-cay-resort-florida-keys-kid-friendly-resorts.jpg)</figure>
+<figure id="amara-cay-resort-florida-keys-babymoon-resorts">[![babymoon florida keys at Bliss Cay Resort](/images/amara-cay-resort-florida-keys-kid-friendly-resorts.jpg)](/images/amara-cay-resort-florida-keys-kid-friendly-resorts.jpg)</figure>
 
 #### [Babymoon Bliss Amara Cay Resort](/go/amara-cay-resort-islamorada-florida-keys/)
 
@@ -50,7 +50,7 @@ The Babymoon Bliss package includes:
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-02a87ac1"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="prenatal-massage-babymoon-florida-keys">[![prenatal massages babymoon florida keys](https://hotmamatravel.com/wp-content/uploads/2023/02/four-seasons-spa-las-vegas-spa-prenatal-massage.jpg)](/wp-content/uploads/2023/02/four-seasons-spa-las-vegas-spa-prenatal-massage.jpg)</figure>
+<figure id="prenatal-massage-babymoon-florida-keys">[![prenatal massages babymoon florida keys](/images/four-seasons-spa-las-vegas-spa-prenatal-massage.jpg)](/images/four-seasons-spa-las-vegas-spa-prenatal-massage.jpg)</figure>
 
 #### Relax at a Spa
 
@@ -61,7 +61,7 @@ For instance, at [Hawk's Cay Resort](/go/hawks-cay-resort-duck-key-florida-keys/
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4ed67261"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="little-palm-island-resort-spa-babymoon-florida-keys">[![babymoon florida key beach days](https://hotmamatravel.com/wp-content/uploads/2023/04/little-palm-island-resort-spa-florida-keys-kid-friendly-resorts-1.jpg)](/wp-content/uploads/2023/04/little-palm-island-resort-spa-florida-keys-kid-friendly-resorts-1.jpg)</figure>
+<figure id="little-palm-island-resort-spa-babymoon-florida-keys">[![babymoon florida key beach days](/images/little-palm-island-resort-spa-florida-keys-kid-friendly-resorts-1.jpg)](/images/little-palm-island-resort-spa-florida-keys-kid-friendly-resorts-1.jpg)</figure>
 
 #### Enjoy the Beach
 
@@ -72,7 +72,7 @@ The beach on little Palm Island is really nice and secluded. The resort, [Little
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4b0f0505"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="snorkeling-John-Pennekamp-Coral-Reef-State-Park-babymoon-florida-keys">[![snorkeling during babymoon in florida keys](https://hotmamatravel.com/wp-content/uploads/2023/04/snorkeling-John-Pennekamp-Coral-Reef-State-Park-babymoon-florida-keys.jpg)](/wp-content/uploads/2023/04/snorkeling-John-Pennekamp-Coral-Reef-State-Park-babymoon-florida-keys.jpg)</figure>
+<figure id="snorkeling-John-Pennekamp-Coral-Reef-State-Park-babymoon-florida-keys">[![snorkeling during babymoon in florida keys](/images/snorkeling-John-Pennekamp-Coral-Reef-State-Park-babymoon-florida-keys.jpg)](/images/snorkeling-John-Pennekamp-Coral-Reef-State-Park-babymoon-florida-keys.jpg)</figure>
 
 #### Go Snorkeling
 
@@ -83,7 +83,7 @@ Some popular snorkeling spots include [John Pennekamp Coral Reef State Park](/go
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-677f9061"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="sunset-cruise-babymoon-florida-keys">[![babymoon sunset cruise if florida keys](https://hotmamatravel.com/wp-content/uploads/2023/04/sunset-cruise-babymoon-florida-keys.jpg)](/wp-content/uploads/2023/04/sunset-cruise-babymoon-florida-keys.jpg)</figure>
+<figure id="sunset-cruise-babymoon-florida-keys">[![babymoon sunset cruise if florida keys](/images/sunset-cruise-babymoon-florida-keys.jpg)](/images/sunset-cruise-babymoon-florida-keys.jpg)</figure>
 
 #### [Take a Sunset Cruise](/go/sunset-cruise-florida-keys/)
 
@@ -98,7 +98,7 @@ A babymoon is a special time for couples to spend quality time together before t
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-72bbdda9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="things-to-do-key-west-florida">[![Family Travel Guide for things to do in Key West with kids](https://hotmamatravel.com/wp-content/uploads/2023/04/things-to-do-in-key-west-with-kids-1024x576.jpg)](/images/things-to-do-in-key-west-with-kids.jpg)</figure>
+<figure id="things-to-do-key-west-florida">[![Family Travel Guide for things to do in Key West with kids](/images/things-to-do-in-key-west-with-kids-1024x576.jpg)](/images/things-to-do-in-key-west-with-kids.jpg)</figure>
 
 #### [Visit Key West](/things-to-do-in-key-west-with-kids/)
 
@@ -156,5 +156,5 @@ Explore of what [Florida has offer for family travel](/florida-family-holidays/)
 
 **Like it? Pin it!**
 
-<figure id="planning-perfect-babymoon-florida-keys-">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/planning-perfect-babymoon-florida-keys--200x300.jpg)](/images/planning-perfect-babymoon-florida-keys-.jpg)</figure>
+<figure id="planning-perfect-babymoon-florida-keys-">[![](/images/planning-perfect-babymoon-florida-keys--200x300.jpg)](/images/planning-perfect-babymoon-florida-keys-.jpg)</figure>
 </div></section>

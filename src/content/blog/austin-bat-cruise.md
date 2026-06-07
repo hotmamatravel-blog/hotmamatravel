@@ -25,7 +25,7 @@ That’s a lot of bats and it is no wonder that locals were apprehensive about t
 
 Since then there has been a strong movement for Austin bat conservation as the bats actually control the overwhelming insect population in the city. I was told during our Austin bat tour that without the bats that people would be eaten alive by bugs. So thanks to a little research, not only are the bats no longer feared, but they are celebrated and revered. And thankfully, Austin bat watching has become a major attraction.
 
-[![Watching the Austin Bats on a sunset river cruise](https://hotmamatravel.com/wp-content/uploads/2018/01/BATS.jpg)](/austin-bat-cruise/)
+[![Watching the Austin Bats on a sunset river cruise](/images/BATS.jpg)](/austin-bat-cruise/)
 
 ## **
 
@@ -41,7 +41,7 @@ April through May the mama bats are pregnant and hungry. Although the population
 
 June is when all the mamas give birth. The babies aren't ready to fly until about mid-August, making this peak Austin bat season. So if you want to see all 1.5 million of these bats soaring over head, visit in August. That’s when we visited and it was a truly amazing sight!!
 
-[![Austin Bats come out at sunset in Austin Texas](https://hotmamatravel.com/wp-content/uploads/2018/01/SUNSET.jpg)](/austin-bat-cruise/)
+[![Austin Bats come out at sunset in Austin Texas](/images/SUNSET.jpg)](/austin-bat-cruise/)
 
 ## **
 
@@ -49,7 +49,7 @@ June is when all the mamas give birth. The babies aren't ready to fly until abou
 
 So what time do the Austin bats come out? Well, there are no specific Austin bat flight times as they are wild animals. They will come out when they want to. However, there is a general time of day that is best for Austin bat watching. Generally, the bats leave South Congress Bridge around sunset. Sunset during the summer in Austin, Texas is later in the evening than one might expect. Bats can take flight anytime between 7:00pm and 8:45 and many Austin cruise tours don’t start until 7:00pm and hangout in the water into the night to ensure that the guests see the bats take flight. It can be a waiting game, but the views on the river are so lovely at sunset you won’t be in a rush to leave.
 
-[![Seeing the South Congress Bridge Bats was a huge highlight for the kids](https://hotmamatravel.com/wp-content/uploads/2018/01/KIDS-BATS.jpg)](/austin-bat-cruise/)
+[![Seeing the South Congress Bridge Bats was a huge highlight for the kids](/images/KIDS-BATS.jpg)](/austin-bat-cruise/)
 
 ## **
 
@@ -61,7 +61,7 @@ We booked an Austin sunset cruise with Lone Star Cruise Austin. An hour tour was
 
 Another Austin bat cruise experience is through [Capital Cruises](http://www.capitalcruises.com/bat-watching/). What is cool about this company is that they offer different packages. You can take the standard Austin bat watching cruise or you can upgrade to a private Austin dinner cruise.
 
-[![Lone Star Austin Bat Cruise-HotMamatravel- A must-see attraction when traveling to Austin with kids.](https://hotmamatravel.com/wp-content/uploads/2018/01/LONESTAR.jpg)](/austin-bat-cruise/)
+[![Lone Star Austin Bat Cruise-HotMamatravel- A must-see attraction when traveling to Austin with kids.](/images/LONESTAR.jpg)](/austin-bat-cruise/)
 
 ## **
 
@@ -79,4 +79,4 @@ All of us enjoyed watching the bats, but the kids really got a kick out of the A
 
 **Like it? Pin it!**
 
-[![Austin Bat Cruise: A must see when visiting Austin, Texas with kids. ](https://hotmamatravel.com/wp-content/uploads/2018/01/BATS-PIN.png)](/austin-bat-cruise/)
+[![Austin Bat Cruise: A must see when visiting Austin, Texas with kids. ](/images/BATS-PIN.png)](/austin-bat-cruise/)

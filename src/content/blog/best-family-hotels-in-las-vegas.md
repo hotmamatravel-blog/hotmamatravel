@@ -42,7 +42,7 @@ View this post as a Google Web Story: [**Best Hotels in Las Vegas for Families**
 
 <div class="ugb-heading__bottom-line"></div></div></div></div>
 
-<figure id="NYNY-kid-friendly-vegas-hotel-review">[![New York New York Vegas Hotel with Kids](https://hotmamatravel.com/wp-content/uploads/2018/03/NYNY-kid-friendly-vegas-hotel-review.jpg)](/wp-content/uploads/2018/03/NYNY-kid-friendly-vegas-hotel-review.jpg)</figure>
+<figure id="NYNY-kid-friendly-vegas-hotel-review">[![New York New York Vegas Hotel with Kids](/images/NYNY-kid-friendly-vegas-hotel-review.jpg)](/images/NYNY-kid-friendly-vegas-hotel-review.jpg)</figure>
 
 ### [NYNY Family Hotel Review](/go/nyny-hotel-las-vegas/)
 
@@ -164,7 +164,7 @@ No, NYNY Hotel does not have the best pool or the best kid-friendly Vegas shows.
 
 [**See photos, reviews &amp; more**](/go/nyny-hotel-las-vegas/)
 
-<figure id="MGM-Grand-Kid-friendly-vegas-hotel-review">[![MGM Las Vegas Kid Friendly Hotel](https://hotmamatravel.com/wp-content/uploads/2018/03/MGM-Grand-Kid-friendly-vegas-hotel-review.jpg)](/wp-content/uploads/2018/03/MGM-Grand-Kid-friendly-vegas-hotel-review.jpg)</figure>
+<figure id="MGM-Grand-Kid-friendly-vegas-hotel-review">[![MGM Las Vegas Kid Friendly Hotel](/images/MGM-Grand-Kid-friendly-vegas-hotel-review.jpg)](/images/MGM-Grand-Kid-friendly-vegas-hotel-review.jpg)</figure>
 
 ### [MGM Grand Family Hotel Review](/go/mgm-grand-hotel-las-vegas/)
 
@@ -276,7 +276,7 @@ MGM offers a grand experience, no pun intended, with a truly eclectic mix of res
 
 **[See photos, reviews &amp; more](/go/mgm-grand-hotel-las-vegas/)**
 
-<figure>[![Family Hotel Mandalay Bay Las Vegas](https://hotmamatravel.com/wp-content/uploads/2018/03/Mandalay-family-vegas-hotel-review.jpg)](/wp-content/uploads/2018/03/Mandalay-family-vegas-hotel-review.jpg)</figure>
+<figure>[![Family Hotel Mandalay Bay Las Vegas](/images/Mandalay-family-vegas-hotel-review.jpg)](/images/Mandalay-family-vegas-hotel-review.jpg)</figure>
 
 ### [Mandalay Bay Family Hotel Review](/go/mandalay-bay-hotel-las-vegas/)
 
@@ -382,7 +382,7 @@ Mandalay Bay is the most luxurious among the best family hotels in Vegas, with b
 
 [**See photos, reviews &amp; more**](/go/mandalay-bay-hotel-las-vegas/)
 
-<figure id="Luxor-Family-Hotel-Las-Vegas-Hotel-review">[![Luxor Las Vegas family hotel](https://hotmamatravel.com/wp-content/uploads/2018/03/Luxor-Family-Hotel-Las-Vegas-Hotel-review.jpg)](/wp-content/uploads/2018/03/Luxor-Family-Hotel-Las-Vegas-Hotel-review.jpg)</figure>
+<figure id="Luxor-Family-Hotel-Las-Vegas-Hotel-review">[![Luxor Las Vegas family hotel](/images/Luxor-Family-Hotel-Las-Vegas-Hotel-review.jpg)](/images/Luxor-Family-Hotel-Las-Vegas-Hotel-review.jpg)</figure>
 
 ### [Luxor Family Hotel Review](/go/the-luxor-hotel-las-vegas/)
 
@@ -484,7 +484,7 @@ The location is at the southern end of the Strip near other family-friendly Vega
 
 [**See photos, reviews &amp; more**](/go/luxor-las-vegas-expedia/)
 
-<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Excalibur best family hotels in las vegas](https://hotmamatravel.com/wp-content/uploads/2024/02/family-restaurants-excalibur-vegas.jpg)](/wp-content/uploads/2024/02/family-restaurants-excalibur-vegas.jpg)</figure></div>
+<div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure>[![Excalibur best family hotels in las vegas](/images/family-restaurants-excalibur-vegas.jpg)](/images/family-restaurants-excalibur-vegas.jpg)</figure></div>
 
 ### [Excalibur Family Hotel Review](/go/excalibur-hotel-las-vegas/)
 
@@ -592,6 +592,6 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 **Like it? Pin it!**
 
-<figure id="best-kid-friendly-hotels-in-las-vegas" data-essb-pin-description="The BEST family hotels in Las Vegas (yes, they exist 🎰👨‍👩‍👧‍👦). From lazy rivers and suites to kid-friendly locations and budget picks, this guide breaks down where families should actually stay in Vegas. Save this before you book. BestFamilyHotelsLasVegas #LasVegasWithKids #VegasFamilyHotels #FamilyTravelTips #KidFriendlyHotels #LasVegasFamilyVacation #HotelPlanning #HotMamaTravel #TravelWithKids">[![best family hotels in Las Vegas](https://hotmamatravel.com/wp-content/uploads/2023/05/best-kid-friendly-hotels-in-las-vegas-200x300.jpg)](/images/best-kid-friendly-hotels-in-las-vegas.jpg)</figure>
+<figure id="best-kid-friendly-hotels-in-las-vegas" data-essb-pin-description="The BEST family hotels in Las Vegas (yes, they exist 🎰👨‍👩‍👧‍👦). From lazy rivers and suites to kid-friendly locations and budget picks, this guide breaks down where families should actually stay in Vegas. Save this before you book. BestFamilyHotelsLasVegas #LasVegasWithKids #VegasFamilyHotels #FamilyTravelTips #KidFriendlyHotels #LasVegasFamilyVacation #HotelPlanning #HotMamaTravel #TravelWithKids">[![best family hotels in Las Vegas](/images/best-kid-friendly-hotels-in-las-vegas-200x300.jpg)](/images/best-kid-friendly-hotels-in-las-vegas.jpg)</figure>
 </div></section>
 

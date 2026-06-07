@@ -16,7 +16,7 @@ Florida, known as the Sunshine State, is famous for its warm climate, beautiful 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9500744e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="legoland-florida-water-park-florida-water-parks">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/legoland-florida-water-park-florida-water-parks-1024x576.jpg)](/images/legoland-florida-water-park-florida-water-parks.jpg)</figure>
+<figure id="legoland-florida-water-park-florida-water-parks">[![](/images/legoland-florida-water-park-florida-water-parks-1024x576.jpg)](/images/legoland-florida-water-park-florida-water-parks.jpg)</figure>
 
 #### [LEGOLAND Florida Water Park - Winter Haven](/go/legoland-florida-water-park-winter-haven-florida/)
 
@@ -35,7 +35,7 @@ Located within the LEGOLAND Florida Resort, this water park brings the fun and c
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5b6a58de"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="universal-volcano-bay-florida-water-parks">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/universal-volcano-bay-florida-water-parks-1024x576.jpg)](/images/universal-volcano-bay-florida-water-parks.jpg)</figure>
+<figure id="universal-volcano-bay-florida-water-parks">[![](/images/universal-volcano-bay-florida-water-parks-1024x576.jpg)](/images/universal-volcano-bay-florida-water-parks.jpg)</figure>
 
 *Courtesy of **scouseoak** TripAdvisor*
 
@@ -56,7 +56,7 @@ Another Orlando favorite, [Volcano Bay](https://www.universalorlando.com/web/en/
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bca62b5e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="aquatica-orlando-florida-water-parks">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/aquatica-orlando-florida-water-parks-1024x576.jpg)](/images/aquatica-orlando-florida-water-parks.jpg)</figure>
+<figure id="aquatica-orlando-florida-water-parks">[![](/images/aquatica-orlando-florida-water-parks-1024x576.jpg)](/images/aquatica-orlando-florida-water-parks.jpg)</figure>
 
 #### [Aquatica – Orlando](/go/aquatica-water-park-orlando-florida/)
 
@@ -77,7 +77,7 @@ Dive into an all-new water slide adventure with **Reef Plunge**, now open! Exper
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8c266caa"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="adventure-island-tampa-florida-water-parks">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/adventure-island-tampa-florida-water-parks-1024x576.jpg)](/images/adventure-island-tampa-florida-water-parks.jpg)</figure>
+<figure id="adventure-island-tampa-florida-water-parks">[![](/images/adventure-island-tampa-florida-water-parks-1024x576.jpg)](/images/adventure-island-tampa-florida-water-parks.jpg)</figure>
 
 #### [Adventure Island – Tampa](/go/adventure-island-water-park-tampa-florida/)
 
@@ -100,7 +100,7 @@ Get ready for the all-new **Shaka-Laka Shores**, opening in 2023! This interacti
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-dd8367a7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="rapids-water-park-florida-water-parks">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/rapids-water-park-florida-water-parks-1024x576.jpg)](/images/rapids-water-park-florida-water-parks.jpg)</figure>
+<figure id="rapids-water-park-florida-water-parks">[![](/images/rapids-water-park-florida-water-parks-1024x576.jpg)](/images/rapids-water-park-florida-water-parks.jpg)</figure>
 
 #### [Rapids Water Park - Riviera Beach](/go/rapids-water-park-florida/)
 
@@ -123,7 +123,7 @@ simultaneously for an unforgettable, brain-draining adventure.
 </div></section>
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3e468d87"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<figure id="sun-splash-family-water-park-florida-water-parks">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/sun-splash-family-water-park-florida-water-parks-1024x576.jpg)](/images/sun-splash-family-water-park-florida-water-parks.jpg)</figure>
+<figure id="sun-splash-family-water-park-florida-water-parks">[![](/images/sun-splash-family-water-park-florida-water-parks-1024x576.jpg)](/images/sun-splash-family-water-park-florida-water-parks.jpg)</figure>
 
 #### [Sun Splash Family Waterpark - Cape Coral](/go/sun-splash-family-water-park-florida/)
 
@@ -164,5 +164,5 @@ water slides to relaxing pools and play areas. Whether you're a local or plannin
 
 **Like it? Pin it!**
 
-<figure id="family-travel-guide-best-florida-water-parks-for-kids">[![](https://hotmamatravel.com/wp-content/uploads/2023/04/family-travel-guide-best-florida-water-parks-for-kids-200x300.jpg)](/images/family-travel-guide-best-florida-water-parks-for-kids.jpg)</figure>
+<figure id="family-travel-guide-best-florida-water-parks-for-kids">[![](/images/family-travel-guide-best-florida-water-parks-for-kids-200x300.jpg)](/images/family-travel-guide-best-florida-water-parks-for-kids.jpg)</figure>
 </div></section>

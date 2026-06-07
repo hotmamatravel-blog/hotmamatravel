@@ -20,13 +20,13 @@ Our first major stop was San Antonio, Texas where we dropped our bags at the Bes
 
 When traveling with kids, location is key. You want to be near the attractions you are going to see without having to deal with a ton of transport. Conveniently located in the historic St. Paul Square in downtown, Best Western Plus Sunset Suites Riverwalk is not only steps away from a variety of shops and dining options, it is also near the San Antonio Riverwalk and the Alamo. There is also this really neat old church next door that the kids and I enjoyed exploring the first day we checked in. It is so nice to get up in the morning and easily** [start our day of sightseeing](/things-san-antonio-kids/)**. Then we simply return after a long day with tired kids. [**Check prices**](http://www.kqzyfj.com/click-8336032-13039222).
 
-*[![Visiting the Alamo with kids](https://hotmamatravel.com/wp-content/uploads/2017/06/IMG_5687.jpg)](/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/)*
+*[![Visiting the Alamo with kids](/images/IMG_5687.jpg)](/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/)*
 
 ## *History &amp; Character:*
 
 What I love about Best Western Plus hotels is that they usually have a ton of character and take great lengths to represent the destination. For example, although the Sunset Suites Riverwalk is a contemporary boutique hotel it still contains elements of the past. Representative of the historic late 1800's building which it occupies, the hotel still has the original wood floors and brick walls. The historic lobby is sprinkled with photos from the past, allowing guests to learn about the history as they sip their morning coffee. Grams and I loved walking around looking at each photo and reading the caption below. Furthermore, the stained glass doors and mission-style décor that continues even into the guest rooms does well to capture the spirit of San Antonio. **[Check prices](http://www.kqzyfj.com/click-8336032-13039222)**.
 
-*[![Best Western Plus Sunset Suites Riverwalk San Antonio](https://hotmamatravel.com/wp-content/uploads/2017/06/BWPSA.jpg)](/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/)*
+*[![Best Western Plus Sunset Suites Riverwalk San Antonio](/images/BWPSA.jpg)](/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/)*
 
 ## *Oh The Amenities!*
 
@@ -38,9 +38,9 @@ We were lucky enough to score one of their spacious suites with two cozy mission
 
 I can’t tell you how much I love hotels that offer complimentary breakfast. I mean, it is so helpful when you are traveling with kids or have a jam packed day of activities. It seriously makes travel life so much easier to be able to grab something fast without having to leave your hotel. Being complimentary makes it even better, because it’s great for watching your food budget for extended trips. Kids can be so picky and I hate ordering the food sometimes, not sure what they really want or how much they’ll actually eat. This made it so easy and fun for the kids to choose their breakfast each morning and you know what? They more likely to eat it once they chose it! One of the highlights was the giant Texas-shaped BW waffle. How could you not love that?
 
-[![Breakfast at Best Western Plus Sunset Suites Riverwalk San Antonio](https://hotmamatravel.com/wp-content/uploads/2017/06/DSC02316-e1498575524518.jpg)](/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/)
+[![Breakfast at Best Western Plus Sunset Suites Riverwalk San Antonio](/images/DSC02316-e1498575524518.jpg)](/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/)
 
-[![Waffles at Best Western Plus Sunset Suites Riverwalk San Antonio](https://hotmamatravel.com/wp-content/uploads/2017/06/DSC02812.jpg)](/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/)
+[![Waffles at Best Western Plus Sunset Suites Riverwalk San Antonio](/images/DSC02812.jpg)](/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/)
 
 *It is important to note that not all Best Western Pluses offer fully complimentary or the same style of breakfast. Best Western Sunset Suites Riverwalk offered a complimentary full breakfast buffet including choice of breads, cereal, fruit, eggs, yogurt, juice, coffee and hot items.
 
@@ -56,4 +56,4 @@ San Antonio was our first major stop on our **[epic family summer road trip](/fa
 
 **Like it? Pin it!**
 
-[![Best Western Plus Sunset Suites Riverwalk San Antonio](https://hotmamatravel.com/wp-content/uploads/2017/06/Why-You-Should-Stay-At.png)](/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/)
+[![Best Western Plus Sunset Suites Riverwalk San Antonio](/images/Why-You-Should-Stay-At.png)](/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/)

@@ -135,4 +135,4 @@ After a long summer on the road, it will be nice to arrive home. Luckily for us,
 
 **Like it? Pin it!**
 
-[![Epic Family Road Trip](https://hotmamatravel.com/wp-content/uploads/2017/05/An-Epic-U.S.-683x1024.png)](/family-road-trip-preview/)
+[![Epic Family Road Trip](/images/An-Epic-U.S.-683x1024.png)](/family-road-trip-preview/)

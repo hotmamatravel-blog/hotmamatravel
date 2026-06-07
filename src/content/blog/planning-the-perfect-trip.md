@@ -76,5 +76,5 @@ To wrap it up, planning the perfect trip is all about a mix of good prep and fle
 
 Like it? Pin it!
 
-<figure id="planning-the-perfect-trip" data-essb-pin-description="Planning the perfect trip from start to finish - HotMamaTravel">[![planning the perfect trip](https://hotmamatravel.com/wp-content/uploads/2024/07/tips-for-planning-the-perfect-trip-200x300.jpg)](/images/tips-for-planning-the-perfect-trip.jpg)</figure>
+<figure id="planning-the-perfect-trip" data-essb-pin-description="Planning the perfect trip from start to finish - HotMamaTravel">[![planning the perfect trip](/images/tips-for-planning-the-perfect-trip-200x300.jpg)](/images/tips-for-planning-the-perfect-trip.jpg)</figure>
 </div></div>

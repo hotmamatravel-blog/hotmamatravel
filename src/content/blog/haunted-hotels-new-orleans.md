@@ -21,7 +21,7 @@ Whether you’re a ghost hunter, a foodie, or just a family who loves[**live mus
 
 **Disclaimer**: Links in this page are meant to help you book a room easier by linking directly to specific hotel pages on partner websites (since we can't take bookings directly). If you click a link and decide to book a room, we may earn a small commission on this transaction. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<figure>[![Haunted New Orleans Hotel Dauphine French Quarter](https://hotmamatravel.com/wp-content/uploads/2019/10/haunted-hotel-new-olreans-dauphine-orleans-hotel-ghost.jpg)](/wp-content/uploads/2019/10/haunted-hotel-new-olreans-dauphine-orleans-hotel-ghost.jpg)</figure>
+<figure>[![Haunted New Orleans Hotel Dauphine French Quarter](/images/haunted-hotel-new-olreans-dauphine-orleans-hotel-ghost.jpg)](/images/haunted-hotel-new-olreans-dauphine-orleans-hotel-ghost.jpg)</figure>
 
 ## **[Dauphine Orleans Hotel](/go/dauphine-orleans-hotel-new-orleans/)**
 
@@ -39,7 +39,7 @@ the English Cotton Market crash of 1837.
 
 It is said that this house was also the site of a rougher brothel, The White Elephant, where the women were ruthless and notoriously feared. Guests can now stay in one of the 16 Hermann Guest House Rooms as a part of the [Dauphine Orleans Hotel](https://www.dauphineorleans.com/).  Since 1969, the Dauphine Orleans Hotel has been established as an elegant and timeless accommodation in the French Quarter. During the 1991 renovation of the Carriage House cottages, original brick walls, wooden posts and handmade nails were revealed and believed to have come from the infamous pirate Jean Lafitte’s blacksmith shop.
 
-<figure>[![Dauphine Hotel in New Orleans](https://hotmamatravel.com/wp-content/uploads/2019/10/haunted-hotel-new-olreans-dauphine-orleans-hotel.jpg)](/wp-content/uploads/2019/10/haunted-hotel-new-olreans-dauphine-orleans-hotel.jpg)</figure>
+<figure>[![Dauphine Hotel in New Orleans](/images/haunted-hotel-new-olreans-dauphine-orleans-hotel.jpg)](/images/haunted-hotel-new-olreans-dauphine-orleans-hotel.jpg)</figure>
 
 ### Hauntings
 
@@ -85,7 +85,7 @@ The Dauphine Orleans Hotel is officially HotMamaTravel approved, and here’s wh
 
 Add in the onsite and valet parking (a total win in the Quarter), and you’ve got convenience covered. The rooms are huge, giving everyone space to spread out, but if you’re traveling with a bigger crew, you can easily book a couple of rooms without breaking the bank. It’s comfortable, classic, and full of that old NOLA charm, exactly how we like it.
 
-<figure>[![Andrew Jackson Hotel Courtyard](https://hotmamatravel.com/wp-content/uploads/2019/10/haunted-hotel-new-orleans-andrew-jackson-hotel.jpg)](/wp-content/uploads/2019/10/haunted-hotel-new-orleans-andrew-jackson-hotel.jpg)</figure>
+<figure>[![Andrew Jackson Hotel Courtyard](/images/haunted-hotel-new-orleans-andrew-jackson-hotel.jpg)](/images/haunted-hotel-new-orleans-andrew-jackson-hotel.jpg)</figure>
 
 ## **[Andrew Jackson Hotel](/go/andrew-jackson-hotel-new-orleans/)**
 
@@ -97,7 +97,7 @@ What is now the [**Andrew Jackson Hotel**](/go/andrew-jackson-hotel-new-orleans/
 
 Immediately after the fires, this structure actually functioned as a federal courthouse until the late 1800s. The hotel took its name from an event that occurred at the courthouse in 1815.  General Andrew Jackson (later the seventh U.S President) was held in contempt of court and charged with obstruction of justice.
 
-<figure>[![Andrew Jackson Hotel New Orleans](https://hotmamatravel.com/wp-content/uploads/2019/10/haunted-hotel-new-orleans-andrew-jackson-hotel-black-white.jpg)](/wp-content/uploads/2019/10/haunted-hotel-new-orleans-andrew-jackson-hotel-black-white.jpg)</figure>
+<figure>[![Andrew Jackson Hotel New Orleans](/images/haunted-hotel-new-orleans-andrew-jackson-hotel-black-white.jpg)](/images/haunted-hotel-new-orleans-andrew-jackson-hotel-black-white.jpg)</figure>
 
 ### Hauntings
 
@@ -123,7 +123,7 @@ The Andrew Jackson Hotel is totally HotMamaTravel approved because it hits that 
 
 You’ll also get access to the pool at their sister hotel, which is a total perk in that Louisiana heat. Plus, you’re just steps from French Quarter restaurants and attractions, so you can walk to all the beignets, jazz, and ghosts your heart desires.
 
-<figure>[![Hotel Monteleone New Orleans Haunted Hotel](https://hotmamatravel.com/wp-content/uploads/2019/10/haunted-hotel-new-orleans-hotel-monteleone-front.jpg)](/wp-content/uploads/2019/10/haunted-hotel-new-orleans-hotel-monteleone-front.jpg)</figure>
+<figure>[![Hotel Monteleone New Orleans Haunted Hotel](/images/haunted-hotel-new-orleans-hotel-monteleone-front.jpg)](/images/haunted-hotel-new-orleans-hotel-monteleone-front.jpg)</figure>
 
 ## **[The Hotel Monteleone](/go/hotel-monteleone-new-orleans/)**
 
@@ -137,7 +137,7 @@ What is really special about this hotel (from a writer’s perspective) is all t
 
 Modern writers like Anne Rice, Stephan Ambrose and John Grisham have also stayed at The Hotel Monteleone. With so much literary history, the hotel became a literary landmark in 1998. It is one of only 3 hotels in the United States to hold such a title!
 
-<figure>[![Carousel Bar at Hotel Monteleone New Orleans](https://hotmamatravel.com/wp-content/uploads/2019/10/haunted-hotel-new-orleans-hotel-monteleone-carousel-bar.jpg)](/wp-content/uploads/2019/10/haunted-hotel-new-orleans-hotel-monteleone-carousel-bar.jpg)</figure>
+<figure>[![Carousel Bar at Hotel Monteleone New Orleans](/images/haunted-hotel-new-orleans-hotel-monteleone-carousel-bar.jpg)](/images/haunted-hotel-new-orleans-hotel-monteleone-carousel-bar.jpg)</figure>
 
 ### Hauntings
 
@@ -172,5 +172,5 @@ Until next time, keep it fun, keep it curious, and remember, it’s just a bunch
 
 Like it? Pin it!
 
-<figure data-essb-pin-description="Looking for a spooky family adventure? 👻 Check out the best haunted hotels in New Orleans for families! From ghostly guests to historic charm, these haunted stays are packed with stories, mystery, and a touch of Southern magic. Perfect for Halloween—or any time you’re craving chills with your beignets! 🍩🎺 #HauntedHotels #FamilyTravel #NewOrleans #HotMamaTravel">[![haunted hotels in new orleans](https://hotmamatravel.com/wp-content/uploads/2019/10/haunted-hotels-new-orleans-200x300.jpg)](/images/haunted-hotels-new-orleans.jpg)</figure>
+<figure data-essb-pin-description="Looking for a spooky family adventure? 👻 Check out the best haunted hotels in New Orleans for families! From ghostly guests to historic charm, these haunted stays are packed with stories, mystery, and a touch of Southern magic. Perfect for Halloween—or any time you’re craving chills with your beignets! 🍩🎺 #HauntedHotels #FamilyTravel #NewOrleans #HotMamaTravel">[![haunted hotels in new orleans](/images/haunted-hotels-new-orleans-200x300.jpg)](/images/haunted-hotels-new-orleans.jpg)</figure>
 </div></div>
