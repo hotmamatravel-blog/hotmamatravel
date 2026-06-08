@@ -134,7 +134,7 @@ h1, h2, h3, h4, h5, h6 {
   text-align: left !important;
 }
 
-/* Ensure links inside headings inherit heading color and lack default underlines */
+/* Ensure links inside headings inherit heading color but have the standardized red underline */
 .prose h1 a,
 .prose h2 a,
 .prose h3 a,
@@ -142,7 +142,12 @@ h1, h2, h3, h4, h5, h6 {
 .prose h5 a,
 .prose h6 a {
   color: inherit !important;
-  text-decoration: none !important;
+  font-weight: 700;
+  text-decoration: underline !important;
+  text-decoration-color: rgba(232,35,42,0.3) !important;
+  text-decoration-thickness: 1.5px !important;
+  text-underline-offset: 4px;
+  transition: text-decoration-color var(--duration) var(--ease), text-decoration-thickness var(--duration) var(--ease);
 }
 .prose h1 a:hover,
 .prose h2 a:hover,
@@ -150,7 +155,8 @@ h1, h2, h3, h4, h5, h6 {
 .prose h4 a:hover,
 .prose h5 a:hover,
 .prose h6 a:hover {
-  text-decoration: underline !important;
+  text-decoration-color: var(--hmt-red) !important;
+  text-decoration-thickness: 3px !important;
 }
 
 /* Hide the separate, full-width Stackable bottom-line div */
@@ -200,13 +206,26 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .prose a {
+  font-weight: 700;
   color: var(--hmt-red);
   text-decoration: underline;
   text-decoration-color: rgba(232,35,42,0.3);
+  text-decoration-thickness: 1.5px;
   text-underline-offset: 3px;
-  transition: text-decoration-color var(--duration) var(--ease);
+  transition: text-decoration-color var(--duration) var(--ease), text-decoration-thickness var(--duration) var(--ease);
 }
-.prose a:hover { text-decoration-color: var(--hmt-red); }
+.prose a:hover {
+  text-decoration-color: var(--hmt-red);
+  text-decoration-thickness: 3px;
+}
+
+/* Ensure UI components inside prose do not inherit standard hyperlink styles */
+.prose .btn,
+.prose .badge,
+.prose .pinterest-pin-wrapper,
+.prose .amazon-callout-btn {
+  text-decoration: none !important;
+}
 
 .prose strong { font-weight: 700; color: var(--hmt-dark); }
 .prose em { font-style: italic; }
