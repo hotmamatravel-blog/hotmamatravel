@@ -666,6 +666,12 @@ h1, h2, h3, h4, h5, h6 {
   gap: 10px;
   line-height: 1.6;
 }
+.wp-block-uagb-icon-list-child > svg {
+  width: 20px !important;
+  height: 20px !important;
+  flex-shrink: 0;
+  margin-top: 4px;
+}
 .uagb-icon-list__source-wrap {
   display: inline-flex;
   align-items: center;
