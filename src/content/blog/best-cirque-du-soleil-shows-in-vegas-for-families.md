@@ -28,27 +28,21 @@ However, (and this is a big however) there are certain things you need to know b
 #### Some things to consider:
 
 <div class="wp-block-uagb-icon-list uagb-block-cba20250 uagb-icon-list__outer-wrap uagb-icon-list__layout-vertical"><div class="uagb-icon-list__wrap">
-<div class="wp-block-uagb-icon-list-child uagb-block-1727d81a uagb-icon-list-repeater uagb-icon-list__wrapper"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512">
-</path></svg>Cirque du Soleil Vegas shows are totally worth it, but they're *not *cheap, so there's a risk you'll be super stressed if the kids are being disruptive to you or others around you. </div>
+<div class="wp-block-uagb-icon-list-child uagb-block-1727d81a uagb-icon-list-repeater uagb-icon-list__wrapper"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256z"></path></svg>Cirque du Soleil Vegas shows are totally worth it, but they're *not *cheap, so there's a risk you'll be super stressed if the kids are being disruptive to you or others around you. </div>
 
-<div class="wp-block-uagb-icon-list-child uagb-block-d7cfd366 uagb-icon-list-repeater uagb-icon-list__wrapper"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512">
-</path></svg>Cirque du Soleil shows often incorporate intricate storytelling that children may not fully understand or appreciate.</div>
+<div class="wp-block-uagb-icon-list-child uagb-block-d7cfd366 uagb-icon-list-repeater uagb-icon-list__wrapper"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256z"></path></svg>Cirque du Soleil shows often incorporate intricate storytelling that children may not fully understand or appreciate.</div>
 
-<div class="wp-block-uagb-icon-list-child uagb-block-5a0e4eb3 uagb-icon-list-repeater uagb-icon-list__wrapper"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512">
-</path></svg>For really young children, the show may be intense at times due to loud music, flashing lights, pyrotechnics, etc.</div>
+<div class="wp-block-uagb-icon-list-child uagb-block-5a0e4eb3 uagb-icon-list-repeater uagb-icon-list__wrapper"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256z"></path></svg>For really young children, the show may be intense at times due to loud music, flashing lights, pyrotechnics, etc.</div>
 </div></div>
 
 #### Some tips before you book:
 
 <div class="wp-block-uagb-icon-list uagb-block-888de697 uagb-icon-list__outer-wrap uagb-icon-list__layout-vertical"><div class="uagb-icon-list__wrap">
-<div class="wp-block-uagb-icon-list-child uagb-block-ceeb6ced uagb-icon-list-repeater uagb-icon-list__wrapper"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512">
-</path></svg>Prepare your children for the show by being frank about what it'll be like for them (we have ready-made reviews below to help the discussion along)</div>
+<div class="wp-block-uagb-icon-list-child uagb-block-ceeb6ced uagb-icon-list-repeater uagb-icon-list__wrapper"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256z"></path></svg>Prepare your children for the show by being frank about what it'll be like for them (we have ready-made reviews below to help the discussion along)</div>
 
-<div class="wp-block-uagb-icon-list-child uagb-block-a52ec401 uagb-icon-list-repeater uagb-icon-list__wrapper"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512">
-</path></svg>Consider sitting on an aisle seat and toward the back so you can sneak out like a ninja if your child becomes difficult during the show</div>
+<div class="wp-block-uagb-icon-list-child uagb-block-a52ec401 uagb-icon-list-repeater uagb-icon-list__wrapper"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256z"></path></svg>Consider sitting on an aisle seat and toward the back so you can sneak out like a ninja if your child becomes difficult during the show</div>
 
-<div class="wp-block-uagb-icon-list-child uagb-block-e4f47197 uagb-icon-list-repeater uagb-icon-list__wrapper"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512">
-</path></svg>Try to book an earlier showtime (7:30 instead of 9:00pm)</div>
+<div class="wp-block-uagb-icon-list-child uagb-block-e4f47197 uagb-icon-list-repeater uagb-icon-list__wrapper"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256z"></path></svg>Try to book an earlier showtime (7:30 instead of 9:00pm)</div>
 </div></div>
 
 </div></div></div></div></div></div>

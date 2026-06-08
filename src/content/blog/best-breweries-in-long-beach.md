@@ -31,33 +31,23 @@ Long Beach, California, is not only known for its stunning coastline and vibrant
 </div>
 
 <div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-40eb07e8 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8806a4e9" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>** Is Long Beach Beer Lab family-friendly?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8806a4e9" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>** Is Long Beach Beer Lab family-friendly?**</div><div class="uagb-faq-content">
 Yes, Long Beach Beer Lab allows kids.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-1610c187" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Long Beach Beer Lab dog-friendly?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-1610c187" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Long Beach Beer Lab dog-friendly?**</div><div class="uagb-faq-content">
 Yes, Long Beach Beer Lab is dog-friendly.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-7df0d9b1" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>** Does Long Beach Beer Lab have Live Music?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-7df0d9b1" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>** Does Long Beach Beer Lab have Live Music?**</div><div class="uagb-faq-content">
 Yes, Long Beach Beer Labs does have live performances and live DJs too.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b739d160" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Long Beach Beer Lab host events?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b739d160" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Long Beach Beer Lab host events?**</div><div class="uagb-faq-content">
 Yes, Long Beach Beer Lab hosts a number exciting events, like paint and sip nights and trivia nights.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-adce9af8" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Long Beach Beer Labs have food?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-adce9af8" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Long Beach Beer Labs have food?**</div><div class="uagb-faq-content">
 Yes, Long Beach Beer Lab has a bakery and café with a variety of exciting food options.
 </div></div>
 </div>
@@ -86,33 +76,23 @@ Long Beach Beer Labs often transforms into a live music venue, turning your visi
 </div>
 
 <div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-6279d8b3 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-cfcb5ef4" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Ballast Point Brewing Company family-friendly?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-cfcb5ef4" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Ballast Point Brewing Company family-friendly?**</div><div class="uagb-faq-content">
 Yes, guests of all ages are welcomed at Ballast Point Brewing Company.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-12a07a3f" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Ballast Point Brewing Company Dog-Friendly?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-12a07a3f" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Ballast Point Brewing Company Dog-Friendly?**</div><div class="uagb-faq-content">
 Yes, you can have your dogs on the patio at this Ballast Point location.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b6ddad35" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Ballast Point Brewing Company have live Music?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b6ddad35" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Ballast Point Brewing Company have live Music?**</div><div class="uagb-faq-content">
 Yes, Ballast Point Brewing Company has live music on select days.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-7a18fe97" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Ballast Point host events?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-7a18fe97" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Ballast Point host events?**</div><div class="uagb-faq-content">
 While they don't curate their own events, they do offer private events.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-aca8fc5f" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Ballast Point Brewing Company offer food?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-aca8fc5f" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Ballast Point Brewing Company offer food?**</div><div class="uagb-faq-content">
 Yes, Ballast Point is a full restaurant in addition to a brewery with a wide selection of menu items.
 </div></div>
 </div>
@@ -131,33 +111,23 @@ Overlooking Alamitos Bay, [Ballast Point Brewing Company](https://ballastpoint.c
 </div>
 
 <div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-ea3e8cab uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-ab6f2a0d" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Beachwood Blendery family-friendly?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-ab6f2a0d" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Beachwood Blendery family-friendly?**</div><div class="uagb-faq-content">
 Yes, kids are welcomed Beachwood Blendery in Long Beach.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-c2fdf99c" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Beachwood Blendery dog-friendly?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-c2fdf99c" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Beachwood Blendery dog-friendly?**</div><div class="uagb-faq-content">
 Yes, the cozy patio is dog-friendly.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-a59748f9" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Beachwood Blendery have live music?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-a59748f9" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Beachwood Blendery have live music?**</div><div class="uagb-faq-content">
 Yes, Beachwood Blendery has live music performances during the evenings.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8da297e5" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Beachwood Blendery host events?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8da297e5" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Beachwood Blendery host events?**</div><div class="uagb-faq-content">
 Yes, Beachwood Blendery does hosts a variety of events, like paint nights and funk nights.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-cd4b46f3" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Beachwood Blendery have food?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-cd4b46f3" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Beachwood Blendery have food?**</div><div class="uagb-faq-content">
 Not, regularly. You are welcomed to bring your own food and on Tuesdays they have a food popup to mix things up.
 </div></div>
 </div>
@@ -176,27 +146,19 @@ Bring your furry friends along, as the patio is dog-friendly. Beachwood Blendery
 </div>
 
 <div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-19aa360b uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-adce304c" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Beachwood Brewing &amp; Distilling family-friendly?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-adce304c" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Beachwood Brewing &amp; Distilling family-friendly?**</div><div class="uagb-faq-content">
 Yes, Beachwood Brewing &amp; Distilling is kid-friendly.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-dc3d9430" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Beachwood Brewing &amp; Distilling dog-friendly?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-dc3d9430" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Beachwood Brewing &amp; Distilling dog-friendly?**</div><div class="uagb-faq-content">
 Yes, Beachwood Brewing &amp; Distilling is dog-friendly?
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-486fb6ac" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Beachwood Brewing &amp; Distilling have live music?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-486fb6ac" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Beachwood Brewing &amp; Distilling have live music?**</div><div class="uagb-faq-content">
 Yes, Beachwood Brewing &amp; Distilling has live music on Fridays at 7pm.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-6558e2c4" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Beachwood Brewing &amp; Distilling host events?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-6558e2c4" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Beachwood Brewing &amp; Distilling host events?**</div><div class="uagb-faq-content">
 Yes, Beachwood Brewing &amp; Distilling has fun live events, like trivia nights, pinball wizard night, and more.
 </div></div>
 </div>
@@ -221,33 +183,23 @@ Embark on a blissful journey through Long Beach's craft beer scene, with Beachwo
 </div>
 
 <div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-c56a9d24 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8515d219" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Steady Brewing family-friendly?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8515d219" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Steady Brewing family-friendly?**</div><div class="uagb-faq-content">
 Yes, guests of all ages are welcomed at Steady Brewing.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8011cac5" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Steady Brewing dog-friendly?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8011cac5" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Steady Brewing dog-friendly?**</div><div class="uagb-faq-content">
 Yes, Steady Brewing dog-friendly.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-a5f88b84" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Steady Brewing have live music? **</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-a5f88b84" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Steady Brewing have live music? **</div><div class="uagb-faq-content">
 Yes, Steady Brewing does have live music sometimes.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-45e7b6fd" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Steady Brewing host events?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-45e7b6fd" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Steady Brewing host events?**</div><div class="uagb-faq-content">
 Yes, Steady Brewing does have events, like paint and pint nights.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-1d881448" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Steady Brewing offer food?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-1d881448" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Steady Brewing offer food?**</div><div class="uagb-faq-content">
 Yes, Steady Brewing partners with food popups to bring you a delicious selection of grub.
 </div></div>
 </div>
@@ -270,33 +222,23 @@ At Steady Brewing, they often partner with restaurants to provide yummy grub to 
 </div>
 
 <div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-8190029d uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d65d22c7" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Ten Mile Brewing Company family-friendly?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d65d22c7" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Ten Mile Brewing Company family-friendly?**</div><div class="uagb-faq-content">
 Yes, Ten Mile Brewing Company is family and kid-friendly.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d15ad4d8" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Ten Mile Brewing Company dog-friendly?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d15ad4d8" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Ten Mile Brewing Company dog-friendly?**</div><div class="uagb-faq-content">
 Yes, dogs are allowed on their outdoor patio at Ten Mile Brewing Company.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-c0105156" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Ten Mile Brewing Company have live music?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-c0105156" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Ten Mile Brewing Company have live music?**</div><div class="uagb-faq-content">
 Yes, Ten Mile Brewing Company does have live music.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d9f17844" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Ten Mile Brewing Company host events?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d9f17844" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Ten Mile Brewing Company host events?**</div><div class="uagb-faq-content">
 Yes, Ten Mile Company host fun themed events throughout the year.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-42ad4b0a" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Ten Mile Brewing Company offer Food?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-42ad4b0a" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Ten Mile Brewing Company offer Food?**</div><div class="uagb-faq-content">
 Yes, they have a rotating menu and are best known for their house-made sourdough and pizzas.
 </div></div>
 </div>
@@ -321,33 +263,23 @@ To complete your experience, indulge in the diverse offerings with a rotating ki
 </div>
 
 <div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-e4a61287 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-05f78bc6" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is SteelCraft Long Beach family-friendly?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-05f78bc6" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is SteelCraft Long Beach family-friendly?**</div><div class="uagb-faq-content">
 Yes, guests of all ages are allowed at SteelCraft Long Beach.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b5990b2e" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is SteelCraft Long Beach dog-friendly?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b5990b2e" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is SteelCraft Long Beach dog-friendly?**</div><div class="uagb-faq-content">
 Yes, SteelCraft Long Beach is dog-friendly.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-2c847634" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does SteelCraft have live music?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-2c847634" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does SteelCraft have live music?**</div><div class="uagb-faq-content">
 Yes, SteelCraft does have live music.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-6335f414" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does SteelCraft host events?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-6335f414" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does SteelCraft host events?**</div><div class="uagb-faq-content">
 Yes, SteelCraft hosts many events, brunches, happy hours, and more.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8023041e" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does SteelCraft offer food?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8023041e" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does SteelCraft offer food?**</div><div class="uagb-faq-content">
 Yes, SteelCraft is a collection of exciting culinary urban eatery.
 </div></div>
 </div>
@@ -374,33 +306,23 @@ From live music performances to themed nights, the space comes alive with activi
 </div>
 
 <div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-a35a3356 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8caf6363" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Belmont Brewing Co family-friendly?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8caf6363" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Belmont Brewing Co family-friendly?**</div><div class="uagb-faq-content">
 Yes, Belmont Brewing Co is family-friendly.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b1d70871" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Belmont Brewing Co dog-friendly?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b1d70871" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Belmont Brewing Co dog-friendly?**</div><div class="uagb-faq-content">
 No, Belmont Brewing Co is not dog-friendly.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-bb6b72f3" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Belmont Brewing Co have live music?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-bb6b72f3" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Belmont Brewing Co have live music?**</div><div class="uagb-faq-content">
 Yes, Belmont Brewing Co has live music Wednesday through Saturday.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-238a81c7" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Belmont Brewing Co host events?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-238a81c7" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Belmont Brewing Co host events?**</div><div class="uagb-faq-content">
 Yes, Belmont hosts many exciting events, like Salsa nights, Jazz nights, and more.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-44d05519" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Belmont Brewing Co offer food?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-44d05519" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Belmont Brewing Co offer food?**</div><div class="uagb-faq-content">
 Yes, Belmont Brewing Co is also a restaurant with a full menu of a variety of food options.
 </div></div>
 </div>
@@ -425,33 +347,23 @@ As you soak in the maritime atmosphere, don't miss out on the culinary delights 
 </div>
 
 <div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-3d0dec8d uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8d469530" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Dutch's Brewhouse family-friendly?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8d469530" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Dutch's Brewhouse family-friendly?**</div><div class="uagb-faq-content">
 Yes, Dutch's Brewhouse is a family-friendly pub atmosphere.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-76b3cbc3" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Dutch's Brewhouse dog-friendly?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-76b3cbc3" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Dutch's Brewhouse dog-friendly?**</div><div class="uagb-faq-content">
 Yes, Dutch's Brewhouse allows dogs.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-2d0996d1" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Dutch's Brewhouse have live music?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-2d0996d1" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Dutch's Brewhouse have live music?**</div><div class="uagb-faq-content">
 Yes, Dutch's Brewhouse has live music on Thursdays from 11pm to 2pm.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-86b7d55e" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Dutch's Brewhouse host events?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-86b7d55e" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Dutch's Brewhouse host events?**</div><div class="uagb-faq-content">
 Yes, Dutch's Brewhouse hosts cool events, like karaoke nights on Wednesdays and brew your own beer sessions.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b974025c" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Dutch's Brewhouse offer food?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b974025c" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Dutch's Brewhouse offer food?**</div><div class="uagb-faq-content">
 Yes, Dutch's Brewhouse offers pub-style appetizers, sandwiches, salads, pizzas and more.
 </div></div>
 </div>
@@ -478,33 +390,23 @@ Dutch's Brewhouse doesn't just serve up stellar suds; they've got a culinary lin
 </div>
 
 <div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-72f10850 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d1c37db1" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Trademark Brewing family-friendly?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d1c37db1" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Trademark Brewing family-friendly?**</div><div class="uagb-faq-content">
 Yes, Trademark Brewing is family-friendly and welcomes kids.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-e9a59f80" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Trademark Brewing dog-friendly?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-e9a59f80" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Trademark Brewing dog-friendly?**</div><div class="uagb-faq-content">
 Yes, Trademark Brewing is dog-friendly.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-7a7816b6" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Trademark Brewing have live music?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-7a7816b6" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Trademark Brewing have live music?**</div><div class="uagb-faq-content">
 No, Trademark Brewing does not at this time have a live music schedule.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-ab53e363" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Trademark Brewing host events?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-ab53e363" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Trademark Brewing host events?**</div><div class="uagb-faq-content">
 Yes, Trademark Brewing host a variety of exciting events, like Beer Yoga, Line Dancing, and Trivia Night.
 </div></div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-23fe9d43" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Trademark Brewing offer food?**</div><div class="uagb-faq-content">
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-23fe9d43" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Trademark Brewing offer food?**</div><div class="uagb-faq-content">
 Yes, Trademark Brewing offers a rotating lineup of fun food trucks. They also allow outside food.
 </div></div>
 </div>

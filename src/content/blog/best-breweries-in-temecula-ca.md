@@ -29,33 +29,23 @@ So where should you start? Start here with this list of 14 breweries in Temecula
 * 28822 Old Town Front St STE 108, Temecula, CA 92590*
 
 <div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-8a6ab43a uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-24171728" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Aftershock Brewing Co. family-friendly?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-24171728" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Aftershock Brewing Co. family-friendly?**</div>
 Yes, Aftershock Brewing Co. welcomes guest of all ages.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d22dbe0b" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Aftershock Brewing Co. dog-friendly?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d22dbe0b" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Aftershock Brewing Co. dog-friendly?**</div>
 Yes, Aftershock Brewing Co. is dog-friendly
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-28f54f09" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Aftershock Brewing have live music?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-28f54f09" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Aftershock Brewing have live music?**</div>
 Yes, Aftershock Brewing does have live music on certain nights.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-55be71ae" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Aftershock Brewing host events?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-55be71ae" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Aftershock Brewing host events?**</div>
 Yes, Aftershock Brewing Co. host fun events, like football Thursdays.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-a88b11b5" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Aftershock Brewing have food?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-a88b11b5" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Aftershock Brewing have food?**</div>
 Yes, Aftershock Brewing Co. regularly partners with restaurant popups as well as offer snacks for certain events.
 </div>
 </div>
@@ -73,33 +63,23 @@ Aftershock Brewing Co. pride themselves in having extremely flavorful beers. Wit
 * 42095 Zevo Dr Suite #1, Temecula, CA 92590*
 
 <div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-4eae224f uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-46d33591" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Ironfire Brewing Company family-friendly?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-46d33591" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Ironfire Brewing Company family-friendly?**</div>
 Yes, Ironfire Brewing Company is family-freindly.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8850a473" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Ironfire Brewing Company is dog-friendly?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8850a473" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Ironfire Brewing Company is dog-friendly?**</div>
 Yes, Ironfire Brewing Company is dog-friendly.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-29be6af2" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Ironfire Brewing Company have live music?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-29be6af2" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Ironfire Brewing Company have live music?**</div>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-e6d1cbe2" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Ironfire Brewing Company host events?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-e6d1cbe2" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Ironfire Brewing Company host events?**</div>
 Yes, Ironfire Brewing Company host events, and offers daily specials.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-5246813a" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Ironfire Brewing Company have food?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-5246813a" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Ironfire Brewing Company have food?**</div>
 Yes, Ironfire Brewing Company partners with restaurant popups and food trucks.
 </div>
 </div>
@@ -117,33 +97,23 @@ Ironfire Brewing Company is known for the ales and lagers with names as killer a
 * 42030 Avenida Alvarado F, Temecula, CA 92590*
 
 <div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-0a717da8 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8059ddbf" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Relentless Brewing Company family-friendly?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-8059ddbf" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Relentless Brewing Company family-friendly?**</div>
 Yes, Relentless Brewing Company welcomes guests of all ages.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-dd0fd688" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Relentless Brewing Company dog-friendly?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-dd0fd688" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Relentless Brewing Company dog-friendly?**</div>
 Yes, Relentless Brewing Company is dog-friendly?
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-e664ee00" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Relentless Brewing Company have live music?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-e664ee00" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Relentless Brewing Company have live music?**</div>
 No, Relentless Brewing Company does not have live music schedule at this time.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-1dc20bbb" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Relentless Brewing Company host events?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-1dc20bbb" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Relentless Brewing Company host events?**</div>
 Yes, Relentless Brewing Company often hosts exciting events, like cornhole tournaments, paint nights, family nights, and more.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-3b458306" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Relentless Brewing Company have food?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-3b458306" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Relentless Brewing Company have food?**</div>
 Yes, Relentless Brewing Company regularly partners with restaurant popups and food trucks.
 </div>
 </div>
@@ -162,33 +132,23 @@ At [Relentless Brewing Company](https://www.relentlessbrewingandspirits.com/) co
 * 28636 Old Town Front St #103, Temecula, CA 92590*
 
 <div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-55eb20e7 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d61b843d" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Stone Church Brewing family-friendly?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-d61b843d" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Stone Church Brewing family-friendly?**</div>
 Yes, Stone Church welcomes guests of all ages to enjoy the fun.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-2098ff97" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Stone Church Brewing dog-friendly?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-2098ff97" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Stone Church Brewing dog-friendly?**</div>
 Yes, Stone Church Brewing is dog-friendly.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-976f94eb" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Stone Church Brewing have live music?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-976f94eb" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Stone Church Brewing have live music?**</div>
 Yes, Stone Church Brewing has live music on weekends.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-f19c3655" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Stone Church Brewing host events?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-f19c3655" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Stone Church Brewing host events?**</div>
 Yes, Stone Church Brewing as themed parties, and host a variety of events.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-be3f30da" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Stone Church Brewing have food?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-be3f30da" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Stone Church Brewing have food?**</div>
 Yes, while their Corona location offers a full menu, including kid's menu, the Temecula location does offer snacks.
 </div>
 </div>
@@ -208,33 +168,23 @@ At [Stone Church Brewing](https://stonechurchbrewing.com/) they specialize in Pa
 *&nbsp;29375 Rancho California Rd, Temecula, CA 92591*
 
 <div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-7b7cc9ae uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-937bb0d9" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Oscar's Brewing Company family-friendly?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-937bb0d9" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Oscar's Brewing Company family-friendly?**</div>
 Yes, Oscar's Brewing Company is family-friendly.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-6b59812a" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Oscar's Brewing Company dog-friendly?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-6b59812a" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Oscar's Brewing Company dog-friendly?**</div>
 Yes, Oscar's Brewing Company allows dogs on their patio.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-a0b6c3c5" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Oscar's Brewing have live music?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-a0b6c3c5" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Oscar's Brewing have live music?**</div>
 No, Oscar's Brewing Company does not have a live music schedule at this time.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-848cdc63" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Oscar's Brewing Company host events?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-848cdc63" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Oscar's Brewing Company host events?**</div>
 No, Oscar's Brewing Company does not host regular events, but does host private events.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-07257354" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Oscar's Brewing Company have food?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-07257354" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Oscar's Brewing Company have food?**</div>
 Yes, Oscar's Brewing Company is a full service restaurant as well as a brewery. Although, they are best known for their pizza, bread sticks, salads, they also have an extensive meal sure to please all tastes.
 </div>
 </div>
@@ -252,33 +202,23 @@ Oscar’s is a popular local brewery and family restaurant. The food is designed
 *40868 Winchester Rd, Temecula, CA 92591*
 
 <div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-673e61f0 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-0507f402" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Karl Strauss Brewing Company family-friendly?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-0507f402" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Karl Strauss Brewing Company family-friendly?**</div>
 Yes, Karl Strauss Brewing Company is family-friendly.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-cf87573c" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Karl Strauss Brewing Company dog-friendly?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-cf87573c" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Karl Strauss Brewing Company dog-friendly?**</div>
 No, Karl Strauss Brewing Company only allows service dogs.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-64e5198c" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Karl Strauss Brewing Company have live music?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-64e5198c" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Karl Strauss Brewing Company have live music?**</div>
 Yes, Karl Strauss Brewing Company does have live music!
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-ca6bd4e8" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Karl Strauss Brewing Company host events?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-ca6bd4e8" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Karl Strauss Brewing Company host events?**</div>
 Yes, Karl Strauss Brewing Company does host fun events.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-1af4c8ab" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Karl Strauss Brewing Company have food?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-1af4c8ab" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Karl Strauss Brewing Company have food?**</div>
 Yes, Karl Strauss Brewing Company is also a full service restaurant with an extensive and diverse menu.
 </div>
 </div>
@@ -298,33 +238,23 @@ Bring the whole family for a fun good time. At [Karl Strauss Brewing Company](ht
 *41740 Enterprise Cir N # 109, Temecula, CA 92590*
 
 <div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-9be4ad4a uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-4f4e4082" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Black Market Brewing Co family-friendly?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-4f4e4082" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Black Market Brewing Co family-friendly?**</div>
 Yes, Black Market Brewing Co welcomes guests off all ages.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-e8585362" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is Black Market Brewing Co dog-friendly?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-e8585362" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is Black Market Brewing Co dog-friendly?**</div>
 Yes, Black Market Brewing Co is dog-friendly.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-2c68a0d3" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Black Market Brewing Co have live music?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-2c68a0d3" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Black Market Brewing Co have live music?**</div>
 No, there is no live music schedule at this time.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-6ec39f9f" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Black Market Brewing Co host events?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-6ec39f9f" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Black Market Brewing Co host events?**</div>
 Yes, Black Market Brewing host fun events for holidays and Wednesday new release days.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-0ae3e321" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does Black Market Brewing Co have food?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-0ae3e321" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Black Market Brewing Co have food?**</div>
 Yes, Black Market Brewing as about 13 signature house made pizzas as well as salads, wings, pretzels, and other pub favorites.
 </div>
 </div>
@@ -345,33 +275,23 @@ Kids and adults alike will love the retro-style arcade games, foosball tables an
 * 26755 Jefferson Ave, Murrieta, CA 92562*
 
 <div class="wp-block-uagb-faq uagb-faq__outer-wrap uagb-block-aaa8e5d8 uagb-faq-icon-row uagb-faq-layout-accordion uagb-faq-expand-first-true uagb-faq-inactive-other-true uagb-faq__wrap uagb-buttons-layout-wrap uagb-faq-equal-height" data-faqtoggle="true" role="tablist">
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-266d2704" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is 8 Bit Brewing Company family-friendly?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-266d2704" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is 8 Bit Brewing Company family-friendly?**</div>
 Yes, 8 Bit Brewing Company is family-friendly.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-83f04ccf" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Is 8 Bit Brewing Company dog-friendly?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-83f04ccf" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Is 8 Bit Brewing Company dog-friendly?**</div>
 Yes, 8 Bit Brewing Company has a dog-friendly patio.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-6c7fe115" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does 8 Bit Brewing Company have live music?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-6c7fe115" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does 8 Bit Brewing Company have live music?**</div>
 Yes, 8 Bit Brewing Company does have live music.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-eaf67443" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does 8 Bit Brewing Company host events?**</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-eaf67443" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does 8 Bit Brewing Company host events?**</div>
 Yes, 8 Bit Brewing Company host many fun events.
 </div>
 
-<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b7e0743d" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512">
-</path></svg>**Does 8 Bit Brewing Company have food? **</div>
+<div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b7e0743d" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does 8 Bit Brewing Company have food? **</div>
 Yes, 8 Bit Brewing Company has a full kitchen and extensive menu with a variety of items sure please a wide range of tastes.
 </div>
 </div>

@@ -44,8 +44,7 @@ The point of this article is to help you by giving a succinct overview for 20 of
 **Blue Man Group** @ Luxor
 *All Ages
 *What to expect: live music, drums, interactive, multimedia theatrics, comedy
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/blue-man-group-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Blue-Man-Group-family-Las-Vegas-Show.png)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/blue-man-group-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Blue-Man-Group-family-Las-Vegas-Show.png)</div></div></div></div></div>
 
 <div class="wp-block-ugb-feature ugb-feature ugb-398a010 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-398a010 .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-398a010 .ugb-button .ugb-button--inner,.ugb-398a010 .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-398a010 .ugb-button:before{border-radius:4px !important}.ugb-398a010 .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-398a010 .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-398a010 .ugb-img{width:200px;height:auto !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
@@ -54,8 +53,7 @@ The point of this article is to help you by giving a succinct overview for 20 of
 **The Magic of Jen Kramer** @ The Westgate
 *Ages 4+*
 What to expect: comedy, fun, audience participation, magic tricks
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/magic-jen-kramer-vegas-show/)</div></div><div class="ugb-feature__image-side">![](/images/the-magic-of-jen-kramer.jpg)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/magic-jen-kramer-vegas-show/)</div></div><div class="ugb-feature__image-side">![](/images/the-magic-of-jen-kramer.jpg)</div></div></div></div></div>
 
 <div class="wp-block-ugb-feature ugb-feature ugb-b5eb3ce ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-b5eb3ce .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-b5eb3ce .ugb-button .ugb-button--inner,.ugb-b5eb3ce .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-b5eb3ce .ugb-button:before{border-radius:4px !important}.ugb-b5eb3ce .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-b5eb3ce .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
@@ -64,8 +62,7 @@ What to expect: comedy, fun, audience participation, magic tricks
 **Popovich Comedy Pet Theatre** @ Planet Hollywood
 *All Ages
 *What to expect: physical comedy, animal tricks, clown, juggling
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/popovich-pet-theatre-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Gregory-Popovich-Family-Vegas-Show-with-pets.png)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/popovich-pet-theatre-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Gregory-Popovich-Family-Vegas-Show-with-pets.png)</div></div></div></div></div>
 
 <div class="wp-block-ugb-heading ugb-heading ugb-3fcb88e ugb-main-block"><style>.ugb-3fcb88e .ugb-heading__title{text-align:center}.ugb-3fcb88e .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-3fcb88e .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
@@ -98,8 +95,7 @@ So we didn’t make just a plain old list. **We also provide custom ratings alon
 **Showtimes:**&nbsp;Tuesday-Saturday @ 1:00pm and 3:00pm
 **What it's like**: magic, comedy, goofy, clean jokes, wild stunts
 hilarious, witty, interactive, kid-friendly, one-of-a-kind
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/mac-king-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Mac-King-kid-friendly-Magic-Comedy-show-Vegas.png)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/mac-king-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Mac-King-kid-friendly-Magic-Comedy-show-Vegas.png)</div></div></div></div></div>
 
 <figure><img src="/images/mac-king-graph-thrills-dance-laughs-wonder.png" alt="Mac King comedy show in Las Vegas for kids graph" /></figure>
 
@@ -116,8 +112,7 @@ hilarious, witty, interactive, kid-friendly, one-of-a-kind
 **Showtimes:**&nbsp;Thursday-Monday @ 7:00pm
 **What it's like**: comedy, chihuahua, magic tricks, stand-up
 charming, tricky, unique, hilarious, cheeky
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/piff-magic-dragon-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Piff-Magic-Dragon-Las-Vegas-Show.png)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/piff-magic-dragon-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Piff-Magic-Dragon-Las-Vegas-Show.png)</div></div></div></div></div>
 
 <figure><img src="/images/piff-graph-thrills-dance-laughs-wonder.png" alt="Piff Magic Dragon family show Las Vegas graph" /></figure>
 
@@ -141,8 +136,7 @@ You might recognize Piff from his successful run on the TV show America's Got Ta
 **Info**: All Ages, 75 mins, ave. cost: $$$
 **Showtimes:**&nbsp;MWTF: 7:00 &amp; 9:30pm, Sat-Sun: 4:00, 7:00 &amp; 9:30pm
 **What it's like**: audiovisual storytelling, synchronized dance moves energetic, pulse-pounding, exciting, fun, brilliant
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/jabbawockeez-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Jabbawockeez-Vegas-Show-for-kids.png)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/jabbawockeez-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Jabbawockeez-Vegas-Show-for-kids.png)</div></div></div></div></div>
 
 <figure><img src="/images/jabbawockeez-graph-thrills-dance-laughs-wonder.png" alt="Jabbawockeez best vegas show for families graph" /></figure>
 
@@ -163,8 +157,7 @@ Basically, this show has it all and I definitely recommend it as one of the best
 **Showtimes:**&nbsp;Mon/Thur/Sun @ 7:00pm, Fri/Sat @ 7:00 &amp; 9:30pm
 **What it's like**: cirque, storytelling, dance, acrobatics, pyrotechnics
 artistic, toe-tapping, dazzling, energetic, urban
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/michael-jackson-one-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Michael-Jackson-ONE-Show-Vegas-for-families.png)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/michael-jackson-one-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Michael-Jackson-ONE-Show-Vegas-for-families.png)</div></div></div></div></div>
 
 <figure><img src="/images/ONE-graph-thrills-dance-laughs-wonder.png" alt="Michael Jackson ONE Cirque Show for families in Vegas graph" /></figure>
 
@@ -183,8 +176,7 @@ Michael Jackson ONE will make you want to dance along, it will mesmerize and thr
 **Showtimes:**&nbsp;Thur-Mon @ 5:00 and 8:00pm
 **What it's like**: live music, drums, interactive, multimedia theatrics
 colorful, heart-pounding, creative, animated, humorous
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/blue-man-group-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Blue-Man-Group-family-Las-Vegas-Show.png)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/blue-man-group-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Blue-Man-Group-family-Las-Vegas-Show.png)</div></div></div></div></div>
 
 <figure><img src="/images/blue-man-group-graph-thrills-dance-laughs-wonder.png" alt="Blue Man Group Best Las Vegas Show for Kids graph" /></figure>
 
@@ -213,8 +205,7 @@ If you are in Las Vegas with kids once in your lifetime and you get to see just 
 **Showtimes:**&nbsp;Saturday-Wednesday, @7:00pm &amp; 9:30pm
 **What it's like**: cirque, martial arts, folklore, fire, puppetry, flying
 immersive, exotic stunts, engaging story, gravity-defying
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/ka-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Ka-Cirque-du-soleil-for-families-in-Vegas.png)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/ka-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Ka-Cirque-du-soleil-for-families-in-Vegas.png)</div></div></div></div></div>
 
 <figure><img src="/images/ka-graph-thrills-dance-laughs-wonder.png" alt="KA Cirque Las Vegas for families graph" /></figure>
 
@@ -233,8 +224,7 @@ The thrills and entertainment provided by KA are on par with what you expect fro
 **Showtimes:**&nbsp;Wed/Thurs @ 7:00pm, Fri-Sun @ 7:00 &amp; 9:30pm
 **What it's like**: water, synchronized swimming, diving, acrobats, contortion
 artistic, elemental, whimsical, stimulating, brilliant
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/o-cirque-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/O-Cirque-du-Soleil-Vegas-show.png)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/o-cirque-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/O-Cirque-du-Soleil-Vegas-show.png)</div></div></div></div></div>
 
 <figure><img src="/images/O-graph-thrills-dance-laughs-wonder.png" alt="O Bellagio Cirque du Soleil for kids in Vegas graph" /></figure>
 
@@ -253,8 +243,7 @@ The costumes and characters are visually stunning and the death-defying airborne
 **Showtimes:**&nbsp;Mon/Tue @ 7:00pm, Fri-Sun @ 7:00pm &amp; 9:30pm
 **What it's like**: cirque, acrobats, live band, storytelling, chinese poles
 magical, fantastic, original, thrilling, wondrous, fun
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/mystere-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Mystere-TI-family-friendly-Las-Vegas-Show.png)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/mystere-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Mystere-TI-family-friendly-Las-Vegas-Show.png)</div></div></div></div></div>
 
 <figure><img src="/images/mystere-graph-thrills-dance-laughs-wonder.png" alt="Mystere Cirque du Soleil family show Las Vegas graph" /></figure>
 
@@ -271,8 +260,7 @@ magical, fantastic, original, thrilling, wondrous, fun
 **Showtimes:**&nbsp;Wednesday-Sunday @ 7:00pm
 **What it's like**: illusions, acrobatics, live DJ, pyrotechnics
 wild, mysterious, immersive, incredible, mind-warping
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/criss-angel-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![Criss Angel Mindfreak](/images/Criss-Angel-Mindfreak-LIVE-Vegas-family-show.png)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/criss-angel-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![Criss Angel Mindfreak](/images/Criss-Angel-Mindfreak-LIVE-Vegas-family-show.png)</div></div></div></div></div>
 
 <figure><img src="/images/criss-angel-graph-thrills-dance-laughs-wonder.png" alt="Criss Angel Mindfreak show for kids in Las Vegas graph" /></figure>
 
@@ -290,8 +278,7 @@ The show incorporates top-notch stage production of 75 crazy illusions, with aes
 **Info**: Ages 5+,  75mins, ave. cost: $$
 **Showtimes:**&nbsp;Friday-Tuesday @ 7:00pm &amp; 9:30pm
 **What it's like**: technologically advanced, adventure, magic, storytelling, acrobatics, enchanting
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/awakening-las-vegas-show/)</div></div><div class="ugb-feature__image-side">![Awakening Family Show Las Vegas Wynn](/images/awakening-wynn-vegas-family-show.jpg)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/awakening-las-vegas-show/)</div></div><div class="ugb-feature__image-side">![Awakening Family Show Las Vegas Wynn](/images/awakening-wynn-vegas-family-show.jpg)</div></div></div></div></div>
 
 **Overview:** Awakening is pure magic on stage. This show is like stepping into a living fairy tale, where breathtaking visuals and stunning performances come together to create a world of wonder. The story is captivating, following the journey of a hero through realms of light, water, and fire, filled with mesmerizing characters and unforgettable moments. Kids will be wide-eyed with excitement, and parents will be just as enchanted!
 
@@ -317,8 +304,7 @@ Another reason *Awakening* is great for families is its pace. The show moves qui
 **Info**: 4+, 75 mins, ave. cost: $
 **Showtimes:**&nbsp;Friday - Sunday @ 5:00pm
 **What it's like**: comedy, fun, audience participation, magic tricks, engaging
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/magic-jen-kramer-vegas-show/)</div></div><div class="ugb-feature__image-side">![](/images/the-magic-of-jen-kramer.jpg)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/magic-jen-kramer-vegas-show/)</div></div><div class="ugb-feature__image-side">![](/images/the-magic-of-jen-kramer.jpg)</div></div></div></div></div>
 
 <figure><img src="/images/the-magic-of-jen-kramer-150x150-1.png" alt="graph of experience at Magic of Jen Kramer Show at Westgate" /></figure>
 
@@ -334,8 +320,7 @@ Another reason *Awakening* is great for families is its pace. The show moves qui
 **Info**: Ages 5+, 90mins, ave. cost: $$
 **Showtimes:**&nbsp;Thursday-Monday @ 7:30pm
 **What it's like**: magical, spellbinding, master of card tricks, captivating, mesmerizing, storytelling
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/shin-lim-las-vegas-show/)</div></div><div class="ugb-feature__image-side">![](/images/shin-lim-family-show-las-vegas-1024x1024.jpg)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/shin-lim-las-vegas-show/)</div></div><div class="ugb-feature__image-side">![](/images/shin-lim-family-show-las-vegas-1024x1024.jpg)</div></div></div></div></div>
 
 **Overview:** Looking for Las Vegas Illusionist shows? The Shin Lim show in Las Vegas is a captivating and mesmerizing experience that combines the art of magic, illusion, and sleight of hand with Shin Lim's unique style and incredible talent. Known for his appearances on "America's Got Talent" and winning the competition twice, Shin Lim has taken the world by storm with his extraordinary performances. Shin Lim brings his unparalleled skill and artistry to the stage, leaving the audience spellbound and in awe.
 
@@ -352,8 +337,7 @@ His performances are filled with mind-blowing illusions, mind-reading tricks, an
 **Showtimes:**&nbsp;Thursday-Sunday @ 9:00pm
 **What it's like**: magic tricks, comedy, jokes, cards, learn tricks
 daring, awe-inspiring, humorous, wildly entertaining
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/penn-teller-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Penn-and-Teller-family-Show-in-Vegas.png)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/penn-teller-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Penn-and-Teller-family-Show-in-Vegas.png)</div></div></div></div></div>
 
 <figure><img src="/images/penn-teller-graph-thrills-dance-laughs-wonder.png" alt="Penn and Teller Magic Show for kids in Vegas graph" /></figure>
 
@@ -371,8 +355,7 @@ You never know what to expect at a Penn &amp; Teller show, but you will always g
 **Info**: Ages 5+, 75mins, ave. cost: $
 **Showtimes:**&nbsp;Tue/Wed, Fri-Sun @ 4:00pm
 **What it's like**: magic, hypnosis, mind reading, surprising
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/paranormal-mindreading-magic-las-vegas/)</div></div><div class="ugb-feature__image-side">![](/images/paranormal-mind-reading-magic-show-las-vegas.jpg)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/paranormal-mindreading-magic-las-vegas/)</div></div><div class="ugb-feature__image-side">![](/images/paranormal-mind-reading-magic-show-las-vegas.jpg)</div></div></div></div></div>
 
 <figure><img src="/images/goldrake-graph-thrills-dance-laughs-wonder.png" alt="David Goldrake Magic show for kids in Vegas graph" /></figure>
 
@@ -395,8 +378,7 @@ You never know what to expect at a Penn &amp; Teller show, but you will always g
 **Showtimes:**&nbsp;Tuesday-Saturday @ 2:30pm
 **What it's like**: physical comedy, animal tricks, clown, juggling
 unique, entertaining, clean fun, amazing, cute
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/popovich-pet-theatre-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Gregory-Popovich-Family-Vegas-Show-with-pets.png)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/popovich-pet-theatre-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Gregory-Popovich-Family-Vegas-Show-with-pets.png)</div></div></div></div></div>
 
 <figure><img src="/images/popovich-graph-thrills-dance-laughs-wonder.png" alt="Gregory Popovich Show in Vegas for families graph" /></figure>
 
@@ -414,8 +396,7 @@ The cast includes an amazing 25 pets, including 10 dogs and 15 cats, that were r
 **Info**: Ages 6+, 70 mins, ave. cost: $$
 **Showtimes:**&nbsp;Mon/Tue/Thur/Fri @ 8:00pm, Sat-Sun @ 2:00 &amp; 8:00pm
 **What it's like**: comedy, ridiculous props, costumes, storytelling, goofy
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/potted-potter-vegas-show/)</div></div><div class="ugb-feature__image-side">![](/images/potted-potter-las-vegas-show-for-kids.jpg)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/potted-potter-vegas-show/)</div></div><div class="ugb-feature__image-side">![](/images/potted-potter-las-vegas-show-for-kids.jpg)</div></div></div></div></div>
 
 <figure><img src="/images/laughternoon-graph-thrills-dance-laughs-wonder.png" alt="Laughternoon with Adam London comedy in Vegas for kids graph" /></figure>
 
@@ -431,8 +412,7 @@ The cast includes an amazing 25 pets, including 10 dogs and 15 cats, that were r
 **Info**: All Ages, 75 mins, ave. cost: $$
 **Showtimes:**&nbsp;Everyday @ 4:00pm
 **What it's like**: comedy, illusions, showgirls, captivating, fun
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/nathan-burton-comedy-magic-show-las-vegas/)</div></div><div class="ugb-feature__image-side">![Nathan Burton Comedy Magic Las Vegas Shows For Kids](/images/nathan-burton-las-vegas-show-all-ages.jpg)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/nathan-burton-comedy-magic-show-las-vegas/)</div></div><div class="ugb-feature__image-side">![Nathan Burton Comedy Magic Las Vegas Shows For Kids](/images/nathan-burton-las-vegas-show-all-ages.jpg)</div></div></div></div></div>
 
 <figure><img src="/images/civillico-graph-thrills-dance-laughs-wonder.png" alt="Jeff Civillico kid friendly Vegas show graph" /></figure>
 
@@ -449,8 +429,7 @@ The cast includes an amazing 25 pets, including 10 dogs and 15 cats, that were r
 **Showtimes:**&nbsp;Every day @ 7:00pm and 8:30pm
 **What it's like**: variety, circus, magic, comedy, singing
 exhilarating, insane, entertaining, energetic
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/v-variety-show-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/V-Ultimate-Variety-Show-for-kids-Las-Vegas.png)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/v-variety-show-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/V-Ultimate-Variety-Show-for-kids-Las-Vegas.png)</div></div></div></div></div>
 
 <figure><img src="/images/v-variety-graph-thrills-dance-laughs-wonder.png" alt="V Ultimate Variety show in Vegas for kids graph" /></figure>
 
@@ -467,8 +446,7 @@ exhilarating, insane, entertaining, energetic
 **Showtimes:**&nbsp;Wednesday-Monday @ 6:00pm, and Thursday-Sunday @ 8:30
 **What it's like**: dinner and show, jousting, King Arthur, pyrotechnics
 delicious, family fun, entertaining, funny, fantastic
-<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
-</path></svg></div>**Book it!**](/go/tournament-kings-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Tournament-of-Kings-Vegas-Show-and-Dinner-for-kids.png)</div></div></div></div></div>
+<div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/tournament-kings-las-vegas-bov/)</div></div><div class="ugb-feature__image-side">![](/images/Tournament-of-Kings-Vegas-Show-and-Dinner-for-kids.png)</div></div></div></div></div>
 
 <figure><img src="/images/tournament-kings-graph-thrills-dance-laughs-wonder.png" alt="Tournament of kings Vegas show with kids graph" /></figure>
 
