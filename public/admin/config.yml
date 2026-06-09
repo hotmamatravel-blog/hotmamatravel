@@ -1,6 +1,8 @@
 backend:
   name: git-gateway
   branch: main
+  identity_url: "https://hotmamatravel-blog.netlify.app/.netlify/identity"
+  gateway_url: "https://hotmamatravel-blog.netlify.app/.netlify/git"
 
 # This gives you a web editor at hotmamatravel.com/admin/
 # Log in with your GitHub account — no separate password needed
