@@ -74,10 +74,220 @@ collections:
   # ---- STATIC PAGES ----
   - name: "pages"
     label: "Pages"
-    label_singular: "Page"
-    folder: "src/content/pages"
-    create: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "text", required: false }
-      - { label: "Body", name: "body", widget: "richtext" }
+    delete: false
+    files:
+      - label: "About Me"
+        name: "about"
+        file: "src/content/blog/about.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description / Excerpt", name: "description", widget: "text", required: false }
+          - { label: "Hero Image URL", name: "heroImage", widget: "image", required: false }
+          - { label: "Hero Image Alt Text", name: "heroImageAlt", widget: "string", required: false }
+          - { label: "Body", name: "body", widget: "richtext" }
+          - { label: "SEO Title Override", name: "seoTitle", widget: "string", required: false }
+          - { label: "SEO Description Override", name: "seoDescription", widget: "text", required: false }
+          - { label: "Publish Date", name: "pubDate", widget: "hidden", required: false }
+          - { label: "Updated Date", name: "updatedDate", widget: "hidden", required: false }
+          - { label: "WordPress ID", name: "wpId", widget: "hidden", required: false }
+          - { label: "WordPress Slug", name: "wpSlug", widget: "hidden", required: false }
+          - { label: "Author", name: "author", widget: "hidden", default: "Amanda Keeley-Thurman", required: false }
+
+      - label: "Contact"
+        name: "contact"
+        file: "src/content/blog/contact.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description / Excerpt", name: "description", widget: "text", required: false }
+          - { label: "Body", name: "body", widget: "richtext" }
+          - { label: "SEO Title Override", name: "seoTitle", widget: "string", required: false }
+          - { label: "SEO Description Override", name: "seoDescription", widget: "text", required: false }
+          - { label: "Publish Date", name: "pubDate", widget: "hidden", required: false }
+          - { label: "Updated Date", name: "updatedDate", widget: "hidden", required: false }
+          - { label: "WordPress ID", name: "wpId", widget: "hidden", required: false }
+          - { label: "WordPress Slug", name: "wpSlug", widget: "hidden", required: false }
+          - { label: "Author", name: "author", widget: "hidden", default: "Amanda Keeley-Thurman", required: false }
+
+      - label: "Work With Us"
+        name: "work-with-us"
+        file: "src/content/blog/work-with-us.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description / Excerpt", name: "description", widget: "text", required: false }
+          - { label: "Body", name: "body", widget: "richtext" }
+          - { label: "SEO Title Override", name: "seoTitle", widget: "string", required: false }
+          - { label: "SEO Description Override", name: "seoDescription", widget: "text", required: false }
+          - { label: "Publish Date", name: "pubDate", widget: "hidden", required: false }
+          - { label: "Updated Date", name: "updatedDate", widget: "hidden", required: false }
+          - { label: "WordPress ID", name: "wpId", widget: "hidden", required: false }
+          - { label: "WordPress Slug", name: "wpSlug", widget: "hidden", required: false }
+          - { label: "Author", name: "author", widget: "hidden", default: "Amanda Keeley-Thurman", required: false }
+
+      - label: "Campaign Portfolio"
+        name: "campaign-portfolio"
+        file: "src/content/blog/campaign-portfolio.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description / Excerpt", name: "description", widget: "text", required: false }
+          - { label: "Body", name: "body", widget: "richtext" }
+          - { label: "SEO Title Override", name: "seoTitle", widget: "string", required: false }
+          - { label: "SEO Description Override", name: "seoDescription", widget: "text", required: false }
+          - { label: "Publish Date", name: "pubDate", widget: "hidden", required: false }
+          - { label: "Updated Date", name: "updatedDate", widget: "hidden", required: false }
+          - { label: "WordPress ID", name: "wpId", widget: "hidden", required: false }
+          - { label: "WordPress Slug", name: "wpSlug", widget: "hidden", required: false }
+          - { label: "Author", name: "author", widget: "hidden", default: "Amanda Keeley-Thurman", required: false }
+
+      - label: "Destinations"
+        name: "destinations"
+        file: "src/content/blog/destinations.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description / Excerpt", name: "description", widget: "text", required: false }
+          - { label: "Body", name: "body", widget: "richtext" }
+          - { label: "SEO Title Override", name: "seoTitle", widget: "string", required: false }
+          - { label: "SEO Description Override", name: "seoDescription", widget: "text", required: false }
+          - { label: "Publish Date", name: "pubDate", widget: "hidden", required: false }
+          - { label: "Updated Date", name: "updatedDate", widget: "hidden", required: false }
+          - { label: "WordPress ID", name: "wpId", widget: "hidden", required: false }
+          - { label: "WordPress Slug", name: "wpSlug", widget: "hidden", required: false }
+          - { label: "Author", name: "author", widget: "hidden", default: "Amanda Keeley-Thurman", required: false }
+
+      - label: "Disclosure Policy"
+        name: "disclosure-policy"
+        file: "src/content/blog/disclosure-policy.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description / Excerpt", name: "description", widget: "text", required: false }
+          - { label: "Body", name: "body", widget: "richtext" }
+          - { label: "SEO Title Override", name: "seoTitle", widget: "string", required: false }
+          - { label: "SEO Description Override", name: "seoDescription", widget: "text", required: false }
+          - { label: "Publish Date", name: "pubDate", widget: "hidden", required: false }
+          - { label: "Updated Date", name: "updatedDate", widget: "hidden", required: false }
+          - { label: "WordPress ID", name: "wpId", widget: "hidden", required: false }
+          - { label: "WordPress Slug", name: "wpSlug", widget: "hidden", required: false }
+          - { label: "Author", name: "author", widget: "hidden", default: "Amanda Keeley-Thurman", required: false }
+
+      - label: "Privacy Policy"
+        name: "privacy-policy"
+        file: "src/content/blog/privacy-policy.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description / Excerpt", name: "description", widget: "text", required: false }
+          - { label: "Body", name: "body", widget: "richtext" }
+          - { label: "SEO Title Override", name: "seoTitle", widget: "string", required: false }
+          - { label: "SEO Description Override", name: "seoDescription", widget: "text", required: false }
+          - { label: "Publish Date", name: "pubDate", widget: "hidden", required: false }
+          - { label: "Updated Date", name: "updatedDate", widget: "hidden", required: false }
+          - { label: "WordPress ID", name: "wpId", widget: "hidden", required: false }
+          - { label: "WordPress Slug", name: "wpSlug", widget: "hidden", required: false }
+          - { label: "Author", name: "author", widget: "hidden", default: "Amanda Keeley-Thurman", required: false }
+
+      - label: "Cookie Policy"
+        name: "cookie-policy"
+        file: "src/content/blog/cookie-policy.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description / Excerpt", name: "description", widget: "text", required: false }
+          - { label: "Body", name: "body", widget: "richtext" }
+          - { label: "SEO Title Override", name: "seoTitle", widget: "string", required: false }
+          - { label: "SEO Description Override", name: "seoDescription", widget: "text", required: false }
+          - { label: "Publish Date", name: "pubDate", widget: "hidden", required: false }
+          - { label: "Updated Date", name: "updatedDate", widget: "hidden", required: false }
+          - { label: "WordPress ID", name: "wpId", widget: "hidden", required: false }
+          - { label: "WordPress Slug", name: "wpSlug", widget: "hidden", required: false }
+          - { label: "Author", name: "author", widget: "hidden", default: "Amanda Keeley-Thurman", required: false }
+
+      - label: "Terms of Use"
+        name: "terms-of-use"
+        file: "src/content/blog/terms-of-use.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description / Excerpt", name: "description", widget: "text", required: false }
+          - { label: "Body", name: "body", widget: "richtext" }
+          - { label: "SEO Title Override", name: "seoTitle", widget: "string", required: false }
+          - { label: "SEO Description Override", name: "seoDescription", widget: "text", required: false }
+          - { label: "Publish Date", name: "pubDate", widget: "hidden", required: false }
+          - { label: "Updated Date", name: "updatedDate", widget: "hidden", required: false }
+          - { label: "WordPress ID", name: "wpId", widget: "hidden", required: false }
+          - { label: "WordPress Slug", name: "wpSlug", widget: "hidden", required: false }
+          - { label: "Author", name: "author", widget: "hidden", default: "Amanda Keeley-Thurman", required: false }
+
+      - label: "Subscribe"
+        name: "subscribe-hotmamatravel"
+        file: "src/content/blog/subscribe-hotmamatravel.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description / Excerpt", name: "description", widget: "text", required: false }
+          - { label: "Body", name: "body", widget: "richtext" }
+          - { label: "SEO Title Override", name: "seoTitle", widget: "string", required: false }
+          - { label: "SEO Description Override", name: "seoDescription", widget: "text", required: false }
+          - { label: "Publish Date", name: "pubDate", widget: "hidden", required: false }
+          - { label: "Updated Date", name: "updatedDate", widget: "hidden", required: false }
+          - { label: "WordPress ID", name: "wpId", widget: "hidden", required: false }
+          - { label: "WordPress Slug", name: "wpSlug", widget: "hidden", required: false }
+          - { label: "Author", name: "author", widget: "hidden", default: "Amanda Keeley-Thurman", required: false }
+
+      - label: "Confirmation"
+        name: "confirmation"
+        file: "src/content/blog/confirmation.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description / Excerpt", name: "description", widget: "text", required: false }
+          - { label: "Body", name: "body", widget: "richtext" }
+          - { label: "SEO Title Override", name: "seoTitle", widget: "string", required: false }
+          - { label: "SEO Description Override", name: "seoDescription", widget: "text", required: false }
+          - { label: "Publish Date", name: "pubDate", widget: "hidden", required: false }
+          - { label: "Updated Date", name: "updatedDate", widget: "hidden", required: false }
+          - { label: "WordPress ID", name: "wpId", widget: "hidden", required: false }
+          - { label: "WordPress Slug", name: "wpSlug", widget: "hidden", required: false }
+          - { label: "Author", name: "author", widget: "hidden", default: "Amanda Keeley-Thurman", required: false }
+
+      - label: "Something Broke"
+        name: "something-broke"
+        file: "src/content/blog/something-broke.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description / Excerpt", name: "description", widget: "text", required: false }
+          - { label: "Body", name: "body", widget: "richtext" }
+          - { label: "SEO Title Override", name: "seoTitle", widget: "string", required: false }
+          - { label: "SEO Description Override", name: "seoDescription", widget: "text", required: false }
+          - { label: "Publish Date", name: "pubDate", widget: "hidden", required: false }
+          - { label: "Updated Date", name: "updatedDate", widget: "hidden", required: false }
+          - { label: "WordPress ID", name: "wpId", widget: "hidden", required: false }
+          - { label: "WordPress Slug", name: "wpSlug", widget: "hidden", required: false }
+          - { label: "Author", name: "author", widget: "hidden", default: "Amanda Keeley-Thurman", required: false }
+
+      - label: "⭐ Las Vegas with Kids (Cornerstone)"
+        name: "las-vegas-with-kids"
+        file: "src/content/blog/las-vegas-with-kids.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description / Excerpt", name: "description", widget: "text", required: false }
+          - { label: "Hero Image URL", name: "heroImage", widget: "image", required: false }
+          - { label: "Hero Image Alt Text", name: "heroImageAlt", widget: "string", required: false }
+          - { label: "Body", name: "body", widget: "richtext" }
+          - { label: "SEO Title Override", name: "seoTitle", widget: "string", required: false }
+          - { label: "SEO Description Override", name: "seoDescription", widget: "text", required: false }
+          - { label: "Publish Date", name: "pubDate", widget: "hidden", required: false }
+          - { label: "Updated Date", name: "updatedDate", widget: "hidden", required: false }
+          - { label: "WordPress ID", name: "wpId", widget: "hidden", required: false }
+          - { label: "WordPress Slug", name: "wpSlug", widget: "hidden", required: false }
+          - { label: "Author", name: "author", widget: "hidden", default: "Amanda Keeley-Thurman", required: false }
+
+      - label: "⭐ Family-Friendly Vegas (Cornerstone)"
+        name: "family-friendly-vegas"
+        file: "src/content/blog/family-friendly-vegas.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Description / Excerpt", name: "description", widget: "text", required: false }
+          - { label: "Hero Image URL", name: "heroImage", widget: "image", required: false }
+          - { label: "Hero Image Alt Text", name: "heroImageAlt", widget: "string", required: false }
+          - { label: "Body", name: "body", widget: "richtext" }
+          - { label: "SEO Title Override", name: "seoTitle", widget: "string", required: false }
+          - { label: "SEO Description Override", name: "seoDescription", widget: "text", required: false }
+          - { label: "Publish Date", name: "pubDate", widget: "hidden", required: false }
+          - { label: "Updated Date", name: "updatedDate", widget: "hidden", required: false }
+          - { label: "WordPress ID", name: "wpId", widget: "hidden", required: false }
+          - { label: "WordPress Slug", name: "wpSlug", widget: "hidden", required: false }
+          - { label: "Author", name: "author", widget: "hidden", default: "Amanda Keeley-Thurman", required: false }
