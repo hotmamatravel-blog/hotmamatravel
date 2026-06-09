@@ -110,7 +110,7 @@ const props = Astro.props;
     <script is:inline>
       if (window.netlifyIdentity) {
         window.netlifyIdentity.init({
-          APIUrl: 'https://hotmamatravel-blog.netlify.app/.netlify/functions/identity'
+          APIUrl: 'https://hotmamatravel-blog.netlify.app/.netlify/identity'
         });
         window.netlifyIdentity.on("init", user => {
           if (!user) {
