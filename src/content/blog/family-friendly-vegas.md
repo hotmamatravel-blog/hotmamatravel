@@ -72,8 +72,6 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 - [Rare Las Vegas Hotels with Balcony Rooms](/las-vegas-hotels-balcony-rooms/)
 
-- [5 Best Las Vegas Airbnb Properties Close to the Strip!](/las-vegas-airbnb/)
-
 - [Great places to stay in Las Vegas for Big Families near the Vegas Strip](/las-vegas-accommodations-large-family-group/)
 
 - [Las Vegas Strip Hotel Map: A unique map of main hotels on the Vegas Strip](/las-vegas-strip-hotel-map/)

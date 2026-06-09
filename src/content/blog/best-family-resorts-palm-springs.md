@@ -449,7 +449,7 @@ Westin Mission Hills does not have a shuttle service, but you should have no pro
 
 As SoCal natives, we absolutely love visiting the Palm Springs area. There is a good reason why so many families from around the world visit Palm Springs every year, and it isn't just for the golf courses! Here we highlighted what we believe are the 3 best kid-friendly resorts near Palm Springs, and you really can't go wrong choosing any of these three family resorts in Rancho Mirage and Palm Desert. We also have list of the [best family pools in Palm Springs](/best-pools-in-palm-springs/)!
 
-Also, before you plan your next visit, be sure to check out our ultimate guide for **[things to do in Palm Springs with kids](/palm-springs-with-kids/)**, and [best Palm Springs tours](/best-palm-springs-tours/). Also see our articles on the [best glamping spots in Palm Springs](/glamping-palm-springs/), [Joshua Tree](/glamping-joshua-tree-national-park/), and the best [Airbnb homes in Palm Springs](/palm-springs-airbnb/).
+Also, before you plan your next visit, be sure to check out our ultimate guide for **[things to do in Palm Springs with kids](/palm-springs-with-kids/)**, and [best Palm Springs tours](/best-palm-springs-tours/). Also see our articles on the [best glamping spots in Palm Springs](/glamping-palm-springs/) and [Joshua Tree](/glamping-joshua-tree-national-park/).
 
 <section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7b19364c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 

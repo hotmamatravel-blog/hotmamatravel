@@ -25,7 +25,7 @@ Palm Springs is down-to-earth, affordable and fun for families, which is why **I
 
 <blockquote>
 
-If you are looking for a kid-friendly place to stay in Palm Springs, be sure to check out our List of the [best family resorts in Palm Springs](/best-family-resorts-palm-springs/), [best glamping spots](/glamping-palm-springs/) and [best Airbnb Palm Springs](/palm-springs-airbnb/).
+If you are looking for a kid-friendly place to stay in Palm Springs, be sure to check out our List of the [best family resorts in Palm Springs](/best-family-resorts-palm-springs/) and [best glamping spots](/glamping-palm-springs/).
 
 </blockquote>
 
