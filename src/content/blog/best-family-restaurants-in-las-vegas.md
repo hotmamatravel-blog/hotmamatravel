@@ -19,7 +19,7 @@ Ready to embark on a culinary adventure in the heart of Vegas? Say hello to my g
 
 ## Best Family Restaurants In Las Vegas
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 ### [Family-Friendly Restaurants NYNY](/go/nyny-hotel-las-vegas/)
 
@@ -49,12 +49,9 @@ And what's an Irish pub without a proper pint? Nine Fine Irishmen boasts an impr
 
 [**See photos, reviews &amp; more**](/go/nyny-hotel-las-vegas/)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
-
 ### [Family-Friendly Restaurants at The Linq](/go/linq-hotel-las-vegas/)
 
 3535 Las Vegas Blvd S, Las Vegas, NV 89109
-</div>
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="linq-hitel-vegas-family-restaurants"><figure><a href="/images/linq-hitel-vegas-family-restaurants.jpg"><img src="/images/linq-hitel-vegas-family-restaurants.jpg" alt="family restaurnts at The Linq Las Vegas" /></a></figure></div>
 
@@ -165,12 +162,9 @@ From classic cheeseburgers to inventive creations like the Greg Norman Burger to
 
 [**See photos, reviews &amp; more**](/go/the-venetian-resort-las-vegas/)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-d97458a2">
-
 ### [Mandalay Bay Kid-Friendly Restaurants](/go/mandalay-bay-hotel-las-vegas/)
 
 3950 S Las Vegas Blvd, Las Vegas, NV 89119
-</div>
 
 <div class="wp-block-uagb-image uagb-block-360b76b2 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/family-restaurants-mandalay.jpg"><img src="/images/family-restaurants-mandalay.jpg" alt="Family Restaurants Las Vegas Mandalay Bay" /></a></figure></div>
 
@@ -190,12 +184,9 @@ From classic cheeseburgers to inventive creations like the Greg Norman Burger to
 
 **[See Photos, Reviews, &amp; More](/go/mandalay-bay-hotel-las-vegas/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-be0e4927">
-
 ### [Family Restaurants at Paris Las Vegas](/go/paris-las-vegas/)
 
 3655 S Las Vegas Blvd, Las Vegas, NV 89109
-</div>
 
 <div class="wp-block-uagb-image uagb-block-8a1e9778 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="family-restaurants-paris-las-vegas"><figure><a href="/images/family-restaurants-paris-las-vegas.jpg"><img src="/images/family-restaurants-paris-las-vegas.jpg" alt="Paris Las Vegas kid-friendly restaurants" /></a></figure></div>
 
@@ -211,12 +202,9 @@ From classic cheeseburgers to inventive creations like the Greg Norman Burger to
 
 **[See Photos, Reviews, &amp; More](/go/paris-las-vegas/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-12452824">
-
 ### [Family Restaurants in Luxor](/go/the-luxor-hotel-las-vegas/)
 
 3900 S Las Vegas Blvd, Las Vegas, NV 8911
-</div>
 
 <div class="wp-block-uagb-image uagb-block-5cef4af6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="family-restaurants-luxor-vegas"><figure><a href="/images/family-restaurants-luxor-vegas.jpg"><img src="/images/family-restaurants-luxor-vegas.jpg" alt="family restaurants in Luxor Las Vegas" /></a></figure></div>
 
@@ -230,12 +218,9 @@ From classic cheeseburgers to inventive creations like the Greg Norman Burger to
 
 **[See Photos, Reviews, &amp; More](/go/the-luxor-hotel-las-vegas/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-dd0bab2e">
-
 ### [Kid-Friendly Excalibur Restaurants](/go/excalibur-hotel-las-vegas/)
 
 3850 S Las Vegas Blvd, Las Vegas, NV 89109
-</div>
 
 <div class="wp-block-uagb-image uagb-block-db0ac4ce wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="family-restaurants-excalibur-vegas"><figure><a href="/images/family-restaurants-excalibur-vegas.jpg"><img src="/images/family-restaurants-excalibur-vegas.jpg" alt="kid-friendly restaurants Excalibur Las Vegas" /></a></figure></div>
 
@@ -255,16 +240,13 @@ From classic cheeseburgers to inventive creations like the Greg Norman Burger to
 
 ## Kid-Friendly Vegas Restaurants Near The Strip
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-e75a11e5 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/casa-di-amore-family-restaurants-las-vegas.jpg"><img src="/images/casa-di-amore-family-restaurants-las-vegas.jpg" alt="casa di amore family restaurant in las vegas" /></a></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-664355f7">
 
 ### [Casa Di Amore](/go/casa-di-amore-family-restaurant-las-vegas/)
 
 2850 E Tropicana Ave, Las Vegas, NV 89121
-</div>
 
 Casa Di Amore is a beloved Las Vegas institution known for its welcoming atmosphere and classic Italian-American fare. Families will appreciate the restaurant's cozy ambiance and attentive service, as well as its extensive menu featuring hearty pasta dishes, flavorful pizzas, and mouthwatering desserts. With its live entertainment and Old Vegas charm, Casa Di Amore provides a nostalgic dining experience that families will treasure for years to come. Best part, they pick you up from your hotel, so no need to drive.
 
@@ -272,12 +254,9 @@ Casa Di Amore is a beloved Las Vegas institution known for its welcoming atmosph
 
 **[See Photos, Reviews, &amp; More](/go/casa-di-amore-family-restaurant-las-vegas/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-75c04d2f">
-
 ### [Cracker Barrel](/go/cracker-barrel-las-vegas/)
 
 8350 Dean Martin Dr, Las Vegas, NV 89139
-</div>
 
 Cracker Barrel is a fantastic choice for families visiting Las Vegas because it offers a warm and inviting atmosphere reminiscent of home. With its hearty comfort food, friendly service, affordable prices, and charming country store, Cracker Barrel provides a welcoming environment where families can enjoy delicious meals together and even pick up some unique souvenirs to remember their trip by.
 
@@ -285,12 +264,9 @@ Cracker Barrel is a fantastic choice for families visiting Las Vegas because it 
 
 <div class="wp-block-uagb-image uagb-block-b927d960 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="benihana-westgate-las-vegas"><figure><a href="/images/benihana-westgate.jpg"><img src="/images/benihana-westgate.jpg" alt="benihana family restaurant las vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-bcebbabf">
-
 ### [Benihana at Westgate](/go/benihana-westgate-las-vegas/)
 
 3000 Paradise Rd, Las Vegas, NV 89109
-</div>
 
 Benihana at Westgate is a standout restaurant for families in Las Vegas due to its exciting teppanyaki dining experience and amazingly beautiful ambiance. Kids and adults alike will be thrilled by the skilled chefs who cook up a show right at their table, complete with dazzling knife skills and fiery theatrics. With its interactive atmosphere and delicious Japanese cuisine, Benihana offers a fun and memorable dining adventure for the whole family.
 
@@ -300,12 +276,9 @@ Benihana at Westgate is a standout restaurant for families in Las Vegas due to i
 
 <div class="wp-block-uagb-image uagb-block-d2570bad wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/rainforest-cafe-las-vegas-restaurant.jpg"><img src="/images/rainforest-cafe-las-vegas-restaurant.jpg" alt="Rainforest Cafe Family Las Vegas Restaurant" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-95aab29f">
-
 ### [Rainforest Cafe Las Vegas](/go/rainforest-cafe-las-vegas/)
 
 3717 S Las Vegas Blvd, Las Vegas, NV 89109
-</div>
 
 The Rainforest Cafe in Las Vegas is more than just a meal; it’s a fun, immersive adventure that families will love! Located next to the MGM Grand and across the street from the Shops at Crystals, this jungle-themed restaurant transports you into a lively rainforest setting complete with waterfalls, animatronic animals, and thunderstorms. Kids are instantly captivated by the lifelike gorillas, elephants, and tropical birds that "come to life" as you dine, making every meal an experience.
 
@@ -323,9 +296,9 @@ Don't miss out on exploring more of our** [Las Vegas family travel guides](/fami
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="best-family-restaurants-in-las-vegas"><a href="/images/best-family-restaurants-in-las-vegas.jpg"><img src="/images/best-family-restaurants-in-las-vegas-200x300.jpg" alt="best family restaurants in las vegas" /></a></figure>
-</div></div>
+

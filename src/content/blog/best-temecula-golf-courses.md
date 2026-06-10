@@ -14,7 +14,7 @@ author: "Amanda Keeley-Thurman"
 
 Temecula, California over the years has become quite a popular travel destination with increasingly more and more things to enjoy, such as [wineries](/kid-friendly-wineries-temecula-ca/), [breweries](/best-breweries-in-temecula-ca/)and a huge casino resort. No resort town is complete without a few premiere golf courses, am I right? Temecula actually has seven amazing golf courses that take advantage of the beautiful surrounding nature and give you a fun-filled day outdoors!
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-fb0169f3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="legends-golf-club-temeku-hills-temecula-ca"><a href="/images/legends-golf-club-temeku-hills-temecula-ca.jpg"><img src="/images/legends-golf-club-temeku-hills-temecula-ca.jpg" alt="" /></a></figure>
 
 #### **[The Legends Golf Club &amp; Course (Temeku Hills Golf)](/go/legends-temeku-hills-golf-course-temecula-ca/)**
@@ -25,9 +25,9 @@ Designed by Ted Robinson, this 72 par, 18-hole course is 6,636 yards with a 131 
 
 [See photos, reviews &amp; more](/go/legends-temeku-hills-golf-course-temecula-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-80876cf6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="temecula-creek-inn-golf-oaks-course"><a href="/images/temecula-creek-inn-golf-oaks-course.jpg"><img src="/images/temecula-creek-inn-golf-oaks-course.jpg" alt="" /></a></figure>
 
 #### **[Temecula Creek Inn, Oaks Cours](/go/temecula-creek-inn-golf-courses-temecula-ca/)e**
@@ -38,9 +38,9 @@ Also designed by Ted Robinson, this 9-hole course is over 3,436 yards with a par
 
 [See photos, reviews &amp; more](/go/temecula-creek-inn-golf-courses-temecula-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e2e26769"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="temecula-creek-inn-golf-creek-course"><a href="/images/temecula-creek-inn-golf-creek-course.jpg"><img src="/images/temecula-creek-inn-golf-creek-course.jpg" alt="" /></a></figure>
 
 #### **[Temecula Creek Inn, Creek Course](/go/temecula-creek-inn-golf-courses-temecula-ca/)**
@@ -51,9 +51,9 @@ This 9-hole, 36 par course is 3,348 yards on Bermuda grass. Designed by Ted Robi
 
 [See photos, reviews &amp; more](/go/temecula-creek-inn-golf-courses-temecula-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-632cec7c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="temecula-creek-inn-golf-stone-house-course"><a href="/images/temecula-creek-inn-golf-stone-house-course.jpg"><img src="/images/temecula-creek-inn-golf-stone-house-course.jpg" alt="" /></a></figure>
 
 #### **[Temecula Creek Inn, Stonehouse Course](/go/temecula-creek-inn-golf-courses-temecula-ca/)**
@@ -64,9 +64,9 @@ The Stonehouse Course is set along Temecula Creek Inn’s historic cottage. This
 
 [See photos, reviews &amp; more](/go/temecula-creek-inn-golf-courses-temecula-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-31e7de08"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="redhawk-golf-course-temecula-ca"><a href="/images/redhawk-golf-course-temecula-ca.jpg"><img src="/images/redhawk-golf-course-temecula-ca.jpg" alt="" /></a></figure>
 
 #### **[RedHawk Golf Course](/go/redhawk-golf-course-temecula-ca/)**
@@ -77,9 +77,9 @@ Home to the famous “Island Green,” this 18-hole is&nbsp; over 7,180 yards wi
 
 [See photos, reviews &amp; more](/go/redhawk-golf-course-temecula-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-86040ba7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="best-golf-course-temecula-journey-pechanga"><a href="/images/best-golf-course-temecula-journey-pechanga.jpg"><img src="/images/best-golf-course-temecula-journey-pechanga.jpg" alt="" /></a></figure>
 
 #### **[The Journey at Pechanga](/go/journey-golf-course-pechanga-temecula-ca/)**
@@ -90,9 +90,9 @@ The Journey at Pechanga is the highest rated golf course in the Temecula area. I
 
 [See photos, reviews &amp; more](/go/journey-golf-course-pechanga-temecula-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9694b3ce"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="cross-creek-golf-course-temecula-ca"><a href="/images/cross-creek-golf-course-temecula-ca.jpg"><img src="/images/cross-creek-golf-course-temecula-ca.jpg" alt="" /></a></figure>
 
 #### [**Cross Creek Golf Club &amp; Cours**e](/go/cross-creek-golf-course-temecula-ca/)
@@ -103,13 +103,11 @@ This pristine 18-hole, 71 par course is over 6,940 yards with a 142 slope on Rye
 
 [See photos, reviews &amp; more](/go/cross-creek-golf-course-temecula-ca/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-611f5915">
 
 ## That's A Wrap!
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -117,9 +115,9 @@ So who is up for some golf? With so many great Temecula golf courses to choose f
 
 Hey while you're out there, be sure to hit up some [wineries](/kid-friendly-wineries-temecula-ca/) or [breweries](/best-breweries-in-temecula-ca/) too! For more information on things to do in Temecula, check out our full guide to Temecula.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0d71b637"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <div id="7-best-golf-courses-temecula-ca" class="wp-block-image"><figure class="alignleft size-medium"><a href="/images/7-best-golf-courses-temecula-ca.jpg"><img src="/images/7-best-golf-courses-temecula-ca-200x300.jpg" alt="" /></a></figure></div>
-</div></section>
+

@@ -19,7 +19,7 @@ Napa is one of the biggest wine regions in California with over 400 wineries, nu
 
 <figure><a href="/go/vinarmour-luxury-wine-bag/"><img src="/images/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg" alt="Get your VinArmour wine travel case today" /></a></figure>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a03210ff"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="castello-di-amorosa-kid-friendly-winery-napa-ca"><a href="/images/castello-di-amorosa-kid-friendly-winery-napa-ca.jpeg"><img src="/images/castello-di-amorosa-kid-friendly-winery-napa-ca.jpeg" alt="" /></a></figure>
 
 #### [Castello di Amorosa, Calistoga](/go/castello-di-amorosa-winery-napa-ca/)
@@ -34,9 +34,9 @@ Castello produces Italian-style wines. Currently, wine tasting is by reservation
 
 [See photos, reviews &amp; more](/go/castello-di-amorosa-winery-napa-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-790ee526"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="honig-vineyard-kid-friendly-winery-napa-ca"><a href="/images/honig-vineyard-kid-friendly-winery-napa-ca.jpg"><img src="/images/honig-vineyard-kid-friendly-winery-napa-ca.jpg" alt="" /></a></figure>
 
 #### [Honig Vineyard &amp; Winery](/go/honig-vineyard-winery-napa-ca/)
@@ -51,9 +51,9 @@ Honig Vineyard &amp; Winery exclusively produces Sauvigon Blanc and Cabernet Sau
 
 [See photos, reviews &amp; more](/go/honig-vineyard-winery-napa-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0e662ac3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Hoopes Vineyard
 
@@ -69,9 +69,9 @@ Hoopes is definitely a resort for animals, but it can also be a resort for you t
 
 See photos, reviews &amp; more
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-93bcf4f3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="alpha-omega-kid-friendly-napa-ca"><a href="/images/Alpha_Omega_Winery_Exterior_Napa.jpg"><img src="/images/Alpha_Omega_Winery_Exterior_Napa.jpg" alt="" /></a><figcaption>Photo Credit: Alpha Omega</figcaption></figure>
 
 #### [Alpha Omega](/go/alpha-omega-winery-napa-ca/)
@@ -84,9 +84,9 @@ At Alpha Omega you and your family can enjoy a day at this beautiful estate amon
 
 [See photos, reviews &amp; more](/go/alpha-omega-winery-napa-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1ec48551"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="frogs-leap-winery-napa-ca"><a href="/images/frogs-leap-winery-napa-ca.jpg"><img src="/images/frogs-leap-winery-napa-ca.jpg" alt="" /></a></figure>
 
 #### [Frog’s Leap](/go/frogs-leap-winery-napa-ca/)
@@ -101,13 +101,9 @@ All guests need to make reservations to book an experience at Frog’s Leap and 
 
 [See photos, reviews &amp; more](/go/frogs-leap-winery-napa-ca/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-b3512669">
 
 ## That's a Wrap!
-
-<div class="uagb-separator"></div></div>
 
 Raise your hand if you’re thirsty? Me too! Napa not only has great wines, but also has beautiful land and amazing wineries from castles to historic barns and beyond. The only thing left to do is pack up your bags and your family, and get to Napa!
 
@@ -115,9 +111,9 @@ For more family-friendly wineries in California, check out other articles on bes
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-18e9f9d7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="5-best-kid-friendly-wineries-napa-california"><a href="/images/5-best-kid-friendly-wineries-napa-california.jpg"><img src="/images/5-best-kid-friendly-wineries-napa-california-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

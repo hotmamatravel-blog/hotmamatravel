@@ -12,18 +12,11 @@ wpSlug: "make-your-next-travel-adventure-the-best"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 If you are going to be heading out on a travel adventure any time soon, then you have got to ensure that you are making it the best that it can be. The last thing that you want is to spend so much time planning and spending so much money on a travel adventure that doesn’t turn out exactly how you want it to. In this article, we’re going to be taking a look at some of the things that you can do to ensure that you make this next one the best one that you have ever been on.  Keep reading if you would like to find out more.
-
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-17bf8e5d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 
 #### Plan It Properly
 
 One of the things that you are going to need to do is take the time to plan it properly. There are plenty of different elements that you need to consider carefully if you want this to turn out correctly, especially when[traveling with kids](/real-family-travel-stories/). For example, you need to ensure that you have travel and accommodation planned out, paid for and you know where you are going at each stage of the trip. [TripAdvisor](/go/trip-advisor/), is a great tool to use for checking hotel rates, and available tours in your desired destination. You also want to look into whether there are any specific activities that you want to complete when you are there, because if there is then you may need to book them in advance. For example, perhaps you want to look into [yacht rentals](https://onboat.co/los-angeles-yacht-charter/) to go out on the water, or perhaps you may need some [ground transfers](/go/kiwi-taxi-international-transfers/).
-
-</div></section>
-
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-792d1402"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 
 #### Save Up For It
 
@@ -33,15 +26,9 @@ However, if you plan properly and early enough, you can save faster by using too
 
 Also, if you need help making your money grow, I highly recommend reading[Financial Feminist](https://amzn.to/3J38cvM), by Tori Dunlap. She gives amazing and easy to apply financial tips that will help you grow your wealth so you can travel more.
 
-</div></section>
-
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7c4118dc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-
 #### Go With Those You Love
 
 The last thing that we’re going to mention is that you should take the time to go with those that you love to make the experience even better. You can go with your [friends or family members](https://www.wanderlust.co.uk/content/who-to-go-with/), whoever you feel the most comfortable with, and whoever you think you are going to have the best time with. Think carefully about who you believe you would have the best time with on vacation, and who would bring joy and happiness to the experience. Anyone who would bring negativity needs to be left at home.
-
-</div></section>
 
 We hope that you have found this article helpful, and now see some of the things that you can do in order to make your next travel adventure the best one yet. We highly recommend that you take your time when it comes to this so that you don’t end up missing out on anything important. We wish you the very best of luck, and hope that you manage to create the best adventure that you have ever had.
 

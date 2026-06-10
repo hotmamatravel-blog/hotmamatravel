@@ -41,30 +41,18 @@ View this post as a Google Web Story, here: [**Las Vegas Road Trips**](/web-stor
 
 ## Road Trips From Las Vegas
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 **Here are the 3 road trip itineraries in this article.** You can click a title to jump ahead.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f52b0835"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-e395dfa7" id="uagb-adv-heading-7460c880-a3d8-45f4-8526-435d2be27ede">
 
 ## 1. [Oatman, AZ - Topock, AZ](#oatman-topock-road-trip)
 
-</div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-61929d93" id="uagb-adv-heading-e32ce3ae-cbee-4c21-85b7-eacecde6fab6">
-
 ## 2. [Zion National Park, UT](#zion-national-park)
-
-</div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-2bbc07f9" id="uagb-adv-heading-2537fd66-daf9-4ce3-80ab-f17d6707a07d">
 
 ## 3. [Williams, AZ - Grand Canyon South Rim](#grand-canyon-road-trip)
 
-</div>
 
-</div></section>
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
@@ -72,7 +60,7 @@ View this post as a Google Web Story, here: [**Las Vegas Road Trips**](/web-stor
 
 ## Road Trip Option #1 - Oatman &amp; Topock
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 ### Day 1: Morning Drive from Las Vegas to [Oatman, AZ](/go/oatman-arizona/)
 
@@ -118,7 +106,7 @@ On your scenic drive back to Las Vegas in time for [**dinner and a show**](/las-
 
 ## Road Trip Option #2: Zion National Park, UT
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 ### Day 1: Morning drive from Vegas to[St. George, Utah](/go/st-george-utah/)
 
@@ -156,7 +144,7 @@ On the way back to Vegas, you may want to stop for lunch in Mesquite, Nevada. It
 
 ## Road Trip Option #3: Williams - Grand Canyon
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 ### Day 1: Morning drive along Historic Route 66 to[Williams, AZ](/go/williams-arizona/)
 
@@ -202,9 +190,9 @@ I hope you enjoyed learning about three different 3-day road trip itineraries to
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families. It is a lot of fun.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="Best weekend road trips from Las Vegas your family will love."><a href="/images/Best-weekend-road-trips-from-Las-Vegas.jpg"><img src="/images/Best-weekend-road-trips-from-Las-Vegas-200x300.jpg" alt="Weekend road trips from  Las Vegas" /></a></figure>
-</div></div>
+

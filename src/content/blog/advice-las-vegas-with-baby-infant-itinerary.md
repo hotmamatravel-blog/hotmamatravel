@@ -39,13 +39,13 @@ I created this article to be helpful for moms (and dads) who basically have NO C
 
 ## Frequently Asked Questions About Babies In Vegas
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-ugb-heading ugb-heading ugb-f618b89 ugb-main-block"><style>.ugb-f618b89 .ugb-heading__title{text-align:center}.ugb-f618b89 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-f618b89 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Our Las Vegas With Baby And Q&amp;A Videos Are Helpful
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aO4Cz1Yh68c?si=lxe-udb3yTOY8zrv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -57,7 +57,7 @@ I created this article to be helpful for moms (and dads) who basically have NO C
 
 ## Perfect 2-Day Itinerary In Las Vegas With Baby
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-985a02d" id="day-1" data-block-id="985a02d">
 
@@ -67,11 +67,7 @@ I created this article to be helpful for moms (and dads) who basically have NO C
 
 <figure id="cracker-barrel-las-vegas-family-restaurant"><img src="/images/Cracker-Barrel-Las-Vegas.gif" alt="cracker barrel Las Vegas with kids" /></figure>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-7249f94e">
-
 #### **Lunch at Cracker Barrel**
-
-</div>
 
 Right off Dean Martin Dr, [Cracker Barrel](https://www.crackerbarrel.com/Locations/States/nv/n-las-vegas/742/) is conveniently located right as you enter Las Vegas (from the south), making for the perfect spot to stop for a yummy lunch. The casual country dining room is perfect for families. Plus, not only is the food hearty comfort food, but the portions are huge, and the prices are low. Eating in Vegas can be pretty pricey most places, so this is a nice way to ease into the trip (and your wallet)!
 
@@ -173,7 +169,7 @@ We regularly go to Las Vegas with baby, toddlers, kids and teens. We know what w
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
@@ -182,4 +178,4 @@ Like it? Pin it!
 Save this for your next trip and head to HotMamaTravel.com for the full itinerary and family travel tips.
 
 #VegasWithBaby #FamilyTravelTips #LasVegasWithKids #TravelWithBaby #HotMamaTravel"><a href="/images/Vegas-with-baby-FAQ-and-itinerary.jpg"><img src="/images/Vegas-with-baby-FAQ-and-itinerary-200x300.jpg" alt="vegas with baby faq itinerary" /></a></figure>
-</div></div>
+

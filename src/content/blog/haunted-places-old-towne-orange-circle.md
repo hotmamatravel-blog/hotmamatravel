@@ -123,7 +123,7 @@ Built in 1915, Rutabegorz was once the home of settlers Danny and Annie Crawford
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 So who is ready for a spirit day (or night) trip to Old Towne Orange Circle? If you would like more information about the haunted places mentioned in this article, I recommend taking a ghost walk with [**HauntedOC**](/go/haunted-oc-ghost-walk-tours-old-towne-orange/).
 
@@ -131,9 +131,9 @@ If you love places that mix *family travel with a twist*, check out more of my f
 
 So go ahead — book that stay, explore the Circle, and see for yourself if the spirits are just stories… or something more.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="Step into Old Towne Orange Circle—where history, hauntings, and family fun collide! From vintage vibes to ghostly encounters, this OC gem has it all.  #HauntedPlaces #OrangeCounty"><a href="/images/Haunted-Places-Old-Towne-Orange-Circle.jpg"><img src="/images/Haunted-Places-Old-Towne-Orange-Circle-200x300.jpg" alt="Haunted Places in Old Towne Orange Circle" /></a></figure>
-</div></div>
+

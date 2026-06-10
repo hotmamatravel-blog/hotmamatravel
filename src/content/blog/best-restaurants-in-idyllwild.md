@@ -23,7 +23,7 @@ From cozy cafes to gourmet gems, let’s explore how Idyllwild’s food scene tu
 
 ## Our Favorite Family Restaurants in Idyllwild
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K2cDGSGtBNY?si=8WkvgkOTNjx1TlSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -31,16 +31,13 @@ From cozy cafes to gourmet gems, let’s explore how Idyllwild’s food scene tu
 
 ## Best Restaurants In Idyllwild
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="gastrognome-restaurants-in-idyllwild"><figure><a href="/images/gastrognome-restaurants-in-idyllwild.jpg"><img src="/images/gastrognome-restaurants-in-idyllwild.jpg" alt="family friendly gastrognome best restaurants in Idyllwild" /></a></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
 ### [Restaurant Gastrognome](/go/restaurant-gastrognome-idyllwild/)
 
 *54381 Ridgeview Dr, Idyllwild, Ca 92549*
-</div>
 
 Gastrognome opened in 1973 and is one of the classic Idyllwild restaurants, and in my opinion still one of the best restaurants in Idyllwild. It was our first favorite dining experience in town and a spot we never skip. With a delicious upscale menu that including dishes like Chicken Breast Cordon Blue, Grilled Filet of Beef in a red wine glaze, Pasta Primavera and Broiled Cold-Water Lobster Tail, you are guaranteed to have a great meal.
 
@@ -50,12 +47,9 @@ Gastrognome opened in 1973 and is one of the classic Idyllwild restaurants, and 
 
 <div class="wp-block-uagb-image uagb-block-1221f213 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="FERRO-italian-restaurant-Idyllwild"><figure><a href="/images/FERRO-italian-restaurant-Idyllwild.jpg"><img src="/images/FERRO-italian-restaurant-Idyllwild.jpg" alt="FERRO family restaurant in Idyllwild" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-57d8d9c6">
-
 ### [FERRO](/go/ferro-idyllwild/)
 
 *25840 Cedar St, Idyllwild, Ca 92549*
-</div>
 
 Love Italian food? Good, because I have another great restaurant for you. Owned by Chef Frank Ferro, [Ferro](https://www.ferrorestaurant.com/) is Italian cuisine elevated. Not only is the food top-notch and creative, Ferro is also an entertainment venue with a kick-ass patio and stage. Don't miss jazz nights! Oh and the pizza oven surrounded by bar seating is super cool!
 
@@ -63,12 +57,9 @@ Love Italian food? Good, because I have another great restaurant for you. Owned 
 
 <div class="wp-block-uagb-image uagb-block-baa36967 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="cafe-aroma-restaurants-in-idyllwild"><figure><a href="/images/cafe-aroma-restaurants-in-idyllwild.jpg"><img src="/images/cafe-aroma-restaurants-in-idyllwild.jpg" alt="Cafe Aroma family restaurant in Idyllwild" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-f84b442c">
-
 ### [Cafe Aroma](/go/cafe-aroma-idyllwild/)
 
 *54750 N Circle Dr, Idyllwild, Ca 92549*
-</div>
 
 Another favorite! [Cafe Aroma](https://cafearoma-idyllwild.com/) is not only a restaurant, but an art gallery and social club. There is live music at night, and the main dining room is teeny tiny, but that’s what makes it so cozy. The food is incredible, and I always go for a pasta dish. My favorite is the Feta Fettuccini with olives and pine nuts. Coupled with a chilled glass of white wine? Heaven!!
 
@@ -78,12 +69,9 @@ There isn't a bad seat in the house either. I always request the main dining roo
 
 <div class="wp-block-uagb-image uagb-block-1c2562c1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="La-Casita-restaurants-in-idyllwild"><figure><a href="/images/La-Casita-restaurants-in-idyllwild.jpg"><img src="/images/La-Casita-restaurants-in-idyllwild.jpg" alt="Live music at La Casita Idyllwild" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-089f6ff0">
-
 ### [La Casita Idyllwild](/go/la-casita-restaurant-idyllwild/)
 
 *54650 N Circle Dr, Idyllwild, Ca 92549*
-</div>
 
 Really good Mexican food with a view. I prefer patio seating while visiting, because the surrounding trees and fresh air somehow make the food even better. Come hungry, because at [La Casita](https://www.idyllwildlacasita.com/) the portions are large and the food is so good it's hard to stop - even after having a few baskets of free chips and salsa!
 
@@ -91,12 +79,9 @@ Really good Mexican food with a view. I prefer patio seating while visiting, bec
 
 <div class="wp-block-uagb-image uagb-block-5be41c80 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Idyllwild-Brewpub-restaurants-in-idyllwild"><figure><a href="/images/Idyllwild-Brewpub-restaurants-in-idyllwild.jpg"><img src="/images/Idyllwild-Brewpub-restaurants-in-idyllwild.jpg" alt="family-friendly brewpub idyllwild" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-6fc96e15">
-
 ### [Idyllwild BrewPub](/go/idyllwild-brewpub/)
 
 *54423 Village Center Dr, Idyllwild, Ca 92549*
-</div>
 
 This is an upscale pub and live music venue with a very cool "bigger city" vibe. The fare is anything but traditional pub grub and features unique items like Calamari Sandwiches, Pretzel B.L.T, Beef on Weck and Dirty Sticky Wings. They also offer an extensive list of home brews that are brewed using crisp Idyllwild well water, malted barley and grains from the US, England, Belgium, Germany and Canada, pure yeast and fresh hops from around the world. In addition to all that, the have various events and live performance throughout the month.
 
@@ -116,12 +101,9 @@ Whether you’re fueling up after a hike or just craving something deliciously d
 
 <div class="wp-block-uagb-image uagb-block-d03662e0 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="red-kettle-restaurant-Idyllwild"><figure><a href="/images/red-kettle-restaurant-Idyllwild.jpg"><img src="/images/red-kettle-restaurant-Idyllwild.jpg" alt="family-friendly restaurant Red Kettle in Idyllwild" /></a><figcaption class="uagb-image-caption">Courtesy of Red Kettle</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-7ceea986">
-
 ### [Red Kettle](/go/red-kettle-idyllwild/)
 
 *54220 N Circle Dr, Idyllwild, Ca 92549*
-</div>
 
 The Red Kettle is one of the oldest cafes in Idyllwild, built in 1920. It has since changed ownership many times, but the character and charm has remained. Open for breakfast and lunch, you get to enjoy delicious classics in the same building that John Wayne and Elvis Presley did while filming in Idyllwild. It is a must see and is right close to the center of town.
 
@@ -129,23 +111,17 @@ The Red Kettle is one of the oldest cafes in Idyllwild, built in 1920. It has si
 
 <div class="wp-block-uagb-image uagb-block-7b543e23 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Fratellos-italian-ristorante-restaurants-in-idyllwild"><figure><a href="/images/Fratellos-italian-ristorante-restaurants-in-idyllwild.jpg"><img src="/images/Fratellos-italian-ristorante-restaurants-in-idyllwild.jpg" alt="Fratellos" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-0e8b9d6b">
-
 ### [Fratello's Ristorante &amp; Pizzeria](/go/fratellos-ristorante-pizzeria-idyllwild/)
 
 *54295 Ridgeview Dr, Idyllwild, Ca 92549*
-</div>
 
 Family-owned by four brothers, their passion for food shows in every dish. Serving up authentic and delicious Italian cuisine, you will want to savor every bite (but save room for their decadent desserts).  A little piece of Italy in Idyllwild, the atmosphere is warm and inviting, great for family dining as well as romantic dates for two. Plus, like many of the restaurants in Idyllwild there is live music to enjoy as well!
 
 **[See Photos, Reviews, &amp; More](/go/fratellos-ristorante-pizzeria-idyllwild/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-9d486065">
-
 ### [Idyllwild Pizza Company](/go/idyllwild-pizza-company/)
 
 54391 Village Center Dr, Idyllwild-Pine Cove, CA 92549
-</div>
 
 Idyllwild Pizza Company is where families come together for a slice of pure joy! This isn't your average pizza joint; it's a fun gathering place that dishes out not only fantastic food but a vibe perfect for friends and family alike. It is a casual Italian restaurant nestled in the scenic mountains, offering a haven for food enthusiasts and adventure-seekers. Dive into the delicious world of build-your-own pies, panini, and pasta, all served with a side of mountain charm.
 
@@ -159,10 +135,10 @@ But the adventure doesn't end here! Dive into more Idyllwild family fun by check
 
 And if California is calling your name for more family travel escapades, explore a treasure trove of ideas on my **[California family travel](/california-family-travel/)** page. Whether it's scenic views, delicious bites, or unforgettable family experiences, California has it all. So, keep the wanderlust alive, explore, and create memories that will last a lifetime!
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="best-restaurants-in-idyllwild-for-families-and-fun"><a href="/images/best-restaurants-in-idyllwild-for-families-and-fun.jpg"><img src="/images/best-restaurants-in-idyllwild-for-families-and-fun-200x300.jpg" alt="Best Restaurants in Idyllwild Families will Love #idyllwild #idyllwildrestaurants #familytravel " /></a></figure>
-</div></div>
+
 

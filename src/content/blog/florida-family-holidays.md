@@ -12,14 +12,13 @@ wpSlug: "florida-family-holidays"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Welcome to the Sunshine State! If you're looking for an unforgettable family holiday destination, Florida is the place to be. With its warm climate, stunning beaches, and endless attractions, there's something for every member of your family to enjoy. Whether you're seeking thrilling theme parks, outdoor adventures, or just a relaxing beach getaway, Florida has it all. So please explore Florida travel blog posts for your next Florida family holiday. Then pack your bags, grab your sunscreen, and get ready to make unforgettable memories with your loved ones in Florida with kids!
 
 <div class="wp-block-ugb-heading ugb-heading ugb-45971bd ugb-main-block"><style>.ugb-45971bd .ugb-heading__title{text-align:center}.ugb-45971bd .ugb-heading__bottom-line{background-color:#ff0000 !important;width:227px !important;margin-left:auto !important;margin-right:auto !important}.ugb-45971bd .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Things to do on the West Coast of Florida
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [St Pete Beach Family Resorts](/st-pete-beach-family-resorts/)
 
@@ -37,7 +36,7 @@ Welcome to the Sunshine State! If you're looking for an unforgettable family hol
 
 ## South Florida Family Vacations
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [Everglades Airboat Tour with Kids](/everglades-airboat-tour-kids/)
 
@@ -55,7 +54,7 @@ Welcome to the Sunshine State! If you're looking for an unforgettable family hol
 
 ## Northern Florida Cities
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [Ultimate Family Travel Guide for Things to do with Kids in Destin FL](/things-to-do-with-kids-in-destin-fl/)
 
@@ -67,7 +66,7 @@ Welcome to the Sunshine State! If you're looking for an unforgettable family hol
 
 ## Florida East Coast Vacation
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [Should you rent a minivan when visiting Orlando?](/should-you-rent-a-minivan-when-visiting-orlando/)
 
@@ -77,7 +76,7 @@ Welcome to the Sunshine State! If you're looking for an unforgettable family hol
 
 ## Family Trips in Florida (State Roundups)
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [5 Unique Sites For Glamping In Florida That Will Blow Your Mind](/best-glamping-florida/)
 

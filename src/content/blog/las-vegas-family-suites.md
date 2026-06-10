@@ -23,16 +23,13 @@ I will say that you can create family suites by reserving two connecting rooms, 
 
 ## Las Vegas Family Suites
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="westgate-las-vegas-family-suite"><figure><a href="/images/westgate-las-vegas-family-suite.jpg"><img src="/images/westgate-las-vegas-family-suite.jpg" alt="Westgate Las Vegas Family Suites" /></a></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
 ### [Westgate Las Vegas Resort](/go/westgate-hotel-las-vegas/)
 
 3000 Paradise Rd, Las Vegas, NV 89109
-</div>
 
 Westgate Las Vegas, a family-friendly oasis in the heart of the Strip! With spacious suites, top-notch amenities, and endless entertainment options, [Westgate](https://www.westgateresorts.com/hotels/nevada/las-vegas/westgate-las-vegas-resort-casino/) is the perfect choice for families looking to make unforgettable memories in Vegas. From the dazzling pool area to [**kid-friendly dining**](/best-family-restaurants-in-las-vegas/) and activities, there's something for everyone to enjoy.
 
@@ -42,12 +39,9 @@ Westgate Las Vegas, a family-friendly oasis in the heart of the Strip! With spac
 
 **[See Photos, Reviews, &amp; More](/go/westgate-hotel-las-vegas/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-ecb94f98">
-
 ### [Mandalay Bay](/go/mandalay-bay-hotel-las-vegas/)
 
 3950 S Las Vegas Blvd, Las Vegas, NV 89119
-</div>
 
 Families will experience the best of Las Vegas in a luxurious and fun-filled setting at [Mandalay Bay](https://mandalaybay.mgmresorts.com/en.html). With its spacious suites, [**world-class pool complex**](/best-family-pools-in-vegas/), and a variety of [**family-friendly attractions**](/affordable-family-activities-las-vegas/), Mandalay Bay offers an unforgettable escape. Kids will love the [**Shark Reef Aquarium**](/go/shark-reef-mandalay-bay-las-vegas/), while everyone will love the [**restaurants with live music**](/kid-friendly-live-music-las-vegas/)!
 
@@ -63,12 +57,9 @@ Families will experience the best of Las Vegas in a luxurious and fun-filled set
 
 <div class="wp-block-uagb-image uagb-block-fab62fb3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="excalibur-las-vegas-family-hotel"><figure><a href="/images/family-restaurants-excalibur-vegas.jpg"><img src="/images/family-restaurants-excalibur-vegas.jpg" alt="Excalibur Las Vegas Family Hotel" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-d79d1f31">
-
 ### [Excalibur](/go/excalibur-hotel-las-vegas/)
 
 3850 S Las Vegas Blvd, Las Vegas, NV 89109
-</div>
 
 Step into the world of [Excalibur](https://excalibur.mgmresorts.com/en.html), where the magic of medieval times meets modern-day fun for families. With spacious family suites, a fun-filled arcade, and the captivating [**Tournament of Kings dinner show**](/go/tournament-kings-dinner-show-las-vegas/), Excalibur is the perfect blend of entertainment and comfort. Kids will love the castle-themed decor and the exciting pool area, while parents can unwind and enjoy the vibrant atmosphere.
 
@@ -78,12 +69,9 @@ Step into the world of [Excalibur](https://excalibur.mgmresorts.com/en.html), wh
 
 **[See Photos, Reviews, &amp; More](/go/excalibur-hotel-las-vegas/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-689edc9e">
-
 ### [SKYLOFTS at MGM Grand](/go/mgm-grand-hotel-las-vegas/)
 
 MGM Grand Las Vegas, 3799 S Las Vegas Blvd, Las Vegas, NV
-</div>
 
 Experience unparalleled luxury at [SKYLOFTS at MGM Grand](https://mgmgrand.mgmresorts.com/en/hotel/skylofts-mgm-grand.html), ideal for families seeking an extraordinary stay in Las Vegas. These spacious lofts offer breathtaking views, personalized service, and top-tier amenities. Families will appreciate the stylish design, private butler service, and access to [MGM Grand’s](https://mgmgrand.mgmresorts.com/en.html) extensive entertainment options, including shows, dining, and the incredible pool complex.
 
@@ -95,12 +83,9 @@ Experience unparalleled luxury at [SKYLOFTS at MGM Grand](https://mgmgrand.mgmre
 
 <figure id="cosmopolitan-hotel-las-vegas-balcony-rooms"><a href="/images/terrace-suites-cosmopolitan-balcony-rooms-las-vegas.jpg"><img src="/images/terrace-suites-cosmopolitan-balcony-rooms-las-vegas.jpg" alt="Cosmopolitan hotel Las Vegas Balcony rooms" /></a></figure>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-bb38b50b">
-
 ### [The Cosmopolitan](/go/cosmopolitan-hotel-las-vegas/)
 
 3708 Las Vegas Blvd S, Las Vegas, NV 89109
-</div>
 
 Discover the chic and vibrant ambiance of [The Cosmopolitan](https://www.cosmopolitanlasvegas.com/), perfect for families looking for a unique Las Vegas experience. With its spacious suites, stunning views, and a variety of kid-friendly activities, this hotel offers something for everyone. Enjoy the bustling pool district, delectable dining options, and the convenient location on the Strip, making it easy to explore all that Vegas has to offer.
 
@@ -110,12 +95,9 @@ If you don't need a big room, I suggest checking the terrace rooms at Cosmopolit
 
 **[See Photos, Reviews, &amp; More](/go/cosmopolitan-hotel-las-vegas/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-bd1351d9">
-
 ### [Caesar's Palace](/go/caesars-palace-hotel-las-vegas/)
 
 3570 S Las Vegas Blvd, Paradise, NV 89109
-</div>
 
 Indulge in the grandeur of [Caesars Palace](https://www.caesars.com/caesars-palace), where families can enjoy luxurious accommodations and endless entertainment. The spacious suites provide a comfortable retreat, while the hotel’s iconic Colosseum hosts[**family-friendly shows**](/free-family-activities-las-vegas/). With a variety of dining options, a sprawling pool area, and the exciting Forum Shops, Caesars Palace offers an unforgettable experience for the whole family.
 
@@ -125,12 +107,9 @@ Indulge in the grandeur of [Caesars Palace](https://www.caesars.com/caesars-pala
 
 <div class="wp-block-uagb-image uagb-block-df3a31e4 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="flamingo-las-vegas-family-suite"><figure><a href="/images/flamingo-las-vegas-family-suite.jpg"><img src="/images/flamingo-las-vegas-family-suite.jpg" alt="Family suites in Flamingo Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-7464163e">
-
 ### [Flamingo](/go/flamingo-las-vegas-exp/)
 
 3555 Las Vegas Blvd S, Las Vegas, NV 89109
-</div>
 
 Experience the vibrant and lively atmosphere of the[Flamingo](https://www.caesars.com/flamingo-las-vegas), a classic Las Vegas destination perfect for families. The hotel’s spacious suites and tropical pool area provide a relaxing escape, while the** [Wildlife Habitat](/go/wildlife-habitat-flamingo-las-vegas/)** offers fun for kids of all ages. With its central location on the Strip and a variety of dining and entertainment options, the Flamingo is a hit with families seeking fun and convenience.
 
@@ -138,12 +117,9 @@ Experience the vibrant and lively atmosphere of the[Flamingo](https://www.caesar
 
 **[See Photos, Reviews, &amp; More](/go/flamingo-las-vegas-exp/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-ebdf14d6">
-
 ### [The Linq](/go/linq-hotel-las-vegas/)
 
 3535 Las Vegas Blvd S, Las Vegas, NV 89109
-</div>
 
 The LINQ is a modern and energetic hotel that families will love. Featuring spacious suites and the High Roller, the world’s tallest observation wheel, [The LINQ](https://www.caesars.com/linq) offers excitement and comfort. [**Kids and teens**](/things-to-do-in-las-vegas-with-teens/) will love the VR experiences and arcade, while parents can explore the diverse dining options and the vibrant atmosphere of the LINQ Promenade.
 
@@ -153,12 +129,9 @@ The LINQ is a modern and energetic hotel that families will love. Featuring spac
 
 <div class="wp-block-uagb-image uagb-block-0009a604 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bellagio-las-vegas-fountains"><figure><a href="/images/bellagio-water-show-las-vegas.jpg"><img src="/images/bellagio-water-show-las-vegas.jpg" alt="Bellagio Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-47956b42">
-
 ### [Bellagio](/go/bellagio-las-vegas-expedia/)
 
 3600 S Las Vegas Blvd, Las Vegas, NV 89109
-</div>
 
 Immerse your family in the elegance of [Bellagio](https://bellagio.mgmresorts.com/en.html), where luxurious accommodations and stunning attractions await. The spacious suites offer comfort and style, while the mesmerizing Fountains of Bellagio captivate guests of all ages. Even if you are expecting, they have great [**babymoon spa treatments**](/pregnant-las-vegas/)! With its exquisite gardens, world-class dining, and family-friendly shows, Bellagio provides a sophisticated and unforgettable Las Vegas experience.
 
@@ -170,9 +143,9 @@ Ready to plan your perfect family getaway? Las Vegas family suites offer the ide
 
 Also, be sure to join my **[Las Vegas With Kids Facebook Group](https://www.facebook.com/groups/lasvegaswithkidstips)**! This is where our community gathers to share the most up-to-date Vegas family news and tips. It is a lot of fun.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="best-las-vegas-family-suites"><a href="/images/best-las-vegas-family-suites-1.jpg"><img src="/images/best-las-vegas-family-suites-1-200x300.jpg" alt="Best Las Vegas Family Suites for Big Families " /></a></figure>
-</div></div>
+

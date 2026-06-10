@@ -87,7 +87,7 @@ Complimentary amenities include morning coffee or tea service, a chef-prepared S
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Overall, Savannah is a great destination for families looking for a haunted getaway. From historic hotels to charming inns, the city is home to a number of family-friendly haunted hotels that are sure to provide a spooky and exciting adventure.
 
@@ -95,10 +95,10 @@ Explore our blog to discover more [**haunted places and hotels**](/best-haunted-
 
 If you would like to see more of what Georgia has to offer, check out our [**Georgia Family Travel**](/best-of-georgia-family-travel/) resources.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="👻✨ Looking for a spooky and stylish family getaway? These haunted hotels in Savannah, Georgia mix Southern charm with spine-tingling stories—perfect for adventurous families who love a little ghostly fun with their history! #FamilyTravelWithATwist #HauntedHotels #SavannahGeorgia #FamilyAdventure"><a href="/images/Haunted-Hotels-in-Savannah-Georgia-for-Families.jpg"><img src="/images/Haunted-Hotels-in-Savannah-Georgia-for-Families-200x300.jpg" alt="most haunted hotels in savannah georgia" /></a></figure>
-</div></div>
+
 

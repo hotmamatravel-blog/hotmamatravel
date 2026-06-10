@@ -17,12 +17,9 @@ The picturesque region of New York's Finger Lakes, not only boasts stunning view
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="scale-house-brewery-best-breweries-seneca-lake"><figure><a href="/images/scale-house-brewery-best-breweries-seneca-lake.jpg"><img src="/images/scale-house-brewery-best-breweries-seneca-lake.jpg" alt="Family Friendly Live Musica at Scale House Brewery Seneca Lake" /></a><figcaption class="uagb-image-caption">Courtesy of Scale House Brewery</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
-
 ### [Scale House Brewery](/go/scale-house-brewery-seneca-lake/)
 
 5930 NY-414, Hector, NY 14841
-</div>
 
 Live Music  -  Award Winning Beer  -  Seasonal Brews  -  Great Pizza &amp; Meatballs  - Family-Friendly  -  Views of the Lake
 
@@ -36,12 +33,9 @@ For those looking to hangout with beer drinker in your life, Scale House also of
 
 <div class="wp-block-uagb-image uagb-block-baba5106 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="two-goats-brewing-best-breweries-seneca-lake"><figure><a href="/images/two-goats-brewing-best-breweries-seneca-lake.jpg"><img src="/images/two-goats-brewing-best-breweries-seneca-lake.jpg" alt="Family-friendly Two Goats Brewing Seneca Lake" /></a><figcaption class="uagb-image-caption">Courtesy of Two Goats Brewing</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-41c054fe">
-
 ### [Two Goats Brewing](/go/two-goats-brewing-seneca-lake/)
 
 5027 NY-414, Burdett, NY 14818
-</div>
 
 Live Music  -  Awesome Views  -  Signature Sandwich  -  Locally Sourced   -   Solar Powered  -  Family-Friendly  -  Dog-Friendly    -  Money  Giveaways  -  Unfiltered Beers
 
@@ -59,12 +53,9 @@ Bring the kids, bring the dog and enjoy a wonderful time by the lake. Stop by on
 
 <div class="wp-block-uagb-image uagb-block-d36439e2 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="grist-iron-brewing-company-best-breweries-seneca-lake"><figure><a href="/images/grist-iron-brewing-company-best-breweries-seneca-lake.jpg"><img src="/images/grist-iron-brewing-company-best-breweries-seneca-lake.jpg" alt="Live music and great beer at Grist Iron Brewing Company Seneca Lake" /></a><figcaption class="uagb-image-caption">Courtesy of Grist Iron Brewing Company</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-868db927">
-
 ### [Grist Iron Brewing Company](/go/grist-iron-brewing-seneca-lake/)
 
 4880 NY-414, Burdett, NY 14818
-</div>
 
 Family-Friendly  -  Lake Views  -  Full Restaurant Onsite  -  Tons of Unique Brews  -  Live Music  -  Lodging
 
@@ -82,12 +73,9 @@ However, what makes this brewery truly unique is The Lodge at Grist Iron – a r
 
 <div class="wp-block-uagb-image uagb-block-21ddd76c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="climbing-bines-best-breweries-seneca-lake"><figure><a href="/images/climbing-bines-best-breweries-seneca-lake.jpg"><img src="/images/climbing-bines-best-breweries-seneca-lake.jpg" alt="Farm fresh brews at Climbing Bines Hop Farm" /></a><figcaption class="uagb-image-caption">Courtesy of Climbing Bines Hop Farm &amp; Brewery</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-2c70e20c">
-
 ### [Climbing Bines Hop Farm &amp; Brewery](/go/climbing-bines-hop-farm-seneca-lake/)
 
 511 Hansen Point Rd, Penn Yan, NY 14527
-</div>
 
 Family-Friendly  -  Live Music  -  Farm to Barrel  -  Small Batch Brews  -  Great Views  -  Food Trucks
 
@@ -101,12 +89,9 @@ Looking for a good time with friends and family? Enjoy an afternoon of great bee
 
 <div class="wp-block-uagb-image uagb-block-dc5dea00 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="lake-drum-brewing-best-breweries-seneca-lake"><figure><a href="/images/lake-drum-brewing-best-breweries-seneca-lake.jpg"><img src="/images/lake-drum-brewing-best-breweries-seneca-lake.jpg" alt="Small Batch Beers and Ciders at Lake Drum Brewing" /></a><figcaption class="uagb-image-caption">Courtesy of Lake Drum Brewing</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-7cb259ea">
-
 ### [Lake Drum Brewing](/go/lake-drum-brewing-seneca-lake/)
 
 16 E Castle St, Geneva, NY 14456
-</div>
 
 Family-Friendly  -  Dog-Friendly  -  Outside Food Allowed  -  Great Ciders  -  Views of Lake  -  Small Batch  -  Entertainment &amp; Events  -  Mug Club  -  Sunday Supper Club
 
@@ -122,12 +107,9 @@ You are allowed to bring in outside food, but if you want to try something speci
 
 <div class="wp-block-uagb-image uagb-block-80c5838a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="lucky-hare-brewing-best-breweries-seneca-lake"><figure><a href="/images/lucky-hare-brewing-best-breweries-seneca-lake.jpg"><img src="/images/lucky-hare-brewing-best-breweries-seneca-lake.jpg" alt="Family-friendly Lucky Hare Brewing Seneca Lake" /></a><figcaption class="uagb-image-caption">Courtesy of Lucky Hare Brewing Company</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-c039701a">
-
 ### [Lucky Hare Brewing Company](/go/lucky-hare-brewing-company-seneca-lake/)
 
 6085 Beckhorn Rd, Hector, NY 14841
-</div>
 
 Family-Friendly  -  Dog-Friendly  -  Farm Brewery  -  Event Space  -  Hare Club  -  Great Food  -
 
@@ -143,12 +125,9 @@ For more brewery fun, feel free to bring the family and doggies for some live mu
 
 <div class="wp-block-uagb-image uagb-block-e5694498 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="seneca-stag-brewing-best-breweries-seneca-lake"><figure><a href="/images/seneca-stag-brewing-best-breweries-seneca-lake.jpg"><img src="/images/seneca-stag-brewing-best-breweries-seneca-lake.jpg" alt="dog and family friendly Seneca Stag Brewing " /></a><figcaption class="uagb-image-caption">Courtesy of Seneca Stag Brewing</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-d1063736">
-
 ### [Seneca Stag Brewing](/go/seneca-stag-brewing/)
 
 1720 NY-14, Penn Yan, NY 14527
-</div>
 
 Biergarten  -  Family-Friendly  -  Live Music  -  Bingo Nights  -  Food  -  Dog-Friendly
 
@@ -162,12 +141,9 @@ They offer a fun selection of menu items that you can order at the bar, includin
 
 <div class="wp-block-uagb-image uagb-block-df51c48d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="webe-brewing-best-breweries-seneca-lake"><figure><a href="/images/webe-brewing-best-breweries-seneca-lake.jpg"><img src="/images/webe-brewing-best-breweries-seneca-lake.jpg" alt="Award winning craft brews at WeBe Brewing Company" /></a><figcaption class="uagb-image-caption">Courtesy of WeBe Brewing Company</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-1d911d90">
-
 ### [WeBe Brewing Company](/go/webe-brewing-seneca-lake/)
 
 796 Pre Emption Rd, Geneva, NY 14456
-</div>
 
 Family-Friendly  -  Dog-Friendly  -  Onsite Kitchen  -  Awarding Brews  -  Live Music  -  Events  -  Craft Sodas
 
@@ -185,12 +161,9 @@ For more fun catch some live music or stop by during an exciting event. If you g
 
 <div class="wp-block-uagb-image uagb-block-f0c1af03 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="fleur-de-lis-best-breweries-seneca-lake"><figure><a href="/images/fleur-de-lis-best-breweries-seneca-lake.jpg"><img src="/images/fleur-de-lis-best-breweries-seneca-lake.jpg" alt="French-style family-friendly brewery at Fleur De Lis Brew Works in Seneca Lake" /></a><figcaption class="uagb-image-caption">Courtesy of Fleur De Lis Brew Works</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-56a8ef95">
-
 ### [Fleur De Lis Brew Works](/go/fleur-de-lis-brew-works-seneca-lake/)
 
 3630 NY-414, Seneca Falls, NY 13148
-</div>
 
 Unique French Themed Beers  -  Farm Brewery  -  Yard Games  -  Family-Friendly   -  Live Music
 
@@ -210,12 +183,9 @@ Located on hundreds of acres of farmland and forest, Their brewery and taproom a
 
 <div class="wp-block-uagb-image uagb-block-c7c33f74 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Abandon-brewing-best-breweries-seneca-lake"><figure><a href="/images/Abandon-brewing-best-breweries-seneca-lake.jpg"><img src="/images/Abandon-brewing-best-breweries-seneca-lake.jpg" alt="Family-friendly Abandon Brewing Company" /></a><figcaption class="uagb-image-caption">Courtesy of Abandon Brewing Company</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-1a911891">
-
 ### [Abandon Brewing Company](/go/abandon-brewing-co-seneca-lake/)
 
 2994 Merritt Hill Rd, Penn Yan, NY 14527
-</div>
 
 Family-Friendly  -  Onsite Food  -  Lodging  - Events  -  Live Music
 
@@ -233,12 +203,9 @@ Whether you find yourself in the cozy taproom, placing an order in the kitchen, 
 
 <div class="wp-block-uagb-image uagb-block-d064b69d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="fall-street-brewing-best-breweries-seneca-lake"><figure><a href="/images/fall-street-brewing-best-breweries-seneca-lake.jpg"><img src="/images/fall-street-brewing-best-breweries-seneca-lake.jpg" alt="Fall Street Breweing Restaurant and brewery in Seneca NY" /></a><figcaption class="uagb-image-caption">Courtesy of Fall Street Brewing Co</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-399c84e5">
-
 ### [Fall Street Brewing](/go/fall-street-brewing-seneca-lake/)
 
 106 Fall St, Seneca Falls, NY 13148
-</div>
 
 Family-Friendly  -  Cafe with Breakfast, lunch and Dinner -  Craft Brews  -  Specialty Coffee  -  Kombucha
 
@@ -252,9 +219,9 @@ As the sun sets over the glistening waters, our journey through the best breweri
 
 Check out [more awesome breweries in more awesome places](/americas-best-breweries/)!
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="best-breweries-on-seneca-lake-families-live-music-pets"><a href="/images/best-breweries-on-seneca-lake-families-live-music-pets.jpg"><img src="/images/best-breweries-on-seneca-lake-families-live-music-pets-200x300.jpg" alt="" /></a></figure>
-</div></div>
+

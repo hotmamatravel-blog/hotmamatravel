@@ -17,12 +17,9 @@ The Lone Star State, where history and the supernatural collide in the most ente
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="menger-hotel-haunted-hotels-san-antonio"><figure><a href="/images/menger-hotel-haunted-hotels-san-antonio.jpg"><img src="/images/menger-hotel-haunted-hotels-san-antonio.jpg" alt="Haunted Menger Hotel in San Antonio Texas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
-
 ## [The Menger Hotel](/go/menger-hotel-san-antonio-tx/)
 
 204 Alamo Plaza, San Antonio, TX 78205
-</div>
 
 ### **Brief History**
 
@@ -52,12 +49,9 @@ Planning a full San Antonio adventure? Check out our **[San Antonio Family Trave
 
 <div class="wp-block-uagb-image uagb-block-a7bcc740 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="The-Driskill-haunted-hotels-texas"><figure><a href="/images/The-Driskill-haunted-hotels-texas.jpg"><img src="/images/The-Driskill-haunted-hotels-texas.jpg" alt="Haunted hotels in Texas The Driskill" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-d2f3a6c6">
-
 ## [The Driskill Hotel](/go/the-driskill-hotel-texas/)
 
 604 Brazos St, Austin, TX 78701
-</div>
 
 ### **Brief** **History**
 
@@ -97,12 +91,9 @@ Want to see more family-friendly stays in Austin? Check out our [**Best Western 
 
 <div class="wp-block-uagb-image uagb-block-985e475b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Hotel-Icon-haunted-hotels-texas"><figure><a href="/images/Hotel-Icon-haunted-hotels-texas.jpg"><img src="/images/Hotel-Icon-haunted-hotels-texas.jpg" alt="Hotel Icon, Autograph Collection is a haunted hotel in Texas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-fa58e2e8">
-
 ## [Hotel ICON, Autograph Collection](/go/hotel-icon-autograph-collection-texas/)
 
 220 Main St, Houston, TX 77002
-</div>
 
 ### **Brief History**
 
@@ -136,12 +127,9 @@ With a mix of history, luxury, and practical amenities, Hotel ICON strikes the p
 
 <div class="wp-block-uagb-image uagb-block-9f23bae7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Adolphus-haunted-hotels-texas"><figure><a href="/images/Adolphus-haunted-hotels-texas.jpg"><img src="/images/Adolphus-haunted-hotels-texas.jpg" alt="Haunted hotels in Texas The Adolphus" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-cd8a3ea6">
-
 ## [The Adolphus](/go/the-adolphus-texas/)
 
 1321 Commerce St, Dallas, TX 75202
-</div>
 
 ### **Brief History**
 
@@ -183,12 +171,9 @@ With a perfect blend of history, luxury, and practical amenities, The Adolphus H
 
 <div class="wp-block-uagb-image uagb-block-6ff2cec9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="magnolia-hotel-haunted-hotels-texas"><figure><a href="/images/magnolia-hotel-haunted-hotels-texas.jpg"><img src="/images/magnolia-hotel-haunted-hotels-texas.jpg" alt="Haunted Texas Magnolia Hotel" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-d7386ce8">
-
 ## **[The Haunted Magnolia Hotel](/go/magnolia-hotel-texas/)**
 
 203 S Crockett St, Seguin, TX 78155
-</div>
 
 ### **Brief History**
 
@@ -234,9 +219,9 @@ So go ahead—secure your reservations, embrace the enigmatic, and may your Texa
 
 Explore more haunted places in Texas as wells as across America, in the **[best towns to visit for Halloween](/best-towns-for-halloween/)**.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="most-haunted-hotels-texas" data-essb-pin-description="Step back in time at the haunted Magnolia Hotel in Seguin, TX 👻. This historic bed &amp; breakfast gives your family the entire second floor to yourselves—if you dare spend the night with its ghostly guests! Perfect for spooky history buffs and adventurous families looking for a unique Texas stay. #HauntedHotel #SeguinTX #FamilyTravelWithATwist"><a href="/images/haunted-hotels-texas.jpg"><img src="/images/haunted-hotels-texas-200x300.jpg" alt="Most Haunted Hotels in Texas for Families" /></a></figure>
-</div></div>
+

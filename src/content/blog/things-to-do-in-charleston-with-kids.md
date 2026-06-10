@@ -18,12 +18,8 @@ To help you plan the ultimate Charleston family getaway, I put together an exten
 
 **Here's what's in this article**:
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-475c9885"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-4a517dfa">
 
 ### Unique area attractions
-
-<div class="uagb-separator"></div></div>
 
 - [Charleston City Market](#charleston-city-market)
 
@@ -45,11 +41,7 @@ To help you plan the ultimate Charleston family getaway, I put together an exten
 
 - [Children’s Museum of Lowcountry](#childrens-museum-lowcountry)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-9e20460e">
-
 ### Historic sites &amp; districts
-
-<div class="uagb-separator"></div></div>
 
 - [McLeod Plantation Historic Site](#mcleod-plantation)
 
@@ -87,11 +79,7 @@ To help you plan the ultimate Charleston family getaway, I put together an exten
 
 - [The Powder Magazine](#powder-magazine)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-f3124800">
-
 ### Parks, nature &amp; hiking trails
-
-<div class="uagb-separator"></div></div>
 
 - [Folly Beach](#folly-beach)
 
@@ -107,11 +95,7 @@ To help you plan the ultimate Charleston family getaway, I put together an exten
 
 - [Charleston Tea Garden](#charleston-tea-garden)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-a2ced848">
-
 ### Family restaurants
-
-<div class="uagb-separator"></div></div>
 
 - [The Washout](#the-washout)
 
@@ -121,17 +105,13 @@ To help you plan the ultimate Charleston family getaway, I put together an exten
 
 - [Mrs. Rose’s Fine Food and Cocktails](#mrs-roses-fine-food-cocktails)
 
-</div></section>
+
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<div class="wp-block-uagb-advanced-heading uagb-block-04edf32e">
-
 ## Kid-friendly Charleston Attractions
 
-<div class="uagb-separator"></div></div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8a29eb30"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 <figure><a href="/images/charleston-city-market-charleston-sc.jpg"><img src="/images/charleston-city-market-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Charleston City Market](/go/charleston-city-market-charleston-sc/)
@@ -142,9 +122,9 @@ Established in the 1790’s this historic marketplace starts on Main Street with
 
 [See photos, reviews &amp; more](/go/charleston-city-market-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4f604a01"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/South-Carolina-Aquarium-Charleston-SC.jpg"><img src="/images/South-Carolina-Aquarium-Charleston-SC.jpg" alt="" /></a></figure>
 
 #### [South Carolina Aquarium](/go/south-carolina-aquarium-charleston-sc/)
@@ -155,9 +135,9 @@ If your kids love animals, then you might want to add the South Carolina Aquariu
 
 [See photos, reviews &amp; more](/go/south-carolina-aquarium-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-03b165d9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/charleston-old-haunted-jail-charleston-sc.jpg"><img src="/images/charleston-old-haunted-jail-charleston-sc.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Bulldog Tours</figcaption></figure>
 
 #### [Charleston Haunted Jail Tour](/go/charleston-haunted-city-jail-charleston-sc/)
@@ -168,9 +148,9 @@ This Old City Jail ran from 1809 to 1939 and housed some interesting characters 
 
 [See photos, reviews &amp; more](/go/charleston-haunted-city-jail-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7974c655"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/uss-yorktown-ghost-tour-charleston-sc.jpg"><img src="/images/uss-yorktown-ghost-tour-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [USS Yorktown Ghost Tour](/go/uss-yorktown-ghost-tours-charleston-sc/)
@@ -181,9 +161,9 @@ The USS Yorktown, also known as the Fighting Lady, was commissioned during WWII 
 
 [See photos, reviews &amp; more](/go/uss-yorktown-ghost-tours-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d89a3962"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/old-south-haunted-carriage-tour-charleston-sc.jpg"><img src="/images/old-south-haunted-carriage-tour-charleston-sc.jpg" alt="" /></a><figcaption class="wp-element-caption">[Old South Carriage Company](/go/old-south-haunted-ghost-tours-charleston-sc/)</figcaption></figure>
 
 #### [Old South Haunted Ghost Tours](/go/old-south-haunted-ghost-tours-charleston-sc/)
@@ -194,9 +174,9 @@ Riding through the historic streets of Charleston on a carriage at twilight is a
 
 [See photos, reviews &amp; more](/go/old-south-haunted-ghost-tours-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1cb2f43b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/gibbs-art-museum-charleston-sc.jpg"><img src="/images/gibbs-art-museum-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Gibbes Museum of Art](/go/gibbs-museum-art-charleston-sc/)
@@ -207,9 +187,9 @@ This museum opened in 1905 and has a collection of American art that tells the s
 
 [See photos, reviews &amp; more](/go/gibbs-museum-art-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-48829829"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/middleton-place-house-museum-charleston-sc.jpg"><img src="/images/middleton-place-house-museum-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Middleton Place House Museum](/go/middleton-place-house-museum-charleston-sc/)
@@ -220,9 +200,9 @@ This is the home of the oldest landscaped gardens in America and visiting Middle
 
 [See photos, reviews &amp; more](/go/middleton-place-house-museum-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3d7661a1"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/hunley-submarine-charleston-sc.jpg"><img src="/images/hunley-submarine-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [The Historic Hunley Submarine](/go/historic-hunley-submarine-charleston-sc/)
@@ -233,9 +213,9 @@ The Hunley Submarine, became the first successful combat submarine in 1864! Craz
 
 [See photos, reviews &amp; more](/go/historic-hunley-submarine-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ad40c181"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/Old-Slave-Mart-Museum-charleston-sc.jpg"><img src="/images/Old-Slave-Mart-Museum-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [The Old Slave Mart Museum](/go/old-slave-mart-charleston-sc/)
@@ -246,9 +226,9 @@ A dark part of history, but a necessary part to understand. The Old Slave Mart M
 
 [See photos, reviews &amp; more](/go/old-slave-mart-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ed5bc0dc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Children’s Museum of Lowcountry](/go/childrens-museum-lowcountry-charleston-sc/)
 
@@ -258,15 +238,11 @@ If your kids love interactive learning and adventures, then you may want to pop 
 
 [See photos, reviews &amp; more](/go/childrens-museum-lowcountry-charleston-sc/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-c0a5e392">
 
 ## Historic Districts in Charleston
 
-<div class="uagb-separator"></div></div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9a8e82f8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 <figure><a href="/images/mcleod-plantation-charleston-sc.jpg"><img src="/images/mcleod-plantation-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [McLeod Plantation Historic Site](/go/mcleod-plantation-historic-site-charleston-sc/)
@@ -277,9 +253,9 @@ The Mcleod Plantation was established in 1851, built on the money from sea islan
 
 [See photos, reviews &amp; more](/go/mcleod-plantation-historic-site-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8d8d7d2f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/nathaniel-russell-house-charleston-sc.jpg"><img src="/images/nathaniel-russell-house-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Nathaniel Russell House](/go/nathaniel-russell-house-charleston-sc/)
@@ -290,9 +266,9 @@ This National historical landmark was once the home of Nathaniel Russell, a merc
 
 [See photos, reviews &amp; more](/go/nathaniel-russell-house-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6e277e9d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/fort-sumter-national-monument-charleston-sc.jpg"><img src="/images/fort-sumter-national-monument-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Fort Sumter National Monument](/go/fort-sumter-national-monument-charleston-sc/)
@@ -303,9 +279,9 @@ Built on a man-made island in 1829, this sea fort was to protect South Carolina 
 
 [See photos, reviews &amp; more](/go/fort-sumter-national-monument-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e07bd4b8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/aiken-rhett-house-charleston-sc.jpg"><img src="/images/aiken-rhett-house-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Aiken-Rhett House](/go/aiken-rhett-house-charleston-sc/)
@@ -316,9 +292,9 @@ Visit the antebellum home of former Governor William Aiken, built in 1820. It is
 
 [See photos, reviews &amp; more](/go/aiken-rhett-house-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-86c85614"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/Edmondston-Alston-House-charleston-sc.jpg"><img src="/images/Edmondston-Alston-House-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Edmondston-Alston House](/go/edmondston-alston-house-charleston-sc/)
@@ -329,9 +305,9 @@ Built in 1825, this beautiful historic Charleston home, sits right on the Charle
 
 [See photos, reviews &amp; more](/go/edmondston-alston-house-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a38f02e7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/Charles-Pinckney-National-Historic-Site-Charleston-Sc.jpg"><img src="/images/Charles-Pinckney-National-Historic-Site-Charleston-Sc.jpg" alt="" /></a></figure>
 
 #### [Charles Pinckney National Historic Site](/go/charles-pinckney-national-historic-site-charleston-sc/)
@@ -342,9 +318,9 @@ Charles Pinckney was one of America’s founding fathers, signers of the Constit
 
 [See photos, reviews &amp; more](/go/charles-pinckney-national-historic-site-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f080db10"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/colonial-dorchester-charleston-sc.jpg"><img src="/images/colonial-dorchester-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Colonial Dorchester State Historic Site](/go/colonial-dorchester-state-historic-site-charleston-sc/)
@@ -355,9 +331,9 @@ This 1697 settlement was abandoned at the start of the Revolutionary War, but st
 
 [See photos, reviews &amp; more](/go/colonial-dorchester-state-historic-site-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b2b8dbdb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/drayton-hall-charleston-sc.jpg"><img src="/images/drayton-hall-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Drayton Hall](/go/drayton-hall-charleston-sc/)
@@ -368,9 +344,9 @@ Known as “nothing less than a palace and gardens,” by the South Carolina Gaz
 
 [See photos, reviews &amp; more](/go/drayton-hall-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-81b4c11b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/Fort-Moultrie-National-Monument-charleston-sc.jpg"><img src="/images/Fort-Moultrie-National-Monument-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Fort Moultrie](/go/fort-moultrie-charleston-sc/)
@@ -381,9 +357,9 @@ This was the first fort on Sullivan’s Island, made of just logs and sand. Alth
 
 [See photos, reviews &amp; more](/go/fort-moultrie-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c5ff3414"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/heyward-washington-house-charleston-sc.jpg"><img src="/images/heyward-washington-house-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Heyward-Washington House](/go/heyward-washington-house-charleston-sc/)
@@ -394,9 +370,9 @@ This historic house museum was built in 1772 and was home to the fourth Declarat
 
 [See photos, reviews &amp; more](/go/heyward-washington-house-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b0cac58c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Joseph Manigault House](/go/joseph-manigault-house-charleston-sc/)
 
@@ -406,9 +382,9 @@ This is the historic home of Joseph Manigault, built in 1803. The Manigaults wer
 
 [See photos, reviews &amp; more](/go/joseph-manigault-house-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0d4a6da5"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/magnolia-cemetery-charleston-sc.jpg"><img src="/images/magnolia-cemetery-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Magnolia Cemetery](/go/magnolia-cemetery-charleston-sc/)
@@ -419,9 +395,9 @@ This historic cemetery was established in 1850 and is the oldest public cemetery
 
 [See photos, reviews &amp; more](/go/magnolia-cemetery-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-79ecc2ae"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/circular-congregational-church-charleston-sc.jpg"><img src="/images/circular-congregational-church-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Circular Congregational Church](/go/circular-congregational-church-charleston-sc/)
@@ -432,9 +408,9 @@ This church was founded in 1681 as a free church for all those who wished to com
 
 [See photos, reviews &amp; more](/go/circular-congregational-church-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5afd9e5d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/Morris-Island-Lighthouse-charleston-sc.jpg"><img src="/images/Morris-Island-Lighthouse-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Morris Island Lighthouse](/go/morris-island-lighthouse-charleston-sc/)
@@ -445,9 +421,9 @@ This historical lighthouse is actually the third lighthouse on this site, built 
 
 [See photos, reviews &amp; more](/go/morris-island-lighthouse-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d85931b0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Old Exchange and Provost Dungeon](/go/old-exchange-provost-dungeon-charleston-sc/)
 
@@ -457,9 +433,9 @@ This was the site of important Charleston business since 1771. It acted as a com
 
 [See photos, reviews &amp; more](/go/old-exchange-provost-dungeon-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d1f8cf54"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [The College of Charleston](/go/college-charleston-sc/)
 
@@ -469,9 +445,9 @@ This is the 13th oldest university in the United States and the oldest municipal
 
 [See photos, reviews &amp; more](/go/college-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-846903dd"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/historic-dock-street-theater-charleston-sc.jpg"><img src="/images/historic-dock-street-theater-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [The Historic Dock Street Theatre](/go/historic-dock-street-theater-charleston-sc/)
@@ -482,9 +458,9 @@ Located in the French Quarter of downtown Charleston, the current structure of t
 
 [See photos, reviews &amp; more](/go/historic-dock-street-theater-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-30b30d3e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/The-Powder-Magazine-Charleston-SC.jpg"><img src="/images/The-Powder-Magazine-Charleston-SC.jpg" alt="" /></a></figure>
 
 #### [The Powder Magazine](/go/powder-magazine-charleston-sc/)
@@ -495,15 +471,11 @@ The Powder Magazine was gunpowder magazine from 1713 through the Revolutionary W
 
 [See photos, reviews &amp; more](/go/powder-magazine-charleston-sc/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42ea2b18">
 
 ## Parks and hiking near Charleston
 
-<div class="uagb-separator"></div></div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3edd8630"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 <figure><a href="/images/folly-beach-charleston-sc.jpg"><img src="/images/folly-beach-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Folly Beach](/go/folly-beach-charleston-sc/)
@@ -512,9 +484,9 @@ Folly Beach is actually a town located in Folly Island and is known for expansiv
 
 [See photos, reviews &amp; more](/go/folly-beach-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0b93971d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/charleston-outdoor-adventures-charleston-sc.jpg"><img src="/images/charleston-outdoor-adventures-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Charleston Outdoor Adventures](/go/charleston-outdoor-adventures-charleston-sc/)
@@ -525,9 +497,9 @@ If you are looking to explore the waters of Charleston, then you will love what 
 
 [See photos, reviews &amp; more](/go/charleston-outdoor-adventures-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-beeeee66"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/kiawah-island-golf-resort-nature-tour-charleston-sc.jpg"><img src="/images/kiawah-island-golf-resort-nature-tour-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Kiawah Island Golf Resort Nature Tours](/go/kiawah-island-golf-resort-nature-tours-charleston-sc/)
@@ -538,9 +510,9 @@ At the Kiawah Island Golf Resort Nature Tours, you get a land based wildlife exp
 
 [See photos, reviews &amp; more](/go/kiawah-island-golf-resort-nature-tours-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c147f81f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/bulls-island-ferry-charleston-sc.jpg"><img src="/images/bulls-island-ferry-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Bulls Island Ferry](/go/bulls-island-ferry-charleston-sc/)
@@ -551,9 +523,9 @@ The Island Ferry takes you to the Cape Romain National Wildlife Refuge where you
 
 [See photos, reviews &amp; more](/go/bulls-island-ferry-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-585c8ca2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/cypress-gardens-charleston-sc.jpg"><img src="/images/cypress-gardens-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Cypress Gardens](/go/cypress-gardens-charleston-sc/)
@@ -564,9 +536,9 @@ What was once a part of 1750 Dean Hall Plantation, became a beautiful garden pre
 
 [See photos, reviews &amp; more](/go/cypress-gardens-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7bcd15fe"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/capers-island-heritage-preserve-charleston-sc.jpg"><img src="/images/capers-island-heritage-preserve-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Capers Island Heritage Preserve](/go/capers-island-heritage-preserve-charleston-sc/)
@@ -577,9 +549,9 @@ This is a small undeveloped barrier island that contains several wildlife habita
 
 [See photos, reviews &amp; more](/go/capers-island-heritage-preserve-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-34452cb0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/charleston-tea-garden-charleston-sc.jpg"><img src="/images/charleston-tea-garden-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Charleston Tea Garden](/go/charleston-tea-garden-charleston-sc/)
@@ -590,15 +562,11 @@ This unspoiled island is connected to Charleston by a single bridge. The sandy s
 
 [See photos, reviews &amp; more](/go/charleston-tea-garden-charleston-sc/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-496ff948">
 
 ## Kid-friendly Restaurants in Charleston
 
-<div class="uagb-separator"></div></div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-98a2e3a4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 <figure><a href="/images/family-restaurant-charleston-sc-washout-folly-beach.jpg"><img src="/images/family-restaurant-charleston-sc-washout-folly-beach.jpg" alt="" /></a></figure>
 
 #### [The Washout](/go/washout-restaurant-charleston-sc/)
@@ -609,9 +577,9 @@ This is a fun and casual popular beach restaurant serving up southern seafood. T
 
 [See photos, reviews &amp; more](/go/washout-restaurant-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c5e2500e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/Swamp-Fox-Restaurant-1920-charleston-family-restaurant.jpg"><img src="/images/Swamp-Fox-Restaurant-1920-charleston-family-restaurant.jpg" alt="" /></a></figure>
 
 #### [Swamp Fox Restaurant](/go/swamp-fox-restaurant-charleston-sc/)
@@ -622,9 +590,9 @@ Serving up award-winning shrimp and grits, Swamp Fox Restaurant is located in th
 
 [See photos, reviews &amp; more](/go/swamp-fox-restaurant-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0421392d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/toast-of-charleston-sc-family-restaurant.jpg"><img src="/images/toast-of-charleston-sc-family-restaurant.jpg" alt="" /></a></figure>
 
 #### [Toast! Of Charleston](/go/toast-restaurant-charleston-sc/)
@@ -635,9 +603,9 @@ Known for awesome breakfast, this spot is great for a meal anytime of day with t
 
 [See photos, reviews &amp; more](/go/toast-restaurant-charleston-sc/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f2871a5a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/mrs-roses-fine-food-cocktails-family-restaurant-charleston-sc.jpg"><img src="/images/mrs-roses-fine-food-cocktails-family-restaurant-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Mrs. Rose’s Fine Food and Cocktails](/go/mrs-rose-fine-food-cocktails-charleston-sc/)
@@ -648,21 +616,17 @@ This is a local favorite, serving Southern comfort food in a funky and cool atmo
 
 [See photos, reviews &amp; more](/go/mrs-rose-fine-food-cocktails-charleston-sc/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-e4b0d206">
 
 ## That's a Wrap!
-
-<div class="uagb-separator"></div></div>
 
 Charleston is an amazing city and I hope this list helps to make your trip extra special. If while you’re in town you need a place to stay, check out our article on the [best family hotels in Charleston](/best-family-hotels-charleston-south-carolina/).&nbsp; Have fun and happy travels!
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7a4478ec"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="things-to-do-charleston-with-kids"><a href="/images/things-to-do-charleston-with-kids.png"><img src="/images/things-to-do-charleston-with-kids-200x300.png" alt="" /></a></figure>
-</div></section>
+

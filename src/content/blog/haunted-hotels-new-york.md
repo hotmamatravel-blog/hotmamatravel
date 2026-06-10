@@ -21,12 +21,9 @@ So, if you're seeking a unique and unforgettable stay in the Empire State, join 
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hotel-chelsea-haunted-hotels-new-york"><figure><a href="/images/hotel-chelsea-haunted-hotels-new-york.jpg"><img src="/images/hotel-chelsea-haunted-hotels-new-york.jpg" alt="Haunted Hotel Chelsea in New York New York" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
-
 ## **[Hotel Chelsea](/go/hotel-chelsea-new-york/)**
 
 222 West Twenty-Third Street New York, N. Y. 10011
-</div>
 
 ### **Brief History**
 
@@ -68,12 +65,9 @@ The Chelsea Hotel is HotMamaTravel approved because it serves up history, haunti
 
 <div class="wp-block-uagb-image uagb-block-c638749f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-algonquin-hotel-haunted-hotels-new-york"><figure><a href="/images/the-algonquin-hotel-haunted-hotels-new-york.jpg"><img src="/images/the-algonquin-hotel-haunted-hotels-new-york.jpg" alt="The Algonquin Haunted Hotel in New York City" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-7c59124f">
-
 ## **[The Algonquin Hotel](/go/the-algonquin-hotel-new-york/)**
 
 59 West 44th Street, New York City, NY 10036
-</div>
 
 ### **Brief History**
 
@@ -117,12 +111,9 @@ The Algonquin is HotMamaTravel approved because it proves you don’t have to tr
 
 <div class="wp-block-uagb-image uagb-block-a8c57a3a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-sagamore-resort-haunted-hotels-new-york"><figure><a href="/images/the-sagamore-resort-haunted-hotels-new-york.jpg"><img src="/images/the-sagamore-resort-haunted-hotels-new-york.jpg" alt="The Haunted Sagamore New York Hotel " /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-2a3e6991">
-
 ## **[The Sagamore&nbsp;](/go/the-sagamore-resort-new-york/)**
 
 110 Sagamore Rd, Bolton Landing, NY 12814
-</div>
 
 ### **Brief History**
 
@@ -156,12 +147,9 @@ The Sagamore Hotel is a HotMamaTravel-approved destination because it’s the ra
 
 <div class="wp-block-uagb-image uagb-block-3a6196e2 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="mohonk-mountain-house-haunted-hotels-new-york"><figure><a href="/images/mohonk-mountain-house-haunted-hotels-new-york.jpg"><img src="/images/mohonk-mountain-house-haunted-hotels-new-york.jpg" alt="Haunted hotels in New York the Mohonk Mountain House" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-bce775f5">
-
 ## **[The Mohonk Mountain House](/haunted-hotels-new-york/)**
 
 1000 Mountain Rest Rd, New Paltz, NY 12561
-</div>
 
 ### **Brief History**
 
@@ -201,12 +189,9 @@ Mohonk Mountain House is HotMamaTravel approved because it nails the trifecta: j
 
 <div class="wp-block-uagb-image uagb-block-a2cd00f7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/the-otesaga-resort-haunted-hotels-new-york.jpg"><img src="/images/the-otesaga-resort-haunted-hotels-new-york.jpg" alt="The Otesaga Resort Haunted Hotel in New York" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-a968d50c">
-
 ## **[The Otesaga Resort Hotel](/go/otesaga-resort-new-york/)**
 
 60 Lake St, Cooperstown, Otsego, NY 13326
-</div>
 
 ### **Brief History**
 
@@ -244,12 +229,9 @@ The Otesaga is HotMamaTravel approved because it blends lakefront fun, family-fr
 
 <div class="wp-block-uagb-image uagb-block-3304a447 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hotel-utica-haunted-hotels-new-york"><figure><a href="/images/hotel-utica-haunted-hotels-new-york.jpg"><img src="/images/hotel-utica-haunted-hotels-new-york.jpg" alt="Haunted Hotel Utica New York " /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-6801b174">
-
 ## **[Hotel Utica](/go/hotel-utica-new-york/)**
 
 102 Lafayette St, Utica, NY 13502-4310
-</div>
 
 ### **Brief History**
 
@@ -289,10 +271,10 @@ So, if you’re ready for a one-of-a-kind adventure that combines luxurious stay
 
 If Christmas is more your jam, then check out our favorite [**New York Christmas Hotels**](/best-christmas-hotels-in-nyc/) that go all out for the holidays!
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="haunted-hotels-new-york" data-essb-pin-description="Most haunted hotels in New York that are also family-friendly! "><a href="/images/haunted-hotels-new-york.jpg"><img src="/images/haunted-hotels-new-york-200x300.jpg" alt="Most Haunted family-friendly hotels in New York
 " /></a></figure>
-</div></div>
+

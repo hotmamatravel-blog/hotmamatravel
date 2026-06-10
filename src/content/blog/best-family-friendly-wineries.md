@@ -12,7 +12,6 @@ wpSlug: "best-family-friendly-wineries"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Embark on a grape-stomping, glass-clinking, family adventure as we explore the crème de la crème of family-friendly wineries! Picture rolling vineyards, lush landscapes, and laughter echoing through the air as parents sip on world-class wines while the little ones revel in vineyard picnics and grape juice tastings.
 
 Curated with love and a hint of wanderlust, my handpicked list of the best family-friendly wineries is your passport to a vino-infused family escapade. From interactive tours to scenic views that will leave you breathless, each winery on the list promises an unforgettable experience for both parents and pint-sized explorers.
@@ -23,7 +22,7 @@ So, why settle for a run-of-the-mill family outing when you can infuse it with t
 
 ## Kid-Friendly Wineries in USA
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-ce51275" id="family-friendly-wineries-in-california" data-block-id="ce51275">
 

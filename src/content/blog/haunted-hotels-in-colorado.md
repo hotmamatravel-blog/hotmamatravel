@@ -21,12 +21,9 @@ If your crew loves a good mix of travel and thrills, make sure to also check out
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="The-Stanley-Hotel-Haunted-Hotels-Colorado"><figure><a href="/images/The-Stanley-Hotel-Haunted-Hotels-Colorado.jpg"><img src="/images/The-Stanley-Hotel-Haunted-Hotels-Colorado.jpg" alt="The Stanley Hotel one of the Most Haunted Hotels in Colorado" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
-
 ## [The Stanley Hotel](/go/the-stanley-hotel-colorado/)
 
 333 Wonderview Avenue, Estes Park, CO 80517
-</div>
 
 ### **Brief History**
 
@@ -48,12 +45,9 @@ Two musical spirits still like to jam out in the afterlife at Stanley Hotel. The
 
 <div class="wp-block-uagb-image uagb-block-b1fd52a7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Hotel-Jerome-Haunted-Hotels-Colorado"><figure><a href="/images/Hotel-Jerome-Haunted-Hotels-Colorado.jpg"><img src="/images/Hotel-Jerome-Haunted-Hotels-Colorado.jpg" alt="Hotel Jerome is a Haunted Hotel in Colorado" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-5188cf60">
-
 ## **[The Hotel Jerome](/go/prospect-hotel-jerome-aspen-colorado/)**
 
 330 E Main St, Aspen, CO 81611-1930
-</div>
 
 ### **Brief History**
 
@@ -73,12 +67,9 @@ The hotel's vintage elevator has been known to operate on its own, seemingly res
 
 <div class="wp-block-uagb-image uagb-block-97c62e20 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="The-Oxford-Hotel-Haunted-Hotels-Colorado"><figure><a href="/images/The-Oxford-Hotel-Haunted-Hotels-Colorado.jpg"><img src="/images/The-Oxford-Hotel-Haunted-Hotels-Colorado.jpg" alt="Haunted Hotels in Colorado include The Oxford Hotel" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-3ba85b28">
-
 ## [The Oxford Hotel](/go/the-oxford-hotel-colorado/)
 
 1600 17th St., Denver, CO 80202
-</div>
 
 ### **Brief History**
 
@@ -102,12 +93,9 @@ The Oxford Hotel's antique elevator is known to operate on its own, stopping on 
 
 <div class="wp-block-uagb-image uagb-block-ea163bae wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="The-Brown-Palace-Hotel-Haunted-Hotels-Colorado"><figure><a href="/images/The-Brown-Palace-Hotel-Haunted-Hotels-Colorado.jpg"><img src="/images/The-Brown-Palace-Hotel-Haunted-Hotels-Colorado.jpg" alt="The Haunted Brown Palace Hotel " /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-36ef328a">
-
 ## **[The Brown Palace Hotel](/go/the-brown-palace-hotel-colorado/)**
 
 321 17th Street, Denver, CO 80202
-</div>
 
 ### **Brief History**
 
@@ -135,17 +123,17 @@ Or, if you’d rather sleep under the stars than with the spirits, cozy up at on
 
 Because in Colorado, adventure never rests… and apparently, neither do the ghosts.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="haunte-hotels-colorado" data-essb-pin-description="Ready for a spooktacular stay in the Rockies? Discover the most haunted hotels in Colorado for families — where ghost stories meet cozy stays! From the legendary Stanley Hotel to elegant haunted hideaways, these family-friendly destinations mix chills, charm, and mountain views.
 #HauntedHotels #FamilyTravel #ColoradoTravel #HauntedColorado #GhostStories #SpookyGetaway #HotMamaTravel"><a href="/images/haunted-hotels-colorado.jpg"><img src="/images/haunted-hotels-colorado-200x300.jpg" alt="Most Haunted Hotels Colorado for Families" /></a></figure>
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
+
 
 Like it? Pin it!
 
 <figure id="beautiful-haunted-hotels-colorado"><a href="/images/haunted-hotels-colorado.jpg"><img src="/images/haunted-hotels-colorado-200x300.jpg" alt="" /></a></figure>
-</div></div>
+

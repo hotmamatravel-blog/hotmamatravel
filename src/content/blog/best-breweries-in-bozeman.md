@@ -19,16 +19,13 @@ Step into the heart of Montana's craft beer culture as we embark on a frothy adv
 
 ## Best Breweries in Bozeman
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bozeman-brewing-company-best-breweries-bozeman"><figure><a href="/images/bozeman-brewing-company-best-breweries-bozeman.jpg"><img src="/images/bozeman-brewing-company-best-breweries-bozeman.jpg" alt="Bozeman Brewing Company in Bozeman MT" /></a><figcaption class="uagb-image-caption">Courtesy of Bozeman Brewing Comany</figcaption></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
 ### [Bozeman Brewing Company](/go/bozeman-brewing-company/)
 
 504 N Broadway Ave, Bozeman, MT 59715
-</div>
 
 Family-Friendly  -  Dog-Friendly  -  Small Batch Seasonal Brews  -  Events  -  Food Vendors  -  Give Back to Community
 
@@ -48,12 +45,9 @@ The brewery comes alive with the sound of local talents, offering a stage for li
 
 <div class="wp-block-uagb-image uagb-block-213f2bfe wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="map-brewing-co-best-breweries-bozeman"><figure><a href="/images/map-brewing-co-best-breweries-bozeman.jpg"><img src="/images/map-brewing-co-best-breweries-bozeman.jpg" alt="MAP Brewing Co in Bozeman MT" /></a><figcaption class="uagb-image-caption">Courtesy of MAP Brewing Co.</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-a2383892">
-
 ### [MAP Brewing Co](/go/map-brewing-co-bozeman/)
 
 510 Manley Rd, Bozeman, MT 59715
-</div>
 
 Family-Friendly  -  Dog-Friendly  -  Inhouse Kitchen  -  Kids Menu  -  Gorgeous Mountain Views  -  Live Music &amp; Events
 
@@ -71,12 +65,9 @@ MAP Brewing Co. transforms into an entertainment destination with live music ech
 
 <div class="wp-block-uagb-image uagb-block-9fc9bab1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bridger-brewing-best-breweries-bozeman"><figure><a href="/images/bridger-brewing-best-breweries-bozeman.jpg"><img src="/images/bridger-brewing-best-breweries-bozeman.jpg" alt="Bridger Brewing in Bozeman Montana" /></a><figcaption class="uagb-image-caption">Courtesy of Bridger Brewing</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-c91660b4">
-
 ### [Bridger Brewing](/go/bridger-brewing-bozeman-montana/)
 
 1609 S 11th Ave, Bozeman, MT 59715
-</div>
 
 Family-Friendly  -  Dog-Friendly  -  Live Music  -  Events  -  Inhouse Food   -  Experimental Blends
 
@@ -96,12 +87,9 @@ Locals adore Bridger Brewing not only for its outstanding beer and delectable fo
 
 <div class="wp-block-uagb-image uagb-block-bf042415 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="mountains-walking-brewery-pub-best-breweries-bozeman"><figure><a href="/images/mountains-walking-brewery-pub-best-breweries-bozeman.jpg"><img src="/images/mountains-walking-brewery-pub-best-breweries-bozeman.jpg" alt="Mountains Walking Brewery &amp; Pub in Bozeman Montana" /></a><figcaption class="uagb-image-caption">Courtesy of Mountains Walking Brewery &amp; Pub</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-575b8b94">
-
 ### [Mountains Walking Brewery &amp; Pub](/go/mountains-walking-brewery-pub-bozeman/)
 
 422 Plum Ave, Bozeman, MT 59715
-</div>
 
 Family-Friendly  -  Events  -  Inhouse Food  -  Beer Flights
 
@@ -117,12 +105,9 @@ What sets Mountains Walking apart is its commitment to community engagement. The
 
 <div class="wp-block-uagb-image uagb-block-86530724 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bunkhouse-brewing-best-breweries-bozeman"><figure><a href="/images/bunkhouse-brewing-best-breweries-bozeman.jpg"><img src="/images/bunkhouse-brewing-best-breweries-bozeman.jpg" alt="Bunkhouse Brewery in Bozeman Montana" /></a><figcaption class="uagb-image-caption">Courtesy of Bunkhouse Brewery</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-0d263821">
-
 ### [Bunkhouse Brewery](/go/bunkhouse-brewery-bozeman/)
 
 1216 West Lincoln Street a, Bozeman, MT 59715
-</div>
 
 Family-Friendly  -  Dog-Friendly  -  Events  -  Food Trucks  -  Live Music
 
@@ -144,12 +129,9 @@ Bunkhouse Brewing enriches the brewery experience with a calendar of events and 
 
 <div class="wp-block-uagb-image uagb-block-0bf4bea5 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="outlaw-brewing-best-breweries-bozeman"><figure><a href="/images/outlaw-brewing-best-breweries-bozeman.jpg"><img src="/images/outlaw-brewing-best-breweries-bozeman.jpg" alt="Outlaw Brewing in Bozeman Montana" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-cc042e09">
-
 ### [Outlaw Brewing](/go/outlaw-brewing-bozeman/)
 
 2876 N 27th Ave, Bozeman, MT 59718
-</div>
 
 Family-Friendly  -  Dog-Friendly  -  Live Music  -  Events  -  Food Trucks
 
@@ -165,12 +147,9 @@ And let's not forget the culinary delights—Outlaw Brewing has a rotation of fo
 
 <div class="wp-block-uagb-image uagb-block-4b96f371 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="shred-monk-brewing-best-breweries-bozeman"><figure><a href="/images/shred-monk-brewing-best-breweries-bozeman.jpg"><img src="/images/shred-monk-brewing-best-breweries-bozeman.jpg" alt="Shred Monk Brewing Bozeman" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-cc868a70">
-
 ### [Shred Monk Brewing](/go/shred-monk-brewing-bozeman/)
 
 121 W Main St Unit B, Bozeman, MT 59715
-</div>
 
 Family-Friendly  -  Inhouse Kitchen  -  Kids Menu  -  Live Music
 
@@ -192,9 +171,9 @@ Whether you're savoring a hop-forward IPA, enjoying live music, or simply baskin
 
 Explore more [cool breweries in more cool cities](/americas-best-breweries/).
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="best-breweries-in-bozeman-families-live-music-pets"><a href="/images/best-breweries-in-bozeman-families-live-music-pets.jpg"><img src="/images/best-breweries-in-bozeman-families-live-music-pets-200x300.jpg" alt="" /></a></figure>
-</div></div>
+

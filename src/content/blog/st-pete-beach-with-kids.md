@@ -27,12 +27,8 @@ There are so many cool things to do in St. Pete Beach for kids. Each time we vis
 
 **Here's what's in this article**:
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-210ab8ba"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-0d1c7ac8">
 
 ### Unique area attractions
-
-<div class="uagb-separator"></div></div>
 
 - [Kids' Activities at TradesWinds St. Pete Beach](#kids-activities-tradewinds)
 
@@ -48,19 +44,17 @@ There are so many cool things to do in St. Pete Beach for kids. Each time we vis
 
 - [Treasure Island](#treasure-island)
 
-</div></section>
+
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<div class="wp-block-uagb-advanced-heading uagb-block-b1177d6c">
-
 ## St Pete Beach With Kids Activities
 
-<div class="uagb-separator"></div>
+
 The entertainment is endless for a family vacation in St. Petersburg Beach. Here are some fun things to do in St Pete Beach with kids!
 </div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c5e54db9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="kids-activities-tradewinds-st-pete-for-kids"><a href="/images/kids-activities-tradewinds-st-pete-for-kids-1.jpg"><img src="/images/kids-activities-tradewinds-st-pete-for-kids-1.jpg" alt="family activities at Tradewinds Island Grand in St Pete Beach" /></a></figure>
 
 #### [Kid's activities at Trade](/go/tradewinds-st-pete-expedia/)[W](/go/tradewinds-st-pete-expedia/)[inds Island Grand Resort](/go/tradewinds-st-pete-expedia/)
@@ -81,9 +75,9 @@ As if all that wasn't enough, there is also a kids club with daily crafts and pi
 
 [See photos, reviews &amp; more](/go/tradewinds-st-pete-expedia/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2306255a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="pirate-ship-royal-conquest-st-pete-for-kids"><a href="/images/pirate-ship-royal-conquest-st-pete-for-kids.jpg"><img src="/images/pirate-ship-royal-conquest-st-pete-for-kids.jpg" alt="family friendly pirate ship adventure st pete beach" /></a></figure>
 
 #### [Pirate Ship Royal Conquest](/go/pirate-ship-st-pete-beach-florida/)
@@ -96,9 +90,9 @@ John's Pass has shops, dining and adventures. We chose to board the Pirate ship 
 
 [See photos, reviews &amp; more](/go/pirate-ship-st-pete-beach-florida/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5cf74090"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="dolphin-snorkel-tour-st-pete-beach-kids"><a href="/images/dolphin-snorkel-tour-st-pete-beach-kids.jpg"><img src="/images/dolphin-snorkel-tour-st-pete-beach-kids.jpg" alt="snorkeling with kids in St Pete Beach" /></a></figure>
 
 #### [Dolphin Cruise &amp; Snorkel Tour](/go/dolphin-cruise-snorkling-st-pete-beach/)
@@ -109,9 +103,9 @@ Give your family the opportunity to see dolphins and manatees playing their natu
 
 [See photos, reviews &amp; more](/go/dolphin-cruise-snorkling-st-pete-beach/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-537f0ecc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="rumfish-beach-resort-tradewinds-family-resorts-st-pete-beach"><a href="/images/rumfish-beach-resort-tradewinds-family-resorts-st-pete-beach.jpg"><img src="/images/rumfish-beach-resort-tradewinds-family-resorts-st-pete-beach.jpg" alt="kid-friendly activities at RumFish Resort in St Pete Beach" /></a></figure>
 
 #### [Kid's Activities at RumFish Beach Resort](/go/rumfish-beach-resort-tradewinds-st-pete-beach/)
@@ -128,9 +122,9 @@ By the evening gather outside for firepits and complimentary smores. Nothing lik
 
 [See photos, reviews &amp; more](/go/rumfish-beach-resort-tradewinds-st-pete-beach/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a9579d2e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="historic-jungle-prada-st-pete-beach-kids"><a href="/images/historic-jungle-prada-st-pete-beach-kids.jpg"><img src="/images/historic-jungle-prada-st-pete-beach-kids.jpg" alt="Family-friendly Jungle Prada Site in St. Pete Beach Florida" /></a></figure>
 
 #### [St. Petersburg Jungle Prada Site History Tour](/go/historic-prada-jungle-tour-st-pete-beach/)
@@ -141,9 +135,9 @@ Travel back in time, 900 years to visit the St. Petersburg Jungle Prada Site. As
 
 [See photos, reviews &amp; more](/go/historic-prada-jungle-tour-st-pete-beach/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c8993131"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Johns-pass-things-to-do-st-pete-beach-with-kids"><a href="/images/Johns-pass-things-to-do-st-pete-beach-with-kids.jpg"><img src="/images/Johns-pass-things-to-do-st-pete-beach-with-kids.jpg" alt="Family-friendly John" /></a></figure>
 
 #### [John's Pass](/go/johns-pass-madeira-st-pete-beach/)
@@ -160,9 +154,9 @@ John's Pass has plenty of entertainment options for families, including live mus
 
 [See photos, reviews &amp; more](/go/johns-pass-madeira-st-pete-beach/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-284a1d53"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="treasure-island-best-beaches-st-petersburgh-fl"><a href="/images/treasure-island-best-beaches-st-petersburgh-fl.jpg"><img src="/images/treasure-island-best-beaches-st-petersburgh-fl.jpg" alt="Treasure Island family activities " /></a></figure>
 
 #### [Treasure Island](/go/treasure-island-st-pete-beach/)
@@ -173,13 +167,9 @@ Treasure Island is a beautiful stretch of white sandy beaches, perfect for a Flo
 
 [See photos, reviews &amp; more](/go/treasure-island-st-pete-beach/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-a7e15252">
 
 ## That's a Wrap!
-
-<div class="uagb-separator"></div></div>
 
 St Pete Beach with kids was an awesome experience. My kids woke up the first morning home and burst into tears because they wanted to be back in Florida. Waking up and running onto the sand, knowing that a day full of adventure lies ahead. St Pete Beach is the perfect destination for a beautiful family beach vacation. See you next year St Pete!
 
@@ -192,16 +182,14 @@ If you're more of a visual person, **check out our videos** highlighting our fam
 <div class="wp-block-columns has-2-columns">
 <div class="wp-block-column">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N3y0H1T2SCI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
 
 <div class="wp-block-column">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kT7U3BLGQg0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
-</div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c814ecb3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 **Like it? Pin it!**
 
 <figure id="things-to-do-st-pete-beach-with-kids"><a href="/images/st-pete-beach-for-kids.jpg"><img src="/images/st-pete-beach-for-kids-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

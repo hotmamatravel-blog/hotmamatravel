@@ -19,15 +19,11 @@ Nestled along the captivating coastline of Mendocino, California, the Little Riv
 
 ## The Little River Inn Story
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Little-River-Inn-Family-Home-1853"><figure><a href="/images/Little-River-Inn-Family-Home.jpg"><img src="/images/Little-River-Inn-Family-Home.jpg" alt="Little River Inn Built in 1853" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
-
 ### A Family Home
-
-</div>
 
 Back in 1853, the Mendocino Coast saw the arrival of Silas Coombs, a visionary whose actions would shape the course of the area's history. Coombs didn't just build a mill; he laid the foundation for what would become a vibrant logging town, igniting a fire of prosperity that would spread across the Little River region. Amidst his endeavors, he also crafted a family haven right where the heart of Little River Inn now beats.
 
@@ -39,11 +35,7 @@ Read more about the Little River Inn's fascinating history in a book written by 
 
 <div class="wp-block-uagb-image uagb-block-c0320fe9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="family-friendly-Little-River-Inn-mendocino"><figure><a href="/images/Little-River-Inn-1939.jpg"><img src="/images/Little-River-Inn-1939.jpg" alt="Family-friendly Little River Inn in Mendocino" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-08f191ec">
-
 ### Little River Inn Opens
-
-</div>
 
 In 1939, the Little River Inn entered a new chapter in its storied history with the visionary guidance of son-in-law, Ole Hervilla. Hervilla, an immigrant from Norway, saw the potential in the property and its captivating coastal surroundings. Drawing from his background in carpentry and a deep appreciation for hospitality, he embarked on a journey to transform the inn into a destination that would capture the essence of Mendocino's natural beauty and charm.
 
@@ -55,11 +47,7 @@ Ole's legacy remains imprinted upon every corner of the Little River Inn, from t
 
 <div class="wp-block-uagb-image uagb-block-774518a3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Little-River-Inn-Ole-Abalone-Picker"><figure><a href="/images/Little-River-Inn-Ole-Abalone-Picker.jpg"><img src="/images/Little-River-Inn-Ole-Abalone-Picker.jpg" alt="Story of the Abalone at Little River Inn" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-824b75a7">
-
 ### The Story of the Abalone
-
-</div>
 
 You may notice a lot of mentions of Abalone. Here it the story behind this controversial shellfish. Ole Hervilla, the visionary behind the transformation of the Little River Inn, had a unique connection to the abalone industry in Mendocino. Ole's journey from Norway to the California coast led him to not only shape the inn's legacy but also intersect with the Abalone controversy that emerged in the region.
 
@@ -71,15 +59,11 @@ Abalone was a very popular dish at the Little River Inn, but commercial fishing 
 
 ## Why Families Will Love Little River Inn
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-a6b4325d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Little-River-Inn-rooms"><figure><a href="/images/Little-River-Inn-rooms.jpg"><img src="/images/Little-River-Inn-rooms.jpg" alt="Spacious family rooms in Little River Inn" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-13432e69">
-
 ### Comfortable Rooms
-
-</div>
 
 Indulgence takes on a new form at the Little River Inn, where every room tells a story of comfort and coastal charm. Each abode is a sanctuary, whether you are staying in the main house or one of the many cottages on the property, and designed to embrace you in a blend of modern luxury and timeless elegance. With breathtaking views of the Mendocino coastline or the lush gardens, the rooms are more than just spaces; they're a retreat where you can unwind and rejuvenate.
 
@@ -97,11 +81,7 @@ Our family loved misty mornings on the balcony, enjoying breakfast and Bloody Ma
 
 <div class="wp-block-uagb-image uagb-block-1b22aebb wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Little-River-Inn-restaurant"><figure><a href="/images/Little-River-Inn-restaurant.jpg"><img src="/images/Little-River-Inn-restaurant.jpg" alt="Family-friendly dining room at Little River Inn" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-87e1ac83">
-
 ### Little River Inn Dining Room
-
-</div>
 
 The restaurant at the Little River Inn is a culinary haven that captures the essence of Mendocino's coastal bounty and transforms it into an exquisite dining experience. Overlooking the mesmerizing Pacific Ocean, this dining establishment presents a feast for both the senses and the soul. Led by Executive Chef Marc Dym, the restaurant takes pride in showcasing locally sourced ingredients, allowing guests to savor the flavors of the region's abundant produce and seafood.
 
@@ -117,11 +97,7 @@ For those who appreciate the art of wine pairing, the restaurant boasts an impre
 
 <div class="wp-block-uagb-image uagb-block-cfc64d93 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Little-River-Inn-Ole-Whale-Watch-Bar"><figure><a href="/images/Little-River-Inn-Ole-Whale-Watch-Bar.jpg"><img src="/images/Little-River-Inn-Ole-Whale-Watch-Bar.jpg" alt="Ole" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-cb4f3a62">
-
 ### Ole's Whale Watch Bar
-
-</div>
 
 If you've followed our blog long, you know I love me a cute bar, especially if I can enjoy it with my kids. Ole's Whale Watch Bar is located just off the Little River Inn dining room and does serve food, so kids are welcomed inside. The name comes form the amazing ocean views, that stretch the length of the bar. There even certain times of the year that you can see whales making their migrations, hence the name of the bar. The nautical-themed decor, complete with maritime artifacts and vintage photos, creates an ambiance that invites you to step into a world of oceanic wonder.
 
@@ -137,11 +113,7 @@ On the bar snacks menu I highly recommend ordering the Cracklins. They are made 
 
 <div class="wp-block-uagb-image uagb-block-5e928354 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="ocean-views-little-river-inn"><figure><a href="/images/ocean-views-little-river-inn.jpg"><img src="/images/ocean-views-little-river-inn.jpg" alt="Majestic atmosphere at Little River Inn" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-83fc49e4">
-
 ### Charming Atmosphere
-
-</div>
 
 The Little River Inn in Mendocino radiates a charming and family-friendly atmosphere that envelops visitors in a warm embrace from the moment they arrive. As a place where generations have gathered to create cherished memories, the inn offers an idyllic escape where families can reconnect and savor the simple joys of life.
 
@@ -159,11 +131,7 @@ With a legacy that spans generations, the inn carries a sense of timelessness th
 
 <div class="wp-block-uagb-image uagb-block-1b771932 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="golf-little-river-inn"><figure><a href="/images/golf-little-river-inn.jpg"><img src="/images/golf-little-river-inn.jpg" alt="Family-friendly golfing at Little River Inn" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-23485de3">
-
 ### Golf
-
-</div>
 
 The Little River Inn in Mendocino offers more than just breathtaking coastal views and comfortable accommodations; it also features its very own golf course, adding an extra layer of leisure and recreation to your stay. The Little River Inn Golf Course, established in 1957, is a nine-hole course that winds its way through the stunning landscapes of the Mendocino coast.
 
@@ -175,11 +143,7 @@ Whether you're a seasoned golfer or a casual enthusiast, playing a round of golf
 
 <div class="wp-block-uagb-image uagb-block-d37878fd wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="spa-little-river-inn"><figure><a href="/images/spa-little-river-inn.jpg"><img src="/images/spa-little-river-inn.jpg" alt="The Spa at Little River Inn" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-0592c44b">
-
 ### Spa
-
-</div>
 
 The spa at the Little River Inn in Mendocino is a haven of tranquility and rejuvenation, offering a range of treatments and experiences that cater to your body, mind, and spirit. Nestled in a serene coastal setting, the spa is designed to provide a retreat from the everyday, allowing you to unwind and embrace a sense of relaxation like no other.
 
@@ -193,7 +157,7 @@ The coastal surroundings are seamlessly integrated into the spa experience, crea
 
 ## Watch Our Stay from Little River Inn!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O_fd1TX35Dw?si=jwVvh2NznAXgOb4l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -205,11 +169,11 @@ San Francisco makes for a great stop along your way to Mendocino. Check out our 
 
 And if you would like to explore more of California's coast with your family, see our [**California family travel guides**](/california-family-travel/) to help you plan the ultimate family vacation. Also, see our [**family hotel guides**](/best-family-hotels/) to help you with all your stays along the way.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="Little-River-Inn-Mendocino-Family-Friendly-Hotel" data-essb-pin-description="Dreaming of a cozy Northern California coast getaway? 🌲🌊 Our stay at Little River Inn in Mendocino was pure magic — ocean views, foggy mornings, giant redwoods nearby, and one of the most relaxing family-friendly stays on the California coast. If you’re planning a Mendocino road trip with kids, this charming inn deserves a spot on your list.
 Read our full Little River Inn review + Mendocino family travel tips on https://hotmamatravel.com/little-river-inn/
 #Mendocino #LittleRiverInn #NorthernCalifornia #CaliforniaCoast #FamilyTravel #FamilyVacation #VisitCalifornia #RoadTrip #TravelWithKids #MendocinoCoast #HotMamaTravel "><a href="/images/Little-River-Inn-Mendocino-Family-Friendly-Hotel.jpg"><img src="/images/Little-River-Inn-Mendocino-Family-Friendly-Hotel-200x300.jpg" alt="Review of Little River Inn in Mendocino" /></a></figure>
-</div></div>
+

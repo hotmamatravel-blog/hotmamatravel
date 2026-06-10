@@ -22,7 +22,7 @@ From there, you might consider some of the following advice, going forward:
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c074f476"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 #### Make A Plan &amp; Bring Supplies
 
@@ -34,9 +34,9 @@ When it comes to traveling with children, Adobe Express proves to be an invaluab
 
 [See photos, reviews &amp; more](https://amzn.to/41eiIqV)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-08c3266a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Get Used To Watching Intently
 
@@ -44,9 +44,9 @@ You’re already an attentive and focused parent. But when you head into a new e
 
 You can use body harnesses to keep your walking toddler close to you without making them feel uncomfortable. Of course, it’s easy to say “watch your child,” but you’ll be quite surprised at how observant and focused you are when abroad. Once you get more comfortable you’ll be able to relax, but don’t be afraid to be that vigilant to begin with, it’s a natural response.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9cc7a648"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Remain Selective About Your Accommodation
 
@@ -54,9 +54,9 @@ Many hotels and accommodations will be happy to offer rooms to families with chi
 
 It’s good to look for reviews of each hotel, especially those that offer insights from parents that have visited. We have an extensive list of [family-friendly hotels](/5-best-family-hotels-in-destin-fl/) in various destinations to help make traveling with your kids easier and more fun. For example, it might be that a hotel has nice rooms for families, but the children’s options for food in the restaurant are lacking, and the main event space is open at night, which can be distracting. Moreover, there’s nothing wrong with calling the venue itself and asking if they can accommodate you in certain ways. You might have a child with added needs, for example, and require a family room with disability access and specifically designed bathroom facilities.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-72c7c061"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Try To Sustain Your Child’s Routine
 
@@ -66,9 +66,9 @@ When routines are disrupted it can lead to temper tantrums, falling asleep when 
 
 When you can manage your child’s routine effectively, it should reduce the strain of car journeys or flights that can be quite intensive. Moreover, it’ll give you the opportunity to catch up on your own sleep, after all, parenting is hard and you need good rest to do it well.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ca24b6c0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Pack A Diverse Weather- Wardrobe
 
@@ -76,9 +76,9 @@ We all know that even in relatively sunny environments, the weather can be unpre
 
 Packaging a diverse set of weather-appropriate clothes can be important. Even if you’re heading somewhere warmer, don’t be afraid to bring a rain jacket for you and your child, protective layers for your pushchair, good shoes that can help you and your little one walk around (if they’re off toddler age or higher), and also sunglasses, thin shirts that breathe more easily, shorts, caps, and of course all of the other accessories and supplies like sunscreen.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-cc8480c2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Involve Your Child in The Vacation
 
@@ -86,29 +86,29 @@ Of course, you’ve paid for the vacation, you’ve planned it, and so it’s go
 
 For example, perhaps in the morning you’re going to explore a local quaint village and go shopping, but after lunch you’re happy to head to the beach, the local playframe, or even go on a small boat trip. It can be fun to discuss thai with your child and showcase the benefits of each option, and ultimately give them a few decisions to help yours. Even if you gently influence them into one decision (don’t worry, you’ll be forgiven), they can feel very grown-up and engaged when they feel as though the holiday includes them, as opposed to feeling dragged from place to place.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b33b9fa2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Be Prepared for Delays
 
 From [delayed flights](https://www.ourglobetrotters.com/flight-delays-cancellations-with-kids/) to hotels that had their check-in time listed differently on the website instead of in-person, sometimes travel can be unpredictable and frustrating. It’s good to have distractions to hands like activities or games they can feel comfortable in, or at least a comfortable reclining pushchair they can sleep in, to get over the hump of these delays. The last thing you want is a screaming and annoyed child (don’t worry if this happens though, you’re not a bad parent for it), while you’re trying to administrate everything else.
 
-</div></section>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 With this advice, you’re sure to enjoy your travels as a new parent. Don’t forget to have fun, and enjoy building those wonderful memories with your loved one!
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a7ee0dbd"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="tips-traveling-with-children-"><a href="/images/tips-traveling-with-children-.jpg"><img src="/images/tips-traveling-with-children--200x300.jpg" alt="" /></a></figure>
-</div></section>
+

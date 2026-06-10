@@ -16,15 +16,15 @@ Family vacations should be fun, but if you’ve been in a family, you know: some
 
 Strangely enough,[the best memories are made on such trips](https://www.kidcentraltn.com/support/full-family-support/vacations-have-a-positive-impact-on-the-entire-family--.html). So maybe you can’t control what happens on the road, but you can control how things are at home by preparing in advance. You might come home totally worn out, but you can be sure home will be just as you left it with the following steps.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bb6a1f44"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 #### Unplug What Can be Unplugged
 
 Be sure you don’t leave dangerous electronics plugged in. Microwaves, humidifiers, lamps; all should be unplugged. This reduces the cost of electricity while you’re gone. Even when electronics aren’t in use, they still draw from wall outlets. This also helps reduce the likelihood of an electrical fire.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9da766aa"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Be Sure the Fridge and Freezer are Both Prepped
 
@@ -32,17 +32,17 @@ Some things, like your freezer and refrigerator, can’t be unplugged. However, 
 
 A fridge can keep things cool for a day or two after power is lost if it isn’t opened in that time; depending on the time of year, your fridge, and what you have in it.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-24559f28"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Find Security Solutions Utilizing Cutting Edge Technology
 
 Options in[alarm monitoring](https://www.alarmgrid.com/monitoring/) technology which incorporate modern IoT tech can make it possible for you to “check in” on your property whenever you like from your smartphone. If something does happen, you can contact the proper authorities, or have a friend come over and fix whatever the problem is.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3484786a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Take Measures to Manage Your Pets, if You Have Them
 
@@ -50,17 +50,17 @@ If you can bring the family cat or dog with you, that’s a fine idea. Pups need
 
 [Cats shouldn’t be left alone longer than 48 hours](https://www.mypet.com/basic-pet-care/how-long-can-you-safely-leave-a-cat-alone.aspx), but let’s be honest: you can leave a cat for a few weeks and it’ll be fine; this just isn’t ideal for your pet or your home. Cats left alone will catch mice, puke, and use the kitty restroom outside the box to show their displeasure at your absence.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e06e1499"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Clean up the House Before You Leave
 
 A good rule of thumb before leaving on vacation is to do a deep clean of your house. Get all packed up, then vacuum, wash the dishes, clean the counters, dust, do the laundry, reset couch cushions, tidy up the hall closet, and get everything in order. That way, when you return, you return to a clean home that’s ready for decompression from the trip.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9fa46dce"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Take Out Some Emergency Cash
 
@@ -68,19 +68,19 @@ You don’t know what you don’t know, and things can happen on the road that a
 
 If you’re heading out of the country for two weeks, you’ll want to bring $2k to $5k with you. Call it $1k per person up to about 3,000 miles.
 
-</div></section>
+
 
 <div class="wp-block-stackable-heading stk-block-heading stk-block stk-ccee0e8" id="thats-a-wrap" data-block-id="ccee0e8"><style>.stk-ccee0e8 .stk-block-heading__bottom-line{height:5px !important;width:141px !important;background-color:#e22727 !important;margin-left:auto !important;margin-right:auto !important}</style>
 
 ## That's A Wrap!
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 Emergency cash, cleaning prior the trip, pet management plans, cutting edge security installation, prepping the fridge, and unplugging appliances represent six key steps to take before your upcoming family vacation. Hopefully this info helps you have a better trip!
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-908506a1"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="6-important-steps-before-family-vacation"><a href="/images/Before-You-Go-Guide-to-Family-Travel.jpg"><img src="/images/Before-You-Go-Guide-to-Family-Travel-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

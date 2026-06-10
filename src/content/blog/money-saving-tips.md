@@ -12,7 +12,6 @@ wpSlug: "money-saving-tips"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Sense of adventure? Check.
 
 Temporary freedom from work? Check.

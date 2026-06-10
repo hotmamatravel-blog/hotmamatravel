@@ -25,7 +25,7 @@ As a couple, we’ve been visiting Idyllwild since 2003, and it quickly became o
 
 ## Fireside Inn Cabins &amp; Rooms
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 ### **Sequoia Cabin**
 
@@ -173,11 +173,11 @@ While you’re here, don’t miss out on all the fun Idyllwild has to offer. Che
 
 If Fireside Inn isn’t quite the right fit, we’ve rounded up **[more awesome cabin rentals in Idyllwild](/best-idyllwild-cabin-rentals/)** to make sure your family getaway is perfect. For more California adventures and family travel inspiration, explore our **[California family travel guide](/california-family-travel/)** and start planning your next unforgettable trip!
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="Cozy cabins, roaring fireplaces, and family-friendly fun await at Fireside Inn in Idyllwild! 🌲✨ Perfect for mountain getaways with kids, full kitchens, private patios, and plenty of space to make memories. Discover why this charming retreat is a family favorite! 🏡❤️
 
 #IdyllwildCabins #FamilyTravelCalifornia #KidFriendlyGetaways #MountainRetreat #FiresideInnIdyllwild #FamilyVacationIdeas #CaliforniaTravel #CozyCabins #TravelWithKids #IdyllwildAdventures"><a href="/images/Fireside-Inn-Idyllwild-Family-Review.jpg"><img src="/images/Fireside-Inn-Idyllwild-Family-Review-200x300.jpg" alt="Fireside Inn Idyllwild Review" /></a></figure>
-</div></div>
+

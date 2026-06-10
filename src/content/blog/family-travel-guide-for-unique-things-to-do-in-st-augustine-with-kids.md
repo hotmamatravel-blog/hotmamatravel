@@ -16,7 +16,7 @@ Welcome to the charming and historic city of St. Augustine, Florida, where fun a
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-aea151dc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="hop-on-hop-off-trolley-tour-family-activities-st-augustine-fl"><a href="/images/hop-on-hop-off-trolley-tour-family-activities-st-augustine-fl.jpg"><img src="/images/hop-on-hop-off-trolley-tour-family-activities-st-augustine-fl-1024x576.jpg" alt="" /></a></figure>
 
 #### [St. Augustine Hop-On Hop-Off Trolley Tour](/go/hop-on-hop-off-trolley-tour-st-augustine-fl/)
@@ -29,9 +29,9 @@ And with unlimited hop-on hop-off access, families can customize their itinerary
 
 [See photos, reviews &amp; more](/go/hop-on-hop-off-trolley-tour-st-augustine-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-42ba19a3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [St. Augustine Ghost Tour: A Ghostly Encounter](/go/ghost-tour-st-augustine-fl/)
 
@@ -41,9 +41,9 @@ If your family loves a good spooky adventure (like my family), then a St. August
 
 [See photos, reviews &amp; more](/go/ghost-tour-st-augustine-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a1466de0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="airboat-ride-family-activities-st-augustine-fl"><a href="/images/airboat-ride-family-activities-st-augustine-fl.jpg"><img src="/images/airboat-ride-family-activities-st-augustine-fl-1024x576.jpg" alt="" /></a></figure>
 
 #### [Airboat Adventure in Saint Augustine with a Guide](/go/airboat-tour-st-augustine-fl/)
@@ -54,9 +54,9 @@ Looking for a fun family activity that will get you up close and personal with t
 
 [See photos, reviews &amp; more](/go/airboat-tour-st-augustine-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d75e7307"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="historic-walking-tour-family-activities-st-augustine-fl"><a href="/images/historic-walking-tour-family-activities-st-augustine-fl.jpg"><img src="/images/historic-walking-tour-family-activities-st-augustine-fl-1024x576.jpg" alt="" /></a></figure>
 
 #### [Walking History Tour of St. Augustine's Historic District](/go/historic-walking-tour-st-augustine-fl/)
@@ -67,9 +67,9 @@ If you're looking for a fun and educational activity for the whole family, a wal
 
 [See photos, reviews &amp; more](/go/historic-walking-tour-st-augustine-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-314c67b7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Take a Scenic Boat Ride in St. Augustine](/go/scenic-boat-tour-st-augustine-fl/)
 
@@ -79,9 +79,9 @@ Looking for a fun family activity that offers breathtaking views of St. Augustin
 
 [See photos, reviews &amp; more](/go/scenic-boat-tour-st-augustine-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-92cf2815"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="lighthouse-maritime-museum-family-activities-st-augustine-fl"><a href="/images/lighthouse-maritime-museum-family-activities-st-augustine-fl.jpg"><img src="/images/lighthouse-maritime-museum-family-activities-st-augustine-fl-1024x576.jpg" alt="" /></a></figure>
 
 #### [St. Augustine Lighthouse &amp; Maritime Museum, Inc.](/go/lighthouse-maritime-museum-st-augustine-fl/)
@@ -92,9 +92,9 @@ Looking for a family-friendly activity that's both fun and educational? Look no 
 
 [See photos, reviews &amp; more](/go/lighthouse-maritime-museum-st-augustine-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6d5ddbd5"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="castillo-de-san-marcos-family-activities-st-augustine-fl"><a href="/images/castillo-de-san-marcos-family-activities-st-augustine-fl.jpg"><img src="/images/castillo-de-san-marcos-family-activities-st-augustine-fl-1024x576.jpg" alt="" /></a></figure>
 
 #### [Castillo de San Marcos National Monument](/go/castillo-de-san-marcos-st-augustine-fl/)
@@ -105,9 +105,9 @@ Castillo de San Marcos National Monument, dating back to 1672, is an iconic land
 
 [See photos, reviews &amp; more](/go/castillo-de-san-marcos-st-augustine-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-af60085d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [St. Augustine Wild Reserve](/go/wild-animal-reserve-st-augustine-fl/)
 
@@ -117,9 +117,9 @@ This incredible wildlife sanctuary is home to a variety of exotic animals, from 
 
 [See photos, reviews &amp; more](/go/wild-animal-reserve-st-augustine-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d018d914"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="st-augustine-beach-family-activities-st-augustine-fl"><a href="/images/st-augustine-beach-family-activities-st-augustine-fl.jpg"><img src="/images/st-augustine-beach-family-activities-st-augustine-fl-1024x576.jpg" alt="" /></a></figure>
 
 #### [St. Augustine Beach](/go/st-augustine-beach-st-augustine-fl/)
@@ -128,9 +128,9 @@ Augustine Beach offers something for everyone, whether you're looking to soak up
 
 [See photos, reviews &amp; more](/go/st-augustine-beach-st-augustine-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f4577e17"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="alligator-farm--family-activities-st-augustine-fl"><a href="/images/alligator-farm-family-activities-st-augustine-fl.jpg"><img src="/images/alligator-farm-family-activities-st-augustine-fl-1024x576.jpg" alt="" /></a></figure>
 
 #### [St. Augustine Alligator Farm Zoological Park](/go/alligator-farm-zoological-park-st-augustine-fl/)
@@ -141,9 +141,9 @@ St. Augustine Alligator Farm and Zoological Park has been entertaining and educa
 
 [See photos, reviews &amp; more](/go/alligator-farm-zoological-park-st-augustine-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3ec34e36"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Old Jail Museum](/go/old-jail-museum-st-augustine-fl/)
 
@@ -153,9 +153,9 @@ This historic jailhouse has been restored to its 19th-century glory, complete wi
 
 [See photos, reviews &amp; more](/go/old-jail-museum-st-augustine-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f7d4221d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="pirate-treasure-museum-family-activities-st-augustine-fl"><a href="/images/pirate-treasure-museum-family-activities-st-augustine-fl.jpg"><img src="/images/pirate-treasure-museum-family-activities-st-augustine-fl-1024x576.jpg" alt="" /></a></figure>
 
 #### [St. Augustine Pirate &amp; Treasure Museum](/go/pirate-treasure-museum-st-augustine-fl/)
@@ -172,9 +172,9 @@ And let's not forget about the treasure! The museum has a real treasure chest fi
 
 [See photos, reviews &amp; more](/go/pirate-treasure-museum-st-augustine-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-25b2adbb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="mission-nombre-de-dios-family-activities-st-augustine-fl"><a href="/images/mission-nombre-de-dios-family-activities-st-augustine-fl.jpg"><img src="/images/mission-nombre-de-dios-family-activities-st-augustine-fl-1024x576.jpg" alt="" /></a></figure>
 
 #### [National Shrine of Our Lady of La Leche at Mission Nombre de Dios](/go/mission-nombre-de-dios-st-augustine-fl/)
@@ -191,9 +191,9 @@ And let's not forget about the spiritual aspect of the National Shrine. The Shri
 
 [See photos, reviews &amp; more](/go/mission-nombre-de-dios-st-augustine-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0a4ef727"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Guided Tour for Dolphin &amp; Sea Turtle Observation in Saint Augustine, Florida](/go/guided-dolphin-turtle-observation-st-augustine-fl/)
 
@@ -209,9 +209,9 @@ And let's not forget about the fun factor! Your little ones will be thrilled to 
 
 [See photos, reviews &amp; more](/go/guided-dolphin-turtle-observation-st-augustine-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9d495e7b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="st-george-street-family-activities-st-augustine-fl"><a href="/images/st-george-street-family-activities-st-augustine-fl.jpg"><img src="/images/st-george-street-family-activities-st-augustine-fl-1024x576.jpg" alt="" /></a></figure>
 
 #### [St. George Street](/go/st-george-street-st-augustine-fl/)
@@ -228,9 +228,9 @@ But perhaps the best part about St. George Street is the atmosphere. The street 
 
 [See photos, reviews &amp; more](/go/st-george-street-st-augustine-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-576ad0d6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Annual Spanish Food &amp; Wine Festival
 
@@ -242,21 +242,21 @@ If this is your jam, make sure to check St. Augustine's calendar of events for m
 
 See photos, reviews &amp; more
 
-</div></section>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 St. Augustine is a fantastic destination for families with so many cool and unique thing to with kids. With its rich history, charming atmosphere, and endless opportunities for fun and adventure, it's a place that is sure to capture the hearts and imaginations of visitors of all ages. Whether you're exploring the cobblestone streets of the historic district, learning about marine life on a guided tour, or reflecting on the blessings of family at the National Shrine of Our Lady of La Leche, there's always something new and exciting to discover in St. Augustine. So why not pack up the family and head on down to the oldest city in America? You won't regret it!
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bb27e23d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="things-to-do-in-st-augustine-with-kids"><a href="/images/things-to-do-in-st-augustine-with-kids.jpg"><img src="/images/things-to-do-in-st-augustine-with-kids-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

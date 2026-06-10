@@ -18,7 +18,7 @@ In this post, I'm going to tell you all the cool and exciting things to do in Ke
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f6f125a7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="ernest-hemingway-house-key-west-family-vacation"><a href="/images/ernest-hemingway-house-key-west-family-vacation.jpg"><img src="/images/ernest-hemingway-house-key-west-family-vacation-1024x576.jpg" alt="" /></a></figure>
 
 #### [Explore the Ernest Hemingway Home and Museum](/go/ernest-hemingway-house-museum-key-west-fl/)
@@ -29,9 +29,9 @@ The Ernest Hemingway House and Museum is a must-visit destination for a Key West
 
 [See photos, reviews &amp; more](/go/ernest-hemingway-house-museum-key-west-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e995f710"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Key West Butterfly and Nature Conservatory](/go/butterfly-nature-conservatory-key-west-fl/)
 
@@ -41,9 +41,9 @@ The Key West Butterfly and Nature Conservatory is a magical place that kids of a
 
 [See photos, reviews &amp; more](/go/butterfly-nature-conservatory-key-west-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b4d6db7e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="dry-tortugas-national-park-key-west-family-vacation"><a href="/images/dry-tortugas-national-park-key-west-family-vacation.jpg"><img src="/images/dry-tortugas-national-park-key-west-family-vacation-1024x576.jpg" alt="" /></a></figure>
 
 #### [Dry Tortugas National Park](/go/dry-tortugas-national-park-key-west-fl/)
@@ -52,9 +52,9 @@ If you're looking for a unique and adventurous family day trip from Key West, th
 
 [See photos, reviews &amp; more](/go/dry-tortugas-national-park-key-west-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-cda9e9e4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="harry-s-truman-little-white-house-key-west-family-vacation"><a href="/images/harry-s-truman-little-white-house-key-west-family-vacation.jpg"><img src="/images/harry-s-truman-little-white-house-key-west-family-vacation-1024x576.jpg" alt="" /></a></figure>
 
 #### [Harry S. Truman Little White House](/go/harry-s-truman-little-white-house-key-west-fl/)
@@ -65,9 +65,9 @@ For families interested in history, the Harry S. Truman Little White House is a 
 
 [See photos, reviews &amp; more](/go/harry-s-truman-little-white-house-key-west-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c6d40af3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Mallory Square](/go/mallory-square-key-west-fl/)
 
@@ -77,9 +77,9 @@ Mallory Square is a popular destination in Key West that families will love! Thi
 
 [See photos, reviews &amp; more](/go/mallory-square-key-west-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4f0cea34"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="duval-street-key-west-family-vacation"><a href="/images/duval-street-key-west-family-vacation.jpg"><img src="/images/duval-street-key-west-family-vacation-1024x576.jpg" alt="" /></a></figure>
 
 #### [Duval Street](/go/duval-street-key-west-fl/)
@@ -94,9 +94,9 @@ Duval Street is also home to many historic landmarks, including the Ernest Hemin
 
 [See photos, reviews &amp; more](/go/duval-street-key-west-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0ad6cb67"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="fort-zachary-taylor-historic-state-park-key-west-family-vacation"><a href="/images/fort-zachary-taylor-historic-state-park-key-west-family-vacation.jpg"><img src="/images/fort-zachary-taylor-historic-state-park-key-west-family-vacation-1024x576.jpg" alt="" /></a></figure>
 
 #### [Fort Zachary Taylor Historic State Park](/go/fort-zachary-taylor-historic-state-park-key-west-fl/)
@@ -117,9 +117,9 @@ The park hosts several events throughout the year, including historical reenactm
 
 [See photos, reviews &amp; more](/go/fort-zachary-taylor-historic-state-park-key-west-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-42a8fec0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [U.S. Coast Guard Cutter Ingham Maritime Museum](/go/us-coast-guard-cutter-ingham-maritime-museum-key-west-fl/)
 
@@ -137,9 +137,9 @@ Finally, the USCGC Ingham is a unique and impressive vessel that is rich in hist
 
 [See photos, reviews &amp; more](/go/us-coast-guard-cutter-ingham-maritime-museum-key-west-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d22fd1a3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="overseas-highway-key-west-family-vacation"><a href="/images/overseas-highway-key-west-family-vacation.jpg"><img src="/images/overseas-highway-key-west-family-vacation-1024x576.jpg" alt="" /></a></figure>
 
 #### [The Overseas Highway](/go/oversease-highway-key-west-fl/)
@@ -158,9 +158,9 @@ The Overseas Highway is also known for its delicious seafood restaurants, many o
 
 [See photos, reviews &amp; more](/go/oversease-highway-key-west-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0482bcb7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="southern-most-point-key-west-family-vacation"><a href="/images/southern-most-point-key-west-family-vacation.jpg"><img src="/images/southern-most-point-key-west-family-vacation-1024x576.jpg" alt="" /></a></figure>
 
 #### [Southernmost Point](/go/southernmost-point-key-west-fl/)
@@ -177,9 +177,9 @@ Families can also enjoy the scenic views of the ocean and the surrounding area w
 
 [See photos, reviews &amp; more](/go/southernmost-point-key-west-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5cb1cb96"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Key West Dolphin Watch and Snorkel Cruise](/go/snorkel-dolphin-cruise-key-west-fl/)
 
@@ -197,9 +197,9 @@ Finally, the Key West Dolphin Watch and Snorkel Cruise is operated by experience
 
 [See photos, reviews &amp; more](/go/snorkel-dolphin-cruise-key-west-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-adb703f7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="lighthouse-keepers-museum-key-west-family-vacation"><a href="/images/lighthouse-keepers-museum-key-west-family-vacation.jpg"><img src="/images/lighthouse-keepers-museum-key-west-family-vacation-1024x576.jpg" alt="" /></a></figure>
 
 #### [Key West Lighthouse and Keeper's Quarters Museum](/go/key-west-lighthouse-museum-key-west-fl/)
@@ -216,9 +216,9 @@ In addition to the lighthouse, the museum also includes the Keeper's Quarters, w
 
 [See photos, reviews &amp; more](/go/key-west-lighthouse-museum-key-west-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-11504ed8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Key West Aquarium](/go/key-west-aquarium-key-west-fl/)
 
@@ -234,9 +234,9 @@ Another reason why the Key West Aquarium is a great thing to do in Key West with
 
 [See photos, reviews &amp; more](/go/key-west-aquarium-key-west-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b97dbbd7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Key West Ghosts and Gravestones Trolley Tour](/go/ghost-gravestone-trolley-tour-key-west-fl/)
 
@@ -254,13 +254,13 @@ To explore haunted places in Key West as well as across America in some of [best
 
 [See photos, reviews &amp; more](/go/ghost-gravestone-trolley-tour-key-west-fl/)
 
-</div></section>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 All in all, Key West is a fantastic destination for your next family vacation. With its warm weather, beautiful beaches, unique attractions, and friendly locals, it's no wonder that this little island has become such a popular spot for tourists. Whether you're looking to relax on the beach or explore the island's many sights and sounds, there's something for everyone in Key West.
 
@@ -270,9 +270,9 @@ If you need to find a place to stay during your Key West family vacation, check 
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-56140d1b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="family-travel-guide-things-to-do-in-key-west-with-kids"><a href="/images/family-travel-guide-things-to-do-in-key-west-with-kids.jpg"><img src="/images/family-travel-guide-things-to-do-in-key-west-with-kids-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

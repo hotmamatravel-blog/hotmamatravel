@@ -21,16 +21,13 @@ From the whispers of the wind through abandoned buildings to the echoes of bygon
 
 ## Ghost Towns Around Las Vegas
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="calico-ghost-towns-around-las-vegas"><figure><a href="/images/calico-ghost-towns-around-las-vegas.jpg"><img src="/images/calico-ghost-towns-around-las-vegas.jpg" alt="Calico Ghost Towns Around Las Vegas" /></a></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
 ### [Calico Ghost Town](/go/calico-ghost-town-california/)
 
 36600 Ghost Town Road, Yermo, CA
-</div>
 
 Alright, gather 'round, y'all, because I've got a tale to tell about Calico Ghost Town, the coolest ghost town around Las Vegas that's perfect for families! From its heyday as a [bustling silver mining town](https://parks.sbcounty.gov/park/calico-ghost-town-regional-park/) to its eventual decline and resurrection as a tourist attraction, Calico's got a rich and colorful past that'll captivate visitors of all ages.
 
@@ -54,12 +51,9 @@ So, if you're looking for a family-friendly outing that's equal parts educationa
 
 <div class="wp-block-uagb-image uagb-block-8cbd8981 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="goodsprings-ghost-towns-around-las-vegas"><figure><a href="/images/goodsprings-ghost-towns-around-las-vegas.jpg"><img src="/images/goodsprings-ghost-towns-around-las-vegas.jpg" alt="Goodsprings Ghost Town near Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-c95c3cf0">
-
 ### [Goodsprings Ghost Town](/go/goodsprings-ghost-town-nv/)
 
 310 NV- 161, Goodsprings, NV
-</div>
 
 Goodsprings Ghost Town, located only 45 minutes from Las Vegas, is a 120 year old Clark Count mining town that's just waiting to be explored! But what exactly can you do there? Well, hold onto your hats, because there's plenty!
 
@@ -79,12 +73,9 @@ Today, about 200 residents call Goodsprings home, carrying on the legacy of this
 
 <div class="wp-block-uagb-image uagb-block-9511933e wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="nelson-ghost-towns-around-las-vegas"><figure><a href="/images/nelson-ghost-towns-around-las-vegas.jpg"><img src="/images/nelson-ghost-towns-around-las-vegas.jpg" alt="Nelson Ghost Town near Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-d7bedd76">
-
 ### [Nelson Ghost Town](/go/nelson-ghost-town-nv/)
 
 Nelson Cutoff Rd, Searchlight, NV 89046
-</div>
 
 Located just 45 minutes outside of Las Vegas is the quaint historic township of [Nelson, NV](https://www.nevadamining.org/nevada-ghost-towns-nelson/). Here, take in the history and beauty of Eldorado Canyon or explore the Techatticup Mine, which also happens to be the  oldest, richest, and most famous gold mine in Southern Nevada.
 
@@ -96,12 +87,9 @@ Today, visitors can enjoy tours of the Eldorado Canyon and Techatticup Mine for 
 
 <div class="wp-block-uagb-image uagb-block-25563fbf wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="pioche-ghost-towns-around-las-vegas"><figure><a href="/images/pioche-ghost-towns-around-las-vegas.jpg"><img src="/images/pioche-ghost-towns-around-las-vegas.jpg" alt="Pioche Ghost Town near Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-215af2fb">
-
 ### [Pioche Ghost Town](/go/pioche-ghost-town-nv/)
 
 Pioche, NV 89043
-</div>
 
 Pioche, affectionately dubbed "Nevada’s Liveliest Ghost Town," beckons visitors with its rich history, colorful past, and intriguing attractions that make it a must-visit destination for families seeking adventure and exploration near Las Vegas.
 
@@ -117,12 +105,9 @@ While you are in town you might want to stop and grab a bit with the family at [
 
 <div class="wp-block-uagb-image uagb-block-5a57656b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="rhyolite-ghost-towns-around-las-vegas"><figure><a href="/images/rhyolite-ghost-towns-around-las-vegas.jpg"><img src="/images/rhyolite-ghost-towns-around-las-vegas.jpg" alt="Rhyolite Ghost Town near Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-5df4ce9d">
-
 ### [Rhyolite Ghost Town](/go/rhyolite-ghost-town-nv/)
 
 Rhyolite, NV 89003
-</div>
 
 About 2 hours outside of Las Vegas, in [**Death Valley**](/kid-friendly-day-trips-las-vegas/), is Rhyolite Ghost Town. Once a bustling mining town, Rhyolite rose from the desert sands in the early 20th century, fueled by the promise of gold and the dreams of fortune-seekers. Today, it's a captivating destination for history enthusiasts and adventure-seekers alike, offering a glimpse into a bygone era.
 
@@ -142,12 +127,9 @@ Rhyolite is truly a ghost town, therefore there are no restaurants or attraction
 
 <div class="wp-block-uagb-image uagb-block-1d675a47 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="oatman-ghost-towns-around-las-vegas"><figure><a href="/images/oatman-ghost-towns-around-las-vegas.jpg"><img src="/images/oatman-ghost-towns-around-las-vegas.jpg" alt="Oatman Ghost Town near Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-3e50b87f">
-
 ### [Oatman Ghost Town](/go/oatman-arizona/)
 
 Oatman, Arizona 86433
-</div>
 
 For an easy [**road trip from Las Vegas**](/3-day-road-trips-from-las-vegas/) is the Wild West town of [Oatman, Arizona](https://www.visitarizona.com/places/cities/oatman/), where the spirit of the Old West is alive and kicking. Tucked away in the rugged desert landscape of the Black Mountains, Oatman beckons visitors with its colorful history, quirky charm, and resident burros that roam the streets with a swagger all their own.
 
@@ -173,9 +155,9 @@ To help plan a truly memorable trip with your family, check out our [**Las Vegas
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](http://11. https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="best-ghost-towns-around-las-vegas-for-families"><a href="/images/best-ghost-towns-around-las-vegas-for-families.jpg"><img src="/images/best-ghost-towns-around-las-vegas-for-families-200x300.jpg" alt="Best Ghost Towns Around Las Vegas for Families" /></a></figure>
-</div></div>
+

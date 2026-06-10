@@ -20,9 +20,9 @@ Compared to other countries, there might be a few extra steps you need to take. 
 
 ## What To Do Before A U.S Vacation: 3 Top Picks
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0da8185f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 #### Be Prepared For Security
 
@@ -30,9 +30,9 @@ At some point or another, you’ll have to actually get to the U.S. for your vac
 
 That’ll be the case before you take off and when you get there. You’ll even have to go through it all again on the way home. The U.S. is stricter than most other countries with this, so you’ll need to be extra prepared for it.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0da8185f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Do Your Research
 
@@ -40,9 +40,9 @@ You’ll already know you have to do a bit of research before a U.S. vacation, b
 
 Know what you can do while you’re there, how much things cost, how you can get around, and other factors. It’ll make the vacation more of a breeze once you’re there.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0da8185f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Know The Prices
 
@@ -50,15 +50,15 @@ It’s natural to want to buy a few mementos when you’re vacationing in the U.
 
 That’s because of [sales tax](https://www.investopedia.com/terms/s/salestax.asp), which is only added as you’re buying the product. It wouldn’t be included on the tag price. When you’re looking around, add between 6% and 10% to the price, depending on where in the U.S. you are.
 
-</div></section>
+
 
 A U.S vacation is appealing for countless reasons. It’s an almost legendary destination thanks to all the movies and TV shows set there. Compared to other countries, though, it’s one of the more difficult to go to.
 
 You wouldn’t just have to deal with a longer flight, but also a few other steps as you’re going there. Be prepared for them so you don’t need to deal with any last-minute stress.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-118b10e3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="tips-for-planning-a-US-vacation"><a href="/images/tips-for-planning-a-US-vacation.jpg"><img src="/images/tips-for-planning-a-US-vacation-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

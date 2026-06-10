@@ -14,7 +14,7 @@ author: "Amanda Keeley-Thurman"
 
 Nowhere does "camp life" like New England! Located in the northeastern region of the United States, New England includes the states&nbsp;of Maine, Vermont, New Hampshire, Massachusetts, Connecticut and Rhode Island. With lush woodlands and deep blue coastlines, New England is home to some of the best camps in the country.&nbsp;If you love camping (and don’t love the work) then check out my list of the five best sites for glamping New England. Hope you are ready to have a great time!
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bfdd8ba2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="sandy-pines-tent-glamping-new-england"><a href="/images/sandy-pines-tent-glamping-new-england.jpg"><img src="/images/sandy-pines-tent-glamping-new-england.jpg" alt="" /></a></figure>
 
 #### [Sandy Pines Campground](/go/sandy-pines-campground-glamping-new-england/)
@@ -29,9 +29,9 @@ Onsite, the Grand Lodge is where you go for information or to get supplies at th
 
 [See photos, reviews &amp; more](/go/sandy-pines-campground-glamping-new-england/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7557f584"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="huttopia-white-mountains-tent-glamping-new-england"><a href="/images/huttopia-white-mountains-tent-glamping-new-england.jpg"><img src="/images/huttopia-white-mountains-tent-glamping-new-england.jpg" alt="" /></a></figure>
 
 #### [Huttopia White Mountains](/go/huttopia-white-mountains-glamping-new-england/)
@@ -46,9 +46,9 @@ At Huttopia you have access to Iona Lake from the camp’s private beach. Rental
 
 [See photos, reviews &amp; more](/go/huttopia-white-mountains-glamping-new-england/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-38745650"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="under-canvas-acadia-tent-glamping-new-england"><a href="/images/under-canvas-acadia-tent-glamping-new-england.jpg"><img src="/images/under-canvas-acadia-tent-glamping-new-england.jpg" alt="" /></a></figure>
 
 #### [Under Canvas Acadia](/go/under-canvas-acadia-glamping-new-england/)
@@ -63,9 +63,9 @@ At camp you can enjoy a variety of camp activities, like acoustic music, yoga, g
 
 [See photos, reviews &amp; more](/go/under-canvas-acadia-glamping-new-england/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2f47986f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="autocamp-cape-code-airstream-glamping-new-england"><a href="/images/autocamp-cape-code-airstream-glamping-new-england.jpg"><img src="/images/autocamp-cape-code-airstream-glamping-new-england.jpg" alt="" /></a></figure>
 
 #### [Autocamp Cape Cod](/go/autocamp-cape-cod-glamping-new-england/)
@@ -80,9 +80,9 @@ Onsite, you can pick up supplies at the general store where they have ready-gril
 
 [See photos, reviews &amp; more](/go/autocamp-cape-cod-glamping-new-england/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-264ad2f9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="maine-forest-yurts-double-bunkbeds-glamping-new-england"><a href="/images/maine-forest-yurts-double-bunkbeds-glamping-new-england.jpg"><img src="/images/maine-forest-yurts-double-bunkbeds-glamping-new-england.jpg" alt="" /></a></figure>
 
 #### [Maine Forest Yurts](/go/maine-forest-yurts-glamping-new-england/)
@@ -97,13 +97,9 @@ Located on Runaround Pond with two shallow ponds perfect for enjoying a nice kay
 
 [See photos, reviews &amp; more](/go/maine-forest-yurts-glamping-new-england/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-e4137ab3">
 
 ## That's a Wrap!
-
-<div class="uagb-separator"></div></div>
 
 Well there you have it, my picks for the best sites for glamping in New England. As if New England didn’t have enough going on to entice any natural lover, there is even more to love!&nbsp;
 
@@ -139,9 +135,9 @@ If you love glamping and want more places to sleep in luxury while enjoying the 
 
 - [Glamping California](/best-california-glamping-sites/)
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c6485c10"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="5-best-tent-yurt-airstream-glamping-new-england"><a href="/images/5-best-tent-yurt-airstream-glamping-new-england.jpg"><img src="/images/5-best-tent-yurt-airstream-glamping-new-england-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

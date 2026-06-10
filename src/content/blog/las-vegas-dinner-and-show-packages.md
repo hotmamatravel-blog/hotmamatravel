@@ -20,7 +20,7 @@ So whether you're looking for a [**thrilling adventure**](/kid-friendly-day-trip
 
 ## Las Vegas Dinner and Show Packages
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure id="marriage-can-be-murder-las-vegas-dinner-show-packages"><a href="/images/marriage-can-be-murder-las-vegas-dinner-show-packages.jpg"><img src="/images/marriage-can-be-murder-las-vegas-dinner-show-packages.jpg" alt="Marriage Can Be Murder Las Vegas Dinner and Show Packages" /></a><figcaption class="wp-element-caption">Courtesy of Vegas.com</figcaption></figure>
 
@@ -161,7 +161,7 @@ The atmosphere at the All Motown Dinner and Show Package is electric, with audie
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Las Vegas dinner and show package is a perfect way to enjoy the city's vibrant nightlife with your family. From exciting [**dining experiences**](/best-family-restaurants-in-las-vegas/) to spectacular performances, there's something for everyone to enjoy. With so many options available, it's easy to find the perfect package to suit your needs and budget. So book your next Las Vegas trip today and experience the magic of this vibrant city for yourself!
 
@@ -169,9 +169,9 @@ See more [**Las Vegas Travel Guides**](/family-friendly-vegas/) and greater [**N
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9c899d5d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="best-las-vegas-dinner-and-show-packages"><a href="/images/best-las-vegas-dinner-and-show-packages.jpg"><img src="/images/best-las-vegas-dinner-and-show-packages-200x300.jpg" alt="Best Dinner and Show Packages in Las Vegas" /></a></figure>
-</div></section>
+

@@ -25,15 +25,11 @@ Now, let's dive into the easiest ways to get to Las Vegas with your family. Whet
 
 ## How To Get To Las Vegas By Plane
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Depending on where you are coming from, the fastest and most convenient way of getting to Las Vegas is by flying. [Harry Reid International Airport](https://www.harryreidairport.com/) (formerly known as McCarran International Airport) is just a stone's throw from the Strip, making it super easy to dive right into the action.
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
-
 ### **Booking Your Flight:**
-
-</div>
 
 **Airlines:**
 
@@ -43,11 +39,7 @@ Most major airlines, including [Southwest](https://www.southwest.com/), [Delta](
 
 Aim for midweek flights to score the best prices. Tuesday and Wednesday departures are usually cheaper and less crowded.
 
-<div class="wp-block-uagb-advanced-heading uagb-block-6d95ba4f">
-
 ### How To Get From Las Vegas Airport To Strip:
-
-</div>
 
 **Terminals**:
 
@@ -87,15 +79,11 @@ Shuttle pickups for Terminal 1 are located outside the baggage claim on the Grou
 
 ## How To Get To Las Vegas By Car
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 For those who love the freedom of the open road, driving to Las Vegas is an adventure in itself. Here's what you need to know to hit the road.
 
-<div class="wp-block-uagb-advanced-heading uagb-block-b542ffa8">
-
 ### Driving Directions From Los Angeles To Las Vegas
-
-</div>
 
 **Route:**
 
@@ -111,11 +99,7 @@ Begin your journey in Los Angeles by getting on the US-101 S. Merge onto Interst
 
 **Primm** is right before crossing into Nevada, and offers casinos, shopping, and a roller coaster at Buffalo Bill's Resort &amp; Casino.
 
-<div class="wp-block-uagb-advanced-heading uagb-block-3cdb16bc">
-
 ### Driving Directions From Phoenix To Las Vegas:
-
-</div>
 
 **Route:**
 
@@ -131,11 +115,7 @@ Cross the state line into Nevada. Continue on I-11 N for approximately 15 miles.
 
 **Kingman** is another excellent spot for a break. [**Kingman offers amenities**](/route-66-kingman-classic-stops/) such as restaurants, gas stations, and the fascinating Route 66 Museum.
 
-<div class="wp-block-uagb-advanced-heading uagb-block-4349e360">
-
 ### Driving Directions From San Diego To Las Vegas:
-
-</div>
 
 **Route:**
 
@@ -147,11 +127,7 @@ Begin your journey in San Diego by heading north on Interstate 15 (I-15 N). Cont
 
 Just before reaching Las Vegas, stretch your legs at the Seven Magic Mountains art installation. These colorful, towering rock formations by artist Ugo Rondinone make for a fantastic photo opportunity and a brief cultural break.
 
-<div class="wp-block-uagb-advanced-heading uagb-block-480d5289">
-
 ### Driving Directions From Orange County To Las Vegas:
-
-</div>
 
 **Route:**
 
@@ -169,23 +145,15 @@ Make your drive more enjoyable with a stop at **Peggy Sue's 50s Diner** in Yermo
 
 ## Arriving in Las Vegas
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Once you arrive in Las Vegas, whether by plane or car, the excitement truly begins. Here's a quick rundown of what to do next.
 
-<div class="wp-block-uagb-advanced-heading uagb-block-0085fefa">
-
 ### Check Into Your Hotel
-
-</div>
 
 You've already booked your [**family-friendly Vegas hotel**](/best-family-hotels-in-las-vegas/) and are ready to check in! Most hotels offer online check-in, so you can skip the lines and head straight to your room. If you’re driving, valet and self-parking are available at most major hotels, often with a fee.
 
-<div class="wp-block-uagb-advanced-heading uagb-block-6f514f31">
-
 ### **Have Fun:**
-
-</div>
 
 Take a [**stroll down the Strip**](/walking-las-vegas-strip/) to get your bearings and soak in the vibrant atmosphere. There are a ton of [**free attractions**](/free-family-activities-las-vegas/) to enjoy with the family day and night along the Strip, as well as so many [**cool, affordable activities**](/affordable-family-activities-las-vegas/) in all the hotels.
 
@@ -201,9 +169,9 @@ Also, check out all our family-friendly [**Las Vegas travel guides**](/family-fr
 
 Safe travels and see you in Vegas!
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="how-to-get-to-las-vegas-for-families"><a href="/images/how-to-get-to-las-vegas-for-families-1.jpg"><img src="/images/how-to-get-to-las-vegas-for-families-1-200x300.jpg" alt="How to get to Las Vegas with kids" /></a></figure>
-</div></div>
+

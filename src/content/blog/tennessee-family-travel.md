@@ -11,14 +11,13 @@ wpSlug: "tennessee-family-travel"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Welcome to the Best of Tennessee family travel hub! Dive into the ultimate guide for planning your perfect family trip, featuring exciting hotels, rocking kid-friendly restaurants, family-friendly breweries, wineries, haunted spots, and more. Tennessee is waiting for your family's unforgettable adventure – let's make those memories together!
 
 <div class="wp-block-ugb-heading ugb-heading ugb-1fd8392 ugb-main-block"><style>.ugb-1fd8392 .ugb-heading__title{text-align:center}.ugb-1fd8392 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-1fd8392 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Nashville With Kids
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [10 Best Kid-Friendly Restaurants in Nashville with Live Music 2024!](/kid-friendly-restaurants-nashville/)
 
@@ -30,7 +29,7 @@ Welcome to the Best of Tennessee family travel hub! Dive into the ultimate guide
 
 ## Memphis With Kids
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [Family Guide to Memphis with kids – Where to eat, stay &amp; play](/one-day-in-memphis/)
 
@@ -40,7 +39,7 @@ Welcome to the Best of Tennessee family travel hub! Dive into the ultimate guide
 
 ## Things To Do In Tennessee With Kids
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [Family Guide to visiting Belle Meade Plantation in Nashville with kids](/belle-meade-plantation/)
 
@@ -50,7 +49,7 @@ Welcome to the Best of Tennessee family travel hub! Dive into the ultimate guide
 
 ## Best Family Hotels in Tennessee
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [Hotel Spotlight: Family review of Best Western Plus Belle Meade Inn &amp; Suites in Nashville](/staying-best-western-plus-belle-meade-inn-suites/)
 
@@ -58,7 +57,7 @@ Welcome to the Best of Tennessee family travel hub! Dive into the ultimate guide
 
 ## Best Family-Friendly Restaurants in California
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [10 Best Kid-Friendly Restaurants in Nashville with Live Music 2024!](/kid-friendly-restaurants-nashville/)
 

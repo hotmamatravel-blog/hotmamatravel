@@ -16,7 +16,7 @@ Consider Iceland when searching for the best place to visit as a family. This co
 
 Iceland has many exciting activities for both adults and kids, such as hiking, whale watching, waterfalls, and the famous Vikings, all of which can be fully experienced through various [tours in Iceland](https://guidetoiceland.is/book-trips-holiday). Here is a small list of some of the best things to do in Iceland as a family.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bafa022e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="blue-lagoon-iceland"><a href="/images/Blue-Lagoon-Iceland.jpg"><img src="/images/Blue-Lagoon-Iceland.jpg" alt="" /></a></figure>
 
 #### The Blue Lagoon
@@ -25,9 +25,9 @@ The Blue Lagoon is probably one of the most popular places in Iceland, and for a
 
 [See More Photos &amp; Reviews](/go/blue-lagoon-iceland/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-851facd8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="viking-saga-museum-iceland"><a href="/images/Viking-Icleand.jpg"><img src="/images/Viking-Icleand.jpg" alt="" /></a></figure>
 
 #### Learn about Vikings
@@ -36,9 +36,9 @@ Viking culture is one of the most exciting things to learn about in Iceland, esp
 
 [See photos, reviews &amp; more](/go/saga-museum-iceland/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c47d0b3c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="tour-iceland-waterfalls-kirkjufell"><a href="/images/tour-iceland-waterfalls-kirkjufell.jpg"><img src="/images/tour-iceland-waterfalls-kirkjufell.jpg" alt="" /></a></figure>
 
 #### Eye-catching waterfalls
@@ -47,9 +47,9 @@ There are countless waterfalls in Iceland. Waterfalls are a true natural wonder 
 
 [See photos, reviews &amp; more](/go/kirjufellsfoss-waterfall-iceland/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d6e4e3ec"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="puffins-iceland-wildlife"><a href="/images/Iceland-Puffins.jpg"><img src="/images/Iceland-Puffins.jpg" alt="" /></a></figure>
 
 #### Observe the wildlife
@@ -58,9 +58,9 @@ People, including children, are allowed on board the whale-watching wildlife tou
 
 [See photos, reviews &amp; more](/go/iceland-wildlife-whales-puffins-tour/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-fab6e562"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="black-beaches-iceland"><a href="/images/Black-beach-Iceland.jpg"><img src="/images/Black-beach-Iceland.jpg" alt="" /></a></figure>
 
 #### Explore the black beaches
@@ -69,9 +69,9 @@ We all love a trip or vacation to the beach. Well, have you ever been to a black
 
 [See photos, reviews &amp; more](/go/small-group-iceland-tour/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-82a280dd"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="family-hikes-iceland"><a href="/images/iceland-family-hiking.jpg"><img src="/images/iceland-family-hiking.jpg" alt="" /></a></figure>
 
 #### Family-friendly Hike
@@ -80,19 +80,15 @@ When exploring in search of beautiful waterfalls and nature reserves, you can ch
 
 [See Reviews, Photos &amp; More](/go/hiking-tours-iceland/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-2e63d6fd">
 
 ## That's A Wrap!
 
-<div class="uagb-separator"></div></div>
-
 Iceland is a land full of breathtaking landscapes and Viking history, that you will want to keep exploring. This list gives you that head start to have a great family Iceland adventure. Start your planning by finding the [best places to stay in Iceland](https://www.travellingking.com/where-to-stay-in-iceland/) and get going! Have you ever been to Iceland or is it on your bucket list?
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2aea6fdd"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="must-do-see-things-iceland-family-vacation"><a href="/images/iceland-family-vacation.jpg"><img src="/images/iceland-family-vacation-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

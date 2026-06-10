@@ -10,7 +10,6 @@ wpSlug: "terms-of-use"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 *Last updated: May, 31, 2025*
 
 Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the https://hotmamatravel.com website (the "Service") operated by HotMamaTravel ("us", "we", or "our").

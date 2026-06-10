@@ -23,11 +23,7 @@ So, don your favorite costume, grab your jack-o'-lantern, and join us as we emba
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Salem-massachusetts-best-halloween-towns"><figure><a href="/images/Salem-massachusetts-best-halloween-towns.jpg"><img src="/images/Salem-massachusetts-best-halloween-towns.jpg" alt="Salem, Massachusetts is one of the best towns to visit during Halloween" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
-
 ## [Salem, Massachusetts](/go/salem-massachusetts-travel/)
-
-</div>
 
 Salem, Massachusetts, often referred to as the epicenter of Halloween festivities, holds a special place in the hearts of Halloween enthusiasts. This historic town has a dark and infamous past, forever etched in American history books for its witch trials of 1692. It's this grim chapter that has cast a perpetual spell over Salem, making it an irresistible magnet for those seeking a bewitching Halloween experience.
 
@@ -41,11 +37,7 @@ One of the highlights of Salem's Halloween calendar is the month-long Haunted Ha
 
 <div class="wp-block-uagb-image uagb-block-c7045517 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Sleepy-Hollow-New-York-best-halloween-towns"><figure><a href="/images/Sleepy-Hollow-New-York-best-halloween-towns.jpg"><img src="/images/Sleepy-Hollow-New-York-best-halloween-towns.jpg" alt="Best Halloween Towns Sleepy Hollow, New York" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-82d97549">
-
 ## [Sleepy Hollow, New York](/go/sleepy-hollow-new-york-travel/)
-
-</div>
 
 In the quaint village of [Sleepy Hollow, New York](https://visitsleepyhollow.com/), Halloween takes on a whole new dimension, bringing to life the legendary tale of the Headless Horseman in the most spine-tingling ways imaginable. This picturesque village, immortalized by Washington Irving's iconic story "The Legend of Sleepy Hollow," transforms into an eerie and enchanting Halloween destination that captures the essence of the supernatural.
 
@@ -61,11 +53,7 @@ Looking for a place to stay? Check out our list of the best [**haunted hotels in
 
 <div class="wp-block-uagb-image uagb-block-22806d3f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="new-orleans-louisiana-best-halloween-towns"><figure><a href="/images/new-orleans-louisiana-best-halloween-towns.jpg"><img src="/images/new-orleans-louisiana-best-halloween-towns.jpg" alt="New Orleans is a must visit Halloween Town" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-895a0afe">
-
 ## [New Orleans, Louisiana](/go/new-orleans-louisiana-travel/)
-
-</div>
 
 New Orleans, with its mystical ambiance and rich cultural heritage, offers an enchanting experience during the Halloween season. The city's unique blend of history, spirituality, and vibrant traditions makes it an ideal destination for those seeking an unforgettable Halloween adventure.
 
@@ -87,11 +75,7 @@ Lastly, the city's culinary scene offers delightful treats and drinks with a spo
 
 <div class="wp-block-uagb-image uagb-block-b36cb18c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="savannah-georgia-best-halloween-towns"><figure><a href="/images/savannah-georgia-best-halloween-towns.jpg"><img src="/images/savannah-georgia-best-halloween-towns.jpg" alt="Savannah Georgia best town to visit during Halloween" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-565731fd">
-
 ## [Savannah, Georgia](/go/savannah-georgia-travel/)
-
-</div>
 
 When it comes to Halloween, some destinations stand out above the rest, offering an enchanting blend of history, mystery, and spirited celebrations. At the top of the list is [Savannah, Georgia](https://visitsavannah.com/), a city that effortlessly transforms itself into a captivating Halloween wonderland. With its cobblestone streets, historic mansions, and ancient oaks draped in Spanish moss, Savannah is a place where the spirit of Halloween comes alive like no other. In this essay, we'll explore why Savannah is a perfect destination for Halloween lovers, drawing you into its bewitching charm.
 
@@ -111,11 +95,7 @@ See our post for more [**fun things to do in Savannah**](/things-to-do-in-savann
 
 <div class="wp-block-uagb-image uagb-block-ecdc0fa9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Anoka-Minnesota-best-halloween-towns"><figure><a href="/images/Anoka-Minnesota-best-halloween-towns.jpg"><img src="/images/Anoka-Minnesota-best-halloween-towns.jpg" alt="Anoka Halloween town in the USA, Anoka Minnesota" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-4f6ac93c">
-
 ## [Anoka, Minnesota](/go/anoka-minnesota-travel/)
-
-</div>
 
 Nestled along the banks of the mighty Mississippi River, the picturesque town of Anoka, Minnesota, has earned its well-deserved title as the "Halloween Capital of the World." When autumn arrives, Anoka's streets come alive with an enchanting atmosphere that is nothing short of magical, making it a destination that beckons Halloween enthusiasts from far and wide.
 
@@ -133,11 +113,7 @@ But it's not just about the organized events; it's the entire town's transformat
 
 <div class="wp-block-uagb-image uagb-block-97221dc1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="transylvania-county-brevard-north-carolina-best-halloween-towns"><figure><a href="/images/transylvania-county-brevard-north-carolina-best-halloween-towns.jpg"><img src="/images/transylvania-county-brevard-north-carolina-best-halloween-towns.jpg" alt="Transylvania County, NC has one of the Best towns for Halloween" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-c7deb358">
-
 ## [Transylvania County, North Carolina](/go/transylvania-county-brevard-north-carolina-travel/)
-
-</div>
 
 In a place where legends and folklore converge with history and mystique, the area known as "Vampire Valley" embraces its enigmatic name with a fervor that is both captivating and thrilling. Nestled within this region, a unique subculture has blossomed, one that revolves around the enduring fascination with vampires, and during the Halloween season, this fascination takes center stage in the most spellbinding way.
 
@@ -155,11 +131,7 @@ Yet, it's the community spirit that truly sets Vampire Valley apart. The locals,
 
 <div class="wp-block-uagb-image uagb-block-cdbaad79 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="st-helens-oregon-best-halloween-towns"><figure><a href="/images/st-helens-oregon-best-halloween-towns.jpg"><img src="/images/st-helens-oregon-best-halloween-towns.jpg" alt="St Helens Oregon best Halloween town in the USA" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-a3798f6b">
-
 ## [St. Helens, Oregon](/go/saint-helens-oregon-travel/)
-
-</div>
 
 In the heart of the picturesque Pacific Northwest, nestled along the banks of the Columbia River, lies a town that has become synonymous with Halloween magic. St. Helens, Oregon, fondly known as "Halloweentown" after the iconic Disney movie of the same name, is a place where the enchantment of Halloween is not merely celebrated—it's lived, breathed, and cherished. Every October, this charming town transforms into a realm of wonder, drawing visitors into a world of pumpkin lighting, costume extravaganzas, and spine-tingling adventures.
 
@@ -173,11 +145,7 @@ Costume contests are another highlight of the "Halloweentown" celebration. Local
 
 <div class="wp-block-uagb-image uagb-block-a3a8a2ae wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="new-hope-pennsylvania-best-halloween-towns"><figure><a href="/images/new-hope-pennsylvania-best-halloween-towns.jpg"><img src="/images/new-hope-pennsylvania-best-halloween-towns.jpg" alt="best Halloween towns New Hope Pennsylvania" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-70baf5f5">
-
 ## [New Hope, Pennsylvania](/go/new-hope-pennsylvania-travel/)
-
-</div>
 
 New Hope, Pennsylvania, is a quaint and historic town that undergoes a magical transformation during the Halloween season. Nestled along the banks of the Delaware River, this charming destination becomes a hub for Halloween enthusiasts and those seeking an enchanting holiday experience.
 
@@ -195,11 +163,7 @@ Throughout the Halloween season, New Hope offers a variety of live entertainment
 
 <div class="wp-block-uagb-image uagb-block-c9557ef7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="key-west-florida-best-halloween-towns"><figure><a href="/images/key-west-florida-best-halloween-towns.jpg"><img src="/images/key-west-florida-best-halloween-towns.jpg" alt="Key West best halloween towns in America" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-a255b9d4">
-
 ## [Key West, Florida](/go/key-west-florida-travel/)
-
-</div>
 
 The enchanting island of Key West is a destination that exudes charm and intrigue year-round (see our full post on [**things to do in Key West**](/things-to-do-in-key-west-with-kids/)). However, when Halloween approaches, this tropical paradise takes on a unique and captivating twist. With its own share of spooky legends and a penchant for embracing the supernatural, Key West becomes a haven for Halloween enthusiasts and those in search of an unconventional holiday experience.
 
@@ -217,11 +181,7 @@ See our post for a full list of awesome [**family hotels in Key West**](/hotels-
 
 <div class="wp-block-uagb-image uagb-block-433ff67c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="provincetown-massachusetts-best-halloween-towns"><figure><a href="/images/provincetown-massachusetts-best-halloween-towns.jpg"><img src="/images/provincetown-massachusetts-best-halloween-towns.jpg" alt="Provincetown best Halloween Towns in the US" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-920bc54b">
-
 ## [Provincetown, Massachusetts](/go/provincetown-cape-cod-massachusetts-travel/)
-
-</div>
 
 This coastal town takes on a bewitching charm as Halloween approaches. It's a place where the salty sea breeze mingles with the scent of autumn leaves, and where the historic streets and waterfront create the perfect backdrop for an unforgettable Halloween celebration. With a lively Halloween parade, enchanting costume balls, and immersive haunted history tours, this coastal town offers a unique and spirited experience for Halloween enthusiasts and revelers.
 
@@ -235,11 +195,7 @@ Steeped in history, this coastal town boasts its share of haunted legends and ee
 
 <div class="wp-block-uagb-image uagb-block-817880d3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="charleston-south-carolina-best-halloween-towns"><figure><a href="/images/charleston-south-carolina-best-halloween-towns.jpg"><img src="/images/charleston-south-carolina-best-halloween-towns.jpg" alt="Best Halloween Towns Charleston SC" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-cca47af3">
-
 ## [Charleston, South Carolina](/go/charleston-south-carolina-travel/)
-
-</div>
 
 Charleston stands as a living testament to American history, where centuries of events have shaped its character. But beyond its well-preserved cobblestone streets and antebellum architecture lies a city with a darker, more mysterious side. Charleston's historic district, with its cobblestone streets and centuries-old buildings, provides a perfect backdrop for a collection of spine-tingling tales from the city's past. As Halloween approaches, this enchanting city transforms into a haven for those who seek the thrill of ghostly encounters and the allure of haunted history.
 
@@ -259,11 +215,7 @@ See our list of [**family-friendly hotels in Charleston**](/best-family-hotels-c
 
 <div class="wp-block-uagb-image uagb-block-1ead4bed wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="old-town-san-diego-california-best-halloween-towns"><figure><a href="/images/old-town-san-diego-california-best-halloween-towns.jpg"><img src="/images/old-town-san-diego-california-best-halloween-towns.jpg" alt="Old Town San Diego Best Halloween Towns in US" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-d7f70fdc">
-
 ## [Old Town San Diego, California](/go/old-town-san-diego-california-travel/)
-
-</div>
 
 Old Town San Diego, already steeped in history and rich cultural heritage, takes on a uniquely captivating atmosphere during Halloween, making it a fantastic destination for those looking to celebrate the holiday in a distinctive way.
 
@@ -291,11 +243,7 @@ Some of the town's historic buildings are rumored to be haunted, adding an extra
 
 <div class="wp-block-uagb-image uagb-block-177f7239 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="san-antonio-texas-best-halloween-towns"><figure><a href="/images/san-antonio-texas-best-halloween-towns.jpg"><img src="/images/san-antonio-texas-best-halloween-towns.jpg" alt="Best Halloween towns USA San Antonio TX" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-0a4dafb5">
-
 ## [San Antonio, Texas](/go/san-antonio-texas-travel/)
-
-</div>
 
 San Antonio, Texas, a city with a rich and storied history, takes on a spellbinding allure during the Halloween season. Its haunted past, which includes iconic landmarks like the Alamo and the historic [**Menger Hotel**](/go/menger-hotel-san-antonio-tx/), adds an intriguing layer to the city's Halloween festivities. See our list of [**things to do in San Antonio**](/things-san-antonio-kids/) for more information.
 
@@ -311,11 +259,7 @@ The city embraces Halloween with a range of festive activities and events. Costu
 
 <div class="wp-block-uagb-image uagb-block-658be994 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="celina-texas-best-halloween-towns"><figure><a href="/images/celina-texas-best-halloween-towns.jpg"><img src="/images/celina-texas-best-halloween-towns.jpg" alt="Celina Texas Halloween Capital Best Halloween Towns" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-ed61230c">
-
 ## [Celina, Texas](/go/celina-texas-travel/)
-
-</div>
 
 Celina, Texas, has earned the title of the "Halloween Capital of North Texas" due to several compelling reasons that set it apart as a premier destination for Halloween enthusiasts in the region.
 
@@ -333,11 +277,7 @@ The event often features live entertainment, including musical performances, dan
 
 <div class="wp-block-uagb-image uagb-block-63bab82c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="louisville-kentucky-best-halloween-towns"><figure><a href="/images/louisville-kentucky-best-halloween-towns.jpg"><img src="/images/louisville-kentucky-best-halloween-towns.jpg" alt="Louisville Kentucky Best Halloween Towns" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-fe51d6f6">
-
 ### [Louisville, Kentucky](/go/louisville-kentucky-travel/)
-
-</div>
 
 The city of Louisville, Kentucky, is a place where history and the supernatural intertwine in a spine-tingling embrace. While known for its vibrant culture and bourbon heritage, Louisville also boasts a darker side, making it a prime destination for those seeking the thrill of the paranormal during Halloween. One of the city's most notorious landmarks, Waverly Hills Sanatorium, is hailed as one of the most haunted places in the United States, setting the stage for a range of eerie and captivating experiences.
 
@@ -351,11 +291,7 @@ Leading up to Halloween, Louisville hosts a wide range of spooky events that cat
 
 <div class="wp-block-uagb-image uagb-block-91a27549 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="jerome-arizona-best-halloween-towns"><figure><a href="/images/jerome-arizona-best-halloween-towns.jpg"><img src="/images/jerome-arizona-best-halloween-towns.jpg" alt="Best Halloween Town in USA Jerome AZ" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-3927f2a0">
-
 ## [Jerome, Arizona](/go/jerome-arizona-travel/)
-
-</div>
 
 The historic town of Jerome stands as a living testament to the past, with a hauntingly rich history that adds a captivating dimension to its Halloween celebrations. Once a thriving mining town, Jerome has evolved into a hub for ghost stories, eerie legends, and spirited Halloween festivities.
 
@@ -371,11 +307,7 @@ Jerome, Arizona, is a town known for its unique and vibrant Halloween celebratio
 
 <div class="wp-block-uagb-image uagb-block-896b9fcc wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="cape-may-new-jersey-best-halloween-towns"><figure><a href="/images/cape-may-new-jersey-best-halloween-towns.jpg"><img src="/images/cape-may-new-jersey-best-halloween-towns.jpg" alt="Halloween Town Cape May NJ" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-dd9e6a15">
-
 ## [Cape May, New Jersey](/go/cape-may-new-jersey-travel/)
-
-</div>
 
 On the picturesque shores of the Jersey Shore, Cape May stands as a charming seaside town renowned for its beautifully preserved Victorian architecture. However, as the crisp autumn air rolls in, Cape May undergoes a bewitching transformation, becoming a haven for Halloween enthusiasts. This coastal gem offers a delightful array of Halloween-themed events that perfectly complement its historic charm.
 
@@ -391,11 +323,7 @@ Cape May's historic cemeteries, such as Cold Spring Cemetery and the Cape May Lu
 
 <div class="wp-block-uagb-image uagb-block-e894d9af wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bisbee-arizona-best-halloween-towns"><figure><a href="/images/bisbee-arizona-best-halloween-towns.jpg"><img src="/images/bisbee-arizona-best-halloween-towns.jpg" alt="Bisbee Arizona Halloween Town America" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-cfb82738">
-
 ## [Bisbee, Arizona](/go/bisbee-arizona-travel/)
-
-</div>
 
 The former mining town of Bisbee stands as a living testament to a bygone era. With its rich history and storied past, this picturesque town has earned a reputation as a hub for the supernatural, drawing in those who seek the thrill of encountering the unknown during Halloween and beyond. One of Bisbee's most iconic haunted locations is the [**Copper Queen Hotel**](/go/copper-queen-hotel-arizona/), where visitors can embark on ghost tours and paranormal investigations, adding a spine-tingling dimension to their stay in this historic town.
 
@@ -411,11 +339,7 @@ Bisbee wholeheartedly embraces Halloween, and the town hosts a variety of spooky
 
 <div class="wp-block-uagb-image uagb-block-7c12ffb9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="estes-park-colorado-best-halloween-towns"><figure><a href="/images/estes-park-colorado-best-halloween-towns.jpg"><img src="/images/estes-park-colorado-best-halloween-towns.jpg" alt="Estes Park Colorado Best Halloween Town in America" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-faa04b1b">
-
 ## [Estes Park, Colorado](/go/estes-park-colorado-travel/)
-
-</div>
 
 Among the breathtaking Rocky Mountains, Estes Park boasts stunning natural landscapes that come alive with vibrant fall foliage during October. The vivid colors of the changing leaves provide a spectacular backdrop for Halloween festivities, creating a serene and picturesque environment for visitors to enjoy.
 
@@ -429,11 +353,7 @@ Estes Park fully embraces the Halloween season with a variety of themed events a
 
 <div class="wp-block-uagb-image uagb-block-865c647f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="galena-illinois-best-halloween-towns"><figure><a href="/images/galena-illinois-best-halloween-towns.jpg"><img src="/images/galena-illinois-best-halloween-towns.jpg" alt="Galena Illinois Best Halloween Towns" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-d32be8eb">
-
 ## [Galena, Illinois](/go/galena-illinois-travel/)
-
-</div>
 
 Galena is renowned for its beautifully preserved 19th-century architecture, creating a picturesque setting that lends itself perfectly to Halloween. The town's historic buildings, cobblestone streets, and vintage charm provide a nostalgic backdrop for Halloween festivities.
 
@@ -451,11 +371,7 @@ Galena hosts a variety of Halloween-themed events and festivities. These may inc
 
 <div class="wp-block-uagb-image uagb-block-c3442b67 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="alton-illinois-best-halloween-towns"><figure><a href="/images/alton-illinois-best-halloween-towns.jpg"><img src="/images/alton-illinois-best-halloween-towns.jpg" alt="Alton Illinois best Halloween Towns" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-c7d6c1a8">
-
 ## [Alton, Illinois](/go/alton-illinois-travel/)
-
-</div>
 
 Alton is renowned for its rich and sometimes eerie history. The town boasts a high number of reportedly haunted locations, many of which have been featured on paranormal television shows. Visitors can take guided ghost tours to explore these haunted sites, hear ghostly tales, and potentially encounter the supernatural.
 
@@ -471,9 +387,9 @@ Plus, throughout the year, Alton is home to a number of spooky festivities, like
 
 These towns and cities offer a diverse range of Halloween experiences, from historically rich destinations to places with a reputation for paranormal activity. Whether you're seeking spooky thrills or family-friendly festivities, you'll find something for everyone in these Halloween-loving communities.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="halloween-towns-us"><a href="/images/best-halloween-towns-worth-visiting-with-your-family.jpg"><img src="/images/best-halloween-towns-worth-visiting-with-your-family-200x300.jpg" alt="Best Halloween Towns in the US" /></a></figure>
-</div></div>
+

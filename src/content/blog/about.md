@@ -17,7 +17,7 @@ author: "Amanda Keeley-Thurman"
 
 ## Family Travel with a Twist
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure><a href="/las-vegas-with-kids/"><img src="/images/Las-Vegas-with-a-toddler.jpg" alt="Guide to Las Vegas with a toddler" /></a></figure>
 
@@ -31,7 +31,7 @@ Yes, I take kids to [**Vegas**](/family-friendly-vegas/). Yes, we’ve hunted gh
 
 ## 👨‍👩‍👧‍👦 Real Family. Real Travel. Real Fun.
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure><a href="/images/Multigenerational-family-travel-.jpg"><img src="/images/Multigenerational-family-travel-.jpg" alt="Multigenerational family travel " /></a></figure>
 
@@ -44,7 +44,7 @@ Where Mama goes, the babies go.
 
 ## 🌎 What You’ll Find at HotMamaTravel
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure><a href="/images/HotMama-Fun-in-Vegas-930-x-520-px.gif"><img src="/images/HotMama-Fun-in-Vegas-930-x-520-px.gif" alt="HotMamaTravel Fun Family Travel" /></a></figure>
 
@@ -81,7 +81,7 @@ Subscribe to get exclusive travel guides, behind-the-scenes sneak peeks, and the
 
 ## Can You Take Your Kids To...?
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Check out our series, proving you can make just about [**any adventure kid-friendly**](/kid-friendly-travel-blogger-roundup/)! From [**wineries**](/best-family-friendly-wineries/) and** [breweries](/americas-best-breweries/)**, to [**honky tonks**](/kid-friendly-restaurants-nashville/) and [**haunted hotels**](/haunted-places/family-friendly-haunted-hotels/).
 

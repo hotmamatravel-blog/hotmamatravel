@@ -25,15 +25,11 @@ In this article, I’ll share why I think Alcatraz is absolutely worth visiting 
 
 ## Brief History
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure id="military-fort-alcatraz"><a href="/images/military-fort-alcatraz.jpg"><img src="/images/military-fort-alcatraz.jpg" alt="Cannon at Alcatraz " /></a></figure>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
-
 ### [Alcatraz The Fort](/go/alcatraz-island-san-francisco/)
-
-</div>
 
 The island's military history dates back to the 1850s when the United States recognized the strategic importance of San Francisco Bay. It was initially reserved for military use due to its location at the entrance of the bay, making it an ideal location for defending against potential naval threats.
 
@@ -43,11 +39,7 @@ During the [Civil War, Alcatraz](https://www.nps.gov/alca) was fortified with ca
 
 <figure id="visiting-alcatraz-cellhouse"><a href="/images/visiting-alcatraz-cellhouse-1.jpg"><img src="/images/visiting-alcatraz-cellhouse-1.jpg" alt="Prison Cells in Alcatraz" /></a></figure>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-690744ca">
-
 ### [Alcatraz The Prison](/go/alcatraz-island-san-francisco/)
-
-</div>
 
 Technically, Alcatraz has always been a type of prison. It held deserters, criminals, and Confederates during the Civil War era. The island was also used to incarcerate Native Americans from the Hopi, Apache, and Modoc during the many Indian Wars. Then in 1898 it held captives from the Spanish-American War. Finally, in 1915 Alcatraz was named the "United State Disciplinary Barracks, Pacific Branch," and was used to house  objectors to World War I.
 
@@ -61,11 +53,7 @@ Eventually, the maintenance and operating costs were too much and Attorney Gener
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="visiting-alcatraz-native-americans"><figure><a href="/images/visiting-alcatraz-native-americans.jpg"><img src="/images/visiting-alcatraz-native-americans.jpg" alt="Alcatraz Occuption of 1969" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-f0309aaf">
-
 ### [American Indian Occupation](/go/alcatraz-island-san-francisco/)
-
-</div>
 
 In the late 1960s, Native American activists across the United States began demanding recognition of their rights, tribal sovereignty, and improved living conditions. These movements were part of a larger civil rights struggle during that era.
 
@@ -79,11 +67,7 @@ Initially, the U.S. government attempted a forceful removal, but the complexitie
 
 **[See Photos, Reviews, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-ffc22c4b">
-
 ### [Alcatraz Birds](/go/alcatraz-island-san-francisco/)
-
-</div>
 
 Alcatraz Island is not only steeped in history but also boasts a unique ecosystem. Despite its former use as a prison, the island has become a sanctuary for various bird species and a surprising diversity of flora.
 
@@ -97,16 +81,13 @@ Over the years, Alcatraz has seen efforts to restore its natural vegetation. Tod
 
 ## How to Get to Alcatraz
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-b5165a95 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="alcatraz-ferry-visiting-alcatraz"><figure><a href="/images/alcatraz-ferry-visiting-alcatraz.jpg"><img src="/images/alcatraz-ferry-visiting-alcatraz.jpg" alt="Alcatraz Ferry to get to Alcatraz" /></a></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-941a87aa">
 
 ### [Alcatraz Ferry](/go/alcatraz-island-san-francisco/)
 
 Pier 33
-</div>
 
 Your Alcatraz adventure starts with an short, yet scenic, ride on the Alcatraz Ferry. Included in your tour ticket price, most visitors depart from Pier 33, which is conveniently located near San Francisco's Fisherman's Wharf.
 
@@ -128,15 +109,11 @@ After you visit Alcatraz, return to the mainland by taking the ferry back to you
 
 ## What You'll See On Your Alcatraz Tour
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-6a3e819b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="visiting-alcatraz-the-dock"><figure><a href="/images/visiting-alcatraz-the-dock.jpg"><img src="/images/visiting-alcatraz-the-dock.jpg" alt="The Alcatraz Dock, first site when visiting Alcatraz " /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-df3e03bd">
-
 ### [The Dock](/go/alcatraz-island-san-francisco/)
-
-</div>
 
 Although expanded over the years, the original dock was built in 1854. The first building you see when entering the dock is the Barracks Building which was built in 1865 to house soldiers and cannons. Off to the right you will see the restored guard tower from its days as a federal penitentiary.
 
@@ -146,11 +123,7 @@ Today, this is where you watch presentations, shop at the bookstore, grab your g
 
 <div class="wp-block-uagb-image uagb-block-dd4d9126 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="barracks-apartments-alcatraz"><figure><a href="/images/barracks-apartments-alcatraz.jpg"><img src="/images/barracks-apartments-alcatraz.jpg" alt="Barracks and Apartments on Alcatraz Island" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-dbc83e3d">
-
 ### [Barracks &amp; Apartments](/go/alcatraz-island-san-francisco/)
-
-</div>
 
 Thanks to inmate labor, the finished Barracks Building in 1905 was originally used to house soldiers on prison duty. Once Alcatraz transitioned to a federal prison, the Barracks were converted to be used as correctional officer and family housing. The complex included a post office and market and was fenced off for the security of the families living on the island.
 
@@ -158,11 +131,7 @@ Thanks to inmate labor, the finished Barracks Building in 1905 was originally us
 
 <div class="wp-block-uagb-image uagb-block-c6dacb1b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="military-fort-alcatraz"><figure><a href="/images/military-fort-alcatraz.jpg"><img src="/images/military-fort-alcatraz.jpg" alt="Alcatraz guardhouse and sally port military fort" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-6e8c0abb">
-
 ### [Guardhouse &amp; Sally Port](/go/alcatraz-island-san-francisco/)
-
-</div>
 
 The Guardhouse is the oldest building on the island, built in 1857. It was the first line of defense and could only be reached by a draw bridge. Two gun ports flanked the entrance with a wall for riflemen positions on the the roof.  There were also rifle slits along the brick walls. Seemed fool proof, but it was never used in battle. Instead the Guardhouse was used as a holding cell for Confederate sympathizers, Army prisoners and later jail cells.
 
@@ -170,11 +139,7 @@ The Guardhouse is the oldest building on the island, built in 1857. It was the f
 
 <div class="wp-block-uagb-image uagb-block-cc486cc6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="post-exchange-offciers-club-alcatraz"><figure><a href="/images/post-exchange-offciers-club-alcatraz.jpg"><img src="/images/post-exchange-offciers-club-alcatraz.jpg" alt="Post Exchange and Officer" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-e779d261">
-
 ### [Post Exchange &amp; Officer's Club](/go/alcatraz-island-san-francisco/)
-
-</div>
 
 This was known as the soldier's clubhouse. Built in 1910 this building held the general store for soldiers. Then in 1934 it was used as a recreation hall and officer's club. It even had a dance floor, gym, bowling alley, and soda fountain. Unfortunately, this building was destroyed in the fire of 1970.
 
@@ -182,11 +147,7 @@ This was known as the soldier's clubhouse. Built in 1910 this building held the 
 
 <div class="wp-block-uagb-image uagb-block-c2498947 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="military-schoolhouse-club-alcatraz"><figure><a href="/images/military-schoolhouse-club-alcatraz.jpg"><img src="/images/military-schoolhouse-club-alcatraz.jpg" alt="Military Schoolhouse on Alcatraz Island" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-1de04c0a">
-
 ### [Military Schoolhouse](/go/alcatraz-island-san-francisco/)
-
-</div>
 
 This Mission Revival-style building was built in the 1920's. It has served many purposes over the decades, including a shoe shop, and hat factory, meeting house, and schoolhouse. It was even used as housing for the bachelor guards that worked at Alcatraz prison.
 
@@ -194,11 +155,7 @@ This Mission Revival-style building was built in the 1920's. It has served many 
 
 <div class="wp-block-uagb-image uagb-block-b0071805 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="cellhouse-tour-alcatraz-island"><figure><a href="/images/cellhouse-tour-alcatraz-island.jpg"><img src="/images/cellhouse-tour-alcatraz-island.jpg" alt="Historic cellhouse tour on Alcatraz Island" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-b4f6ab23">
-
 ### [Cellhouse](/go/alcatraz-island-san-francisco/)
-
-</div>
 
 In 1912 the cellhouse was the largest steel-reinforced building in the world, designed to hold up to 600 prisoners. They used inmate labor to help build the cellhouse, and many of those inmates would go on to become the first prisoners to live on the island.
 
@@ -210,11 +167,7 @@ The Cellhouse contained four cellblocks, labeled A, B, C, and D. Each cellblock 
 
 <div class="wp-block-uagb-image uagb-block-54a860a6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="lighthouse-alcatraz-island"><figure><a href="/images/lighthouse-alcatraz-island.jpg"><img src="/images/lighthouse-alcatraz-island.jpg" alt="Alcatraz Island Historic Lighthouse" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-51c9d5cd">
-
 ### [Lighthouse](/go/alcatraz-island-san-francisco/)
-
-</div>
 
 The Gold Rush contributed to an increase in ship traffic through the Golden Gate, making it necessary to build a lighthouse on Alcatraz Island. The light was lit in the Lighthouse in 1854, making this the first operating lighthouse on the Pacific.
 
@@ -224,11 +177,7 @@ In 1909, the lighthouse you see today replaced the original oil 1854 lighthouse.
 
 <div class="wp-block-uagb-image uagb-block-97c392cb wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="wardens-house-alcatraz-island"><figure><a href="/images/wardens-house-alcatraz-island-1.jpg"><img src="/images/wardens-house-alcatraz-island-1.jpg" alt="Ruined Warden" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-efeba141">
-
 ### [Warden's House](/go/alcatraz-island-san-francisco/)
-
-</div>
 
 The Warden's House was once the impressive Mission Revival home for the wardens of Alcatraz. It had 17 rooms with big windows for gazes out at the breathtaking views of San Francisco mainland and the Golden Gate Bridge. It was actually built in the 1920's for the military prison commandant, but once Alcatraz became a federal penitentiary, it became the warden's home. James A. Johnston was the first of the four wardens to live here. This building too was ruined in during the 1970 fire.
 
@@ -236,11 +185,7 @@ The Warden's House was once the impressive Mission Revival home for the wardens 
 
 <div class="wp-block-uagb-image uagb-block-7f0b1d2c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/gardens-alcatraz-island.jpg"><img src="/images/gardens-alcatraz-island.jpg" alt="The gardens at Alcatraz" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-71c1ba70">
-
 ### [The Gardens](/go/alcatraz-island-san-francisco/)
-
-</div>
 
 The first gardens were planted on Alcatraz by the military as a means to keep the island soft surface for sliding or blowing away. Later inmate gardeners, families of soldiers and officers would go on to plant flowers, vegetables, trees, and more. Along the wall pictured here is where the children's gardens were panted.  In the 1950's the Captain of the Guards thought the children living on the island had too much free time, so he had them all plant their own little gardens. Today the park services work to maintain this sweet history on Alcatraz.
 
@@ -250,15 +195,11 @@ The first gardens were planted on Alcatraz by the military as a means to keep th
 
 ## Alcatraz Escape Attempts, Deaths, and Hauntings
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-147236c9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="escape-attempts-alcatraz-island"><figure><a href="/images/escape-attempts-alcatraz-island.jpg"><img src="/images/escape-attempts-alcatraz-island.jpg" alt="Escape attempt 13 Alcatraz 1962" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-fe91834f">
-
 ### [Escape Attempts](/go/alcatraz-island-san-francisco/)
-
-</div>
 
 During the 29 years as a federal penitentiary, Alcatraz had 14 escape attempts. Alcatraz was deemed "inescapable," so it is no surprise that most, if not all, were unsuccessful. The two in question are due to disappearances of the inmates, but many believe they drowned and their bodies were never found.
 
@@ -274,11 +215,7 @@ Another infamous escape attempt was the summer of 1962, when Morris and the Angl
 
 <div class="wp-block-uagb-image uagb-block-58ff7247 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="visiting-alcatraz-morgue"><figure><a href="/images/visiting-alcatraz-morgue.jpg"><img src="/images/visiting-alcatraz-morgue.jpg" alt="Visiting Alcatraz Morgue " /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-f578e1f1">
-
 ### [Deaths at Alcatraz](/go/alcatraz-island-san-francisco/)
-
-</div>
 
 There were no executions at Alcatraz, but there were deaths at Alcatraz during its time as a prison. There were several suicides, murders, and natural deaths. Five of the deaths we just covered in the 1946 escape attempt.
 
@@ -300,11 +237,7 @@ The barbershop murder that happened in 1945 was between two inmates. Claude Bran
 
 <div class="wp-block-uagb-image uagb-block-0aaba3d7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="cellhouse-empty-alcatraz-island"><figure><a href="/images/cellhouse-empty-alcatraz-island-1.jpg"><img src="/images/cellhouse-empty-alcatraz-island-1.jpg" alt="hauntings at Alcatraz Prison San Francisco" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-7842e06c">
-
 ### [Reported Hauntings at Alcatraz](/go/alcatraz-island-san-francisco/)
-
-</div>
 
 With so much heartache, sadness, and death, it is no wonder Alcatraz has so many stories of hauntings. Alcatraz has been the subject of a number of ghost-investigation shows, like [Watcher's Ghost Files](https://www.youtube.com/watch?v=jMw1NAwYDbQ), [Discovery's Dead Files](https://www.travelchannel.com/video/the-dead-files-travel-channel/alcatraz), and more.
 
@@ -322,23 +255,15 @@ If you love exploring [**family-friendly paranormal sites**](/best-haunted-place
 
 ## Tips for Families Visiting Alcatraz
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-41053531">
+<div class="ugb-heading__bottom-line">
 
 ### [Strollers &amp; Haircap Accessible](/go/alcatraz-island-san-francisco/)
-
-</div>
 
 Alcatraz is stroller and wheelchair accessible. I had a double and there was no where I couldn't go. However, the hills are very steep on the island, especially the walk to the cellhouse. There is a tram that will take mobility impaired up to the top, but due to limited capacity, only those with issues walking up the hills can ride, not accompanying family members.
 
 **[See Photos, Reviews, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-85d21e53">
-
 ### [Food &amp; Drink](/go/alcatraz-island-san-francisco/)
-
-</div>
 
 There is no food or drink allowed on Alcatraz Island, except for water bottles. However, the Alcatraz Ferry does have refreshments, hot dogs, pretzels, beer, sodas, water, and more. I suggest getting a snack on the ferry ride to the island, as you will be walking around quite a bit, and kids will get hungry. You can pre-order your food on the ferry as well.
 
@@ -348,7 +273,7 @@ There is no food or drink allowed on Alcatraz Island, except for water bottles. 
 
 ## Alcatraz Books
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 If you're fascinated by Alcatraz and its history, there are several excellent books that provide in-depth insights into this infamous island prison. These books offer a range of perspectives on Alcatraz, from historical accounts to personal narratives. They provide a deeper understanding of the island's complex history and its enduring fascination in popular culture. Here are some must-reads:
 
@@ -370,9 +295,9 @@ For even more adventures beyond the Bay, don’t miss my full [**California fami
 
 So, if you're seeking an adventure that combines history, intrigue, and breathtaking views of San Francisco Bay, Alcatraz is an absolute must-visit destination.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure><a href="/images/is-visiting-alcatraz-worth-it-hauntings-escapes-tips.jpg"><img src="/images/is-visiting-alcatraz-worth-it-hauntings-escapes-tips-200x300.jpg" alt="Is Visiting Alcatraz Worth it with kids?" /></a></figure>
-</div></div>
+

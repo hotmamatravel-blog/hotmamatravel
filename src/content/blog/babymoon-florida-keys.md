@@ -22,9 +22,9 @@ Then once your little one arrives, come back here for our ultimate [guide to thi
 
 ## Babymoon Florida Keys Style
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e93e877b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="amara-cay-resort-florida-keys-babymoon-resorts"><a href="/images/amara-cay-resort-florida-keys-kid-friendly-resorts.jpg"><img src="/images/amara-cay-resort-florida-keys-kid-friendly-resorts.jpg" alt="babymoon florida keys at Bliss Cay Resort" /></a></figure>
 
 #### [Babymoon Bliss Amara Cay Resort](/go/amara-cay-resort-islamorada-florida-keys/)
@@ -47,9 +47,9 @@ The Babymoon Bliss package includes:
 
 [See photos, reviews &amp; more](/go/amara-cay-resort-islamorada-florida-keys/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-02a87ac1"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="prenatal-massage-babymoon-florida-keys"><a href="/images/four-seasons-spa-las-vegas-spa-prenatal-massage.jpg"><img src="/images/four-seasons-spa-las-vegas-spa-prenatal-massage.jpg" alt="prenatal massages babymoon florida keys" /></a></figure>
 
 #### Relax at a Spa
@@ -58,9 +58,9 @@ Treat yourself to a relaxing spa day at one of the many luxurious spas in the ar
 
 For instance, at [Hawk's Cay Resort](/go/hawks-cay-resort-duck-key-florida-keys/) you can enjoy the Marathon Mama, a prenatal treatment that relieves back tension, reduces stress on weight-bearing joints, increases circulation and reduces swelling.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4ed67261"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="little-palm-island-resort-spa-babymoon-florida-keys"><a href="/images/little-palm-island-resort-spa-florida-keys-kid-friendly-resorts-1.jpg"><img src="/images/little-palm-island-resort-spa-florida-keys-kid-friendly-resorts-1.jpg" alt="babymoon florida key beach days" /></a></figure>
 
 #### Enjoy the Beach
@@ -69,9 +69,9 @@ The Florida Keys are famous for their beautiful beaches. Spend some time loungin
 
 The beach on little Palm Island is really nice and secluded. The resort, [Little Palm Island Resort](/go/little-palm-island-resort-spa-little-torch-key-florida-keys/) is adults-only and a great place to soak up all those relaxing vibes before you are a busy mama.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4b0f0505"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="snorkeling-John-Pennekamp-Coral-Reef-State-Park-babymoon-florida-keys"><a href="/images/snorkeling-John-Pennekamp-Coral-Reef-State-Park-babymoon-florida-keys.jpg"><img src="/images/snorkeling-John-Pennekamp-Coral-Reef-State-Park-babymoon-florida-keys.jpg" alt="snorkeling during babymoon in florida keys" /></a></figure>
 
 #### Go Snorkeling
@@ -80,9 +80,9 @@ The Florida Keys are known for their clear waters and vibrant coral reefs, makin
 
 Some popular snorkeling spots include [John Pennekamp Coral Reef State Park](/go/john-pennekamp-coral-reef-state-park-florida-keys/) and[Looe Key National Marine Sanctuary](/go/florida-keys-national-marine-sanctuary/).
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-677f9061"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="sunset-cruise-babymoon-florida-keys"><a href="/images/sunset-cruise-babymoon-florida-keys.jpg"><img src="/images/sunset-cruise-babymoon-florida-keys.jpg" alt="babymoon sunset cruise if florida keys" /></a></figure>
 
 #### [Take a Sunset Cruise](/go/sunset-cruise-florida-keys/)
@@ -95,9 +95,9 @@ A babymoon is a special time for couples to spend quality time together before t
 
 [See photos, reviews &amp; more](/go/sunset-cruise-florida-keys/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-72bbdda9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="things-to-do-key-west-florida"><a href="/images/things-to-do-in-key-west-with-kids.jpg"><img src="/images/things-to-do-in-key-west-with-kids-1024x576.jpg" alt="Family Travel Guide for things to do in Key West with kids" /></a></figure>
 
 #### [Visit Key West](/things-to-do-in-key-west-with-kids/)
@@ -106,9 +106,9 @@ Key West is a must-visit destination in the Florida Keys. Explore the charming t
 
 For a full list of cool [things to do in Key West](/things-to-do-in-key-west-with-kids/), be sure to check out out article. And when you return with your little one, check out our guide to the[best family hotels in Key West](/hotels-in-key-west-for-families/) as well as the Florida Keys.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-39e3a246"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Take a Nature Walk
 
@@ -124,9 +124,9 @@ Other great places to explore Florida Keys nature and wildlife with a relaxing n
 
 [Key West Tropical Forest and Botanical Garden](/go/key-west-tropical-forest-botanical-garden-florida-keys/), a15-acre garden is home to a variety of native plants and animals, including butterflies, birds, and reptiles. Visitors can take a guided tour or explore the garden on their own.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3b5bac20"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Try the Local Cuisine](/go/restaurants-florida-keys/)
 
@@ -134,13 +134,13 @@ I know when you are pregnant, food is a touchy subject. Sometimes you feel great
 
 [See photos, reviews &amp; more](/go/restaurants-florida-keys/)
 
-</div></section>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 If you're looking for the perfect destination for a relaxing and romantic babymoon, the Florida Keys is definitely worth considering. With its stunning natural beauty, warm weather, and laid-back vibe, the Keys offer the perfect setting for expectant parents to unwind and enjoy each other's company before the arrival of their little one.
 
@@ -152,9 +152,9 @@ Explore of what [Florida has offer for family travel](/florida-family-holidays/)
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e386f2d3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="planning-perfect-babymoon-florida-keys-"><a href="/images/planning-perfect-babymoon-florida-keys-.jpg"><img src="/images/planning-perfect-babymoon-florida-keys--200x300.jpg" alt="" /></a></figure>
-</div></section>
+

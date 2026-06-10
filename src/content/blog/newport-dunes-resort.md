@@ -29,7 +29,7 @@ S**ee Our RV Experiences at Newport Dunes Resort:**
 
 ## Where to Stay at Newport Dunes Resort: Glamping Cottages &amp; RV Sites
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 ### Glamping Cottages:
 
@@ -159,7 +159,7 @@ In addition to RV sites, RV, trailer, and tent camping options are available thr
 
 ## Where to Eat at Newport Dunes Resort
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 ### Moe B's Munchies Beach Bar &amp; Grill:
 
@@ -175,7 +175,7 @@ And if you feel like venturing out, remember that Newport Dunes sits in the hear
 
 ## Family Fun &amp; Activities at Newport Dunes Resort
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Family experiences at Newport Dunes Resort are all about making lasting memories at one of Newport Beach’s most unique family entertainment destinations. Whether you’re visiting for a weekend getaway or a longer coastal escape, the resort is packed with activities for all ages.
 
@@ -241,7 +241,7 @@ From summer movies on the beach to **[St. Patrick’s Day festivities](/st-patri
 
 ## Family Travel Videos From Newport Dunes Resort
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nYNurGcKJQE?si=tLjsWql_pyPE2Qnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -261,9 +261,9 @@ While the dunes are open to the public, pool access and some amenities are reser
 
 For more ideas on family-friendly adventures across the Golden State, check out our [**Orange County**](/orange-county-family-travel/) and [**California Family Travel Guides**](/california-family-travel/) to discover beaches, parks, cabins, and kid-approved activities throughout the state.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="Dreaming of a family glamping getaway in Southern California? 🌴✨ Discover Newport Dunes Resort—from cozy cottages and beachfront RV sites to calm bay waters, playgrounds, pools, water sports, and seasonal events. Perfect for kids, parents, and RV travelers! Check out our ultimate 2026 guide for tips, rentals, and all the best activities. #newportdunes #familytravel #glamping #newportbeach #californiatravel"><a href="/images/glamping-newport-dunes.jpg"><img src="/images/glamping-newport-dunes-200x300.jpg" alt="Glamping Newport Dunes" /></a></figure>
-</div></div>
+

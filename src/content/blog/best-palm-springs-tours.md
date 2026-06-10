@@ -14,7 +14,7 @@ author: "Amanda Keeley-Thurman"
 
 Let the ultimate family adventure in the beautiful oasis of Palm Springs begin! With its sunny weather, stunning landscapes, and an abundance of exciting activities, Palm Springs offers a plethora of memorable tours that are perfect for families. Whether you're seeking outdoor exploration, cultural immersion, or simply some quality bonding time, this desert paradise has it all. From exhilarating tramway rides to up-close encounters with the desert's unique flora and fauna, Palm Springs tours will leave your family with cherished memories that will last a lifetime.  Check out these amazing Palm Springs tours that your family will love!
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0d00a212"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="palm-springs-aerial-tramway"><a href="/images/palm-springs-aerial-tramway.jpg"><img src="/images/palm-springs-aerial-tramway.jpg" alt="" /></a></figure>
 
 #### [Palm Springs Aerial Tramway](/go/palm-springs-aerial-tramway-palm-springs-ca/)
@@ -27,9 +27,9 @@ Once you reach the top, a whole new world of adventure awaits. Lace up your hiki
 
 [See photos, reviews &amp; more](/go/palm-springs-aerial-tramway-palm-springs-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-15b9c9d9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="palm-springs-tours-windmill-tours"><a href="/images/palm-springs-tours-windmill-tours.jpg"><img src="/images/palm-springs-tours-windmill-tours.jpg" alt="" /></a></figure>
 
 #### [Palm Springs Windmill Tour](/go/windmill-tour-palm-springs-tours/)
@@ -44,9 +44,9 @@ Learn how these enormous windmills harness the power of the wind, generating cle
 
 [See photos, reviews &amp; more](/go/windmill-tour-palm-springs-tours/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6dda6ab8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="palm-springs-tours-modern-and-more-bike-tour"><a href="/images/palm-springs-tours-modern-and-more-bike-tour.jpg"><img src="/images/palm-springs-tours-modern-and-more-bike-tour.jpg" alt="" /></a></figure>
 
 #### [Modern &amp; More Bike Tour](/go/modern-more-bike-tour-palm-springs-tours/)
@@ -59,9 +59,9 @@ The Modern &amp; More Bike Tour in Palm Springs is an exciting adventure for fam
 
 [See photos, reviews &amp; more](/go/modern-more-bike-tour-palm-springs-tours/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8af88ce3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="palm-springs-tours-indian-canyons-hike-bike"><a href="/images/palm-springs-tours-indian-canyons-hike-bike.jpg"><img src="/images/palm-springs-tours-indian-canyons-hike-bike.jpg" alt="" /></a></figure>
 
 #### [Palm Springs Indian Canyons Bike &amp; Hike Tour](/go/palm-springs-indian-canyons-bike-hike-tours/)
@@ -76,9 +76,9 @@ During the hike, you'll embark on an exhilarating journey through picturesque ca
 
 [See photos, reviews &amp; more](/go/palm-springs-indian-canyons-bike-hike-tours/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e18e3c12"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Legends &amp; Icons Tour of Palm Springs](/go/legends-icons-palm-springs-tour/)
 
@@ -90,9 +90,9 @@ Embark on a one-of-a-kind journey through Palm Springs, unveiling its rich histo
 
 [See photos, reviews &amp; more](/go/legends-icons-palm-springs-tour/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-98dcfda0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Indian Canyons Walking &amp; Jeep Tour](/go/indian-canyons-walking-jeep-tour-palm-springs/)
 
@@ -106,9 +106,9 @@ Families will relish this tour for its immersive nature, allowing them to connec
 
 [See photos, reviews &amp; more](/go/indian-canyons-walking-jeep-tour-palm-springs/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bc104137"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="palm-springs-tours-covered-wagon-bbq"><a href="/images/palm-springs-tours-covered-wagon-bbq.jpg"><img src="/images/palm-springs-tours-covered-wagon-bbq.jpg" alt="" /></a></figure>
 
 #### [Covered Wagon Adventure &amp; BBQ](/go/covered-wagon-adventure-bbq-palm-springs/)
@@ -123,7 +123,7 @@ Indulge in the soulful tunes of live music, engage in friendly yard games, savor
 
 [See photos, reviews &amp; more](/go/covered-wagon-adventure-bbq-palm-springs/)
 
-</div></section>
+
 
 Palm Springs truly shines as a remarkable destination for families seeking unforgettable adventures and cherished moments together. From thrilling aerial tramway rides to fascinating tours showcasing modern architecture, the city offers a diverse [range of activities](/palm-springs-with-kids/) that cater to every family member's interests. The natural wonders of [Joshua Tree National Park](/glamping-joshua-tree-national-park/) and the Indian Canyons provide opportunities for outdoor exploration and cultural immersion. Palm Springs' rich history, celebrity connections, and vibrant culture add an extra layer of intrigue to each experience.
 

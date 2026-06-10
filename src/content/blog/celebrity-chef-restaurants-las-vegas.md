@@ -19,7 +19,7 @@ Las Vegas is known for its glitz and glamour, [**amazing hotels**](/best-family-
 
 ## Celebrity Chef Restaurants Las Vegas
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure id="gordon-ramsay-steak-celebrity-chef-restaurant-las-vegas"><a href="/images/gordon-ramsay-steak-celebrity-chef-restaurant-las-vegas.jpg"><img src="/images/gordon-ramsay-steak-celebrity-chef-restaurant-las-vegas.jpg" alt="Las Vegas Celebrity Restaurants Gordon Ramsay Steak at Paris Las Vegas" /></a><figcaption class="wp-element-caption">Courtesy of Gordon Ramsay Steak</figcaption></figure>
 
@@ -269,7 +269,7 @@ The dining room at Delmonico Steakhouse is warm and welcoming, with a classic an
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Las Vegas is a city that offers a wide range of dining experiences, including [**restaurants with live music**](/kid-friendly-live-music-las-vegas/) as well as an impressive selection of celebrity chef restaurants and celebrity-owned. These restaurants, which are helmed by some of the most talented and celebrated chefs in the world, offer a range of cuisines, from Italian and steakhouse to Asian and French, and are known for their innovative menus, beautiful design, and top-notch service.
 
@@ -279,9 +279,9 @@ So if you are planning a trip to Las Vegas, be sure to check out some of these a
 
 For more Las Vegas tips and tricks, check out our many other** [helpful articles](/family-friendly-vegas/), **as well as more to** [explore in Nevada](/nevada-family-travel/).** Also, be sure to join my [**Las Vegas With Kids Facebook Group**](http://11. https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9770b56c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="best-celebrity-restaurants-las-vegas"><a href="/images/best-celebrity-restaurants-las-vegas.jpg"><img src="/images/best-celebrity-restaurants-las-vegas-200x300.jpg" alt="Top Celebrity Restaurants Las Vegas " /></a></figure>
-</div></section>
+

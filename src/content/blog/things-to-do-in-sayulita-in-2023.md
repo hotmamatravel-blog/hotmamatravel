@@ -22,9 +22,9 @@ Curious about the best-kept secrets of this picturesque town? Discover the true 
 
 ## Top 8 Things To Do in Sayulita
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-da06c274"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="sunset-carricitos-beach-sayulita-mexico"><a href="/images/sunset-carricitos-beach-sayulita-mexico.jpg"><img src="/images/sunset-carricitos-beach-sayulita-mexico.jpg" alt="" /></a></figure>
 
 #### [Experience the Mesmerizing Sunset at Carricitos Beach](/go/carricitos-beach-sayulita-mexico/)
@@ -35,9 +35,9 @@ Want to know the secret spot? Make your way to Carricitos Beach, fondly known as
 
 [See photos, reviews &amp; more](/go/carricitos-beach-sayulita-mexico/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c6da8743"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="whale-watching-tours-sayulita-mexico"><a href="/images/whale-watching-california.jpg"><img src="/images/whale-watching-california.jpg" alt="" /></a></figure>
 
 #### [Embark on a Majestic Whale-Watching Journey](/go/whale-watching-sayulita-mexico/)
@@ -49,9 +49,9 @@ Imagine witnessing these magnificent creatures up close, their size mesmerizing 
 
 [See photos, reviews &amp; more](/go/whale-watching-sayulita-mexico/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8de05758"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="galleries-shops-sayulita-mexico"><a href="/images/galleries-shops-sayulita-mexico.jpg"><img src="/images/galleries-shops-sayulita-mexico.jpg" alt="" /></a></figure>
 
 #### [Explore the Many Galleries of Sayulita](/things-to-do-in-sayulita-in-2023/)
@@ -68,9 +68,9 @@ much more meaningful and worthwhile.
 
 [See photos, reviews &amp; more](/things-to-do-in-sayulita-in-2023/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-62d68c02"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="mezcal-tour-sayulita-mexico"><a href="/images/mezcal-tour-sayulita-mexico.jpg"><img src="/images/mezcal-tour-sayulita-mexico.jpg" alt="" /></a></figure>
 
 #### [Indulge in Sayulita's Eclectic Mezcal Selection](/go/tacos-tequila-mezcal-tour-sayulita-mexico/)
@@ -82,9 +82,9 @@ selection, you'll have the pleasure of choosing from over 50 mesmerizing Mezcal 
 
 [See photos, reviews &amp; more](/go/tacos-tequila-mezcal-tour-sayulita-mexico/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2ccb6e52"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="surf-camp-sayulita-mexico"><a href="/images/surf-camp-sayulita-mexico.jpg"><img src="/images/surf-camp-sayulita-mexico.jpg" alt="" /></a></figure>
 
 #### [Ride the Waves at Sayulita's Dynamic Surf Camps](/go/surf-camps-sayulita-mexico/)
@@ -99,9 +99,9 @@ For those venturing into surfing for the first time, the [WildMex 7-Day Progress
 
 [See photos, reviews &amp; more](/go/surf-camps-sayulita-mexico/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b167aa91"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="surf-school-sayulita-mexico"><a href="/images/surf-school-sayulita-mexico.jpg"><img src="/images/surf-school-sayulita-mexico.jpg" alt="" /></a></figure>
 
 #### [Experience the Ultimate Surfing Adventure](/go/surf-school-sayulita-mexico/)
@@ -112,9 +112,9 @@ Sayulita offers ideal conditions for year-round surfing, making this the ideal s
 
 [See photos, reviews &amp; more](/go/surf-school-sayulita-mexico/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d6bdc1aa"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="day-of-the-dead-sayulita-mexico"><a href="/images/day-of-the-dead-sayulita-mexico.jpg"><img src="/images/day-of-the-dead-sayulita-mexico.jpg" alt="" /></a></figure>
 
 #### Embrace the Spirit of the Day of the Dead
@@ -126,9 +126,9 @@ At this intimate ceremony, Mexicans pay their departed loved ones tribute by dec
 Sayulita's cemetery offers visitors the perfect chance to reflect and discover Sayulita's cultural heritage. After your visit, enjoy a peaceful beach visit, have a delightful picnic, rent lounge chairs for optimal relaxation, or take advantage of nearby shacks that serve delicious food and refreshing drinks - and then complete your experience by sampling
 some delectable treats from nearby shacks offering mouthwatering food and refreshing beverages!
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c457549f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="open-air-markets-sayulita-mexico"><a href="/images/open-air-markets-sayulita-mexico.jpg"><img src="/images/open-air-markets-sayulita-mexico.jpg" alt="" /></a></figure>
 
 #### [Immerse Yourself in the Bohemian Charm of Open-Air Markets](/go/market-tours-sayulita-mexico/)
@@ -139,7 +139,7 @@ Wander through the market's enchanting stalls, each brimming with a treasure tro
 
 [See photos, reviews &amp; more](/go/market-tours-sayulita-mexico/)
 
-</div></section>
+
 
 Sayulita is the perfect destination for travelers seeking an authentic Mexican experience without the hustle and bustle of popular tourist spots.
 
@@ -151,9 +151,9 @@ With Travel-Wise, planning your dream Mexican holiday has never been so
 quick, easy, and fun. So, leave your worries behind and create unforgettable
 travel moments with us.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f0bce087"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="best-things-to-do-in-sayulita-mexico"><a href="/images/best-things-to-do-in-sayulita-mexico.jpg"><img src="/images/best-things-to-do-in-sayulita-mexico-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

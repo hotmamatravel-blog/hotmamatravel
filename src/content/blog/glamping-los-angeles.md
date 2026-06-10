@@ -15,13 +15,9 @@ Los Angeles is known for being the film and television capital, attracting milli
 
 For those looking for a more outdoorsy experience, consider staying at one of these awesome Los Angeles glamping sites. Glamping in Los Angeles is a great option for those visiting and for locals looking to escape the hustle and bustle of the city.
 
-<div class="wp-block-uagb-advanced-heading uagb-block-20055a19">
-
 ## Best Los Angeles Glamping Sites
 
-<div class="uagb-separator"></div></div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8942a8b1"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 <figure id="ventura-ranch-koa-wagon-glamping-los-angeles-ca"><a href="/images/ventura-ranch-koa-wagon-glamping-los-angeles-ca.jpg"><img src="/images/ventura-ranch-koa-wagon-glamping-los-angeles-ca.jpg" alt="" /></a></figure>
 
 #### [Ventura Ranch KOA Holiday](/go/ventura-ranch-koa-los-angeles-ca/)
@@ -38,9 +34,9 @@ Ventura Ranch KOA Holiday is a great glamping site for families thanks to the pl
 
 [See photos, reviews &amp; more](/go/ventura-ranch-koa-los-angeles-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9c023504"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="teepee-glamping-Acton-KOA-Los-Angeles-Ca"><a href="/images/teepee-glamping-Acton-KOA-Los-Angeles-Ca.jpg"><img src="/images/teepee-glamping-Acton-KOA-Los-Angeles-Ca.jpg" alt="" /></a></figure>
 
 #### [Acton Los Angeles North KOA Holiday](/go/acton-los-angeles-north-koa-holiday/)
@@ -55,9 +51,9 @@ Acton Los Angeles North KOA Holiday is great for families, because there are ple
 
 [See photos, reviews &amp; more](/go/acton-los-angeles-north-koa-holiday/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-715d5b3c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="soledad-rv-campground-glamping-los-angeles-ca"><a href="/images/soledad-rv-campground-glamping-los-angeles-ca.jpg"><img src="/images/soledad-rv-campground-glamping-los-angeles-ca.jpg" alt="" /></a></figure>
 
 #### [Soledad Canyon RV &amp; Camping Resort](/go/soledad-canyon-rv-camping-resort-los-angeles-ca/)
@@ -72,9 +68,9 @@ At Soledad Canyon RV Resort, you feel secluded without being too far from Los An
 
 [See photos, reviews &amp; more](/go/soledad-canyon-rv-camping-resort-los-angeles-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-69171691"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="fairplex-rv-park-glamping-los-angeles-ca"><a href="/images/fairplex-rv-park-glamping-los-angeles-ca.jpg"><img src="/images/fairplex-rv-park-glamping-los-angeles-ca.jpg" alt="" /></a></figure>
 
 #### [Fairplex RV Park](/go/fairplex-rv-park-los-angeles-ca/)
@@ -89,13 +85,9 @@ Fairplex RV Park does not offer a ton of activities, the perk is more about the 
 
 [See photos, reviews &amp; more](/go/fairplex-rv-park-los-angeles-ca/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-b6730294">
 
 ## That's a Wrap!
-
-<div class="uagb-separator"></div></div>
 
 As they say in Hollywood, “that’s a wrap!” Whether you are looking for a city escape or just want a retreat after a long day of sightseeing, these awesome glamp sites in Los Angeles are just what you need. Have fun glamping in Los Angeles!
 
@@ -131,9 +123,9 @@ For more awesome glamping sites from around the country, check out our there pos
 
 - [Glamping Upstate New York](/glamping-upstate-new-york/)
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-cd9735df"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="4-best-glamping-site-los-angeles-ca"><a href="/images/4-best-glamping-site-los-angeles-ca.jpg"><img src="/images/4-best-glamping-site-los-angeles-ca-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

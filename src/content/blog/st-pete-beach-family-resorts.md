@@ -22,9 +22,9 @@ But before you go, you will need a place to stay. In this blog post, we'll explo
 
 ## St. Pete Beach Kid-Friendly Hotels
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-dbec74e6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="tradewinds-island-grand-st-pete-beach-family-resorts"><a href="/images/tradewinds-island-grand-st-pete-beach-family-resorts.jpg"><img src="/images/tradewinds-island-grand-st-pete-beach-family-resorts.jpg" alt="" /></a></figure>
 
 #### [TradeWinds Island Grand Resort](/go/tradewinds-st-pete-expedia/)
@@ -41,9 +41,9 @@ When it comes to dining, the TradeWinds Island Grand has numerous options to sui
 
 [See photos, reviews &amp; more](/go/tradewinds-st-pete-expedia/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-94bf6120"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="rumfish-beach-resort-st-pete-beach-family-resorts"><a href="/images/rumfish-beach-resort-st-pete-beach-family-resorts.jpg"><img src="/images/rumfish-beach-resort-st-pete-beach-family-resorts.jpg" alt="" /></a></figure>
 
 #### [RumFish Beach Resort -   By TradeWinds](/go/rumfish-beach-resort-tradewinds-st-pete-beach/)
@@ -62,9 +62,9 @@ The resort's accommodations are spacious and comfortable, with many rooms featur
 
 [See photos, reviews &amp; more](/go/rumfish-beach-resort-tradewinds-st-pete-beach/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8416549a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="the-don-cesar-family-resorts-st-pete-beach"><a href="/images/the-don-cesar-family-resorts-st-pete-beach.jpg"><img src="/images/the-don-cesar-family-resorts-st-pete-beach.jpg" alt="" /></a></figure>
 
 #### [The Don CeSar Hotel](/go/don-cesar-hotel-st-pete-beach-florida/)
@@ -85,9 +85,9 @@ The hotel's location also makes it convenient for families to [explore St. Pete 
 
 [See photos, reviews &amp; more](/go/don-cesar-hotel-st-pete-beach-florida/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0d3cb3c2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="beach-house-suites-st-pete-beach-family-resorts"><a href="/images/beach-house-suites-st-pete-beach-family-resorts.jpg"><img src="/images/beach-house-suites-st-pete-beach-family-resorts.jpg" alt="" /></a></figure>
 
 #### [Beach House Suites by Don CeSar](/go/beach-house-suites-don-cesar-st-pete-beach/)
@@ -106,9 +106,9 @@ Beach House Suites also offers a complimentary breakfast buffet every morning, w
 
 [See photos, reviews &amp; more](/go/beach-house-suites-don-cesar-st-pete-beach/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ab576eee"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="sirata-st-pete-beach-family-resorts"><a href="/images/sirata-st-pete-beach-family-resorts.jpg"><img src="/images/sirata-st-pete-beach-family-resorts.jpg" alt="" /></a></figure>
 
 #### [Sirata St. Pete Beach](/go/sirata-st-pete-beach/)
@@ -129,9 +129,9 @@ The resort's location also makes it convenient for families to visit more of St.
 
 [See photos, reviews &amp; more](/go/sirata-st-pete-beach/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-fce8f8f9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="bellwether-beach-resort-st-pete-beach-family-resorts"><a href="/images/bellwether-beach-resort-st-pete-beach-family-resorts.jpg"><img src="/images/bellwether-beach-resort-st-pete-beach-family-resorts.jpg" alt="" /></a></figure>
 
 #### [Bellwether Beach Resort](/go/bellwether-beach-resort-st-pete-beach/)
@@ -152,21 +152,21 @@ The resort's on-site restaurant, the Belleview Bistro, serves up delicious Ameri
 
 [See photos, reviews &amp; more](/go/bellwether-beach-resort-st-pete-beach/)
 
-</div></section>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-bc9f96f ugb-main-block"><style>.ugb-bc9f96f .ugb-heading__title{text-align:center}.ugb-bc9f96f .ugb-heading__bottom-line{background-color:#f41212 !important;height:5px !important;width:122px !important;margin-left:auto !important;margin-right:auto !important}.ugb-bc9f96f .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 St. Pete Beach offers a variety of family-friendly resorts that are perfect for a memorable beach vacation. Your family will love the selections of luxurious beachfront properties with kid-friendly amenities, restaurants, entertainment. St. Pete Beach's white sand beaches, clear blue waters, and abundance of activities make it a top destination for families seeking fun in the sun.  Whether you're looking to relax and unwind or embark on an adventure-packed trip, St. Pete Beach's family resorts are sure to make your stay unforgettable.
 
 For a full guide on visiting St. Petersburg, Florida, see our [Things to do in St. Pete Beach with Kids](/st-pete-beach-with-kids/) post.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-45615716"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="best-st-pete-beach-family-resorts"><a href="/images/best-st-pete-beach-family-resorts.jpg"><img src="/images/best-st-pete-beach-family-resorts-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

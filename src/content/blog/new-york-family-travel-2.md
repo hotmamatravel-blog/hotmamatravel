@@ -12,7 +12,6 @@ wpSlug: "new-york-family-travel-2"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 New York isn’t just skyscrapers and yellow cabs; it’s a family playground with a side of chills, thrills, and yes…wine refills. Whether you’re chasing ghosts in historic haunts, cozying up in family-friendly hotels, or sneaking away for a grown-up detour at a local brewery or winery, the Empire State knows how to keep every member of the family entertained.
 
 From haunted mansions that’ll give your kids bragging rights, to glamping escapes that get you out of the city and into nature, to cultural hotspots that make learning feel like playtime, New York has it all. This is where spooky adventures meet family bonding, with just enough parent-approved fun to keep mom and dad smiling, too.
@@ -23,7 +22,7 @@ So grab your walking shoes (and maybe a flashlight), because New York family tra
 
 ## New York Family Attractions
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 - [New York’s Five Boroughs: A Treasure Trove of Experiences](/new-yorks-five-boroughs/)
 
@@ -31,7 +30,7 @@ So grab your walking shoes (and maybe a flashlight), because New York family tra
 
 ## New York Family Hotels
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 - [Hauntingly Wonderful Haunted Hotels in New York](/haunted-hotels-new-york/)
 
@@ -41,13 +40,13 @@ So grab your walking shoes (and maybe a flashlight), because New York family tra
 
 ## New York Family Restaurants
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 <div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-7367117" id="new-york-family-breweries" data-block-id="7367117"><style>.stk-7367117 .stk-block-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important;}</style>
 
 ## New York Family Breweries
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 - [Best Breweries on Seneca Lake](/best-breweries-on-seneca-lake/)
 
@@ -55,13 +54,13 @@ So grab your walking shoes (and maybe a flashlight), because New York family tra
 
 ## New York Family Wineries
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 <div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-20a9543" id="new-york-family-glamping-rv" data-block-id="20a9543"><style>.stk-20a9543 .stk-block-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important;}</style>
 
 ## New York Family Glamping/RV
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 - [Relaxing Sites for Glamping in Upstate New York](/glamping-upstate-new-york/)
 
@@ -69,7 +68,7 @@ So grab your walking shoes (and maybe a flashlight), because New York family tra
 
 ## New York Family-Friendly Haunted Places
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 - [Best Towns for Halloween to Visit With Your Family](/best-towns-for-halloween/)
 
@@ -79,7 +78,7 @@ So grab your walking shoes (and maybe a flashlight), because New York family tra
 
 ## New York Holiday-Themed Family Travel
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 - [Best Christmas Hotels in NYC](/best-christmas-hotels-in-nyc/)
 
@@ -87,7 +86,7 @@ So grab your walking shoes (and maybe a flashlight), because New York family tra
 
 ## New York Family Travel Videos
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jkwAbXJ2Rs0?si=oxymF85tvmRPjLt-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

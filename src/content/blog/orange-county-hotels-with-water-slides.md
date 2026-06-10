@@ -19,7 +19,7 @@ If your kids judge a hotel by the size of its water slide (and honestly, who can
 
 ## 🌊 Quick Comparison Table
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure><table class="has-fixed-layout"><thead><tr><th>Hotel</th><th>Location</th><th>Water Slide Type</th><th>Best For</th></tr></thead><tbody><tr><td>Hyatt Regency Newport Beach</td><td>Newport Beach</td><td>Multiple slides &amp; lagoon-style pool</td><td>Coastal staycation</td></tr><tr><td>Anaheim Resort Suites</td><td>Anaheim</td><td>Pirate-themed splash zone</td><td>Budget families</td></tr><tr><td>Howard Johnson Anaheim</td><td>Anaheim</td><td>Castaway Cove water playground</td><td>Disneyland visitors</td></tr><tr><td>Courtyard Anaheim Theme Park Entrance</td><td>Anaheim</td><td>Surfside Waterpark with slides</td><td>Walking distance to Disneyland</td></tr><tr><td>Renaissance ClubSport Aliso Viejo</td><td>Aliso Viejo</td><td>Outdoor slide</td><td>Active families</td></tr><tr><td>Hyatt Regency Huntington Beach</td><td>Huntington Beach</td><td>Slyders Water Playground</td><td>Beachfront luxury</td></tr><tr><td>Disneyland Hotel</td><td>Anaheim</td><td>Monorail-themed slides</td><td>Disney immersion</td></tr><tr><td>Pixar Place Hotel</td><td>Anaheim</td><td>Rooftop pool with slide</td><td>Pixar fans</td></tr><tr><td>Disney’s Grand Californian Hotel &amp; Spa</td><td>Anaheim</td><td>Redwood-themed slide</td><td>Luxury Disney stay</td></tr><tr><td>Great Wolf Lodge</td><td>Garden Grove</td><td>Indoor water park</td><td>Year-round fun</td></tr><tr><td>Hyatt Regency Irvine</td><td>Irvine</td><td>Family-friendly pool with slide</td><td>Central OC location</td></tr></tbody></table></figure>
 
@@ -27,7 +27,7 @@ If your kids judge a hotel by the size of its water slide (and honestly, who can
 
 ## 🏖️ Hotel Spotlights
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-44de834d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Hyatt-Regency-Newport-Beach.jpg"><img src="/images/Hyatt-Regency-Newport-Beach.jpg" alt="hyatt regency newport beach" /></a></figure></div>
 

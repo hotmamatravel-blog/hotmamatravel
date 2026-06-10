@@ -21,24 +21,22 @@ Not sure where to go next, but you have the travel itch? **We all do!&nbsp;**And
 
 Feel free to browse around by geography by clicking the cards below. **If you have any questions at all, we are very responsive and social**. Feel free to comment on a blog post and follow us on social media!
 
-<div class="wp-block-uagb-container uagb-block-9f6c1d1f alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-container uagb-block-b330dab9">
+
+
 <figure><a href="/united-states/"><img src="/images/United-States.jpg" alt="United States Travel Card" /></a></figure>
 </div>
 
-<div class="wp-block-uagb-container uagb-block-a6183c93">
+
 <figure><a href="/mexico-family-travel/"><img src="/images/Mexico.jpg" alt="Mexico Travel Card" /></a></figure>
 </div>
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-f4530baf alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-container uagb-block-114fe0f2">
+
+
 <figure><a href="/canada-family-travel/"><img src="/images/Canada-Travel-Card.jpg" alt="Canada family travel" /></a></figure>
 </div>
 
-<div class="wp-block-uagb-container uagb-block-56a7a102">
+
 <figure><a href="/europe-family-travel/"><img src="/images/Europe.jpg" alt="Europe Travel Card" /></a></figure>
 </div>
-</div></div>
 
 <figure><a href="/caribbean-family-travel/"><img src="/images/Caribbean.jpg" alt="Caribbean Travel Card" /></a></figure>

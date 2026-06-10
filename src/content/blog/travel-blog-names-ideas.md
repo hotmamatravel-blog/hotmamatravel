@@ -43,11 +43,9 @@ As an example, here is a short list of lucrative travel blog niches off the top 
 
 **Disclaimer**: Links in this page are meant to help you find relevant information easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Amazon, HostGator). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-55fa2363-ec32-4715-b00d-06d4b1ee0981">
-
 ## How to come up with a Blog Name?
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -81,11 +79,9 @@ The purpose here was to show you just how easy and affordable the process can be
 
 [Click here to easily check if your domain name is available](/go/hostgator-domain-search/)
 
-<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-8030cc2f-52ec-4c0a-98d7-69b994ea8938">
-
 ## Travel Blog Name Ideas + Strategy
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -165,11 +161,9 @@ A name like "Adventure on a Budget", for example, will instantly give your reade
 
 This is obviously a good strategy for monetizing your travel blog. And these are precisely the kinds of things you **need to be thinking about** before committing blood, sweat, and tears to building your new successful website.
 
-<div class="wp-block-uagb-advanced-heading" id="uagb-adv-heading-3edb25c8-872b-4427-9d3b-fdc5782f4c6e">
-
 ## That's a Wrap!
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -191,9 +185,9 @@ This may all sound overwhelming, but **you can totally do it** with some passion
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined" id="uagb-section-790711f7-499a-4147-b5b3-e87b949353f7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <div class="wp-block-image"><figure class="alignleft"><img src="/images/how-to-pick-good-name-travel-blog-200x300.jpg" alt="Travel blog name ideas: How to pick a good name for your new Travel Blog" /></figure></div>
-</div></section>
+

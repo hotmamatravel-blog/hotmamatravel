@@ -29,17 +29,13 @@ View this post as a Google Web Story here: [Things to do in Las Vegas with Teens
 
 ## Things To Do In Las Vegas With Teens
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 **Here's what's in this article**:
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-15695731"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 
-<div class="wp-block-uagb-advanced-heading uagb-block-5b418b57" id="uagb-adv-heading-29242aba-8b3c-4c65-acbc-72756caae550">
 
 ### [Las Vegas Shows for Teens](#las-vegas-shows-teens)
-
-</div>
 
 - Piff the Magic Dragon
 
@@ -51,11 +47,7 @@ View this post as a Google Web Story here: [Things to do in Las Vegas with Teens
 
 - Mystere
 
-<div class="wp-block-uagb-advanced-heading uagb-block-5e21da54" id="uagb-adv-heading-8710af7a-2e7d-4737-a86e-792062c29c0b">
-
 ### [Las Vegas Museums &amp; Exhibits for Teens](#las-vegas-museums-exhibits-teens)
-
-</div>
 
 - Real Bodies at Bally's
 
@@ -63,11 +55,7 @@ View this post as a Google Web Story here: [Things to do in Las Vegas with Teens
 
 - Zak Bagan's Haunted Museum
 
-<div class="wp-block-uagb-advanced-heading uagb-block-9e0f394e" id="uagb-adv-heading-0e09090a-1260-4e22-b0de-3d27720c4888">
-
 ### [Unique Las Vegas Attractions for Teens](#unique-las-vegas-attractions-teens)
-
-</div>
 
 - Voodoo Zipline
 
@@ -79,13 +67,13 @@ View this post as a Google Web Story here: [Things to do in Las Vegas with Teens
 
 - Big Apple Coaster &amp; Arcade
 
-</div></section>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-24950f9 ugb-main-block"><style>.ugb-24950f9 .ugb-heading__title{text-align:center}.ugb-24950f9 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-24950f9 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Las Vegas Shows for Teens
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Las Vegas is known for world-class entertainment, and it would be a sin not to catch a show while you are in town. There are a ton of amazing [**shows in Las Vegas for teens**](/best-las-vegas-shows-for-teens/) specifically. Although I put together an extensive post showcasing [**21 of the best family shows in Vegas**](/las-vegas-shows-for-kids/), here are five that I feel will be particularly interesting for your teen.
 
@@ -143,7 +131,7 @@ I was personally obsessed with this show as a teenager, which is why I know your
 
 ## Las Vegas Museums &amp; Exhibits for Teens
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Vegas is more than just casinos, as you know. There are a lot of really cool and, dare I say, educational attractions in Sin City. Yes, Las Vegas is home to many museums and exhibits. Those listed below will be particularly interesting to your teen.
 
@@ -187,7 +175,7 @@ Now you get the chance to experience all that is spooky right here in Las Vegas!
 
 ## Unique Las Vegas Attractions for Teens
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Las Vegas is a giant playground for the young and old. Teens especially will find many of the attractions perfect for their thrill-seeking, high-adrenaline needs.
 
@@ -257,11 +245,11 @@ For help planning the ultimate [**Las Vegas family vacation**](/family-friendly-
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="las-vegas-with-teens" data-essb-pin-description="Las Vegas with teens? Yep—it’s totally a thing! 🎰👟 Skip the slots and discover the real Vegas fun for families with older kids. From thrill rides and epic VR experiences to insta-worthy spots and foodie adventures, this guide covers all the coolest things to do in Las Vegas with teenagers. Because let’s face it—if your teen isn’t entertained, nobody is. 😅 Check out the full list on HotMamaTravel.com and make your next Vegas trip a win for the whole fam! #FamilyTravelWithATwist
 
 #LasVegasWithTeens #FamilyTravel #VegasVacation #TravelWithTeens #FamilyFunInVegas #TeenTravel #VegasWithKids #HotMamaTravel #VegasTravelGuide"><a href="/images/Best-Things-To-Do-With-Teen-In-Las-Vegas.jpg"><img src="/images/Best-Things-To-Do-With-Teen-In-Las-Vegas-200x300.jpg" alt="Best Things to do in Las Vegas with Teens" /></a></figure>
-</div></div>
+

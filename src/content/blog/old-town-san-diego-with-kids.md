@@ -17,13 +17,10 @@ Although there are said to be plenty of ghosts, this is no ghost town. There is 
 
 **Here's what's in this article**:
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ee9867e0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-cabe2d63" id="uagb-adv-heading-29242aba-8b3c-4c65-acbc-72756caae550">
 
 ### Unique area attractions
 
 &nbsp;
-</div>
 
 - [Toby’s Candle and Soap Shop](#tobys-candle-soap-shop)
 
@@ -41,12 +38,9 @@ Although there are said to be plenty of ghosts, this is no ghost town. There is 
 
 - [Old Town Most Haunted](#old-town-most-haunted)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-98bf1252" id="uagb-adv-heading-0e09090a-1260-4e22-b0de-3d27720c4888">
-
 ### Historic sites
 
 &nbsp;
-</div>
 
 - [The Historic State Park](#historic-state-park-san-diego)
 
@@ -74,12 +68,9 @@ Although there are said to be plenty of ghosts, this is no ghost town. There is 
 
 - [Robinson-Rose House](#robinson-rose-house)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-6cbbebd1" id="uagb-adv-heading-8710af7a-2e7d-4737-a86e-792062c29c0b">
-
 ### Family restaurants
 
 &nbsp;
-</div>
 
 - [Casa De Reyes](#casa-de-reyes-old-town-san-diego)
 
@@ -95,29 +86,23 @@ Although there are said to be plenty of ghosts, this is no ghost town. There is 
 
 - [Fred's Mexican Cafe](#freds-mexican-cafe)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-8fd5689a" id="uagb-adv-heading-92036814-fc90-405b-b0e0-dfeff9e2d3d6">
-
 ### Where to stay
 
 &nbsp;
-</div>
 
 - [Hacienda Hotel](#hacienda-hotel-old-town-san-diego)
 
 - [Cosmopolitan Hotel](#cosompolitan-hotel-old-town-san-diego)
 
-</div></section>
+
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
-
-<div class="wp-block-uagb-advanced-heading uagb-block-77a66697" id="uagb-adv-heading-a2533bf4-e499-4467-8550-70702b312cfb">
 
 ## Kid-friendly Things to do in Old Town San Diego
 
 &nbsp;
-</div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a90ca56d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="tobys-candle-soap-shop-old-town-san-diego"><img src="/images/kid-activity-tobys-candle-soap-shop-old-town-san-diego.jpg" alt="" /></figure>
 
 #### **[Toby’s Candle and Soap Shop](/go/tobys-candle-soap-shop-old-town-san-diego-ca/)**
@@ -130,9 +115,9 @@ Not only can you buy some lovely candles and soaps here at Toby’s, you can eve
 
 [See photos, reviews &amp; more](/go/tobys-candle-soap-shop-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7ea85789"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="fiesta-de-reyes-attractions-in-old-town-san-diego"><img src="/images/fiesta-de-reyes-live-music.jpg" alt="" /></figure>
 
 #### **[Fiesta de Reyes](/go/fiesta-de-reyes-old-town-san-diego-ca/)**
@@ -143,9 +128,9 @@ All day there is live music and dancing going on in the plaza. It makes for a ce
 
 [See photos, reviews &amp; more](/go/fiesta-de-reyes-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-41bc3a89"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Old Town Trolley Tours](/go/old-town-trolley-tours-old-san-diego-ca/)**
 
@@ -155,9 +140,9 @@ This is a great way to see all the historic sites and attractions in Old Town Sa
 
 [See photos, reviews &amp; more](/go/old-town-trolley-tours-old-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6ec64a2e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="bazaar-del-mundo-old-town-san-diego-shops"><img src="/images/bazaar-el-mundo-old-town-san-diego.jpg" alt="" /></figure>
 
 #### **[Bazaar Del Mundo](/go/bazaar-del-mundo-old-town-san-diego-ca/)**
@@ -168,9 +153,9 @@ Wander through the narrow streets in search for unique, cultural and sometimes b
 
 [See photos, reviews &amp; more](/go/bazaar-del-mundo-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e158f1db"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="cousins-candy-shop-old-town-san-diego-shops"><img src="/images/IMG_6187-1024x685.jpg" alt="cousins candy shop in old town san diego" /></figure>
 
 #### **[Cousin’s Candy Shop](/go/cousins-candy-shop-old-town-san-diego-ca/)**
@@ -181,9 +166,9 @@ If Mama gets her tequila, then it is only reasonable for the kids to get their c
 
 [See photos, reviews &amp; more](/go/cousins-candy-shop-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0209fdfa"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="racine-laramie-tobacconist-old-town-san-diego-shops"><img src="/images/racine-laramie-cigar-shop-old-town-san-diego.jpg" alt="" /></figure>
 
 #### **[Racine &amp; Laramie Tobacconist](/go/racine-laramie-tobacco-shop-old-town-san-diego-ca/)**
@@ -194,9 +179,9 @@ This authentic 1846 cigar shop houses one my favorite adult treats! Cigars!!! Th
 
 [See photos, reviews &amp; more](/go/racine-laramie-tobacco-shop-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f9cbd78d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="sheriffs-museum-san-diego-kid-friendly-attractions"><img src="/images/old-town-san-diego-kids-sheriffs-museum.jpg" alt="" /></figure>
 
 #### **[Sheriff’s Museum](/go/sheriffs-museum-old-town-san-diego-ca/)**
@@ -207,9 +192,9 @@ Free admission, the Sheriff’s Museum San Diego is a fun and interactive experi
 
 [See photos, reviews &amp; more](/go/sheriffs-museum-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d3b3f390"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Old Town Most Haunted](/go/old-towns-most-haunted-san-diego-ca/)**
 
@@ -219,16 +204,13 @@ As Old Town San Diego is the birthplace of California, it has a lot of history a
 
 [See photos, reviews &amp; more](/go/old-towns-most-haunted-san-diego-ca/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-f6731fdb" id="uagb-adv-heading-29c61934-027c-4936-9008-560bedf28c0f">
 
 ## Historic Sites in Old Town San Diego
 
 &nbsp;
-</div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-438a9350"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="historic-state-park-kid-friendly-things-to-do-in-old-town-san-diego"><img src="/images/historic-state-park-old-town-san-diego.jpg" alt="" /></figure>
 
 #### **[The Historic State Park](/go/old-town-san-diego-state-historic-park-san-diego-ca/)**
@@ -239,9 +221,9 @@ Located within the main plaza, this park was established in 1846 when the Americ
 
 [See photos, reviews &amp; more](/go/old-town-san-diego-state-historic-park-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-14a1472f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="whaley--house-things-to-do-in-old-town-san-diego"><img src="/images/Whaley-House-San-Diego-CA-header.png" alt="Front of Whaley House Old Town San Diego" /></figure>
 
 #### **[Whaley House](/go/whaley-house-museum-san-diego-ca/)**
@@ -252,9 +234,9 @@ According to Travel Channel, Whaley House is the most haunted place in America. 
 
 [See photos, reviews &amp; more](/go/whaley-house-museum-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3a65dcdb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="el-campo-santo-cemetery-things-to-do-in-old-town-san-diego"><img src="/images/el-campo-santo-old-town-sd-cemetery.jpg" alt="" /></figure>
 
 #### **[El Campo Santo Cemetery](/go/el-campo-santo-cemetery-old-town-san-diego-ca/)**
@@ -265,9 +247,9 @@ This quaint old cemetery was established in 1849. Located in the heart of Old To
 
 [See photos, reviews &amp; more](/go/el-campo-santo-cemetery-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-edc93020"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Mormon Battalion Historic Site](/go/mormon-battalion-old-town-san-diego-ca/)**
 
@@ -277,9 +259,9 @@ This historic site commemorates the members of the Mormon Battalion that joined 
 
 [See photos, reviews &amp; more](/go/mormon-battalion-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7fc1f4ef"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="heritage-county-park-things-to-do-in-old-town-san-diego"><img src="/images/old-town-victorians-heritage-park.jpg" alt="" /></figure>
 
 #### **[Heritage County Park](/go/heritage-county-park-old-town-san-diego-ca/)**
@@ -292,9 +274,9 @@ This is a collection of restored Victorian Homes as well as the city’s first s
 
 [See photos, reviews &amp; more](/go/heritage-county-park-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-732eddb4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[The Seeley Sable](/go/seeley-stables-old-town-san-diego-ca/)**
 
@@ -304,9 +286,9 @@ After Albert Seeley bought the Bandini property in 1869, turning it into the Cos
 
 [See photos, reviews &amp; more](/go/seeley-stables-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-60c94bd8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[La Casa de Estudillo](/go/casa-de-estudillo-old-town-san-diego-ca/)**
 
@@ -316,9 +298,9 @@ This historic 12 room adobe home was built in 1827 and housed one of the state�
 
 [See photos, reviews &amp; more](/go/casa-de-estudillo-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0024cfae"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="mason-street-school-house-old-town-san-diego-with-kids"><img src="/images/mason-street-school-old-town-san-diego.jpg" alt="" /></figure>
 
 #### **[Mason Street Schoolhouse](/go/mason-street-schoolhouse-old-town-san-diego-ca/)**
@@ -329,9 +311,9 @@ This cute single room schoolhouse was San Diego’s first public school built in
 
 [See photos, reviews &amp; more](/go/mason-street-schoolhouse-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4ac0b1aa"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="first-san-diego-courthouse-things-to-do-in-old-town-san-diego"><img src="/images/first-court-house-old-town-san-diego.jpg" alt="" /></figure>
 
 #### **[First San Diego Courthouse](/go/first-san-diego-courthouse-old-town-san-diego-ca/)**
@@ -342,9 +324,9 @@ Built by the Mormon Battalion in 1849, this was originally supposed to be the to
 
 [See photos, reviews &amp; more](/go/first-san-diego-courthouse-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2dcaa6f7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[La Casa de Machado y Stewart](/go/casa-de-machado-y-stewart-old-town-san-diego-ca/)**
 
@@ -354,9 +336,9 @@ This 1830 adobe building was home to corporal Jose Manuel Machado. Machado and h
 
 [See photos, reviews &amp; more](/go/casa-de-machado-y-stewart-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-359a854f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="wells-fargo-museum-things-to-do-in-old-town-san-diego"><img src="/images/wells-fargo-museum-old-town-san-diego.jpg" alt="" /></figure>
 
 #### **[Wells Fargo Museum](/go/wells-fargo-museum-old-town-san-diego-ca/)**
@@ -367,9 +349,9 @@ Housed inside the historic Colorado House, the Wells Fargo Museum was originally
 
 [See photos, reviews &amp; more](/go/wells-fargo-museum-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ec6ddb3a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[McCoy House](/go/mccoy-house-museum-old-town-san-diego-ca/)**
 
@@ -379,9 +361,9 @@ Built in 1869 this is the reconstructed former home of Old Town’s sheriff&nbsp
 
 [See photos, reviews &amp; more](/go/mccoy-house-museum-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-17c0f5b8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Robinson-Rose House](/go/old-town-san-diego-state-historic-park-san-diego-ca/)**
 
@@ -391,16 +373,13 @@ Built in 1853, this home function as Mr. Robinson’s grand residence and law of
 
 [See photos, reviews &amp; more](/go/old-town-san-diego-state-historic-park-san-diego-ca/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-66077d19" id="uagb-adv-heading-46afa4df-b1d0-4b0e-a279-85f69e8963fd">
 
 ## Family-Friendly Old Town San Diego Restaurants
 
 &nbsp;
-</div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bdf4aab3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="casa-de-reyes-best-restaurants-in-old-town-san-diego"><img src="/images/casa-de-reyes-restaurant.jpg" alt="Casa de Reyes restaurant" /></figure>
 
 #### **[Casa De Reyes](/go/casa-de-reyes-old-town-san-diego-ca/)**
@@ -413,9 +392,9 @@ This is one of the best restaurants in Old Town San Diego and my favorite to hit
 
 [See photos, reviews &amp; more](/go/casa-de-reyes-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e978981f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="old-town-mexican-cafe-restaurants-in-old-town-san-diego"><img src="/images/old-town-san-diego-family-restaurant-mexican-cafe.jpg" alt="" /></figure>
 
 #### **[Old Town Mexican Café](/go/old-town-mexican-cafe-old-town-san-diego-ca/)**
@@ -426,9 +405,9 @@ In operation for over 30 years, this restaurant in Old Town San Diego has great 
 
 [See photos, reviews &amp; more](/go/old-town-mexican-cafe-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-cfcee290"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="el-agave-restaurants-in-old-town-san-diego"><img src="/images/El-Agave-2-1024x667.jpg" alt="Old Town San Diego Restaurant El Agave" /></figure>
 
 #### **[El Agave](/go/el-agave-old-town-san-diego-ca/)**
@@ -439,9 +418,9 @@ A little off the beaten path, but still walk-able from the plaza, this restauran
 
 [See photos, reviews &amp; more](/go/el-agave-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-19641a00"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="barra-barra-restaurants-in-old-town-san-diego"><img src="/images/Barra-6-1024x682.jpg" alt="barra barra saloon in old town san diego" /></figure>
 
 #### **[Barra Barra](/go/barra-barra-saloon-old-town-san-diego-ca/)**
@@ -452,9 +431,9 @@ Same executive chef as Casa De Reyes, but here the menu takes a more complex twi
 
 [See photos, reviews &amp; more](/go/barra-barra-saloon-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a951c3d2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="tequila-factory-restaurants-in-old-town-san-diego"><img src="/images/Tequila-factory-1.jpg" alt="Tequila-factory-old-town-san-diego" /></figure>
 
 #### **[Tequila Factory](/go/tequila-factory-old-town-san-diego-ca/)**
@@ -467,9 +446,9 @@ It is a rare trip to Old San Diego that we don’t eat at the Tequila Factory. W
 
 [See photos, reviews &amp; more](/go/tequila-factory-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4101c0ae"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="restaurants-in-old-town-san-diego"><img src="/images/ohungrys-old-town-san-diego.jpg" alt="" /></figure>
 
 #### **O[’Hungry’s](/go/ohungrys-old-town-san-diego-ca/)**
@@ -480,9 +459,9 @@ This casual farmhouse-style restaurant is usually our first stop when we arrive 
 
 [See photos, reviews &amp; more](/go/ohungrys-old-town-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f1b65b0b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="freds-mexican-cafe-restaurants-in-old-town-san-diego"><img src="/images/freds-mexican-cafe.jpg" alt="" /></figure>
 
 #### [Fred's Mexican Cafe](/go/freds-mexican-cafe-old-town-san-diego-ca/)
@@ -493,16 +472,13 @@ This local Mexican Old Town San Diego restaurant has a very colorful and funky a
 
 [See photos, reviews &amp; more](/go/freds-mexican-cafe-old-town-san-diego-ca/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-a7ebf25a" id="uagb-adv-heading-7da8a8e6-cf50-4b9e-926f-c4183b91ca32">
 
 ## Best hotels in Old Town San Diego
 
 &nbsp;
-</div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f20384a3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="hacienda-hotel-old-town-san-diego"><img src="/images/family-hotel-best-western-plus-hacienda-hotel-old-town-san-diego.jpg" alt="" /></figure>
 
 #### **[Hacienda Hotel](/go/hacienda-hotel-san-diego-old-town/)**
@@ -513,9 +489,9 @@ This charming hotel is in the heart of Old Town and walking distance from all th
 
 [See photos, reviews &amp; more](/go/hacienda-hotel-san-diego-old-town/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-80129102"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="cosmopolitan-hotel-old-town-san-diego"><img src="/images/cosmopolitan-hotel-old-town-san-diego.jpg" alt="" /></figure>
 
 #### **[Cosmopolitan Hotel](/go/cosmopolitan-hotel-san-diego/)**
@@ -526,22 +502,19 @@ Built in 1827 as a private residence, this boutique hotel has only 10 rooms whic
 
 [See photos, reviews &amp; more](/go/cosmopolitan-hotel-san-diego/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-5761cde2" id="uagb-adv-heading-cbcd4939-b721-418d-9615-446f46e5ec6d">
 
 ## That's a Wrap!
 
 &nbsp;
-</div>
 
 Hopefully this post gave you lots of ideas for what to do in Old Town San Diego. After writing this post I am about to throw the kids in the minivan and head to Old Town San Diego. I am thirsty for some tequila and I am thirsty for a good time! What better place to take the kids than a town all about celebrating family, culture and history! Come celebrate life with me in Old Town San Diego with kids!
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3de9b005"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="things-do-in-old-town-san-diego-with-kids"><img src="/images/family-travel-guide-old-town-san-diego-ca-200x300.jpg" alt="" /></figure>
-</div></section>
+

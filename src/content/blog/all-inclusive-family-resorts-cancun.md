@@ -17,7 +17,7 @@ Cancun, Mexico is a top destination for families looking to escape the hustle an
 
 In this blog post, we will explore the best family-friendly all-inclusive resorts in Cancun, Mexico, so you can make an informed decision and plan the ultimate family getaway. From water parks and kids' clubs to gourmet dining and luxury accommodations, these resorts have it all. So pack your bags, grab the kids, and get ready for a vacation of a lifetime!
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a902ca26"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="beach-palace-all-inclusive-family-resort-cancun"><a href="/images/beach-palace-all-inclusive-family-resort-cancun.jpg"><img src="/images/beach-palace-all-inclusive-family-resort-cancun.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Palace Resorts</figcaption></figure>
 
 #### **[Beach Palace](/go/beach-palace-cancun/)**
@@ -38,9 +38,9 @@ This family-friendly all-inclusive Cancun offers nightly entertainment for the w
 
 [See photos, reviews &amp; more](/go/beach-palace-cancun/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ae494411"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="the-grand-moon-palace-all-inclusive-family-resort-cancun"><a href="/images/the-grand-moon-palace-all-inclusive-family-resort-cancun.jpg"><img src="/images/the-grand-moon-palace-all-inclusive-family-resort-cancun.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Palace Resorts</figcaption></figure>
 
 #### [Moon Palace The Grand - Cancun](/go/moon-palace-the-grand-cancun/)
@@ -61,9 +61,9 @@ The Moon Palace The Grand offers nightly entertainment for the whole family, inc
 
 [See photos, reviews &amp; more](/go/moon-palace-the-grand-cancun/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a88ccb65"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="moon-palace-all-inclusive-family-resort-cancun"><a href="/images/moon-palace-all-inclusive-family-resort-cancun.jpg"><img src="/images/moon-palace-all-inclusive-family-resort-cancun.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Palace Resorts</figcaption></figure>
 
 #### [Moon Palace Cancun](/go/moon-palace-cancun/)
@@ -84,9 +84,9 @@ At the Moon Palace, families can enjoy nightly entertainment, including live mus
 
 [See photos, reviews &amp; more](/go/moon-palace-cancun/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-fbe50ef3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="royal-uno-all-inclusive-family-resort-cancun"><a href="/images/royal-uno-all-inclusive-family-resort-cancun.jpg"><img src="/images/royal-uno-all-inclusive-family-resort-cancun.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Royal Uno</figcaption></figure>
 
 #### [Royal Uno](/go/royal-uno-cancun/)
@@ -105,9 +105,9 @@ Don't forget the water activities the resort has to offer. Royal Uno has several
 
 [See photos, reviews &amp; more](/go/royal-uno-cancun/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-dea12232"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="hard-rock-all-inclusive-family-resort-cancun"><a href="/images/hard-rock-all-inclusive-family-resort-cancun.jpg"><img src="/images/hard-rock-all-inclusive-family-resort-cancun.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Hard Rock </figcaption></figure>
 
 #### [Hard Rock Cancun](/go/hard-rock-cancun/)
@@ -126,9 +126,9 @@ Hard Rock Cancun offers a variety of entertainment options that are suitable for
 
 [See photos, reviews &amp; more](/go/hard-rock-cancun/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d1e13f13"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="riu-all-inclusive-family-resort-cancun"><a href="/images/riu-all-inclusive-family-resort-cancun.jpg"><img src="/images/riu-all-inclusive-family-resort-cancun.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Riu</figcaption></figure>
 
 #### [Hotel Riu](/go/hotel-riu-cancun/)
@@ -145,9 +145,9 @@ Hotel Riu Cancun offers nightly entertainment for the whole family, including li
 
 [See photos, reviews &amp; more](/go/hotel-riu-cancun/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4d4c1a52"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="iberostar-all-inclusive-family-resort-cancun"><a href="/images/iberostar-all-inclusive-family-resort-cancun.jpg"><img src="/images/iberostar-all-inclusive-family-resort-cancun.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Iberostar</figcaption></figure>
 
 #### [Iberostar Selection Cancun](/go/iberostar-selection-cancun/)
@@ -168,9 +168,9 @@ Other amenities at Iberostar Selection Cancun include a fitness center, spa, and
 
 [See photos, reviews &amp; more](/go/iberostar-selection-cancun/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c45f5c73"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="finest-playa-mujeres-all-inclusive-family-resort-cancun"><a href="/images/finest-playa-mujeres-all-inclusive-family-resort-cancun.jpg"><img src="/images/finest-playa-mujeres-all-inclusive-family-resort-cancun.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Finest</figcaption></figure>
 
 #### [Finest Playa Mujeres](/go/finest-resorts-playa-mujeres-cancun/)
@@ -193,9 +193,9 @@ There are 12 pools including the children's pool, water park, and playground. Ad
 
 [See photos, reviews &amp; more](/go/finest-resorts-playa-mujeres-cancun/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5f23830b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="occidental-tucancun-all-inclusive-family-resort-cancun"><a href="/images/occidental-tucancun-all-inclusive-family-resort-cancun.jpg"><img src="/images/occidental-tucancun-all-inclusive-family-resort-cancun.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Occidental Tucancun</figcaption></figure>
 
 #### [Occidental Tucancun](/go/barcelo-occidental-tucancun-cacun/)
@@ -212,9 +212,9 @@ Families will love the range of kid-friendly activities and amenities at the Occ
 
 [See photos, reviews &amp; more](/go/barcelo-occidental-tucancun-cacun/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7b3b0777"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="occidental-costa-cancun-all-inclusive-family-resort-cancun"><a href="/images/occidental-costa-cancun-all-inclusive-family-resort-cancun.jpg"><img src="/images/occidental-costa-cancun-all-inclusive-family-resort-cancun.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Occidental Costa Cancun</figcaption></figure>
 
 #### [Occidental Costa Cancun](/go/barcelo-occidental-costa-cancun/)
@@ -231,9 +231,9 @@ At Occidental Costa Cancun you love all the activities and amenities available f
 
 [See photos, reviews &amp; more](/go/barcelo-occidental-costa-cancun/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-61dbd244"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="grand-palladium-costa-mujeres-cancun-all-inclusive-family-resort"><a href="/images/grand-palladium-costa-mujeres-cancun-all-inclusive-family-resort.jpg"><img src="/images/grand-palladium-costa-mujeres-cancun-all-inclusive-family-resort.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Grand Palladium Costa Mujeres</figcaption></figure>
 
 #### **[Grand Palladium Costa Mujeres Resort &amp; Spa](/go/grand-palladium-costa-mujeres-cancun/)**
@@ -252,13 +252,13 @@ Next to the main pool is the kid's pool, which is designed lagoon-style, so that
 
 [See photos, reviews &amp; more](/go/grand-palladium-costa-mujeres-cancun/)
 
-</div></section>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-ba40084 ugb-main-block"><style>.ugb-ba40084 .ugb-heading__title{text-align:center}.ugb-ba40084 .ugb-heading__bottom-line{background-color:#cf2e2e !important;width:127px !important;margin-left:auto !important;margin-right:auto !important}.ugb-ba40084 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Cancun offers a plethora of all-inclusive resorts that cater to families looking for a fun and relaxing vacation. Royal Uno Resort, Hard Rock Cancun, Iberostar Selection Cancun, Finest Playa Mujeres, Occidental Tucancun, and Occidental Costa Cancun are all great options that offer a range of amenities and activities suitable for families.
 
@@ -270,9 +270,9 @@ For more family-friendly all-inclusive resorts see more destinations.
 
 - [All-Inclusive Family Resorts Cabo San Lucas](/best-cabo-san-lucas-all-inclusive-family-resorts/)
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1971a624"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="Best-All-Inclusive-Family-Resorts-Cancun"><a href="/images/Best-All-Inclusive-Family-Resorts-Cancun.jpg"><img src="/images/Best-All-Inclusive-Family-Resorts-Cancun-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

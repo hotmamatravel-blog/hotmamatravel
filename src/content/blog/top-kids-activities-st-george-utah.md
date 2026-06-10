@@ -15,12 +15,10 @@ St. George is a beautiful city located in Southwestern Utah. It’s 4 ½ hours s
 
 **Here's what's in this article**...
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5f78d2b8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-825ec6eb">
 
 ### Outdoor activities
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -31,14 +29,11 @@ St. George is a beautiful city located in Southwestern Utah. It’s 4 ½ hours s
 - [Sand Hollow State Park](#sand-hollow-state-park)
 
 <div class="wp-block-columns">
-<div class="wp-block-column" style="flex-basis:100%"></div>
-</div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-1c781bc7">
+<div class="wp-block-column" style="flex-basis:100%">
 
 ### Indoor Attractions
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -48,19 +43,17 @@ St. George is a beautiful city located in Southwestern Utah. It’s 4 ½ hours s
 - [Sand Hollow Aquatic Center](#sand-hollow-aquatic-center)
 - [Judd’s General Store](#judds-general-store)
 
-</div></section>
+
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<div class="wp-block-uagb-advanced-heading uagb-block-9b0052cf">
-
 ## Kid-friendly Outdoor Activities in St. George
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1c3760fc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="snow-canyon-state-park-utah"><a href="/images/snow-canyon-state-park-utah.jpg"><img src="/images/snow-canyon-state-park-utah.jpg" alt="" /></a></figure>
 
 #### **[Snow Canyon State Park](/go/snow-canyon-state-park-utah/)**
@@ -69,9 +62,9 @@ People have been coming to hike in St. George for decades. Zion National Park an
 
 [See photos, reviews &amp; more](/go/snow-canyon-state-park-utah/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e0976ab8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Thunder-junction-all-abilities-park-utah"><a href="/images/Thunder-junction-all-abilities-park-utah.jpg"><img src="/images/Thunder-junction-all-abilities-park-utah.jpg" alt="" /></a></figure>
 
 #### **[Thunder Junction All-Abilities Park](/go/thunder-junction-all-abilities-park-utah/)**
@@ -80,9 +73,9 @@ When it comes to playgrounds, swing sets, and woodchips, most city parks are ver
 
 [See photos, reviews &amp; more](/go/thunder-junction-all-abilities-park-utah/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b8260c66"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="red-hills-desert-garden-st-george-utah"><a href="/images/red-hills-desert-garden-st-george-utah.jpg"><img src="/images/red-hills-desert-garden-st-george-utah.jpg" alt="" /></a></figure>
 
 #### **[Red Hills Desert Garden](/go/red-hills-desert-garden-utah/)**
@@ -91,9 +84,9 @@ Desert plants are some of the most interesting plants in the world, and the Red 
 
 [See photos, reviews &amp; more](/go/red-hills-desert-garden-utah/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f38910a8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="pioneer-park-st-george-utah"><a href="/images/pioneer-park-st-george-utah.jpg"><img src="/images/pioneer-park-st-george-utah.jpg" alt="" /></a></figure>
 
 #### **[Pioneer Park](/go/pioneer-park-utah/)**
@@ -102,9 +95,9 @@ A rock climber’s dream spot! Pioneer Park is a 52-acre community park that all
 
 [See photos, reviews &amp; more](/go/pioneer-park-utah/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-631f3455"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="sand-hollow-state-park-utah"><a href="/images/sand-hollow-state-park-utah.jpg"><img src="/images/sand-hollow-state-park-utah.jpg" alt="" /></a></figure>
 
 #### **[Sand Hollow State Park](/go/sand-hollow-state-park-utah/)**
@@ -113,17 +106,15 @@ While some of the already-mentioned activities are catered to younger children, 
 
 [See photos, reviews &amp; more](/go/sand-hollow-state-park-utah/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-515c52c3">
 
 ## Kid-friendly Indoor Activities in St. George
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0c702ba3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="fiesta-fun-family-center-st-george-utah"><a href="/images/fiesta-fun-family-center-st-george-utah.jpg"><img src="/images/fiesta-fun-family-center-st-george-utah.jpg" alt="" /></a></figure>
 
 #### [Fiesta Fun Family Center](/go/fiesta-fun-utah/)
@@ -132,9 +123,9 @@ Bowling, mini golf, laser tag, go karts, bumper boats, batting cages, and an arc
 
 [See photos, reviews &amp; more](/go/fiesta-fun-utah/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4f1f56b2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="dinosaur-discovery-center-st-george-utah"><a href="/images/dinosaur-discovery-center-st-george-utah.jpg"><img src="/images/dinosaur-discovery-center-st-george-utah.jpg" alt="" /></a></figure>
 
 #### **[St. George Dinosaur Discovery Site](/go/st-george-dinosaur-discovery-site-utah/)**
@@ -143,9 +134,9 @@ Like many museums, the dinosaur discovery site allows kids to learn. Most little
 
 [See photos, reviews &amp; more](/go/st-george-dinosaur-discovery-site-utah/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2058f086"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[St. George Children’s Museum](/go/st-george-childrens-museum-utah/)**
 
@@ -153,9 +144,9 @@ The museum’s motto is, “Discover, Imagine, and Create!” It features 12 exh
 
 [See photos, reviews &amp; more](/go/st-george-childrens-museum-utah/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a8c0907f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Sand-Hollow-Aquatic-Center-utah"><a href="/images/Sand-Hollow-Aquatic-Center-utah.jpg"><img src="/images/Sand-Hollow-Aquatic-Center-utah.jpg" alt="" /></a></figure>
 
 #### **[Sand Hollow Aquatic Center](/go/sand-hollow-aquatic-center-utah/)**
@@ -164,9 +155,9 @@ This indoor aquatic center is [made for kids](https://justdadswinning.com/top-10
 
 [See photos, reviews &amp; more](/go/sand-hollow-aquatic-center-utah/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6a3993cf"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Judd’s General Store](/go/judds-store-st-george-utah/)**
 
@@ -174,13 +165,11 @@ My favorite soda shop out there! Take your kids here and let them pick out a fun
 
 [See photos, reviews &amp; more](/go/judds-store-st-george-utah/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-de001102">
 
 ## That's a Wrap!
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -190,12 +179,12 @@ For More Utah family travel tips, see guide on [mind-blowing glamping sites in Z
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-83d13a9c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <div id="Top-10-activities-for-kids-st-george-utah" class="wp-block-image"><figure class="alignleft size-medium"><a href="/images/Top-10-activities-for-kids-st-george-utah.jpg"><img src="/images/Top-10-activities-for-kids-st-george-utah-200x300.jpg" alt="" /></a></figure></div>
-</div></section>
+
 
 **Author Bio**
 ![](https://lh4.googleusercontent.com/p6uI7z04J28OW7AZmr-9wypp8KmgGdS-McaEyWlHhx8MNQ63jML_uOcI2LPM8wQZfQTwDqNwjfHRDKnoBc6X8rJ-iRElwDiu_lB4HakkWaOXiV44X5BNwQHDFwy5FiGu0_7pZHBA)

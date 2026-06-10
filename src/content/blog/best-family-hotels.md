@@ -12,20 +12,15 @@ wpSlug: "best-family-hotels"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 This is your guide to the best family hotels around the world! Here is a curated selection of hotels featuring family-friendly amenities, complimentary breakfasts, convenient locations, and much more. These hotels are your home away from home, ensuring every stay is a memorable chapter in your family's travel tale. No matter where you and your family is going, I have your back!
 
 <div class="wp-block-ugb-heading ugb-heading ugb-3f3cd66 ugb-main-block"><style>.ugb-3f3cd66 .ugb-heading__title{text-align:center}.ugb-3f3cd66 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-3f3cd66 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Best Family Hotels In United States
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-818e436a">
+<div class="ugb-heading__bottom-line">
 
 ### Arizona
-
-</div>
 
 - [Best Western Plus Inn of Williams – Family Trip to the Grand Canyon with kids](/grand-canyon-with-kids-williams-az/)
 
@@ -33,11 +28,7 @@ This is your guide to the best family hotels around the world! Here is a curated
 
 - [Family review of historical Arizona Inn in Tucson, AZ](/arizona-inn-with-kids/)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-5d55aef6">
-
 ### California
-
-</div>
 
 - [Best Family Hotels Near LAX for an Amazing LA Vacation](/best-family-hotels-near-lax/)
 
@@ -57,11 +48,7 @@ This is your guide to the best family hotels around the world! Here is a curated
 
 - [7 Breathtaking Winery Hotels in Temecula you will Love](/best-winery-hotels-temecula-ca/)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-a3842681">
-
 ### Nevada
-
-</div>
 
 - [5 Best Family Hotels in Las Vegas for kids](/best-family-hotels-in-las-vegas/)
 
@@ -69,11 +56,7 @@ This is your guide to the best family hotels around the world! Here is a curated
 
 - [Rare Las Vegas Hotels with Balcony Rooms](/las-vegas-hotels-balcony-rooms/)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-ebf80ac1">
-
 ### Florida
-
-</div>
 
 - [5 Best Family Hotels in Destin, Florida with kids](/5-best-family-hotels-in-destin-fl/)
 
@@ -85,11 +68,7 @@ This is your guide to the best family hotels around the world! Here is a curated
 
 - [Family review of Tradewinds Island Grand in St Pete Beach, FL](/tradewinds-island-grand/)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-43c8f920">
-
 ### Texas
-
-</div>
 
 - [Family review of Best Western Plus Austin City Hotel](/best-western-plus-austin-city-hotel/)
 
@@ -97,51 +76,27 @@ This is your guide to the best family hotels around the world! Here is a curated
 
 - [Family review of Best Western Plus Sunset Suites Riverwalk in San Antonio](/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-4163d43b">
-
 ### South Carolina
-
-</div>
 
 - [5 Best Family Hotels in Charleston, SC with kids](/best-family-hotels-charleston-south-carolina/)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-58f306d9">
-
 ### Massachusetts
-
-</div>
 
 - [5 Best Family Hotels in Boston, MA with kids](/best-family-hotels-boston/)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-76c3744b">
-
 ### New York
-
-</div>
 
 - [Ultimate Festive Family Getaways: Best Christmas Hotels in NYC](/best-christmas-hotels-in-nyc/)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-57351edf">
-
 ### Tennessee
-
-</div>
 
 - [Hotel Spotlight: Family review of Best Western Plus Belle Meade Inn &amp; Suites in Nashville](/staying-best-western-plus-belle-meade-inn-suites/)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-e86d13dd">
-
 ### Pennsylvania
-
-</div>
 
 - [Hotel Spotlight: Family review of Best Western Plus Philadelphia Convention Center Hotel](/best-western-plus-philadelphia-convention-center-hotel/)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-631e4bae">
-
 ### Misc
-
-</div>
 
 - [5 Reasons Best Western® Hotels &amp; Resorts is our “go-to” hotel chain for family travel](/best-western-family-travel/)
 
@@ -149,7 +104,7 @@ This is your guide to the best family hotels around the world! Here is a curated
 
 ## Best Family Hotel In Canada
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [5 Best Family Hotels in Vancouver, BC with kids 2023](/best-family-hotels-vancouver-bc/)
 
@@ -157,7 +112,7 @@ This is your guide to the best family hotels around the world! Here is a curated
 
 ## Best Family Hotels In Europe
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [The Best Kid-friendly Hotels in Malta](/best-kid-friendly-hotels-in-malta/)
 
@@ -165,7 +120,7 @@ This is your guide to the best family hotels around the world! Here is a curated
 
 ## Best Family Hotels In Mexico
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [Best All-Inclusive Family Resorts Cancun You Have to See 2023](/all-inclusive-family-resorts-cancun/)
 
@@ -175,7 +130,7 @@ This is your guide to the best family hotels around the world! Here is a curated
 
 ## Best Family-Friendly Haunted Hotels
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [Most Family-Friendly Haunted Hotels in Savannah](/haunted-hotels-savannah/)
 

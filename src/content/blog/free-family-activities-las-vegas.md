@@ -31,7 +31,7 @@ View this post as a Google Web Story: [**Free Things to do in Las Vegas with Kid
 
 ## Free Family Activities Las Vegas
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure id="las-vegas-strip-free-attractions"><a href="/images/las-vegas-teens.jpg"><img src="/images/las-vegas-teens.jpg" alt="free family activities las vegas strip" /></a></figure>
 
@@ -127,8 +127,6 @@ You will enjoy interactive experiences where you can personalize your very own H
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="m-and-m-las-vegas"><figure><a href="/images/m-and-m-las-vegas.jpg"><img src="/images/m-and-m-las-vegas.jpg" alt="M&amp;M Store Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
-
 ### [M&amp;M Store](/go/m-and-m-world-las-vegas/)
 
 3785 S Las Vegas Blvd, Las Vegas, NV 89109
@@ -160,12 +158,9 @@ Las Vegas casinos are never short of amazing, but for something truly beautiful 
 
 <div class="wp-block-uagb-image uagb-block-5d6a9d33 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="free-circus-acts-circus-circus-las-vegas"><figure><a href="/images/free-circus-acts-circus-circus-las-vegas.jpg"><img src="/images/free-circus-acts-circus-circus-las-vegas.jpg" alt="Free Circus Acts at Circus Circus in Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-8a75e006">
-
 ### [Circus Acts at CIRCUS CIRCUS](/go/circus-circus-show-las-vegas/)
 
 2880 S Las Vegas Blvd, Las Vegas, NV 89109
-</div>
 
 Circus-loving families experience jaw-dropping thrills and laughter that fills the air with the free circus acts at [Circus Circus](https://www.circuscircus.com/), home to the World's Largest Permanent Circus! Trust me, it's a spectacle that'll leave you wide-eyed and grinning from ear to ear.
 
@@ -177,12 +172,9 @@ From high-flying trapeze artists to hilarious clowns, there's something for ever
 
 <div class="wp-block-uagb-image uagb-block-a3809fff wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="free-fremont-street-experience-las-vegas"><figure><a href="/images/free-fremont-street-experience-las-vegas.jpg"><img src="/images/free-fremont-street-experience-las-vegas.jpg" alt="free fremont street experience in Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-53341c66">
-
 ### [Fremont Street Experience](/go/fremont-street-experience-las-vegas/)
 
 Fremont St, Las Vegas, NV 89101
-</div>
 
 If you're on the lookout for some unforgettable fun that won't put a dent in your wallet, look no further than the iconic [Fremont Street Experience](https://vegasexperience.com/) in Las Vegas! Trust me, it's a free attraction that's packed with excitement and perfect for the whole family.
 
@@ -196,12 +188,9 @@ And let's not forget about the iconic Viva Vision light show, a nightly extravag
 
 <div class="wp-block-uagb-image uagb-block-a70dcdb2 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/linq-hitel-vegas-family-restaurants.jpg"><img src="/images/linq-hitel-vegas-family-restaurants.jpg" alt="Linq Promenade Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-6b31b209">
-
 ### [LINQ Promenade](/go/linq-hotel-las-vegas/)
 
 3535 S Las Vegas Blvd, Las Vegas, NV 89109
-</div>
 
 Get ready to stroll down the [Linq Promenade](https://www.caesars.com/linq/things-to-do/shopping), where excitement, entertainment, and unforgettable moments await, all for free! It's a pedestrian-friendly paradise where you can explore, shop, dine, and play to your heart's content. And the best part? Admission is absolutely free, so you can enjoy all the action without breaking the bank.
 
@@ -213,12 +202,9 @@ The Linq Promenade is home to some seriously cool attractions that are sure to w
 
 <div class="wp-block-uagb-image uagb-block-458c4166 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="free-stranger-things-store-las-vegas"><figure><a href="/images/free-stranger-things-store-las-vegas.jpg"><img src="/images/free-stranger-things-store-las-vegas.jpg" alt="Free Stranger Things Store Family Attraction Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-26d7609e">
-
 ### [Stranger Things Store](https://strangerthings-store.com/) (This Location is Permanently Closed)
 
 3785 S Las Vegas Blvd Suite #102, Las Vegas, NV 89109
-</div>
 
 Are you ready to step into the upside-down world of Hawkins, Indiana? Well, get ready because the Stranger Things store in Las Vegas is calling your name! It's not just a store, it's a totally tubular free attraction that families won't want to miss.
 
@@ -234,12 +220,9 @@ The interactive elements, from themed photo booths and virtual reality experienc
 
 <div class="wp-block-uagb-image uagb-block-56dca140 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="free-wildlife-habitat-flamingo-las-vegas"><figure><a href="/images/free-wildlife-habitat-flamingo-las-vegas.jpg"><img src="/images/free-wildlife-habitat-flamingo-las-vegas.jpg" alt="free flamingo wildlife habitat in Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-55e912cc">
-
 ### [Flamingo Wildlife Habitat](/go/wildlife-habitat-flamingo-las-vegas/)
 
 3555 S Las Vegas Blvd, Las Vegas, NV 89109
-</div>
 
 Immerse yourselves in a tranquil oasis at the free Flamingo Wildlife Habitat! It's a hidden gem that's sure to delight visitors of all ages, and families will absolutely love it. Lush greenery, winding pathways, and serene water features make for a tropical backdrop to the towering hotels and neon lights. It's a peaceful retreat right in the heart of the city, offering families a chance to connect with nature and unwind amidst the excitement of Las Vegas.
 
@@ -253,12 +236,9 @@ But perhaps the best part about the Flamingo Wildlife Habitat is that it's compl
 
 <div class="wp-block-uagb-image uagb-block-0085c290 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="free-photo-op-las-vegas-sign"><figure><a href="/free-family-activities-las-vegas/"><img src="/images/free-photo-op-las-vegas-sign.jpg" alt="Free photo ops at the Las Vegas sign" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-576f0671">
-
 ### [Visit the Las Vegas Sign](/go/las-vegas-sign/)
 
 5100 Las Vegas Blvd S, Las Vegas, NV 89119
-</div>
 
 Visiting the famous "Welcome to Fabulous Las Vegas" sign is the ultimate free family activity in Sin City! Think about the sheer excitement of standing in front of one of the most iconic landmarks in the world. The "Welcome to Fabulous Las Vegas" sign is not just a sign, it's a symbol of all the glitz, glamour, and excitement that Las Vegas has to offer. It's totally free to visit, making it the perfect budget-friendly activity for families looking to capture some unforgettable memories.
 
@@ -304,11 +284,7 @@ If you need to know how to get to the Las Vegas sign, here are some simple direc
 
 [**See Photos, Reviews, &amp; More**](/go/las-vegas-sign/)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-4568dba2">
-
 ## That's A Wrap!
-
-<div class="uagb-separator"></div></div>
 
 As you can clearly see, there are many ways to have fun on a budget in [**Las Vegas with kids**](/las-vegas-with-kids/). We have outlined ten of our favorite free things to do in Las Vegas, but if you are willing to spend a buck or two, there are also a ton of other great, affordable activities for families in Las Vegas (under forty bucks or so).
 
@@ -316,9 +292,9 @@ With affordable nightly rates at four-star mega-resorts, [**amazing restaurants*
 
 Check out more of our great **[Vegas for kids guides](/family-friendly-vegas/), **as well as**[things to do in Nevada](/nevada-family-travel/).** Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6d2f0f2a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6d2f0f2a"><div class="uagb-section__overlay">
 
 **Like it? Pin it!**
 
 <figure id="best-free-family-activities-las-vegas"><a href="/images/best-free-family-activities-las-vegas.jpg"><img src="/images/best-free-family-activities-las-vegas-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

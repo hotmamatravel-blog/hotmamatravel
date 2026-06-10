@@ -26,7 +26,7 @@ In fact, I discovered that there are some really nice Las Vegas accommodations l
 
 ## Las Vegas Accommodations Large Family Group
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 There are actually quite a few benefits of staying somewhere off the Vegas strip if you desire a more low-key experience on your [**Vegas family vacation**](/las-vegas-with-kids/).
 
@@ -44,17 +44,13 @@ With that in mind, here are some **great places to stay near the Vegas Strip for
 
 ## Family Vacation Rentals in Vegas
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 There are several reputable websites, like [**VRBO**](/go/vrbo-las-vegas/), where you can search listings of homes, condos, and timeshares that are for rent in the Las Vegas area. In many cases, these accommodations can be found in beautiful family-friendly resorts with **[extravagant pools](/best-family-pools-in-vegas/)**, arcades, grocery stores, restaurants, and other conveniences for families. Some of these resorts don’t have gambling on site, which is nice for the kiddos, but you will still be just minutes away from all the action in numerous nearby casinos (e.g., if you can score a babysitter for a few hours!).
 
 When you’re planning a Vegas trip with a big crew, **[Whimstay is a total game-change](/go/whimstay-vacation-rentals/)r**. It gives you access to the *same vacation rentals you see on Airbnb and Vrbo*, but often at **way better prices**, which matters when you’re booking something spacious enough for the whole group. Think multiple bedrooms, room to spread out, and no awkward hotel-room Tetris. It’s especially clutch for last-minute Vegas trips, with instant booking and serious savings, so you can spend less on where you sleep and more on shows, food, and making memories together.
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
-
 ### **Rent a Timeshare**
-
-</div>
 
 If you’ve ever been to Las Vegas before, you have probably been asked to go on a timeshare tour by either your resort or one of those kiosks on the strip. That’s because Las Vegas is home to one of the [largest collections of timeshare resorts in the world](https://www.linkedin.com/pulse/vacation-ownership-timeshare-market-size-growing-6amnc/), and they are some of the most luxurious as well.
 
@@ -66,11 +62,7 @@ For example, located within high-end Las Vegas resorts like [Hilton Grand Vacati
 
 Each unit also usually comes with a kitchenette or full kitchen, providing families with the benefit of being able to prepare their own food on occasion, which can help keep costs down and allows kids to get some nutrition on their vacation. Many units even come with washer/dryers which are great bonuses to have when your kids inevitably spill something on their clothes.
 
-<div class="wp-block-uagb-advanced-heading uagb-block-01b637db">
-
 ### **Rent a Home or Condo**
-
-</div>
 
 If you browse around, you can sometimes find a really good deal for large accommodations in Vegas on sites like Vacation Rentals by Owner (**[Vrbo.com](/go/vrbo/)**)&nbsp;to rent various apartments, homes, townhomes, condos and even penthouse suites in and around the Las Vegas Strip.
 
@@ -82,11 +74,7 @@ Here is a screen grab of a quick search I did on Vrbo looking for big family acc
 
 Best of all, I noticed that many of these listings **do not** have exorbitant [**resort fees**](/las-vegas-hotels-without-resort-fees/). Sign me up for that!
 
-<div class="wp-block-uagb-advanced-heading uagb-block-33d5687b">
-
 ### **Buy a Timeshare**
-
-</div>
 
 As mentioned above, timeshares are awesome accommodations you can rent for a one-time, inexpensive vacation. If you find yourselves returning year after year to the City of Lights, however, I recommend looking into a timeshare there.
 
@@ -98,7 +86,7 @@ Since timeshare resorts are super family-friendly, most do not have on-site gamb
 
 ## Las Vegas Family Suites
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 For families seeking accommodations in a Las Vegas Strip hotel complete with a family suite, look no further. Your ideal solution lies in exploring my comprehensive post dedicated to family suites in Las Vegas. Whether you're in search of spacious layouts, kid-friendly amenities, or convenient access to the vibrant attractions of the Strip, my post provides valuable insights tailored to your needs. Discover the perfect blend of comfort and convenience as you delve into the array of options available, ensuring a memorable stay for the whole family.
 
@@ -108,9 +96,9 @@ For more help planning your next Vegas vacation, check out our [**Las Vegas Fami
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families. It is a lot of fun.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="best-las-vegas-accommodations-large-family-group"><a href="/images/best-las-vegas-accommodations-large-family-group.jpg"><img src="/images/best-las-vegas-accommodations-large-family-group-200x300.jpg" alt="Best Las Vegas Accommodations Large Family Group" /></a></figure>
-</div></div>
+

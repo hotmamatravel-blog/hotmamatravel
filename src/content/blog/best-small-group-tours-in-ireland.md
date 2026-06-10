@@ -20,16 +20,13 @@ These journeys offer an immersive and personalized experience that caters to all
 
 ## Best For Kids Ireland Small Group Tours
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-f5d27852 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/exoticca-ireland-scotland-15-days-small-group-tours-in-ireland.jpg"><img src="/images/exoticca-ireland-scotland-15-days-small-group-tours-in-ireland.jpg" alt="private family tour in ireland" /></a></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-bc1ce26b">
 
 ### 🍀[Private Family Tour of Dublin with Fun Activities for Kids](/go/family-tour-dublin-ireland/)
 
 *Rosotravel Ireland*
-</div>
 
 Turn Dublin into your family’s very own storybook adventure. This private, guided walking tour brings Irish history to life with magical tales, playful activities, and just the right amount of mischief to keep kids completely hooked.
 
@@ -83,12 +80,9 @@ If you’re looking for a Dublin experience that keeps the kids entertained *and
 
 **[See Prices, Dates, Reviews, &amp; More](/go/family-tour-dublin-ireland/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-6ee6f0ad">
-
 ### 🍀[Croke Park Kellogg's Skyline Tour and GAA Museum](/go/croke-park-skyline-tour-gaa-museum-dublin-ireland/)
 
 *Croke Park Tour and GAA Museum*
-</div>
 
 Ready to level up your Dublin adventure? This is not your average stadium tour—this is a sky-high experience your family will be talking about long after the trip ends.
 
@@ -152,12 +146,9 @@ If your family loves a little adventure mixed with jaw-dropping views… this on
 
 **[See Prices, Dates, Reviews, &amp; More](/go/croke-park-skyline-tour-gaa-museum-dublin-ireland/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-4ad31238">
-
 ### 🍀[Greenan Farm, Museums &amp; Maze with Animal Feeding](/go/greenan-farms-wicklow-ireland/)
 
 *Greenan Maze*
-</div>
 
 If your kids need space to run wild (and you need a break from city crowds), this countryside escape is your golden ticket.
 
@@ -229,12 +220,9 @@ If your kids love animals, fresh air, and a little adventure… this is the kind
 
 **[See Prices, Dates, Reviews, &amp; More](/go/greenan-farms-wicklow-ireland/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-758d4656">
-
 ### 🍀[Doolin Cave Tour](/go/doolin-cave-tour-ireland/)
 
 *Doolin Cave*
-</div>
 
 If your family is up for a little adventure (and by little, we mean climbing down into the earth), this is one of Ireland’s coolest hidden gems.
 
@@ -296,12 +284,9 @@ If your family loves a little adventure, a little science, and a lot of “whoa�
 
 **[See Prices, Dates, Reviews, &amp; More](/go/doolin-cave-tour-ireland/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-a88a40cf">
-
 ### 🍀[Delicious Donut Adventure in Downtown Dublin](/go/donut-adventure-dublin-ireland/)
 
 *Underground Donut Tour*
-</div>
 
 If your family runs on sugar and good vibes… this tour is about to be your favorite memory in Dublin.
 
@@ -363,16 +348,13 @@ If you want a fun, low-stress way to explore Dublin that keeps everyone smiling 
 
 ## Best Day-Trip Small Group Tours In Ireland
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-3623fcc4 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/exoticca-ireland-scotland-england-small-group-tours-in-ireland.jpg"><img src="/images/exoticca-ireland-scotland-england-small-group-tours-in-ireland.jpg" alt="cliffs of moher small group Ireland tour" /></a></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-26845350">
 
 ### 🍀[Full-Day Cliffs of Moher &amp; Burren Guided Tour](/go/cliffs-of-moher-burran-tour-ireland/)
 
 Wild Atlantic Way Day Tours
-</div>
 
 If you want that “this is Ireland?!” moment… this is it.
 
@@ -436,12 +418,9 @@ If you’re only doing *one* big scenic experience in Ireland… this is the one
 
 **[See Prices, Dates, Reviews, &amp; More](/go/cliffs-of-moher-burran-tour-ireland/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-eae1c75b">
-
 ### 🍀[Highlands Tour with Glenveagh Castle](/go/donegal-highland-tour-glenveagh-castle-ireland/)
 
 Blue Badge Tours Ltd
-</div>
 
 If you’re craving the Ireland that feels untouched, wild, and straight out of a movie… this is the tour.
 
@@ -501,12 +480,9 @@ If you want to experience Ireland’s wild side—the one most tourists never se
 
 **[See Photos, Reviews, &amp; More](/go/donegal-highland-tour-glenveagh-castle-ireland/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-f1b864bf">
-
 ### 🍀[Connemara, Kylemore Abbey &amp; Sheepdog Show](/go/connemara-kylemore-abbey-sheep-dog-show-ireland/)
 
 Lally Tours
-</div>
 
 Escape the city and explore the wild beauty of western Ireland on this full-day, small-group tour from Galway. Perfect for families, it combines jaw-dropping landscapes, historic sites, and hands-on Irish culture.
 
@@ -562,12 +538,9 @@ This is more than a tour, it’s a full Connemara adventure your family will tal
 
 **[See Photos, Reviews, &amp; More](/go/connemara-kylemore-abbey-sheep-dog-show-ireland/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-e1314478">
-
 ### 🍀[Hill of Tara Trim Castle Boyne Valley Celtic sites](/go/hill-of-tara-trim-castle-boyne-valley-sites-ireland/)
 
 Gateway To Ireland Tours
-</div>
 
 Step back in time and explore Ireland’s rich heritage on this private, small-group tour from Dublin. Perfect for families or friends, discover prehistoric sites, Celtic legends, and Norman castles, all in a single unforgettable day.
 
@@ -621,12 +594,9 @@ This tour combines history, legends, and scenic landscapes, giving your family a
 
 **[See Photos, Reviews, &amp; More](/go/hill-of-tara-trim-castle-boyne-valley-sites-ireland/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-45126be0">
-
 ### 🍀[Giants Causeway, Dark Hedges, Dunluce &amp; Belfast Tour](/go/gaint-causeway-dark-hedges-dunluce-belfast-tour-ireland/)
 
 Finn McCools Tours
-</div>
 
 Discover Northern Ireland’s stunning coastline on this full-day tour from Dublin. Perfect for families or friends, explore iconic landmarks, dramatic cliffs, and charming towns while learning about the myths, legends, and history of the Emerald Isle.
 
@@ -684,16 +654,13 @@ This tour combines stunning natural beauty, castles, and city exploration into a
 
 ## Multi-Day Small Group Tours In Ireland
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-e4edb339 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Blarney-Castle-Small-Group-Tour.jpg"><img src="/images/Blarney-Castle-Small-Group-Tour.jpg" alt="Blarney Castle Small Group Ireland Tour " /></a></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-1da492d5">
 
 ### 🍀[Blarney Castle, Kilkenny &amp; Irish Whiskey 3-Day Tour](/go/3-day-kilkenny-west-cork-tour-ireland/)
 
 *Rabbie's Small Group Tours Ireland*
-</div>
 
 Unearth Ireland’s most unspoilt corners on this immersive 3-day tour from Dublin. Perfect for families or small groups, explore historic castles, charming villages, breathtaking beaches, and iconic distilleries while soaking in the culture and stories of Ireland.
 
@@ -753,12 +720,9 @@ This 3-day journey blends history, culture, and stunning landscapes, making it p
 
 **[See Photos, Reviews &amp; More](/go/3-day-kilkenny-west-cork-tour-ireland/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-fe2cff3d">
-
 ### 🍀[3-Day Cork, Ring of Kerry, Cliffs of Moher Tour](/go/3-day-cork-ring-of-kerry-cliff-of-moher-tour-ireland/)
 
 *Railtours Ireland First Class*
-</div>
 
 Discover Ireland’s stunning South West on this 3-day guided tour from Dublin. Perfect for small groups, explore castles, historic ports, iconic coastlines, and charming towns, all by train and road for a relaxed and scenic experience.
 
@@ -814,12 +778,9 @@ This 3-day journey combines Ireland’s history, natural wonders, and lively tow
 
 **[See Photos, Dates, Reviews &amp; More](/go/3-day-cork-ring-of-kerry-cliff-of-moher-tour-ireland/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-c1d25104">
-
 ### [🍀Ireland's North Atlantic Coast 5-Day Tour from Dublin](/go/5-day-northern-ireland-atlantic-coast-tour-ireland/)
 
 *Rabbie's Small Group Tours Ireland*
-</div>
 
 Discover Ireland’s wild beauty, rich history, and coastal charm on this 5-day small-group tour from Dublin. Perfect for those seeking authentic experiences, dramatic landscapes, and a mix of culture, nature, and history.
 
@@ -881,12 +842,9 @@ This 5-day tour is perfect for travelers who want to see Ireland’s best coasta
 
 **[See Photos, Dates, Reviews &amp; More](/go/5-day-northern-ireland-atlantic-coast-tour-ireland/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-46d59bfb">
-
 ### 🍀[5-Day Tour to the Southwest with Accommodation](/go/5-day-southwest-tour-ireland/)
 
 *Rabbie's Small Group Tours Ireland*
-</div>
 
 Experience Ireland’s stunning landscapes, rich history, and coastal charm on this 5-day small-group tour from Dublin. From rugged cliffs and Atlantic beaches to charming villages and iconic castles, this tour brings the Emerald Isle to life.
 
@@ -960,9 +918,9 @@ In the heart of the Emerald Isle, small group tours in Ireland for families offe
 
 So, whether you're strolling the cobbled streets of Dublin, taking in the dramatic vistas of the Cliffs of Moher, or immersing yourself in the magic of Galway, Ireland's small group tours promise a family adventure like no other.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="best-small-group-tours-in-ireland-for-families"><a href="/images/best-small-group-tours-in-ireland-for-families.jpg"><img src="/images/best-small-group-tours-in-ireland-for-families-200x300.jpg" alt="" /></a></figure>
-</div></div>
+

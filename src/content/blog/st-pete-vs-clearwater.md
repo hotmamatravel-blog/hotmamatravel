@@ -20,7 +20,7 @@ As a family, we go visit Florida every year and love this area off the Gulf Coas
 
 ## What Clearwater Beach Offers Families
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 If your dream family getaway involves staying right on a bustling beach with tons of activities at your fingertips, Clearwater Beach might be your jam. Clearwater Beach, Florida, is a dreamy family destination that has everything you need for the ultimate beach vacation with kids. Think soft, sugar-white sand, calm turquoise waters, and endless sunshine, basically a kid-friendly paradise!
 
@@ -56,7 +56,7 @@ Clearwater Beach is lively, family-friendly, and full of action. This is a busie
 
 ## What St. Pete Beach Offers Families
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 St. Pete offers a more laid-back, artsy vibe that’s perfect for families who want a mix of beach time and cultural experiences. I'll be honest, we love **[visiting St. Pete Beach](/st-pete-beach-with-kids/)**, and we visit every year.
 
@@ -90,9 +90,9 @@ St. Pete Beach or Clearwater Beach, which one is best for your family? Honestly,
 
 To plan the ultimate Florida vacation, check out our other[Florida family travel guides](/florida-family-holidays/).
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="st-pete-vs-clearwater"><a href="/images/ST.-PETE-VS-CLEARWATER-1.jpg"><img src="/images/ST.-PETE-VS-CLEARWATER-1-200x300.jpg" alt="St. Pete vs. Clearwater which beach is best for families?" /></a></figure>
-</div></div>
+

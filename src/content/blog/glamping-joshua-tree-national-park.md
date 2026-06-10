@@ -15,7 +15,7 @@ Joshua Tree, California is a National Park with a rugged desert landscape and Dr
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, AirBnB). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-58c8c60e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="joshua-tree-glamping-hicksville-trailer-palace"><a href="/images/joshua-tree-glamping-hicksville-trailer-palace.jpg"><img src="/images/joshua-tree-glamping-hicksville-trailer-palace.jpg" alt="" /></a></figure>
 
 #### [Hicksville Trailer Palace](/go/hicksville-trailer-palace-joshua-tree-ca/)
@@ -30,9 +30,9 @@ For trailers without a private bathroom, there is a communal shower room and toi
 
 [See photos, reviews &amp; more](/go/hicksville-trailer-palace-joshua-tree-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-61bffefb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/joshua-tree-glamping-castle-house-estate.jpg" alt="" /></figure>
 
 #### [The Castle House Estate](/go/castle-house-estate-joshua-tree-ca/)
@@ -45,9 +45,9 @@ Featured on HGTV as the “ultimate glamping experience, The Castle House Estate
 
 [See photos, reviews &amp; more](/go/castle-house-estate-joshua-tree-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d81e318d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/joshua-tree-glamping-joshua-tree-acres.jpeg" alt="" /></figure>
 
 #### [Joshua Tree Acres](https://www.joshuatreeacres.com/)
@@ -60,9 +60,9 @@ Joshua Tree Acres is a charming spot to glamp in Joshua Tree. Started by three f
 
 [See photos, reviews &amp; more](https://www.joshuatreeacres.com/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-792dc39e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/joshua-tree-glamping-joshuas-treehouses.jpg" alt="" /></figure>
 
 #### [Joshua’s Treehouses](/go/joshuas-treehouses-glamping-joshua-tree-ca/)
@@ -75,9 +75,9 @@ Located on five acres of desert property, Joshua’s Treehouses offer six accomm
 
 [See photos, reviews &amp; more](/go/joshuas-treehouses-glamping-joshua-tree-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c8238229"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="autocamp-joshua-tree-glamping"><a href="/images/autocamp-joshua-tree-glamping.jpg"><img src="/images/autocamp-joshua-tree-glamping.jpg" alt="" /></a></figure>
 
 #### [Autocamp Joshua Tree](/go/autocamp-glamping-joshua-tree/)
@@ -96,13 +96,9 @@ AutoCamp Joshua Tree's family-friendly atmosphere extends to its communal spaces
 
 [See photos, reviews &amp; more](/go/autocamp-glamping-joshua-tree/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-8670f6d0">
 
 ## That's a Wrap!
-
-<div class="uagb-separator"></div></div>
 
 The time is now to break out and enjoy the outdoors. Take in the desert landscape as you soak up the sun or hike the many trails around Joshua Tree, all the while maintaining many of the comforts of resort amenities. Glamping is the way to travel these days and what better way to connect with the desert than with Joshua Tree glamping?
 
@@ -140,9 +136,9 @@ For more nearby options, check out our article on the [best glamping sites near 
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-415b368b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure><img src="/images/5-best-glamping-joshua-tree-200x300.jpg" alt="" /></figure>
-</div></section>
+

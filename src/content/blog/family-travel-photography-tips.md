@@ -16,7 +16,7 @@ When raising children, the days are long, but the years are short— that's why 
 
 Taking pictures along the way can create a visual reminder of the experience and a family heirloom to look at as the years go by. Here's how to capture spectacular photos when traveling with kids.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bf69abf8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="burst-mode-photo-tips-travel-kids"><a href="/family-travel-photography-tips/"><img src="/images/capturing-kids-photos.jpg" alt="" /></a></figure>
 
 #### Use Burst Mode
@@ -25,9 +25,9 @@ Newton's First Law of Motion states, "a body in motion stays in motion." The sam
 
 When you use burst mode on your camera, you'll capture multiple frames of your children as they run around and play. Not only will the photos be less blurry than trying to capture a single shot, but you'll also have the option to choose your favorite. If your smartphone doesn't have a burst mode, consider taking a video so you can screenshot your favorite moment later.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a45165e6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="light-editing-photo-tips-travel-kids"><a href="/family-travel-photography-tips/"><img src="/images/capturing-kids-photos-1.jpg" alt="" /></a></figure>
 
 #### Plan for Light Editing
@@ -36,9 +36,9 @@ While the basics of photo composition apply (light, stability, etc.), take each 
 
 Rather than waiting for the perfect shot, capture each moment and use technology to make minor adjustments.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2fa8df19"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="level-photo-tips-travel-kids"><a href="/family-travel-photography-tips/"><img src="/images/capturing-kids-photos-3.jpg" alt="" /></a></figure>
 
 #### Get on Their Level
@@ -47,9 +47,9 @@ A common mistake parents make when taking photos of children is angling downward
 
 Instead, get on their level, taking a knee or holding your smartphone at chest height. While playing with angles can be fun when you're trying to get scenery in the background, straight shots are better for capturing camera-facing shots.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d97a9c90"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="candid-shots-photo-tips-travel-kids"><a href="/family-travel-photography-tips/"><img src="/images/capturing-kids-photos-5.jpg" alt="" /></a></figure>
 
 #### Get Candid Shots
@@ -58,9 +58,9 @@ It's normal for parents to want posed, family-oriented photos while traveling. W
 
 Take some candid shots throughout your journey, not worrying about angles or expressions. Try to remain undetected while taking these to capture the true emotion and personality of your child. Again, you can always use editing software to take out the background noise or fix that smudge of ice cream on their face (unless you want it there, of course!)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f476095f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/family-travel-photography-tips/"><img src="/images/capturing-kids-photos-6.jpg" alt="" /></a></figure>
 
 #### Be an Entertainer
@@ -69,9 +69,9 @@ Travel can be challenging for everyone. If you're trying to get pictures on a pa
 
 Don't be afraid to get silly and make a fool of yourself to get your kids laughing for photos. You might find that this moment of silliness is a good mood booster for you as well.&nbsp;
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2f36e9df"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="rule-of-thirds-photo-tips-kids"><a href="/family-travel-photography-tips/"><img src="/images/capturing-kids-photos-2.jpg" alt="" /></a></figure>
 
 #### Use the Rule of Thirds
@@ -82,21 +82,19 @@ Consider using the rule of thirds when photographing your kids during travel adv
 
 By following these simple guidelines, you can capture high-quality, authentic, and memorable photos of your children while traveling. Don't forget to hop in a few of the photos yourself!
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-4c6b6345">
 
 ## That's A Wrap!
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
 Capturing those perfect family travel photos doesn't have to be hard with these simple steps. Just remember to relax, have fun and keep that ready for those amazing candid moments.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9c886dbb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="6-family-travel-photography-tips"><a href="/family-travel-photography-tips/"><img src="/images/family-travel-photography-tips-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

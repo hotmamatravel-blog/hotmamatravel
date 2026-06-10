@@ -17,7 +17,7 @@ If you are looking for a unique place to lose yourself in nature, but don’t wa
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c5d07b46"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="family-glamping-bay-area-ca-safari-west"><a href="/images/family-glamping-bay-area-ca-safari-west.jpg"><img src="/images/family-glamping-bay-area-ca-safari-west.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Safari West</figcaption></figure>
 
 #### [Safari West](/go/safari-west-glamping-bay-area-ca/)
@@ -32,9 +32,9 @@ What is awesome about these luxurious safari tents and cottages is that they are
 
 [See photos, reviews &amp; more](/go/safari-west-glamping-bay-area-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-74c1f40b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="glamping-bay-area-ca-autocamp-russian-river"><a href="/images/glamping-bay-area-ca-autocamp-russian-river.jpg"><img src="/images/glamping-bay-area-ca-autocamp-russian-river.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of AutoCamp Russian River</figcaption></figure>
 
 #### [AutoCamp Russian River](/go/autocamp-russian-river-glamping-bay-area-ca/)
@@ -55,9 +55,9 @@ The Premium Accessible Suites sleep up to three adults or two adults and two kid
 
 [See photos, reviews &amp; more](/go/autocamp-russian-river-glamping-bay-area-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1b559690"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="bay-area-glamping-mendocino-grove-ca"><a href="/images/bay-area-glamping-mendocino-grove-ca.jpg"><img src="/images/bay-area-glamping-mendocino-grove-ca.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Mendocino Grove</figcaption></figure>
 
 #### [Mendocino Grove](/go/mendocino-grove-glamping-bay-area-ca/)
@@ -74,9 +74,9 @@ The Family Tents are grouped together near the Meadow, where kids can play and d
 
 [See photos, reviews &amp; more](/go/mendocino-grove-glamping-bay-area-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-518372d7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="costanoa-lodge-camp-family-glamping-bay-area-ca"><a href="/images/costanoa-lodge-camp-family-glamping-bay-area-ca.jpg"><img src="/images/costanoa-lodge-camp-family-glamping-bay-area-ca.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Costanoa Lodge and Camp</figcaption></figure>
 
 #### [Costanoa Resort San Mateo](/go/costanoa-resort-glamping-bay-area-ca/)
@@ -91,9 +91,9 @@ There are a variety of accommodation options at Costanoa. There are the&nbsp;39 
 
 [See photos, reviews &amp; more](/go/costanoa-resort-glamping-bay-area-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-aa0e069c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="family-glamping-wildhaven-sonoma-ca"><a href="/images/family-glamping-wildhaven-sonoma-ca.jpg"><img src="/images/family-glamping-wildhaven-sonoma-ca.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Wildhaven Sonoma</figcaption></figure>
 
 #### [Wildhaven Sonoma](/go/wildhaven-sonoma-glamping-bay-area-ca/)
@@ -110,13 +110,9 @@ The Riverside Cabins are more secluded than the main tent area and the Premium T
 
 [See photos, reviews &amp; more](/go/wildhaven-sonoma-glamping-bay-area-ca/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-2a21b712">
 
 ## That's a Wrap!
-
-<div class="uagb-separator"></div></div>
 
 Ready to get out there and get glamping? With so many great options for glamping in the Bay Area, you may just have to try them all!
 
@@ -156,9 +152,9 @@ Have fun Glamping!
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f97cac23"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="glamping-bay-area-near-san-francisco-ca"><a href="/images/5-Best-glamping-bay-area-near-san-francisco-ca.jpg"><img src="/images/5-Best-glamping-bay-area-near-san-francisco-ca-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

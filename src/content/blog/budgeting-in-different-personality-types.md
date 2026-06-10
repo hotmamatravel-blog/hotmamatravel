@@ -12,14 +12,11 @@ wpSlug: "budgeting-in-different-personality-types"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 It is always interesting to analyze budgeting in different personality types because the way we deal with our finances reflects some other important character traits and greatly affects the quality of our life and how we travel.
 
 According to the MBTI theory of personality, there are 16 different types of people who can be grouped into four categories (sentinels, explorers, analysts, and diplomats) based on certain distinguishing characteristics. These differences are particularly evident in** the way each type handles money**.&nbsp;
 
 In this article, we’ll explain the budgeting habits of all personality types, so you can discover your best budgeting style and get back to more travel.&nbsp;
-
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e6c933f4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 
 #### Sentinels
 
@@ -31,10 +28,6 @@ Saving money gives them a sense of security, and they always have a fallback opt
 
 They plan for the future in terms of how to **protect themselves from the worst-case scenarios** and never in terms of how to make risky investments that have the potential to pay off in the long run.&nbsp;
 
-</div></section>
-
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9a5e3090"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-
 #### Explorers
 
 ISFP, ISTP, ESTP, and ESFP fall into the category of explorers. The spirit of adventure, an inquisitive mind, and creativity are characteristics that are shared by these types of personalities.&nbsp;
@@ -45,10 +38,6 @@ These individuals are **not preoccupied with wealth and status**. They don’t e
 
 Explorers are not frugal and generously spend money on experiences and anything else that enhances their quality of life. Because they **don't see money as having a value of its own**, they are impulsive investors and shoppers who are prone to making risky decisions.
 
-</div></section>
-
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0dbb9d78"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-
 #### Diplomats
 
 Diplomats include INFJs, ENFJs, INFPs, and ENFPs. These types are the least interested in financial matters. Their views of the world are idealistic, and the value they see in money is very arbitrary.
@@ -56,10 +45,6 @@ Diplomats include INFJs, ENFJs, INFPs, and ENFPs. These types are the least inte
  They find budgeting tedious, and they **frequently don't realize how much they are spending** until they have used up all of their funds. The irrational belief that these personality types can't earn much further discourages them from even trying to find ways to improve their financial situation.
 
 Of all the types, they would probably **benefit the most from using some kind of budgeting app or **[**pay stub platform**](https://paystub.org/), as they are rarely aware of how much money goes through their hands.
-
-</div></section>
-
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ebea461f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 
 #### Analysts
 
@@ -70,8 +55,6 @@ They frequently have no trouble making money and are well aware of the influence
 INTJs and ENTJs are more thoughtful and rational when dealing with their finances. They are capable of making meticulous plans for savings and expenses. Thanks to their intuition, they also often **make smart investments**.&nbsp;
 
 INTPs and ENTPs are more relaxed in their approach to budgeting. ENTPs **have a reputation for being big spenders**, and they rarely save money. They view investing as more important than saving, and they are not concerned about the future.
-
-</div></section>
 
 Budgeting in different personality types reflects all the core traits of each type. Every traveler has their unique personality traits, and these characteristics often manifest in their approach to budgeting.
 

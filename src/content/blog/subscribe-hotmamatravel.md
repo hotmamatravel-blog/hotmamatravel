@@ -10,7 +10,6 @@ wpSlug: "subscribe-hotmamatravel"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Do you want to travel more with your family? **Of course you do! ***That is why you are here, right!?*
 
 We are dedicated to providing fresh information and hot tips to make your next family vacation exciting, affordable and insanely memorable.

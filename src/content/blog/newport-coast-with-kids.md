@@ -24,7 +24,7 @@ Being a local, it’s a wonder I travel anywhere else! Without further ado, here
 
 ## Things To Do In Newport Beach With Kids
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure><img src="/images/fun-things-to-do-newport-coast-with-kids-orange-county.png" alt="Things to do with kids on Newport Coast OC" /></figure>
 
@@ -176,7 +176,7 @@ Newport Beach is an ideal location for whale watching year-round. From November 
 
 ## Our Favorite Family Restaurants in Newport Beach
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 ### [**The Old Spaghetti Factory**](/go/old-spaghetti-factory-newport-beach-ca/)
 
@@ -282,7 +282,7 @@ It’s the kind of spot where you can slow down, refuel, and enjoy that easy New
 
 ## Newport Beach Family Hotels &amp; Rentals
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-3672dc41 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Hyatt-Regency-Newport-Beach.jpg"><img src="/images/Hyatt-Regency-Newport-Beach.jpg" alt="hyatt regency newport beach family hotel" /></a></figure></div>
 
@@ -352,7 +352,7 @@ If you’re planning a trip, explore my **[California travel guides](/california
 
 Newport Coast is just the start—California family adventures are waiting.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
@@ -361,4 +361,4 @@ Like it? Pin it!
 Save this for your next California trip planning and get more family travel ideas at HotMamaTravel.com 🌴✨
 
 #NewportBeach #NewportCoast #OrangeCounty #CaliforniaWithKids #FamilyTravel #KidsActivities #BeachVacation #TravelWithKids #OCBeaches #CaliforniaTravel #FamilyVacation #TravelGuide #BeachDay #MomTravel #HotMamaTravel"><a href="/images/things-to-do-newport-coast-with-kids.jpg"><img src="/images/things-to-do-newport-coast-with-kids-200x300.jpg" alt="things to do in Newport Coast with kids" /></a></figure>
-</div></div>
+

@@ -22,146 +22,102 @@ Let's learn some more about why Turkey is attractive for global citizens as an o
 
 ## Requirements for Turkish Citizenship and Residency
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 According to the rules of citizenship of Turkey, anyone who has never been registered for a major crime or violation of the laws of the land of Turkey is eligible for citizenship application. The application is for the individual investor, spouse, and children under 18. Parents or adult children without independent sources of income are eligible for a $5,000 residency permit.
 
-<div class="wp-block-uagb-container uagb-block-5c0803f5 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
 ### Citizenship by Investment
 
-</div>
-
 Under this program, the applicant has to make a minimum investment of $400,000 in any government-certified real estate. The property can be of any kind, such as apartments, hotels, industrial properties, etc.
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-bee4534d alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-e363e800">
+
 
 ### Residency by Investment
 
-</div>
-
 For the people who are not ready to shift permanently to Turkey but want to be residents temporarily here, Turkey also offers a Residency by Investment program. Here also, the applicant, be it an individual or a family, can secure a long-term residency by investing a minimum amount of  **$250,000**. This way, they get to avail themselves of the opportunities of countries without being permanent.
 
-</div></div>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-00fc736 ugb-main-block"><style>.ugb-00fc736 .ugb-heading__title{text-align:center}.ugb-00fc736 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-00fc736 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Factors make Turkey attractive to the global citizen
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 The picturesque beauty of Turkey itself is ample enough to attract global citizens to stay here. However, many other factors play a crucial role in making Turkey renounce as an option for a second citizenship.
 
-<div class="wp-block-uagb-container uagb-block-19510683 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-ff932754">
 
 ### Historical and Cultural Riches
 
-</div>
-
 Turkey has a charismatic and rich history and culture of its own. Making a bridge between Europe and Asia, it has a unique blend of Eastern and Western influences. The country is home to several UNESCO World Heritage Sites, including the magnificent Hagia Sophia, the ancient city of Ephesus, and the surreal landscapes of Cappadocia. Staying in the land of Turkey, you get to explore its history and culture, which can add beautiful chapters of stories to your life.
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-005a5d25 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-f4159a59">
+
 
 ### Geographically and Economically Strategic Location
 
-</div>
-
 Falling between the two big markets of the world, Asia and Europe, Turkey has geographically and economically strategic locations for global business and trade. In Turkey, Istanbul is the hotspot as a vital connecting point for world trade. Thus, for the investors who are entrepreneurs or ambitious business holders, the citizenship of Turkey serves them to expand their business throughout the world.
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-189d749c alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-c3744b31">
+
 
 ### Thriving Economy
 
-</div>
-
 Turkey isa country with a robust and dynamic economy. Thus, it serves as a great investment opportunity for the applicants. Including diversified industries like manufacturing, tourism, finance, and technology offers the country an attractive and stable environment for business ventures. Turkey has also been drawing foreign direct investment (FDI) and enacting reforms to promote economic growth, which has increased its appeal to global citizens.
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-b9922a6c alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-b3d3b2bb">
+
 
 ### Visa-Free Travel
 
-</div>
-
 The holders of citizenship or residency in Turkey get visa-free or visa-on-arrival access to various countries. These countries also include European nations. This opportunity is best for the global citizens who want to explore the world. They can do it without worrying about visas when they have Turkish citizenship or residency.
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-cd056c26 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-1a43bade">
+
 
 ### USA E2 Visa
 
-</div>
-
 One of the very few nations, including Turkey, has the E2 visa of the USA. This visa, in general, is very complex to gain. Yet, having Turkish citizenship or residency makes it much more attainable. The E-2 visa, often known as the investment visa, allows the treaty country, i.e., Turkey citizens, to enter the United States. This visa also expands to families such as spouses, dependent parents, and offspring. They can also come to the US on this visa for study, job, or health purposes.
 
-</div></div>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-7673cc6 ugb-main-block"><style>.ugb-7673cc6 .ugb-heading__title{text-align:center}.ugb-7673cc6 .ugb-heading__bottom-line{background-color:#fc0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-7673cc6 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Opportunities Open for citizens of Turkey
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Being a permanent citizen or a temporary resident of Turkey, you can enjoy the following opportunities this place offers.
 
-<div class="wp-block-uagb-container uagb-block-8d89608c alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-da6362da">
 
 ### Quality of life
 
-</div>
-
 The high quality of life is a factor that attracts global citizens more towards it. Turkey, to its citizens and residents, offers excellent health facilities, standard education, a pleasant climate, and a low cost of living compared to Western countries. Its cities, for instance, Istanbul, have a perfect combination of cosmopolitan living, a rich cultural scene, and a thriving business opportunity.
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-21e9ec5b alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-31ff26b6">
+
 
 ### Diversity of Lifestyle
 
-</div>
-
 Turkey has a diverse lifestyle that caters to the different preferences of the global citizens coming for citizenship or residency here. Having coastal towns alongside Mediterranean and Aegean coasts, Turkey offers a livable lifestyle to all. Whether one seeks a bustling metropolis, a peaceful beachside life, or a house in a historical village, Turkey has something to serve them all.
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-969ca0e1 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-f5b7348b">
+
 
 ### Multilingual Multicultural Society
 
-</div>
-
 Turkey’s history tells the stories of welcoming people from all corners of the world with different cultures and backgrounds. Thus, the multilingual and multicultural society makes everyone feel at home. English, a widely spoken language, being the national language of Turkey, makes it even easier for people to communicate and do business.
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-fea44fa2 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-4b15297c">
+
 
 ### Family Inclusion
 
-</div>
-
 Turkey’s citizenship and residency visa extend to the family members. These members can include spouses of retired or dependent parents. It can also be offspring below the age of 18 and dependent siblings who are not married and have no kids. Thus, this visa serves the needs of an individual looking for a family-oriented solution.
 
-</div></div>
+
 
 Turkey is one of the most affordable places in the Mediterranean. The gate of opportunities and perks it opens for its citizens and residents makes it a center of attraction for global citizens.
 
@@ -169,10 +125,10 @@ From an E2 visa, high-quality health and education facilities, and visa-free tra
 
 With such a quick and streamlined visa process, apply today for citizenship in Turkey and open the gate to avail yourself of the comfortable life and prosperous business of your dreams.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="Citizenship-Guide-by-Global-Residence-Index"><a href="/images/Citizenship-Guide-by-Global-Residence-Index.jpg"><img src="/images/Citizenship-Guide-by-Global-Residence-Index-200x300.jpg" alt="" /></a></figure>
-</div></div>
+
 

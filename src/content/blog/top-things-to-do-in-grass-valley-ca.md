@@ -21,7 +21,7 @@ In this article, I provide a list of things to do in [Grass Valley](https://www.
 
 ## Grass Valley Attractions
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure id="empire-mine-state-park-cottage-grass-valley-ca"><a href="/images/empire-mine-state-park-cottage-grass-valley-ca.jpg"><img src="/images/empire-mine-state-park-cottage-grass-valley-ca.jpg" alt="Empire Mine Park Grass Valley" /></a></figure>
 
@@ -73,7 +73,7 @@ If you can’t get enough of California’s mining history, then take the short 
 
 ## Hiking Trails near Grass Valley
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure id="union-hill-trails-grass-valley-ca"><a href="/images/union-hill-trails-grass-valley-ca.jpg"><img src="/images/union-hill-trails-grass-valley-ca.jpg" alt="Union Hill Trails Grass Valley" /></a></figure>
 
@@ -105,7 +105,7 @@ This is a high elevation and difficult 9.9 mile trail. Sharing a portion of the 
 
 ## Restaurants in Grass Valley
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure id="golden-gate-saloon-restaurant-grass-valley-ca"><a href="/images/golden-gate-saloon-restaurant-grass-valley-ca.jpg"><img src="/images/golden-gate-saloon-restaurant-grass-valley-ca.jpg" alt="Golden Gate Saloon Grass Valley" /></a></figure>
 
@@ -149,7 +149,7 @@ Open for breakfast, lunch and dinner, Humpty Dumpty Kitchen is a fun and friendl
 
 ## Hotels in Grass Valley
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure id="Holbrooke-hotel-grass-valley-ca"><a href="/images/Holbrooke-hotel-grass-valley-ca.jpg"><img src="/images/Holbrooke-hotel-grass-valley-ca.jpg" alt="Holbrooke Hotel Grass Valley" /></a></figure>
 
@@ -195,7 +195,7 @@ Planning a Northern California adventure? While big cities like Sacramento often
 
 If you’re planning more California family adventures, be sure to check out our other [**California travel guides**](/california-family-travel/), including our favorite Northern California road trip ideas and our guide to the [**best family-friendly hotels in San Francisco**](/best-family-hotels-san-francisco-with-great-amenities-and-locations/).
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
@@ -204,4 +204,4 @@ Like it? Pin it!
 Check out our full guide to the best family activities in Grass Valley on HotMamaTravel.com
 
 #GrassValley #NorthernCalifornia #FamilyTravel #CaliforniaRoadTrip #TravelWithKids #VisitCalifornia #FamilyVacation #GoldCountry #CaliforniaWithKids #HotMamaTravel"><a href="/images/Best-Things-to-do-in-Grass-Valley-Ca-with-kids.jpg"><img src="/images/Best-Things-to-do-in-Grass-Valley-Ca-with-kids-200x300.jpg" alt="Best things to do in grass valley, ca with kids " /></a></figure>
-</div></div>
+

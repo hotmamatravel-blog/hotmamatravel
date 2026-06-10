@@ -25,11 +25,9 @@ So, in this post, we'll be seeing some advice on how to improve a trip to Tampa 
 
 <figure><img src="/images/tampa-night.jpg" alt="Tampa colors at night" /></figure>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-9929d653-b241-4f4d-b0d5-bc4ece0c9972" id="uagb-adv-heading-93a88f2d-b6b2-457d-b7b5-843fc016d176">
-
 ### Using a car rental broker
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -39,11 +37,9 @@ Thankfully there are ways to bypass this annoying search process. For example: u
 
 <figure><img src="/images/woman-travel-adventure.jpg" alt="female travel" /></figure>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-8563322f-f9c2-4f5c-b4be-58e4ac12d631" id="uagb-adv-heading-93a88f2d-b6b2-457d-b7b5-843fc016d176">
-
 ### Parking in Tampa and St Petersburg
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -62,11 +58,9 @@ Now that you have a car, it’s important that to have in mind some of the most 
 - There are some extra fees for spatial events, that raise the price to 10$, so have that in mind every time there’s a concert or a baseball game.
 - In some of these parking lots, there are charging stations for electric cars.
 
-<div class="wp-block-uagb-advanced-heading uagb-block-aad80548-52c4-4c72-be9b-246f87536527" id="uagb-adv-heading-93a88f2d-b6b2-457d-b7b5-843fc016d176">
-
 ### The trip to St Petersburg
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -108,19 +102,17 @@ Hot Tip: The [Tradewinds](/go/tradewinds-st-pete-expedia/)at St Pete Beach is ou
 
 <figure><img src="/images/tradewinds-st-pete-beach-review-guide-with-kids.png" alt="Hotel Review Tradewinds Island Grande St Pete Beach FL" /><figcaption>My kids LOVE this resort in St Pete Beach</figcaption></figure>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-8fa5d1c8-b7ab-489e-bf8b-c09ae7040d27" id="uagb-adv-heading-93a88f2d-b6b2-457d-b7b5-843fc016d176">
-
 ### That's a Wrap!
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
 And there you have it, next time you visit Tampa consider renting a car and making a little trip to the town of St Petersburg. Trust me, it´s worth it!
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-da107a72-d30a-413e-b826-c3c609c7bfe2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <div class="wp-block-image"><figure class="alignleft size-medium"><img src="/images/tampa-to-st-petersburg-florida-road-trip-200x300.jpg" alt="Tampa to St. Petersburg Road Trip in Rental Car" /></figure></div>
-</div></section>
+

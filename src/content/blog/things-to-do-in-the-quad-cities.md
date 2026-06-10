@@ -13,7 +13,7 @@ author: "Amanda Keeley-Thurman"
 
 The Quad Cities is a region located in the midwestern United States, consisting of four cities on the Mississippi River: Davenport and Bettendorf in Iowa, and Rock Island and Moline in Illinois. The Quad Cities offers a wide range of activities for visitors to enjoy. Here are a few things to do in the Quad Cities with your kids.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0a57a61b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="Mississippi-Riverfront-quad-cities"><a href="/images/Mississippi-Riverfront-quad-cities.jpg"><img src="/images/Mississippi-Riverfront-quad-cities.jpg" alt="" /></a></figure>
 
 #### [Mississippi Riverfront](/go/mississippi-river-visitor-center-quad-cities/)
@@ -30,9 +30,9 @@ The visitor center is a great place start and to learn about the history of the 
 
 [See photos, reviews &amp; more](/go/mississippi-river-visitor-center-quad-cities/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-dfd37c09"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="family-friendly-john-deere-pavilion-quad-cities"><a href="/images/family-friendly-john-deere-pavilion-quad-cities.jpg"><img src="/images/family-friendly-john-deere-pavilion-quad-cities.jpg" alt="" /></a></figure>
 
 #### [John Deere Pavilion](/go/john-deere-pavilion-quad-cities/)
@@ -49,9 +49,9 @@ Before you go stop by the gift shop that offers a variety of John Deere merchand
 
 [See photos, reviews &amp; more](/go/john-deere-pavilion-quad-cities/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-655050f8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="figge-art-museum-quad-cities"><a href="/images/figge-art-museum-quad-cities.jpg"><img src="/images/figge-art-museum-quad-cities.jpg" alt="" /></a></figure>
 
 #### [Figge Art Museum](/go/figge-art-museum-quad-cities/)
@@ -68,9 +68,9 @@ Stop by the Museum Store for a wide selection of art-related items, including bo
 
 [See photos, reviews &amp; more](/go/figge-art-museum-quad-cities/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6523ef43"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="channel-cat-taxi-quad-cities"><a href="/images/channel-cat-taxi-quad-cities.jpg"><img src="/images/channel-cat-taxi-quad-cities.jpg" alt="" /></a></figure>
 
 #### [Channel Cat Taxi](/go/channel-cat-taxi-quad-cities/)
@@ -87,9 +87,9 @@ The Channel Cat Water Taxi is a fun and unique way to see the Quad Cities and is
 
 [See photos, reviews &amp; more](/go/channel-cat-taxi-quad-cities/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3ddf959e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="quad-city-botanical-center-quad-cities"><a href="/images/quad-city-botanical-center-quad-cities.jpg"><img src="/images/quad-city-botanical-center-quad-cities.jpg" alt="" /></a></figure>
 
 #### [Quad City Botanical Center](/go/quad-city-botanical-center-quad-cities/)
@@ -108,9 +108,9 @@ The botanical center hosts a variety of events throughout the year, such as conc
 
 [See photos, reviews &amp; more](/go/quad-city-botanical-center-quad-cities/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e0185031"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Modern-Woodmen-Park-quad-cities"><a href="/images/Modern-Woodmen-Park-quad-cities.jpg"><img src="/images/Modern-Woodmen-Park-quad-cities.jpg" alt="" /></a></figure>
 
 #### [Modern Woodmen Park](/go/modern-woodmen-park-quad-cities/)
@@ -125,9 +125,9 @@ The park hosts a variety of special events throughout the season, such as firewo
 
 [See photos, reviews &amp; more](/go/modern-woodmen-park-quad-cities/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e501aadc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="davenport-skybridge-quad-cities"><a href="/images/davenport-skybridge-quad-cities.jpg"><img src="/images/davenport-skybridge-quad-cities.jpg" alt="" /></a></figure>
 
 #### [Davenport Skybridge](/go/davenport-skybridge-quad-cities/)
@@ -136,9 +136,9 @@ The Davenport Skybridge is a pedestrian bridge located in Davenport, Iowa, Unite
 
 [See photos, reviews &amp; more](/go/davenport-skybridge-quad-cities/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c748a205"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Colonel-Davenport-House-quad-cities"><a href="/images/Colonel-Davenport-House-quad-cities.jpg"><img src="/images/Colonel-Davenport-House-quad-cities.jpg" alt="" /></a></figure>
 
 #### [Colonel Davenport House](/go/colonel-davenport-house-quad-cities/)
@@ -155,9 +155,9 @@ Whether you are a history buff, a lover of architecture, or simply someone who a
 
 [See photos, reviews &amp; more](/go/colonel-davenport-house-quad-cities/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8f10eeb0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="palmer-family-residence-quad-cities"><a href="/images/palmer-family-residence-quad-cities.jpg"><img src="/images/palmer-family-residence-quad-cities.jpg" alt="" /></a></figure>
 
 #### [The Palmer Family Residence](/go/palmer-family-historical-house-quad-cities/)
@@ -172,9 +172,9 @@ The home is open to the public with guided tours Monday through Friday from 9:00
 
 [See photos, reviews &amp; more](/go/palmer-family-historical-house-quad-cities/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f7a31d7a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Rock-Island-Arsenal-Museum-quad-cities"><a href="/images/Rock-Island-Arsenal-Museum-quad-cities.jpg"><img src="/images/Rock-Island-Arsenal-Museum-quad-cities.jpg" alt="" /></a></figure>
 
 #### [Rock Island Arsenal Museum](/go/rock-island-arsenal-museum-quad-cities/)
@@ -189,19 +189,19 @@ The museum also has an extensive collection of small arms, including rifles, pis
 
 [See photos, reviews &amp; more](/go/rock-island-arsenal-museum-quad-cities/)
 
-</div></section>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-a9fd262 ugb-main-block"><style>.ugb-a9fd262 .ugb-heading__title{text-align:center}.ugb-a9fd262 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-a9fd262 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Knock out four cities in one trip with a trip to the Quad Cities. Hope this list of things to do in the Quad Cities helps you better plan a fun family weekend getaway. Don't forget to explore our blog for more guides in more cities. Happy Travels Hot Fam!
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-71c6567c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="Things-to-do-in-the-quad-cities"><a href="/images/Things-to-do-in-the-quad-cities.jpg"><img src="/images/Things-to-do-in-the-quad-cities-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

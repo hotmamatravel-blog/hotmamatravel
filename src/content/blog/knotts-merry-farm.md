@@ -25,7 +25,7 @@ This article will give you all the tips and insider advice to make the most out 
 
 ## Things To Do At Knott's Merry Farm
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-4297de9c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Christmas-Craft-Village-Knotts-Merry-Farm-1.jpg"><img src="/images/Christmas-Craft-Village-Knotts-Merry-Farm-1.jpg" alt="Knott" /></a></figure></div>
 
@@ -79,7 +79,7 @@ From the thrill rides to the kiddie rides, every inch of Knott’s feels *wrappe
 
 ## Knotts Merry Farm Videos
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6lMuGGxtx80?si=GPiooo4MnlDqnH0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ From the thrill rides to the kiddie rides, every inch of Knott’s feels *wrappe
 
 ## Knotts Merry Farm Holiday Drinks &amp; Eats
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure><a href="/images/Mrs.-Claus-Kitchen-Knotts-Merry-Farm.jpg"><img src="/images/Mrs.-Claus-Kitchen-Knotts-Merry-Farm.jpg" alt="Mrs. Claus Kitchen Knott" /></a></figure>
 
@@ -117,9 +117,9 @@ But the fun doesn’t stop once the holidays end! Knott’s keeps the excitement
 
 If you’re planning a trip to the area, make sure to explore more **[family-friendly things to do in Buena Park](/buena-park-with-kids/)**, from theme parks and dining to hidden gems your whole crew will love. For even more trip ideas and planning tips, check out our **[Orange County with Kids Guide](/orange-county-family-travel/)** and **[California Family Travel Guides](/california-family-travel/)**, because adventure is always in season when you’re traveling HotMama-style.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="Your complete guide to Knott’s Merry Farm from festive shows and holiday treats to twinkling rides and family fun! Discover the best things to do at Knott’s Merry Farm with kids and make this Christmas one to remember. 🎅❤️ #KnottsMerryFarm #FamilyTravel #HotMamaTravel"><a href="/images/Guide-to-Knotts-Merry-Farm.jpg"><img src="/images/Guide-to-Knotts-Merry-Farm-200x300.jpg" alt="Things to do at Knott" /></a></figure>
-</div></div>
+

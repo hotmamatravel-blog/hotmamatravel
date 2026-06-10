@@ -185,10 +185,10 @@ And for all my fellow paranormal-loving travelers, don’t miss my collection of
 
 Wherever your travels take you, whether it’s a haunted suite or a sunny California beach, you’ll find plenty of ideas in my **[Best of California Family Travel](/california-family-travel/)** guide to help you plan your next unforgettable trip. So go ahead, pack your bags, keep an open mind, and let the adventure (and maybe a ghost or two) surprise you.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="Planning a spooky family getaway? These haunted hotels in San Diego are perfect for families who love history, mystery, and maybe a ghost or two! 👀
 #HauntedHotelsSanDiego #FamilyTravel #SpookyTravel #HotMamaTravel"><a href="/images/haunted-hotels-san-diego-for-familes.jpg"><img src="/images/haunted-hotels-san-diego-for-familes-200x300.jpg" alt="haunted hotels in san diego for families" /></a></figure>
-</div></div>
+

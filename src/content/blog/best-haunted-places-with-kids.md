@@ -27,7 +27,7 @@ At **HotMamaTravel**, we specialize in *family travel with a twist* and [preppin
 
 ## Best Haunted Prisons To Visit With Kids
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure><a href="/images/eastern-state-penitentiary-.jpg"><img src="/images/eastern-state-penitentiary-.jpg" alt="Eastern State Penitentiary " /></a></figure>
 
@@ -129,7 +129,7 @@ There are adult, junior, senior, and child pricing for tours. Kids 4 and under a
 
 ## Haunted Houses, Theaters, &amp; More
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure><a href="/images/bird-cage-theatre-tombstone.jpg"><img src="/images/bird-cage-theatre-tombstone.jpg" alt="Bird Cage Theatre Tombstone AZ" /></a></figure>
 
@@ -277,7 +277,7 @@ There are also companies that provide a variety of ghost tours of Savannah, whic
 
 ## Favorite Haunted Hotels
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure><a href="/images/Queen-Mary-2.jpg"><img src="/images/Queen-Mary-2.jpg" alt="Fight to save the Queen Mary in Long Beach Ca" /></a></figure>
 
@@ -373,9 +373,9 @@ We’re big believers in investing in family travel to spark curiosity, inspire 
 
 So if theme parks and beach resorts have started to feel a little *been there, done that*, it’s time to mix things up. Go on a ghost hunt, walk through real history, and show your kids that adventure comes in many forms, even the spooky kind. My family’s hooked, and I bet yours will be too.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="Looking for haunted places with kids that mix history, mystery, and a little mayhem? These spooky family adventures are unforgettable, ghosts included! #familytravel #hauntedplaces #spookytravel"><a href="/images/best-haunted-places-with-kids.jpg"><img src="/images/best-haunted-places-with-kids-200x300.jpg" alt="Best haunted places to visit with kids" /></a></figure>
-</div></div>
+

@@ -27,12 +27,10 @@ In this article I will go over all the fun things to do in Solvang with kids, so
 
 **Here's what's in this article**:
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4ecb7b3e-60ad-4927-8fe1-667fa21c0154"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-17207a36-6f75-4ff2-9208-7120a8d850c9" id="uagb-adv-heading-80456c03-f669-42b8-8182-ec546f06df67">
 
 ### Fun things to do in Solvang with kids
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -44,11 +42,9 @@ In this article I will go over all the fun things to do in Solvang with kids, so
 - [Elverhoj Museum of History &amp; Art](#Elverhoj-Museum)
 - [Relax or play at a park](#solvang-parks)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-def79bf7-e21e-4926-a975-e58422a2a070" id="uagb-adv-heading-a0452fcf-1c49-481a-aa9d-d9f56369b5be">
-
 ### Best Danish bakeries in Solvang
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -57,11 +53,9 @@ In this article I will go over all the fun things to do in Solvang with kids, so
 - [Birkholm’s Bakery &amp; Cafe](#birkholms-bakery)
 - [Solvang Bakery](#solvang-bakery)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-143a8f5e-97cf-453d-be2d-240d9ab6b265" id="uagb-adv-heading-e5c0ac71-c107-47d6-b209-e5323433594c">
-
 ### Best places to eat in Solvang
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -76,11 +70,9 @@ In this article I will go over all the fun things to do in Solvang with kids, so
 - [Mad &amp; Vin](#mad-vin)
 - [Chomp Burgers, Fries and Shakes](#chomp-burgers)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-4963ecd6-04e5-43c4-a41b-4cb37b434fcf" id="uagb-adv-heading-186b1fa0-4137-4cf3-a6b3-9d415c2ec627">
-
 ### Best places to stay in Solvang
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -91,21 +83,19 @@ In this article I will go over all the fun things to do in Solvang with kids, so
 - [Atterdag Inn](#atterdag-inn)
 - [Alisal Guest Ranch &amp; Resort](#alisal-guest-ranch)
 
-</div></section>
+
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<div class="wp-block-uagb-advanced-heading uagb-block-3866d227-9089-4a8c-a830-65c796a7b7c3" id="uagb-adv-heading-10609164-3560-468b-9536-abf57007f8da">
-
 ## Fun things to do in Solvang
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
 We love to walk around and enjoy the scenery in Solvang. It’s not every day we get to see darling Danish architecture and windmills here in California. I’m sure you and your family will find ample photo opportunities! These are some of our favorite Solvang family activities:
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ddbfcbeb-e9cf-4bb3-ae99-5be5e2eda746"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure><img src="/images/things-to-do-in-solvang-ca.jpg" alt="Shopping in Solvang" /><figcaption>Love perusing stores with Christmas Decorations? Me too! You'll love Solvang :)</figcaption></figure>
 
 #### Shopping in Solvang
@@ -122,9 +112,9 @@ There are **tons **of cute boutique shops to explore in Solvang. Antique shops, 
 - [Ramussen’s Solvang](/go/rasmussens-solvang-california/)
 - [Edelweiss Solvang](/go/edelweiss-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-26f606ef-2728-430a-80fc-d69ca0aed379"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/DSCN7982-1024x768.jpg" alt="Solvang Carriage" /></figure>
 
 #### [Solvang Trolley &amp; Carriage Company](/go/solvang-trolley-carriage-solvang-california/)
@@ -133,9 +123,9 @@ Take your family for a ride on a Honan, a Danish wooden street car pulled by two
 
 [See photos, reviews &amp; more](/go/solvang-trolley-carriage-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6075198c-fcec-425f-b394-fa87e645a8f4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/DSCN8009-1024x768.jpg" alt="Dascomb Cellars Solvang Wine Tasting" /></figure>
 
 #### Grab a drink somewhere!
@@ -148,9 +138,9 @@ Solvang is located in California wine country and there are plenty of places tha
 
 <figure><img src="/images/IPA.jpg" alt="Solvang Beer Garden" /><figcaption>We are no strangers to a drink while traveling with kids!</figcaption></figure>
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9eaf09dc-4cd5-4d4b-b557-83557489321e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Old Mission Santa Ines](/go/old-mission-santa-ines-solvang-california/)
 
@@ -160,9 +150,9 @@ Got to love a little history and there is nothing like taking the kids to a Cali
 
 [See photos, reviews &amp; more](/go/old-mission-santa-ines-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-19da7bcf-ba17-48d9-8337-c80d0a0677c4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Hans Christian Andersen Museum](/go/hans-christian-andersen-museum-solvang-california/)
 
@@ -172,9 +162,9 @@ Located upstairs from The Book Loft, this museum is intended for people to under
 
 [See photos, reviews &amp; more](/go/hans-christian-andersen-museum-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a1ae3652-f591-42b6-9f7c-42afe06abd18"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Elverhoj Museum of History &amp; Art](/go/elverhoj-museum-solvang-california/)**
 
@@ -184,9 +174,9 @@ You guessed it, this where you and your kids can learn all about the art and his
 
 [See photos, reviews &amp; more](/go/elverhoj-museum-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3be28222-f317-4985-afed-e418761eb2cb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Kid-friendly parks in Solvang
 
@@ -208,17 +198,15 @@ This park brings fairytales to life as you enter the beautiful grounds, filled w
 
 This expansive green is where Solvang holds a number of annual events like Winterfest and Summer Movie nights. When there aren’t events, is a lovely place to just wander and enjoy.
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-51b85479-f6c3-460b-943e-92069946261d" id="uagb-adv-heading-e570ce9f-58ab-4e0e-a162-fe5f7332aefd">
 
 ## Danish bakeries in Solvang
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-931b616a-5d75-4dc4-a92a-ea791f5d7c4d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <div class="wp-block-image"><figure class="aligncenter size-medium"><img src="/images/DSCN7957-e1573709199901-300x284.jpg" alt="Danish Mill Bakery" /></figure></div>
 
 #### [Danish Mill Bakery](/go/danish-mill-bakery-solvang-california/)
@@ -229,9 +217,9 @@ This bakery is a real treat as Arvid Peterson the founder actually baked goods f
 
 [See photos, reviews &amp; more](/go/danish-mill-bakery-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-13e0cd5f-2da3-46cf-ab81-bdaa3c8c4d96"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Mortensen's Bakery](/go/mortensens-danish-bakery-solvang-california/)
 
@@ -241,9 +229,9 @@ Family-owned and operated, this Danish bakery has been open for 40 years. It is 
 
 [See photos, reviews &amp; more](/go/mortensens-danish-bakery-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3b2a77d1-b218-4f6d-b119-3b3e506f7ca1"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Birkholm's Bakery &amp; Cafe](/go/birkholms-bakery-cafe-solvang-california/)
 
@@ -253,9 +241,9 @@ Another cute family-owned bakery, this a great spot to grab a sweet Danish treat
 
 [See photos, reviews &amp; more](/go/birkholms-bakery-cafe-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-84287734-0d44-4b17-830f-1439c827066f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/guide-visit-Solvang-with-kids-california-small-town.png" alt="Solvang Bakery" /></figure>
 
 #### [Solvang Bakery](/go/solvang-bakery-solvang-california/)
@@ -268,19 +256,17 @@ There is a theme with the bakeries, as The Solvang Bakery is also family-owned. 
 
 [See photos, reviews &amp; more](/go/solvang-bakery-solvang-california/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-cab436eb-9dee-49fc-85dc-fec86ae21507" id="uagb-adv-heading-4579f108-5296-48eb-a770-a02f5bc1754c">
 
 ## Places to eat in Solvang
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
 Don't worry about food if you are visiting Solvang with kids. They have a wide variety of global fare as well as fine dining options. However, when visiting a little Danish village, I recommend eating Danish cuisine. Part of traveling with kids is giving them new experiences. Incredibly, with over 46 dining options in one small town, I have narrowed the list to 10 of my favorites.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b72fa9f2-dfee-4bcc-977b-06f7a60dc25b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 #### [Bit O' Denmark](/go/bit-o-denmark-restaurant-solvang-california/)
 
@@ -290,9 +276,9 @@ This sweet little restaurant has it all, it is Danish, it is cozy and it is hist
 
 [See photos, reviews &amp; more](/go/bit-o-denmark-restaurant-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-247460af-93c8-4ec1-a720-b2f2bed975b7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/solvang-brewing-company.jpg" alt="solvang brewing company" /></figure>
 
 #### [Solvang Brewing Company](/go/solvang-brewing-company-solvang-california/)
@@ -305,9 +291,9 @@ I came for the Bloody Mary, but I stayed for the atmosphere and food! This resta
 
 [See photos, reviews &amp; more](/go/solvang-brewing-company-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f9fcda8b-d2c0-4aa1-8dd9-ea2c3ef10fd0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Succulent Cafe](/go/succulent-cafe-solvang-california/)
 
@@ -317,9 +303,9 @@ Succulent Cafe has a great location in downtown Solvang with a delicious menu th
 
 [See photos, reviews &amp; more](/go/succulent-cafe-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8fd557c9-440a-4bdc-81fc-a14b19452462"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/IMG_4071-1024x764.jpg" alt="aebleskiver Solvang" /></figure>
 
 #### [Solvang Restaurant](/go/solvang-restaurant-solvang-california/)
@@ -330,9 +316,9 @@ This is a local favorite and a Solvang classic. There are no frills, but it a co
 
 [See photos, reviews &amp; more](/go/solvang-restaurant-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f33fa7b8-6eca-449a-a5b5-d5de92934f7e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Copenhagen Sausage Garden](/go/copenhagen-sausage-garden-solvang-california/)
 
@@ -342,9 +328,9 @@ This is a fun outdoor beer garden complete with fire pits that serves up 11 fami
 
 [See photos, reviews &amp; more](/go/copenhagen-sausage-garden-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d647725e-631c-4a09-9545-c20d726ba9ae"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Fitzpatrick's Tavern](/go/fitzpatricks-tavern-solvang-california/)
 
@@ -354,9 +340,9 @@ Who doesn’t love an Irish pub? It doesn’t matter where we travel, we always 
 
 [See photos, reviews &amp; more](/go/fitzpatricks-tavern-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-da38a6f4-7dca-49d4-a8d5-c238a8b9485d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Toscana](/go/toscana-solvang-california/)
 
@@ -366,9 +352,9 @@ Toscana is an Italian pizza and wine bar and you can’t really go wrong with wi
 
 [See photos, reviews &amp; more](/go/toscana-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-babe866a-e767-48de-9f7e-cf0ba4a29617"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Hill Haven Provisions](/go/hill-haven-provisions-solvang-california/)
 
@@ -378,9 +364,9 @@ Hill Haven is a local favorite with a globally inspired menu that is fresh and c
 
 [See photos, reviews &amp; more](/go/hill-haven-provisions-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0c37e332-f215-427d-901c-844317526608"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Mad &amp; Vin](/go/mad-vin-solvang-california/)
 
@@ -390,9 +376,9 @@ Mad &amp; Vin is Danish for food and wine, but they offer much more. Located in 
 
 [See photos, reviews &amp; more](/go/mad-vin-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a2527454-0f4a-43d5-856f-5b9f8888f92f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Chomp Burgers, Fries &amp; Shakes](/go/chomp-burgers-fries-shakes-solvang-california/)
 
@@ -402,19 +388,17 @@ Looking for a good old burger and shake? Then your family will love Chomp Burger
 
 [See photos, reviews &amp; more](/go/chomp-burgers-fries-shakes-solvang-california/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-d7cf437e-8a8a-490d-9c54-9d3ffa87f7e0" id="uagb-adv-heading-e5d7f3a6-66dc-40d6-9908-c293ae6962ad">
 
 ## Where to stay in Solvang
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
 There are plenty of hotels to choose from, but if you are visiting Solvang with kids I recommend staying in a hotel that feels Danish and is walking distance from the village center. Park, relax, drink some wine (or lots of wine), and then just walk back to your room. That’s how I like to roll, anyway. Plus, when traveling with kids, the less you have to get them in and out of the car the better.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-deecd580-734e-40fb-80e4-724e5c81e108"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure><img src="/images/Hadsten.jpg" alt="Hadsten Inn Solvang Hotel" /><figcaption>Photo credit: Hadsten House</figcaption></figure>
 
 #### [Hadsten House Inn](/go/hadsten-house-solvang-california/)
@@ -425,9 +409,9 @@ Beautifully decorated and luxurious. It is romantic for couples, but also great 
 
 [See photos, reviews &amp; more](/go/hadsten-house-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-35938de9-4dcc-4ab2-a207-42650a857a2f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/Hamlet-1024x682.jpg" alt="Hamlet Inn Hotel in Solvang" /><figcaption>Photo credit: Hamlet Inn</figcaption></figure>
 
 #### [Hamlet Inn](/go/hamlet-inn-solvang-california/)
@@ -438,9 +422,9 @@ Most of the time the rates are very affordable and there are always packages off
 
 [See photos, reviews &amp; more](/go/hamlet-inn-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8c1a0fb0-b187-49b5-9292-74545352a975"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <div class="wp-block-image"><figure class="aligncenter size-large"><img src="/images/King-Fred.jpg" alt="King Frederik Inn Solvang" /><figcaption>Photo Credit: King Frederik Inn</figcaption></figure></div>
 
 #### [King Frederik Inn](/go/king-frederik-inn-solvang-california/)
@@ -451,9 +435,9 @@ Not the fanciest, but conveniently located and one of the most affordable hotels
 
 [See photos, reviews &amp; more](/go/king-frederik-inn-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0d90639e-d52e-46fd-8d33-972b199d2832"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/HOTEL-CORQUE.jpg" alt="Hotel Corque in Solvang" /><figcaption>Photo credit: SantaYnezVallery.org</figcaption></figure>
 
 #### [Hotel Corque](/go/hotel-corque-solvang-california/)
@@ -464,9 +448,9 @@ A bit of a walk to Solvang's city center but it's a very nice boutique hotel wit
 
 [See photos, reviews &amp; more](/go/hotel-corque-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-45c16e2c-a014-4c12-8c8b-49b46a7cc9e2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Atterdag Inn](/go/atterdag-inn-solvang-california/)
 
@@ -476,9 +460,9 @@ This is a newly renovated inn that is bright with Danish decor. The inn features
 
 [See photos, reviews &amp; more](/go/atterdag-inn-solvang-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e9b3e746-3b97-4f34-af58-b8f4ad516146"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Alisal Guest Ranch &amp; Resort](/go/alisal-guest-ranch-resort-solvang-california/)
 
@@ -488,13 +472,11 @@ If you are looking for a real vacation experience, check out the Alisal Guest Ra
 
 [See photos, reviews &amp; more](/go/alisal-guest-ranch-resort-solvang-california/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-8c065a7d-d5f1-41ce-8c57-044b6eecfa8c" id="uagb-adv-heading-7ddf8110-6c41-4b0e-b24a-c911fa8a59ef">
 
 ## That's a Wrap!
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -502,9 +484,9 @@ If you’re a local, this is an affordable and convenient way to feel like you a
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-cdfcc81a-fddf-454b-aa2f-60f7ca89af17"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <div class="wp-block-image"><figure class="alignleft size-medium"><img src="/images/Things-to-do-in-Solvang-ca-with-kids-200x300.jpg" alt="Fun Things to do in Solvang CA with kids" /></figure></div>
-</div></section>
+

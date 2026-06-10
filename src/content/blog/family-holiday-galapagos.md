@@ -18,7 +18,7 @@ Galapagos is a one-of-a-kind destination and claims first place on the list of u
 
 Traveling should always be about what you want to see, feel, experience, do and taste. Moreover, traveling with family and kids should be about education and memories. So, we giving you the amazing reasons why you need to visit Galapagos for your next holiday.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-36bca5cc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="Family-Holiday-Galapagos-Beaches"><a href="/images/Family-Holiday-Galapagos-Beaches.jpg"><img src="/images/Family-Holiday-Galapagos-Beaches.jpg" alt="" /></a></figure>
 
 #### The Breathtaking Beaches
@@ -31,9 +31,9 @@ Do not expect to see any umbrellas, decks, or bars, this is not a beach in Ibiza
 
 [See photos, reviews &amp; more](/go/best-beaches-galapagos-islands/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6c5e48d8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Family-Holiday-Galapagos-scuba-diving"><a href="/images/Family-Holiday-Galapagos-scuba-diving.jpg"><img src="/images/Family-Holiday-Galapagos-scuba-diving.jpg" alt="" /></a></figure>
 
 #### Incredible Water Activities
@@ -46,9 +46,9 @@ Regarding the weather and the season you should visit the Galapagos so you can e
 
 [See photos, reviews &amp; more](/go/scuba-diving-galapagos-islands/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a8c2f160"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Family-Holiday-Galapagos-hiking"><a href="/images/Family-Holiday-Galapagos-hiking.jpg"><img src="/images/Family-Holiday-Galapagos-hiking.jpg" alt="" /></a></figure>
 
 #### Stunning Vistas When Hiking
@@ -57,9 +57,9 @@ For nature lovers and hikers, Galapagos has some of the most unique trails you c
 
 [See photos, reviews &amp; more](/go/sierra-negra-hiking-galapagos-islands/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-449d8e8d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Family-Holiday-Galapagos-lanscapes"><a href="/images/Family-Holiday-Galapagos-lanscapes.jpg"><img src="/images/Family-Holiday-Galapagos-lanscapes.jpg" alt="" /></a></figure>
 
 #### Stunningly Beautiful Landscapes
@@ -70,9 +70,9 @@ The Galapagos Islands are unlike each other, so you will remember their landscap
 
 [See photos, reviews &amp; more](/go/rebecca-adventure-tour-galapagos-islands/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-24ac40f7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Family-Holiday-Galapagos-giant-tortoises"><a href="/images/Family-Holiday-Galapagos-giant-tortoises.jpg"><img src="/images/Family-Holiday-Galapagos-giant-tortoises.jpg" alt="" /></a></figure>
 
 #### The Wildlife
@@ -83,9 +83,9 @@ The marine iguanas are a species of lizards with razor-sharp teeth, beady eyes, 
 
 [See photos, reviews &amp; more](/go/wildlife-tours-galapagos-islands/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c5348486"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Family-Holiday-Galapagos-Marine-Iguanas"><a href="/images/Family-Holiday-Galapagos-Marine-Iguanas.jpg"><img src="/images/Family-Holiday-Galapagos-Marine-Iguanas.jpg" alt="" /></a></figure>
 
 #### Unique History
@@ -97,21 +97,19 @@ Darwin called the [marine iguanas](https://www.nationalgeographic.com/animals/re
 
 [See photos, reviews &amp; more](/go/wildlife-tours-galapagos-islands/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-3e605b48">
 
 ## That's A Wrap!
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
 The Galapagos thrills, motivates, amazes, and enchants all at once! If you are looking for the antidote to freshen up your urban lifestyle and incorporate something exotic, book your trip to Galapagos now!
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-765d4954"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="Things-to-do-Family-Holiday-Galapagos"><a href="/images/Things-to-do-Family-Holiday-Galapagos.jpg"><img src="/images/Things-to-do-Family-Holiday-Galapagos-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

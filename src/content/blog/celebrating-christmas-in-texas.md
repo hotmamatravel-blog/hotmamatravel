@@ -21,7 +21,7 @@ From boots to BBQ and everything in between, the Great State of Texas has all yo
 
 ## Visit The Christmas Capital Of Texas
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 If you’re ready to dive headfirst into holiday cheer, **[Grapevine, Texas](https://www.grapevinetexasusa.com/)**, the official *Christmas Capital of Texas*, is your playground. This town doesn’t just celebrate Christmas; it throws 1,400 festive events over 40 days, which is basically North Pole energy with Texas attitude.
 
@@ -33,7 +33,7 @@ Even Grapevine Mills gets in on the action with seasonal shopping and experience
 
 ## Ranch At Christmas Time
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-5a991e12 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Horseback-riding-texas.jpg"><img src="/images/Horseback-riding-texas.jpg" alt="Riding horse in Texas" /></a></figure></div>
 
@@ -45,7 +45,7 @@ A great Christmas gift for the horse lover in your family is to surprise them wi
 
 ## Family BBQ
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Looking for a holiday idea that’s a little less predictable and a whole lot more delicious? While you’re in Texas, round up the crew and go all-in on a true Texas Christmas tradition: BBQ**.** I know, I know—everyone else is out here carving turkeys and glazing hams. Still, nothing bonds a family faster than standing around a picnic table devouring brisket so tender it basically melts on contact.
 
@@ -67,7 +67,7 @@ And let’s be honest… if you’re spending the holidays in Texas, you’re si
 
 ## Check Out A Rodeo
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 You can’t go all the way to Texas and *not* experience a rodeo. That’s like visiting Italy and skipping the pasta. The sheer fun of watching real cowboys tear across the arena, hanging on for dear life while bulls do their absolute best to yeet them into orbit, is the kind of holiday memory your family will never forget.
 
@@ -79,7 +79,7 @@ And don’t be shy, check** local rodeo event listings** wherever you’re trave
 
 ## See The Sight In Austin
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure><a href="/images/Austin-christmas-night-scene.jpg"><img src="/images/Austin-christmas-night-scene.jpg" alt="Austin at night" /></a></figure>
 
@@ -93,7 +93,7 @@ For something different, hop aboard a **[Lone Star Riverboat](/austin-bat-cruise
 
 ## Red River District Christmas Market
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 If you want a little Old World charm deep in the heart of Texas, the [German Texan Heritage Society Christmas Market](https://www.germantexans.org/christmas-market) in Austin is the place to be. Tucked right into the lively Red River District, this market feels like you’ve wandered into a tiny pocket of Europe.
 
@@ -105,7 +105,7 @@ And don’t even get me started on the food. You can warm your frozen soul with 
 
 ## Holiday Spirit Along San Antonio Riverwalk
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure><a href="/images/san-antonio-riverwalk-night.jpg"><img src="/images/san-antonio-riverwalk-night.jpg" alt="San Antonio riverwalk" /></a></figure>
 
@@ -123,7 +123,7 @@ And if you happen to be visiting during spooky season, or you just enjoy a littl
 
 ## Holiday Events In Dallas
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Dallas is one of the biggest cities in the U.S., and during the holidays, it goes full sparkle mode with southern confidence. You’ve got museums, shopping, nightlife, and plenty of festive fun all without needing to dress like the Michelin Man. With an average December high of around 58 degrees, you can explore the city comfortably while the rest of the country is chiseling ice off their cars. *Win.*
 
@@ -137,7 +137,7 @@ Be sure not to miss the Downtown Dallas Holiday Parade. This annual parade bring
 
 ## Christmas At The Silos At Magnolia Market In Waco
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Just about a hundred miles north of the state capitol of Austin is the city of Waco, where the whole family can enjoy visiting the famed [Silos at Magnolia Market](https://magnolia.com/silos/), owned by Joanna and Chip Gaines of the hit TV Show "Fixer Upper" on HGTV. They have a fun, festive Christmas installation during the Holiday season that includes a light display that covers the enormous Silos. Don't forget to stop by their own restaurant, Magnolia Table, just a few miles down the road from the Silos. Parents and kids will enjoy a relaxing holiday at Magnolia Market in Waco.
 
@@ -155,9 +155,9 @@ Christmas in Texas might not be the first destination that pops into your head w
 
 If this has you itching to pack your boots and go, make sure to explore even more of our **[best Texas travel adventures](/best-of-texas-family-travel/)** and check out our full collection of **[holiday travel ideas](/christmas-getaways-for-families/)** for families. No matter where your map takes you next, Texas proves that Christmas joy doesn’t need snow, just good food, good company, and a whole lot of sparkle.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="Christmas in Texas is bigger, brighter, and full of family magic! From rodeos and river parades to German markets and twinkling small-town charm, discover the best holiday attractions, events, and festive towns across the Lone Star State. Save this guide for your next Christmas family vacation! #familytravel #christmastexas #texastravel #holidaytravelideas"><a href="/images/Christmas-in-Texas.jpg"><img src="/images/Christmas-in-Texas-200x300.jpg" alt="Travel Ideas for Christmas in Texas" /></a></figure>
-</div></div>
+

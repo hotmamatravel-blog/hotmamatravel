@@ -23,16 +23,13 @@ So, let's cut to the chase and unveil the top picks for the best Las Vegas shows
 
 ## Best Las Vegas Shows For Teens
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="cris-angel-best-las-vegas-shows-for-teens"><figure><a href="/images/criss-angel-mindfreak-planet-hollywood.jpg"><img src="/images/criss-angel-mindfreak-planet-hollywood.jpg" alt="Criss Angel Mindfreak best Las Vegas shows for teens" /></a></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
 ### [Criss Angel Mindfreak at Planet Hollywood](/go/criss-angel-las-vegas-bov/)
 
 Must be 12 years of age or older
-</div>
 
 Prepare for your teen to be amazed by the mind-bending illusions of "Criss Angel Mindfreak" at [Planet Hollywood](https://www.caesars.com/planet-hollywood), where the world-renowned magician pushes the boundaries of reality with his daring stunts and jaw-dropping tricks. Teens will be left in awe as they witness feats of magic that defy explanation and challenge the limits of the imagination.
 
@@ -44,12 +41,9 @@ But it's not just the jaw-dropping magic that makes "Criss Angel Mindfreak" a mu
 
 <div class="wp-block-uagb-image uagb-block-f19ddf62 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="jabbawockeez-teen-las-vegas-show"><figure><a href="/images/jabbawockeez-mgm-show-in-vegas-for-teenagers.jpg"><img src="/images/jabbawockeez-mgm-show-in-vegas-for-teenagers.jpg" alt="Jabbawockeez at MGM Grand Las Vegas Show for Teens" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-91df4a1b">
-
 ### [Jabbawockeez at MGM Grand](/go/jabbawockeez-las-vegas-bov/)
 
 No Age Restriction
-</div>
 
 Not only will your teen be dazzled by the electrifying beats and mesmerizing moves of "Jabbawockeez," but so will [**every member of your family**](/las-vegas-shows-for-kids/). This iconic dance crew is taking the world by storm with their unique, precise style! Step into their world, where hip-hop meets high art, and prepare to have your senses awakened like never before.
 
@@ -61,12 +55,9 @@ But what sets "Jabbawockeez" at [MGM](https://mgmgrand.mgmresorts.com/en.html) a
 
 <div class="wp-block-uagb-image uagb-block-2d2ecad3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="magic-reinvented-nightly-vegas-show-teens"><figure><a href="/images/magic-reinvented-nightly-vegas-show-teens.jpg"><img src="/images/magic-reinvented-nightly-vegas-show-teens.jpg" alt="Magic Reinvented Nightly Las Vegas Show for Teens" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-e48eaa00">
-
 ### [Magic Reinvented Nightly at The LINQ](/go/magic-reinvented-nightly-vegas/)
 
 Must be 5 years of age or older
-</div>
 
 "Magic Reinvented Nightly" at [The LINQ](https://www.caesars.com/linq), will blow your teens' minds as master magician Mat Franco wows audiences with his unique blend of magic and humor. This high-energy show is a hit with teens thanks to its wild illusions and interactive tricks that will leave them scratching their heads in disbelief. Trust me, you won't want to miss this magical experience!
 
@@ -80,12 +71,9 @@ It's not just the magic that makes "Magic Reinvented Nightly" a hit with teens. 
 
 <div class="wp-block-uagb-image uagb-block-c3009b6a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="michael-jackson-one-las-vegas-teen-shows"><figure><a href="/images/michael-jackson-one-mandalay-vegas-show.jpg"><img src="/images/michael-jackson-one-mandalay-vegas-show.jpg" alt="Michael Jackson One Show at Mandalay Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-b46dc5b9">
-
 ### [Michael Jackson ONE at Mandalay Bay](/go/michael-jackson-one-las-vegas-bov/)
 
 Must be 5 years of age or older
-</div>
 
 Step into the world of Michael Jackson like never before with "Michael Jackson ONE," a spectacular [**Las Vegas Cirque du Soleil**](/best-cirque-du-soleil-shows-in-vegas-for-families/) production that pays homage to the King of Pop's legendary music and iconic dance moves. Set against a backdrop of pulsating rhythms and stunning visuals, this electrifying show at [Mandalay](https://mandalaybay.mgmresorts.com/en.html) immerses audiences in the timeless hits and mesmerizing choreography that defined Michael Jackson's unparalleled career.
 
@@ -101,12 +89,9 @@ After the show, enjoy more music with an exciting [**dinner with live music**](/
 
 <div class="wp-block-uagb-image uagb-block-83b88c23 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="awkening-vegas-show-teens"><figure><a href="/images/awkening-vegas-show-teens.jpg"><img src="/images/awkening-vegas-show-teens.jpg" alt="Awakening Las Vegas show for teens at Wynn" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-c535b805">
-
 ### [Awakening at the Wynn](/go/awakening-las-vegas-show/)
 
 Must be 5 years of age or older
-</div>
 
 Enter the world of "Awakening" at the [Wynn](https://www.wynnlasvegas.com/) Las Vegas, where magic, music, and spectacle collide to create an unforgettable experience for families. For teens, this show offers an immersive journey that's as exhilarating as it is awe-inspiring.
 
@@ -118,12 +103,9 @@ The electrifying soundtrack sets the stage on fire and keeps audiences on the ed
 
 <div class="wp-block-uagb-image uagb-block-d7afe445 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="carrot-top-vegas-show-teens"><figure><a href="/images/carrot-top-vegas-show-teens.jpg"><img src="/images/carrot-top-vegas-show-teens.jpg" alt="Carrot Top Teen show in Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-2bad231f">
-
 ### [Carrot Top](/go/carrot-top-las-vegas/)
 
 Must be 16 years of age or older
-</div>
 
 Get ready to laugh until your sides ache with "Carrot Top" at the [Luxor](https://luxor.mgmresorts.com/en.html), the zany comedian who's been delighting audiences in Las Vegas for years! But why, you might ask, would teens particularly enjoy Carrot Top's show? Well, let me tell you!
 
@@ -137,12 +119,9 @@ With his wild red hair and larger-than-life character with a personality to matc
 
 <div class="wp-block-uagb-image uagb-block-be658c48 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-mentalist-vegas-show-teens"><figure><a href="/images/the-mentalist-vegas-show-teens.jpg"><img src="/images/the-mentalist-vegas-show-teens.jpg" alt="The Mentalist Vegas show for teens" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-12bd148e">
-
 ### [The Mentalist](/go/mentalist-las-vegas/)
 
 Must be 16 years of age or older
-</div>
 
 "The Mentalist," one of the most mind-bending and mystifying shows on the [**Las Vegas Strip**](/walking-las-vegas-strip/)! But what makes "The Mentalist" a must-see for teens? Let me break it down for you.
 
@@ -156,12 +135,9 @@ And then there's the element of suspense and surprise that permeates every momen
 
 <div class="wp-block-stackable-image stk-block-image stk-block stk-b13df22" id="potted-potter-las-vegas-show" data-block-id="b13df22"><figure><img src="/images/potted-potter-show-las-vegas.jpg" alt="Potted Potter Show Las Vegas" /></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-60f0704b">
-
 ### [Potted Potter](/go/potted-potter-vegas-show/)
 
 Must be 6 years of age or older
-</div>
 
 Discover the magic of "Potted Potter" at the [Horseshoe](https://www.caesars.com/horseshoe-las-vegas), the spellbinding parody that's perfect for teens seeking a hilarious and memorable experience. "Potted Potter" offers a unique twist on the beloved Harry Potter series that's sure to delight fans of all ages. Plus it is one of the more [**affordable shows in Vegas**](/affordable-family-activities-las-vegas/).
 
@@ -175,12 +151,9 @@ Let's not forget the nostalgia factor for teens who grew up with the Harry Potte
 
 <div class="wp-block-uagb-image uagb-block-31ea4092 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="ka-vegas-show-teens"><figure><a href="/images/ka-vegas-show-teens.jpg"><img src="/images/ka-vegas-show-teens.jpg" alt="Ka Las Vegas show for teens" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-0e0b8206">
-
 ### [KÀ at MGM Grand](/go/ka-las-vegas-bov/)
 
 Must be 3 years of age or older
-</div>
 
 This is a heart-pounding, jaw-dropping show that teens will love. "KÀ" by Cirque du Soleil is for those action-loving, thrill-seeking teens who live for adrenaline-pumping adventures and epic showdowns of good versus evil.
 
@@ -194,12 +167,9 @@ But wait, it gets even better. Ever seen a suspended fight scene? Well, get read
 
 <div class="wp-block-uagb-image uagb-block-0f048259 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="shin-lim-vegas-show-teens"><figure><a href="/images/shin-lim-vegas-show-teens.jpg"><img src="/images/shin-lim-vegas-show-teens.jpg" alt="Teen magic show in Vegas Shin Lim" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-4a2569a3">
-
 ### [Shin Lim at The Palazzo at The Venetian](/go/shin-lim-las-vegas-show/)
 
 Must be 5 years of age or older
-</div>
 
 Oh, brace yourselves, because "Shin Lim" is about to blow your mind! This two-time winner of America's Got Talent is bringing his mind-blowing magic to [The Palazzo at The Venetian](https://www.venetianlasvegas.com/), one of our favorite [**family hotels in Las Vegas**](/best-family-hotels-in-las-vegas/).
 
@@ -211,12 +181,9 @@ So if you've got a teen who's itching for some serious magic, look no further th
 
 <div class="wp-block-uagb-image uagb-block-0d1fcc11 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="tournament-of-kings-excalibur-family-show"><figure><a href="/images/tournament-of-kings-las-vegas-dinner-show-packages.jpg"><img src="/images/tournament-of-kings-las-vegas-dinner-show-packages.jpg" alt="Tournament of Kings at Excalibur family las vegas show" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-c2c3d160">
-
 ### [Tournament of Kings at Excalibur](/go/tournament-kings-las-vegas-bov/)
 
 No Age Restriction
-</div>
 
 Get ready to be whisked away to a realm of knights, chivalry, and epic battles with "Tournament of Kings" at [Excalibur](https://excalibur.mgmresorts.com/en.html), the ultimate [**dinner show experience**](/las-vegas-dinner-and-show-packages/) that'll have teens on the edge of their seats!
 
@@ -234,12 +201,9 @@ Check out the show in this video:
 
 <div class="wp-block-uagb-image uagb-block-6649cae6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="blue-man-group-vegas-show-teens"><figure><a href="/images/blue-man-group-vegas-show-teens.jpg"><img src="/images/blue-man-group-vegas-show-teens.jpg" alt="Blue Man Group Las Vegas family show " /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-4de11e46">
-
 ### [Blue Man Group at Luxor](/go/blue-man-group-las-vegas-bov/)
 
 No Age Restriction
-</div>
 
 Experience the electrifying world of "Blue Man Group." This is a show that will leave you laughing, dancing, and completely mesmerized! It is a whirlwind of music, comedy, and mind-bending theatrics that will have you grooving in your seat from start to finish.
 
@@ -259,9 +223,9 @@ To continue planning the ultimate family Las Vegas vacation by exploring our [**
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="best-shows-in-las-vegas-for-teens"><a href="/images/best-shows-in-las-vegas-for-teens.jpg"><img src="/images/best-shows-in-las-vegas-for-teens-200x300.jpg" alt="" /></a></figure>
-</div></div>
+

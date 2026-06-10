@@ -27,7 +27,7 @@ So if you’re wondering whether [**visiting the Queen Mary with kids**](/go/the
 
 ## Is the Queen Mary Good for Kids?
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Yes, the Queen Mary is a great experience for kids, especially families who love history, hands-on exploration, and a little spooky fun.
 
@@ -41,7 +41,7 @@ For parents,  fun bars and restaurants, and live music. Plus, it’s walkable, e
 
 ## Staying on the Queen Mary
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 ### Queen Mary Room Options for Families
 
@@ -61,7 +61,7 @@ Staying aboard the Queen Mary is quite a treat. It’s like stepping back in tim
 
 ## Eating on the Queen Mary
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 ### Queen Mary Restaurants for Families
 
@@ -93,7 +93,7 @@ One of my favorite things to do on a Sunday is brunch, and the Queen Mary has a 
 
 ## Tours, Attractions &amp; Events
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 ### Best Queen Mary Tours for Families
 
@@ -462,7 +462,7 @@ One ship. Endless experiences. And a reason to come back again, and again.
 
 ## Frequently Asked Questions
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 At the end of the day, the Queen Mary is one of those rare places that actually works for kids, teens, and parents. It has history, hands-on exploring, a little spooky fun, and plenty of “wait… this is actually really cool” moments.
 
@@ -470,9 +470,9 @@ Whether you’re visiting for a few hours, staying overnight, or timing your tri
 
 And if you’re ready to keep the adventure going, head over to my[** California Family Travel Guides**](/california-family-travel/) and my **[Best Haunted Hotels in California Guides](/haunted-hotel-in-california/)** for more family-approved destinations, unique stays, and unforgettable experiences across the Golden State, because California is full of trips that are just as fun as they are memorable.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="Explore the Queen Mary with kids! From spooky stories and haunted legends to hands-on exhibits, seasonal events, and even overnight stays, this historic ocean liner in Long Beach is perfect for family adventures. #FamilyTravel #QueenMary #HauntedPlaces #CaliforniaTravel #KidFriendly"><a href="/images/Guide-to-visiting-the-Queen-Mary-with-Kids.jpg"><img src="/images/Guide-to-visiting-the-Queen-Mary-with-Kids-200x300.jpg" alt="Family Guide Visiting The Queen Mary With Kids" /></a></figure>
-</div></div>
+

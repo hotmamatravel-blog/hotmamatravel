@@ -451,9 +451,9 @@ As SoCal natives, we absolutely love visiting the Palm Springs area. There is a 
 
 Also, before you plan your next visit, be sure to check out our ultimate guide for **[things to do in Palm Springs with kids](/palm-springs-with-kids/)**, and [best Palm Springs tours](/best-palm-springs-tours/). Also see our articles on the [best glamping spots in Palm Springs](/glamping-palm-springs/) and [Joshua Tree](/glamping-joshua-tree-national-park/).
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7b19364c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="best-family-resorts-palm-springs"><a href="/images/best-family-resorts-palm-springs.jpg"><img src="/images/best-family-resorts-palm-springs-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

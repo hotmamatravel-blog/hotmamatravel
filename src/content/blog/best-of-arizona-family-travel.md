@@ -12,7 +12,6 @@ wpSlug: "best-of-arizona-family-travel"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Arizona isn’t just desert and cacti; it’s a playground for families who crave adventure with a side of the unexpected. Here, you can explore haunted hotels where the past still whispers, catch live music under a fiery sunset, and discover quirky roadside gems that make even the kids say, “Whoa, that’s cool.” Whether you’re floating through red rock canyons, ghost-hunting in Jerome, or relaxing at a family-friendly resort in Scottsdale, Arizona, it delivers experiences as colorful as its sunsets.
 
 So pack your curiosity (and maybe some sage), because we’re diving into the best family-friendly hotels, haunted hot spots, and unforgettable adventures that make the Grand Canyon State pure *HotMamaTravel Approved.*
@@ -21,7 +20,7 @@ So pack your curiosity (and maybe some sage), because we’re diving into the be
 
 ## Arizona Family Attractions
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [Unforgettable Weekend Road Trips from Las Vegas](/3-day-road-trips-from-las-vegas/)
 
@@ -35,7 +34,7 @@ So pack your curiosity (and maybe some sage), because we’re diving into the be
 
 ## Arizona Family Hotels
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [Best Western Plus Williams AZ](/grand-canyon-with-kids-williams-az/)
 
@@ -47,25 +46,25 @@ So pack your curiosity (and maybe some sage), because we’re diving into the be
 
 ## Arizona Family Restaurants
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-ugb-heading ugb-heading ugb-4ab6670 ugb-main-block"><style>.ugb-4ab6670 .ugb-heading__title{text-align:center}.ugb-4ab6670 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-4ab6670 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Arizona Family Breweries
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-ugb-heading ugb-heading ugb-45bf533 ugb-main-block"><style>.ugb-45bf533 .ugb-heading__title{text-align:center}.ugb-45bf533 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-45bf533 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Arizona Family Wineries
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-ugb-heading ugb-heading ugb-4678b63 ugb-main-block"><style>.ugb-4678b63 .ugb-heading__title{text-align:center}.ugb-4678b63 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-4678b63 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Arizona Family Glamping/RV
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [Best Locations for Glamping Arizona](/glamping-arizona/)
 
@@ -75,7 +74,7 @@ So pack your curiosity (and maybe some sage), because we’re diving into the be
 
 ## Arizona Family Haunted Places
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [&nbsp;Best Towns for Halloween to Visit With Your Family](/best-towns-for-halloween/)
 
@@ -87,7 +86,7 @@ So pack your curiosity (and maybe some sage), because we’re diving into the be
 
 ## Arizona Holiday-Themed Family Travel
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [The Polar Express Arizona](/polar-express-in-arizona/)
 
@@ -95,7 +94,7 @@ So pack your curiosity (and maybe some sage), because we’re diving into the be
 
 ## Arizona Family Travel Videos
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ybj0N9jWTLw?si=TFxMvQ1vwQ1oamyQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

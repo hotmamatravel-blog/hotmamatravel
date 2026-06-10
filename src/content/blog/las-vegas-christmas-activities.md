@@ -23,7 +23,7 @@ And because Christmas should be more than just a one-day present palooza. I've g
 
 ## Christmas-Themed Vegas Shows
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-4c8d9ef1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/tournament-of-kings-las-vegas-dinner-show-packages.jpg"><img src="/images/tournament-of-kings-las-vegas-dinner-show-packages.jpg" alt="Tournament of Kings at Excalibur family las vegas show" /></a></figure></div>
 
@@ -103,7 +103,7 @@ If you want something totally different from the usual Christmas carol vibes, **
 
 ## Las Vegas Christmas Activities
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t4Jw9PDCTt8?si=k3UndXcvpjRVm181&amp;start=370" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -161,7 +161,7 @@ The Upside Down gets festive too! The Stranger Things Store is a great way to sp
 
 ## Las Vegas Christmas Hotels
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 ### [Christmas Suite At Westgate](/go/westgate-hotel-las-vegas/)
 
@@ -193,9 +193,9 @@ For even more ways to plan your ultimate Vegas holiday, join my [**Las Vegas Wit
 
 Also, check out my **[Las Vegas family travel guides](/family-friendly-vegas/)**, and if you’re dreaming of exploring beyond the Strip, head over to my **[Nevada family travel guide](/nevada-family-travel/)** for more kid-friendly adventures across the Silver State.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="Make Christmas magical for the whole family in Las Vegas! From twinkling lights and festive shows to holiday suites and winter wonderlands—Vegas delivers unforgettable holiday fun for kids of all ages. #LasVegasChristmas #FamilyTravel #HolidayFun #VegasWithKids #ChristmasMagic"><a href="/images/Christmas-in-Las-Vegas-with-Kids.jpg"><img src="/images/Christmas-in-Las-Vegas-with-Kids-200x300.jpg" alt="christmas in las vegas with kids" /></a></figure>
-</div></div>
+

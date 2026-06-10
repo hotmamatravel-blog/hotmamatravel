@@ -25,13 +25,7 @@ Amidst the plethora of Nashville's live music venues and tempting eateries, we d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ENEgQKbd5dU?si=2ymtPrK7FlAj2fny" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-d1318d3c">
-
 ## Places to Eat Downtown Nashville
-
-<div class="uagb-separator"></div></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
 ### [Bourbon Street Blues and Boogie Bar](/go/bourbon-street-blues-and-boogie-bar-nashville/)
 
@@ -48,12 +42,9 @@ So, if you're on the lookout for a spot that combines live blues, a lively Mardi
 
 **[See Photos, Reviews, &amp; More](/go/bourbon-street-blues-and-boogie-bar-nashville/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-d3e4475a">
-
 ### [The Countrypolitan Bar &amp; Kitchen](/go/the-countrypolitan-bar-kitchen-nashville/)
 
 315 Union St, Nashville, TN 37201
-</div>
 
 The Countrypolitan Bar &amp; Kitchen is a stylish hotel lobby lounge that welcomes families with open arms, offering the perfect setting for a musical night out. The live music sets the stage for an unforgettable experience, making it an ideal spot for the whole crew. But that's not all – this place not only serves up tunes but also boasts an upscale pub menu that will make your taste buds dance.
 
@@ -61,13 +52,9 @@ From gourmet pub grub to craft beer selections, [The Countrypolitan](https://www
 
 **[See Photos, Reviews, &amp; More](/go/the-countrypolitan-bar-kitchen-nashville/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-85039e88">
-
 ## Restaurants on Broadway in Nashville
 
-<div class="uagb-separator"></div></div>
-
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-603d6974"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-603d6974"><div class="uagb-section__overlay">
 
 #### [Robert’s Western World](/go/roberts-western-world-nashville/)
 
@@ -79,9 +66,9 @@ Live music plays from open to close every day! So grab the kids and get there fo
 
 [See photos, reviews &amp; more](/go/roberts-western-world-nashville/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4c9f89eb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Honky Tonk Central](/go/honky-tonk-central-nashville/)
 
@@ -93,9 +80,7 @@ What makes it even better for families is that it allows kids and even has a kid
 
 [See photos, reviews &amp; more](/go/honky-tonk-central-nashville/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-53636034">
 
 ### [Tin Roof](/go/tin-roof-broadway-nashville/)
 
@@ -108,12 +93,9 @@ And the best part? Kids can enjoy the live music scene alongside the grown-ups. 
 
 **[See Photos, Reviews, &amp; More](/go/tin-roof-broadway-nashville/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-24c1bf63">
-
 ### [Redneck Riviera](/go/redneck-riviera-nashville/)
 
 208 Broadway, Nashville, TN 37201
-</div>
 
 A Nashville hotspot that's got all the ingredients for a family-friendly hoedown is [Redneck Riviera](https://redneckrivieranashville.com/)! This is a joint where the twang of live country tunes meets the irresistible aroma of mouthwatering BBQ. The family-friendly vibe at Redneck Riviera is a true Nashville treat, making it a go-to for my crew. From toe-tapping melodies to finger-licking good BBQ, this place is a win for both the little ones and the grown-ups.
 
@@ -121,12 +103,9 @@ Plus, they've got rooftop seating and a patio, adding a dash of outdoor charm to
 
 **[See Photos, Reviews, &amp; More](/go/redneck-riviera-nashville/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-e92cd497">
-
 ### [Ole Red](/go/ole-red-nashville/)
 
 300 Broadway, Nashville, TN 37201
-</div>
 
 This is a Nashville favorite that's all about family-friendly fun, live music, and mouthwatering Southern bites! [Ole Red](https://olered.com/) is a spot where the sounds of live tunes fills the air, and your family can kick back on rooftop seating while indulging in the best Southern comfort food. Ole Red is not just a restaurant; it's a Music City experience.
 
@@ -134,13 +113,9 @@ The family-friendly atmosphere makes it a top pick for families, and the menu is
 
 **[See Photos, Reviews, &amp; More](/go/ole-red-nashville/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-75ca79bd">
-
 ## Famous Bars in Nashville
 
-<div class="uagb-separator"></div></div>
-
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-272de9f1"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-272de9f1"><div class="uagb-section__overlay">
 
 #### [Bluebird Café](/go/bluebird-cafe-nashville/)
 
@@ -154,11 +129,9 @@ Interestingly, the venue is actually not located near the other popular music ro
 
 [See photos, reviews &amp; more](/go/bluebird-cafe-nashville/)
 
-</div></section>
+
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="miranda-lamberts-casa-rosa-nashville"><figure><a href="/images/miranda-lamberts-casa-rosa-nashville.jpg"><img src="/images/miranda-lamberts-casa-rosa-nashville.jpg" alt="Miranda Lambert" /></a><figcaption class="uagb-image-caption">Courtesy of Casa Rosa</figcaption></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-33102b33">
 
 ### [Miranda Lambert's Casa Rosa](/go/miranda-lambert-casa-rosa-nashville/)
 
@@ -171,11 +144,7 @@ There is also a Casa Rosa location in Las Vegas! Another great city known for en
 
 **[See Photos, Reviews, &amp; More](/go/miranda-lambert-casa-rosa-nashville/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-5fe24fa3">
-
 ## That’s a Wrap!
-
-<div class="uagb-separator"></div></div>
 
 So there you have it, the best kid-friendly restaurants in Nashville with live music. If you are looking for family things to do in Nashville TN, think about going honky tonking with your kids. Luckily for families, many of the popular Nashville music venues are also kid-friendly restaurants. It is so important that families are having fun together during their travels, so don’t box yourself in limiting your itinerary to only Nashville attractions for kids. There is nothing wrong with getting their groove on with mama, daddy, grandpa and grandma.
 
@@ -191,9 +160,9 @@ If you are looking to extend your stay indefinitely, check out [**The Best Neigh
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3dee744c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3dee744c"><div class="uagb-section__overlay">
 
 **Like it? Pin it!**
 
 <figure id="Kid-Friendly-Nashville-Restaurants-with-live-Music"><a href="/images/Nashville-Restaurants.png"><img src="/images/Nashville-Restaurants-200x300.png" alt="" /></a></figure>
-</div></section>
+

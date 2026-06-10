@@ -19,22 +19,14 @@ Orange Circle is great for antique lovers too, as you can spend the afternoon wa
 
 **Here's what's in this article**:
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-8c987c27 uagb-section__background-undefined" id="uagb-section-f313165d-23ca-4124-bb2c-d3a57c6d9abc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-53cc9592" id="uagb-adv-heading-29242aba-8b3c-4c65-acbc-72756caae550">
 
 ### Unique area attractions
-
-</div>
 
 - [Antique Shopping](#antique-shopping-old-towne-orange)
 - [International Street Fair](#international-street-fair-old-towne-orange)
 - [Haunted Orange County Tours](#haunted-orange-county-tours-orange)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-b97fee16" id="uagb-adv-heading-8710af7a-2e7d-4737-a86e-792062c29c0b">
-
 ### Family Restaurants
-
-</div>
 
 - [Filling Station](#filling-station-cafe-old-towne-orange)
 - [Rutabegorz](#rutabegorz-old-towne-orange)
@@ -46,11 +38,7 @@ Orange Circle is great for antique lovers too, as you can spend the afternoon wa
 - [Citrus City Grille](#citrus-city-grille-orange)
 - [Francoli Gourment](#francoli-gourmet-orange)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-4301b6bd" id="uagb-adv-heading-0e09090a-1260-4e22-b0de-3d27720c4888">
-
 ### Historic sites &amp; districts
-
-</div>
 
 - [The Plaza Park](#plaza-park-orange)
 - [Watson's Drug &amp; Soda Fountain](#watsons-drug-soda-fountain-orange)
@@ -58,18 +46,15 @@ Orange Circle is great for antique lovers too, as you can spend the afternoon wa
 - [Royer Mansion](#royer-mansion-orange)
 - [Women's Club](#womens-club-orange)
 
-</div></section>
+
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
-
-<div class="wp-block-uagb-advanced-heading uagb-block-180fade4" id="uagb-adv-heading-a2533bf4-e499-4467-8550-70702b312cfb">
 
 ## Kid-friendly Orange Circle Attractions
 
 Orange Circle, most of the time, is very laid-back, but has its moments of coming alive. With all the bars and restaurants around, nights are very lively. Most days, it is nice to wonder around, pop into various shops, and enjoy some good food and drink.
-</div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-17ee8dcc uagb-section__background-undefined" id="uagb-section-0b23bced-f17e-4ec6-a576-a614710e86ec"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure><img src="/images/Orangecircle-1024x1024.jpg" alt="antique mall in old towne orange" /></figure>
 
 #### [Antique Shopping](/go/orange-circle-antique-mall-orange-ca/)
@@ -78,9 +63,9 @@ Shops, shops and more shops. If you love antiques and sweet boutiques, then you�
 
 [See photos, reviews &amp; more](/go/orange-circle-antique-mall-orange-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-ee55d5ce uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/Street-Fari-e1491513362146.png" alt="International street fair at orange circle " /></figure>
 
 #### **[International Street Fair](/go/old-towne-orange-ca/)**
@@ -89,9 +74,9 @@ The International Street Fair has been an Old Towne tradition since 1973 and was
 
 [See photos, reviews &amp; more](/go/old-towne-orange-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-48d8f6d1 uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Haunted Orange County Tours &amp; Events](/go/haunted-orange-county-old-towne-orange-ca/)
 
@@ -101,15 +86,11 @@ Yes people, ghost tours. It is a historical district after all and what historic
 
 [See photos, reviews &amp; more](/go/haunted-orange-county-old-towne-orange-ca/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-1cff9275" id="uagb-adv-heading-46afa4df-b1d0-4b0e-a279-85f69e8963fd">
 
 ## Family Restaurants in Old Towne Orange
 
-</div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-7733e4ef uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 <figure><img src="/images/Filling-Station-e1491511012159.png" alt="old towne orange family restaurant filling station cafe" /></figure>
 
 #### **[Filling Station Cafe](/go/filling-station-cafe-old-towne-orange-ca/)**
@@ -122,9 +103,9 @@ On the weekends Filling Station offers breakfast all day, which my kids love! If
 
 [See photos, reviews &amp; more](/go/filling-station-cafe-old-towne-orange-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-5435ae16 uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Rutabegorz](/go/rutabegorz-restaurant-old-towne-orange/)**
 
@@ -134,9 +115,9 @@ Healthy and delicious? Yup. Rutabegorz nailed it. In this 1915 converted home of
 
 [See photos, reviews &amp; more](/go/rutabegorz-restaurant-old-towne-orange/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-cc8d856d uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/family-restaurant-old-town-orange-felix-continental-cafe.jpg" alt="" /><figcaption>courtesy of Felix Continental Cafe</figcaption></figure>
 
 #### **[Felix Continental Café](/go/felix-continental-cafe-old-towne-orange-ca/)**
@@ -149,9 +130,9 @@ In addition to beer and wine, libations include a variety of specialty drinks an
 
 [See photos, reviews &amp; more](/go/felix-continental-cafe-old-towne-orange-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-74f6aa68 uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/tokyo-cafe-orange.jpg" alt="" /></figure>
 
 #### **[Tokyo Café](/go/tokyo-cafe-old-towne-orange-ca/)**
@@ -162,9 +143,9 @@ This is a tiny and cozy Japanese restaurant, serving up delicious sushi rolls as
 
 [See photos, reviews &amp; more](/go/tokyo-cafe-old-towne-orange-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-59a65672 uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Avila’s E](/go/avilas-ranchito-old-towne-orange-ca/)[l](/go/avilas-ranchito-old-towne-orange-ca/)[Ranchito](/go/avilas-ranchito-old-towne-orange-ca/)**
 
@@ -174,9 +155,9 @@ Avila’s El Ranchito is a delicious family-owned restaurant in Old Towne Orange
 
 [See photos, reviews &amp; more](/go/avilas-ranchito-old-towne-orange-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-2fffb5c3 uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/haven-gastropub-orange.jpg" alt="" /></figure>
 
 #### **[Haven Craft Kitchen+Bar](/go/haven-craft-kitchen-bar-old-towne-orange-ca/)**
@@ -187,9 +168,9 @@ Haven is a really nice gastropub with a great menu and impressive whiskey and be
 
 [See photos, reviews &amp; more](/go/haven-craft-kitchen-bar-old-towne-orange-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-801aace6 uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/gabbis-mexican-kitchen-old-town-orange.jpg" alt="" /></figure>
 
 #### **[Gabbi’s Mexican Kitchen](/go/gabbis-mexican-kitchen-old-towne-orange-ca/)**
@@ -200,9 +181,9 @@ Gabbi’s is located in a cute building built in the early 1900’s and is owned
 
 [See photos, reviews &amp; more](/go/gabbis-mexican-kitchen-old-towne-orange-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-6c5e5765 uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Citrus City Grille](/go/citrus-city-grille-old-towne-orange-ca/)**
 
@@ -212,9 +193,9 @@ Citrus City Grille has been around for over 20 years and serves up delicious mod
 
 [See photos, reviews &amp; more](/go/citrus-city-grille-old-towne-orange-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-debe008e uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Francoli Gourmet](/go/francoli-gourmet-old-towne-orange-ca/)**
 
@@ -224,15 +205,11 @@ This beautiful restaurant features an upscale northern Italian menu that adults 
 
 [See photos, reviews &amp; more](/go/francoli-gourmet-old-towne-orange-ca/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-100e2d75" id="uagb-adv-heading-29c61934-027c-4936-9008-560bedf28c0f">
 
 ## Historic Districts in Orange County
 
-</div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-077be2ea uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 <figure><img src="/images/plaza-square-park-old-towne-orange.jpg" alt="" /></figure>
 
 #### **[The Plaza Park](/go/plaza-square-park-old-towne-orange-ca/)**
@@ -243,9 +220,9 @@ Located right in the center of Old Towne Orange Historic District, The Plaza Par
 
 [See photos, reviews &amp; more](/go/plaza-square-park-old-towne-orange-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-0c610e55 uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/watsons-drug-soda-old-towne-orange.jpg" alt="" /></figure>
 
 #### **[Watson’s Drug &amp; Soda Fountain](/go/watsons-drug-store-soda-fountain-old-towne-orange-ca/)**
@@ -258,9 +235,9 @@ Today, you can still come in and enjoy the nostalgia over a good burger and a sh
 
 [See photos, reviews &amp; more](/go/watsons-drug-store-soda-fountain-old-towne-orange-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-2f0c17d8 uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/big-mommas-house-old-town-orange.jpg" alt="filming location of Big Momma" /></figure>
 
 #### **[Big Momma’s House](/go/old-towne-orange-ca/)**
@@ -273,9 +250,9 @@ In addition, the surrounding neighborhood is worth a stroll with the family as a
 
 [See photos, reviews &amp; more](/go/old-towne-orange-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-e0b9be28 uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Royer Mansion](/go/old-towne-orange-ca/)
 
@@ -285,9 +262,9 @@ The Royer Mansion built in 1900 was once the home of Orange mayor, Dr. Daniel Fr
 
 [See photos, reviews &amp; more](/go/old-towne-orange-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-5224e9ab uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Women’s Club](/go/old-towne-orange-ca/)
 
@@ -297,13 +274,9 @@ Established in February of 1915 by a Miss Lea Collins invited friends, friends a
 
 [See photos, reviews &amp; more](/go/old-towne-orange-ca/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-06f41ecb" id="uagb-adv-heading-cbcd4939-b721-418d-9615-446f46e5ec6d">
 
 ## That's a Wrap!
-
-</div>
 
 A day spent at Orange Circle with kids is just so relaxing. It is a historical little section of town that is quaint enough to be charming, but has enough going on that it is not boring. The streets are lined with so many exciting dining options that you could literally spend a whole day here eating. The kids get excited to try new food and then find a new treasure at the antique shops. Plus, it is so scenic! I have had several friends take their engagement photos here. I bet you’ll love it. Come check out and I’ll come over and meet you for a beer…with my kids. Ha. Check out our vlog from a [fun family day at Orange Circle](https://youtu.be/UiZe1nV6CHg).
 
@@ -311,9 +284,9 @@ If you would like to spookier side to Old Towne Orange, check out our guide to [
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-78c6d087 uagb-section__background-undefined" id="uagb-section-d9c30efa-9f08-47bd-b953-c66d187a3eaa"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure><img src="/images/Orange-Circle3-200x300.png" alt="visiting old towne orange with kids" /></figure>
-</div></section>
+

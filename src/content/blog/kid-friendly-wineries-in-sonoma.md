@@ -19,7 +19,7 @@ Sonoma, California is a historic city and home to over 500 wineries. In Sonoma y
 
 <figure><a href="/go/vinarmour-luxury-wine-bag/"><img src="/images/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg" alt="Get your VinArmour wine travel case today" /></a></figure>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-19951dd9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure><a href="/images/Benziger-family-winery-family-friendly-sonoma.jpg"><img src="/images/Benziger-family-winery-family-friendly-sonoma.jpg" alt="" /></a></figure>
 
 #### [Benziger Family Wineries](/go/benziger-family-winery-sonoma-ca/)
@@ -32,9 +32,9 @@ Taste the difference of biodynamic estate wines at Benziger Family Wineries. By 
 
 [See photos, reviews &amp; more](/go/benziger-family-winery-sonoma-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-962229bf"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/family-pool-francis-ford-coppola-winery-sonoma.jpg"><img src="/images/family-pool-francis-ford-coppola-winery-sonoma.jpg" alt="" /></a></figure>
 
 #### [Francis Ford Coppola Winery](/go/francis-ford-coppola-winery-sonoma-ca/)
@@ -47,9 +47,9 @@ Wine tasting and swimming? Yes, while your kids are having a blast splashing in 
 
 [See photos, reviews &amp; more](/go/francis-ford-coppola-winery-sonoma-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f5f502ec"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/livestock-preston-farm-winery-sonoma.jpg"><img src="/images/livestock-preston-farm-winery-sonoma.jpg" alt="" /></a></figure>
 
 #### [Preston Farm &amp; Winery](/go/preston-farm-winery-sonoma-ca/)
@@ -62,9 +62,9 @@ Preston Farm &amp; Winery is a family-owned organic farm with diverse crops, lik
 
 [See photos, reviews &amp; more](/go/preston-farm-winery-sonoma-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-fd7e9cea"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/family-friendly-cline-cellars-sonoma.jpg"><img src="/images/family-friendly-cline-cellars-sonoma.jpg" alt="" /></a></figure>
 
 #### [Cline Family Cellars](/go/cline-family-cellars-sonoma-ca/)
@@ -77,9 +77,9 @@ Family owned and operated since 1982, Cline Family Cellars makes for a beautiful
 
 [See photos, reviews &amp; more](/go/cline-family-cellars-sonoma-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-cefc9825"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/family-friendly-buena-vista-winery-sonoma.jpg"><img src="/images/family-friendly-buena-vista-winery-sonoma.jpg" alt="" /></a></figure>
 
 #### [Buena Vista Winery](/go/buena-vista-winery-sonoma-ca/)
@@ -92,13 +92,9 @@ What makes this kid-friendly winery in Sonoma so cool is that it is one of the o
 
 [See photos, reviews &amp; more](/go/buena-vista-winery-sonoma-ca/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-ce1affd8">
 
 ## That's a Wrap!
-
-<div class="uagb-separator"></div></div>
 
 Who else is thirsty?? I don't know about you, but I am ready to grab the family and get ourselves up to Sonoma to enjoy some of these kid-friendly wineries. Which one is your favorite?
 
@@ -114,9 +110,9 @@ For beer lovers, check out our list of kid-friendly breweries.
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-539e57cf"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure><a href="/images/5-best-kid-friendly-sonoma-wineries.jpg"><img src="/images/5-best-kid-friendly-sonoma-wineries-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

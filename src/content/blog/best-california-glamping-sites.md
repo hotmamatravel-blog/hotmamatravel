@@ -16,7 +16,7 @@ California offers a wide variety of natural landscapes from the coast to the mou
 
 It's a big diverse state, so looking for California glamping sites might be overwhelming. I have put together a list of my top picks from popular locations to help you narrow things down. If you would like more options on glamping in California, be sure to check out our full-length articles on the destinations covered below.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-29a27ec8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="/images/living-desert-starry-safari-family-glamping-palm-springs-ca"><a href="/images/living-desert-starry-safari-family-glamping-palm-springs-ca.jpg"><img src="/images/living-desert-starry-safari-family-glamping-palm-springs-ca.jpg" alt="teepee glamping at living desert starry safari- palm springs glamping" /></a></figure>
 
 #### [The Living Desert Starry Safari](/go/living-desert-starry-safari-palm-springs-ca/)
@@ -33,9 +33,9 @@ See our full list for more on [glamping Palm Springs](/glamping-palm-springs/).
 
 [See photos, reviews &amp; more](/go/living-desert-starry-safari-palm-springs-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ba27fa89"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="joshua-tree-glamping-hicksville-trailer-palace"><a href="/images/joshua-tree-glamping-hicksville-trailer-palace.jpg"><img src="/images/joshua-tree-glamping-hicksville-trailer-palace.jpg" alt="" /></a></figure>
 
 #### [Hicksville Trailer Palace](/go/hicksville-trailer-palace-joshua-tree-ca/)
@@ -52,9 +52,9 @@ Some trailers have a private bathroom, while others share a communal shower room
 
 [See photos, reviews &amp; more](/go/hicksville-trailer-palace-joshua-tree-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5210305b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="family-glamping-bay-area-ca-safari-west"><a href="/images/family-glamping-bay-area-ca-safari-west.jpg"><img src="/images/family-glamping-bay-area-ca-safari-west.jpg" alt="" /></a></figure>
 
 #### [Safari West](/go/safari-west-glamping-bay-area-ca/)
@@ -71,9 +71,9 @@ The safari tents and cottages are located on the Safari West animal reserve, giv
 
 [See photos, reviews &amp; more](/go/safari-west-glamping-bay-area-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d36c1fbb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="santee-lakes-recreation-preserve-glamping-san-diego-ca"><a href="/images/santee-lakes-recreation-preserve-glamping-san-diego-ca.jpeg"><img src="/images/santee-lakes-recreation-preserve-glamping-san-diego-ca.jpeg" alt="Floating glamping cabins in San Diego Santee Lakes Recreation Preserve" /></a></figure>
 
 #### [Santee Lakes Recreation Preserve](/go/santee-lakes-recreation-preserve-san-diego-ca/)
@@ -90,9 +90,9 @@ Onsite you and your family can enjoy taking the pedal boat out on the lakes, swi
 
 [See photos, reviews &amp; more](/go/santee-lakes-recreation-preserve-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e0e95a3c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="saddle-mountain-ranch-family-glamping-big-sur"><a href="/images/saddle-mountain-ranch-family-glamping-big-sur.jpg"><img src="/images/saddle-mountain-ranch-family-glamping-big-sur.jpg" alt="glamping tents at Saddle Mountain Ranch in Carmel-Big Sur California" /></a></figure>
 
 #### [Saddle Mountain Ranch](/go/saddle-mountain-ranch-big-sur-ca/)
@@ -109,9 +109,9 @@ For larger families, there are ten cabins to choose from which sleep four to sev
 
 [See photos, reviews &amp; more](/go/saddle-mountain-ranch-big-sur-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-53f65fd2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="glamping-el-capitan-canyon-santa-barbara"><a href="/images/glamping-el-capitan-canyon-santa-barbara.jpg"><img src="/images/glamping-el-capitan-canyon-santa-barbara.jpg" alt="Cabin glamping at El Capitan Canyon in Santa Barbara California" /></a></figure>
 
 #### [El Capitan Canyon](/go/el-capitan-canyon-santa-barbara-ca/)
@@ -128,9 +128,9 @@ On the property, you'll be able to unplug and connect with nature while having a
 
 [See photos, reviews &amp; more](/go/el-capitan-canyon-santa-barbara-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-cd020f75"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="ventura-ranch-koa-wagon-glamping-los-angeles-ca"><a href="/images/ventura-ranch-koa-wagon-glamping-los-angeles-ca.jpg"><img src="/images/ventura-ranch-koa-wagon-glamping-los-angeles-ca.jpg" alt="" /></a></figure>
 
 #### [Ventura Ranch KOA Holiday](/go/ventura-ranch-koa-los-angeles-ca/)
@@ -149,9 +149,9 @@ Ventura Ranch KOA Holiday is a great glamping site for families thanks to the ab
 
 [See photos, reviews &amp; more](/go/ventura-ranch-koa-los-angeles-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-002db03d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="eco-camps-glamping-temecula-ca"><a href="/images/eco-camps-glamping-temecula-ca.jpg"><img src="/images/eco-camps-glamping-temecula-ca.jpg" alt="" /></a></figure>
 
 #### [Eco-Camps Temecula](/go/eco-camps-temecula-glamping-temecula-ca/)
@@ -168,13 +168,9 @@ At Eco-Camps Temecula you can expect beautiful views of sunsets, starry nights a
 
 [See photos, reviews &amp; more](/go/eco-camps-temecula-glamping-temecula-ca/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-3dedb2a9">
 
 ## That's A Wrap
-
-<div class="uagb-separator"></div></div>
 
 Hope you enjoyed my picks for some great glamping California sites! Like I said California is huge so the options are practically endless. Please have fun clicking around to see more California glamping sites in the destinations listed above. Additionally, if you want more glamping recommendations from across the country, check out my guides from the locations below.
 

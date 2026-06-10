@@ -33,7 +33,6 @@ However, (and this is a big however) there are certain things you need to know b
 <div class="wp-block-uagb-icon-list-child uagb-block-d7cfd366 uagb-icon-list-repeater uagb-icon-list__wrapper"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256z"></path></svg>Cirque du Soleil shows often incorporate intricate storytelling that children may not fully understand or appreciate.</div>
 
 <div class="wp-block-uagb-icon-list-child uagb-block-5a0e4eb3 uagb-icon-list-repeater uagb-icon-list__wrapper"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256z"></path></svg>For really young children, the show may be intense at times due to loud music, flashing lights, pyrotechnics, etc.</div>
-</div></div>
 
 #### Some tips before you book:
 
@@ -43,9 +42,6 @@ However, (and this is a big however) there are certain things you need to know b
 <div class="wp-block-uagb-icon-list-child uagb-block-a52ec401 uagb-icon-list-repeater uagb-icon-list__wrapper"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256z"></path></svg>Consider sitting on an aisle seat and toward the back so you can sneak out like a ninja if your child becomes difficult during the show</div>
 
 <div class="wp-block-uagb-icon-list-child uagb-block-e4f47197 uagb-icon-list-repeater uagb-icon-list__wrapper"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 256C512 397.4 397.4 512 256 512C114.6 512 0 397.4 0 256C0 114.6 114.6 0 256 0C397.4 0 512 114.6 512 256z"></path></svg>Try to book an earlier showtime (7:30 instead of 9:00pm)</div>
-</div></div>
-
-</div></div></div></div></div></div>
 
 In this article, you will learn all about family-friendly Cirque du Soleil shows in Vegas. I will share just the right amount of detail so you know exactly what each show is about and you can decide whether it is appropriate for your kids.
 
@@ -55,11 +51,9 @@ To view this article as a web story: [**Kid-Friendly Las Vegas Cirque Du Soleil 
 
 ## Best Cirque Du Soleil Shows In Vegas For Kids
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Mystere-Cirque-du-soleil-las-vegas-show"><figure><a href="/images/Mystere-Cirque-du-soleil-las-vegas-show.jpg"><img src="/images/Mystere-Cirque-du-soleil-las-vegas-show.jpg" alt="Mystere Las Vegas Cirque Show for kids" /></a></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
 ### [Mystere](/go/mystere-las-vegas-bov/)
 
@@ -76,12 +70,9 @@ You can expect a night of laughs, amazement, entertainment, and just plain old k
 
 <div class="wp-block-uagb-image uagb-block-f1e3e71c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/ka-vegas-show-teens.jpg"><img src="/images/ka-vegas-show-teens.jpg" alt="Ka best cirque du soleil shows in vegas for kids" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-e3e3fa25">
-
 ### [KA](/go/ka-las-vegas-bov/)
 
 MGM Grand
-</div>
 
 ***Kids 7+ Great for Teens!!**
 
@@ -95,12 +86,9 @@ If you visit during the spring and summer, be sure to enjoy the amazing pool com
 
 <div class="wp-block-uagb-image uagb-block-32225c40 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/michael-jackson-one-mandalay-vegas-show.jpg"><img src="/images/michael-jackson-one-mandalay-vegas-show.jpg" alt="Michael Jackson One Show at Mandalay Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-7767a69a">
-
 ### [Michael Jackson: ONE](/go/michael-jackson-one-las-vegas-bov/)
 
 Mandalay Bay
-</div>
 
 ***Kids 5+ Great for Teens**
 
@@ -112,12 +100,9 @@ If you are feeling the music and not ready to let go of a fun night out with the
 
 <div class="wp-block-uagb-image uagb-block-14af2471 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/O-Cirque-du-soleil-las-vegas-show.jpg"><img src="/images/O-Cirque-du-soleil-las-vegas-show.jpg" alt="O at Bellagio Cirque du Soleil Shows Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-e4a375b1">
-
 ### ['O'](/go/o-cirque-las-vegas-bov/)
 
 Bellagio
-</div>
 
 ***Kids 5+ Great for Teens**
 
@@ -131,12 +116,9 @@ For even more entertainment, be sure to take the family to watch the Bellagio Fo
 
 <div class="wp-block-uagb-image uagb-block-4b91cad5 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/blue-man-group-vegas-show-teens.jpg"><img src="/images/blue-man-group-vegas-show-teens.jpg" alt="Blue Man Group Cirque du Soleil Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-47a0454c">
-
 ### [Blue Man Group](/go/blue-man-group-las-vegas-bov/)
 
 Luxor
-</div>
 
 ***All Ages**
 
@@ -156,11 +138,7 @@ Luxor also happens to be home to the awesome Bodies and Titanic Exhibits, which 
 
 **[See Photos, Reviews, &amp; More](/go/blue-man-group-las-vegas-bov/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-efce627c">
-
 ## That's a Wrap!
-
-<div class="uagb-separator"></div></div>
 
 Vegas has a ton of** [kid-friendly shows](/las-vegas-shows-for-kids/)**, but a lot of people don't seem to realize that you can also take kids to Cirque du Soleil shows. In this article, we reviewed and ranked the best Cirque du Soleil shows in Vegas for kids. Next time you are in [**Vegas with kids**](/las-vegas-with-kids/), don't be afraid to check out a Cirque show and book it like it's hot! We prefer to use [**Vegas.com**](/go/best-of-vegas-main/) because they have a Best Price Guarantee and their site is easy to use.
 
@@ -168,9 +146,9 @@ For more details on planning the perfect [**Las Vegas family vacation**](/family
 
 Also, be sure to join our **[Las Vegas With Kids Facebook Group](https://www.facebook.com/groups/lasvegaswithkidstips)**! This is where we share all things current for families planning on visiting Las Vegas.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e0ff9110"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e0ff9110"><div class="uagb-section__overlay">
 
 **Like it? Pin it!**
 
 <figure id="kid-friendly-cirque-du-soleil-show-in-vegas-for-kids"><a href="/images/kid-friendly-cirque-du-soleil-show-in-vegas-for-kids.jpg"><img src="/images/kid-friendly-cirque-du-soleil-show-in-vegas-for-kids-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

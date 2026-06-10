@@ -17,13 +17,9 @@ Planning a family trip and landing at Los Angeles International Airport (LAX)? E
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="sonesta-redondo-beach-marina-lax-family-hotels"><figure><a href="/images/sonesta-lax-family-hotel-near-airport.jpg"><img src="/images/sonesta-lax-family-hotel-near-airport.jpg" alt="Sonesta-lax-family-hotel-near-airport" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
-
 ### [Sonesta Los Angeles Ai](/go/sonesta-lax/)[r](/go/sonesta-lax/)[port LAX](/go/sonesta-lax/): Stress-Free Family Stopover at LAX
 
 5985 W. Century Blvd, Los Angeles, CA 90045
-
-</div>
 
 Urban Comfort Meets Family Convenience at [Sonesta Los Angeles Airport](https://www.sonesta.com/sonesta-hotels-resorts/ca/los-angeles/sonesta-los-angeles-airport-lax), where spacious accommodations and thoughtful amenities create a restful stopover for families on the move. This hotel turns your travel day into part of the vacation with sleek, spacious, modern rooms, multiple dining options, and unbeatable proximity to LAX.
 
@@ -59,12 +55,9 @@ Sonesta Los Angeles Airport’s unbeatable location makes it the perfect launchp
 
 <div class="wp-block-uagb-image uagb-block-af724da1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="sonesta-redondo-beach-marina-lax-family-hotels"><figure><a href="/images/sonesta-redondo-beach-marina-lax-family-hotels.jpg"><img src="/images/sonesta-redondo-beach-marina-lax-family-hotels.jpg" alt="Sonesta Redondo Beach &amp; Marina family-friendly hotel near LAX" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-6861ef95">
-
 ### [Sonesta Redondo Beach &amp; Marina](/sonesta-redondo-beach-and-marina/): Coastal Elegance for Family Delight
 
 300 N Harbor Dr, Redondo Beach, CA 90277
-</div>
 
 Indulge in coastal elegance at [Sonesta Redondo Beach &amp; Marina](https://www.sonesta.com/sonesta-hotels-resorts/ca/redondo-beach/sonesta-redondo-beach-marina), where stunning views and family-friendly amenities create an unforgettable experience. With spacious rooms, a waterfront setting, and a range of dining options, this hotel adds a touch of luxury to your family getaway near LAX. Read **[our full review of Sonesta](/sonesta-redondo-beach-and-marina/)** for more information.
 
@@ -88,12 +81,9 @@ Indulge in coastal elegance at [Sonesta Redondo Beach &amp; Marina](https://www.
 
 <div class="wp-block-uagb-image uagb-block-23162010 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hilton-los-angeles-airport-lax-family-hotels"><figure><a href="/images/hilton-los-angeles-airport-lax-family-hotels.jpg"><img src="/images/hilton-los-angeles-airport-lax-family-hotels.jpg" alt="kid-friendly Hilton Los Angeles Airport LAX hotel" /></a><figcaption class="uagb-image-caption">Courtesy of Hilton Los Angeles Airport</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-2e134bd5">
-
 ### [Hilton Los Angeles Airport](/go/hilton-los-angeles-airport-hotel/): Where Convenience Meets Comfort
 
 5711 West Century Boulevard, Los Angeles, CA 90045
-</div>
 
 Nestled just moments away from LAX, the [Hilton Los Angeles Airport](https://www.hilton.com/en/locations/usa/california/los-angeles/lax-los-angeles-international-airport/) is a haven for families. With spacious rooms, a sparkling pool, and a range of dining options, this hotel combines convenience with comfort. Plus, the complimentary shuttle service to and from the airport makes your family travel a breeze.
 
@@ -111,12 +101,9 @@ Nestled just moments away from LAX, the [Hilton Los Angeles Airport](https://www
 
 <div class="wp-block-uagb-image uagb-block-1c952674 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hyatt-regency-los-angeles-international-airport-best-family-hotels-near-lax"><figure><a href="/images/hyatt-regency-los-angeles-international-airport-best-family-hotels-near-lax.jpg"><img src="/images/hyatt-regency-los-angeles-international-airport-best-family-hotels-near-lax.jpg" alt="Hyatt Regency Los Angeles International Airport Family hotel near LAX" /></a><figcaption class="uagb-image-caption">Courtesy of Hyatt Regency Los Angeles International Airport</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-9037fa7d">
-
 ### [Hyatt Regency Los Angeles International Airport](/go/hyatt-regency-los-angeles-airport/): A Stylish Family Retreat
 
 6225 W Century Blvd, Los Angeles, CA 90045
-</div>
 
 Experience modern elegance at the [Hyatt Regency LAX](https://www.hyatt.com/hyatt-regency/en-US/laxla-hyatt-regency-los-angeles-international-airport), where family-friendly amenities meet chic accommodations. The hotel offers spacious rooms, an outdoor pool, and delicious dining options. The 24/7 airport shuttle ensures a smooth transition for your family from plane to hotel, making it an ideal choice for a stress-free stay.
 
@@ -134,12 +121,9 @@ Experience modern elegance at the [Hyatt Regency LAX](https://www.hyatt.com/hyat
 
 <div class="wp-block-uagb-image uagb-block-8dfa9964 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="embassy-suites-hilton-los-angeles-international-airport-best-family-hotels-near-lax"><figure><a href="/images/embassy-suites-hilton-los-angeles-international-airport-best-family-hotels-near-lax.jpg"><img src="/images/embassy-suites-hilton-los-angeles-international-airport-best-family-hotels-near-lax.jpg" alt="Embassy Suites by Hilton Family-friendly LAX hotel " /></a><figcaption class="uagb-image-caption">Courtesy of Embassy Suites by Hilton</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-7f38b62a">
-
 ### [Embassy Suites by Hilton Los Angeles International Airport South](/go/embassy-suites-hilton-los-angeles-international-airport/): Spacious Suites for Family Bonding
 
 1440 East Imperial Avenue, El Segundo, CA 90245
-</div>
 
 Ideal for larger families, the [Embassy Suites](https://www.hilton.com/en/hotels/laxeses-embassy-suites-los-angeles-international-airport-south/hotel-info/) provides spacious two-room suites, creating a home-away-from-home atmosphere. The complimentary cooked-to-order breakfast and evening reception are delightful touches. Situated close to LAX, this hotel makes family travel both comfortable and memorable.
 
@@ -157,12 +141,9 @@ Ideal for larger families, the [Embassy Suites](https://www.hilton.com/en/hotels
 
 <div class="wp-block-uagb-image uagb-block-73ffc9e8 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="sheraton-gateway-los-angeles-best-family-hotels-near-lax"><figure><a href="/images/sheraton-gateway-los-angeles-best-family-hotels-near-lax.jpg"><img src="/images/sheraton-gateway-los-angeles-best-family-hotels-near-lax.jpg" alt="Sheraton Gateway Los Angeles Hotel near LAX" /></a><figcaption class="uagb-image-caption">Courtesy of Sheraton Gateway Los Angeles Hotel</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-9283f762">
-
 ### [Sheraton Gateway Los Angeles Hotel](/go/sheraton-gateway-los-angeles-hotel/): Unwind in Modern Comfort
 
 6101 West Century Boulevard, Los Angeles, CA 90045
-</div>
 
 A stone's throw from LAX, the [Sheraton Gateway](https://www.marriott.com/en-us/hotels/laxsi-sheraton-gateway-los-angeles-hotel/overview/parking/) offers contemporary accommodations with family-friendly features. The outdoor pool is a hit with the kids, and the on-site restaurant serves up a variety of dishes to please every palate. It's the perfect retreat for families seeking modern comfort and convenience.
 
@@ -180,12 +161,9 @@ A stone's throw from LAX, the [Sheraton Gateway](https://www.marriott.com/en-us/
 
 <div class="wp-block-uagb-image uagb-block-ccf802f3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-westin-los-angeles-best-family-hotels-near-lax"><figure><a href="/images/the-westin-los-angeles-best-family-hotels-near-lax.jpg"><img src="/images/the-westin-los-angeles-best-family-hotels-near-lax.jpg" alt="kid-friendly The Westin Los Angeles Airport Hotel" /></a><figcaption class="uagb-image-caption">Courtesy of The Westin Los Angeles Airport</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-e93f8e5b">
-
 ### [The Westin Los Angeles Airport](/go/westin-los-angeles-airport/): Tranquil Luxury for Family Retreats
 
 5400 W Century Blvd, Los Angeles, CA 90045
-</div>
 
 Discover tranquility and luxury at [The Westin Los Angeles Airport](https://www.marriott.com/en-us/hotels/laxwi-the-westin-los-angeles-airport/own/). Boasting family-friendly amenities and comfortable accommodations, this hotel offers a peaceful retreat for families. With easy access to LAX, it's a perfect choice for a relaxing and stress-free family stay.
 
@@ -203,12 +181,9 @@ Discover tranquility and luxury at [The Westin Los Angeles Airport](https://www.
 
 <div class="wp-block-uagb-image uagb-block-cd75d645 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="los-angeles-marriott-best-family-hotels-near-lax"><figure><a href="/images/los-angeles-mariott-best-family-hotels-near-lax.jpg"><img src="/images/los-angeles-mariott-best-family-hotels-near-lax.jpg" alt="family-friendly Los Angeles Marriott near LAX" /></a><figcaption class="uagb-image-caption">Courtesy of Los Angeles Airport Marriott</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-7bb3bf24">
-
 ### [Los Angeles Airport Marriott](/go/los-angeles-airport-marriott/): **A Tranquil Oasis for Families**
 
 5855 W Century Blvd, Los Angeles, CA 90045
-</div>
 
 Just moments away from the vibrant energy of LAX, [Los Angeles Airport Marriott](https://www.marriott.com/en-us/hotels/laxap-los-angeles-airport-marriott/overview/) beckons families into a world of tranquility and contemporary elegance. From the moment you step into the lobby, it's evident that this hotel is more than just a place to stay; it's a tranquil oasis designed to provide families with an exceptional and stress-free experience.
 
@@ -226,12 +201,9 @@ Just moments away from the vibrant energy of LAX, [Los Angeles Airport Marriott]
 
 <div class="wp-block-uagb-image uagb-block-28ebcad0 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="ritz-carlton-marina-del-rey-best-family-hotels-near-lax"><figure><a href="/images/ritz-carlton-marina-del-rey-best-family-hotels-near-lax.jpg"><img src="/images/ritz-carlton-marina-del-rey-best-family-hotels-near-lax.jpg" alt="Ritz-Carlton Marina Del Rey Family-friendly LAX Hotel" /></a><figcaption class="uagb-image-caption">Courtesy of Ritz-Carlton </figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-c658434c">
-
 ### T[he Ritz-Carlton, Marina del Rey](/go/ritz-carlton-marina-del-rey/):** Coastal Luxury for Unforgettable Family Escapes**
 
 4375 Admiralty Way, Marina Del Rey, CA 90292
-</div>
 
 Elevate your family retreat to the pinnacle of sophistication with [The Ritz-Carlton, Marina del Rey](https://www.ritzcarlton.com/en/hotels/laxmd-the-ritz-carlton-marina-del-rey/overview/), an icon of coastal luxury that effortlessly blends lavish comfort with the breathtaking beauty of the California coastline. As we introduce this distinguished establishment to our guide, envision a stay where every moment is a celebration of elegance and family togetherness.
 
@@ -249,9 +221,9 @@ Elevate your family retreat to the pinnacle of sophistication with [The Ritz-Car
 
 Choosing the right hotel near LAX sets the tone for a seamless and enjoyable family vacation. From the Hilton's convenience to the Hyatt's modern elegance, and now adding Sonesta's coastal charm, these hotels within 7 miles of LAX cater to families with a perfect blend of comfort and style. Make your family trip unforgettable by selecting one of these family-friendly havens for your stay near Los Angeles International Airport.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure><a href="/images/best-family-hotels-near-lax-1.jpg"><img src="/images/best-family-hotels-near-lax-1-200x300.jpg" alt="Best Family Hotels Near LAX" /></a></figure>
-</div></div>
+

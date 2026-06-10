@@ -23,7 +23,7 @@ To get in the spirit, we had the *Polar Express* movie running on a nonstop loop
 
 ## Video of our family on the Polar Express Train with kids:
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gPeyeKJ7KEM?si=MWj9WWZR33gljy83" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -31,15 +31,11 @@ To get in the spirit, we had the *Polar Express* movie running on a nonstop loop
 
 ## Save on the Polar Express in Williams Arizona
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="grand-canyon-railway-hotel-Polar-express-williams-arizona"><figure><a href="/images/grand-canyon-railway-hotel-Polar-express-williams-arizona.jpg"><img src="/images/grand-canyon-railway-hotel-Polar-express-williams-arizona.jpg" alt="Polar Express Package at Grand Canyon Railway Hotel" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
-
 ### [Polar Express Grand Canyon Railway Package](/go/grand-canyon-railway-hotel-williams-az/)
-
-</div>
 
 The Polar Express Arizona is a very popular activity and books up fast. In fact, my sister and I booked our package about six months prior to our trip. The package saves you 10% and includes your Polar Express tickets as well as our accommodations and buffet dinner.
 
@@ -59,16 +55,13 @@ Sometimes with bigger groups it is more cost effective to book the room and trai
 
 ## Where to stay near the Polar Express in Williams, AZ
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-3cd3a101 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="christmas-grand-canyon-railway-hotel-williams-arizona"><figure><a href="/images/christmas-grand-canyon-railway-hotel-williams-arizona.jpg"><img src="/images/christmas-grand-canyon-railway-hotel-williams-arizona.jpg" alt="Christmas at the Grand Canyon Railway Hotel for the Polar Express" /></a></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-b08cbcaf">
 
 ### [Grand Canyon Railway Hotel](/go/grand-canyon-railway-hotel-williams-az/)
 
 233 N Grand Canyon Blvd, Williams, AZ 86046-2563
-</div>
 
 Charming. Cozy. Convenient. Festive. Lovely. Yep, that pretty much sums up [The Grand Canyon Railway Hotel](https://www.thetrain.com/). I’m all about the experience, so staying at The Grand Canyon Railway Hotel is a major part of The Polar Express Arizona train adventure. The resort is a quaint two-story hotel with a welcoming, homey atmosphere, bursting with holiday décor. Families pose in their Christmas jammies for photo opportunities in front of the towering Christmas tree and grand fireplace. Hello, Christmas card!
 
@@ -94,12 +87,9 @@ Although Spenser’s offers quick and easy breakfast options in the mornings, th
 
 <div class="wp-block-uagb-image uagb-block-a8f40f13 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="best-western-plus-inn-williams-arizona"><figure><a href="/images/best-western-plus-inn-williams-arizona.jpg"><img src="/images/best-western-plus-inn-williams-arizona.jpg" alt="Best Western Plus Inn Williaims Arizona " /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-087fac26">
-
 ### [Best Western Plus Inn](/go/best-western-plus-inn-williams/)
 
 2600 W Route 66, Williams, AZ 86046-9182
-</div>
 
 Another great hotel option for families riding the Polar Express in the Best Western Plus Inn in Williams Arizona. The hotel is conveniently located near the Grand Canyon Railway Depot, making it easy for families to catch the Polar Express train without a long commute.
 
@@ -117,15 +107,11 @@ We stayed at the Best Western Plus Inn in Williams, Arizona, on a recent trip to
 
 ## What to expect from the Polar Express Arizona Experience
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-e3daee54 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="polar-express-experience-williams-arizona"><figure><a href="/images/polar-express-experience-williams-arizona.jpg"><img src="/images/polar-express-experience-williams-arizona.jpg" alt="Ride on the Polar Express in Williams Arizona" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-85a65945">
-
 ### [The Ride on The Polar Express](/go/grand-canyon-railway-williams-az/)
-
-</div>
 
 After the kids were satisfied and their tummies full, it was time to get on The Polar Express train, a vintage 1923 locomotive that has been converted into a magical mode of transport to the North Pole. The depot is connected to the café, making this extremely convenient and stress-free for families. Besides the cold night air, boarding is a breeze with everything being very organized and efficient.
 
@@ -141,11 +127,7 @@ When you reach the North Pole the kids leap to the window with excitement. The l
 
 <div class="wp-block-uagb-image uagb-block-96915bee wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="dancing-on-polar-express-williams-arizona"><figure><a href="/images/dancing-on-polar-express-williams-arizona.jpg"><img src="/images/dancing-on-polar-express-williams-arizona.jpg" alt="Dancing on the Polar Express in Williams Arizona" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-c0f870de">
-
 ### [Polar Express Ride Back to Depot](/go/grand-canyon-railway-williams-az/)
-
-</div>
 
 Kids are encouraged to dance in the aisle with the chefs, sing Christmas carols and ring those little magic bells. It was my kids’ favorite part of the trip. My son never stopped dancing and my daughter sung every word to every song. The train is altogether an hour long. Families leave the train with a Christmas song book, souvenir Polar Express tickets and their beautiful Christmas bell. The true spirit of Christmas is seen, felt and experienced in such a unique and memorable way. My cheeks actually hurt from smiling so much.
 
@@ -153,11 +135,7 @@ Kids are encouraged to dance in the aisle with the chefs, sing Christmas carols 
 
 <div class="wp-block-uagb-image uagb-block-9116d8f0 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="meeting-santa-polar-express-williams-arizona"><figure><a href="/images/meeting-santa-polar-express-williams-arizona.jpg"><img src="/images/meeting-santa-polar-express-williams-arizona.jpg" alt="Meeting Santa on the Polar Express in Williams Az" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-666834f5">
-
 ### [Christmas Fun at the Depot](/go/grand-canyon-railway-williams-az/)
-
-</div>
 
 Once the Polar Express train is back at the depot, the kids have an opportunity to partake in more fun. Arts, crafts, and various activities are available at the depot. In addition, there are meet-and-greets with favorite characters from the movie. Santa, Mrs. Claus, elves, and even the ghost from the movie are all there for photo opportunities. And of course.... MEETING SANTA!!
 
@@ -169,9 +147,9 @@ We’d heard the **[Polar Express train ride at the Grand Canyon Railway](/go/wi
 
 If you’re hungry for even more holiday cheer, don’t stop here. **[I’ve got tons of Christmas travel ideas](/christmas-getaways-for-families/)** on the blog to keep your season sparkling. And if Arizona is calling your name, make sure to check out **[more family-friendly places to visit in Arizona](/best-of-arizona-family-travel/)** while you’re planning your trip. From festive towns to year-round adventures, there’s plenty of merry magic still waiting for you.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="Make Christmas magic happen! A full family guide to the Polar Express Arizona—tips, tricks, and what to expect. #polarexpress #arizona #christmas #familytravel"><a href="/images/PE-10.png"><img src="/images/PE-10-200x300.png" alt="Why We Love Polar Express Arizona" /></a></figure>
-</div></div>
+

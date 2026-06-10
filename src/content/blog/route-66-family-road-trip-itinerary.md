@@ -28,7 +28,7 @@ Below, you’ll find our easy Route 66 family road trip itinerary, including the
 
 ## Oatman, Arizona
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure><a href="/images/oatman-arizona.jpg"><img src="/images/oatman-arizona.jpg" alt="Kids at Oatman Arizona" /></a></figure>
 
@@ -56,7 +56,7 @@ We love visiting Old West ghost towns like **[Tombstone](/tombstone-with-kids/) 
 
 ## Williams, Arizona
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-a7e55027 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/grand-canyon-arizona_201902.jpg"><img src="/images/grand-canyon-arizona_201902.jpg" alt="Grand Canyon with kids" /></a></figure></div>
 
@@ -82,7 +82,7 @@ Williams has long been considered the gateway to the Grand Canyon, one of the tr
 
 ## Gallup, New Mexico
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-be48840e wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/El-Rancho-Hotel-Gallup-NM.jpg"><img src="/images/El-Rancho-Hotel-Gallup-NM.jpg" alt="El Rancho Hotel Route 66" /></a></figure></div>
 
@@ -102,7 +102,7 @@ Gallup has served as the backdrop for over 100 old Western Movies over the years
 
 ## Santa Fe, New Mexico
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-5b4cd88d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Saint-francis-of-assisi-cathedral-santa-fe-with-kids.jpg"><img src="/images/Saint-francis-of-assisi-cathedral-santa-fe-with-kids.jpg" alt="Kids in Santa Fe at Saint Francis de Assisi" /></a></figure></div>
 
@@ -136,7 +136,7 @@ Santa Fe has been calling me for years, and we made it the centerpiece of our Ro
 
 ## Holbrook, Arizona
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-5a267f9b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Holbrook-AZ-Route-66.jpg"><img src="/images/Holbrook-AZ-Route-66.jpg" alt="Holbrook Arizona Route 66" /></a></figure></div>
 
@@ -162,7 +162,7 @@ The highlight of our visit was exploring the legendary **[Wigwam Motel](https://
 
 ## Kingman, Arizona
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 ### Day 6 (1 night)
 
@@ -182,7 +182,7 @@ After a long drive leaving New Mexico, we stayed the night and rested up in **[K
 
 ## Barstow, California
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 ### Day 7 (passing through)
 
@@ -202,7 +202,7 @@ We only ended up having lunch, because my son came down with something and we de
 
 ## Santa Monica, California
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 ### Day 7 (END)
 
@@ -226,7 +226,7 @@ If you’re mapping out your own route, be sure to explore our **[California fam
 
 Route 66 isn’t just a road, it’s a family adventure you’ll talk about for years.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
@@ -234,4 +234,4 @@ Like it? Pin it!
 Plan the ultimate Route 66 road trip with kids, featuring must-see roadside attractions, family-friendly stops, diners, classic motels, and fun things to do in California, Arizona, and New Mexico. Perfect for families planning a nostalgic, budget-friendly road trip adventure!
 
 #Route66 #Route66RoadTrip #FamilyRoadTrip #RoadTripWithKids #MotherRoad #LAtoSantaFe #SouthwestRoadTrip #ArizonaTravel #NewMexicoTravel #CaliforniaTravel #FamilyTravelTips #RoadTripIdeas #USAFamilyTravel #HotMamaTravel #TravelInspiration #RoadTripPlanning #TravelWithKids"><a href="/images/Route-66-family-road-trip-itinerary.jpg"><img src="/images/Route-66-family-road-trip-itinerary-200x300.jpg" alt="route 66 family road trip itinerary" /></a></figure>
-</div></div>
+

@@ -23,12 +23,8 @@ In this article, we provide a list of the **top things to do in Old Town Scottsd
 
 **Here's what's in this article**:
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-651fef0b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-8321790d" id="uagb-adv-heading-29242aba-8b3c-4c65-acbc-72756caae550">
 
 ### Unique area attractions
-
-</div>
 
 - [Old Town Trolley](#old-town-trolley)
 - [Scottsdale Museum of Contemporary Art](#scottsdale-museum-contemporary-art)
@@ -36,53 +32,33 @@ In this article, we provide a list of the **top things to do in Old Town Scottsd
 - [Southwest Wildlife Conservation Center](#southwest-wildlife-conservation-center)
 - [McCormick-Stillman Railroad Park](#mccormick-stillman-railroad-park)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-5168c438" id="uagb-adv-heading-8710af7a-2e7d-4737-a86e-792062c29c0b">
-
 ### Kid-friendly live music &amp; nightlife
-
-</div>
 
 - [Rusty Spur Saloon](#rusty-spur-saloon)
 - [JoJo Coffee House](#jojo-coffee-house)
 - [Twisted Lizard Tavern &amp; Grille](#twisted-lizard-tavern-grille)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-ca05549f" id="uagb-adv-heading-8710af7a-2e7d-4737-a86e-792062c29c0b">
-
 ### Family-friendly hotels
-
-</div>
 
 - [Best Western Plus Sundial](#best-western-plus-sundial)
 - [The Saguaro Scottsdale](#saguaro-scottsdale)
 - [Scottsdale Marriott Suites Old Town](#scottsdale-marriott-suites-old-town)
 - [The Scott Resort &amp; Spa](#scott-resort-spa)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-6da9e3ad" id="uagb-adv-heading-8710af7a-2e7d-4737-a86e-792062c29c0b">
-
 ### Best family Resorts
-
-</div>
 
 - [The Phoenician](#phoenician)
 - [Omni Scottsdale Resort &amp; Spa](#omni-scottsdale-resort-spa)
 - [Hyatt Regency Scottsdale Resort and Spa](#hyatt-regency-scottsdale-resort-spa)
 - [Fairmont Scottsdale Princess](#fairmont-scottsdale-princess)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-6c810c90" id="uagb-adv-heading-0e09090a-1260-4e22-b0de-3d27720c4888">
-
 ### Historic sites
-
-</div>
 
 - [Little Red Schoolhouse](#little-red-schoolhouse)
 - [Old Adobe Mission](#old-adobe-mission)
 - [Taliesin West](#taliesin-west)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-8f6d6d96" id="uagb-adv-heading-92036814-fc90-405b-b0e0-dfeff9e2d3d6">
-
 ### Family friendly restaurants
-
-</div>
 
 - [Rehab Burger Therapy](#rehab-burger-therapy)
 - [Mowry &amp; Cotton](#mowry-cotton)
@@ -90,17 +66,13 @@ In this article, we provide a list of the **top things to do in Old Town Scottsd
 - [The Mission](#the-mission)
 - [Cold Beers &amp; Cheeseburgers](#cold-beers-cheeseburgers)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-d61f1124" id="uagb-adv-heading-d0e5e59c-c104-4b2c-a5fc-97bf9fb2182d">
-
 ### Parks &amp; hiking trails
-
-</div>
 
 - [Mcdowell Sonoran Conservancy](#mcdowell-sonoran-conservancy)
 - [Cave Creek Outfitters](#cave-creek-outfitters)
 - [Pinnacle Peak Park](#pinnacle-peak-park)
 
-</div></section>
+
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
@@ -108,13 +80,9 @@ In this article, we provide a list of the **top things to do in Old Town Scottsd
 https://www.youtube.com/watch?v=QDDP4fdz1gM
 </div><figcaption>Check out our travel video to **Old Town Scottsdale with kids**!</figcaption></figure>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-5f490498" id="uagb-adv-heading-a2533bf4-e499-4467-8550-70702b312cfb">
-
 ## Kid-friendly Scottsdale Attractions
 
-</div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-32649182"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 <figure><img src="/images/Old-town-scottsdale-shopping.png" alt="Shopping in Old Town Scottsdale AZ" /><figcaption>Shops in Old Town Scottsdale</figcaption></figure>
 
 #### **[Old Town Trolley](/go/old-town-trolley-scottsdale-az/)**
@@ -125,9 +93,9 @@ The free Old Town Trolley takes you around Old Town Scottsdale (literally) in a 
 
 [See photos, reviews &amp; more](/go/old-town-trolley-scottsdale-az/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2a65138e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Scottsdale Museum of Contemporary Art](/go/scottsdale-museum-contemporary-art-scottsdale-az/)**
 
@@ -137,9 +105,9 @@ What makes SMoCA such a cool place to visit is that it is located on a beautiful
 
 [See photos, reviews &amp; more](/go/scottsdale-museum-contemporary-art-scottsdale-az/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6109253d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/kids-shopping-old-town-scottsdale-az.png" alt="Kids shopping for Indian Dolls" /></figure>
 
 #### **[Western Spirit: Scottsdale Museum of the West](/go/western-spirit-scottsdale-museum-west-scottsdale-az/)**
@@ -150,9 +118,9 @@ This museum is a celebration of the history and art of the American west. Its ai
 
 [See photos, reviews &amp; more](/go/western-spirit-scottsdale-museum-west-scottsdale-az/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-70aa9eb1"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Southwest Wildlife Conservation Center](/go/southwest-wildlife-conservation-center-scottsdale-az/)**
 
@@ -162,9 +130,9 @@ The SWCC rescues wild animals that have been injured, abandoned or had their hom
 
 [See photos, reviews &amp; more](/go/southwest-wildlife-conservation-center-scottsdale-az/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-979fe5fe"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[McCormick-Stillman Railroad Park](/go/mccormick-stillman-railroad-park-scottsdale-az/)**
 
@@ -174,15 +142,11 @@ Built on land donated to the city of Scottsdale with the intention of making a p
 
 [See photos, reviews &amp; more](/go/mccormick-stillman-railroad-park-scottsdale-az/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-1e1e9fba" id="uagb-adv-heading-46afa4df-b1d0-4b0e-a279-85f69e8963fd">
 
 ## Kid-friendly Live Music in Scottsdale
 
-</div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a23e851a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 <figure><img src="/images/rusty-spur-saloon-az-scottsdale-bar.jpg" alt="Hot Mama Travel in Rusty Spur Saloon" /></figure>
 
 #### **[Rusty Spur Saloon](/go/rusty-spur-saloon-scottsdale-az/)**
@@ -195,9 +159,9 @@ One of those great Old Scottsdale bars is The Rusty Spur, which was originally a
 
 [See photos, reviews &amp; more](/go/rusty-spur-saloon-scottsdale-az/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-03b7e9c1"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[JoJo Coffee House](/go/jojo-coffee-house-scottsdale-az/)**
 
@@ -207,9 +171,9 @@ Every weekend you can hear the sweet tune of live music coming from JoJo Coffee 
 
 [See photos, reviews &amp; more](/go/jojo-coffee-house-scottsdale-az/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-041649c0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Twisted Lizard Tavern &amp; Grille](/go/twisted-lizard-tavern-grille-scottsdale-az/)**
 
@@ -219,15 +183,11 @@ Twisted Lizard Tavern &amp; Grille has a hip atmosphere against a gorgeous deser
 
 [See photos, reviews &amp; more](/go/twisted-lizard-tavern-grille-scottsdale-az/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-60d2c6db" id="uagb-adv-heading-29c61934-027c-4936-9008-560bedf28c0f">
 
 ## Kid-Friendly Hotels in Scottsdale
 
-</div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-322d6663"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 
 #### **[Best Western Plus Sundial](/go/best-western-plus-sundial-scottsdale-az/)**
 
@@ -239,9 +199,9 @@ Located right across the street from the Entertainment District and just minutes
 
 [See photos, reviews &amp; more](/go/best-western-plus-sundial-scottsdale-az/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f13089e6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/saguaro-cactus-scottsdale.jpg" alt="saguaro cactus" /><figcaption>This is the Saguaro cactus, characteristic of the Arizona Sonoran Desert</figcaption></figure>
 
 #### [The Saguaro Scottsdale](/go/saguaro-scottsdale-scottsdale-az/)
@@ -252,9 +212,9 @@ The Saguaro is a brightly colored hip hotel, located right next to Old Scottsdal
 
 [See photos, reviews &amp; more](/go/saguaro-scottsdale-scottsdale-az/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1723764b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Scottsdale Marriott Suites Old Town](/go/scottsdale-marriott-suites-old-town-scottsdale-az/)**
 
@@ -264,9 +224,9 @@ Location is everything with hotels in the city of Scottsdale and the Marriott is
 
 [See photos, reviews &amp; more](/go/scottsdale-marriott-suites-old-town-scottsdale-az/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b8bb0781"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[The Scott Resort &amp; Spa](/go/scott-resort-spa-scottsdale-az/)**
 
@@ -276,15 +236,11 @@ This hotel is a lush oasis in Old Town Scottsdale, complete with two pools and a
 
 [See photos, reviews &amp; more](/go/scott-resort-spa-scottsdale-az/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-b79924d2" id="uagb-adv-heading-29c61934-027c-4936-9008-560bedf28c0f">
 
 ## Best Family Resorts near Scottsdale
 
-</div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f87e313b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 
 #### **[The Phoenician](/go/phoenician-resort-spa-scottsdale-az/)**
 
@@ -294,9 +250,9 @@ Considered a premier luxury resort, it is also one the best Scottsdale family re
 
 [See photos, reviews &amp; more](/go/phoenician-resort-spa-scottsdale-az/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e3060c71"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Omni Scottsdale Resort &amp; Spa](/go/omni-scottsdale-resort-spa-scottsdale-az/)**
 
@@ -306,9 +262,9 @@ The desert is hot and you just can’t go wrong with multiple sparkling pools. T
 
 [See photos, reviews &amp; more](/go/omni-scottsdale-resort-spa-scottsdale-az/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-73a56e6e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Hyatt Regency Scottsdale Resort and Spa](/go/hyatt-regency-scottsdale-resort-spa-scottsdale-az/)**
 
@@ -318,9 +274,9 @@ This 27-arce resort oozes family-friendliness. The 2.5-arce water playground has
 
 [See photos, reviews &amp; more](/go/hyatt-regency-scottsdale-resort-spa-scottsdale-az/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8a271fc9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Fairmont Scottsdale Princess](/go/fairmont-scottsdale-princess-scottsdale-az/)**
 
@@ -330,15 +286,11 @@ This place is loaded with family fun. There are six pools, including Sonoran Spl
 
 [See photos, reviews &amp; more](/go/fairmont-scottsdale-princess-scottsdale-az/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-eff36cec" id="uagb-adv-heading-29c61934-027c-4936-9008-560bedf28c0f">
 
 ## Historic Sites in Scottsdale
 
-</div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-eea4b3f3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 
 #### **[Little Red Schoolhouse](/go/little-red-schoolhouse-scottsdale-az/)**
 
@@ -348,9 +300,9 @@ Housed inside the Little Red Schoolhouse is the Scottsdale Historical Museum. Th
 
 [See photos, reviews &amp; more](/go/little-red-schoolhouse-scottsdale-az/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-59650f98"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/DSC03619-1024x683.jpg" alt="The Old Adobe Mission Scottsdale Az" /></figure>
 
 #### **[Old Adobe Mission](/go/old-adobe-mission-scottsdale-az/)**
@@ -363,9 +315,9 @@ The Old Adobe Mission is not as old as the California missions, which were built
 
 [See photos, reviews &amp; more](/go/old-adobe-mission-scottsdale-az/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-07b11b88"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Taliesin West](/go/taliesin-west-scottsdale-az/)**
 
@@ -375,15 +327,11 @@ This was the Arizona laboratory, school and winter home of architect Frank Llyon
 
 [See photos, reviews &amp; more](/go/taliesin-west-scottsdale-az/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-8a535c19" id="uagb-adv-heading-7da8a8e6-cf50-4b9e-926f-c4183b91ca32">
 
 ## Scottsdale Restaurants for Families
 
-</div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3c9e6bec"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 
 #### **[Rehab Burger Therapy](/go/rehab-burger-therapy-scottsdale-az/)**
 
@@ -393,9 +341,9 @@ This highly rated burger joint is said to be the perfect mix of salty, sweet, oo
 
 [See photos, reviews &amp; more](/go/rehab-burger-therapy-scottsdale-az/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ac985d45"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Mowry &amp; Cotton](/go/mowry-cotton-scottsdale-az/)**
 
@@ -405,9 +353,9 @@ Located inside The Phoenician, Mowry &amp; Cotton has a modern meets old west at
 
 [See photos, reviews &amp; more](/go/mowry-cotton-scottsdale-az/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b9ef4d93"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Craft 64](/go/craft-64-scottsdale-az/)**
 
@@ -417,9 +365,9 @@ If you like pizza and beer, then Craft 64 is the spot for you. This restaurant i
 
 [See photos, reviews &amp; more](/go/craft-64-scottsdale-az/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-582ca983"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[The Mission](/go/mission-scottsdale-az/)**
 
@@ -429,9 +377,9 @@ Enjoy modern latin cuisine against the backdrop of old world elegance. The Missi
 
 [See photos, reviews &amp; more](/go/mission-scottsdale-az/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5fcd2761"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Cold Beers &amp; Cheeseburgers](/go/cold-beers-cheeseburgers-scottsdale-az/)**
 
@@ -441,15 +389,11 @@ Who doesn’t like cold beers and cheeseburgers, am I right? Well, if you are lo
 
 [See photos, reviews &amp; more](/go/cold-beers-cheeseburgers-scottsdale-az/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-5e540b5c" id="uagb-adv-heading-5a7fd1f1-af5d-483a-8a36-23ef64ac6e15">
 
 ## Parks and Hiking near Scottsdale
 
-</div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e430c800"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 
 #### **[Mcdowell Sonoran Conservancy](/go/mcdowell-sonoran-preserve-scottsdale-az/)**
 
@@ -459,9 +403,9 @@ This non-profit conservancy is dedicated to preserving the Sonoran desert and mo
 
 [See photos, reviews &amp; more](/go/mcdowell-sonoran-preserve-scottsdale-az/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0801b460"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Cave Creek Outfitters](/go/cave-creek-outfitters-scottsdale-az/)**
 
@@ -471,9 +415,9 @@ Explore the McDowell Sonoran Preserve and Tonto National Forest with guided hors
 
 [See photos, reviews &amp; more](/go/cave-creek-outfitters-scottsdale-az/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4af08c82"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Pinnacle Peak Park](/go/pinnacle-peak-park-scottsdale-az/)**
 
@@ -483,21 +427,17 @@ If you like to hike, then you will like this moderate trail through the Sonoran 
 
 [See photos, reviews &amp; more](/go/pinnacle-peak-park-scottsdale-az/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-3bf05ee3" id="uagb-adv-heading-cbcd4939-b721-418d-9615-446f46e5ec6d">
 
 ## That's a Wrap!
-
-</div>
 
 Surprisingly, out of all the places we visited during our summer road trip the kids couldn’t stop talking about how much they loved Scottsdale, AZ. Maybe it was the hot desert nights swimming under the stars or the days taking it slow, wandering from store to store and from bar to restaurant. Scottsdale is a desert beauty, beckoning visitors to come and relax. Needless to say, if Old Town Scottsdale wasn’t on your bucket list before, it should be now.
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a0e10aa1"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure><img src="/images/Old-town-scottsdale-with-kids-pinterest-200x300.png" alt="Things to do in Old Town Scottsdale with Kids" /></figure>
-</div></section>
+

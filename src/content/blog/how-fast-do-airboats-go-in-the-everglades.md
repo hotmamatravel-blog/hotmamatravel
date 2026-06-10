@@ -20,7 +20,7 @@ No wonder the park has around a million visitors each year. When mentioning the 
 
 ## What is the Speed of Airboats in the Everglades?
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 There's [no better way to get close to the wildlife](https://www.evergladesholidaypark.com/airboat-tours/everglades-airboat-tours/) and travel along the shallow waters than these amazing airboats. You must be wondering why airboats and not boats. Right? The marshlands of the Everglades make it impossible for boats to ply. That's why there are airboats that help you move through the shallow waters and have a fun-filled experience fishing, hunting, and sightseeing.
 
@@ -30,11 +30,7 @@ The airboats plying in the park are known to have V8 automotive engines of high 
 
 People are worried about the safety of airboats because of their immense speed. Well, at Everglades, customer safety is of utmost priority. They boast of having skilled captions whom the U.S. Coast Guard certifies and acknowledges. The Everglades also has certified instructors who coordinate with the captains to ensure the latter adhere to the navigational and safety norms. Once on an airboat, you will have the experience of a lifetime, with our captains guiding you safely.
 
-<div class="wp-block-uagb-advanced-heading uagb-block-5dd699be">
-
 ### Some Frequently Asked Questions About Airboats
-
-</div>
 
 It's not only the speed. There are other [**queries among tourists regarding airboats**](/everglades-airboat-tour-kids/), including their speed, brakes, fare, etc. So, let's look at some of the commonly asked questions.
 
@@ -46,9 +42,9 @@ So that's about airboats and the Everglades. The speed and safety might bother y
 
 - 👉 Browse my **[Florida Family Glamping Sites](/best-glamping-florida/)** to find the perfect stay for your crew
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="how-fast-do-airboats-go-in-the-everglades"><a href="/images/how-fast-do-airboats-go-in-the-everglades.jpg"><img src="/images/how-fast-do-airboats-go-in-the-everglades-200x300.jpg" alt="" /></a></figure>
-</div></div>
+

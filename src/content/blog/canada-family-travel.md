@@ -11,14 +11,13 @@ wpSlug: "canada-family-travel"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Explore the Best of Canada family travel! From top family hotels to must-try family spots, I've got your ultimate guides for a memorable Canadian adventure.
 
 <div class="wp-block-ugb-heading ugb-heading ugb-74ba2d9 ugb-main-block"><style>.ugb-74ba2d9 .ugb-heading__title{text-align:center}.ugb-74ba2d9 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-74ba2d9 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Vancouver With Kids
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [Family Guide to visiting Vancouver with kids – Where to eat and play](/vancouver-with-kids/)
 
@@ -30,7 +29,7 @@ Explore the Best of Canada family travel! From top family hotels to must-try fam
 
 ## Things To Do In Canada With Kids
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [Family Guide to visiting Vancouver with kids – Where to eat and play](/vancouver-with-kids/)
 
@@ -42,7 +41,7 @@ Explore the Best of Canada family travel! From top family hotels to must-try fam
 
 ## Best Family Hotels In Canada
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [5 Best Family Hotels in Vancouver, BC with kids 2023](/best-family-hotels-vancouver-bc/)
 

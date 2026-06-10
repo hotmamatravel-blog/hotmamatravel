@@ -13,13 +13,9 @@ author: "Amanda Keeley-Thurman"
 
 Treehouses, Yurts and Chickee Huts, Oh My! Florida is the most southeastern state in the US and known for it's tropical climate, lush nature and unique wildlife. Throw this kind of weather in with an exciting accommodation like a Chickee Hut or Treehouse and you got yourself a real glamping adventure!&nbsp;For those of you looking for a camping experience that is truly unique, check out my list of the best glamping sites in Florida!
 
-<div class="wp-block-uagb-advanced-heading uagb-block-346bad4e">
-
 ## Best Glamping in Florida
 
-<div class="uagb-separator"></div></div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6b3b8c2e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 <figure id="trail-lakes-campground-glamping-florida"><a href="/images/trail-lakes-campground-glamping-florida.jpg"><img src="/images/trail-lakes-campground-glamping-florida.jpg" alt="" /></a></figure>
 
 #### [Trail Lakes Campground](/go/trail-lakes-campground-glamping-florida/)
@@ -34,9 +30,9 @@ You are in the middle of the Everglades and surrounded by nature. Trail Lakes Ca
 
 [See photos, reviews &amp; more](/go/trail-lakes-campground-glamping-florida/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0daf414a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="coldwater-gardens-glamping-florida"><a href="/images/coldwater-gardens-glamping-florida.jpg"><img src="/images/coldwater-gardens-glamping-florida.jpg" alt="" /></a></figure>
 
 #### [Coldwater Gardens](/go/coldwater-gardens-glamping-florida/)
@@ -53,9 +49,9 @@ While staying at Coldwater Gardens, you can enjoy tubing, kayaking and other wat
 
 [See photos, reviews &amp; more](/go/coldwater-gardens-glamping-florida/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-29ff2e11"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="camptel-cedar-key-glamping-florida"><a href="/images/camptel-cedar-key-glamping-florida.jpg"><img src="/images/camptel-cedar-key-glamping-florida.jpg" alt="" /></a></figure>
 
 #### [Camptel Cedar Key](/go/camptel-resort-glamping-florida/)
@@ -70,9 +66,9 @@ Onsite you can partake in a number of activities like kayaking, AirBoat Tours, f
 
 [See photos, reviews &amp; more](/go/camptel-resort-glamping-florida/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-965be039"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="live-oak-landing-glamping-florida"><a href="/images/live-oak-landing-glamping-florida.jpg"><img src="/images/live-oak-landing-glamping-florida.jpg" alt="" /></a></figure>
 
 #### [Live Oak Landing](/go/live-oak-landing-glamping-florida/)
@@ -87,9 +83,9 @@ Onsite, you and your family can enjoy a sparkling pool with open concept luxury 
 
 [See photos, reviews &amp; more](/go/live-oak-landing-glamping-florida/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a93c6c4c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="treehouse-cabin-retreats-glamping-florida"><a href="/images/treehouse-cabin-retreats-glamping-florida.jpg"><img src="/images/treehouse-cabin-retreats-glamping-florida.jpg" alt="" /></a></figure>
 
 #### [Treehouse Cabin Retreat](/go/tree-house-cabin-retreat-glamping-florida/)
@@ -104,13 +100,9 @@ Since there isn't any wifi, you will have to just embrace nature. Onsite, you ca
 
 [See photos, reviews &amp; more](/go/tree-house-cabin-retreat-glamping-florida/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-5296a81e">
 
 ## That's A Wrap!
-
-<div class="uagb-separator"></div></div>
 
 &nbsp;So are you ready to experience Florida’s great outdoors and tropical landscapes? Then pack your bags and let's go glamping in Florida!
 
@@ -146,9 +138,9 @@ If you would more information on glamping in the United States, please see our o
 
 - [Glamping Upstate New York](/glamping-upstate-new-york/)
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c89928e7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="5-best-glamping-florida-sites"><a href="/images/5-best-glamping-florida-sites.jpg"><img src="/images/5-best-glamping-florida-sites-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

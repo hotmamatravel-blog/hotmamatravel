@@ -16,7 +16,7 @@ Family vacations provide some of the most magical moments in our lives. However,
 
 In truth, you shouldn’t feel the need to have 100% control on vacation. At times, the best thing you can do is learn to go with the flow. Still, planning your trip with parenting in mind can help reduce your stress levels while promoting safety. Here are five top tips to support you ahead of your next adventure.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-21f03827"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 #### Find The Right Accommodation
 
@@ -26,9 +26,9 @@ If staying in a hotel, the rooms and en-suite facilities must be comfy, safe, an
 
 [See photos, reviews &amp; more](/go/trip-advisor/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-58923a6b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Hire A Vehicle
 
@@ -36,9 +36,9 @@ Perhaps the most stressful part of family travel is trying to navigate public tr
 
 Whether taking day trips to surrounding towns, exploring local attractions, or taking a road trip doesn’t matter. The rental vehicle will put you in far greater control.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9d492d22"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Select Family-Friendly Attractions
 
@@ -48,9 +48,9 @@ For the best results, you should research the options in your chosen destination
 
 [See photos, reviews &amp; more](/go/trip-advisor/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a2029815"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Pack The Essentials
 
@@ -58,21 +58,21 @@ Hitting the supermarket or pharmacy to stock up on items can be quite enjoyable 
 
 Besides, shopping with youngsters is notoriously slow. This is particularly noteworthy when in a new location. Try not to let this become an issue.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0e189ff0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Leave Some Space In Your Schedule
 
 On the one hand, you want to make sure that your vacation is filled with adventures. Still, leaving yourself some time to relax or enjoy random adventures is vital too. As long as you have fun, that’s all that truly matters.
 
-</div></section>
+
 
 Planning a family vacation can be an exciting and rewarding experience. By following these top tips to maintain control, you can ensure a smooth and enjoyable trip for everyone. Remember to stay organized, keep communication open, and embrace the unexpected with a positive attitude. With proper planning and a dash of spontaneity, your family vacation is sure to be filled with laughter, bonding, and cherished memories that will last a lifetime. So, go ahead and embark on your adventure, knowing that you've taken the necessary steps to make it a fantastic and stress-free family getaway. Bon voyage!
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2bfc50e9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="family-vacation-planning-tips-to-maintain-control"><a href="/images/family-vacation-planning-tips-to-maintain-control.jpg"><img src="/images/family-vacation-planning-tips-to-maintain-control-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

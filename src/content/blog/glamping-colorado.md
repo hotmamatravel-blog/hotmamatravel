@@ -16,7 +16,7 @@ Colorado is the state you want to go to if you are looking for a big adventure! 
 
 If you are looking to up the ante on your adventure, definitely consider glamping in Colorado. Colorado glamping will allow you to experience the great outdoors, but with the comforts of resort amenities. For your convenience, we have picked out some amazing Colorado glamping sites that I think you will love!&nbsp;&nbsp;
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4240f65a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="echo-canyon-campground-glamping-colorado"><a href="/images/echo-canyon-campground-glamping-colorado.jpg"><img src="/images/echo-canyon-campground-glamping-colorado.jpg" alt="" /></a></figure>
 
 #### [Royal Gorge Cabins](/go/echo-canyon-campground-glamping-colorado/)
@@ -31,9 +31,9 @@ The spacious accommodations, complete with multiple bedrooms and modern amenitie
 
 [See photos, reviews &amp; more](/go/echo-canyon-campground-glamping-colorado/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2bc26b54"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="arapaho-valley-ranch-tipi-glamping-colorado"><a href="/images/arapaho-valley-ranch-tipi-glamping-colorado.jpg"><img src="/images/arapaho-valley-ranch-tipi-glamping-colorado.jpg" alt="" /></a></figure>
 
 #### [Arapaho Valley Ranch](/go/arapaho-valley-ranch-glamping-colorado/)
@@ -48,9 +48,9 @@ Onsite, you have access to the Lodge House that is home to Colorado’s smallest
 
 [See photos, reviews &amp; more](/go/arapaho-valley-ranch-glamping-colorado/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b756eb24"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="dunton-river-camp-glamping-colorado"><a href="/images/dunton-river-camp-glamping-colorado.jpg"><img src="/images/dunton-river-camp-glamping-colorado.jpg" alt="" /></a></figure>
 
 #### [Dunton River Camp](/go/dunton-river-camp-glamping-colorado/)
@@ -65,9 +65,9 @@ Onsite, each tent gets two bikes for exploring the campsite or taking on nearby 
 
 [See photos, reviews &amp; more](/go/dunton-river-camp-glamping-colorado/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2bf6881f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="piney-river-ranch-glamping-colorado"><a href="/images/piney-river-ranch-glamping-colorado.jpg"><img src="/images/piney-river-ranch-glamping-colorado-1024x573.jpg" alt="" /></a></figure>
 
 #### [Piney River Ranch](/go/piney-river-ranch-glamping-colorado/)
@@ -82,9 +82,9 @@ Onsite, you can enjoy the Lodge Restaurant &amp; Bar with a full-service menu fe
 
 [See photos, reviews &amp; more](/go/piney-river-ranch-glamping-colorado/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0c6d4cfa"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="collective-vail-tents-glamping-colorado"><a href="/images/collective-vail-tents-glamping-colorado.jpg"><img src="/images/collective-vail-tents-glamping-colorado.jpg" alt="" /></a></figure>
 
 #### [Collective Retreats Vail](/go/collective-retreats-vail-glamping-colorado/)
@@ -99,13 +99,9 @@ Onsite, you can enjoy any meal of the day at Three Peaks Lodge, including your c
 
 [See photos, reviews &amp; more](/go/collective-retreats-vail-glamping-colorado/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-ccbb27bc">
 
 ## That's A Wrap!
-
-<div class="uagb-separator"></div></div>
 
 There’s no doubt that after reading about these amazing glamping Colorado sites that you want to get packing.&nbsp; Now the hard part, where do you choose to stay? Well, with so many great options, you can’t go wrong. If you love glamping and just can’t get enough, check out my glamping guides from other locations.
 
@@ -139,10 +135,10 @@ There’s no doubt that after reading about these amazing glamping Colorado site
 
 - [Glamping Upstate New York](/glamping-upstate-new-york/)
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-32e52a65"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="5-best-tent-glamping-colorado"><a href="/images/5-best-tent-glamping-colorado.jpg"><img src="/images/5-best-tent-glamping-colorado-200x300.jpg" alt="" /></a></figure>
-</div></section>
+
 

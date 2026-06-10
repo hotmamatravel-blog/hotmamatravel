@@ -18,12 +18,8 @@ If you plan on driving around you may need to [obtain an international driver's 
 
 **Here's what's in this article**:
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b85bfed0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-255884b7">
 
 ### Unique area attractions
-
-<div class="uagb-separator"></div></div>
 
 - [The Malta Experience](#malta-experience)
 
@@ -35,11 +31,7 @@ If you plan on driving around you may need to [obtain an international driver's 
 
 - [Popeye’s Village](#popeye-village)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-9789eccc">
-
 ### Historic sites &amp; districts
-
-<div class="uagb-separator"></div></div>
 
 - [City of Valletta](#valletta-malta)
 
@@ -49,11 +41,7 @@ If you plan on driving around you may need to [obtain an international driver's 
 
 - [Mdina](#mdina-malta)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-51000422">
-
 ### Historic religious sites
-
-<div class="uagb-separator"></div></div>
 
 - [Rabat](#rabat-malta)
 
@@ -63,11 +51,7 @@ If you plan on driving around you may need to [obtain an international driver's 
 
 - [Ta’ Pinu Basilica](#ta-pinu-basilica)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-d5294dd3">
-
 ### Bustling shopping areas
-
-<div class="uagb-separator"></div></div>
 
 - [Ta’ Dbiegi Crafts Village](#ta-dbiegi-crafts-village)
 
@@ -77,11 +61,7 @@ If you plan on driving around you may need to [obtain an international driver's 
 
 - [Embassy Shopping Center](#embassy-shopping-center)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-e211ab91">
-
 ### Kid-friendly swimming &amp; beaches
-
-<div class="uagb-separator"></div></div>
 
 - [Golden Bay](#golden-bay)
 
@@ -105,17 +85,13 @@ If you plan on driving around you may need to [obtain an international driver's 
 
 - [Blue Lagoon](#blue-lagoon-malta)
 
-</div></section>
+
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<div class="wp-block-uagb-advanced-heading uagb-block-88ac10d9">
-
 ## Kid-friendly Malta Attractions
 
-<div class="uagb-separator"></div></div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-cbcfbe0f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 <figure id="the-malta-experience-family-malta-attraction"><a href="/images/the-malta-experience-family-malta-attraction.jpg"><img src="/images/the-malta-experience-family-malta-attraction.jpg" alt="" /></a></figure>
 
 #### The Malta Experience
@@ -126,9 +102,9 @@ With over 7,000 years of history to unpack, visitors must partake in The Malta E
 
 [See photos, reviews &amp; more](/go/the-malta-experience-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-258d8d88"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="malta-fun-train-family-malta-attraction"><a href="/images/malta-fun-train-family-malta-attraction.jpg"><img src="/images/malta-fun-train-family-malta-attraction.jpg" alt="" /></a></figure>
 
 #### Malta Fun Trains
@@ -139,9 +115,9 @@ A great way to explore the historical capital city of Valletta with the family i
 
 [See photos, reviews &amp; more](/go/malta-fun-trains-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9eeec284"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="mdina-dungeons-family-malta-attraction"><a href="/images/mdina-dungeons-family-malta-attraction.jpg"><img src="/images/mdina-dungeons-family-malta-attraction.jpg" alt="" /></a></figure>
 
 #### Mdina Dungeons
@@ -152,9 +128,9 @@ This splendidly morbid attraction is sure to entertain you and the kids. Complet
 
 [See photos, reviews &amp; more](/go/mdina-dungeons-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-089fd25d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="playmobil-fun-park-family-malta-attraction"><a href="/images/playmobil-fun-park-family-malta-attraction.jpg"><img src="/images/playmobil-fun-park-family-malta-attraction.jpg" alt="" /></a></figure>
 
 #### Playmobil Fun Park
@@ -165,9 +141,9 @@ As a Playmobil kid myself, I just had to include this amazing Malta family attra
 
 [See photos, reviews &amp; more](/go/playmobil-fun-park-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4abddc25"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="popeye-village-family-malta-attraction"><a href="/images/popeye-village-family-malta-attraction.jpg"><img src="/images/popeye-village-family-malta-attraction.jpg" alt="" /></a></figure>
 
 #### Popeye’s Village
@@ -178,15 +154,11 @@ Enjoy a fun family day in the little village that was used as the filming locati
 
 [See photos, reviews &amp; more](/go/popeye-village-malta/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-fd64da4a">
 
 ## Kid-friendly Historic Sites in Malta
 
-<div class="uagb-separator"></div></div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1336134d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 <figure id="valletta-historic-sites-malta"><a href="/images/valletta-historic-sites-malta.jpg"><img src="/images/valletta-historic-sites-malta.jpg" alt="" /></a></figure>
 
 #### City of Valletta
@@ -197,9 +169,9 @@ I won’t list all 320 sites here, but some mentionable sites in Valletta includ
 
 [See photos, reviews &amp; more](/go/valletta-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3b903bac"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="megalithic-temples-historic-sites-malta"><a href="/images/megalithic-temples-historic-sites-malta.jpg"><img src="/images/megalithic-temples-historic-sites-malta.jpg" alt="" /></a></figure>
 
 #### Megalithic Temples
@@ -210,9 +182,9 @@ If you love history, then you have to visit the many temple sites on the islands
 
 [See photos, reviews &amp; more](/go/megalithic-temples-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-04b16210"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="clapham-junction-historic-sites-malta"><a href="/images/clapham-junction-historic-sites-malta.jpg"><img src="/images/clapham-junction-historic-sites-malta.jpg" alt="" /></a></figure>
 
 #### Clapham Junction
@@ -221,9 +193,9 @@ This site is a dense concentration of these cart ruts caused by wooden-wheeled c
 
 [See photos, reviews &amp; more](/go/clapham-junction-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bfbd03b1"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="mdina-historic-sites-malta"><a href="/images/mdina-historic-sites-malta.jpg"><img src="/images/mdina-historic-sites-malta.jpg" alt="" /></a></figure>
 
 #### Mdina
@@ -232,15 +204,11 @@ Mdina has a history that dates back 4,000 years and is Europe’s finest example
 
 [See photos, reviews &amp; more](/go/mdina-old-city-malta/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-a4d160ca">
 
 ## Historic Religious Sites in Malta
 
-<div class="uagb-separator"></div></div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2822fa74"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 <figure id="rabat-historic-sites-malta"><a href="/images/rabat-historic-sites-malta.jpg"><img src="/images/rabat-historic-sites-malta.jpg" alt="" /></a></figure>
 
 #### Rabat
@@ -249,9 +217,9 @@ Rabat is said to be the home of Apostle St. Paul after being shipwrecked in Malt
 
 [See photos, reviews &amp; more](/go/rabat-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-85b60155"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="st-johns-co-cathedral-historic-sites-malta"><a href="/images/st-johns-co-cathedral-historic-sites-malta.jpg"><img src="/images/st-johns-co-cathedral-historic-sites-malta.jpg" alt="" /></a></figure>
 
 #### St. John’s Co-Cathedral
@@ -262,9 +230,9 @@ Located in the city of Valletta, this Roman Catholic church was built by the Ord
 
 [See photos, reviews &amp; more](/go/st-johns-co-cathedral-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-31a9a658"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="church-assumption-historic-sites-malta"><a href="/images/church-assumption-historic-sites-malta.jpg"><img src="/images/church-assumption-historic-sites-malta.jpg" alt="" /></a></figure>
 
 #### The Church of Assumption of Our Lady
@@ -273,9 +241,9 @@ The original construction of the church was in 1400, but centuries later residen
 
 [See photos, reviews &amp; more](/go/church-assumption-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-98440ad9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="ta-pinu-basilica-historic-sites-malta"><a href="/images/ta-pinu-basilica-historic-sites-malta.jpg"><img src="/images/ta-pinu-basilica-historic-sites-malta.jpg" alt="" /></a></figure>
 
 #### Ta’ Pinu Basilica
@@ -286,15 +254,11 @@ Located on the island of Gozo, Ta’ Pinu dates back to the 1500’s. It has und
 
 [See photos, reviews &amp; more](/go/ta-pinu-basilica-malta/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-e2ede27f">
 
 ## Fun places to shop in Malta
 
-<div class="uagb-separator"></div></div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c2e0bf56"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 <figure id="ta-dbeigi-crafts-village-shopping-malta"><a href="/images/ta-dbeigi-crafts-village-historic-sites-malta.jpg"><img src="/images/ta-dbeigi-crafts-village-historic-sites-malta.jpg" alt="" /></a></figure>
 
 #### Ta’ Dbiegi Crafts Village
@@ -305,9 +269,9 @@ Located on the island of Gozo’s highest natural point within the village of Gh
 
 [See photos, reviews &amp; more](/go/ta-dbiegi-crafts-village-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-adeb63a4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="ta-qali-crafts-village-shopping-malta"><a href="/images/ta-qali-crafts-village-shopping-malta.jpg"><img src="/images/ta-qali-crafts-village-shopping-malta.jpg" alt="" /></a></figure>
 
 #### Ta’ Qali Crafts Village
@@ -318,9 +282,9 @@ Located just a few minutes from Mdina in the former RAF wartime airfield, is a u
 
 [See photos, reviews &amp; more](/go/ta-qali-crafts-village-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-748ae2ae"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="birzebbuga-market-shopping-malta"><a href="/images/birzebbuga-market-shopping-malta.jpg"><img src="/images/birzebbuga-market-shopping-malta.jpg" alt="" /></a></figure>
 
 #### Birzebbuga Market
@@ -329,9 +293,9 @@ One of Malta’s most famous open-air markets. It is a great place to experience
 
 [See photos, reviews &amp; more](/go/birzebbuga-market-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-79f891ee"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="embassy-complex-shopping-malta"><a href="/images/embassy-complex-shopping-malta.jpg"><img src="/images/embassy-complex-shopping-malta.jpg" alt="" /></a></figure>
 
 #### Embassy Shopping Center
@@ -342,15 +306,11 @@ Located in Valletta, this newly established shopping center is a big shopping ma
 
 [See photos, reviews &amp; more](/go/embassy-shopping-center-malta/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-cfb6bb00">
 
 ## Swimming &amp; Beaches in Malta
 
-<div class="uagb-separator"></div></div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-26758ad1"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 <figure id="golden-bay-beaches-malta"><a href="/images/golden-bay-beaches-malta.jpg"><img src="/images/golden-bay-beaches-malta.jpg" alt="" /></a></figure>
 
 #### Golden Bay
@@ -361,9 +321,9 @@ Located near the village of Manikata on Malta’s northwest coastline, Golden Ba
 
 [See photos, reviews &amp; more](/go/golden-bay-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-16506d4b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Għajn-Tuffieħa-bay-beaches-malta"><a href="/images/Ghajn-Tuffieha-bay-beaches-malta.jpg"><img src="/images/Ghajn-Tuffieha-bay-beaches-malta.jpg" alt="" /></a></figure>
 
 #### Għajn Tuffieħa Bay
@@ -374,9 +334,9 @@ Ghajn Tuffieha, meaning Apple’s Eye, is surrounded by glorious cliffs and clay
 
 [See photos, reviews &amp; more](/go/ghajn-tuffieha-bay-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4d071577"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="qawra-point-beaches-malta"><a href="/images/qawra-point-beaches-malta.jpg"><img src="/images/qawra-point-beaches-malta.jpg" alt="" /></a></figure>
 
 #### Qawra Point
@@ -387,9 +347,9 @@ This popular diving, snorkeling and swimming spot is situated just off the Buġi
 
 [See photos, reviews &amp; more](/go/qawra-point-beach-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-84b60e98"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="mgarr-ix-xini-beaches-malta"><a href="/images/mgarr-ix-xini-beaches-malta.jpg"><img src="/images/mgarr-ix-xini-beaches-malta.jpg" alt="" /></a></figure>
 
 #### Mġarr Ix-Xini
@@ -400,9 +360,9 @@ This pebbly beach is one of Malta’s most secluded beaches, perfect for those o
 
 [See photos, reviews &amp; more](/go/mgarr-ix-xini-beach-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b405e91f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="paradise-bay-beaches-malta"><a href="/images/paradise-bay-beaches-malta.jpg"><img src="/images/paradise-bay-beaches-malta.jpg" alt="" /></a></figure>
 
 #### Paradise Bay
@@ -413,9 +373,9 @@ Paradise Bay is a hotel beach located at the northernmost tip of the island near
 
 [See photos, reviews &amp; more](/go/paradise-bay-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0085f367"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="dahlet-qorrot-beaches-malta"><a href="/images/dahlet-qorrot-beaches-malta.jpg"><img src="/images/dahlet-qorrot-beaches-malta.jpg" alt="" /></a></figure>
 
 #### Daħlet Qorrot
@@ -426,9 +386,9 @@ Near the town of Nadur and nestled between the cliffs, this pebbly beach and sec
 
 [See photos, reviews &amp; more](/go/dahlet-qorrot-beach-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7d41995b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="ghar-lapsi-beaches-malta"><a href="/images/ghar-lapsi-beaches-malta.jpg"><img src="/images/ghar-lapsi-beaches-malta.jpg" alt="" /></a></figure>
 
 #### **Ghar Lapsi**
@@ -439,9 +399,9 @@ Near the village of Siġgiewi, below the dramatic Dingli Cliffs, Għar Lapsi is 
 
 [See photos, reviews &amp; more](/go/ghar-lapsi-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8ab9efde"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Anchor-bay-beaches-malta"><a href="/images/Anchor-bay-beaches-malta.jpg"><img src="/images/Anchor-bay-beaches-malta.jpg" alt="" /></a></figure>
 
 #### Anchor Bay
@@ -452,9 +412,9 @@ Neighboring Popeye’s Village, Anchor Bay is a secluded swimming spot surrounde
 
 [See photos, reviews &amp; more](/go/popeye-village-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-56de55e6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Armier-Bay-beaches-malta"><a href="/images/Armier-Bay-beaches-malta.jpg"><img src="/images/Armier-Bay-beaches-malta.jpg" alt="" /></a></figure>
 
 #### **Armier Bay**
@@ -465,9 +425,9 @@ This family-friendly bay is perfect for families with little swimmers as the wat
 
 [See photos, reviews &amp; more](/go/armier-bay-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-23c8d2e4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="White-Tower-beaches-malta"><a href="/images/White-Tower-beaches-malta.jpg"><img src="/images/White-Tower-beaches-malta.jpg" alt="" /></a></figure>
 
 #### White Tower
@@ -478,9 +438,9 @@ Near the seaside town of Mellieħa, White Tower is a large sandy beach great for
 
 [See photos, reviews &amp; more](/go/white-tower-beach-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-70eb3c60"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="blue-lagoon-beaches-malta"><a href="/images/blue-lagoon-beaches-malta.jpg"><img src="/images/blue-lagoon-beaches-malta.jpg" alt="" /></a></figure>
 
 #### Blue Lagoon
@@ -491,13 +451,9 @@ The Blue Lagoon is often referred to as the most beautiful spot in the Mediterra
 
 [See photos, reviews &amp; more](/go/blue-lagoon-malta/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-0395dd14">
 
 ## That's a Wrap!
-
-<div class="uagb-separator"></div></div>
 
 If you are looking for the perfect Mediterranean getaway, complete with history, breathtaking beaches and family fun, look no further than Malta. This safe, small and beautiful country is easy to explore and jam packed with great restaurants, natural beauty and historic sites. So what are you waiting for? Book your trip now.
 
@@ -507,11 +463,11 @@ If you would like help planning your next family vacation, contact me directly. 
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b93a6439"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap"></div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c8b41f4c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 **Like it? Pin it!**
 
 <figure id="things-to-do-in-Malta-with-kids"><a href="/images/things-to-do-in-Malta-with-kids.jpg"><img src="/images/things-to-do-in-Malta-with-kids-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

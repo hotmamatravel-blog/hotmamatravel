@@ -21,16 +21,13 @@ I love staying at haunted hotels with my family! I have put a list together of o
 
 ## Haunted Hotels in Northern California
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Holbrooke-hotel-grass-valley-hotels"><figure><a href="/images/Holbrooke-hotel-grass-valley-hotels.jpg"><img src="/images/Holbrooke-hotel-grass-valley-hotels.jpg" alt="Holbrooke-hotel-grass-valley-hotels" /></a></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
 ### [Holbrooke Hotel](/go/holbrooke-hotel-grass-valley-ca/)
 
 212 W Main St, Grass Valley, CA 95945
-</div>
 
 #### **Brief History**
 
@@ -50,12 +47,9 @@ One of the most famous ghostly residents is said to be a chambermaid named Sarah
 
 <div class="wp-block-uagb-image uagb-block-67a6d215 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="queen-anne-hotel-haunted-hotels-california"><figure><a href="/images/queen-anne-hotel-haunted-hotels-california.jpg"><img src="/images/queen-anne-hotel-haunted-hotels-california.jpg" alt="Haunted Queen Anne Hotel San Francisco California" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-932fa14b">
-
 ### [Queen Anne Hotel](/go/the-queen-anne-hotel-ca/)
 
 1590 Sutter St, San Francisco, CA 94109
-</div>
 
 #### **Brief History**
 
@@ -77,12 +71,9 @@ If you're fascinated by haunted stays, don’t miss my guide to **[Haunted Hotel
 
 <div class="wp-block-uagb-image uagb-block-ae044830 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Westin-st-francis-san-francisco-haunted-hotels-california"><figure><a href="/images/Westin-st-francis-san-francisco-haunted-hotels-california.jpg"><img src="/images/Westin-st-francis-san-francisco-haunted-hotels-california.jpg" alt="Haunted San Francisco Hotel Westin St. Francis" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-5095d424">
-
 ### **[The Westin St. Francis](/go/westin-st-francis-san-francisco-ca/)**
 
 335 Powell Street Union Square, San Francisco, CA 94102-1804
-</div>
 
 #### **Brief History**
 
@@ -110,16 +101,13 @@ As dusk settles and shadows grow longer, The Westin St. Francis reveals a side t
 
 ## Haunted Hotels in Central California
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-030ab657 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-groveland-hotel-haunted-hotels-california"><figure><a href="/images/the-groveland-hotel-haunted-hotels-california.jpg"><img src="/images/the-groveland-hotel-haunted-hotels-california.jpg" alt="The Groveland Hotel Haunted Hotels in California" /></a></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-ea4403ac">
 
 ### **[The Groveland Hotel](/go/groveland-hotel-groveland-ca/)**
 
 18767 Main St, Groveland, CA 95321
-</div>
 
 #### **Brief History**
 
@@ -143,12 +131,9 @@ The hotel's dining room has also been the site of paranormal experiences. Visito
 
 <div class="wp-block-uagb-image uagb-block-a2349a65 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="santa-maria-inn-haunted-hotels-california"><figure><a href="/images/santa-maria-inn-haunted-hotels-california.jpg"><img src="/images/santa-maria-inn-haunted-hotels-california.jpg" alt="Santa Maria Inn historic and haunted hotel in California" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-b3358cd8">
-
 ### [Santa Maria Inn](/go/santa-maria-inn-ca/)
 
 801 S Broadway, Santa Maria, CA 93454
-</div>
 
 #### **Brief History**
 
@@ -166,16 +151,13 @@ Room 224 has become synonymous with intrigue, as visitors report a range of eeri
 
 ## Haunted Hotels in Southern California
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-d283e0b8 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="queen-mary-haunted-hotels-california"><figure><a href="/images/queen-mary-haunted-hotels-california.jpg"><img src="/images/queen-mary-haunted-hotels-california.jpg" alt="Haunted Hotel in California The Queen Mary Hotel" /></a></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-8d3b79e9">
 
 ### [The Queen Mary](/go/queen-mary-long-beach/)
 
 1126 Queens Hwy, Long Beach, CA 90802
-</div>
 
 #### **Brief History**
 
@@ -195,12 +177,9 @@ Additionally, the entire ship has stories and spirits to explore. [**Staying on 
 
 <div class="wp-block-uagb-image uagb-block-7743a439 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hotel-del-coronado-haunted-hotels-california"><figure><a href="/images/hotel-del-coronado-haunted-hotels-california.jpg"><img src="/images/hotel-del-coronado-haunted-hotels-california.jpg" alt="Haunted Hotel Del Coronada in California" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-9ef5d0fa">
-
 ### [Hotel Del Coronado](/go/hotel-del-coronado-san-diego/)
 
 1500 Orange Ave, Coronado, CA 92118
-</div>
 
 #### **Brief History**
 
@@ -226,9 +205,9 @@ Explore more[](/best-haunted-places-to-visit-for-families/)[**haunted places and
 
 Be sure to visit our [**California Family Travel**](/california-family-travel/) page for planning the ultimate California vacation.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="most-haunted-hotel-california" data-essb-pin-description="Ready to sleep where the spirits roam? These haunted family hotels in California mix ghostly legends with gorgeous stays—so you can chase chills and relax in style. Perfect for adventurous families who love a story with their sleepover! #FamilyTravelWithATwist #HauntedHotels #CaliforniaTravel #FamilyAdventure"><a href="/images/most-haunted-hotel-california.jpg"><img src="/images/most-haunted-hotel-california-200x300.jpg" alt="Most Haunted Family Hotels in California " /></a></figure>
-</div></div>
+

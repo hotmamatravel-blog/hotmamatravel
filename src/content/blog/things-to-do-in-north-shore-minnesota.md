@@ -13,7 +13,7 @@ author: "Amanda Keeley-Thurman"
 
 North Shore is a beautiful and diverse area of Minnesota that offers a wide range of activities for visitors to enjoy. From outdoor adventures to cultural experiences, there is something for everyone in North Shore. Here are a few things to do in North Shore  with your family that are sure to please.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8b42d7ee"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="Family-Nature-Walks-Superior-Hiking-Trail-North-Shore-Minnesota"><a href="/images/Family-Nature-Walks-Superior-Hiking-Trail-North-Shore-Minnesota.jpg"><img src="/images/Family-Nature-Walks-Superior-Hiking-Trail-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
 #### [Superior Hiking Trail](/go/superior-hiking-trail-north-shore-mn/)
@@ -30,9 +30,9 @@ The Superior Hiking Trail is well-known for the breathtaking view of the lake an
 
 [See photos, reviews &amp; more](/go/superior-hiking-trail-north-shore-mn/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5def2ec3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Temperance-River-State-Park-North-Shore-Minnesota"><a href="/images/Temperance-River-State-Park-North-Shore-Minnesota.jpg"><img src="/images/Temperance-River-State-Park-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
 #### [Temperance River State Park](/go/temperance-river-state-park-north-shore-mn/)
@@ -49,9 +49,9 @@ Temperance River State Park is also a popular destination for camping, with seve
 
 [See photos, reviews &amp; more](/go/temperance-river-state-park-north-shore-mn/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b3a4411c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Tettegouche-State-Park-North-Shore-Minnesota"><a href="/images/Tettegouche-State-Park-North-Shore-Minnesota.jpg"><img src="/images/Tettegouche-State-Park-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
 #### [Tettegouche State Park](/go/tettegouche-state-park-north-shore-mn/)
@@ -64,9 +64,9 @@ Another attraction of the park is the historic Tettegouche Camp, which is a hist
 
 Tettegouche State Park also offers recreational opportunities such as rock climbing and sea kayaking. The park is home to some of the best climbing routes in Minnesota, with over 100 routes that are suitable for climbers of all skill levels. The park also offers sea kayaking on Lake Superior, which is an excellent way to explore the lake and its many islands.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b5e0dd49"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Gooseberry-Falls-State-Park-North-Shore-Minnesota"><a href="/images/Gooseberry-Falls-State-Park-North-Shore-Minnesota.jpg"><img src="/images/Gooseberry-Falls-State-Park-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
 #### [Gooseberry Falls State Park](/go/gooseberry-falls-state-park-north-shore-mn/)
@@ -81,9 +81,9 @@ Gooseberry Falls State Park also offers recreational opportunities such as picni
 
 [See photos, reviews &amp; more](/go/gooseberry-falls-state-park-north-shore-mn/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c8d8c9ca"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Cross-River-Heritage-Center-North-Shore-Minnesota"><a href="/images/Cross-River-Heritage-Center-North-Shore-Minnesota.jpg"><img src="/images/Cross-River-Heritage-Center-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
 #### [Cross River Heritage Center](/go/cross-river-heritage-center-north-shore-mn/)
@@ -94,9 +94,9 @@ Locally known as *The Heart of Schroede*r the Cross River Heritage Center was or
 
 [See photos, reviews &amp; more](/go/cross-river-heritage-center-north-shore-mn/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4c056782"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Pincushion Mountain Trail](/go/pincushion-mountain-trail-system-north-shore-mn/)
 
@@ -104,9 +104,9 @@ This trail is located in Grand Marais, MN and offers a challenging hike with ste
 
 [See photos, reviews &amp; more](/go/pincushion-mountain-trail-system-north-shore-mn/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-653851e0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Split-Rock-Lighthouse-North-Shore-Minnesota"><a href="/images/Split-Rock-Lighthouse-North-Shore-Minnesota.jpg"><img src="/images/Split-Rock-Lighthouse-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
 #### [Split Rock Lighthouse](/go/split-rock-lighthouse-north-shore-mn/)
@@ -121,9 +121,9 @@ The lighthouse is also part of the North Shore Scenic Drive, which is a beautifu
 
 [See photos, reviews &amp; more](/go/split-rock-lighthouse-north-shore-mn/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a74db7cb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/North-Shore-Scenic-Drive-North-Shore-Minnesota.jpg"><img src="/images/North-Shore-Scenic-Drive-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
 #### [North Shore Scenic Drive](/go/north-shore-scenic-drive-mn/)
@@ -136,9 +136,9 @@ One of the highlights of the North Shore Scenic Drive is Split Rock Lighthouse, 
 
 The drive also offers opportunities to explore the local culture and history. You can stop at the Grand Marais Harbor Park, which features a small beach, picnic area and playground, and visit the nearby art galleries and shops in Grand Marais, a charming small town that is known for its art colony.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-367a4c9d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="The-Oberg-Mountain-Loop-North-Shore-Minnesota"><a href="/images/The-Oberg-Mountain-Loop-North-Shore-Minnesota.jpg"><img src="/images/The-Oberg-Mountain-Loop-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
 #### [The Oberg Mountain Loop](/go/oberg-mountain-loop-north-shore-mn/)
@@ -153,9 +153,9 @@ This scenic hike offers a cultural experience by showcasing the history of the a
 
 [See photos, reviews &amp; more](/go/oberg-mountain-loop-north-shore-mn/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0a0f7a0f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><a href="/images/Grand-Marais-Art-Colony-North-Shore-Minnesota.jpg"><img src="/images/Grand-Marais-Art-Colony-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
 #### [Grand Marais Art Colony](/go/grand-marais-art-colony-north-shore-mn/)
@@ -164,9 +164,9 @@ This historic art colony offers art classes, workshops supporting artists throug
 
 [See photos, reviews &amp; more](/go/grand-marais-art-colony-north-shore-mn/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-dc0ca085"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="North-House-Folk-School-North-Shore-Minnesota"><a href="/images/North-House-Folk-School-North-Shore-Minnesota.jpg"><img src="/images/North-House-Folk-School-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
 #### [North House Folk School](/go/north-house-folk-school-north-shore-mn/)
@@ -177,9 +177,9 @@ This school is modeled after Danish folk schools from the 1800s and offers a var
 
 [See photos, reviews &amp; more](/go/north-house-folk-school-north-shore-mn/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9a0d8276"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Lutsen-Mountain-Summit-Express-North-Shore-Minnesota"><a href="/images/Lutsen-Mountain-Summit-Express-North-Shore-Minnesota.jpg"><img src="/images/Lutsen-Mountain-Summit-Express-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
 #### [Lutsen Mountain Summit Express](/go/lutsen-mountain-summit-express-north-shore-mn/)
@@ -196,19 +196,19 @@ Another feature of Lutsen Mountain Summit Express is that it is open for night s
 
 [See photos, reviews &amp; more](/go/lutsen-mountain-summit-express-north-shore-mn/)
 
-</div></section>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-bb5533f ugb-main-block"><style>.ugb-bb5533f .ugb-heading__title{text-align:center}.ugb-bb5533f .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-bb5533f .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 When planning your next family vacation, you'll find there is no shortage of fun and adventurous things to in North Shore, Minnesota. Hope this list helped you plan the perfect itinerary for your family. Now go have some fun.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8ad4a3ae"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="Things-to-do-in-North-Shore-Minnesota-With-Kids"><a href="/images/Things-to-do-in-North-Shore-Minnesota-With-Kids.jpg"><img src="/images/Things-to-do-in-North-Shore-Minnesota-With-Kids-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

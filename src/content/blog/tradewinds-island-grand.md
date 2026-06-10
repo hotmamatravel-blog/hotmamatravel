@@ -26,7 +26,7 @@ The property is massive, in the best way. Think pools, beach access, hidden path
 
 ## Rooms at Tradewinds Island Grand
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-3db190f4 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Rooms-at-Tradewinds-Island-Grand.jpg"><img src="/images/Rooms-at-Tradewinds-Island-Grand.jpg" alt="rooms at Tradewinds Island Grand" /></a></figure></div>
 
@@ -58,15 +58,11 @@ Bottom line: whether you go simple or all-out, the rooms here make it really eas
 
 ## Where to Eat &amp; Drink (Without Leaving the Resort)
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 One of the best parts of staying at **[Tradewinds Island Grand](/tradewinds-island-grand/)**? You literally don’t have to leave to eat. From casual bites to beachfront cocktails, there’s something for every mood, and every member of the family. And, if you do want to leave the resort there are several amazing [**family-friendly restaurants in St. Pete**](/best-restaurants-in-st-pete-beach-for-families/).
 
-<div class="wp-block-uagb-advanced-heading uagb-block-1678545a">
-
 ### 🍹 Flying Bridge &amp; Fish Deck
-
-</div>
 
 This is where we started *most* mornings… and somehow also ended up later in the day too (no regrets).
 
@@ -76,11 +72,7 @@ The portions are generous (the sandwiches are easily shareable), which is always
 
 It’s also one of those effortless, come-as-you-are spots. Barefoot after the beach? Perfect. Just want to grab a drink and watch the sunset? Even better.
 
-<div class="wp-block-uagb-advanced-heading uagb-block-352761dd">
-
 ### 🍽️ Pete's Gulf Bistro
-
-</div>
 
 If you’re craving something a bit more upscale yet still family-friendly, the newly opened Pete's Gulf Bistro is your spot. Think coastal American flavors, all-day dining, and a relaxed atmosphere that works for kids *and* parents who want a cocktail that’s actually good.
 
@@ -88,21 +80,13 @@ You can grab a seat indoors or outdoors, all with scenic views that make the foo
 
 Located in the Breckenridge Building, this bistro feels like a little upgrade from typical resort dining without the fuss.
 
-<div class="wp-block-uagb-advanced-heading uagb-block-1db78e98">
-
 ### 🌮 Playa Taco Cocina Y Tequileria
-
-</div>
 
 For a high-energy, casual bite, head to Playa Taco Cocina Y Tequileria. This fast-casual taqueria and tequila bar serves up handcrafted tacos and fresh bites in a vibrant, beachside setting.
 
 The vibe is lively and fun, perfect if your crew wants something quick but flavorful between pool time or beach walks. While the tequila selection shines for adults, the tacos and shareable dishes keep kids happy too. Plenty of seating makes it easy to grab a table without stress.
 
-<div class="wp-block-uagb-advanced-heading uagb-block-881b04ea">
-
 ### 🍝 Palm Court Italian
-
-</div>
 
 If your family loves classic Italian flavors with a beachside twist, Palm Court Italian is a must-visit. Think hearty pasta, perfectly grilled meats and seafood, and shareable dishes that make everyone at the table happy.
 
@@ -132,7 +116,7 @@ End the day toes-in-the-sand style at Salty's Beach Lounge. Sip cocktails, enjoy
 
 ## Activities &amp; Things to Do at the Resort
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-efcb7c1e wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/waterslide-at-Tradewinds-Island-Grand.jpg"><img src="/images/waterslide-at-Tradewinds-Island-Grand.jpg" alt="waterslide at tradewinds island grand" /></a></figure></div>
 
@@ -192,7 +176,7 @@ Join Captain RedBeard’s Pirate Show for family fun, dancing, and laughs. Actio
 
 ## Don’t Skip This: Access to RumFish Beach Resort
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Guests at Tradewinds can enjoy full access to pools, activities, and dining at [RumFish Beach Resort](https://www.tradewindsresort.com/rumfish). This is all just steps away from the main Tradewinds property. It’s like doubling your vacation playground without leaving the beach!
 
@@ -241,7 +225,7 @@ Classic beachfront bar with live music, cocktails, and ocean views—the perfect
 
 ## St. Pete Family Travel Videos
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=YlBdlSgdEE8rrb7O&amp;start=455&amp;list=PLBukqMU4IGfv860ekuHVvlXqwv1msgQ90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -265,7 +249,7 @@ Whether you’re planning your **[first Florida family getaway](/florida-family-
 
 Your tropical family escape is just a click away—**[book your stay now and start packing for paradise!](/tradewinds-island-grand/)**
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
@@ -274,4 +258,4 @@ Like it? Pin it!
 ✨ Click for my full guide to St. Pete Beach family fun &amp; top resorts!
 
 #FamilyTravel #StPeteBeach #FloridaVacation #BeachResorts #FamilyFun #TravelWithKids #HotMamaTravel #FloridaFamilyTrip #ResortLife #BeachVacation"><a href="/images/Tradewinds-Island-Grand-Family-Review.jpg"><img src="/images/Tradewinds-Island-Grand-Family-Review-200x300.jpg" alt="Tradewinds Island Grand Family Review" /></a></figure>
-</div></div>
+

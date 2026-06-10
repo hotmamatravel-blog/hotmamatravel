@@ -10,7 +10,6 @@ wpSlug: "facts-about-las-vegas"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Is Las Vegas the most visited city?
 
 The city bills itself as the Entertainment Capital of the World, and is famous for its luxurious and extremely large casino-hotels. With over 2.9 million visitors as of 2019, Las Vegas is the **[sixth-most visited city in the U.S.](https://www.worldatlas.com/cities/america-s-10-most-visited-cities.html)**, after New York City, Miami, Los Angeles, Orlando, and San Francisco.

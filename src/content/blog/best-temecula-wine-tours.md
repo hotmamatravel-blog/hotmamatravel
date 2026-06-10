@@ -23,7 +23,7 @@ You can’t go to all these amazing wineries and not bring back some bottled sou
 
 <figure><a href="/go/vinarmour-luxury-wine-bag/"><img src="/images/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg" alt="Get your VinArmour wine travel case today" /></a></figure>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3696fb09"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="temecula-cable-car-wine-tour-temecula-ca"><a href="/images/temecula-cable-car-wine-tour-temecula-ca.jpg"><img src="/images/temecula-cable-car-wine-tour-temecula-ca.jpg" alt="" /></a></figure>
 
 #### [Temecula Cable Car Wine Tour](/go/temecula-cable-car-wine-tour-temecula-ca/)
@@ -38,9 +38,9 @@ Adding to their uniqueness, unlike any other Temecula wine tour, Temecula Cable 
 
 [See photos, reviews &amp; more](/go/temecula-cable-car-wine-tour-temecula-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-33f20a83"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="temecula-valley-jeep-wine-tour-temecula-wine-tour"><a href="/images/temecula-valley-jeep-wine-tour-temecula-wine-tour.jpg"><img src="/images/temecula-valley-jeep-wine-tour-temecula-wine-tour.jpg" alt="" /></a></figure>
 
 #### [Temecula Valley Jeep &amp; Wine Tours](/go/temecula-valley-jeep-wine-tour-temecula-ca/)
@@ -53,9 +53,9 @@ Kick up some wine country dust with a back road jeep adventure. Enjoy the open a
 
 [See photos, reviews &amp; more](/go/temecula-valley-jeep-wine-tour-temecula-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1538f62e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="rockin-wine-tours-temecula-wine-tours"><a href="/images/rockin-wine-tours-temecula-wine-tours.jpg"><img src="/images/rockin-wine-tours-temecula-wine-tours.jpg" alt="" /></a></figure>
 
 #### [Rockin’ Wine Tours](/go/rockin-wine-tour-temecula-ca/)
@@ -70,9 +70,9 @@ Tours run seven days a week and are about four to five hours long, starting at 1
 
 [See photos, reviews &amp; more](/go/rockin-wine-tour-temecula-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d8df36aa"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="tastin-temecula-temecula-wine-tours"><a href="/images/tastin-temecula-temecula-wine-tours.jpg"><img src="/images/tastin-temecula-temecula-wine-tours.jpg" alt="" /></a></figure>
 
 #### [Tastin’ Temecula](/go/tastin-temecula-wine-tour-temecula-ca/)
@@ -85,9 +85,9 @@ Take a sip of your welcome glass of champagne as you cruise through Temecula win
 
 [See photos, reviews &amp; more](/go/tastin-temecula-wine-tour-temecula-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9c4ac100"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="destination-temecula-wine-tasting-tours-temecula-wine-tours"><a href="/images/destination-temecula-wine-tasting-tours-temecula-wine-tours.jpg"><img src="/images/destination-temecula-wine-tasting-tours-temecula-wine-tours.jpg" alt="" /></a></figure>
 
 #### [Destination Temecula Wine Tasting Tours](/go/destination-temecula-wine-tasting-tour-temecula-ca/)
@@ -102,20 +102,20 @@ The public wine tour includes a guided scenic tour of wine country as you make y
 
 [See photos, reviews &amp; more](/go/destination-temecula-wine-tasting-tour-temecula-ca/)
 
-</div></section>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-61b934b ugb-main-block"><style>.ugb-61b934b .ugb-heading__title{color:#000000;text-align:center}.ugb-61b934b .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-61b934b .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## That's a Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Who is thirsty? I know I am. Turn an ordinary day into a celebration with one of these unique Temecula Wine Tours! Oh and don’t forget to bring your [wine travel case](/best-wine-suitcase-wine-travel-bag/), so you can bring all those delicious vinos home safely!!
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-740dbbd6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="5-unique-temecula-wine-tours-lunch-included"><a href="/images/5-unique-temecula-wine-tours-lunch-included.jpg"><img src="/images/5-unique-temecula-wine-tours-lunch-included-200x300.jpg" alt="" /></a></figure>
-</div></section>
+
 

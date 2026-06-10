@@ -17,7 +17,7 @@ author: "Amanda Keeley-Thurman"
 
 ## Want more from [HotMama](/about/)?
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Here are a list of guest posts, features, interviews, speaking engagements, and more!
 

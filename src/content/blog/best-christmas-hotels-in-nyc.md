@@ -19,12 +19,9 @@ In this article, we'll embark on a magical journey through the best Christmas ho
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-plaza-hotel-christmas-hotels-nyc"><figure><a href="/images/the-plaza-hotel-christmas-hotels-nyc.jpg"><img src="/images/the-plaza-hotel-christmas-hotels-nyc.jpg" alt="Christmas at the Plaza Hotel New York" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
-
 ## [The Plaza New York](/go/the-plaza-hotel-new-york/)
 
 768 Fifth Avenue, New York City, NY 10019
-</div>
 
 The Plaza is known for its lavish holiday décor, including a towering Christmas tree, ornate wreaths, and garlands that adorn the hotel's grand interior. The lobby exudes a warm and festive atmosphere, and it's a popular spot for visitors to take holiday photos.
 
@@ -42,12 +39,9 @@ The Plaza often features live music performances, including carolers and musicia
 
 <div class="wp-block-uagb-image uagb-block-23d2ee9e wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="st-regis-new-york-best-christmas-hotels-nyc"><figure><a href="/images/st-regis-new-york-best-christmas-hotels-nyc.jpg"><img src="/images/st-regis-new-york-best-christmas-hotels-nyc.jpg" alt="Christmas at St. Regis New York New York" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-6754042d">
-
 ## [The St. Regis New York](/go/st-regis-new-york-new-york/)
 
 Two East 55th Street, at Fifth Avenue, New York City, NY 10022
-</div>
 
 Visiting The St. Regis New York during Christmas offers a sophisticated and timeless experience. The combination of opulent décor, festive dining, and live entertainment creates a warm and inviting holiday ambiance for guests looking to celebrate the season in a luxurious setting.
 
@@ -67,12 +61,9 @@ Indulge in a luxurious holiday retreat within a Master or Designer Suite, comple
 
 <div class="wp-block-uagb-image uagb-block-b0d0e81c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="ritz-carlton-new-york-best-christmas-hotels-nyc"><figure><a href="/images/ritz-carlton-new-york-best-christmas-hotels-nyc.jpg"><img src="/images/ritz-carlton-new-york-best-christmas-hotels-nyc.jpg" alt="Christmas at the Ritz-Carlton New York Central Park" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-0b9cf905">
-
 ## [The Ritz-Carlton New York, Central Park](/go/ritz-carlton-new-york-central-park/)
 
 50 Central Park South, New York City, NY 10019
-</div>
 
 The Ritz-Carlton New York, Central Park knows how to sprinkle some holiday magic! Imagine a place where luxury meets Christmas cheer, and you've got it. They deck the halls with dazzling decorations, from towering Christmas trees to twinkling lights and wreaths.
 
@@ -88,12 +79,9 @@ For those who crave relaxation, check out their spa for some holiday-themed pamp
 
 <div class="wp-block-uagb-image uagb-block-f8881d08 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-peninsula-new-york-best-christmas-hotels-nyc"><figure><a href="/images/the-peninsula-new-york-best-christmas-hotels-nyc.jpg"><img src="/images/the-peninsula-new-york-best-christmas-hotels-nyc.jpg" alt="The Peninsula New York Best Christmas Hotels in NYC" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-8edecf13">
-
 ## [The Peninsula New York](/go/the-peninsula-new-york-new-york/)
 
 700 Fifth Avenue at 55th Street, New York City, NY 10019
-</div>
 
 Oh, you're in for a jolly treat at The Peninsula New York during Christmas! This upscale haven in the Big Apple knows how to make the holiday season sparkle.
 
@@ -117,12 +105,9 @@ So, if you're dreaming of a luxury Christmas in the city that never sleeps, The 
 
 <div class="wp-block-uagb-image uagb-block-6a0f3565 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bryant-park-hotel-best-christmas-hotels-nyc"><figure><a href="/images/bryant-park-hotel-best-christmas-hotels-nyc.jpg"><img src="/images/bryant-park-hotel-best-christmas-hotels-nyc.jpg" alt="The Bryant Park Hotel Christmas Hotel NYC" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-28d0d73b">
-
 ## [The Bryant Park Hotel](/go/the-bryant-park-hotel-new-york/)
 
 40 West 40th Street, New York City, NY 10018
-</div>
 
 Right at the heart of the action, the Bryant Park Hotel is your front-row seat to all the holiday festivities. With Bryant Park's Winter Village on your doorstep, you can glide on the ice, shop at festive markets, and soak in the holiday spirit, all without breaking a sweat. If gift-hunting is on your holiday to-do list, you're in luck. The Bryant Park Hotel is a hop, skip, and a jump away from Fifth Avenue's legendary shopping spots.
 
@@ -136,12 +121,9 @@ When the holiday hustle and bustle tires you out, [the Bryant Park Hotel](https:
 
 <div class="wp-block-uagb-image uagb-block-9cc1b66d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="lotte-new-york-palace-best-christmas-hotels-nyc"><figure><a href="/images/lotte-new-york-palace-best-christmas-hotels-nyc.jpg"><img src="/images/lotte-new-york-palace-best-christmas-hotels-nyc.jpg" alt="Christmas at The Lotte New York Palace" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-f5313e81">
-
 ## [The Lotte New York Palace](/go/lotte-new-york-palace-new-york/)
 
 455 Madison Ave, New York City, NY 10022
-</div>
 
 The hotel is lavishly adorned with elegant holiday decorations, including stunning Christmas trees, sparkling lights, and festive ornaments. The lobby and public spaces are transformed into a winter wonderland. You might find intricate gingerbread house displays created by the hotel's talented pastry chefs, often showcased in the lobby for guests to admire.
 
@@ -161,12 +143,9 @@ But wait, there's more fun to unwrap! You'll score tickets to a 2024 New York Ya
 
 <div class="wp-block-uagb-image uagb-block-75eea354 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="omni-berkshire-place-best-christmas-hotels-nyc"><figure><a href="/images/omni-berkshire-place-best-christmas-hotels-nyc.jpg"><img src="/images/omni-berkshire-place-best-christmas-hotels-nyc.jpg" alt="Omni Berkshire Place Christmas Hotel NYC" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-7d8fbcc5">
-
 ## [Omni Berkshire Place](/go/omni-berkshire-place-new-york/)
 
 21 E 52nd St At Madison Ave, New York City, NY 10022
-</div>
 
 The Omni Berkshire Place is an excellent choice for a warm and welcoming holiday stay in the heart of Manhattan. This hotel typically creates a cozy and festive atmosphere during the Christmas season, making it a fantastic choice for families and couples looking to experience the magic of the holidays in New York City.
 
@@ -192,9 +171,9 @@ If you are more spooky and would like to stay in a **[haunted hotel in New York]
 
 Looking to explore more festive hotels around the country? Be sure to see our favorite [**Christmas hotels in Southern California**](/christmas-hotels-southern-california/) that go all out for the holiday season.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="Discover the best Christmas hotels in NYC for families — from festive lobbies to holiday magic around every corner. 🏙️🎅 Your perfect New York winter getaway starts here! ❄️ #FamilyTravel #NYCChristmas #HotMamaTravel"><a href="/images/best-christmas-hotels-nyc-for-families.jpg"><img src="/images/best-christmas-hotels-nyc-for-families-200x300.jpg" alt="Best Christmas Hotels in NYC" /></a></figure>
-</div></div>
+

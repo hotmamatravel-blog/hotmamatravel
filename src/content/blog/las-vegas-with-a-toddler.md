@@ -21,7 +21,7 @@ Despite having a dominate reputation as playground for adults, it is a fantastic
 
 ## Tips for Visiting Las Vegas With A Toddler
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 ### Find A Family-Friendly Hotel
 
@@ -119,9 +119,9 @@ For more resources to help you plan your trip, join my [**Las Vegas With Kids Fa
 
 Also, check my **[family travel guides for Las Vegas](/family-friendly-vegas/)** as well as my **[Nevada travel guides](/nevada-family-travel/)**.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="las-vegas-with-toddler-tips"><a href="/images/Best-things-to-do-in-las-vegas-with-a-toddler.jpg"><img src="/images/Best-things-to-do-in-las-vegas-with-a-toddler-200x300.jpg" alt="Best things to do in Las Vegas with a toddler" /></a></figure>
-</div></div>
+

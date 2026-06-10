@@ -15,13 +15,9 @@ In addition to being a renowned wine country, Temecula also has a thriving craft
 
 So where should you start? Start here with this list of 14 breweries in Temecula and learn a little about what each has to offer!
 
-<div class="wp-block-uagb-advanced-heading uagb-block-b583efea">
-
 ## Best Breweries In Temecula
 
-<div class="uagb-separator"></div></div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4fa992e7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 <figure id="aftershock-brewing-company-breweries-temecula"><a href="/images/aftershock-brewing-company-breweries-temecula.jpg"><img src="/images/aftershock-brewing-company-breweries-temecula.jpg" alt="" /></a></figure>
 
 #### [Aftershock Brewing Co.](/go/aftershock-brewing-co-temecula-ca/)
@@ -47,16 +43,15 @@ Yes, Aftershock Brewing Co. host fun events, like football Thursdays.
 
 <div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-a88b11b5" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Aftershock Brewing have food?**</div>
 Yes, Aftershock Brewing Co. regularly partners with restaurant popups as well as offer snacks for certain events.
-</div>
-</div>
+
 
 Aftershock Brewing Co. pride themselves in having extremely flavorful beers. With so many fun flavors to choose from, like Oatmeal Raisin Cookie, California Black Pear and Peanut Alert, the bartenders at the tasting room will help you put together custom flights to suit your taste.
 
 [**See photos, reviews &amp; more**](/go/aftershock-brewing-co-temecula-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2570f08f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Ironfire Brewing Company](/go/ironfire-brewing-company-temecula-ca/)
 
@@ -81,16 +76,15 @@ Yes, Ironfire Brewing Company host events, and offers daily specials.
 
 <div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-5246813a" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Ironfire Brewing Company have food?**</div>
 Yes, Ironfire Brewing Company partners with restaurant popups and food trucks.
-</div>
-</div>
+
 
 Ironfire Brewing Company is known for the ales and lagers with names as killer as their bold flavors. For example, The Passion de Deuche is a sour ale that is aged in wine barrels and brewed with passion fruit. The All Oak Everything is a Tequila barrel aged Imperial chocolate stout with three kinds of chili peppers! One of their more popular brews is the Devil Within Double IPA.
 
 [**See photos, reviews &amp; more**](/go/ironfire-brewing-company-temecula-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-78e82053"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Relentless Brewing Company](/go/relentless-brewing-temecula-ca/)
 
@@ -115,16 +109,15 @@ Yes, Relentless Brewing Company often hosts exciting events, like cornhole tourn
 
 <div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-3b458306" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Relentless Brewing Company have food?**</div>
 Yes, Relentless Brewing Company regularly partners with restaurant popups and food trucks.
-</div>
-</div>
+
 
 At [Relentless Brewing Company](https://www.relentlessbrewingandspirits.com/) cool down with one of their amazing beer slushies, like their Golden Sour Beer with peaches and a Tajin/Chimoy rim! If you love micheladas, be sure to try Travis Michies. They have an excellent selection of sours, including the Gose Du Jour a German Wheat Sour with Himalayan sea salt and cara cara oranges, which is great for those new to sours.
 
 [**See photos, reviews &amp; more**](/go/relentless-brewing-temecula-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bb473b52"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="stone-church-brewing-temecula-breweries"><a href="/images/stone-church-brewing-temecula-breweries.jpg"><img src="/images/stone-church-brewing-temecula-breweries.jpg" alt="" /></a></figure>
 
 #### [Stone Church Brewing](/go/stone-church-brewing-temecula-ca/)
@@ -150,8 +143,7 @@ Yes, Stone Church Brewing as themed parties, and host a variety of events.
 
 <div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-be3f30da" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Stone Church Brewing have food?**</div>
 Yes, while their Corona location offers a full menu, including kid's menu, the Temecula location does offer snacks.
-</div>
-</div>
+
 
 At [Stone Church Brewing](https://stonechurchbrewing.com/) they specialize in Pale Ales, India Pale Ales and Belgian-style Tripels. These sinfully delicious brews have cheeky religious names, like Chastity Blonde, Father, Son &amp; the Holy Kolsch and Covenant IPA, the beer that started it all.
 
@@ -159,9 +151,9 @@ At [Stone Church Brewing](https://stonechurchbrewing.com/) they specialize in Pa
 
 [**See photos, reviews &amp; more**](/go/stone-church-brewing-temecula-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-52b739d6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Oscar's Brewing Company](/go/oscars-brewing-company-temecula-ca/)
 
@@ -186,16 +178,15 @@ No, Oscar's Brewing Company does not host regular events, but does host private 
 
 <div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-07257354" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Oscar's Brewing Company have food?**</div>
 Yes, Oscar's Brewing Company is a full service restaurant as well as a brewery. Although, they are best known for their pizza, bread sticks, salads, they also have an extensive meal sure to please all tastes.
-</div>
-</div>
+
 
 Oscar’s is a popular local brewery and family restaurant. The food is designed to be delicious, yet healthy and made for sharing family-style, like pizzas, big salads, sandwiches, appetizers and more. Moving on to the beer, there are nine of their brews on tap. You can order them as 5oz tasters, 10oz, or 16oz pints. [Oscar's Brewing Company](https://oscarsbrewingcompany.com/) have some interesting brews like, Ship of Lanterns, a barleywine aged in rum and whiskey barrels for 8 months and the Dragon Queen brewed on International Women’s Day with Pink Boots Society Hop Blend.
 
 [**See photos, reviews &amp; more**](/go/oscars-brewing-company-temecula-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a32d5622"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Karl Strauss Brewing Company](/go/karl-stauss-brewing-company-temecula-ca/)
 
@@ -220,8 +211,7 @@ Yes, Karl Strauss Brewing Company does host fun events.
 
 <div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-1af4c8ab" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Karl Strauss Brewing Company have food?**</div>
 Yes, Karl Strauss Brewing Company is also a full service restaurant with an extensive and diverse menu.
-</div>
-</div>
+
 
 Karl Strauss is a restaurant and brewery, with their main brewery located in Pacific Beach, San Diego. They brew over 150 different beers throughout the year. In addition to their staple brews, they have seasonal, small batch, barrel aged and collaboration brews.
 
@@ -229,9 +219,9 @@ Bring the whole family for a fun good time. At [Karl Strauss Brewing Company](ht
 
 [**See photos, reviews &amp; more**](/go/karl-stauss-brewing-company-temecula-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6575b673"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Black Market Brewing Co](/go/black-market-brewing-company-temecula-ca/)
 
@@ -256,8 +246,7 @@ Yes, Black Market Brewing host fun events for holidays and Wednesday new release
 
 <div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-0ae3e321" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does Black Market Brewing Co have food?**</div>
 Yes, Black Market Brewing as about 13 signature house made pizzas as well as salads, wings, pretzels, and other pub favorites.
-</div>
-</div>
+
 
 Offering a large selection of handcrafted beers, Black Market Brewing is known for their awarding-winning IPA. They brew 10 types of IPA, including a red, a rye, New England-style with different fruit flavors and more. They also produce a selection of sours, seltzers and ciders in fun flavors. When you visit Black Market Brewing try one of their signature handmade pizzas too!
 
@@ -265,9 +254,9 @@ Kids and adults alike will love the retro-style arcade games, foosball tables an
 
 [**See photos, reviews &amp; more**](/go/black-market-brewing-company-temecula-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-865b68a5"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="8-bit-brewing-company-temecula-breweries"><a href="/images/8-bit-brewing-company-temecula-breweries.jpg"><img src="/images/8-bit-brewing-company-temecula-breweries.jpg" alt="" /></a></figure>
 
 #### [8 Bit Brewing Company](/go/8-bit-brewing-company-temecula-ca/)
@@ -293,8 +282,7 @@ Yes, 8 Bit Brewing Company host many fun events.
 
 <div class="wp-block-uagb-faq-child uagb-faq-child__outer-wrap uagb-faq-item uagb-block-b7e0743d" role="tab" tabindex="0"><div class="uagb-faq-questions-button uagb-faq-questions"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.69-14.33 32.01-32 32.01H256v144c0 17.69-14.33 31.99-32 31.99s-32-14.3-32-31.99v-144H48c-17.67 0-32-14.32-32-32.01s14.33-31.99 32-31.99H192v-144c0-17.69 14.33-32.01 32-32.01s32 14.32 32 32.01v144h144C417.7 224 432 238.3 432 256z"></path></svg><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M400 288h-352c-17.69 0-32-14.32-32-32.01s14.31-31.99 32-31.99h352c17.69 0 32 14.3 32 31.99S417.7 288 400 288z"></path></svg>**Does 8 Bit Brewing Company have food? **</div>
 Yes, 8 Bit Brewing Company has a full kitchen and extensive menu with a variety of items sure please a wide range of tastes.
-</div>
-</div>
+
 
 Get ready for a pixel-perfect experience at [8 Bit Brewing Company](https://www.8bitbrewingcompany.com/) in Temecula! This is a family-friendly haven where both kids and adults can revel in the vibrant atmosphere. The dog-friendly patio is a game-changer, making it the perfect spot for furry friends to join the party. And oh, the extensive food menu is a feast for the senses, ensuring everyone finds their flavor adventure.
 
@@ -304,13 +292,9 @@ So, whether you're a gaming enthusiast, a foodie, a music lover, or just seeking
 
 [**See photos, reviews &amp; more**](/go/8-bit-brewing-company-temecula-ca/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-805f8a44">
 
 ## That's a Wrap!
-
-<div class="uagb-separator"></div></div>
 
 There you have it! That is just some of the great breweries in Temecula. Just like the wine tours, you can now book brewery tours that will help you sip your way through some of these remarkable and truly unique local breweries. So have fun and taste what's local.
 
@@ -318,9 +302,9 @@ While you are in Temecula, you want to check out the wineries and stay a while. 
 
 **For more [cool breweries in more cool cities](/americas-best-breweries/), check out our other posts.**
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b0993eb6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure><a href="/images/best-temecula-breweries.jpg"><img src="/images/best-temecula-breweries-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

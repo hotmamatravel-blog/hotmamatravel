@@ -17,7 +17,7 @@ As the warmth of summer seeps into the valley, the spectacular Rocky Mountains a
 
 The 4th of July in Aspen is not just a date on the calendar, it's an experience, an emotion. It's the spirit of patriotism blending seamlessly with the love of nature, creating a unique celebration that is quintessentially Aspen. It's about the community coming together, the air resonating with the sound of laughter and music, and the sky lit up with the bright colors of fireworks reflecting off the surface of the Roaring Fork River. Let’s proceed!
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-33296f04"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 #### Aspen’s Old Fashioned 4th of July Celebration
 
@@ -25,9 +25,9 @@ The Aspen 4th of July parade is a living postcard from a simpler time. Imagine a
 
 And it's not just about the parade. [The Old Fashioned 4th of July Celebration](https://aspenchamber.org/events/4th-July) is an all-day affair. There's never a dull moment from the early morning kids' bicycle race to the afternoon picnics in the park. As the sun sets, the day is capped off with a spectacular fireworks display, painting the night sky with bursts of vibrant colors reflecting off the surrounding mountains. It's a sight to behold, a fitting end to a day filled with joy, camaraderie, and a shared love for our great nation. So, pack your picnic basket, bring your best patriotic gear, and join the celebration. It's a happy 4th of July, Aspen style!
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7515a0ee"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="ajax-taven-aspen-colorado"><a href="/images/ajax-taven-aspen-colorado.jpg"><img src="/images/ajax-taven-aspen-colorado.jpg" alt="" /></a></figure>
 
 #### [A Feast for the Senses at Ajax Tavern](/go/ajax-tavern-aspen-co/)
@@ -42,9 +42,9 @@ But the real showstopper here is the view. Located at the base of Aspen Mountain
 
 [See photos, reviews &amp; more](/go/ajax-tavern-aspen-co/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-db45525b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="wet-deck-w-aspen-colorado"><a href="/images/wet-deck-w-aspen-colorado.jpg"><img src="/images/wet-deck-w-aspen-colorado.jpg" alt="" /></a></figure>
 
 #### [Soak in the Scenery at WET Deck](/go/wet-deck-w-aspen-colorado/)
@@ -57,9 +57,9 @@ Fancy a dip? The rooftop pool beckons, its crystal-clear waters mirroring the az
 
 [See photos, reviews &amp; more](/go/wet-deck-w-aspen-colorado/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-cf61830b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="prospect-hotel-jerome-aspen-colorado"><a href="/images/prospect-hotel-jerome-aspen-colorado.jpg"><img src="/images/prospect-hotel-jerome-aspen-colorado.jpg" alt="" /></a></figure>
 
 #### [A Taste of Tradition at Prospect at Hotel Jerome](/go/prospect-hotel-jerome-aspen-colorado/)
@@ -72,9 +72,9 @@ As you sit under the starlit Aspen sky in the spacious courtyard, surrounded by 
 
 [See photos, reviews &amp; more](/go/prospect-hotel-jerome-aspen-colorado/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-437c46a9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="benedict-music-tent-aspen-colorado"><a href="/images/benedict-music-tent-aspen-colorado.jpg"><img src="/images/benedict-music-tent-aspen-colorado.jpg" alt="" /></a></figure>
 
 #### [A Symphony of Sounds at the Fourth of July Concert Benedict Music
@@ -88,15 +88,15 @@ Every year, the 4th of July Concert features a lineup of talented musicians who 
 
 [See photos, reviews &amp; more](/go/benedict-music-tent-aspen-colorado/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-82529f44"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Getting Around in Style
 
 And let's not forget about getting from one event to the next. With so many exciting activities on the agenda, you'll want a smooth, stress-free way to navigate Aspen. That's where [Aspen Events Transportation](https://aspenlimoservices.com/service/group-meetings-events-transportation/) comes in. They offer comfortable, reliable, and luxurious transportation options that fit perfectly with the glamour and style of Aspen's 4th of July celebrations.
 
-</div></section>
+
 
 So there you have it—five ways to celebrate the 4th of July in style in Aspen. There's something for everyone from the classic parade to the glamorous concert. So come on, let's paint the town red, white, and blue, and make this a happy 4th of July to remember. Aspen awaits!
 

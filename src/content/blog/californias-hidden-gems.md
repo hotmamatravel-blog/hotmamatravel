@@ -13,7 +13,7 @@ author: "Amanda Keeley-Thurman"
 
 When it comes to California, most people tend to think of the Golden Gate Bridge, Disneyland, and Hollywood Boulevard. However, California has much more to offer than its well-known attractions. Some of California's best activities are off the beaten path, waiting to be discovered. If you're looking to explore the hidden gems of California, read on for ten unique activities that will pique your interest.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-79921152"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="hot-air-balloon-rides-temecula-california"><a href="/images/hot-air-balloon-rides-temecula-california.jpg"><img src="/images/hot-air-balloon-rides-temecula-california.jpg" alt="" /></a></figure>
 
 #### [Take a Hot Air Balloon Ride](/go/hot-air-balloon-rides-temecula/)
@@ -22,11 +22,11 @@ Temecula Valley is home to some of the [best wineries in California](/kid-friend
 
 [See photos, reviews &amp; more](/go/hot-air-balloon-rides-temecula/)
 
-</div></section>
+
 
 <figure id="vinarmour-travel-wine-bag"><a href="/go/vinarmour-luxury-wine-bag/"><img src="/images/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg" alt="Get your VinArmour wine travel case today" /></a></figure>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e1b37721"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="stargazing-palm-springs-california"><a href="/images/stargazing-palm-springs-california.jpg"><img src="/images/stargazing-palm-springs-california.jpg" alt="" /></a></figure>
 
 #### [Go Stargazing](/go/stargazing-tours-palm-springs/)
@@ -35,9 +35,9 @@ California is home to some of the darkest skies in North America, making it an i
 
 [See photos, reviews &amp; more](/go/stargazing-tours-palm-springs/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2ba37648"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="explore-california-caves"><a href="/images/explore-california-caves.jpg"><img src="/images/explore-california-caves.jpg" alt="" /></a></figure>
 
 #### [Explore a Cave](/go/best-caves-to-explore-california/)
@@ -46,9 +46,9 @@ Head underground and explore one of California's many caves! Whether you're inte
 
 [See photos, reviews &amp; more](/go/best-caves-to-explore-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-36d7b20b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="inyo-national-forest-ansel-adams-wilderness-california"><a href="/images/inyo-national-forest-ansel-adams-wilderness-california.jpg"><img src="/images/inyo-national-forest-ansel-adams-wilderness-california.jpg" alt="" /></a></figure>
 
 #### [Visit Ansel Adams Wilderness - Inyo National Forest](/go/ansel-adams-wilderness-yosemite-ca/)
@@ -57,9 +57,9 @@ The Ansel Adams Wilderness is located in central California near Yosemite Nation
 
 [See photos, reviews &amp; more](/go/ansel-adams-wilderness-yosemite-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e112100d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="redwood-national-park-california"><a href="/images/redwood-national-park-california.jpg"><img src="/images/redwood-national-park-california.jpg" alt="" /></a></figure>
 
 #### [Take A Hike Through The Redwood Forest](/go/redwood-national-park-california/)
@@ -68,18 +68,18 @@ The Redwood Forest is one of California's most iconic natural wonders and one of
 
 [See photos, reviews &amp; more](/go/redwood-national-park-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1fd6e3e5"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="learn-how-to-fly-california-aernautical-university"><a href="/images/learn-to-fly.jpg"><img src="/images/learn-to-fly.jpg" alt="" /></a></figure>
 
 #### Learn To Fly
 
 If you've ever dreamed about soaring through the skies, why not [apply for flight school](https://calaero.edu/)? With multiple flight schools throughout California, learning how to fly has never been easier or more accessible than it is today - so don't miss out on this amazing opportunity!
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-74a92b82"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="whale-watching-california"><a href="/images/whale-watching-california.jpg"><img src="/images/whale-watching-california.jpg" alt="" /></a></figure>
 
 #### [Go Whale Watching](/go/whale-watching-dana-point-ca/)
@@ -90,9 +90,9 @@ There are some many places to go whale watching from San Diego up the coast of N
 
 [See photos, reviews &amp; more](/go/whale-watching-dana-point-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c20d9b1b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="calico-ghost-town-california"><a href="/images/calico-ghost-town-california.jpg"><img src="/images/calico-ghost-town-california.jpg" alt="" /></a></figure>
 
 #### [Visit An Abandoned Ghost Town](/go/calico-ghost-town-california/)
@@ -101,9 +101,9 @@ Explore what remains of some long-forgotten towns with visits to abandoned ghost
 
 [See photos, reviews &amp; more](/go/calico-ghost-town-california/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-9800a749"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="road-trip-california-coast"><a href="/images/road-trip-california-coast.jpg"><img src="/images/road-trip-california-coast.jpg" alt="" /></a></figure>
 
 #### [Take A Road Trip Along The Pacific Coast Highway](/go/pacific-coast-highway-road-trip/)
@@ -112,9 +112,9 @@ Take all California offers with a road trip along its famous Pacific Coast Highw
 
 [See photos, reviews &amp; more](/go/pacific-coast-highway-road-trip/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0fbe434f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="california-wineries-breweries"><a href="/images/castello-di-amorosa-kid-friendly-winery-napa-ca.jpeg"><img src="/images/castello-di-amorosa-kid-friendly-winery-napa-ca.jpeg" alt="" /></a></figure>
 
 #### [Visit A Local Winery Or Brewery](/go/california-wineries/)
@@ -125,11 +125,11 @@ Looking for some family-friendly options? Check out our picks for the best winer
 
 [See photos, reviews &amp; more](/go/california-wineries/)
 
-</div></section>
+
 
 <figure><a href="/go/vinarmour-luxury-wine-bag/"><img src="/images/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg" alt="Get your VinArmour wine travel case today" /></a></figure>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-42444204"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="hike-to-hollywood-sign-california"><a href="/images/hike-to-hollywood-sign-california.jpg"><img src="/images/hike-to-hollywood-sign-california.jpg" alt="" /></a></figure>
 
 #### [Hike to the Hollywood Sign via the Bronson Canyon Trail](/go/hollywood-sign-hike-trail-california/)
@@ -138,19 +138,19 @@ The Hollywood Sign is an iconic symbol of Los Angeles, but few visitors know tha
 
 [See photos, reviews &amp; more](/go/hollywood-sign-hike-trail-california/)
 
-</div></section>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-1036a38 ugb-main-block"><style>.ugb-1036a38 .ugb-heading__title{text-align:center}.ugb-1036a38 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-1036a38 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 As you can see, California is full of hidden gems waiting to be discovered. Whether you're a nature lover, a history buff, or just looking for a unique experience, there's something for everyone in the Golden State. So, get out there and explore them today!
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-484974da"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="unique-off-beaten-path-california-hidden-gems"><a href="/images/unique-off-beaten-path-california-hidden-gems.jpg"><img src="/images/unique-off-beaten-path-california-hidden-gems-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

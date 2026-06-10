@@ -22,11 +22,9 @@ Also, with helpful websites like [FlightHub](https://www.facebook.com/FlightHubG
 
 And since some places are just better to visit than others during a particular season, I've organized the list by time-of-year, presenting two of my favorite options to match each season.
 
-<div class="wp-block-uagb-advanced-heading uagb-block-ac4cb7b4-c7a3-48dc-84e4-7f3dadde166d" id="uagb-adv-heading-1c715669-eab3-4816-ba7d-a5997538c0b7">
-
 ## Winter (December - February)
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -70,11 +68,9 @@ One of our favorite hangouts in Scottsdale is the Rusty Spur Saloon, which is a 
 - Spending a day in the historic city of Tombstone (yes, it's a real place and family-friendly!)
 - Dining at a nice restaurant in Old Town Scottsdale
 
-<div class="wp-block-uagb-advanced-heading uagb-block-40275b5d-8f81-46f2-a6c4-099ba3060279" id="uagb-adv-heading-b746b60a-519a-4e0a-8feb-6eb41c7c006b">
-
 ## Spring (March - May)
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -112,11 +108,9 @@ We are slightly obsessed with live music and a dance floor, so when we come to N
 - Catch a show at the Grand Ole Opry where many country music greats have graced the stage.
 - Handle the heat with some Hot Chicken, a Nashville original fried chicken dish created 100 years ago. With various degrees of heat, you see how hot you can go!
 
-<div class="wp-block-uagb-advanced-heading uagb-block-de63cbdd-609d-46d6-93cc-f54bc7103bf5" id="uagb-adv-heading-02cad53c-8e36-422e-8aa7-d8b4f5971b3a">
-
 ## Summer (June - August)
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -156,11 +150,9 @@ Since we live in Anaheim we enjoy just about everything this awesome city has to
 
 **See our [list of things to do with kids near Anaheim](/things-to-do-in-anaheim/)any time of year**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-6e307a98-4121-4b57-89ef-089c7d0efd63" id="uagb-adv-heading-c4fd1de0-cc73-4f15-b87e-6c2bd971b124">
-
 ## Fall (September - November)
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -202,11 +194,9 @@ Now, there are a ton of historic sites to visit while in Santa Fe, like the San 
 - Stay, eat or just play the historic luxury La Fonda on The Plaza
 - Stroll through the Santa Fe Plaza, enjoying the many shops, restaurants and historic sites.
 
-<div class="wp-block-uagb-advanced-heading uagb-block-5995a7b9-d8ba-4cac-8fa1-832fa07b7eeb" id="uagb-adv-heading-e4f281da-da00-40a9-aebe-49d834a83370">
-
 ## That's a Wrap!
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -214,9 +204,9 @@ There you have it! These are 8 amazing places you should consider visiting with 
 
 *In the comments below, let me know where you hope 2020 will take you!*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1cca99ea-89ff-479b-b4a3-48a0d59dd71c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <div class="wp-block-image"><figure class="alignleft size-medium"><img src="/images/8-family-friendly-us-cities-2020-200x300.jpg" alt="Family-Friendly US cities to visit this year" /></figure></div>
-</div></section>
+

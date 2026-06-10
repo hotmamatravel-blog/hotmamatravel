@@ -21,16 +21,13 @@ Las Vegas has a ton of awesome history, and with history comes ghost stories. Co
 
 ## Spooky Year-Round Las Vegas Attractions
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/zak-bagans-haunted-museum-church.jpg"><img src="/images/zak-bagans-haunted-museum-church.jpg" alt="Zak Bagans Haunted Museum in Las Vegas" /></a></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
 ### [Zak Bagans' The Haunted Museum](/go/zak-bagans-haunted-museum/)
 
 600 E Charleston Blvd, Las Vegas, NV 89104
-</div>
 
 ***Ages 14 and up**
 
@@ -40,12 +37,9 @@ For the brave souls in your family, [Zak Bagans' The Haunted Museum](https://the
 
 <div class="wp-block-uagb-image uagb-block-4da0675b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/real-bodies-ballys-las-vegas-attraction-for-teens.jpg"><img src="/images/real-bodies-ballys-las-vegas-attraction-for-teens.jpg" alt="Bodies Exhibition in Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-84060616">
-
 ### [Bodies The Exhibition](/go/bodies-exhibition-las-vegas-bov/)
 
 3900 S Las Vegas Blvd, Las Vegas, NV 89119
-</div>
 
 Kids will be absolutely fascinated by The Bodies Exhibition at [Luxor](https://luxor.mgmresorts.com/en/entertainment/bodies-the-exhibition.html) in Las Vegas! This incredible exhibit offers a unique and educational adventure, showcasing real human bodies in a way that’s both awe-inspiring and enlightening. Imagine peering inside the human body and discovering how everything works, it’s like a science class come to life!
 
@@ -55,12 +49,9 @@ This makes for a perfectly spooky Halloween activity, adding a touch of the maca
 
 <div class="wp-block-uagb-image uagb-block-8be70bd8 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/area-15-las-vegas.jpg"><img src="/images/area-15-las-vegas.jpg" alt="Area 15 best arcade in las vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-1a7ff03a">
-
 ### [Area 15](/go/area-15-las-vegas-teens/)
 
 3215 S Rancho Dr, Las Vegas, NV 89102
-</div>
 
 Area 15 in Las Vegas is the perfect Halloween destination for families looking for a mix of thrills, chills, and endless fun! This immersive entertainment wonderland offers attractions that appeal to all ages, making it an ideal spot for a spooky family adventure.
 
@@ -76,12 +67,9 @@ Kids will be enchanted by the interactive experiences and mesmerizing art instal
 
 <div class="wp-block-uagb-image uagb-block-60db01d7 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/criss-angel-mindfreak-planet-hollywood.jpg"><img src="/images/criss-angel-mindfreak-planet-hollywood.jpg" alt="Criss Angel Mindfreak show" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-98e6b954">
-
 ### [Cris Angel MindFreak](/go/criss-angel-las-vegas-bov/)
 
 3667 Las Vegas Blvd S, Las Vegas, NV 89109
-</div>
 
 ****Ages 12 and Up***
 
@@ -95,12 +83,9 @@ Not only does the Criss Angel MindFreak show offer high-energy entertainment, bu
 
 <div class="wp-block-uagb-image uagb-block-724efe0f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="nightmare-toys-halloween-las-vegas"><figure><a href="/images/nightmare-toys-halloween-las-vegas.jpg"><img src="/images/nightmare-toys-halloween-las-vegas.jpg" alt="Nightmare Toys Halloween in Las Vegas " /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-5a5b3953">
-
 ### [Nightmare Toys](/go/nightmare-toys-las-vegas/)
 
 1309 S Commerce St, Las Vegas, NV 89102
-</div>
 
 If you’re hunting for the perfect Halloween experience in Las Vegas, look no further than Nightmare Toys! This unique store is a paradise for horror enthusiasts and families looking to dive into the spooky season with style. Open all year long, Nightmare Toys keeps the Halloween spirit alive no matter the season.
 
@@ -118,12 +103,9 @@ My kids love visiting Nightmare toys to pick up a unique and creepy souvenir. Pr
 
 <div class="wp-block-uagb-image uagb-block-b0680585 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="las-vegas-halloween-escape-rooms"><figure><a href="/images/las-vegas-halloween-escape-rooms.jpg"><img src="/images/las-vegas-halloween-escape-rooms.jpg" alt="Saw and Blair Witch Escape Rooms Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-3527a045">
-
 ### [The Official SAW Escape Room &amp; Escape BLAIR WITCH](/go/saw-escape-room-escape-blair-witch-vegas/)
 
 2121 Industrial Rd. Las Vegas NV
-</div>
 
 **** Ages 16 and Up***
 
@@ -137,12 +119,9 @@ Escape Blair Witch brings the iconic film to life. Start at the Burkittsville Ra
 
 <div class="wp-block-uagb-image uagb-block-d1e38b45 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/mob-museum-las-vegas.jpg"><img src="/images/mob-museum-las-vegas.jpg" alt="Las Vegas Mob Museum" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-5981fa06">
-
 ### [Mob Museum](/go/las-vegas-mob-museum/)
 
 300 Stewart Ave, Las Vegas, NV 89101
-</div>
 
 Not only does The Mob Museum showcase artifacts from some of America’s most notorious and violent events, like gruesome tools used for torture, murder, and spreading terror, but it is  a real haunted location in Las Vegas! The building itself used to be the old Vegas courthouse, where countless mobsters, murderers, and criminals faced justice, often receiving life sentences or death penalties. Many believe that the spirits of these condemned souls linger in the halls, making their presence known as shadowy figures.
 
@@ -152,12 +131,9 @@ The Mob Museum makes for an eerie and educational attraction for families all ye
 
 <div class="wp-block-uagb-image uagb-block-1ef7958c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/free-stranger-things-store-las-vegas.jpg"><img src="/images/free-stranger-things-store-las-vegas.jpg" alt="stranger things store las vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-c6576c50">
-
 ### [Stranger Things Store](/go/stranger-things-store-las-vegas/) (This Attraction is Currently Closed)
 
 3785 S Las Vegas Blvd Suite #102, Las Vegas, NV 89109
-</div>
 
 At the free Stranger Things store in Las Vegas get an immersive experience that fan and families will love. You get enter the eerie and exciting world of your favorite Netflix show.
 
@@ -171,12 +147,9 @@ But don’t worry if Halloween is over, this store is a year-round treat! Whethe
 
 **[See Photos, Reviews, &amp; More](/go/stranger-things-store-las-vegas/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-bb3baa65">
-
 ### [Take A Ghost Tour With Las Vegas Ghosts](/go/las-vegas-ghost-tour/)
 
 3200 Las Vegas Blvd S, Las Vegas, NV 89109, USA
-</div>
 
 Add a dash of spooky fun to your family's Vegas trip this Halloween with a ghost tour. The Las Vegas Ghosts Tour offers a thrilling walk through the haunted history of the Strip, blending real-life tales of mobsters, movie stars, and mysterious misfortunes. It's a one-mile journey covering eight eerie locations, making it manageable for kids and engaging for adults.
 
@@ -188,16 +161,13 @@ During these guided tours, you'll hear chilling stories that bring the city's da
 
 ## Events During Halloween For Kids in Las Vegas
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-3591c9ae wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="sistahs-hocus-pocus-parody-las-vegas"><figure><a href="/images/sistahs-hocus-pocus-parody-las-vegas.jpg"><img src="/images/sistahs-hocus-pocus-parody-las-vegas.jpg" alt="Sistahs! Hocus Pocus Parody Las Vegas" /></a><figcaption class="uagb-image-caption">Courtesy of Vegas.com</figcaption></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-3f48094a">
 
 ### [Sistahs! The Hocus Pocus Parody](/go/sistahs-hocus-pocus-show-las-vegas/)
 
 375 E Harmon Ave, Las Vegas, NV 89169
-</div>
 
 ***All Ages**
 
@@ -211,12 +181,9 @@ Whether you’re a fan of the original movie or just looking for a fantastic Hal
 
 <div class="wp-block-uagb-image uagb-block-509dcac6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="fremont-street-las-vegas-halloween"><figure><a href="/images/fremont-street-las-vegas-halloween.jpg"><img src="/images/fremont-street-las-vegas-halloween.jpg" alt="Fremont Street Halloween in Las Vegas" /></a><figcaption class="uagb-image-caption">Courtesy of [Fremont Street Experience](https://vegasexperience.com/halloween/)</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-cec13977">
-
 ### [Fremont Street Experience Rock of Horror Halloweekend](/go/fremont-street-experience-las-vegas/)
 
 Fremont Street, Downtown Las Vegas
-</div>
 
 Get ready to rock out and get your spook on at the Fremont Street Experience’s Rock of Horror Halloween event in Downtown Las Vegas! This exhilarating celebration is a must-visit for families looking to add a thrilling twist to their Halloween festivities.
 
@@ -226,12 +193,9 @@ The Rock of Horror event is designed to be an adults-only celebration by evening
 
 **[See Photos, Reviews, &amp; More](/go/fremont-street-experience-las-vegas/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-9c59084b">
-
 ### [Magical Forest and HallOVeen at Opportunity Village](https://www.opportunityvillage.org/events/halloveen)
 
 6300 W Oakey Blvd, Las Vegas, NV 89146
-</div>
 
 Join the spook-tacular fun at HALLOVEEN every weekend in October at [Opportunity Village](https://www.opportunityvillage.org/)! This family-friendly event spans 2.5 acres, offering park rides, carnival games, live entertainment, two mini escape rooms, and plenty of trick-or-treating.
 
@@ -243,12 +207,9 @@ Dress up, head over, and dive into a Halloween celebration filled with thrills, 
 
 <div class="wp-block-uagb-image uagb-block-20ce0bc6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Shark-reef-mandalay-bay-las-vegas.jpg"><img src="/images/Shark-reef-mandalay-bay-las-vegas.jpg" alt="shark reef mandalay bay las vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-cb74cd2a">
-
 ### [HALLOW-REEF](/go/shark-reef-mandalay-bay-las-vegas/)
 
 &nbsp;3950 S Las Vegas Blvd, Las Vegas, NV 89119
-</div>
 
 Dive into a spooky adventure at the Shark Reef Aquarium at [Mandalay Bay](https://mandalaybay.mgmresorts.com/en.html) this Halloween! This underwater world turns into a creepy haunted shipwreck, offering eerie vibes and tons of fun.
 
@@ -260,12 +221,9 @@ Explore the haunted shipwreck and enjoy aquatic thrills and chills at Mandalay B
 
 <div class="wp-block-uagb-image uagb-block-794fb4ba wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/affordable-family-activities-las-vegas.jpg"><img src="/images/affordable-family-activities-las-vegas.jpg" alt="hyper x arena at Luxor las vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-695acd33">
-
 ### [HyperX Halloween Weekend Gaming Tournament](/go/the-luxor-hotel-las-vegas/)
 
 3900 S Las Vegas Blvd, Las Vegas, NV 89119
-</div>
 
 Get ready for an epic Halloween weekend at Luxor’s [HyperX Arena](https://hyperxarenalasvegas.com/)! The Fight II Fright Tournament invites gamers of all ages to test their skills against top regional players across multiple game genres, with a thrilling $10,000 prize pool up for grabs.
 
@@ -279,9 +237,9 @@ As Halloween approaches, Las Vegas turns into a magical playground filled with s
 
 Also, check out our [**Best of Nevada**](/nevada-family-travel/) and [**Family-Friendly Las Vegas**](/family-friendly-vegas/) pages for more tips and ideas to make your family trip spook-tacularly perfect!
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="halloween-for-kids-las-vegas" data-essb-pin-description="Spooktacular Halloween for kids in Las Vegas"><a href="/images/best-halloween-for-kids-las-vegas.jpg"><img src="/images/best-halloween-for-kids-las-vegas-200x300.jpg" alt="Spooky Halloween for Kids in Las Vegas " /></a></figure>
-</div></div>
+

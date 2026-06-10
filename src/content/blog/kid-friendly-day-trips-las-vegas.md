@@ -36,7 +36,7 @@ See this article as a web story, [Las Vegas Day Trips](/web-stories/las-vegas-da
 
 ## Family Day Trips From Las Vegas
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure id="beautiful-grand-canyon-south-rim-scenic"><a href="/images/beautiful-grand-canyon-south-rim-scenic.jpg"><img src="/images/beautiful-grand-canyon-south-rim-scenic.jpg" alt="Stunning view from Grand Canyon South Rim" /></a></figure>
 
@@ -258,7 +258,7 @@ Kids will love the delicious Western-style breakfast or dinner at a ranch, then 
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 As I said in the intro, there are so many [**fun activities in Las Vegas**](/affordable-family-activities-las-vegas/) that it is easy to forget that Vegas is situated in a very unique desert ecosystem with insane natural beauty. Luckily, there are a host of tour companies that have designed thrilling, kid-friendly day tour itineraries from Vegas to learn about and experience the wonderful areas surrounding Las Vegas.
 
@@ -268,12 +268,12 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-523e9ec6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="8-Amazing-kid-friendly-day-trips-from-Las-Vegas"><a href="/images/family-day-trips-las-vegas.jpg"><img src="/images/family-day-trips-las-vegas-200x300.jpg" alt="8 kid-friendly day trips from Las Vegas" /></a></figure>
-</div></section>
+
 
 -
 

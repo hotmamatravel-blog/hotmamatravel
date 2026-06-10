@@ -27,7 +27,7 @@ So, if you are a worried parent too, we'll discuss the reasons why you should ta
 
 ## [Journey to the Everglades](/go/everglades-city-florida/)
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 <figure id="everglades-airboat-tours"><a href="/images/everglades-airboat-tours.jpg"><img src="/images/everglades-airboat-tours.jpg" alt="everglades tour with kids" /></a></figure>
 
@@ -57,7 +57,7 @@ No matter which city you choose as your starting point, there are plenty of opti
 
 ## [Everglades Airboat Tours](/go/everglades-airboat-tours-florida/)
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 <figure id="everglades-boat-tours"><a href="/images/everglades-boat-tours.jpg"><img src="/images/everglades-boat-tours.jpg" alt="everglades airboat tours" /></a></figure>
 
@@ -75,7 +75,7 @@ It's worth noting that the National Park Service does not operate any airboat to
 
 ## Everglades Animals
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 <figure id="everglades-alligators-airboat-rides"><a href="/images/everglades-alligators-airboat-rides.jpg"><img src="/images/everglades-alligators-airboat-rides.jpg" alt="everglades animals" /></a></figure>
 
@@ -97,7 +97,7 @@ Additionally, it's crucial to treat all wildlife with respect and to never appro
 
 ## [More Everglades Attractions](/go/things-to-do-everglades-city-with-kids/)
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 <figure id="unique-everglades-attractions"><a href="/images/unique-everglades-attractions.jpg"><img src="/images/unique-everglades-attractions.jpg" alt="activities in the everglades" /></a></figure>
 
@@ -113,7 +113,7 @@ To cool down from the about hot Florida sun or get dry from wet Florida rain, yo
 
 ## Our Personal Experience:
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 <figure id="everglades-airboat-tour-things-to-do-in-naples-with-kids"><a href="/images/everglades-airboat-tour-things-to-do-in-naples-with-kids.jpg"><img src="/images/everglades-airboat-tour-things-to-do-in-naples-with-kids.jpg" alt="family-friendly everglades airboat tour" /></a></figure>
 
@@ -186,7 +186,7 @@ Papa and Grams actually thanked me for forcing them on the airboat. Even though 
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 An Everglades airboat tour is a perfect family adventure that offers a unique opportunity to explore the beauty and diversity of one of the world's most extraordinary ecosystems. The tour allows you to get up close with a wide range of wildlife, including alligators, turtles, and exotic birds, while enjoying the thrill of gliding across the water on a high-speed airboat.
 
@@ -204,9 +204,9 @@ Additionally, the tour provides an educational experience that helps you learn a
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4c1ddf34"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="what-you-know-about-everglades-airboat-tours-with-kids"><a href="/images/what-you-know-about-everglades-airboat-tours-with-kids.jpg"><img src="/images/what-you-know-about-everglades-airboat-tours-with-kids-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

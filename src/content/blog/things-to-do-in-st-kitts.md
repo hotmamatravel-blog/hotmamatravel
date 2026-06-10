@@ -15,7 +15,7 @@ The Caribbean island of St Kitts is one of the most popular destination stops fo
 
 Today, St Kitts still remains part of the Commonwealth of Nations with King Charles III serving as the Head of State. In this article, we explore ten amazing activities that you can enjoy in St Kitts to give you a rich appreciation of the culture, history and charm of the island.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-92cf5599"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="Brimstone-Hill-Fortress-National-Park"><a href="/images/Brimstone-Hill-Fortress-National-Park.jpg"><img src="/images/Brimstone-Hill-Fortress-National-Park.jpg" alt="" /></a></figure>
 
 #### [Visit Brimstone Hill Fortress National Park](/go/brimstone-hill-fortress-national-park-st-kitts/)
@@ -28,9 +28,9 @@ This park is open to visitors daily from 9:30 am to 5:30 pm and provides breatht
 
 [See photos, reviews &amp; more](/go/brimstone-hill-fortress-national-park-st-kitts/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-06900145"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="st-maarten-day-trip"><a href="/images/st-maarten-day-trip.jpg"><img src="/images/st-maarten-day-trip.jpg" alt="" /></a></figure>
 
 #### [Island Hop To St Maarten](/go/st-martin-st-maarten-caribbean/)
@@ -41,9 +41,9 @@ Furthermore, there are also onward connections to other Dutch Caribbean Islands 
 
 [See photos, reviews &amp; more](/go/st-martin-st-maarten-caribbean/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-52aa994c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="nevis-st-kitts"><a href="/images/nevis-st-kitts.jpg"><img src="/images/nevis-st-kitts.jpg" alt="" /></a></figure>
 
 #### [Spend The Day In Nevis](/go/nevis-st-kitts-caribbean/)
@@ -56,9 +56,9 @@ Nature lovers to the island can enjoy the beauty of the flora, fauna and wildlif
 
 [See photos, reviews &amp; more](/go/nevis-st-kitts-caribbean/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-70b3b647"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="South-Peninsula-st-kitts"><a href="/images/South-Peninsula-st-kitts.jpg"><img src="/images/South-Peninsula-st-kitts.jpg" alt="" /></a></figure>
 
 #### [Take Pictures At The South Peninsula](/go/south-peninsula-st-kitts-nevis-caribbean/)
@@ -67,9 +67,9 @@ This is truly the most spectacular spot on the island for photo opportunities. T
 
 [See photos, reviews &amp; more](/go/south-peninsula-st-kitts-nevis-caribbean/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2646e930"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="port-zante-st-kitts"><a href="/images/porte-zante-st-kitts.jpg"><img src="/images/porte-zante-st-kitts.jpg" alt="" /></a></figure>
 
 #### [Shop At Port Zante](/go/port-zante-st-kitts-caribbean/)
@@ -80,9 +80,9 @@ The local currency used is the Eastern Caribbean Dollar. Nevertheless, US dollar
 
 [See photos, reviews &amp; more](/go/port-zante-st-kitts-caribbean/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a3bbf368"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="romney-manor-st-kitts"><a href="/images/romney-manor-st-kitts.jpg"><img src="/images/romney-manor-st-kitts.jpg" alt="" /></a></figure>
 
 #### [Stop By Romney Manor](/go/romney-manor-st-kitts-caribbean/)
@@ -96,9 +96,9 @@ architecture. This venue is a perfect activity for families including children a
 
 [See photos, reviews &amp; more](/go/romney-manor-st-kitts-caribbean/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-744e4a10"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="st-kitts-scenic-railway"><a href="/images/st-kitts-scenic-railway.jpg"><img src="/images/st-kitts-scenic-railway.jpg" alt="" /></a></figure>
 
 #### [Take A Scenic Train Tour](/go/st-kitts-scenic-railway-caribbean/)
@@ -109,9 +109,9 @@ The rail was built between 1912 and 1926 to bring sugar cane from the plantation
 
 [See photos, reviews &amp; more](/go/st-kitts-scenic-railway-caribbean/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-910022c2"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="cockleshell-beach-st-kitts"><a href="/images/cockleshell-beach-st-kitts.jpg"><img src="/images/cockleshell-beach-st-kitts.jpg" alt="" /></a></figure>
 
 #### [Relax On The Beach](/go/cockleshell-beach-st-kitts-caribbean/)
@@ -125,9 +125,9 @@ It is one of the preferred locations on the island for snorkeling.
 
 [See photos, reviews &amp; more](/go/cockleshell-beach-st-kitts-caribbean/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-727c6da3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Mount-Liamuiga-st-kitts"><a href="/images/Mount-Liamuiga-st-kitts.jpg"><img src="/images/Mount-Liamuiga-st-kitts.jpg" alt="" /></a></figure>
 
 #### [Hike Mount Liamuiga](/go/mount-liamuiga-st-kitts/)
@@ -138,9 +138,9 @@ The hike is moderate to difficult and may be challenging for beginners. Neverthe
 
 [See photos, reviews &amp; more](/go/mount-liamuiga-st-kitts/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5f0afb16"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Basseterre-st-kitts"><a href="/images/Basseterre-st-kitts.jpg"><img src="/images/Basseterre-st-kitts.jpg" alt="" /></a></figure>
 
 #### [Explore The City of Basseterre](/go/basseterre-st-kitts-nevis-caribbean/)
@@ -154,22 +154,22 @@ business meetings.
 
 [See photos, reviews &amp; more](/go/basseterre-st-kitts-nevis-caribbean/)
 
-</div></section>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-f5adebe ugb-main-block"><style>.ugb-f5adebe .ugb-heading__title{text-align:center}.ugb-f5adebe .ugb-heading__bottom-line{background-color:#cf2e2e !important;height:5px !important;width:149px !important;margin-left:auto !important;margin-right:auto !important}.ugb-f5adebe .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 St Kitts &amp; Nevis is truly a gem in the Caribbean that gives you the opportunity to enjoy delicious cuisine, beaches, hiking trails and for the adventurous the option to take a ferry to nearby St Maarten. The island lies on the Southern tip of the hurricane belt and is therefore susceptible to tropical storms during the period of June to November annually.
 
 **Bio**
 [Around The Caribbean](https://www.aroundthecaribbean.com/) is an online travel magazine dedicated to sharing information about the Caribbean islands. The content provides helpful and meaningful tips for individuals who want to relocate or vacation in the region.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e57e0990"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="things-to-do-in-st-kitts"><a href="/images/10-things-to-do-st-kitts.jpg"><img src="/images/10-things-to-do-st-kitts-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

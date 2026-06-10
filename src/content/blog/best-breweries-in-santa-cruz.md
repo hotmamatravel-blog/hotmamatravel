@@ -19,16 +19,13 @@ Nestled along the stunning coastline of California, Santa Cruz isn't just a have
 
 ## List of the Best Breweries in Santa Cruz
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="santa-cruz-moutain-brewing-best-breweries-santa-cruz"><figure><a href="/images/santa-cruz-moutain-brewing-best-breweries-santa-cruz.jpg"><img src="/images/santa-cruz-moutain-brewing-best-breweries-santa-cruz.jpg" alt="Womenn-owned and operated Santa Cruz Mountain Brewing" /></a><figcaption class="uagb-image-caption">Courtesy of Santa Cruz Mountain Brewing</figcaption></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
 ### [Santa Cruz Mountain Brewing](/go/santa-cruz-mountain-brewing-santa-cruz/) - Sustainably Crafted Delights
 
 402 Ingalls St #27, Santa Cruz, CA 95060
-</div>
 
 Family-Friendly  -  Pet-Friendly  -  Organic Beer  -  Organic Root Beer  -  Live Music  -  Events  -  Full Lunch Menu  -  Popups and Food Trucks  -  Women Brewers &amp; Owners
 
@@ -46,12 +43,9 @@ Relax, unwind, and soak in the coastal charm at Santa Cruz Mountain Brewing. Whe
 
 <div class="wp-block-uagb-image uagb-block-3be237ca wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="discretion-brewing-best-breweries-santa-cruz"><figure><a href="/images/discretion-brewing-best-breweries-santa-cruz.jpg"><img src="/images/discretion-brewing-best-breweries-santa-cruz.jpg" alt="family-friendly Discretion Brewing in Santa Cruz" /></a><figcaption class="uagb-image-caption">Courtesy of Discretion Brewing</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-53d724aa">
-
 ### [Discretion Brewing](/go/discretion-brewing-santa-cruz/) - Where Imagination Meets Craftsmanship
 
 2703 41st Ave Ste. A, Soquel, CA 95073
-</div>
 
 Family-Friendly  -  Pet-Friendly  -  Live Music  -  Fun Events  -  Italian Food Onsite  -  Family-Owned
 
@@ -69,12 +63,9 @@ As you step into Discretion Brewing, you're not only treated to an impressive ar
 
 <div class="wp-block-uagb-image uagb-block-e03a334b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="humble-sea-brewing-co-best-breweries-santa-cruz"><figure><a href="/images/humble-sea-brewing-co-best-breweries-santa-cruz.jpg"><img src="/images/humble-sea-brewing-co-best-breweries-santa-cruz.jpg" alt="best breweries in Santa Cruz Humble Sea Brewing Co" /></a><figcaption class="uagb-image-caption">Courtesy of Humble Sea Brewing Co.</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-5848ce25">
-
 ### [Humble Sea Brewing Co.](/go/humble-sea-brewing-co-santa-cruz/) - Coastal Coolness in Every Sip
 
 820 Swift St, Santa Cruz, CA 95060
-</div>
 
 Family-Friendly  -  Pet-Friendly  -  Live Music  -  Events  -  Food Trucks  -  Daily Empanadas  -  Cider Slushies
 
@@ -92,12 +83,9 @@ As you step into Humble Sea Brewing Co., you're not just entering a brewery; you
 
 <div class="wp-block-uagb-image uagb-block-37851007 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="new-bohemia-brewing-co-best-breweries-santa-cruz"><figure><a href="/images/new-bohemia-brewing-co-best-breweries-santa-cruz.jpg"><img src="/images/new-bohemia-brewing-co-best-breweries-santa-cruz.jpg" alt="European style brews at New Bohemia Brewing Co. Santa Cruz" /></a><figcaption class="uagb-image-caption">Courtesy of New Bohemia Brewing Co.</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-0df2c147">
-
 ### [New Bohemia Brewing Co.](/go/new-bohemia-brewing-santa-cruz/) - A Modern Twist on Tradition
 
 1030 41st Ave, Santa Cruz, CA 95062
-</div>
 
 Family-Friendly  -  European-Style Brews  -  Cider Slushies  -  Fruity Wheat Brews  -  Beer Grub Menu  -  Food Popups  -  Events  -  Live Music
 
@@ -115,12 +103,9 @@ As you sip your way through the diverse range of beers at New Bohemia Brewing Co
 
 <div class="wp-block-uagb-image uagb-block-a8fab8f3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="sante-adairius-ales-best-breweries-santa-cruz"><figure><a href="/images/sante-adairius-ales-best-breweries-santa-cruz.jpg"><img src="/images/sante-adairius-ales-best-breweries-santa-cruz.jpg" alt="Family-friendly Sante Adairius Rustic Ales Brewery Santa Cruz" /></a><figcaption class="uagb-image-caption">Courtesy of Sante Adairius Rustic Ales</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-904a280d">
-
 ### [Sante Adairius Rustic Ales](/go/sante-adairius-rustic-ales-santa-cruz/) - Crafting Elegance in Every Glass
 
 1315 Water Street Santa Cruz, CA 95062
-</div>
 
 Family-Friendly  -  Pet-Friendly  -  Bookies Pizza  -  Wine, Ciders, Non-Alcoholic Options  -  Old World Rustic Ales
 
@@ -138,9 +123,9 @@ Hope you enjoyed this journey through the best breweries in Santa Cruz, where ea
 
 **Don't let the fun stop now! Explore more cool [breweries in more cool cities](/americas-best-breweries/)**.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="best-breweries-in-Santa-Cruz-families-live-music-pets"><a href="/images/best-breweries-in-Santa-Cruz-families-live-music-pets.jpg"><img src="/images/best-breweries-in-Santa-Cruz-families-live-music-pets-200x300.jpg" alt="" /></a></figure>
-</div></div>
+

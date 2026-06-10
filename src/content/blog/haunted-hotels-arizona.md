@@ -21,12 +21,9 @@ Join us as we explore some of Arizona's most haunted hotels and discover why spe
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hotel-congress-haunted-hotels-arizona"><figure><a href="/images/hotel-congress-haunted-hotels-arizona.jpg"><img src="/images/hotel-congress-haunted-hotels-arizona.jpg" alt="Haunted Hotel Congress in Tuscan Arizona" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
-
 ## **[Hotel Congress](/go/hotel-congress-arizona/)**
 
 311 E Congress St, Tucson, AZ 85701
-</div>
 
 ### **Brief History**
 
@@ -56,12 +53,9 @@ Hotel Congress nails that perfect mix of cool and creepy. Families can stay in c
 
 <div class="wp-block-uagb-image uagb-block-88e38873 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Jerome-Grand-Hotel-haunted-hotels-arizona"><figure><a href="/images/Jerome-Grand-Hotel-haunted-hotels-arizona.jpg"><img src="/images/Jerome-Grand-Hotel-haunted-hotels-arizona.jpg" alt="Jerome Grand Hotel haunted hotel in Arizona" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-6b33cc9f">
-
 ## **[Jerome Grand Hotel](/go/jerome-grand-hotel-arizona/)**
 
 200 Hill St, Jerome, AZ 86331
-</div>
 
 ### **Brief History**
 
@@ -95,12 +89,9 @@ Families will love the complimentary breakfast before a day of exploring ghost t
 
 <div class="wp-block-uagb-image uagb-block-bb9415c3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Copper-Queen-Hotel-haunted-hotels-arizona"><figure><a href="/images/Copper-Queen-Hotel-haunted-hotels-arizona.jpg"><img src="/images/Copper-Queen-Hotel-haunted-hotels-arizona.jpg" alt="Copper Queen Hotel Haunted Hotel in Arizona" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-64219b92">
-
 ## **[Copper Queen Hotel](/go/copper-queen-hotel-arizona/)**
 
 11 Howell Ave, Bisbee, AZ 85603
-</div>
 
 ### **Brief History **
 
@@ -132,12 +123,9 @@ The Copper Queen Hotel in Bisbee is a perfect family-friendly haunted stay. With
 
 <div class="wp-block-uagb-image uagb-block-3ede8582 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Hotel-San-Carlos-haunted-hotels-arizona"><figure><a href="/images/Hotel-San-Carlos-haunted-hotels-arizona.jpg"><img src="/images/Hotel-San-Carlos-haunted-hotels-arizona.jpg" alt="Haunted Hotel Arizona Hotel San Carlos" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-9602fd15">
-
 ## **[Hotel San Carlos](/go/hotel-san-carlos-arizona/)**
 
 &nbsp;202 N Central Ave, Phoenix, AZ 85004
-</div>
 
 ### **Brief History**
 
@@ -165,12 +153,9 @@ The Hotel San Carlos in Phoenix is a family-friendly haunted hotel that blends s
 
 <div class="wp-block-uagb-image uagb-block-7f163e65 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Weatherford-hotel-haunted-hotels-arizona"><figure><a href="/images/Weatherford-hotel-haunted-hotels-arizona.jpg"><img src="/images/Weatherford-hotel-haunted-hotels-arizona.jpg" alt="Haunted Weatherford Hotel in Arizona" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-8f1cc9c2">
-
 ## **[Weatherford Hotel](/go/weatherford-hotel-arizona/)**
 
 23 N Leroux St, Flagstaff, AZ 86001
-</div>
 
 ### **Brief History**
 
@@ -206,12 +191,9 @@ With just the right mix of paranormal charm, comfort, and family-friendly fun, t
 
 <div class="wp-block-uagb-image uagb-block-a8259182 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Hotel-Vendome-haunted-hotels-arizona"><figure><a href="/images/Hotel-Vendome-haunted-hotels-arizona.jpg"><img src="/images/Hotel-Vendome-haunted-hotels-arizona.jpg" alt="Hotel Vendome Haunted Hotels in Arizona" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-412a67b6">
-
 ## [Hotel Vendome](/go/hotel-vendome-arizona/)
 
 230 S Cortez St, Prescott, AZ 86303
-</div>
 
 ### **Brief History**
 
@@ -241,12 +223,9 @@ The **Vendome Hotel **in Prescott is a family-friendly haunted stay that mixes c
 
 <div class="wp-block-uagb-image uagb-block-6c38c1e4 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Gadsden-Hotel-haunted-hotels-arizona"><figure><a href="/images/Gadsden-Hotel-haunted-hotels-arizona.jpg"><img src="/images/Gadsden-Hotel-haunted-hotels-arizona.jpg" alt="Haunted Hotels in Arizona The Gadsden Hotel" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-fe34240e">
-
 ## [The Gadsden Hotel](/go/gadsden-hotel-arizona/)
 
 1046 G Ave, Douglas, AZ 85607
-</div>
 
 ### **Brief History**
 
@@ -282,11 +261,11 @@ So, whether you're a paranormal enthusiast or simply seeking a unique vacation w
 
 Explore [**more haunted place**s and hotels](/best-haunted-places-to-visit-for-families/) in Arizona as well as across America
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="Ready for a haunted family adventure? Discover the most haunted hotels in Arizona that are perfect for families—where spooky stories meet history, comfort, and adventure. From Jerome to Bisbee, these stays mix ghostly thrills, family-friendly amenities, and unforgettable Arizona charm. 👨‍👩‍👧‍👦💀
 
 🕯️ Plan your next family-friendly haunted getaway in Arizona → 7 Haunted Hotels in Arizona for Spooky Families"><a href="/images/haunted-hotels-arizona.jpg"><img src="/images/haunted-hotels-arizona-200x300.jpg" alt="Haunted Hotels in Arizona" /></a></figure>
-</div></div>
+

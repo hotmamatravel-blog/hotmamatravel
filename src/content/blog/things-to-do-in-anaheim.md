@@ -29,12 +29,8 @@ If you are visiting Anaheim and looking for a great family-friendly accommodatio
 
 **Here's what's in this article**:
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-08c36632-ae5a-4d4d-87f2-fe8b21155e2c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-2345096f-91a2-4e52-9fd5-1f3a4f4710ce" id="uagb-adv-heading-397caaf2-e5e7-4fc8-a5ca-45778cd320e5">
 
 ### Unique Anaheim Attractions
-
-</div>
 
 - [Angel's Stadium](#angels-stadium)
 
@@ -50,11 +46,7 @@ If you are visiting Anaheim and looking for a great family-friendly accommodatio
 
 - [Disneyland Resort &amp; Disney California Adventure](#disneyland-california-adventure)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-78f0cbdc" id="uagb-adv-heading-397caaf2-e5e7-4fc8-a5ca-45778cd320e5">
-
 ### Nearby Orange County Family Attractions
-
-</div>
 
 - [Knott’s Berry Farm](#knotts-berry-farm) (Buena Park)
 
@@ -70,11 +62,7 @@ If you are visiting Anaheim and looking for a great family-friendly accommodatio
 
 - [Aquarium of the Pacific](#aquarium-pacific) (Long Beach)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-f9e0c5ca-dbf3-4b83-8042-3d6a3afb7e9c" id="uagb-adv-heading-95e64ec4-437c-47e6-85a8-8a80fb7322a4">
-
 ### Kid-friendly live music &amp; nightlife
-
-</div>
 
 - [Brewery X, Anaheim](#brewery-x-anaheim)
 
@@ -90,11 +78,7 @@ If you are visiting Anaheim and looking for a great family-friendly accommodatio
 
 - [Segerstrom Center of Performing Arts](#segerstrom-center) (Costa Mesa)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-844e4063-2bfa-4bdf-8b83-4558735eddb9" id="uagb-adv-heading-f7104f95-4a6a-4833-b60a-213e5126aaa8">
-
 ### Historic sites &amp; districts
-
-</div>
 
 - [Old Towne Orange](#old-towne-orange) (Orange)
 
@@ -106,11 +90,7 @@ If you are visiting Anaheim and looking for a great family-friendly accommodatio
 
 - [Richard Nixon Library](#nixon-library) (Yorba Linda)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-811e2bcc-f74e-4b79-832c-9d3649dbc2dd" id="uagb-adv-heading-086782e8-9d7f-4e8d-9eb7-991efbcc6fad">
-
 ### Bustling shopping areas
-
-</div>
 
 - [Gardenwalk](#gardenwalk) (Anaheim)
 
@@ -126,11 +106,7 @@ If you are visiting Anaheim and looking for a great family-friendly accommodatio
 
 - [Pacific City](#pacific-city) (Huntington)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-edecc264-dec2-4412-b2b4-7ce715916ccb" id="uagb-adv-heading-be802a34-cc40-4629-a482-85afb1a79eba">
-
 ### Parks &amp; hiking trails
-
-</div>
 
 - [Oak Canyon Nature Reserve](#oak-canyon) (Anaheim Hills)
 
@@ -142,7 +118,7 @@ If you are visiting Anaheim and looking for a great family-friendly accommodatio
 
 - [Upper Newport Bay Nature Preserve](#newport-bay-preserve) (Newport)
 
-</div></section>
+
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
@@ -150,7 +126,7 @@ If you are visiting Anaheim and looking for a great family-friendly accommodatio
 
 ## Kid-friendly Anaheim Attractions
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 <figure><img src="/images/things-to-do-anaheim-besides-disney.png" alt="Fun things to do in Anaheim CA besides Disneyland" /></figure>
 
@@ -220,7 +196,7 @@ Let’s be real, **[Disneyland](https://disneyland.disney.go.com/)** and **Disne
 
 ## Nearby OC Attractions
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 ### [Knott's Berry Farm](/go/knotts-berry-farm-general/)
 
@@ -294,7 +270,7 @@ The Aquarium of the Pacific is a huge public aquarium located on Rainbow Harbor 
 
 ## Kid-friendly Live Music near Anaheim
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 ### [Brewery X](/go/brewery-x-anaheim-ca/)
 
@@ -368,7 +344,7 @@ Segerstrom Center for the Arts Orange County is a great place to catch a play, m
 
 ## Historic Districts in Orange County
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 ### [Old Towne Orange](/go/old-towne-orange-food-tours/)
 
@@ -430,7 +406,7 @@ Richard Nixon Library is the birthplace and burial site of US President Richar N
 
 ## Fun places to shop near Anaheim
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 ### [Gardenwalk](/go/gardenwalk-anaheim/)
 
@@ -492,7 +468,7 @@ Pacific City in Huntington Beach is ocean front dining, shopping and entertainme
 
 ## Parks And Hiking Near Anaheim
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 ### [Oak Canyon Nature Reserve](/go/oak-canyon-nature-preserve-anaheim/)
 
@@ -552,9 +528,9 @@ For more help planning your next California family vacation, visit our [**Califo
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="Best Things To Do In Anaheim With Kids (Besides Disney)"><a href="/images/Best-Things-to-do-in-Anaheim-with-kids-1.jpg"><img src="/images/Best-Things-to-do-in-Anaheim-with-kids-1-200x300.jpg" alt="Best things to do in Anaheim with kids besides Disney" /></a></figure>
-</div></div>
+

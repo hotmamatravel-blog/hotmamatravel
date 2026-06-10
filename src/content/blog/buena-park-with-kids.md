@@ -17,13 +17,10 @@ My family has deep seeded roots in Buena Park. In fact, my dad is the oldest sur
 
 **Here's what's in this article**:
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e024221f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-1b85c46c" id="uagb-adv-heading-29242aba-8b3c-4c65-acbc-72756caae550">
 
 ### Unique area attractions
 
 &nbsp;
-</div>
 
 - [Knott's Berry Farm](#knotts-berry-farm)
 
@@ -37,23 +34,17 @@ My family has deep seeded roots in Buena Park. In fact, my dad is the oldest sur
 
 - [The Source](#the-source)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-43a60d68" id="uagb-adv-heading-8710af7a-2e7d-4737-a86e-792062c29c0b">
-
 ### Kid-friendly live music &amp; nightlife
 
 &nbsp;
-</div>
 
 - [La Huesteca](#la-huasteca-mexican-restaurant)
 
 - [Isla Cuban Latin Kitchen](#isla-cuban-latin-kitchen)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-7159220a" id="uagb-adv-heading-0e09090a-1260-4e22-b0de-3d27720c4888">
-
 ### Family Restaurants
 
 &nbsp;
-</div>
 
 - [Mrs. Knott's Chicken House](#mrs-knotts-chicken-dinner-house)
 
@@ -65,12 +56,9 @@ My family has deep seeded roots in Buena Park. In fact, my dad is the oldest sur
 
 - [Porto's Bakery &amp; Cafe](#portos-bakery-cafe)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-61c3f46c" id="uagb-adv-heading-92036814-fc90-405b-b0e0-dfeff9e2d3d6">
-
 ### Family Hotels
 
 &nbsp;
-</div>
 
 - [Knott's Berry Farm Hotel](#knotts-berry-farm-hotel)
 
@@ -78,18 +66,15 @@ My family has deep seeded roots in Buena Park. In fact, my dad is the oldest sur
 
 - [Fairfield Inn &amp; Suites](#fairfield-inn-suites-buena-park)
 
-</div></section>
+
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
-
-<div class="wp-block-uagb-advanced-heading uagb-block-f2d0b307" id="uagb-adv-heading-a2533bf4-e499-4467-8550-70702b312cfb">
 
 ## Kid-friendly Buena Park Attractions
 
 &nbsp;
-</div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d820df84"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure><img src="/images/Knotts-Berry-Farm-Buena-Park-1.jpg" alt="" /></figure>
 
 #### [Knott's Berry Farm](/go/knotts-berry-farm-buena-park-ca/)
@@ -102,9 +87,9 @@ Okay. Okay. I know you heard about Knott’s, but I can’t talk about Buena Par
 
 [See photos, reviews &amp; more](/go/knotts-berry-farm-buena-park-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-17f0bb5a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/knotts-soak-city-buena-park-ca-1.jpg" alt="Knott" /></figure>
 
 #### [Knott's Soak City](/go/knotts-soak-city-buena-park-ca/)
@@ -115,9 +100,9 @@ Knott's Soak City is a water park located across the street from the Knott's Ber
 
 [See photos, reviews &amp; more](/go/knotts-soak-city-buena-park-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-842a99d8"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Medieval Times](/go/medieval-times-buena-park-ca/)
 
@@ -129,9 +114,9 @@ This is a time when knights fought for honor, for the king, for that special lad
 
 [See photos, reviews &amp; more](/go/medieval-times-buena-park-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-893f66c4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Pirate Dinner Adventure](/go/pirate-dinner-adventure-buena-park-ca/)
 
@@ -141,9 +126,9 @@ Ahoy Matey! Watch the all the pirate ship action go down while you and your fami
 
 [See photos, reviews &amp; more](/go/pirate-dinner-adventure-buena-park-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ee820c05"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Ralph B. Clark Interpretive Center](/go/ralph-b-clark-interpretive-buena-park-ca/)
 
@@ -153,9 +138,9 @@ At the Ralph B. Clark Interpretive Center, you will get a glimpse into prehistor
 
 [See photos, reviews &amp; more](/go/ralph-b-clark-interpretive-buena-park-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-89e837c7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [The Source](/go/the-source-buena-park-ca/)
 
@@ -165,16 +150,13 @@ The Source is a multi-level shopping, dining and entertainment complex. This is 
 
 [See photos, reviews &amp; more](/go/the-source-buena-park-ca/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-37e63a32" id="uagb-adv-heading-46afa4df-b1d0-4b0e-a279-85f69e8963fd">
 
 ## Kid-friendly Live Music near Buena Park
 
 &nbsp;
-</div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c6a9f63c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 #### [La Huasteca Mexican Restaurant](/go/la-huasteca-buena-park-ca/)
 
@@ -184,9 +166,9 @@ Located on the 3rd of The Source, La Huasteca is a fun Mexican restaurant featur
 
 [See photos, reviews &amp; more](/go/la-huasteca-buena-park-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d9e655e7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Isla Cuban-Latin Kitchen &amp; Rum Bar](/go/isla-cuban-latin-kitchen-buena-park-ca/)
 
@@ -196,16 +178,13 @@ This relatively new restaurant on the scene is bursting with Latin flavor. Isla 
 
 [See photos, reviews &amp; more](/go/isla-cuban-latin-kitchen-buena-park-ca/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-c81e0766" id="uagb-adv-heading-29c61934-027c-4936-9008-560bedf28c0f">
 
 ## Family Restaurants in Buena Park
 
 &nbsp;
-</div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1be0a0c1"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure><img src="/images/Mrs-knotts-chicken-dinner-family-restaurant-buena-park-1.jpg" alt="" /></figure>
 
 #### [Mrs. Knott's Chicken Dinner House](/go/mrs-knotts-chicken-dinner-house-buena-park-ca/)
@@ -220,9 +199,9 @@ If you are in Buena Park with kids, specifically Knott’s Berry Farm, you have 
 
 [See photos, reviews &amp; more](/go/mrs-knotts-chicken-dinner-house-buena-park-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-bffa36c0"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/IMG_0464-1024x683.jpg" alt="buena park family restuarant Rock &amp; Brews" /></figure>
 
 #### [Rock &amp; Brews](/go/rock-brews-buena-park-ca/)
@@ -233,9 +212,9 @@ One of the newest restaurants, and one of our favorite new things to do in Buena
 
 [See photos, reviews &amp; more](/go/rock-brews-buena-park-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7cb5279c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/IMG_0435-1024x1024.jpg" alt="tana ethiopian restaurant buena park" /></figure>
 
 #### [Tana Ethiopian Restaurant](/go/tana-ethiopian-restaurant-anaheim-ca/)
@@ -246,9 +225,9 @@ I love teaching my kids about the world through food and there are plenty of opp
 
 [See photos, reviews &amp; more](/go/tana-ethiopian-restaurant-anaheim-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-7fd6917d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/IMG_4363-1024x1024.jpg" alt="kitakata ramen ban nai buena park" /></figure>
 
 #### [Kitakata Ramen Ban Nai](/go/kitakata-ramen-ban-nai-buena-park-ca/)
@@ -259,9 +238,9 @@ If you love ramen, then you will LOVE Kitakata Ramen Ban Nai. It is one of our f
 
 [See photos, reviews &amp; more](/go/kitakata-ramen-ban-nai-buena-park-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-13db0dca"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Porto's Bakery &amp; Cafe](/go/portos-bakery-cafe-buena-park-ca/)
 
@@ -271,16 +250,13 @@ Porto's is a family-owned Cuban bakery and quick-service cafe. This bakery has w
 
 [See photos, reviews &amp; more](/go/portos-bakery-cafe-buena-park-ca/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-412ea856" id="uagb-adv-heading-7da8a8e6-cf50-4b9e-926f-c4183b91ca32">
 
 ## Family Hotels in Buena Park
 
 &nbsp;
-</div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a671c99f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 #### [Knott's Berry Farm Hotel](/go/knotts-berry-farm-hotel-buena-park/)
 
@@ -290,9 +266,9 @@ I love the[&nbsp;Knott’s Berry Farm Hotel](https://reservations.knottshotel.co
 
 [See photos, reviews &amp; more](/go/knotts-berry-farm-hotel-buena-park/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e4851c52"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### **[Hampton Inn &amp; Suites Buena Park](/go/hampton-inn-suites-buena-park-ca/)**
 
@@ -302,9 +278,9 @@ What is great about this recently built Buena Park hotel, it that every this cle
 
 [See photos, reviews &amp; more](/go/hampton-inn-suites-buena-park-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-8a69cf8a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [Fairfield Inn &amp; Suites Anaheim/North Buena Park](/go/fairfield-inn-suites-anaheim-north-buena-park-ca/)
 
@@ -314,22 +290,19 @@ Fairfield Inn &amp; Suites Anaheim/North Buena Park offers large family rooms as
 
 [See photos, reviews &amp; more](/go/fairfield-inn-suites-anaheim-north-buena-park-ca/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-c8720dd8" id="uagb-adv-heading-cbcd4939-b721-418d-9615-446f46e5ec6d">
 
 ## That's a Wrap!
 
 &nbsp;
-</div>
 
 Whether you want to hang with knights, pirates or cowboys, Buena Park attractions has you covered. Great restaurants, exciting live entertainment and amusement for the whole family. So, next time you are thinking about family travel, think about visiting Buena Park with kids. It’ll be fun, I promise.
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d5cf21fc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure><img src="/images/things-to-do-with-kids-buena-park-ca-1-200x300.jpg" alt="Fun things to do in Buena Park with kids" /></figure>
-</div></section>
+

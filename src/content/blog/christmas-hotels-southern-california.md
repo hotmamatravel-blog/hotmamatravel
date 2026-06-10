@@ -153,9 +153,9 @@ To make the most of your holiday vacation explore more [**California travel**](/
 
 For more cool family hotels in more cool cities, explore my favorite[](/best-family-hotels/)**[family hotels](/best-family-hotels/) **from around the world and start packing.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="Looking for some holiday magic? Check out these exciting Christmas hotels in Southern California to take your family travels to the next level. #christmashotels #southerncalifornia #familytravel #holidaytravel"><a href="/images/Best-Christmas-Hotels-in-Southern-California.jpg"><img src="/images/Best-Christmas-Hotels-in-Southern-California-200x300.jpg" alt="Best Christmas Hotels in Southern California that Families Will Love." /></a></figure>
-</div></div>
+

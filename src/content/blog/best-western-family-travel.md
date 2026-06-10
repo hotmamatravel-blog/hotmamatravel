@@ -24,7 +24,7 @@ Here are the **5 reasons we keep choosing [Best Western](/go/best-western-book-d
 
 ## Best Western Hotels We’ve Stayed At With Kids
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <blockquote>
 
@@ -58,7 +58,7 @@ We’ve stayed at Best Western properties [**across the U.S. on family road trip
 
 ## About Best Western® Hotels &amp; Resorts
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 [Best Western Hotels &amp; Resorts](/go/best-western-book-direct/) is a global hotel family with over **4,000 properties** across nearly **100 countries and territories**. What many travelers don’t realize is that Best Western isn’t a single hotel brand; it’s a **collection of 16 distinct brands**, ranging from mid-scale to upper mid-scale and boutique-style properties.
 
@@ -74,7 +74,7 @@ For families, that translates to **reliable comfort with local personality**; a 
 
 ## 5 Reasons We Love Best Western Hotels &amp; Resorts
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 ### 1. Truly Family-Oriented (Not Just “Family-Friendly”)
 
@@ -188,7 +188,7 @@ The list could go on and on...
 
 ## Videos From Our Best Western Stays
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 **Best Western Plus Williams, AZ:**
 
@@ -236,9 +236,9 @@ Affordable pricing. Family-oriented amenities. Great locations. Free breakfast a
 
 When you’re traveling with kids, consistency matters, but so does comfort and value. Best Western delivers all three.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="Traveling with kids? Discover why Best Western is our go-to hotel brand for family travel! From free breakfasts and pools to spacious rooms and family-friendly perks, find out how Best Western makes road trips and city stays easy, fun, and affordable for families. #BestWesternFamilyTravel #FamilyTravelTips #KidFriendlyHotels #RoadTripWithKids #FamilyVacationIdeas #TravelWithKids #HotelTravelHacks #FamilyTravelInspiration #AffordableFamilyTravel #TravelTipsForFamilies"><a href="/images/best-western-family-travel-pinterest-1.jpg"><img src="/images/best-western-family-travel-pinterest-1-200x300.jpg" alt="Best Western Family Travel" /></a></figure>
-</div></div>
+

@@ -31,7 +31,7 @@ Before you plan your next trip to [**Vegas with kids**](/las-vegas-with-kids/), 
 
 ## Best Family Pools in Vegas
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure id="Mandaly-Bay-pool-best-las-vegas-pools-for-families"><a href="/images/mandalay-bay-lazy-river-things-to-do-in-vegas-pregnant.jpg"><img src="/images/mandalay-bay-lazy-river-things-to-do-in-vegas-pregnant.jpg" alt="best Family Pools in Vegas Mandalay Bay" /></a></figure>
 
@@ -167,12 +167,9 @@ Relaxation takes center stage on inviting yellow loungers, offering parents a co
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="flamingo-las-vegas-family-pool"><figure><a href="/images/flamingo-las-vegas-family-pool.jpg"><img src="/images/flamingo-las-vegas-family-pool.jpg" alt="Flamingo Las Vegas Family Pool" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
-
 ### [Flamingo](/go/flamingo-las-vegas-exp/)
 
 3555 Las Vegas Blvd S, Las Vegas, NV 89109
-</div>
 
 Another fantastic pool bringing all tropical vibes we love is Flamingo's family pool. This pool is complete with waterfalls, lagoons and waterslides! What kid doesn't love a good waterslide, am I right? However, know that the two waterslides at the Flamingo family pool are only open on the weekends, Friday through Sunday.
 
@@ -190,10 +187,10 @@ Check out all our [**Las Vegas family travel guides**](/family-friendly-vegas/) 
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community shares the most up-to-date family Vegas tips. It is a lot of fun.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-0d1db704 uagb-section__background-undefined" id="uagb-section-996a7013-a331-4985-ac63-b4ab6a946455"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="best-family-pools-las-vegas" data-essb-pin-description="Best Family Pools in Las Vegas"><a href="/images/best-family-pools-las-vegas.jpg"><img src="/images/best-family-pools-las-vegas-200x300.jpg" alt="Best Family Pools in Las Vegas" /></a></figure>
-</div></section>
+
 

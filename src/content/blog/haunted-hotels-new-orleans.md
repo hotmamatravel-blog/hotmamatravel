@@ -168,9 +168,9 @@ If your family can’t get enough of the spooky side of travel, head over to my 
 
 Until next time, keep it fun, keep it curious, and remember, it’s just a bunch of hocus pocus.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="Looking for a spooky family adventure? 👻 Check out the best haunted hotels in New Orleans for families! From ghostly guests to historic charm, these haunted stays are packed with stories, mystery, and a touch of Southern magic. Perfect for Halloween—or any time you’re craving chills with your beignets! 🍩🎺 #HauntedHotels #FamilyTravel #NewOrleans #HotMamaTravel"><a href="/images/haunted-hotels-new-orleans.jpg"><img src="/images/haunted-hotels-new-orleans-200x300.jpg" alt="haunted hotels in new orleans" /></a></figure>
-</div></div>
+

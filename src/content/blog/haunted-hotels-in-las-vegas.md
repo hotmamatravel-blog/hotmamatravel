@@ -17,12 +17,9 @@ Las Vegas is known for its bright lights, [**world-class entertainment**](/las-v
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="horseshoe-haunted-las-vegas-hotel"><figure><a href="/images/horseshoe-las-vegas-haunted-hotel.jpg"><img src="/images/horseshoe-las-vegas-haunted-hotel.jpg" alt="Haunted Horseshoe Hotels Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
-
 ### [Horseshoe](/go/horseshoe-las-vegas/)
 
 3645 Las Vegas Blvd S, Las Vegas, NV 89109
-</div>
 
 The recently renamed former Bally's has its share of ghost stories, dating back to when the property was the original MGM Grand. In 1980, a [devastating fire](https://www.8newsnow.com/news/local-news/deadly-mgm-grand-fire-changed-worldwide-safety-standards/) claimed the lives of 85 people, and ever since, guests and staff have reported ghostly encounters. From flickering lights to eerie noises, some say the spirits of those who perished still linger in the hotel.
 
@@ -38,12 +35,9 @@ Kids and teens will totally dig the 7,000-square-foot [**Las Vegas Arcade**](/be
 
 <div class="wp-block-uagb-image uagb-block-f23ee758 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="luxor-las-vegas-haunted-hotel"><figure><a href="/images/luxor-haunted-hotel-lad-vegas.jpg"><img src="/images/luxor-haunted-hotel-lad-vegas.jpg" alt="Luxor Haunted Hotel Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-80f53cb4">
-
 ### [The Luxor](/go/the-luxor-hotel-las-vegas/)
 
 3900 S Las Vegas Blvd, Las Vegas, NV 89119
-</div>
 
 The Luxor’s pyramid shape and ancient Egyptian theme set the stage for some [spine-tingling stories](https://www.mercurynews.com/2024/02/06/the-haunted-history-of-this-years-super-bowl-media-hotel/). Over the years, the hotel has seen its fair share of accidents and unusual occurrences. Guests have reported strange shadows, cold spots, and mysterious voices. Some say the hotel’s architecture, modeled after tombs and pyramids, may be to blame for its paranormal activity.
 
@@ -65,12 +59,9 @@ Luxor is also home to one of the best [**Las Vegas shows for families**](/las-ve
 
 <div class="wp-block-uagb-image uagb-block-5541df70 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="flamingo-haunted-hotel-las-vegas"><figure><a href="/images/flamigo-las-vegas-haunted-hotel.jpg"><img src="/images/flamigo-las-vegas-haunted-hotel.jpg" alt="Haunted Flamingo Hotel Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-4629e7b7">
-
 ### [The Flamingo Hotel and Casino](/go/flamingo-las-vegas-exp/)
 
 3555 Las Vegas Blvd S, Las Vegas, NV 89109
-</div>
 
 The Flamingo is one of the oldest and most iconic hotels on the Strip, but it’s also rumored to be haunted by the ghost of notorious mobster Bugsy Siegel. Siegel, who played a big role in [building the Flamingo](https://www.history.com/this-day-in-history/bugsy-siegel-opens-flamingo-hotel), met a tragic end in 1947, and some guests and employees claim they’ve seen his ghost roaming the grounds, especially near the memorial garden. There have also been sightings of Bugsy in the Presidential Suite that contain the golden bathroom fixtures from his original room.
 
@@ -80,12 +71,9 @@ The Flamingo is one of the oldest and most iconic hotels on the Strip, but it’
 
 <div class="wp-block-uagb-image uagb-block-4353b767 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="westgate-haunted-hotel-las-vegas"><figure><a href="/images/westgate-las-vegas-haunted-hotel.jpg"><img src="/images/westgate-las-vegas-haunted-hotel.jpg" alt="Haunted Westgate Las Vegas Hotel" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-d680c366">
-
 ### [The Westgate Las Vegas Resort &amp; Casino](/go/westgate-hotel-las-vegas/)
 
 3000 Paradise Rd, Las Vegas, NV 89109
-</div>
 
 Once known as the Las Vegas Hilton, the [Westgate](https://www.westgateresorts.com/hotels/nevada/las-vegas/westgate-las-vegas-resort-casino/) is steeped in history and rumored to be haunted by the King himself, Elvis Presley! Elvis performed here during his Vegas years, and many believe his spirit never left. From unexplained sightings to unusual occurrences in the hotel’s theater, the ghostly presence of Elvis is said to be alive and well. Here is a fun fact, [Elvis's brother still lives at the Westgate](https://www.cityam.com/elvis-brother-still-lives-in-the-kings-las-vegas-hotel-we-met-him/)!
 
@@ -103,12 +91,9 @@ Halloween is a great time to visit if you are into spooky fun, but don't forget 
 
 <div class="wp-block-uagb-image uagb-block-02649eca wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hotel-apache-binions-haunted-hotel-las-vegas"><figure><a href="/images/hotel-apache-las-vegas-haunted-hotel.jpg"><img src="/images/hotel-apache-las-vegas-haunted-hotel.jpg" alt="Haunted Hotel Apache in Las Vegas" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-1e3eedf4">
-
 ### [Hotel Apache](/go/hotel-apache-las-vegas/)
 
 128 Fremont St, Las Vegas, NV 89101
-</div>
 
 Stepping into [Hotel Apache](https://www.binions.com/meetings/accommodations/hotel_apache.php) is like traveling back in time, with its vintage décor and old-school charm. But this historic gem at Binion’s also comes with some spooky baggage. Built in 1932, the hotel is rumored to be one of the [most haunted spots](https://www.ktnv.com/news/haunted-las-vegas-paranormal-activity-at-historic-hotel-apache) in Las Vegas. Over the years, guests and staff have reported ghostly apparitions, flickering lights, and strange sounds in the dead of night. Some say spirits from the hotel’s early days never left, adding an eerie vibe to the place.
 

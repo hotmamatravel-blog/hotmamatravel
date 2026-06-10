@@ -19,18 +19,14 @@ Hi, I am Warren from [The Nomad Hive](https://thenomadhive.com/) and I hope you 
 ## The Story of Isla De Las Muñecas
 
 (Haunted Island Of The Dead Dolls)
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Nestled among the canals of Xochimilco, a short trip from Mexico City, lies a unique and haunting destination: Isla de las Muñecas, or the Island of the Dead Dolls. This small island presents a disturbing gallery of dolls, decaying, dismembered, and hanging from trees. The sight is as unsettling as it is captivating, drawing visitors from around the world to witness its eerie beauty and to experience one of the most haunted places in Mexico. The island's story is a fascinating blend of local folklore, personal tragedy, and a touch of the supernatural.
 
-<div class="wp-block-uagb-container uagb-block-5c0803f5 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-truth-about-Isla-De-Las-Muñecas-Haunted-Island-of-Dead-Dolls"><figure><a href="/images/the-truth-about-Isla-De-Las-Munecas-Haunted-Island-of-Dead-Dolls.jpg"><img src="/images/the-truth-about-Isla-De-Las-Munecas-Haunted-Island-of-Dead-Dolls.jpg" alt="True Story Behind the Haunted Island of Dead Dolls in Mexio" /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
-
 ### The Truth Behind the Story
-
-</div>
 
 The origin of Isla de las Muñecas starts with the former caretaker, Don Julian Santana Barrera. Don Julian found a young girl drowned in one of the canals surrounding the island. Near her, he discovered a floating doll, which he hung on a tree as a mark of respect and to calm her troubled spirit. Consumed by the thought of her spirit lingering, he continued to hang more dolls, many of which he found in the canals or were given to him.
 
@@ -40,30 +36,26 @@ Don passed away in 2001, and some say his death mirrored the girl's, found drown
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-8196aebd alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
+
 <div class="wp-block-uagb-image uagb-block-6c6db943 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Haunted-Island-of-Dead-Dolls"><figure><a href="/images/Haunted-Island-of-Dead-Dolls.jpg"><img src="/images/Haunted-Island-of-Dead-Dolls.jpg" alt="Is Isla de las Munecas Haunted?" /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-2f10b30c">
-
 ### Is Isla de las Muñecas Haunted?
-
-</div>
 
 The haunting aura of Isla de las Muñecas stirs debates about its paranormal status. Visitors feel an eerie presence, especially at night. There are often reports of whispers, a sense of  being watched and even seeing shadowy figures. Whether fact or folklore, the island's chilling atmosphere makes it a captivating destination for those fascinated by the supernatural.
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-540c31e ugb-main-block"><style>.ugb-540c31e .ugb-heading__title{text-align:center}.ugb-540c31e .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-540c31e .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## How to Get to Isla De Las Muñecas
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
-<div class="wp-block-uagb-container uagb-block-f6909506 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 <div class="wp-block-uagb-image uagb-block-0ec15a27 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="getting-to-isla-de-las-muncas"><figure><a href="/images/getting-to-isla-de-las-muncas-1.jpg"><img src="/images/getting-to-isla-de-las-muncas-1.jpg" alt="How to get to Isla de las Munecas" /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
 
 To start your adventure to the Island of the Dead Dolls, you first need to go to Xochimilco. From Mexico City, the most straightforward way to get to Xochimilco is by taking a 30-minute Uber or taxi ride.
@@ -72,30 +64,26 @@ Upon arriving at Xochimilco, hiring a trajinera, a colorful, flat-bottomed boat,
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-9e5e5c1b alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
+
 <div class="wp-block-uagb-image uagb-block-c90fb7c1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="island-of-dolls-isla-de-las-muncas"><figure><a href="/images/island-of-dolls-isla-de-las-muncas.jpg"><img src="/images/island-of-dolls-isla-de-las-muncas.jpg" alt="Real Haunted Island of Dead Dolls" /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-cd312584">
-
 ### Go to the Real Haunted Island Of The Dead Dolls
-
-</div>
 
 Once you're on the trajinera and en route, it's crucial to ensure that you're heading to the genuine Isla de las Muñecas. While there are other spots along the canals that feature dolls, they do not possess the same historical and eerie significance as the original island. To guarantee your visit to the authentic Island of the Dead Dolls, communicate clearly with your boat operator about your intended destination.
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-4daec92 ugb-main-block"><style>.ugb-4daec92 .ugb-heading__title{text-align:center}.ugb-4daec92 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-4daec92 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Xochimilco Boat Ride (Trajinera)
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
-<div class="wp-block-uagb-container uagb-block-9dcb6e87 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 <div class="wp-block-uagb-image uagb-block-6f168660 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="xochimilco-boat-ride-to-isla-de-las-munecas"><figure><a href="/images/xochimilco-boat-ride-to-isla-de-las-munecas.jpg"><img src="/images/xochimilco-boat-ride-to-isla-de-las-munecas.jpg" alt="Xochimilco Boat Ride " /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
 
 These traditional boats, brightly painted and often adorned with colorful flowers and names, provide a vibrant and authentic Mexican experience. As you glide through the ancient canal system of Xochimilco, you're stepping into a living piece of Mexican culture and history.
@@ -104,47 +92,39 @@ The canals, remnants of a vast water transport system built by the Aztecs, are n
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-b317763d alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
+
 <div class="wp-block-uagb-image uagb-block-4136ea15 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="xochimilco-boat-ride-to-island-of-dolls"><figure><a href="/images/xochimilco-boat-ride-to-island-of-dolls.jpg"><img src="/images/xochimilco-boat-ride-to-island-of-dolls.jpg" alt="Boat ride to island of dolls in mexico" /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-d11209ae">
-
 ### Is it a Party Boat?
-
-</div>
 
 While trajineras are often synonymous with celebration and are popular for parties and gatherings, the mood can vary. On weekends and holidays, they are bustling with energy, music, and festivities. However, the trajineras heading towards Isla de las Muñecas often have a more subdued atmosphere, particularly as they near the island. The shift from the lively energy of Xochimilco's main canal areas to the quieter, more reflective mood as you approach the Island of the Dead Dolls is palpable, adding to the anticipation and mystique of the journey.
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-d68ac3aa alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
+
 <div class="wp-block-uagb-image uagb-block-3b8d9327 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="haunted-island-of-dead-dolls-mexico"><figure><a href="/images/haunted-island-of-dead-dolls-mexico.jpg"><img src="/images/haunted-island-of-dead-dolls-mexico.jpg" alt="Journey to the Island of the Dead Dolls" /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-d38d6d80">
-
 ### How Long Does it Take?
-
-</div>
 
 The boat ride to Isla de las Muñecas is a relaxed and picturesque journey, taking about two hours to get there and two hours to return. In total, the trip lasts about five hours, which includes roughly an hour for exploring the various interesting spots you will stop along the way.
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-88b1184 ugb-main-block"><style>.ugb-88b1184 .ugb-heading__title{text-align:center}.ugb-88b1184 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-88b1184 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## How Much Does The Whole Trip Cost?
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 The overall expense of the trip can vary, but here’s a breakdown of what we spent during our trip to the haunted island of the dead dolls.
 
-<div class="wp-block-uagb-container uagb-block-7bf7b60c alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 <div class="wp-block-uagb-image uagb-block-fe35d1c1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="costs-to-visit-haunted-island-dolls"><figure><a href="/images/costs-to-visit-haunted-island-dolls.jpg"><img src="/images/costs-to-visit-haunted-island-dolls.jpg" alt="Costs to visit Isla de las Munecas " /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
 
 ● **Transport to Xochimilco:** The journey started with getting to Xochimilco from Mexico City. The taxi ride cost us $250mxn in the morning.
@@ -159,212 +139,160 @@ In total, we went with a group of 5 people and the cost for a single person turn
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-5df31df ugb-main-block"><style>.ugb-5df31df .ugb-heading__title{text-align:center}.ugb-5df31df .ugb-heading__bottom-line{background-color:#fd0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-5df31df .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## When is the best time to go to?
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Selecting the optimal time to visit Isla de las Muñecas greatly influences the kind of experience you'll have at this intriguing yet haunting location. The island, with its mysterious and somber atmosphere, can present different facets depending on the season and time of day you choose for your visit.
 
-<div class="wp-block-uagb-container uagb-block-35b2e272 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-d9522f9d">
 
 ### Seasonal Factors:
-
-</div>
 
 The climate in and around Xochimilco, where the island is located, is generally pleasant throughout the year, making it a year-round destination. However, consider avoiding the rainy season, which typically runs from May to September.
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-4697e5ce alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-4617398f">
+
 
 ### Daytime Visits:
-
-</div>
 
 If you're interested in a more straightforward sightseeing experience, where you can clearly see and photograph the dolls, a daytime visit is advisable. The natural daylight allows for better visibility and can make the island feel slightly less eerie, suitable for those who might prefer a less intense experience.
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-eead22e1 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-6029e1d8">
+
 
 ### Weekdays vs Weekends:
-
-</div>
 
 Weekends in Xochimilco can get quite crowded, with the canals bustling with locals and tourists alike, great for a party experience. For a quieter experience, consider visiting on a weekday when the crowds are thinner. This will give you a more personal and reflective experience as you navigate through the canals to the island.
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-588db190 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
+
 <div class="wp-block-uagb-image uagb-block-fbfa9ae9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="evening-visit-haunted-island-dolls"><figure><a href="/images/evening-visit-haunted-island-dolls.jpg"><img src="/images/evening-visit-haunted-island-dolls.jpg" alt="Evening visits to island of dead dolls" /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-2e375a1e">
-
 ### Go Late in the Evening for a Scarier Experience!
-
-</div>
 
 Tours to Isla de las Muñecas go until late, about 9 pm. For those seeking a truly spine tingling experience, planning to arrive on the island in the late evening is ideal. As the light fades and shadows grow, the silhouettes of hundreds of dolls become more pronounced against the dimming sky, creating an atmosphere that is both unnerving and captivating. The quiet of the evening, adds to the island's mysterious allure. This timing is perfect for those who want to fully immerse themselves in the haunted and otherworldly essence of the Island of the Dead Dolls.
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-7785135 ugb-main-block"><style>.ugb-7785135 .ugb-heading__title{text-align:center}.ugb-7785135 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-7785135 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## What Else Can You Experience On The Xochimilco Boat Ride?
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 The journey to Isla de las Muñecas on a Xochimilco trajinera offers a multitude of experiences beyond the destination itself. Here are some of the highlights that you can enjoy during this unique boat ride.
 
-<div class="wp-block-uagb-container uagb-block-a249c910 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-a15d229a">
 
 ### See the Salamanders (or Ajolotes):
-
-</div>
 
 Xochimilco is renowned for its native axolotls, the fascinating Mexican walking fish. As you navigate the canals, look out for these unique amphibians in special conservation areas along the route.
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-7464717a alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-9672ef00">
+
 
 ### Drinking &amp; Dancing:
-
-</div>
 
 The trajineras are known for their lively atmosphere. You can bring your own beverages and enjoy a floating party. Often, other boats with live bands pass by, offering the perfect opportunity to experience music and dance while on the water.
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-17e156b4 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-cfe6ebdf">
+
 
 ### Shopping:
-
-</div>
 
 Along the canals, you'll encounter floating markets and vendors. They offer a variety of items, from traditional crafts and souvenirs to snacks and drinks. It's a great way to indulge in some shopping while enjoying the scenic ride.
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-da6de821 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
+
 <div class="wp-block-uagb-image uagb-block-35dfce1f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="what-to-expect-isla-de-las-muncas-island-of-dolls"><figure><a href="/images/what-to-expect-isla-de-las-muncas-island-of-dolls.jpg"><img src="/images/what-to-expect-isla-de-las-muncas-island-of-dolls.jpg" alt="Fun at Isla de las munecas " /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-c6b67f8f">
-
 ### Enjoy the time with your friends:
-
-</div>
 
 One of the best parts of the trajinera ride is the opportunity to relax and socialize with friends or family. It’s a shared experience that allows for bonding, conversation, and creating memories against the backdrop of Xochimilco's picturesque canals.
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-be61617 ugb-main-block"><style>.ugb-be61617 .ugb-heading__title{text-align:center}.ugb-be61617 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-be61617 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## What to Bring?
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 When planning your trip to Isla de las Muñecas and a trajinera ride in Xochimilco, it's essential to pack thoughtfully to ensure the most enjoyable experience. Here's a recommended list of what we packed.
 
-<div class="wp-block-uagb-container uagb-block-dc41bf3f alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-887f14dd">
 
 ### Hat, Sunscreen &amp; Sunglasses:
-
-</div>
 
 The sun can be strong on the open water, so don't forget sunscreen, a hat, and sunglasses to protect yourself from UV rays.
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-b7001f4a alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-67249420">
+
 
 ### Food and Drinks:
-
-</div>
 
 Since the trajinera ride is several hours long, bringing along snacks, a light meal, and drinks can make your journey more enjoyable. Many people treat the ride like a floating picnic.
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-47235768 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-10e651e0">
+
 
 ### Water:
-
-</div>
 
 Staying hydrated is key, so pack enough water for everyone in your group, especially on warmer days.
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-0ffda55d alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-ad60157c">
+
 
 ### Cash:
-
-</div>
 
 Having cash on hand is important for purchasing items from floating vendors or in case of any incidental expenses.
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
 
-<div class="wp-block-uagb-container uagb-block-abd23218 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-f47f8299">
+
 
 ### Portable Speaker:
-
-</div>
 
 A portable speaker and a good playlist can enhance the atmosphere, especially if your trip is more of a leisurely excursion.
 
 **[See Photos, Reviews, &amp; More](/go/island-of-dolls-xcohimilco-mexico/)**
 
-</div></div>
+
 
 In conclusion, a visit to Isla de las Muñecas, nestled in the canals of Xochimilco, is truly an authentic Mexican experience unlike any other. This Haunted Island Of The Dead Dolls is not just a destination; it's a journey into a unique blend of history, folklore, and eerie beauty. From the lively trajinera ride through the ancient canals, filled with cultural sights and sounds, to the chilling yet fascinating encounter with the dolls themselves, each moment is steeped in mystery and intrigue.
 
 If you’re looking for a less touristy experience in Mexico, you might be interested in [The Best Non-Touristy Beach Towns in Mexico](https://thenomadhive.com/non-touristy-beach-towns-in-mexico/). Or, if you want to spend an extended amount of time in Mexico, take a look at the different [visa options available for travelers and digital nomads](https://thenomadhive.com/mexico-digital-nomad-visa/).
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls"><a href="/images/ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls.jpg"><img src="/images/ultimate-guide-to-isla-de-las-munecas-haunted-island-of-dead-dolls-200x300.jpg" alt="" /></a></figure>
-</div></div>
+

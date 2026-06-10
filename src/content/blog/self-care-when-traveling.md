@@ -20,7 +20,7 @@ Despite this, finding a way to prioritize self-care when traveling can help you 
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1d16fa72"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 #### Find time to rest
 
@@ -30,9 +30,9 @@ As a result, you should ensure that you set aside some time in your schedule for
 
 When you stop for a few days, no matter where you are, you will be able to find some public transport, or you can make use of the local taxis. The bonus of a local taxi is that they know the location like the back of their hand and can make sure you get where you need to go with ease. One of the perks of taking a taxi like a [Morristown Limo](https://www.daisylimo.com/morristown_nj.html) is you get to sit back and enjoy the views, and you can get to anywhere you need to go - heck, you can even take a nap on the way!
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4ba626f1"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Maintain your beauty routine
 
@@ -40,9 +40,9 @@ Your beauty and skincare routine doesn’t have to be left behind when you go tr
 
 As a result, be sure to write down a list of all of the products you need to take with you ahead of time so that you never leave anything out of your case or backpack. While some items are a given, such as sunscreen and moisturizer, others may be less obvious or more personalized. For example, if you’ve dyed your hair and are learning [how to care for burgundy hair](https://www.hair.com/burgundy-hair-color.html), you may want to add specialist shampoo to your case.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3c4904fc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Find ways to keep your stress levels to a minimum
 
@@ -52,9 +52,9 @@ Fortunately, there are many ways in which you can go about this. For example, si
 
 Finding ways to keep your kids entertained on long flights or journeys can also help keep your own stress levels to a minimum, as it means you won’t be bombarded with complaints or the phrase “Are we there yet” 100 times an hour. For example, you should write down a list of [road trip car games that will keep your kids entertained for hours](/road-trip-car-games-for-kids/).&nbsp;
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-c44b8138"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Follow a healthy diet
 
@@ -64,9 +64,9 @@ After all, sticking to a healthy diet will help you to better manage both your p
 
 In some cases, taking vitamin supplements when traveling can also be helpful, as this is an effective way to ensure that your body is getting all of the nutrients and vitamins you need to thrive. However, you may also want to pack some healthy non-perishable snacks in your case.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-99966ce4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### Participate in wellness-boosting activities
 
@@ -76,13 +76,13 @@ However, there are many other wellness pursuits you can explore during this time
 
 By setting aside some in your schedule to dedicate toward wellness, you're also setting an excellent example for your kids when it comes to managing their own well-being in the future.
 
-</div></section>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Self-care and travel often come hand-in-hand, as both practices give you the chance to prioritize your happiness and leave the stress of everyday life behind. As such, it's crucial that you do not leave self-care to the wayside whenever you’re on vacation, especially as failing to do so could limit the enjoyment of your trip quite considerably.
 
@@ -90,9 +90,9 @@ Furthermore, there are plenty of ways in which you can continue to practice self
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ca7d59c4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="importance-self-care-when-traveling"><a href="/images/importance-self-care-when-traveling.jpg"><img src="/images/importance-self-care-when-traveling-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

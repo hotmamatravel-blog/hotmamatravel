@@ -25,7 +25,7 @@ However, fear not! There are still several hotels in Las Vegas that do not charg
 
 ## Las Vegas Hotels Without Resort Fees
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure id="travelodge-wyndham-las-vegas-hotels-without-resort-fees"><a href="/images/travelodge-wyndham-las-vegas-hotels-without-resort-fees.jpg"><img src="/images/travelodge-wyndham-las-vegas-hotels-without-resort-fees.jpg" alt="Travelodge by Wyndham Las Vegas Hotels without resort fees" /></a></figure>
 
@@ -139,12 +139,9 @@ Marriott's Grand Chateau is the perfect choice for anyone looking for a luxuriou
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="hotel-apache-binions-las-vegas"><figure><a href="/images/hotel-apache-binions-las-vegas.jpg"><img src="/images/hotel-apache-binions-las-vegas.jpg" alt="Hotel Apache at Binion" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
-
 ### [Hotel Apache at Binion's](/go/hotel-apache-las-vegas/)
 
 128 Fremont St, Las Vegas, NV 89101
-</div>
 
 If you're hunting for a historic Vegas stay without those pesky resort fees, [Hotel Apache](https://www.binions.com/meetings/accommodations/hotel_apache.php) is your ticket to a timeless Vegas experience. Nestled inside Binion's Gambling Hall, this vintage gem takes you back to the golden days of Las Vegas with its retro charm and old-school ambiance.
 
@@ -160,7 +157,7 @@ For a blend of nostalgic charm and budget-friendly stays, Hotel Apache offers an
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 If you're planning a trip to [**Las Vegas with kids**](/las-vegas-with-kids/) or without kids, and want to save some money, consider staying at one of the hotels that do not charge resort fees. From the Four Queens Hotel and Casino to the Silver Sevens Hotel &amp; Casino, there are several great options to choose from, each offering clean and comfortable rooms, great amenities, and convenient locations. By staying at one of these hotels, you can enjoy all the excitement and entertainment that Las Vegas has to offer, without breaking the bank.
 
@@ -170,9 +167,9 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-857ac946"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="las-vegas-hotels-without-resort-fees-near-or-on-the-strip"><a href="/images/las-vegas-hotels-without-resort-fees-near-or-on-the-strip.jpg"><img src="/images/las-vegas-hotels-without-resort-fees-near-or-on-the-strip-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

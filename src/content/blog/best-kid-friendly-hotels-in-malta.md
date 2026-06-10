@@ -18,7 +18,7 @@ So, if you’re headed to[Malta with the kids](/malta-with-kids/), you’ll be g
 
 Are you traveling from a different country? Try the [Sims Direct](https://simsdirect.com.au/collections/europe) European travel sim card, which will keep you to stay connected during your adventures.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-dc20511a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="family-hotels-malta-The-Westin-Dragonara-Resort"><a href="/images/The-Westin-Dragonara-Resort-Malta.jpg"><img src="/images/The-Westin-Dragonara-Resort-Malta.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of The Westin Dragonara Resort</figcaption></figure>
 
 #### [The Westin Dragonara Resort](/go/westin-dragonara-resort-malta/)
@@ -33,9 +33,9 @@ There are also lots of diving courses available for both kids and adults if you�
 
 [See photos, reviews &amp; more](/go/westin-dragonara-resort-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a5dd10a4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="db-Seabank-Resort-Spa-malta-family-hotel"><a href="/images/db-Seabank-Resort-Spa-malta.jpg"><img src="/images/db-Seabank-Resort-Spa-malta.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Db Seabank Resort and Spa</figcaption></figure>
 
 #### [Db Seabank Resort and Spa](/go/db-seabank-resort-spa-malta/)
@@ -48,9 +48,9 @@ Aside from having a kid’s club to hang out in, there is also a playhouse, bowl
 
 [See photos, reviews &amp; more](/go/db-seabank-resort-spa-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-a248ef85"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="kid-friendly-LABRANDA-Riviera-Hotel-Spa-Malta"><a href="/images/LABRANDA-Riviera-Hotel-Spa-Malta.jpg"><img src="/images/LABRANDA-Riviera-Hotel-Spa-Malta.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of LABRANDA Riviera Hotel &amp; Spa</figcaption></figure>
 
 #### [LABRANDA Riviera Hotel &amp; Spa](/go/labranda-riviera-hotel-spa-malta/)
@@ -63,9 +63,9 @@ Arguably the real highlight for kids, though, is the fact that it is just moment
 
 [See photos, reviews &amp; more](/go/labranda-riviera-hotel-spa-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2a8a843d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="the-suites-piazza-kirkop-family-friendly-malta-hotels"><a href="/images/the-suites-piazza-kirop-malta.jpg"><img src="/images/the-suites-piazza-kirop-malta.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of The Suites-Piazza Kirkop</figcaption></figure>
 
 #### [The Suites - Piazza Kirkop](/go/the-suites-piazza-kirkop-malta/)
@@ -78,9 +78,9 @@ That said, the real reason to go to this hotel if you have kids is its proximity
 
 [See photos, reviews &amp; more](/go/the-suites-piazza-kirkop-malta/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-90fc0ccc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="Family-Friendly-Hotel-Corinthia-St-Georges-Bay-Malta"><a href="/images/Family-Friendly-Hotel-Corinthia-St-Georges-Bay-Malta.jpg"><img src="/images/Family-Friendly-Hotel-Corinthia-St-Georges-Bay-Malta.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Corinthia St. George's Bay</figcaption></figure>
 
 #### [Corinthia St. George’s Bay](/go/corinthia-st-george-malta/)
@@ -97,19 +97,19 @@ The real beauty of Malta is that you can have a completely relaxed vacation whil
 
 [See photos, reviews &amp; more](/go/corinthia-st-george-malta/)
 
-</div></section>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-27596e5 ugb-main-block"><style>.ugb-27596e5 .ugb-heading__title{text-align:center}.ugb-27596e5 .ugb-heading__bottom-line{background-color:#cf2e2e !important;height:4px !important;width:110px !important;margin-left:auto !important;margin-right:auto !important}.ugb-27596e5 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 There are so many great options when looking for the perfect family hotel in Malta for your next travels. Hope this article gives kicks off your Malta travel planning on a positive note. If you have any questions about visiting Malta with your family don't hesitant to ask, I have am a travel agent and Malta travel specialist. Have fun planning.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-330f3395"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="best-kid-friendly-hotels-malta-travel"><a href="/images/best-kid-friendly-hotels-malta-travel.jpg"><img src="/images/best-kid-friendly-hotels-malta-travel-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

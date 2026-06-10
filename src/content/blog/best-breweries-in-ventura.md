@@ -21,16 +21,13 @@ In this exploration of the best breweries in Ventura, we delve into more than ju
 
 ## Best Breweries in Ventura
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="topa-topa-brewing-company-best-breweries-in-ventura"><figure><a href="/images/topa-topa-brewing-company-best-breweries-in-ventura.jpg"><img src="/images/topa-topa-brewing-company-best-breweries-in-ventura.jpg" alt="Topa Topa Brewing Company in Ventura" /></a></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
 ### [Topa Topa Brewing Co](/go/topa-topa-brewing-company-ventura/)
 
 104 E Thompson Blvd, Ventura, CA 93001
-</div>
 
 Family-Friendly  -  Dog-Friendly  -  Food Trucks  -  Live Music  -  Events
 
@@ -48,12 +45,9 @@ Topa Topa has become synonymous with innovation in brewing. The brewery takes pr
 
 <figure id="poseidon-brewing-co-ventura-breweries"><a href="/images/poseidon-brewing-co-ventura-breweries.jpg"><img src="/images/poseidon-brewing-co-ventura-breweries.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Poseidon Brewing Co,</figcaption></figure>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-0068214c">
-
 ### [Poseidon Brewing Company](/go/poseidon-brewing-company-ventura/)
 
 5777 Olivas Park Dr Unit S, Ventura, CA 93003
-</div>
 
 Family-Friendly  -  Dog-Friendly  -  Food Trucks  -  Homemade Sparkling Waters  -  Events
 
@@ -73,12 +67,9 @@ Poseidon Brewing Company isn't just a brewery; it's a hub of relaxed vibes and c
 
 <div class="wp-block-uagb-image uagb-block-cad6920a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="fluid-state-beer-garden-best-breweries-in-ventura"><figure><a href="/images/fluid-state-brewing-company-best-breweries-in-ventura.jpg"><img src="/images/fluid-state-brewing-company-best-breweries-in-ventura.jpg" alt="Fluid State Beer Garden in Ventura" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-36dad3d4">
-
 ### [Fluid State Beer Garden](/go/fluid-state-beer-garden-ventura/)
 
 692 E Main St Cross streets E. Main and S. Fir, Ventura, CA 93001
-</div>
 
 Family-Friendly  -  Onsite Kitchen  -  Events
 
@@ -98,12 +89,9 @@ Fluid State Beer Garden transcends the role of a traditional brewery; it becomes
 
 <div class="wp-block-uagb-image uagb-block-5314c18b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="madewest-brewing-company-best-breweries-in-ventura"><figure><a href="/images/madewest-brewing-company-best-breweries-in-ventura.jpg"><img src="/images/madewest-brewing-company-best-breweries-in-ventura.jpg" alt="Madewest Brewing Company in Ventura" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-bf9353ab">
-
 ### [MadeWest Brewing Company](/go/madewest-brewing-company-ventura/)
 
 668 E Harbor Blvd, Ventura, CA 93001/ 1744 Donlon St, Ventura, CA 93003
-</div>
 
 Family-Friendly  - Dog-Friendly at Donlon Location  -  Ocean Views at Pier Location -  Nearby Restaurants at Pier  -  Food Trucks at Donlon  -  Live Music
 
@@ -121,12 +109,9 @@ The dedication to quality ingredients and brewing techniques is not just a state
 
 <div class="wp-block-uagb-image uagb-block-e59eeb4d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="rincon-brewery-best-breweries-in-ventura"><figure><a href="/images/rincon-brewery-best-breweries-in-ventura.jpg"><img src="/images/rincon-brewery-best-breweries-in-ventura.jpg" alt="Rincon Brewery in Ventura" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-4326f634">
-
 ### [Rincon Brewery](/go/rincon-brewery-ventura/)
 
 4100 Telegraph Rd, Ventura, CA 93003
-</div>
 
 Family-Friendly  -  Dog-Friendly  -  Ocean Views  -  Live Music  -  Onsite Restaurant
 
@@ -156,9 +141,9 @@ So, whether you're a craft beer aficionado seeking the next innovative brew or a
 
 **Check More [breweries in more cities](/americas-best-breweries/)!**
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="best-breweries-in-ventura-families-live-music-pets"><a href="/images/best-breweries-in-ventura-families-live-music-pets.jpg"><img src="/images/best-breweries-in-ventura-families-live-music-pets-200x300.jpg" alt="Best Breweries in Ventura to enjoy beer and live music with your family, fur babies, friends - HotMamaTravel" /></a></figure>
-</div></div>
+

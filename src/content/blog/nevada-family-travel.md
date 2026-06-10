@@ -32,14 +32,10 @@ Welcome to the ultimate guide for Las Vegas family travel! Here, you'll find a c
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-ae5a7c8c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
-<div class="wp-block-uagb-advanced-heading uagb-block-b9ce269f">
 
 ### Las Vegas Kids Activities
 
-<div class="uagb-separator"></div></div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-62ac9a74"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 
 - [Everything You Need to Know! Ultimate Guide to Las Vegas with Kids.](/las-vegas-with-kids/)
 
@@ -67,15 +63,11 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 - [Christmas in Las Vegas for Families](/las-vegas-christmas-activities/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-0642eaa3">
 
 ### Family Hotels in Las Vegas
 
-<div class="uagb-separator"></div></div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-42c2becc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 
 - [5 Best Family Hotels in Las Vegas for kids](/best-family-hotels-in-las-vegas/)
 
@@ -89,15 +81,11 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 - [Haunted Las Vegas Hotels](/haunted-hotels-in-las-vegas/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-98e5ae5a">
 
 ### Kid-Friendly Restaurants Las Vegas
 
-<div class="uagb-separator"></div></div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1938b0fe"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 
 - [5 Kid-friendly Restaurants in Las Vegas with Live Music](/kid-friendly-live-music-las-vegas/)
 
@@ -107,15 +95,11 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 - [Everything You Need to Know! Ultimate Guide to Las Vegas with Kids.](/las-vegas-with-kids/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-e556eb91">
 
 ### More Tips &amp; Guides for Las Vegas Travel
 
-<div class="uagb-separator"></div></div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-1d05cef1"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 
 - [Best Time of Year to Visit Vegas](/best-time-of-year-to-go-to-las-vegas/)
 
@@ -133,15 +117,11 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 - [5 Insider Tips for planning a family trip to Las Vegas (plus a bonus tip)](/las-vegas-with-kids/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-f5008e01">
 
 ### Beyond Las Vegas: Day Trips &amp; Road Trips
 
-<div class="uagb-separator"></div></div>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2ce3df9b"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
 
 - [3 Unforgettable Weekend Road Trips from Las Vegas](/3-day-road-trips-from-las-vegas/)
 
@@ -149,7 +129,7 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 - [Ghost Towns Around Las Vegas](/ghost-towns-around-las-vegas/)
 
-</div></section>
 
-</div></section>
-</div></div></div></div>
+
+
+

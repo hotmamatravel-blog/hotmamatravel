@@ -10,23 +10,19 @@ wpSlug: "kids-eat-free-in-las-vegas"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 If you’re planning a trip to [Las Vegas with your kiddos](/las-vegas-with-kids/), you’re in for a treat. Literally! One of the best parts of family travel is discovering where to enjoy a delicious meal without breaking the bank. And what’s better than a free meal for your little ones? While you're exploring the city, don’t forget to check out the [best family restaurants in Las Vegas](/best-family-restaurants-in-las-vegas/), [restaurants with live music](/kid-friendly-live-music-las-vegas/), and even some [celebrity restaurants](/celebrity-chef-restaurants-las-vegas/). Here’s your ultimate guide to places where kids eat free in Las Vegas.
 
 <div class="wp-block-ugb-heading ugb-heading ugb-202325d ugb-main-block"><style>.ugb-202325d .ugb-heading__title{text-align:center}.ugb-202325d .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-202325d .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Kids Eat Free In Las Vegas
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
 ### Black Bear Diner
 
 6180 W. Tropicana Ave. Las Vegas, NV 89103
-</div>
 
 kids eat free on teddy bear Tuesday
 
@@ -34,12 +30,9 @@ kids eat free on teddy bear Tuesday
 
 <div class="wp-block-uagb-image uagb-block-5d74b26b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-9ed1ce89">
-
 ### Rollin Smoke BBQ
 
 Multiple Locations
-</div>
 
 Kids eat free Sundays
 
@@ -47,12 +40,9 @@ Kids eat free Sundays
 
 <div class="wp-block-uagb-image uagb-block-cf49c80f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-34db7284">
-
 ### Taps Sports Bar &amp; Grill
 
 address
-</div>
 
 gjgf
 
@@ -60,12 +50,9 @@ gjgf
 
 <div class="wp-block-uagb-image uagb-block-e4f5a7aa wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-7dc7a1de">
-
 ### Denny's
 
 Multiple locations along the Strip
-</div>
 
 Denny’s is a classic family favorite, and in Las Vegas, it’s no different. Kids can eat free at participating Denny’s locations with the purchase of an adult entrée on Tuesdays from 4 p.m. to 10 p.m. Enjoy a hearty breakfast any time of the day or a comforting dinner with the family.
 
@@ -73,32 +60,23 @@ Denny’s is a classic family favorite, and in Las Vegas, it’s no different. K
 
 <div class="wp-block-uagb-image uagb-block-d421960b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-265f8f5b">
-
 ### IHOP
 
 Multiple Locations
-</div>
 
 IHOP, another beloved breakfast spot, offers a deal during the spring months where kids eat free with the purchase of an adult entrée every day after 4 p.m. during select months. It’s the perfect place to fuel up before a day of exploring the Strip or hitting up one of Las Vegas’ family-friendly attractions. Be sure to check with the location you are planning on visiting to see if the promotion is running.
 
 **See Photos, Reviews, &amp; More**
 
-<div class="wp-block-uagb-container uagb-block-5c0803f5 alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
 <div class="wp-block-uagb-image uagb-block-91bd6421 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-bd7c0541">
 
 ### title
 
 address
-</div>
 
 body
 
 **See Photos, Reviews, &amp; More**
-
-</div></div>
 
 #### 3. **The Buffet at Excalibur**
 

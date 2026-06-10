@@ -17,7 +17,7 @@ We'll explore all the cool things to do with kids in Destin, FL, with your kids.
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-3ff98ffb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="destin-harbor-boardwalk-marina-destin-activities-for-families-"><a href="/images/destin-harbor-boardwalk-marina-destin-activities-for-families-.jpg"><img src="/images/destin-harbor-boardwalk-marina-destin-activities-for-families--1024x576.jpg" alt="" /></a></figure>
 
 #### [Destin Harbor Boardwalk &amp; Marina](/go/destin-harbor-boardwalk-destin-fl/)
@@ -34,9 +34,9 @@ During the evening you can find live music, concerts and even a nightly firework
 
 [See photos, reviews &amp; more](/go/destin-harbor-boardwalk-destin-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-34022879"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="henderson-state-park-destin-activities-for-families-"><a href="/images/henderson-state-park-destin-activities-for-families-.jpg"><img src="/images/henderson-state-park-destin-activities-for-families--1024x576.jpg" alt="" /></a></figure>
 
 #### [Henderson State Park](/go/henderson-state-park-destin-fl/)
@@ -55,9 +55,9 @@ If you would like to stay in Henderson State Park to enjoy the beach easier with
 
 [See photos, reviews &amp; more](/go/henderson-state-park-destin-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b95bcebb"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="jolee-island-nature-park-destin-activities-for-families-"><a href="/images/jolee-island-nature-park-destin-activities-for-families-.jpg"><img src="/images/jolee-island-nature-park-destin-activities-for-families--1024x576.jpg" alt="" /></a></figure>
 
 #### [Jolee Island Nature Park](/go/jolee-island-nature-park-destin-fl/)
@@ -74,9 +74,9 @@ For some extra excitement, try your hand at fishing in the park's ponds. The par
 
 [See photos, reviews &amp; more](/go/jolee-island-nature-park-destin-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d914295d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="village-baytowne-wharf-destin-activities-for-families-"><a href="/images/village-baytowne-wharf-destin-activities-for-families-.jpg"><img src="/images/village-baytowne-wharf-destin-activities-for-families--1024x576.jpg" alt="" /></a></figure>
 
 #### [Village of Baytowne Wharf](/go/village-baytowne-wharf-destin-fl/)
@@ -93,9 +93,9 @@ For a more relaxed experience, consider taking a sunset cruise or dolphin-watchi
 
 [See photos, reviews &amp; more](/go/village-baytowne-wharf-destin-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d4ef7fd9"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="sandcastle-lessons-destin-activities-for-families-"><a href="/images/sandcastle-lessons-destin-activities-for-families-.jpg"><img src="/images/sandcastle-lessons-destin-activities-for-families--1024x576.jpg" alt="" /></a></figure>
 
 #### [SandCastle Lessons](/things-to-do-with-kids-in-destin-fl/)
@@ -110,9 +110,9 @@ This activity is fun for the whole family and for all ages. One adult must be pr
 
 [See photos, reviews &amp; more](/things-to-do-with-kids-in-destin-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f3c3da3c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="crab-island-pontoon-destin-activities-for-families-"><a href="/images/crab-island-pontoon-destin-activities-for-families-.jpg"><img src="/images/crab-island-pontoon-destin-activities-for-families--1024x576.jpg" alt="" /></a></figure>
 
 #### [Private Crab Island Pontoon Charter](/go/private-crab-island-pontoon-destin-fl/)
@@ -125,9 +125,9 @@ This 4-hour excursion takes you and your family out into the Gulf of Mexico to t
 
 [See photos, reviews &amp; more](/go/private-crab-island-pontoon-destin-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-fba7303e"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="dolphin-watching-destin-activities-for-families-"><a href="/images/dolphin-watching-destin-activities-for-families-.jpg"><img src="/images/dolphin-watching-destin-activities-for-families--1024x576.jpg" alt="" /></a></figure>
 
 #### [Dolphin-Watching Speedboat Cruise](/go/dolphin-watching-speedboat-cruise-destin-fl/)
@@ -142,9 +142,9 @@ Your guide will take your family out into the crystal-clear waters of the Gulf o
 
 [See photos, reviews &amp; more](/go/dolphin-watching-speedboat-cruise-destin-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-fe2c8c8f"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="destin-commons-destin-activities-for-families-"><a href="/images/destin-commons-destin-activities-for-families-.jpg"><img src="/images/destin-commons-destin-activities-for-families--1024x576.jpg" alt="" /></a></figure>
 
 #### [Destin Commons](/go/destin-commons-destin-fl/)
@@ -161,9 +161,9 @@ And of course, no visit to Destin Commons would be complete without sampling som
 
 [See photos, reviews &amp; more](/go/destin-commons-destin-fl/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-f5dc5014"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="destin-history-fishing-museum-destin-activities-for-families-"><a href="/images/destin-history-fishing-museum-destin-activities-for-families-.jpg"><img src="/images/destin-history-fishing-museum-destin-activities-for-families--1024x576.jpg" alt="" /></a></figure>
 
 #### [Destin History &amp; Fishing Museum](/go/destin-history-fishing-museum-destin-fl/)
@@ -178,13 +178,13 @@ But the museum isn't just for kids. Adults will also find plenty to love here, i
 
 [See photos, reviews &amp; more](/go/destin-history-fishing-museum-destin-fl/)
 
-</div></section>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
  A Destin family vacation is an absolute must-do for any family looking for sun, sand, and fun. With its beautiful beaches, charming coastal villages, and endless array of activities, there's truly something for everyone in this Gulf Coast paradise.
 
@@ -194,9 +194,9 @@ So why wait? Book your Destin family vacation today and start making memories th
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d07801ab"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="things-to-do-with-kids-destin-fl"><a href="/images/things-to-do-with-kids-destin-fl.jpg"><img src="/images/things-to-do-with-kids-destin-fl-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

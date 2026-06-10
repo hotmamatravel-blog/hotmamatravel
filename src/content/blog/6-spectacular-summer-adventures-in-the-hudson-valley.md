@@ -30,9 +30,9 @@ So, grab your sunhat, pack your adventure gear, and prepare to embark on a journ
 
 ## Let the Hudson Valley summer adventure begin!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b4e07f38"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 #### A Nature Lover's Paradise: The Nature Place Day Camp
 
@@ -40,9 +40,9 @@ So, grab your sunhat, pack your adventure gear, and prepare to embark on a journ
 
 Kickstart your summer adventure at The [Nature Place Day Camp](https://thenatureplace.com/). Nestled in the heart of 200 beautiful acres in Rockland County, this 6-week summer adventure runs from July 3 to August 11, 2023. Whether you join for five weeks or stay the full six, it's the perfect place to explore, play, and learn in the great outdoors. It's a true highlight among Hudson Valley activities for families, and a chance to immerse yourself in Mother Nature's classroom.
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-15797691"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [The Hudson Highlands State Park: An Outdoor Enthusiast's Dream](/go/hudson-highlands-state-park-ny/)
 
@@ -50,9 +50,9 @@ The next stop is the [Hudson Highlands State Park](https://parks.ny.gov/parks/hu
 
 [See photos, reviews &amp; more](/go/hudson-highlands-state-park-ny/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b943ffde"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="kaaterskill-falls-hudson-vally-new-york"><a href="/images/kaaterskill-falls-hudson-vally-new-york.jpg"><img src="/images/kaaterskill-falls-hudson-vally-new-york.jpg" alt="" /></a></figure>
 
 #### [The Majestic Kaaterskill Falls: A Hiker's Delight](/go/kaaterskill-falls-ny/)
@@ -61,9 +61,9 @@ How about a hike to the tallest waterfall in New York? [Kaaterskill Falls](https
 
 [See photos, reviews &amp; more](/go/kaaterskill-falls-ny/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-16a81806"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="state-capitol-albany-hudson-vally-new-york"><a href="/images/state-capitol-albany-hudson-vally-new-york.jpg"><img src="/images/state-capitol-albany-hudson-vally-new-york.jpg" alt="" /></a></figure>
 
 #### [The State Capital of Albany: A Blend of History and Architecture](/go/new-york-state-capitol-albany-ny/)
@@ -72,9 +72,9 @@ Swap your hiking boots for a pair of walking shoes and head to Albany, the[State
 
 [See photos, reviews &amp; more](/go/new-york-state-capitol-albany-ny/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4df8c19d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 
 #### [The Hudson Valley Adventure Guide: Your Passport to Adventure](/go/hudson-valley-new-york/)
 
@@ -82,9 +82,9 @@ Here’s something for everyone: the[Hudson Valley Adventure Guide](https://huds
 
 [See photos, reviews &amp; more](/go/hudson-valley-new-york/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-85caa6ac"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="mohonk-moutain-house-hudson-vally-new-york"><a href="/images/mohonk-moutain-house-hudson-vally-new-york.jpg"><img src="/images/mohonk-moutain-house-hudson-vally-new-york.jpg" alt="" /></a></figure>
 
 #### [The Mohonk Mountain House: A Royal Retreat](/go/mohonk-mountain-house-new-york/)
@@ -95,13 +95,13 @@ Last but not least on our countdown is the [Mohonk Mountain House](https://www.m
 
 [See photos, reviews &amp; more](/go/mohonk-mountain-house-new-york/)
 
-</div></section>
+
 
 <div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 So, there you have six spectacular adventures to fill your Hudson Valley summer with fun, frolic, and a dash of adventure. Whether you're an outdoor enthusiast, a history buff, or simply a traveler with a keen sense of curiosity, the Hudson Valley has something for everyone.
 

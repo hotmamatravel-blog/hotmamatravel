@@ -18,7 +18,7 @@ Ready to get out there and have some fun? Check out our **six favorite glamping 
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor and Airbnb). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-71e4dcde uagb-section__background-undefined" id="uagb-section-0b23bced-f17e-4ec6-a576-a614710e86ec"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="san-diego-metro-koa-glamping-san-diego"><img src="/images/San-Diego-Koa-Glamping-Cabins.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of San Diego Metro KOA</figcaption></figure>
 
 #### **[San Diego Metro KOA](/go/san-diego-metro-koa-san-diego-ca/)**
@@ -33,9 +33,9 @@ San Diego KOA has a ton of activities, a pool and hot tub, playground, rock clim
 
 [See photos, reviews &amp; more](/go/san-diego-metro-koa-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-d9df3d83 uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="san-diego-zoo-safari-park-glamping-san-diego"><img src="/images/family-glamping-roar-snore-san-diego-safari-park-ca.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy San Diego Zoo Safari Park</figcaption></figure>
 
 #### **[San Diego Zoo Safari Park](/go/san-diego-zoo-safari-park-san-diego-ca/)**
@@ -50,9 +50,9 @@ There are three styles of glamping tents to choose from at the San Diego Safari 
 
 [See photos, reviews &amp; more](/go/san-diego-zoo-safari-park-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-cd631562 uagb-section__background-undefined" id="uagb-section-64074001-4997-43d3-b10a-4df4bd10427a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="the-ranch-bandy-canyon-glamping-san-diego"><img src="/images/family-glamping-the-ranch-bandy-canyon-san-diego-ca.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of The Ranch at Bandy Canyon</figcaption></figure>
 
 #### **[The Ranch at Bandy Canyon](/go/the-ranch-brandy-canyon-san-diego-ca/)**
@@ -67,9 +67,9 @@ Today, you can stay in one of the many cabins on The Ranch. Cabins range from sm
 
 [See photos, reviews &amp; more](/go/the-ranch-brandy-canyon-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-44974cd7"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="santee-lakes-recreation-preserve-glamping-san-diego"><img src="/images/santee-lakes-recreation-preserve-glamping-san-diego-ca.jpeg" alt="" /><figcaption class="wp-element-caption">Courtesy of Santee Lakes Recreation Preserve</figcaption></figure>
 
 #### **[Santee Lakes Recreation Preserve](/go/santee-lakes-recreation-preserve-san-diego-ca/)**
@@ -84,9 +84,9 @@ On the property you and your family can enjoy taking the pedal boat out on the l
 
 [See photos, reviews &amp; more](/go/santee-lakes-recreation-preserve-san-diego-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-214ec034"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="african-safari-sunset-eco-glamping-san-diego"><img src="/images/african-safari-sunset-eco-glamping-san-diego-ca.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of African Safari Sunset Eco Glamping</figcaption></figure>
 
 #### **[African Safari Sunset Eco Glamping](https://www.airbnb.com/rooms/plus/28074848?source_impression_id=p3_1686263389_j29oiqJz5jr%2BuGSb)**
@@ -101,9 +101,9 @@ While glamping at African Safari you have the option to just enjoy the peacefuln
 
 [See photos, reviews &amp; more](https://www.airbnb.com/rooms/plus/28074848?source_impression_id=p3_1686263389_j29oiqJz5jr%2BuGSb)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-38727eaa"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="palm-canyon-hotel-rv-resort-glamping-san-diego"><img src="/images/palm-canyon-hotel-rv-resort-glamping-san-diego-ca.jpeg" alt="" /><figcaption class="wp-element-caption">Courtesy of Palm Canyon Hotel &amp; RV Resort</figcaption></figure>
 
 #### **[Palm Canyon Hotel &amp; RV Resort](/go/palm-canyon-hotel-rv-resort-san-diego-ca/)**
@@ -114,13 +114,9 @@ When you think of San Diego, you think beaches, but this glamp site is in the de
 
 [See photos, reviews &amp; more](/go/palm-canyon-hotel-rv-resort-san-diego-ca/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-dc779b47" id="uagb-adv-heading-cbcd4939-b721-418d-9615-446f46e5ec6d">
 
 ## That's a Wrap!
-
-</div>
 
 Talk about options, am I right? What I love about San Diego glamping is that there are so many different styles of sites from tents, airstreams to cabins. Plus, you will feel miles away from civilization, but only minutes from amazing San Diego attractions if you want to venture into the city on an extended stay.&nbsp;
 
@@ -160,9 +156,9 @@ Also, feel free to check out our relevant articles:
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-none uagb-block-0ec07c94 uagb-section__background-undefined" id="uagb-section-d9c30efa-9f08-47bd-b953-c66d187a3eaa"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure data-essb-pin-description="6 Best Glamping Sites in San Diego @HotMamaTravel"><img src="/images/best-glamping-san-diego-ca-200x300.jpg" alt="" /></figure>
-</div></section>
+

@@ -40,7 +40,7 @@ View this post as a Google Web Story: [**Best Hotels in Las Vegas for Families**
 
 ## Reviews of Kid-Friendly Hotels on Las Vegas Strip
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure id="NYNY-kid-friendly-vegas-hotel-review"><a href="/images/NYNY-kid-friendly-vegas-hotel-review.jpg"><img src="/images/NYNY-kid-friendly-vegas-hotel-review.jpg" alt="New York New York Vegas Hotel with Kids" /></a></figure>
 
@@ -68,7 +68,7 @@ View this post as a Google Web Story: [**Best Hotels in Las Vegas for Families**
 
 #### Full NYNY Hotel Review
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 I will just say it. We love, love, LOVE staying at the [New York New York Hotel](https://newyorknewyork.mgmresorts.com/en.html) in Las Vegas with kids. By comparison to other gargantuan hotels and family resorts on the Vegas Strip, the NYNY will feel small, quaint, and manageable. The smaller size is by no means a bad thing, as it allows for a lot of great family activities in Vegas to be packed in efficiently.
 
@@ -82,7 +82,7 @@ My all time favorite reason to stay at NYNY, is our tradition of having a nightc
 
 #### What Families will love about NYNY
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 **Great value.&nbsp;**The NYNY hotel has consistently lower rates than the other kid-friendly Vegas hotels on our list, except for the nearby Luxor hotel, which also has comparable rates. With a few more amenities geared toward children and the fact that NYNY has the Nine Fine Irishmen Pub, this should easily be the go-to budget hotel for families in Las Vegas.
 
@@ -94,7 +94,7 @@ My all time favorite reason to stay at NYNY, is our tradition of having a nightc
 
 #### Suites and Amenities for Families at NYNY
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 Rooms at New York New York will not be as impressive as at Mandalay or MGM, but they are very nice and well-maintained - and in our experience, very cost-effective. I mean, in any other city in the US, a room this nice will cost several hundred dollars, but on the Vegas Strip, with the intense competition, we can often find rates at NYNY under 50 bucks per night! A family of 4 will find ample room in the 350 sq ft Park Avenue Queen room.&nbsp;**[Check rates and availability at Vegas.com](/go/nyny-las-vegas-expedia/)**
 
@@ -110,7 +110,7 @@ The Pool at NYNY will get the job done, but it is not one of the top Vegas pools
 
 #### Family Entertainment at NYNY
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 <h5>New York New York Vegas Attractions</h5>
 
@@ -128,7 +128,7 @@ For tech-savvy kids and families, NYNY also just introduced a Virtual Reality ve
 
 #### Family-Friendly Restaurants at NYNY
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 There are lots of affordable, family-friendly Vegas restaurants at the NYNY Hotel. While I appreciate that Vegas is a place for celebrity chef restaurants, we are not the type of family to eat at these expensive, fancy restaurants. This actually makes the dining options at NYNY perfect for families like ours.
 
@@ -158,7 +158,7 @@ Customers can also purchase Hello Kitty-themed merchandise like plush toys, keyc
 
 #### That's a Wrap
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 No, NYNY Hotel does not have the best pool or the best kid-friendly Vegas shows. What NYNY does have is a down-to-earth and fun party-like atmosphere that we have found to be super family-friendly. They have family-friendly (and budget-friendly) restaurants, a roller coaster and arcade, a park inspired by Central Park with unique attractions, and did I mention they have a fun Irish pub with free live music every night! Well, to me it was worth mentioning again.
 
@@ -186,7 +186,7 @@ No, NYNY Hotel does not have the best pool or the best kid-friendly Vegas shows.
 
 #### Full MGM Review:
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 If you are looking for a kid-friendly hotel in Vegas, look no further than the MGM Grand, which opened in 1993 as the largest hotel complex in the world and remains the largest single hotel in the US with 5,124 rooms. The [MGM](https://mgmgrand.mgmresorts.com/en.html) theme is all about Hollywood, and it started in the early 90’s as an extravagant ode to the movie “The Wizard of Oz” (hence the emerald color of the hotel exterior).
 
@@ -200,7 +200,7 @@ MGM is also accessible via **[monorail](/go/las-vegas-monorail/)**, which will s
 
 #### What Families will love about MGM:
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 **[Great pools!&nbsp;](/best-family-pools-in-vegas/)**The MGM has one of the best family pools in Vegas, with a Grand Pool Complex that includes 5 different swimming pools, pristine waterfalls, rock-cave grottos, and a huge lazy river that extends 1,000 ft. In our opinion, it is right up there as one of the best pools for kids in Vegas alongside the Mirage and Mandalay Bay.
 
@@ -210,7 +210,7 @@ MGM is also accessible via **[monorail](/go/las-vegas-monorail/)**, which will s
 
 #### Suites and Amenities for Families at MGM:
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 MGM has a variety of rooms to choose from, ranging from 350 to 6000 sq ft, and ranging from one bed up to four. Prices will vary substantially from season to season and across room types, but it is always cheapest to book a stay early or mid-week.&nbsp;**[Learn more and check rates at Vegas.com](/go/mgm-grand-las-vegas-expedia/)**
 
@@ -230,7 +230,7 @@ If you get hungry from spending all day in the sun, you can have lunch at Cabana
 
 #### Family Entertainment at MGM Grand
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 <h5>Las Vegas Shows for Kids at MGM Grand</h5>
 
@@ -248,7 +248,7 @@ If you get hungry from spending all day in the sun, you can have lunch at Cabana
 
 #### Family-Friendly Restaurants at MGM Grand
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 There are literally tons of restaurants to choose from at MGM, and here is a list of some of my favorites that the kids will probably like also.
 
@@ -270,7 +270,7 @@ There are literally tons of restaurants to choose from at MGM, and here is a lis
 
 #### That's a Wrap
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 MGM offers a grand experience, no pun intended, with a truly eclectic mix of restaurants and shows and a family-friendly, if not awe-inspiring, atmosphere. It lacks the intimacy of Luxor and NYNY, and falls short of the charm of hotels like the Venetian, Mirage and Mandalay Bay. However, I know for sure that you will have an amazing, well-rounded Vegas experience with your family at the MGM Grand.
 
@@ -298,7 +298,7 @@ MGM offers a grand experience, no pun intended, with a truly eclectic mix of res
 
 #### Full Mandalay Bay Review
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 The Mandalay Bay is an enormous luxury resort on the south end of the Vegas strip, and it has plenty to offer parents and children as one of the best family hotels in Vegas.&nbsp;[Mandalay Bay](https://mandalaybay.mgmresorts.com/en.html) has a total of 3,309 hotel rooms, 24 different restaurants to choose from, and a huge retail shopping mall called Mandalay Shoppes.
 
@@ -310,7 +310,7 @@ The Mandalay also has sister properties,, including the Four Seasons and THEhote
 
 #### What families will LOVE about Mandalay Bay:
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 **It's *fancy*, but at a reasonable rate.&nbsp;**The Mandalay Bay is the most luxurious hotel on our list of the top 5 family hotels in Las Vegas, but it is also a part of the family of MGM Resorts and it is possible to find some great deals online or by using your M Life card.
 
@@ -320,7 +320,7 @@ The Mandalay also has sister properties,, including the Four Seasons and THEhote
 
 #### Suites and Amenities for Families at Mandalay Bay:
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 Mandalay Bay has very elegant and chic room decor that most people will find quite warm and inviting. For the best value, a family of four can fit well in the standard 550 sq ft Resort Queen with 2 queen beds, desk area, seating for 3 and of course a large LED TV.
 
@@ -344,7 +344,7 @@ Of course, you will also be able to rent inter-tubes, day beds, cabanas, and eve
 
 #### Family Entertainment at Mandalay Bay
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 <h5>Las Vegas Shows for Kids at Mandalay Bay</h5>
 
@@ -358,7 +358,7 @@ Of course, you will also be able to rent inter-tubes, day beds, cabanas, and eve
 
 #### Family-Friendly Restaurants at Mandalay Bay
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 The Mandalay Bay is a huge property with 24 different restaurants and lots of fun places to grab a drink with kids. You can find something for every taste or craving in your family.
 
@@ -376,7 +376,7 @@ The Mandalay Bay is a huge property with 24 different restaurants and lots of fu
 
 #### That's a Wrap
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 Mandalay Bay is the most luxurious among the best family hotels in Vegas, with beautiful, chic rooms, a modern tropical atmosphere, and an amazing pool that is actually more of a beach with a wave pool and lazy river. Kids will love the Shark Reef Aquarium, and your family will definitely have fun listening to live music at House of Blues and Ri Ra Irish Pub. It is also just a [**quick free tram ride away**](/walking-las-vegas-strip/) from other family-friendly Vegas hotels like Luxor and New York New York.
 
@@ -404,7 +404,7 @@ Mandalay Bay is the most luxurious among the best family hotels in Vegas, with b
 
 #### Full Luxor Hotel Review
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 It's hard to miss the Luxor as you approach the Vegas Strip at night, with the intense Luxor Beam shooting virtually into space. The Luxor is a true Vegas classic with an exotic Egyptian theme that borrows its shape from Egyptian pyramids and which greets its visitors with an enormous replica of the epic Sphinx monument.
 
@@ -416,7 +416,7 @@ At a bargain rate, the Luxor checks all the boxes as a fun family resort on the 
 
 #### What Families will love about Luxor
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 **The best show for Kids in Vegas.&nbsp;**The Blue Man Group Show is an electric mix of high-intensity music, lights, and visuals that will get the heart pumping and the mind enthralled. Over 35 million people across the world have seen this epic Vegas show, and it is one that every family should experience. It is clearly child-friendly because it allows kids 3 and up.
 
@@ -426,7 +426,7 @@ At a bargain rate, the Luxor checks all the boxes as a fun family resort on the 
 
 #### Suites and Amenities for Families at Luxor
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 Luxor has plenty of cost-friendly room choices for families with kids. What is really interesting is that all the windows are slanted, due to the shape of the pyramid, so staying in a room at the Luxor is a unique experience with interesting views unlike any other on the strip.
 
@@ -446,7 +446,7 @@ The atmosphere and design are pretty cool, with ancient-looking columns spilling
 
 #### Family Entertainment at Luxor
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 <h5>Las Vegas Shows for Kids at Luxor</h5>
 
@@ -462,7 +462,7 @@ The atmosphere and design are pretty cool, with ancient-looking columns spilling
 
 #### Family-Friendly Restaurants at Luxor
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 &nbsp;Several [**family-friendly Vegas restaurants**](/best-family-restaurants-in-las-vegas/) at the Luxor hotel will likely keep your kids happy, and that will quench your adult thirst.
 
@@ -476,7 +476,7 @@ The atmosphere and design are pretty cool, with ancient-looking columns spilling
 
 #### That's a Wrap
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 It's hard to miss the Luxor's rising pyramid and intense laser beam, but it is also easy to overlook with other "fancier", newer resorts on the Vegas strip. But it should definitely not be overlooked. At a great value, it has the kid-friendly Blue Man Group show, an enormous pool, unique and educational museum attractions, and a decent selection of family-friendly restaurants and bars.
 
@@ -508,7 +508,7 @@ The location is at the southern end of the Strip near other family-friendly Vega
 
 #### Full Excalibur Review
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 Step into the enchanting realm of [Excalibur Las Vegas](https://excalibur.mgmresorts.com/en.html), where the grandeur of medieval legend meets the excitement of modern family entertainment. Join us as we embark on a thrilling adventure through this iconic castle-themed resort on the legendary Vegas Strip.
 
@@ -518,7 +518,7 @@ As you approach Excalibur, the majestic castle façade stands tall, beckoning vi
 
 #### What Families will love about Excalibur
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 Excalibur in Las Vegas is a fantastic choice for families, thanks to its prime location on the south end of the Strip. You're right in the heart of all the action! What makes Excalibur even more convenient is the direct, family-friendly walkways that connect you to New York-New York and Luxor, so you can easily explore both resorts without needing to cross busy streets. This means quick access to fun attractions.
 
@@ -536,7 +536,7 @@ Beat the heat and make a splash at Excalibur's pool complex, complete with exhil
 
 #### Suites and Amenities for Families at Excalibur
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 At Excalibur you can rest assured that your family, even your fur-babies, will all fit comfortably in the rooms and suites. They have the standard rooms that sleep up to four, but they also offer suites that can sleep up to seven. Additionally, there are dog-friendly suites for those traveling with their pets. If you need more space, you can always book connecting rooms.
 
@@ -544,7 +544,7 @@ At Excalibur you can rest assured that your family, even your fur-babies, will a
 
 #### Family Entertainment at Excalibur
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 <h5>Las Vegas Shows for Kids at Excalibur</h5>
 
@@ -558,7 +558,7 @@ Delve into the depths of the Fun Dungeon, where arcade games, carnival attractio
 
 #### Family-Friendly Restaurants at Excalibur
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 **Bucca di Beppo:** Step into the cozy and inviting atmosphere of Bucca di Beppo, where families can enjoy hearty Italian-American cuisine served in generous portions meant for sharing. From classic pasta dishes to mouthwatering pizzas, Bucca di Beppo offers a warm and welcoming dining experience perfect for families looking to indulge in comfort food favorites.
 
@@ -572,7 +572,7 @@ Delve into the depths of the Fun Dungeon, where arcade games, carnival attractio
 
 #### That's a Wrap
 
-<div class="stk-block-heading__bottom-line"></div></div>
+<div class="stk-block-heading__bottom-line">
 
 Excalibur Las Vegas stands out as a fantastic choice for families seeking an unforgettable vacation experience on the iconic Las Vegas Strip. With its enchanting medieval theme, diverse array of family-friendly dining options including Bucca di Beppo, Dick's Last Resort, and The Buffet, along with immersive entertainment such as the Tournament of Kings dinner and show, Excalibur offers endless opportunities for excitement and adventure.
 
@@ -588,10 +588,10 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-5f32efee"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="best-kid-friendly-hotels-in-las-vegas" data-essb-pin-description="The BEST family hotels in Las Vegas (yes, they exist 🎰👨‍👩‍👧‍👦). From lazy rivers and suites to kid-friendly locations and budget picks, this guide breaks down where families should actually stay in Vegas. Save this before you book. BestFamilyHotelsLasVegas #LasVegasWithKids #VegasFamilyHotels #FamilyTravelTips #KidFriendlyHotels #LasVegasFamilyVacation #HotelPlanning #HotMamaTravel #TravelWithKids"><a href="/images/best-kid-friendly-hotels-in-las-vegas.jpg"><img src="/images/best-kid-friendly-hotels-in-las-vegas-200x300.jpg" alt="best family hotels in Las Vegas" /></a></figure>
-</div></section>
+
 

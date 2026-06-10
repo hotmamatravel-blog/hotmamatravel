@@ -27,12 +27,9 @@ Whether you're a believer in the paranormal or simply intrigued by the stories, 
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="queen-anne-hotel-haunted-hotels-california"><figure><a href="/images/queen-anne-hotel-haunted-hotels-california.jpg"><img src="/images/queen-anne-hotel-haunted-hotels-california.jpg" alt="Haunted hotels in San Francisco California, The Queen Anne Hotel" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
-
 ## **[Queen Anne Hotel](/go/the-queen-anne-hotel-ca/)**
 
 1590 Sutter St, San Francisco, CA 94109
-</div>
 
 ### **Brief History:**
 
@@ -62,12 +59,9 @@ Mornings start with a complimentary continental breakfast served in a beautiful 
 
 <div class="wp-block-uagb-image uagb-block-891de3cf wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="fairmont-san-francisco-haunted-hotels-san-francisco"><figure><a href="/images/fairmont-san-francisco-haunted-hotels-san-francisco.jpg"><img src="/images/fairmont-san-francisco-haunted-hotels-san-francisco.jpg" alt="Fairmont San Francison a haunted hotel in San Francisco" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-0b86c5c2">
-
 ## **[The Fairmont San Francisco](/go/fairmont-san-francisco/)**
 
 950 Mason St, San Francisco, CA 94108
-</div>
 
 ### **Brief History:**
 
@@ -95,12 +89,9 @@ The Fairmont San Francisco is luxury with a family twist, and that’s why it ge
 
 <div class="wp-block-uagb-image uagb-block-11505db6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="beacon-grand-haunted-hotels-san-francisco"><figure><a href="/images/beacon-grand-haunted-hotels-san-francisco.jpg"><img src="/images/beacon-grand-haunted-hotels-san-francisco.jpg" alt="Haunted Beacon Grand formerly Sir Francis Drake Hotel in San Francisco" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-775be6af">
-
 ## [Beacon Grand (formerly The Sir Francis Drake Hotel)](/go/beacon-grand-hotel-san-francisco/)
 
 450 Powell St, San Francisco, CA 94102
-</div>
 
 ### **Brief History:**
 
@@ -126,12 +117,9 @@ The Beacon Grand is where style meets family comfort in the heart of Union Squar
 
 <div class="wp-block-uagb-image uagb-block-4cf1fdbd wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="westin-st-francis-haunted-hotels-san-francisco"><figure><a href="/images/westin-st-francis-haunted-hotels-san-francisco.jpg"><img src="/images/westin-st-francis-haunted-hotels-san-francisco.jpg" alt="Haunted Hotels in San Francisco Westin St. Francis Union Square" /></a></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-5e3bf805">
-
 ## [The Westin St. Francis San Francisco on Union Square](/go/westin-st-francis-san-francisco/)
 
 335 Powell St, San Francisco, CA 94102
-</div>
 
 ### **Brief History:**
 
@@ -175,9 +163,9 @@ For haunted family adventures, check out all our **[favorite haunts](/best-haunt
 
 And to expand your vacation, check out more [**California family travel ideas**](/california-family-travel/) from San Diego to Sac-Town, the Bay Area, and back down. Yes, that was a play on Tupac, California Love.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="haunted-hotels-san-francisco" data-essb-pin-description="Explore the spookier side of San Francisco! Discover haunted hotels that are perfect for families, complete with ghostly tales, historic charm, and kid-friendly perks. Plus, tips for visiting Alcatraz make this a must-read guide for curious adventurers."><a href="/images/most-haunted-hotels-san-francisco-to-stay-in.jpg"><img src="/images/most-haunted-hotels-san-francisco-to-stay-in-200x300.jpg" alt="most haunted hotels San Francisco" /></a></figure>
-</div></div>
+

@@ -12,7 +12,6 @@ wpSlug: "christmas-getaways-for-families"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Tis the season for twinkling lights, cozy cocoa by the fire, and the magic of Christmas in new and enchanting destinations! 🎄✨ Dive into the festive spirit with my latest posts, where I unwrap the wonders of Christmas getaways for families. Imagine wandering through charming holiday markets, building snowmen in picturesque settings, and creating traditions that will warm your hearts for years to come. From snowy escapes to sun-kissed celebrations, my travel tales are a sleigh ride of inspiration for families seeking yuletide adventures. So, gather your loved ones, deck the halls, and explore the joyous magic of Christmas in destinations near and far.
 
 - [Las Vegas Christmas Events For Families](/las-vegas-christmas-activities/)

@@ -19,16 +19,13 @@ Anaheim, California, is not just the land of Mickey Mouse and theme parks; it's 
 
 ## Best Breweries in Anaheim
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image aligncenter uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-center" id="brewery-x-best-breweries-in-anaheim"><figure><a href="/images/brewery-x-best-breweries-in-anaheim.jpg"><img src="/images/brewery-x-best-breweries-in-anaheim.jpg" alt="brewery x is one of the best breweries in Anaheim" /></a><figcaption class="uagb-image-caption">Courtesy of Brewery X Anaheim</figcaption></figure></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40">
 
 ### [Brewery X](/go/brewery-x-anaheim-ca/)
 
 3191 E La Palma Ave, Anaheim, CA 92806
-</div>
 
 Located in Anaheim on the La Palma Beer Trail, Brewery X is an Independent Craft Brewery, that offers an exciting selection of craft beers, seltzers, ciders and more. Their menu is like a treasure chest full of liquid gold. They always have new releases that make it exciting to come in frequently and try the new brews.
 
@@ -46,12 +43,9 @@ In a nutshell, Brewery X is one of the best breweries in Anaheim because it's a 
 
 <div class="wp-block-uagb-image aligncenter uagb-block-a5892c91 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-center" id="noble-ale-works-best-breweries-in-anaheim"><figure><a href="/images/noble-ale-works-best-breweries-in-anaheim.jpg"><img src="/images/noble-ale-works-best-breweries-in-anaheim.jpg" alt="Breweries in Anaheim Noble Ale Works" /></a><figcaption class="uagb-image-caption">Courtesy of Noble Ale Works Anaheim</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-cb4289c4">
-
 ### [Noble Ale Works](/go/noble-ale-works-anaheim-ca/)
 
 1621 Sinclair St B, Anaheim, CA 92806
-</div>
 
 Noble Ale Works is a gem in Anaheim's craft beer scene and stands as one of the best breweries for a multitude of reasons. For starters, they have earned a stellar reputation for their craft beer. They consistently produce top-notch brews, particularly their award-winning IPAs.
 
@@ -67,12 +61,9 @@ To complement their fantastic beer selection, the brewery frequently partners wi
 
 <div class="wp-block-uagb-image aligncenter uagb-block-34eafc22 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-center" id="bottle-logic-brewing-best-breweries-in-anaheim"><figure><a href="/images/bottle-logic-brewing-best-breweries-in-anaheim.jpg"><img src="/images/bottle-logic-brewing-best-breweries-in-anaheim.jpg" alt="Bottle Logic Brewing Anaheim Brewery" /></a><figcaption class="uagb-image-caption">Courtesy of Bottle Logic Brewing</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-770131bd">
-
 ### [Bottle Logic Brewing](/go/bottle-logic-brewing-anaheim-ca/)
 
 1072 N Armando St, Anaheim, CA 92806
-</div>
 
 Bottle Logic Brewing is hands down one of the best breweries in Anaheim, and here's why it's a top pick for both beer aficionados and families alike.
 
@@ -90,12 +81,9 @@ In a nutshell, Bottle Logic Brewing is where you can have a fantastic time with 
 
 <div class="wp-block-uagb-image aligncenter uagb-block-39fcd005 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-center" id="phantom-ales-best-breweries-in-anaheim"><figure><a href="/images/phantom-ales-best-breweries-in-anaheim.jpg"><img src="/images/phantom-ales-best-breweries-in-anaheim.jpg" alt="Breweries in Anaheim Phantom Ales" /></a><figcaption class="uagb-image-caption">Courtesy of Phantom Ales</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-d6e9f773">
-
 ### [Phantom Ales](/go/phantom-ale-anaheim-ca/)
 
 1211 N Las Brisas St, Anaheim, CA 92806
-</div>
 
 Phantom Ales in Anaheim is not your average brewery; it's a hidden gem with a unique charm that's hard to resist. Wondering why it's considered one of the best breweries in Anaheim and if it's family-friendly? Let's uncover the magic.
 
@@ -113,11 +101,7 @@ In a nutshell, Phantom Ales is where you can savor fantastic beer with your fami
 
 <div class="wp-block-uagb-image uagb-block-1d75d86c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="unsung-brewing-company-best-breweries-in-anaheim"><figure><a href="/images/unsung-brewing-company-best-breweries-in-anaheim.jpg"><img src="/images/unsung-brewing-company-best-breweries-in-anaheim.jpg" alt="Best Breweries in Anaheim Unsung Brewing Company" /></a><figcaption class="uagb-image-caption">Courtesy of Unsung Brewing Company</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-92de10e1" id="unsung-brewing-company-best-breweries-in-anaheim">
-
 ### [Unsung Brewing Company](/go/unsung-brewing-company-anaheim-ca/)
-
-</div>
 
 Unsung Brewing Company in Anaheim is more than just a brewery; it's a superhero in the craft beer world. Here's why it's considered one of the best breweries in Anaheim, and yes, it's definitely family-friendly!
 
@@ -135,12 +119,9 @@ Unsung Brewing Company is a place where families can bond, friends can reunite, 
 
 <div class="wp-block-uagb-image uagb-block-a792966d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="golden-road-brewing-best-breweries-in-anaheim"><figure><a href="/images/golden-road-brewing-best-breweries-in-anaheim.jpg"><img src="/images/golden-road-brewing-best-breweries-in-anaheim.jpg" alt="Golden Road Brewing Breweries in Anaheim" /></a><figcaption class="uagb-image-caption">Courtesy of Golden Road Brewing</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-a1762839">
-
 ### [Golden Road Brewing Anaheim](/go/golden-road-anaheim-ca/)
 
 2210 E Orangewood Ave, Anaheim, CA 92806
-</div>
 
 Gold Road Brewing in Anaheim is a golden nugget among breweries. It's often hailed as one of the best in town, and the good news is, it's definitely family-friendly. Located right across from Angel Stadium, it makes for the perfect pre and post game hangout. Let's dive into what makes Gold Road Brewing shine.
 
@@ -158,12 +139,9 @@ In a nutshell, Gold Road Brewing is where you can enjoy terrific beer with your 
 
 <div class="wp-block-uagb-image uagb-block-161158c1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="ballast-point-best-breweries-in-anaheim"><figure><a href="/images/ballast-point-best-breweries-in-anaheim.jpg"><img src="/images/ballast-point-best-breweries-in-anaheim.jpg" alt="Ballast Point Brewery in Anaheim Downtown Disney" /></a><figcaption class="uagb-image-caption">Ballast Point Brewing</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-55a6d8e6">
-
 ### [Ballast Point Brewing Anaheim](/go/ballast-point-anaheim-ca/)
 
 1540 Disneyland Dr #201, Anaheim, CA 92802
-</div>
 
 Ballast Point, located at Downtown Disney, stands out as one of the premier breweries in Anaheim. What sets it apart is a combination of exceptional factors. To begin with, their beer selection is nothing short of outstanding, catering to beer enthusiasts of all kinds – from hop aficionados to lovers of rich stouts. It's not just a brewery; it's a full-service restaurant and taproom right in the heart of Downtown Disney.
 
@@ -179,12 +157,9 @@ In a nutshell, [Ballast Point](https://ballastpoint.com/location/ballast-point-a
 
 <div class="wp-block-uagb-image uagb-block-61df1a7f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="brewheim-beer-makers-best-breweries-in-anaheim"><figure><a href="/images/brewheim-beer-makers-best-breweries-in-anaheim.jpg"><img src="/images/brewheim-beer-makers-best-breweries-in-anaheim.jpg" alt="Breweries in Anaheim Brewheim Beer Makers" /></a><figcaption class="uagb-image-caption">Courtesy of Brewheim Beer Makers</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-48ed1bd8">
-
 ### [Brewheim](/go/brewheim-beer-makers-anaheim-ca/)
 
 1931 E Wright Cir, Anaheim, CA 92806
-</div>
 
 Brewheim in Anaheim is more than just a brewery; it's a vibrant, welcoming haven for beer enthusiasts, making it a fantastic spot to visit with friends and family.
 
@@ -200,12 +175,9 @@ Of course, you can't talk about a great brewery without mentioning the grub. Bre
 
 <div class="wp-block-uagb-image uagb-block-95f25fb3 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="karl-strauss-best-breweries-in-anaheim"><figure><a href="/images/karl-strauss-best-breweries-in-anaheim.jpg"><img src="/images/karl-strauss-best-breweries-in-anaheim.jpg" alt="best breweries in Anaheim Karl Strauss Brewing Company" /></a><figcaption class="uagb-image-caption">Courtesy of Karl Strauss Brewing Company</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-c2245007">
-
 ### [Karl Strauss Brewing Company](/go/karl-strauss-brewing-company-anaheim-ca/)
 
 2390 E Orangewood Ave #100, Anaheim, CA 92806
-</div>
 
 The Karl Strauss Brewing Company in Anaheim is a full-service restaurant and brewpub that offers a unique experience. Conveniently located near Angels Stadium, it's a prime destination for sports fans and families alike.
 
@@ -217,12 +189,9 @@ Family-friendliness is at the heart of Karl Strauss. The spacious and welcoming 
 
 <div class="wp-block-uagb-image uagb-block-1c21badd wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="monkish-brewing-best-breweries-in-anaheim"><figure><a href="/images/monkish-brewing-best-breweries-in-anaheim.jpg"><img src="/images/monkish-brewing-best-breweries-in-anaheim.jpg" alt="Monkish Brewing Breweries in Anaheim" /></a><figcaption class="uagb-image-caption">Courtesy of Monkish Brewing</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-9ae3441f">
-
 ### [Monkish Brewing](/go/monkish-brewery-company-anaheim-ca/)
 
 336 S Anaheim Blvd, Anaheim, CA 92805
-</div>
 
 Monkish Brewing in Anaheim is a hidden gem that's bound to steal the hearts of beer lovers and adventure-seekers. With a larger facility in Torrance, the Anaheim tasting room makes for a great option for locals who want a taste in the OC. Why is it such a fantastic brewery, you ask? Well, let's dive into the hoppy, malty, and all-around delightful world of Monkish.
 
@@ -234,12 +203,9 @@ Because Monkish is not just about beer; it's about experiences. You can strike u
 
 <div class="wp-block-uagb-image uagb-block-8cf368df wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="radiant-beer-co-best-breweries-in-anaheim"><figure><a href="/images/radiant-beer-co-best-breweries-in-anaheim.jpg"><img src="/images/radiant-beer-co-best-breweries-in-anaheim.jpg" alt="Best Breweries in Anaheim Radiant Beer Co" /></a><figcaption class="uagb-image-caption">Courtesy of Radiant Beer Co.</figcaption></figure></div>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-1f5c4199">
-
 ### Radiant Beer Co.
 
 1566 W Lincoln Ave, Anaheim, CA 92801
-</div>
 
 Radiant Beer Co. lives by a straightforward yet powerful mantra that encapsulates the essence of their brand: "Sending Out Light." This philosophy is the core of their identity, embodying a commitment to spreading positivity, inclusivity, and, of course, crafting exceptional beers of various styles.
 
@@ -265,9 +231,9 @@ For more information on visiting Anaheim, please explore our blog:
 
 For [more cool breweries in more cool cities](/americas-best-breweries/), check out our other posts.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure id="best-breweries-in-anaheim-for-families" data-essb-pin-description="Best Breweries in Anaheim to Enjoy with Friends and Family - HotMamaTravel"><a href="/images/best-breweries-in-anaheim-for-families.jpg"><img src="/images/best-breweries-in-anaheim-for-families-200x300.jpg" alt="" /></a></figure>
-</div></div>
+

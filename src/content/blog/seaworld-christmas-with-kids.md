@@ -19,7 +19,7 @@ It is Christmas time in San Diego, and what better way to celebrate the holidays
 
 ## SeaWorld Christmas Celebration Videos
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VAcNqqKaPQ?si=NMCNlJ7kLhzjR4Cs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -33,7 +33,7 @@ It is Christmas time in San Diego, and what better way to celebrate the holidays
 
 ## Meet Santa &amp; Mrs. Claus
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Pass larger-than-life Christmas trees as you enter a whimsical little village with various cottages, offering tons of holiday fun. The haunting scents of holiday treats waft through the air as the cheerful sounds of live music make you bounce to the beat.
 
@@ -47,7 +47,7 @@ In the middle is Santa’s Cottage, where kids line up to see the main man. Funn
 
 ## Meet Santa's Reindeers
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 One of the sweetest surprises at [SeaWorld’s Christmas Celebration](https://seaworld.com/san-diego/events/christmas/) is getting to meet Santa’s very own reindeer up close. The kids absolutely *light up* when they spot those fluffy noses, cozy winter coats, and antlers straight out of a storybook. It feels like you’ve stepped right into the North Pole, minus the frostbite. The reindeer handlers share fun facts, the photo ops are adorable, and the whole experience adds that perfect touch of Christmas wonder to your day. Trust me, your little ones will walk away fully convinced they just met Santa’s A-team.
 
@@ -55,7 +55,7 @@ One of the sweetest surprises at [SeaWorld’s Christmas Celebration](https://se
 
 ## Meet Rudolph!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Over in the Holly Jolly Marketplace, the star of the season is waiting, Rudolph the Red-Nosed Reindeer himself! The kids practically sprint when they spot that glowing red nose and jolly grin. The meet-and-greet is pure Christmas magic, complete with big hugs, adorable poses, and a photo op that’s basically guaranteed to land on your holiday cards. It’s cheerful, it’s cute, and it’s one of those SeaWorld moments that sticks.
 
@@ -63,7 +63,7 @@ Over in the Holly Jolly Marketplace, the star of the season is waiting, Rudolph 
 
 ## Holiday Shows At SeaWorld
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 ### Clyde &amp; Seamore’s Christmas Special
 
@@ -105,7 +105,7 @@ On select nights during the holiday season, through New Year's Eve, SeaWorld lig
 
 ## Snowflake Seeker’s: A Christmas Quest!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Kick off the fun by buying your scavenger hunt map at The Christmas Shoppe, then hit the park and track down all the bright, cheerful snowflakes hiding around SeaWorld. Once you’ve cracked the case and filled your map, swing back by The Christmas Shoppe to score your special prize. It’s cute, it’s festive, and kids get *way* into it.
 
@@ -113,7 +113,7 @@ Kick off the fun by buying your scavenger hunt map at The Christmas Shoppe, then
 
 ## Holiday Decor &amp; Lights!
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 The magic of Christmas takes over SeaWorld during the holidays. Every inch of the park is lit up, especially on Coca-Cola Lane. Families can enjoy gorgeous photo ops and festive fun at the Coca-Cola Market, and of course, no Christmas celebration would be complete without nightly snowfall!
 
@@ -121,7 +121,7 @@ The magic of Christmas takes over SeaWorld during the holidays. Every inch of th
 
 ## SeaWorld Christmas Shops &amp; Merch
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 Love a good festive souvenir? You will be overwhelmed by all the darling merch and holiday finds at the Christmas Shoppe and Holly Jolly Marketplace. It is one of my favorite spots to hit up with my mom and sister first thing once we enter the park. The home decor is fabulous, the ornaments are amazing, and the holiday apparel and toys are so much fun. Happy shopping.
 
@@ -129,7 +129,7 @@ Love a good festive souvenir? You will be overwhelmed by all the darling merch a
 
 ## Festive Treats, Eats &amp; Drinks
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 I am a sucker for seasonal treats and drinks, and SeaWorld during the holidays does not disappoint. Throughout the park, you will find a variety of festive craft beers, cocktails, mocktails, dishes, and treats. Don't count calories during your visit! Just enjoy all the yummy gifts of the season. For those 21 and over, stop by the Twinkle Tree Cafe for more holiday-themed cocktails
 
@@ -143,9 +143,9 @@ Need a place to crash after all that festive chaos? I’ve got you covered. Peek
 
 Now go keep that adventure energy rolling. Your next family memory is just a click away.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="Make the holidays magical at SeaWorld Christmas Celebration! From festive shows and Santa’s reindeer to holiday treats and interactive fun, this guide has everything families need to plan the ultimate Christmas adventure. #FamilyTravel #SeaWorldChristmas #CaliforniaWithKids #HotMamaTravel"><a href="/images/SeaWorld-Christmas-Celebration.jpg"><img src="/images/SeaWorld-Christmas-Celebration-200x300.jpg" alt="Guide to SeaWorld Christmas Celebration" /></a></figure>
-</div></div>
+

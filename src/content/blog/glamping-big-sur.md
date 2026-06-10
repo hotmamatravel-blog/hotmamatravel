@@ -17,7 +17,7 @@ Big Sur is a lovely mountain escape located along California’s Central Coast n
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. AirBnB, TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-920eacb3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure id="treebones-resort-big-sur-glamping"><img src="/images/treebones-resort-glamping-yurts-big-sur.jpg" alt="yurt glamping at Treebones Resort in Big Sur California" /><figcaption class="wp-element-caption">Courtesy of Treebones Resort</figcaption></figure>
 
 #### [Treebones Resort](/go/treebones-resort-big-sur-ca/)
@@ -34,9 +34,9 @@ On the property you have access to the main lodge, where the restrooms are locat
 
 [See photos, reviews &amp; more](/go/treebones-resort-big-sur-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-311d832c"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="glen-oaks-big-sur-glamping"><img src="/images/glen-oaks-glamping-cabins-big-sur.jpg" alt="glamping cabins at Glen Oaks Resort in Big Sur California" /><figcaption class="wp-element-caption">Courtesy of Glen Oaks Big Sur</figcaption></figure>
 
 #### [Glen Oaks Big Sur](/go/glen-oaks-big-sur-ca/)
@@ -53,9 +53,9 @@ At Glen Oaks Big Sur you are nestled within Redwoods and just steps from amazing
 
 [See photos, reviews &amp; more](/go/glen-oaks-big-sur-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-2cecc3de"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="glamping-big-sur-fernwood-resort"><img src="/images/adventure-tent-fernwood-resort-glamping-big-sur.jpg" alt="glamping adventure tents at Fernwood resort in Big Sur California" /><figcaption class="wp-element-caption">Courtesy of Fernwood Resort</figcaption></figure>
 
 #### [Fernwood Resort](/go/fernwood-resort-big-sur-ca/)
@@ -72,9 +72,9 @@ Fernwood Resort is located in the heart of Big Sur near the river and with acces
 
 [See photos, reviews &amp; more](/go/fernwood-resort-big-sur-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-eba74891"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="ventana-big-sur-glamping-big-sur"><img src="/images/ventana-big-sur-glamping.jpg" alt="glamping tents at Ventana Resort in Big Sur California" /><figcaption class="wp-element-caption">Courtesy of Ventana Big Sur</figcaption></figure>
 
 #### [Ventana Big Sur](/go/ventana-glamping-big-sur-ca/)
@@ -89,9 +89,9 @@ When glamping at Ventana, you will not have access to the resort grounds, pools 
 
 [See photos, reviews &amp; more](/go/ventana-glamping-big-sur-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-b8723246"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure id="saddle-mountain-ranch-glamping-big-sur"><img src="/images/saddle-mountain-ranch-family-glamping-big-sur.jpg" alt="glamping tents at Saddle Mountain Ranch in Carmel-Big Sur California" /><figcaption class="wp-element-caption">Courtesy of Saddle Mountain Ranch</figcaption></figure>
 
 #### [Saddle Mountain Ranch](/go/saddle-mountain-ranch-big-sur-ca/)
@@ -108,13 +108,9 @@ For bigger groups and families, there are ten cabins to choose from, sleeping an
 
 [See photos, reviews &amp; more](/go/saddle-mountain-ranch-big-sur-ca/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-92676dfc">
 
 ## That's a Wrap!
-
-<div class="uagb-separator"></div></div>
 
 Don’t you just want to hop in the car and head to Big Sur right now? Glamping in Big Sur is a wonderful way to reconnect with nature and soothe the soul.&nbsp;So what are you waiting for? Let's get glamping!
 
@@ -152,9 +148,9 @@ If you would like to check out more amazing glamping sites in California see our
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-11f915f5"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="best-glamping-big-sur-sites"><img src="/images/best-glamping-sites-big-sur-ca-200x300.jpg" alt="5 best glamping sites in Big Sur California" /></figure>
-</div></section>
+

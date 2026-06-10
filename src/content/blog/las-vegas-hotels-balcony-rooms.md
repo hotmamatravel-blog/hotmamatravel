@@ -18,7 +18,7 @@ Finding [**Las Vegas hotels**](/best-family-hotels-in-las-vegas/) with balcony r
 
 ## Las Vegas Hotels with Balcony Rooms
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure id="terrace-suites-cosmopolitan-balcony-rooms-las-vegas"><a href="/images/terrace-suites-cosmopolitan-balcony-rooms-las-vegas.jpg"><img src="/images/terrace-suites-cosmopolitan-balcony-rooms-las-vegas.jpg" alt="balcony rooms at Cosmopolitan Las Vegas" /></a><figcaption class="wp-element-caption">Courtesy of Cosmopolitan Las Vegas</figcaption></figure>
 
@@ -80,9 +80,9 @@ The fun doesn't stop here! We have a ton of other resources to help you plan the
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-d611e5c6"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure id="Rare-Las-Vegas-Hotels-Balcony-Rooms"><a href="/images/Rare-Las-Vegas-Hotels-Balcony-Rooms.jpg"><img src="/images/Rare-Las-Vegas-Hotels-Balcony-Rooms-200x300.jpg" alt="" /></a></figure>
-</div></section>
+

@@ -23,11 +23,7 @@ San Antonio, Texas, is a city rich in history, culture, and a touch of the super
 
 With a prime location beside the iconic Alamo, the Menger Hotel in San Antonio, Texas, is not only a testament to luxury and hospitality but also a portal to a world that blurs the lines between the living and the spectral. Steeped in history dating back to its opening in 1859, this grand hotel has seen the comings and goings of countless historical figures, some of whom, it appears, have chosen to linger beyond their time.
 
-<div class="wp-block-uagb-advanced-heading uagb-block-c7ad8b46">
-
 ### **Brief History:**
-
-</div>
 
 [The Menger Hotel's](https://www.mengerhotel.com/) history is richly intertwined with that of San Antonio itself. As one of the oldest continuously operating hotels west of the Mississippi River, it has welcomed an impressive array of notable guests, including Ulysses S. Grant, Robert E. Lee, and Oscar Wilde. Its proximity to the Alamo, a site of historical significance, adds to its allure.
 
@@ -161,9 +157,9 @@ If you are looking for a great stay without ghosts, I recommend the [**Best West
 
 Explore more [**haunted hotels in Texas**](/haunted-hotels-texas/) as well as across America in some of [**best towns to visit during Halloween**](/best-towns-for-halloween/) by checking out our[](/best-haunted-places-to-visit-for-families/)**[favorite haunted places](/best-haunted-places-to-visit-for-families/)** page.
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="Stay in one of these family-friendly haunted hotels in San Antonio"><a href="/images/Haunted-Hotels-San-Antonio.jpg"><img src="/images/Haunted-Hotels-San-Antonio-200x300.jpg" alt="Family-Friendly Haunted Hotels in San Antonio" /></a></figure>
-</div></div>
+

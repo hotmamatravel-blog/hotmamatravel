@@ -105,17 +105,13 @@ The Merchant is HotMamaTravel approved for families who love a little luxury mix
 
 [**See photos, reviews &amp; more**](/go/the-merchant-salem-ma/)
 
-<div class="wp-block-uagb-advanced-heading uagb-block-88dd701e">
-
 ## That's A Wrap!
-
-<div class="uagb-separator"></div></div>
 
 So who is ready for a spirited stay at one of these awesome haunted hotels in Salem, MA? I know I am! If you love spooky adventures, don’t miss my full list of **[haunted places](/best-haunted-places-to-visit-for-families/)** for more ghostly getaways around the state. Salem is extremely popular, especially during the fall season, and the rooms book up fast. Be warned, you should book your fall trip to Salem about a year in advance. While you’re planning your **[Massachusetts family travel](/best-of-massachusetts-family-travel/)**, don’t forget to check out my favorite **[things to do in the Berkshires](/things-to-do-in-the-berkshires/)** for a totally different side of the Bay State. So don’t wait. Book your spooky stay today and tell them HotMamaTravel sent you!
 
-<div class="wp-block-uagb-container uagb-block-1d0812dc alignfull uagb-is-root-container"><div class="uagb-container-inner-blocks-wrap">
+
 
 Like it? Pin it!
 
 <figure data-essb-pin-description="Discover the best haunted hotels in Salem, MA for families! Explore family-friendly spooky stays with ghost stories, history, and New England charm. #SalemTravel #FamilyTravel #HauntedHotels #SpookyGetaway #HotMamaTravel"><a href="/images/Haunted-Hotels-Salem-.jpg"><img src="/images/Haunted-Hotels-Salem--200x300.jpg" alt="Haunted Hotels Salem MA" /></a></figure>
-</div></div>
+

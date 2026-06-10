@@ -10,7 +10,6 @@ wpSlug: "family-friendly-hotels-in-nashville"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 If you are planning a visit to Nashville and looking for a family friendly hotel, these are our recommendations. You can check the best rates and reviews on TripAdvisor by following the links below.
 
 - [**Hilton Nashville Downtown**](/go/hilton-downtown-nashville-expedia/)

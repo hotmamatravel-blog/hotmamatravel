@@ -34,11 +34,9 @@ are we waiting for, let’s go for it!
 
 <figure><img src="/images/disneyworld-fireworks-night.jpg" alt="Disney World fireworks" /></figure>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-4e9f9990-2f19-4455-be10-8eb5d193f78f" id="uagb-adv-heading-b0e1520d-d98d-4e9b-80b6-e36f83d51ac4">
-
 ## What transportation options are available?
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -134,11 +132,9 @@ more careful with your stuff.
 
 <figure><img src="/images/inside-red-bus.jpg" alt="Inside bus Orlando" /></figure>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-7de92c85-e921-4ba7-a78f-9f09ec1bda9d" id="uagb-adv-heading-b0e1520d-d98d-4e9b-80b6-e36f83d51ac4">
-
 ## Some important factors
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 
@@ -190,11 +186,9 @@ you to rest a bit after a day at the parks.&nbsp;
 
 <figure><img src="/images/child-sleeping-booster-seat.jpg" alt="Child sleeping in car" /></figure>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-8b95da77-e3fb-4fe5-98e0-3ca82ecf3bda" id="uagb-adv-heading-b0e1520d-d98d-4e9b-80b6-e36f83d51ac4">
-
 ## That's a Wrap
 
-<div class="uagb-separator-wrap"><div class="uagb-separator"></div></div>
+<div class="uagb-separator-wrap">
 
 </div>
 

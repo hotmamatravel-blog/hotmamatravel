@@ -31,7 +31,7 @@ So follow me and discover some of our favorite kid-friendly activities in Idyllw
 
 ## 6 Reasons you will fall in LOVE with Idyllwild
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - It is a cute mountain town with fresh air that smells like Christmas all year-round (think pine trees and fireplaces)
 
@@ -55,7 +55,7 @@ So follow me and discover some of our favorite kid-friendly activities in Idyllw
 
 ## Leisure Things To Do In Idyllwild With Kids
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure id="shopping-things-to-do-in-idyllwild-ca"><a href="/images/shopping-things-to-do-in-idyllwild-ca-1.jpg"><img src="/images/shopping-things-to-do-in-idyllwild-ca-1.jpg" alt="Shopping in Idyllwild" /></a></figure>
 
@@ -161,7 +161,7 @@ Taking the **[Palm Springs Aerial Tramway](/go/palm-springs-aerial-tramway-palm-
 
 ## Nature Activities In Idyllwild
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure id="easy-hikes-in-idyllwild-things-to-do-in-idyllwild"><a href="/images/easy-hikes-in-idyllwild-things-to-do-in-idyllwild.jpg"><img src="/images/easy-hikes-in-idyllwild-things-to-do-in-idyllwild.jpg" alt="kid-friendly hikes in Idyllwild" /></a></figure>
 
@@ -203,13 +203,9 @@ Whether you're a seasoned yogi or a first-timer, these classes cater to all leve
 
 ## Artsy Things To Do In Idyllwild
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
-
-<div class="wp-block-uagb-advanced-heading uagb-block-42a30e40" id="jazz-pines-idyllwild">
+<div class="ugb-heading__bottom-line">
 
 ### Jazz in the Pines
-
-</div>
 
 Get ready to groove amidst the pines at Jazz in the Pines, where the music is as vibrant as the towering trees! This isn't your average jazz fest; it's a family-friendly fiesta that'll have everyone tapping their toes. Imagine a mountain setting, the smooth sounds of jazz echoing through the crisp air, and a vibe that's as lively as it is laid-back.
 
@@ -217,11 +213,7 @@ Get ready to groove amidst the pines at Jazz in the Pines, where the music is as
 
 **[See Photos, Reviews, &amp; More](https://idyllwildarts.org/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-d39f5a23" id="idyllwild-arts-academy">
-
 ### Idyllwild Arts Academy
-
-</div>
 
 Brace yourselves for a kaleidoscope of talent at Idyllwild Arts Academy, where every corner bursts with cool art shows, captivating plays, exciting event, and mind-blowing exhibits! This isn't just an academy; it's a family-friendly cultural hub that turns the mountains into a canvas of expression.
 
@@ -229,21 +221,13 @@ Imagine strolling through art-filled corridors, witnessing captivating plays tha
 
 **[See Photos, Reviews, &amp; More](https://idyllwildarts.org/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-f00360dc" id="idyllwild-international-festival-cinema">
-
 ### Idyllwild International Festival of Cinema
-
-</div>
 
 Film buffs and family fun enthusiasts will love this reel adventure at the Idyllwild International Festival of Cinema, where the magic of movies meets the charm of the mountains! This isn't your average film fest; it's a family-friendly cinematic fiesta that'll have everyone on the edge of their seats. Since 2009 this mountain setting transforms into a giant movie theater, the stars above and the silver screen below. From captivating family films to indie gems that spark imagination, there's something for everyone. The festival isn't just about watching; it's about experiencing the enchantment of storytelling with your loved ones.
 
 **[See Photos, Reviews, &amp; More](https://idyllwildcinemafest.com/)**
 
-<div class="wp-block-uagb-advanced-heading uagb-block-d62a10de" id="art-galleries-idyllwild">
-
 ### [Idyllwild Art Galleries](/go/art-galleries-idyllwild/)
-
-</div>
 
 Enjoy the vibrant tapestry of Idyllwild's art culture, where every street feels like a gallery waiting to be explored! This isn't your typical stroll; it's a family-friendly art adventure that transforms the mountains into a masterpiece. Imagine wandering through eclectic galleries, each filled with colors that pop and sculptures that spark wonder.
 
@@ -255,7 +239,7 @@ Idyllwild's art scene isn't just for connoisseurs; it's an immersive experience 
 
 ## Idyllwild Family Travel Videos
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-iTWWKrAvc?si=88RguoPdQ3k1Si1T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -11,7 +11,6 @@ wpSlug: "best-of-massachusetts-family-travel"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 When most people think of family travel in Massachusetts, they picture history lessons and clam chowder. And sure, there’s plenty of that, but at *HotMamaTravel*, we’re all about family travel with a twist. From haunted hotels in Salem to live music in Boston, cozy breweries in the Berkshires, and even family-friendly wineries (yes, they exist and yes, you’ll thank me later), Massachusetts has way more to offer than textbooks and tours.
 
 Whether you’re chasing ghosts, coastal views, or a good IPA while the kids devour lobster rolls, this state delivers big on charm and character. So buckle up, because we’re exploring the best spots, stays, and slightly spooky adventures Massachusetts has to offer , all *HotMamaTravel approved*, of course.
@@ -20,7 +19,7 @@ Whether you’re chasing ghosts, coastal views, or a good IPA while the kids dev
 
 ## Massachusetts Family Attractions
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [Things To Do In The Berkshires](/things-to-do-in-the-berkshires/)
 
@@ -28,7 +27,7 @@ Whether you’re chasing ghosts, coastal views, or a good IPA while the kids dev
 
 ## Massachusetts Family Hotels
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [Best Family Hotels in Boston](/best-family-hotels-boston/)
 
@@ -38,25 +37,25 @@ Whether you’re chasing ghosts, coastal views, or a good IPA while the kids dev
 
 ## Massachusetts Family Restaurants
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-ugb-heading ugb-heading ugb-bda597a ugb-main-block"><style>.ugb-bda597a .ugb-heading__title{text-align:center}.ugb-bda597a .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-bda597a .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Massachusetts Family Breweries
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-ugb-heading ugb-heading ugb-e4037ad ugb-main-block"><style>.ugb-e4037ad .ugb-heading__title{text-align:center}.ugb-e4037ad .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-e4037ad .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Massachusetts Family Wineries
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-ugb-heading ugb-heading ugb-1ab0773 ugb-main-block"><style>.ugb-1ab0773 .ugb-heading__title{text-align:center}.ugb-1ab0773 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-1ab0773 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Massachusetts Family Glamping/RV
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [Best Glamping Sites in New England](/glamping-new-england/)
 
@@ -64,7 +63,7 @@ Whether you’re chasing ghosts, coastal views, or a good IPA while the kids dev
 
 ## Massachusetts Family-Friendly Haunted Places
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [Best Halloween Towns For Families](/best-towns-for-halloween/)
 
@@ -74,7 +73,7 @@ Whether you’re chasing ghosts, coastal views, or a good IPA while the kids dev
 
 ## Massachusetts Holiday-Themed Family Travel
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 - [Best Halloween Towns For Families](/best-towns-for-halloween/)
 
@@ -82,6 +81,6 @@ Whether you’re chasing ghosts, coastal views, or a good IPA while the kids dev
 
 ## Massachusetts Family Travel Videos
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zBWxPVZniFA?si=rcsrGdPGSQUWQBV-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

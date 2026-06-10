@@ -23,7 +23,7 @@ Yes, you can bring the family for a relaxing and exciting day in wine country fo
 
 ## Kid-Friendly Wineries in Temecula
 
-<div class="ugb-heading__bottom-line"></div></div></div></div>
+<div class="ugb-heading__bottom-line">
 
 <figure id="Wilson-Creek-Winery-kid-friendly-wineries-temecula"><a href="/images/Wilson-Creek-Winery-kid-friendly-wineries-temecula.jpg"><img src="/images/Wilson-Creek-Winery-kid-friendly-wineries-temecula.jpg" alt="Wilson Creek Winery" /></a></figure>
 
@@ -141,7 +141,7 @@ For more family-friendly wineries check out my [**Family-friendly wineries**](/b
 
 Now what are you waiting for? Go have some fun!
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-e5aa10bc"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
@@ -150,4 +150,4 @@ Now what are you waiting for? Go have some fun!
 Find the full list now on HotMamaTravel.com ✨
 
 #Temecula #TemeculaWineCountry #FamilyTravel #KidFriendly #CaliforniaTravel #TemeculaWineries #TravelWithKids #FamilyVacation #WineCountry #HotMamaTravel"><a href="/images/8-best-kid-friendly-wineries-temecula.jpg"><img src="/images/8-best-kid-friendly-wineries-temecula-200x300.jpg" alt="Best kid-friendly wineries in temecula" /></a></figure>
-</div></section>
+

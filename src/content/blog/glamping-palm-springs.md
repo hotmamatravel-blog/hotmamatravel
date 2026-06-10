@@ -18,7 +18,7 @@ Here’s a list of some great Palm Spring glamping sites that allow you to exper
 
 **Disclaimer**: Links in this page will help you find relevant information by linking directly to specific pages on partner websites (i.e. TripAdvisor, AirBnB). If you click a link, we may earn a small commission on transactions, which helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-80d2af5d"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 <figure><img src="/images/palm-springs-rv-resort-family-glamping-palm-springs-ca.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of Palm Springs RV Resort</figcaption></figure>
 
 #### [Thousand Trails Palm Springs RV Resort](/go/palm-springs-rv-resort-palm-springs-ca/)
@@ -37,9 +37,9 @@ If exploring the desert is what you seek, there are plenty of natural trails and
 
 [See photos, reviews &amp; more](/go/palm-springs-rv-resort-palm-springs-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-4e46d8e4"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/emerald-desert-rv-resort-glamping-palm-springs.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of Emerald Desert RV Resort</figcaption></figure>
 
 #### [Emerald Desert RV Resort](/go/emerald-desert-rv-resort-palm-springs-ca/)
@@ -54,9 +54,9 @@ Emerald Desert RV Resort connects you with the outdoors while giving you five-st
 
 [See photos, reviews &amp; more](/go/emerald-desert-rv-resort-palm-springs-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-6fc97c02"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/shadow-hill-rv-resort-glamping-palm-springs.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of Shadow Hill RV Resort </figcaption></figure>
 
 #### [Shadow Hill RV Resort](/go/shadow-hill-rv-resort-palm-springs-ca/)
@@ -73,9 +73,9 @@ The teepees sleep up to two people with either one queen or two twins and are lo
 
 [See photos, reviews &amp; more](/go/shadow-hill-rv-resort-palm-springs-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-746bdc2a"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/indian-waters-rv-resort-cottages-glamping-palm-springs.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of Indian Water RV Resort &amp; Cottages</figcaption></figure>
 
 #### [Indian Waters RV Resort &amp; Cottages](/go/indian-waters-rv-resort-cottages-palm-springs-ca/)
@@ -90,9 +90,9 @@ You can glamp on this beautiful property by staying in a cute onsite cottage. Th
 
 [See photos, reviews &amp; more](/go/indian-waters-rv-resort-cottages-palm-springs-ca/)
 
-</div></section>
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-60077e61"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
+
 <figure><img src="/images/kates-lazy-desert-glamping-palm-springs-ca.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of Kate's Lazy Desert</figcaption></figure>
 
 #### [Kate's Lazy Desert](/go/kates-lazy-desert-palm-springs-landers-ca/)
@@ -107,13 +107,9 @@ Owned by Kate Pierson from the B52's, Kate's Lazy Desert is an adults only  dese
 
 [See photos, reviews &amp; more](/go/kates-lazy-desert-palm-springs-landers-ca/)
 
-</div></section>
 
-<div class="wp-block-uagb-advanced-heading uagb-block-1ba87481">
 
 ## That's a Wrap!
-
-<div class="uagb-separator"></div></div>
 
 There is nothing like the desert at night. The sky filled with sparkling stars. The dark outlines of the surrounding mountains. The stillness of the desert air accompanied by the delicate sounds of nocturnal creatures. There is something to be said about experiencing desert nature, but we all don’t have the skill, equipment or desire to full on camp. A great way to bridge the gap of camping in the desert with the comforts of modern amenities is Glamping Palm Springs. It is like camping, but less rustic and more glamorous. To make the most of your time in Palms Springs, see our [guide of things to do in Palm Springs](/palm-springs-with-kids/), [best Palm Spring family tours](/best-palm-springs-tours/), [best family pools](/best-pools-in-palm-springs/), and our[favorite family resorts in Palm Springs](/best-family-resorts-palm-springs/).
 
@@ -151,9 +147,9 @@ For even more inspiration, check out our articles on:
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
-<section class="wp-block-uagb-section uagb-section__wrap uagb-section__background-undefined uagb-block-0262abc3"><div class="uagb-section__overlay"></div><div class="uagb-section__inner-wrap">
+
 
 **Like it? Pin it!**
 
 <figure><img src="/images/best-palm-springs-glamping-sites-pin-200x300.jpg" alt="" /></figure>
-</div></section>
+
