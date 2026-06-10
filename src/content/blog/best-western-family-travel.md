@@ -24,7 +24,7 @@ Here are the **5 reasons we keep choosing [Best Western](/go/best-western-book-d
 
 ## Best Western Hotels We’ve Stayed At With Kids
 
-<div class="ugb-heading__bottom-line">
+
 
 <blockquote>
 
@@ -54,11 +54,11 @@ We’ve stayed at Best Western properties [**across the U.S. on family road trip
 
 - **[Best Western Las Brias (Palm Springs)](https://youtu.be/0QQGKHRlDkE?si=k_sYnYNfOiBRhuRk&amp;t=127)**
 
-<div class="wp-block-ugb-heading ugb-heading ugb-fccb94f ugb-main-block"><style>.ugb-fccb94f .ugb-heading__title{text-align:center}.ugb-fccb94f .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-fccb94f .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## About Best Western® Hotels &amp; Resorts
 
-<div class="ugb-heading__bottom-line">
+
 
 [Best Western Hotels &amp; Resorts](/go/best-western-book-direct/) is a global hotel family with over **4,000 properties** across nearly **100 countries and territories**. What many travelers don’t realize is that Best Western isn’t a single hotel brand; it’s a **collection of 16 distinct brands**, ranging from mid-scale to upper mid-scale and boutique-style properties.
 
@@ -70,11 +70,11 @@ Best Western also invests heavily in quality. In recent years, the brand has com
 
 For families, that translates to **reliable comfort with local personality**; a rare combo.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-ce1d487 ugb-main-block"><style>.ugb-ce1d487 .ugb-heading__title{text-align:center}.ugb-ce1d487 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-ce1d487 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## 5 Reasons We Love Best Western Hotels &amp; Resorts
 
-<div class="ugb-heading__bottom-line">
+
 
 ### 1. Truly Family-Oriented (Not Just “Family-Friendly”)
 
@@ -184,11 +184,11 @@ The Best Western Plus Inn of Santa Fe was located about 10 minutes away from *do
 
 The list could go on and on...
 
-<div class="wp-block-ugb-heading ugb-heading ugb-766e67a ugb-main-block"><style>.ugb-766e67a .ugb-heading__title{text-align:center}.ugb-766e67a .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-766e67a .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Videos From Our Best Western Stays
 
-<div class="ugb-heading__bottom-line">
+
 
 **Best Western Plus Williams, AZ:**
 

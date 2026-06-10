@@ -96,11 +96,11 @@ From [delayed flights](https://www.ourglobetrotters.com/flight-delays-cancellati
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 With this advice, you’re sure to enjoy your travels as a new parent. Don’t forget to have fun, and enjoy building those wonderful memories with your loved one!
 

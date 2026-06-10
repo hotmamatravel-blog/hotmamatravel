@@ -19,11 +19,11 @@ The first step to a successful family trip to Vegas is finding the perfect accom
 
 I will say that you can create family suites by reserving two connecting rooms, which is what we do as a family of eight. You also always stay in a [**vacation rental or villa**](/las-vegas-accommodations-large-family-group/) too. However, you may want even more space and comfort and therefore require a more luxurious family suite inside one of Las Vegas many iconic[**hotels along the strip**](/las-vegas-strip-hotel-map/). I've got you! Here’s a guide to some of the best family suites in Las Vegas that promise comfort, convenience, and plenty of fun for everyone.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-fac2927 ugb-main-block"><style>.ugb-fac2927 .ugb-heading__title{text-align:center}.ugb-fac2927 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-fac2927 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Las Vegas Family Suites
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="westgate-las-vegas-family-suite"><figure><a href="/images/westgate-las-vegas-family-suite.jpg"><img src="/images/westgate-las-vegas-family-suite.jpg" alt="Westgate Las Vegas Family Suites" /></a></figure></div>
 

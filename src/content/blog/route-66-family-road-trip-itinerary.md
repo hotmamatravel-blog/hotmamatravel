@@ -24,11 +24,11 @@ If you love road trips, you may also enjoy our **[cross-country family road trip
 
 Below, you’ll find our easy Route 66 family road trip itinerary, including the best stops, kid-friendly highlights, must-see attractions, and travel tips for each city, plus why this trip is perfect for families who want adventure without overcomplicating the drive.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-f589040 ugb-main-block"><style>.ugb-f589040 .ugb-heading__title{text-align:center}.ugb-f589040 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-f589040 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Oatman, Arizona
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure><a href="/images/oatman-arizona.jpg"><img src="/images/oatman-arizona.jpg" alt="Kids at Oatman Arizona" /></a></figure>
 
@@ -52,11 +52,11 @@ We love visiting Old West ghost towns like **[Tombstone](/tombstone-with-kids/) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UucHeWQJI0I?si=-xAVmHYjs5W6cSVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-d2bf89f ugb-main-block"><style>.ugb-d2bf89f .ugb-heading__title{text-align:center}.ugb-d2bf89f .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-d2bf89f .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Williams, Arizona
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-a7e55027 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/grand-canyon-arizona_201902.jpg"><img src="/images/grand-canyon-arizona_201902.jpg" alt="Grand Canyon with kids" /></a></figure></div>
 
@@ -78,11 +78,11 @@ Williams has long been considered the gateway to the Grand Canyon, one of the tr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DSpWXkWJNCo?si=2U-ACi1rQn0HRUzh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-de337cd ugb-main-block"><style>.ugb-de337cd .ugb-heading__title{text-align:center}.ugb-de337cd .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-de337cd .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Gallup, New Mexico
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-be48840e wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/El-Rancho-Hotel-Gallup-NM.jpg"><img src="/images/El-Rancho-Hotel-Gallup-NM.jpg" alt="El Rancho Hotel Route 66" /></a></figure></div>
 
@@ -98,11 +98,11 @@ Gallup has served as the backdrop for over 100 old Western Movies over the years
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PPBMtgugS1o?si=lFh9le7tmNvEosUL&amp;start=118" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-47f8284 ugb-main-block"><style>.ugb-47f8284 .ugb-heading__title{text-align:center}.ugb-47f8284 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-47f8284 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Santa Fe, New Mexico
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-5b4cd88d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Saint-francis-of-assisi-cathedral-santa-fe-with-kids.jpg"><img src="/images/Saint-francis-of-assisi-cathedral-santa-fe-with-kids.jpg" alt="Kids in Santa Fe at Saint Francis de Assisi" /></a></figure></div>
 
@@ -132,11 +132,11 @@ Santa Fe has been calling me for years, and we made it the centerpiece of our Ro
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ahBfKhPntLQ?si=roiQNFYBnkQllvD8&amp;start=118" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-923d156 ugb-main-block"><style>.ugb-923d156 .ugb-heading__title{text-align:center}.ugb-923d156 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-923d156 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Holbrook, Arizona
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-5a267f9b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Holbrook-AZ-Route-66.jpg"><img src="/images/Holbrook-AZ-Route-66.jpg" alt="Holbrook Arizona Route 66" /></a></figure></div>
 
@@ -158,11 +158,11 @@ The highlight of our visit was exploring the legendary **[Wigwam Motel](https://
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PPBMtgugS1o?si=y7HLcpzK_E4XTctQ&amp;start=338" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-946f337 ugb-main-block"><style>.ugb-946f337 .ugb-heading__title{text-align:center}.ugb-946f337 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-946f337 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Kingman, Arizona
 
-<div class="ugb-heading__bottom-line">
+
 
 ### Day 6 (1 night)
 
@@ -178,11 +178,11 @@ After a long drive leaving New Mexico, we stayed the night and rested up in **[K
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PPBMtgugS1o?si=VzJYxKsD6cdswsUL&amp;start=490" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-ae04c6f ugb-main-block"><style>.ugb-ae04c6f .ugb-heading__title{text-align:center}.ugb-ae04c6f .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-ae04c6f .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Barstow, California
 
-<div class="ugb-heading__bottom-line">
+
 
 ### Day 7 (passing through)
 
@@ -198,11 +198,11 @@ We only ended up having lunch, because my son came down with something and we de
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PPBMtgugS1o?si=b2C62WpcFjDgRspf&amp;start=853" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-14d9544 ugb-main-block"><style>.ugb-14d9544 .ugb-heading__title{text-align:center}.ugb-14d9544 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-14d9544 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Santa Monica, California
 
-<div class="ugb-heading__bottom-line">
+
 
 ### Day 7 (END)
 

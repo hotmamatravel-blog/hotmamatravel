@@ -39,11 +39,11 @@ Whatever you need, our list likely has you covered!
 
 Ok, so we begin this article with a set of answers to Frequently Asked Questions (FAQs). **I recommend you start here** if you are just beginning your research on family hotels in Anaheim.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-6d68bf2 ugb-main-block"><style>.ugb-6d68bf2 .ugb-heading__title{text-align:center}.ugb-6d68bf2 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-6d68bf2 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Frequently Asked Questions
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-rank-math-faq-block"><div class="rank-math-faq-item">
 
@@ -71,11 +71,11 @@ Ok, so we begin this article with a set of answers to Frequently Asked Questions
 
 <div class="rank-math-answer">Free hotel parking is rare to find near Disneyland, but free parking is offered to guests at [**Clementine Hotel &amp; Suites**](/go/clementine-hotel-suites-anaheim/), and is included in some packages at [**Anaheim Majestic Garden Hotel**](/go/majestic-garden-hotel-anaheim/).</div>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-a7ed328 ugb-main-block"><style>.ugb-a7ed328 .ugb-heading__title{text-align:center}.ugb-a7ed328 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-a7ed328 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Best Family Hotels Near Disneyland Anaheim
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/majestic-garden-anaheim-hotel-swimming-pool.jpg"><img src="/images/majestic-garden-anaheim-hotel-swimming-pool.jpg" alt="Anaheim Majestic Garden Family Hotel near Disneyland" /></a><figcaption class="uagb-image-caption">Photo courtesy of Anaheim Majestic Garden Hotel</figcaption></figure></div>
 

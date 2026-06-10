@@ -23,11 +23,11 @@ And yes… she also happens to have a **[reputation for being one of the most ha
 
 So if you’re wondering whether [**visiting the Queen Mary with kids**](/go/the-queen-mary-ship-hotel/) is worth it (history, spooky stories, and all), you’re in the right place. Let’s explore what families can expect when staying, eating, touring, and making unforgettable memories aboard this iconic ship.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-db71560 ugb-main-block"><style>.ugb-db71560 .ugb-heading__title{text-align:center}.ugb-db71560 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-db71560 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Is the Queen Mary Good for Kids?
 
-<div class="ugb-heading__bottom-line">
+
 
 Yes, the Queen Mary is a great experience for kids, especially families who love history, hands-on exploration, and a little spooky fun.
 
@@ -37,11 +37,11 @@ Add in themed events, kid-friendly dining options, and the ship’s famous haunt
 
 For parents,  fun bars and restaurants, and live music. Plus, it’s walkable, educational, unique, and easy to pair with nearby Long Beach attractions, making it an ideal stop for families traveling with kids of different ages.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-dae7f0b ugb-main-block"><style>.ugb-dae7f0b .ugb-heading__title{text-align:center}.ugb-dae7f0b .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-dae7f0b .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Staying on the Queen Mary
 
-<div class="ugb-heading__bottom-line">
+
 
 ### Queen Mary Room Options for Families
 
@@ -57,11 +57,11 @@ Reports dating back to Queen Mary’s final voyage in 1967 include unexplained k
 
 Staying aboard the Queen Mary is quite a treat. It’s like stepping back in time, drifting off to sleep amid the art deco décor and glamor of another era. Unless, of course, you are keeping one eye open to spy one of the many ghosts said to haunt this historic floating hotel. Yup, I said ghosts.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-4fe4433 ugb-main-block"><style>.ugb-4fe4433 .ugb-heading__title{text-align:center}.ugb-4fe4433 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-4fe4433 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Eating on the Queen Mary
 
-<div class="ugb-heading__bottom-line">
+
 
 ### Queen Mary Restaurants for Families
 
@@ -89,11 +89,11 @@ Fashioned after British afternoon tea, it is available on Saturdays from 2:00 pm
 
 One of my favorite things to do on a Sunday is brunch, and the Queen Mary has a fantastic one! Held in the Grand Salon, the endless buffet of delicious dishes from all over the world wraps around the entire dance floor. Live music plays and champagne flows. It is truly a Sunday Funday.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-688527f ugb-main-block"><style>.ugb-688527f .ugb-heading__title{text-align:center}.ugb-688527f .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-688527f .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Tours, Attractions &amp; Events
 
-<div class="ugb-heading__bottom-line">
+
 
 ### Best Queen Mary Tours for Families
 
@@ -458,11 +458,11 @@ Before booking your visit, [check the Queen Mary event calendar](https://www.que
 
 One ship. Endless experiences. And a reason to come back again, and again.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-c3f4cff ugb-main-block"><style>.ugb-c3f4cff .ugb-heading__title{text-align:center}.ugb-c3f4cff .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-c3f4cff .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Frequently Asked Questions
 
-<div class="ugb-heading__bottom-line">
+
 
 At the end of the day, the Queen Mary is one of those rare places that actually works for kids, teens, and parents. It has history, hands-on exploring, a little spooky fun, and plenty of “wait… this is actually really cool” moments.
 

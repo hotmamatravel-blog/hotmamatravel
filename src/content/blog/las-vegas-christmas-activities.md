@@ -19,11 +19,11 @@ If you’re planning your first holiday trip to Vegas, start by checking out my 
 
 And because Christmas should be more than just a one-day present palooza. I've got a whole list **[Christmas family travel](/christmas-getaways-for-families/)** ideas I know you will love. But first, I’m about to break down the *best* Las Vegas Christmas activities for kids and the ones you absolutely shouldn’t miss. Let’s sleigh this thing.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-0a7c9d7 ugb-main-block"><style>.ugb-0a7c9d7 .ugb-heading__title{text-align:center}.ugb-0a7c9d7 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-0a7c9d7 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Christmas-Themed Vegas Shows
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-4c8d9ef1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/tournament-of-kings-las-vegas-dinner-show-packages.jpg"><img src="/images/tournament-of-kings-las-vegas-dinner-show-packages.jpg" alt="Tournament of Kings at Excalibur family las vegas show" /></a></figure></div>
 
@@ -99,11 +99,11 @@ If you want something totally different from the usual Christmas carol vibes, **
 
 [**Get Your Tickets Now!**](/go/blue-man-group-las-vegas-bov/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-b133ce7 ugb-main-block"><style>.ugb-b133ce7 .ugb-heading__title{text-align:center}.ugb-b133ce7 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-b133ce7 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Las Vegas Christmas Activities
 
-<div class="ugb-heading__bottom-line">
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t4Jw9PDCTt8?si=k3UndXcvpjRVm181&amp;start=370" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -157,11 +157,11 @@ The Upside Down gets festive too! The Stranger Things Store is a great way to sp
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wR7AxiMPw_o?si=Xqn5apGoGgp_69vd&amp;start=275" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-e1bb4d0 ugb-main-block"><style>.ugb-e1bb4d0 .ugb-heading__title{text-align:center}.ugb-e1bb4d0 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-e1bb4d0 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Las Vegas Christmas Hotels
 
-<div class="ugb-heading__bottom-line">
+
 
 ### [Christmas Suite At Westgate](/go/westgate-hotel-las-vegas/)
 

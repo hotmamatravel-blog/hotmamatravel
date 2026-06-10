@@ -27,11 +27,11 @@ Before you plan your next trip to [**Vegas with kids**](/las-vegas-with-kids/), 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CcZ4zaLZSzQ?si=mRQibzkVaB8PjaiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-38a23df ugb-main-block"><style>.ugb-38a23df .ugb-heading__title{text-align:center}.ugb-38a23df .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-38a23df .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Best Family Pools in Vegas
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure id="Mandaly-Bay-pool-best-las-vegas-pools-for-families"><a href="/images/mandalay-bay-lazy-river-things-to-do-in-vegas-pregnant.jpg"><img src="/images/mandalay-bay-lazy-river-things-to-do-in-vegas-pregnant.jpg" alt="best Family Pools in Vegas Mandalay Bay" /></a></figure>
 

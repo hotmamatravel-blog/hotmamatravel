@@ -17,11 +17,11 @@ I don't know about you guys, but I love a good ghost town. I never miss an oppor
 
 From the whispers of the wind through abandoned buildings to the echoes of bygone eras, exploring these ghost towns is like stepping back in time to a world where the Old West still reigns supreme. So grab your hat, dust off your boots, and join me on a journey through the best ghost towns around Las Vegas, where the past comes alive in the most hauntingly beautiful way.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-37622a3 ugb-main-block"><style>.ugb-37622a3 .ugb-heading__title{text-align:center}.ugb-37622a3 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-37622a3 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Ghost Towns Around Las Vegas
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="calico-ghost-towns-around-las-vegas"><figure><a href="/images/calico-ghost-towns-around-las-vegas.jpg"><img src="/images/calico-ghost-towns-around-las-vegas.jpg" alt="Calico Ghost Towns Around Las Vegas" /></a></figure></div>
 

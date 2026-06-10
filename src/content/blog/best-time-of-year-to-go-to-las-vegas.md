@@ -18,11 +18,11 @@ Las Vegas is a year round travel destination with something to offer every seaso
 
 In this article, I will walk you through what it is like in Las Vegas various times of the year. I will let you know what weather to expect, what cool events are going on, and what the crowds are like during the different seasons. Loaded with all this information, your family can pick the time of year that fits your travel needs the most.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-ea85603 ugb-main-block"><style>.ugb-ea85603 .ugb-heading__title{text-align:center}.ugb-ea85603 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-ea85603 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Best Month To Visit Las Vegas
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-1af49b87 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/graph-of-temperature-in-las-vegas-nv.png"><img src="/images/graph-of-temperature-in-las-vegas-nv.png" alt="" /></a></figure></div>
 

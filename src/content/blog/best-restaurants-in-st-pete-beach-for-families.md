@@ -14,11 +14,11 @@ author: "Amanda Keeley-Thurman"
 
 Let’s just be honest, eating on vacations is probably one of the most exciting activities. Renowned for its laid-back atmosphere and breathtaking views of the gulf and waterways, the dining scene St. Pete Beach, Florida offers a delightful fusion of relaxation and culinary excellence. Whether you're seeking a family-friendly atmosphere or simply craving a memorable meal with your loved ones, St. Pete Beach boasts an array of restaurants that cater to every palate and preference. Join me as we explore the best restaurants in St Pete Beach for families.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-bad391a ugb-main-block"><style>.ugb-bad391a .ugb-heading__title{text-align:center}.ugb-bad391a .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-bad391a .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Best Restaurants in St Pete Beach For Families
 
-<div class="ugb-heading__bottom-line">
+
 
 
 <figure id="snappers-kid-friendly-restaurants-st-pete-beach"><a href="/images/snappers-kid-friendly-restaurants-st-pete-beach.jpg"><img src="/images/snappers-kid-friendly-restaurants-st-pete-beach.jpg" alt="snappers seafood grill, best restaurants in st pete beach for families" /></a></figure>
@@ -162,11 +162,11 @@ Now, onto the menu – prepare to be wowed! From traditional Thai curries bursti
 
 **[See Photos, Reviews, &amp; More](/go/basil-leaf-st-pete-beach-florida/)**
 
-<div class="wp-block-ugb-heading ugb-heading ugb-8a87295 ugb-main-block"><style>.ugb-8a87295 .ugb-heading__title{text-align:center}.ugb-8a87295 .ugb-heading__bottom-line{background-color:#ff0101 !important;margin-left:auto !important;margin-right:auto !important}.ugb-8a87295 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Best Kid-Friendly Restaurants Near St Pete Beach
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-d9272f0a wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="paradise-grille-st-pete-beach"><figure><a href="/images/paradise-grille-st-pete-beach.jpg"><img src="/images/paradise-grille-st-pete-beach.jpg" alt="Family-Friendly Paradise Grille Restaurant in St Pete Beach" /></a></figure></div>
 

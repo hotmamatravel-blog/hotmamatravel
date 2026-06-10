@@ -30,11 +30,7 @@ Just because you are out and about, doesn’t mean that you have to forget [your
 
 Last but not least, sometimes it’s nice to try new things! If you are struggling with something like chronic pain or stress, then you may be struggling to manage it effectively. It’s okay, it happens to lots of people, but there are so many things that you can try and it’s worth looking into them all until you find the one that works for you. For example, some people swear by [cbd oil](https://www.thecbdistillery.com/), while others swear by certain types of tea. It’s a trial and error situation, but eventually you will come across what you’re looking for! Be patient and be willing to try new things!
 
-<div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## That's A Wrap!
-
-<div class="ugb-heading__bottom-line">
 
 Hopefully you have found this article helpful, and now see some of the things that you should be doing to look after yourself while you are traveling around. It doesn’t have to be difficult to achieve, as long as you are dedicating yourself to keeping up with the things that you need to do in order to remain healthy. We wish you the very best of luck.
 

@@ -83,11 +83,11 @@ Complimentary amenities include morning coffee or tea service, a chef-prepared S
 
 [**See photos, reviews &amp; more**](/go/hamilton-turner-inn-savannah-ga/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-885a103 ugb-main-block"><style>.ugb-885a103 .ugb-heading__title{text-align:center}.ugb-885a103 .ugb-heading__bottom-line{background-color:#cf2e2e !important;height:6px !important;width:118px !important;margin-left:auto !important;margin-right:auto !important}.ugb-885a103 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 Overall, Savannah is a great destination for families looking for a haunted getaway. From historic hotels to charming inns, the city is home to a number of family-friendly haunted hotels that are sure to provide a spooky and exciting adventure.
 

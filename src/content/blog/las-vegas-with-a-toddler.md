@@ -17,11 +17,11 @@ Does going to Las Vegas with toddler sound like a nightmare to you? Well, where 
 
 Despite having a dominate reputation as playground for adults, it is a fantastic destination for families. I should know. I have been a kid in Vegas and now I travel to Vegas on the regular with kids. I’ve written comprehensive guides for traveling to Las Vegas with a family, whether you’re **[pregnant](/pregnant-las-vegas/)**, traveling with **[babies](/advice-las-vegas-with-baby-infant-itinerary/) **and **[young children](/las-vegas-with-kids/)**, or planning a trip with **[teens](/things-to-do-in-las-vegas-with-teens/)** to help make things as easy as possible. But, now I am going to share my Vegas travel tips specific to parents of toddlers. So let's dig in.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-059e82b ugb-main-block"><style>.ugb-059e82b .ugb-heading__title{text-align:center}.ugb-059e82b .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-059e82b .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Tips for Visiting Las Vegas With A Toddler
 
-<div class="ugb-heading__bottom-line">
+
 
 ### Find A Family-Friendly Hotel
 

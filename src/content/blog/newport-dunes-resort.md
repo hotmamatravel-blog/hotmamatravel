@@ -25,11 +25,11 @@ S**ee Our RV Experiences at Newport Dunes Resort:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AygyWQcZY4Q?si=pBpd8u0jyTPW_OeC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-afc50bf ugb-main-block"><style>.ugb-afc50bf .ugb-heading__title{text-align:center}.ugb-afc50bf .ugb-heading__bottom-line{background-color:#fa0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-afc50bf .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Where to Stay at Newport Dunes Resort: Glamping Cottages &amp; RV Sites
 
-<div class="ugb-heading__bottom-line">
+
 
 ### Glamping Cottages:
 
@@ -155,11 +155,11 @@ The largest sites range from 1,250 sq ft beachfront spaces to 1,575 sq ft supers
 
 In addition to RV sites, RV, trailer, and tent camping options are available throughout the resort, making Newport Dunes Marina and Waterfront Resort a flexible stop for travelers exploring the Southern California coast. Whether you're staying one night on a road trip or settling in for a beach vacation, these waterfront sites make it easy to enjoy the laid-back coastal lifestyle.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-3a288e8 ugb-main-block"><style>.ugb-3a288e8 .ugb-heading__title{text-align:center}.ugb-3a288e8 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-3a288e8 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Where to Eat at Newport Dunes Resort
 
-<div class="ugb-heading__bottom-line">
+
 
 ### Moe B's Munchies Beach Bar &amp; Grill:
 
@@ -171,11 +171,11 @@ For the grown-ups, the beachfront bar serves hand-shaken margaritas, cocktails, 
 
 And if you feel like venturing out, remember that Newport Dunes sits in the heart of **[Newport Beach](/beaches-near-anaheim/)**, which means fantastic dining is just minutes away. From classic seafood spots to waterfront restaurants, you’ll have plenty of options nearby, including local favorites like **The Crab Cooker** and the beautiful dining spots along **[Newport Coast](/newport-coast-with-kids/)**.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-af74abd ugb-main-block"><style>.ugb-af74abd .ugb-heading__title{text-align:center}.ugb-af74abd .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-af74abd .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Family Fun &amp; Activities at Newport Dunes Resort
 
-<div class="ugb-heading__bottom-line">
+
 
 Family experiences at Newport Dunes Resort are all about making lasting memories at one of Newport Beach’s most unique family entertainment destinations. Whether you’re visiting for a weekend getaway or a longer coastal escape, the resort is packed with activities for all ages.
 
@@ -237,11 +237,11 @@ Celebrate with themed holiday events, enjoy live music at seasonal music festiva
 
 From summer movies on the beach to **[St. Patrick’s Day festivities](/st-patricks-day-at-newport-dunes/)**, there’s always a fun reason to plan a visit. Newport Dunes Marina and Waterfront Resort combines natural beauty with a calendar full of activities, making it a top destination for family-friendly entertainment in Newport Beach.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-45f7801 ugb-main-block"><style>.ugb-45f7801 .ugb-heading__title{text-align:center}.ugb-45f7801 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-45f7801 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Family Travel Videos From Newport Dunes Resort
 
-<div class="ugb-heading__bottom-line">
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nYNurGcKJQE?si=tLjsWql_pyPE2Qnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

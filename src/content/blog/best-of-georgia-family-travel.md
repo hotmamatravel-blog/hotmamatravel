@@ -17,11 +17,7 @@ At HotMamaTravel, we do family travel with a twist. That means discovering the s
 
 So pack the kids, grab your sense of adventure (and maybe your ghost-hunting gear), and let’s explore the best of Georgia,  HotMama style.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-f8b7d44 ugb-main-block"><style>.ugb-f8b7d44 .ugb-heading__title{text-align:center}.ugb-f8b7d44 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-f8b7d44 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Georgia Family Attractions
-
-<div class="ugb-heading__bottom-line">
 
 - [Best Things To Do In Savannah With Kids](/things-to-do-in-savannah-ga-with-kids/)
 
@@ -29,45 +25,21 @@ So pack the kids, grab your sense of adventure (and maybe your ghost-hunting gea
 
 - [Epic Road Trip Across America](/family-road-trip-across-us/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-0e1dfb9 ugb-main-block"><style>.ugb-0e1dfb9 .ugb-heading__title{text-align:center}.ugb-0e1dfb9 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-0e1dfb9 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Georgia Family Hotels
-
-<div class="ugb-heading__bottom-line">
 
 - [Haunted Hotels Savannah For Families](/haunted-hotels-savannah/)
 
 - [Windsor Hotel In Americus](/best-west-plus-windsor-hotel/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-7abd7e5 ugb-main-block"><style>.ugb-7abd7e5 .ugb-heading__title{text-align:center}.ugb-7abd7e5 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-7abd7e5 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Georgia Family Restaurants
-
-<div class="ugb-heading__bottom-line">
-
-<div class="wp-block-ugb-heading ugb-heading ugb-701d33a ugb-main-block"><style>.ugb-701d33a .ugb-heading__title{text-align:center}.ugb-701d33a .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-701d33a .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Georgia Family Breweries
 
-<div class="ugb-heading__bottom-line">
-
-<div class="wp-block-ugb-heading ugb-heading ugb-f44a673 ugb-main-block"><style>.ugb-f44a673 .ugb-heading__title{text-align:center}.ugb-f44a673 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-f44a673 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Georgia Family Wineries
-
-<div class="ugb-heading__bottom-line">
-
-<div class="wp-block-ugb-heading ugb-heading ugb-68c9207 ugb-main-block"><style>.ugb-68c9207 .ugb-heading__title{text-align:center}.ugb-68c9207 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-68c9207 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Georgia Family Glamping/RV
 
-<div class="ugb-heading__bottom-line">
-
-<div class="wp-block-ugb-heading ugb-heading ugb-a4262b9 ugb-main-block"><style>.ugb-a4262b9 .ugb-heading__title{text-align:center}.ugb-a4262b9 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-a4262b9 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Georgia Family-Friendly Haunted Places
-
-<div class="ugb-heading__bottom-line">
 
 - [Best Towns To Visit For Halloween](/best-towns-for-halloween/)
 
@@ -75,17 +47,9 @@ So pack the kids, grab your sense of adventure (and maybe your ghost-hunting gea
 
 - [Historical and Haunted Places To Visit With Your Kids](/best-haunted-places-with-kids/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-615027f ugb-main-block"><style>.ugb-615027f .ugb-heading__title{text-align:center}.ugb-615027f .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-615027f .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Georgia Holiday-Themed Family Travel
 
-<div class="ugb-heading__bottom-line">
-
-<div class="wp-block-ugb-heading ugb-heading ugb-df439f2 ugb-main-block"><style>.ugb-df439f2 .ugb-heading__title{text-align:center}.ugb-df439f2 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-df439f2 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Georgia Family Travel Videos
-
-<div class="ugb-heading__bottom-line">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0QMX0XoXg2M?si=m-TtrFZbTXAZJu3a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

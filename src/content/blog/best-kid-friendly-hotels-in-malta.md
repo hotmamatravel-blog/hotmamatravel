@@ -99,11 +99,11 @@ The real beauty of Malta is that you can have a completely relaxed vacation whil
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-27596e5 ugb-main-block"><style>.ugb-27596e5 .ugb-heading__title{text-align:center}.ugb-27596e5 .ugb-heading__bottom-line{background-color:#cf2e2e !important;height:4px !important;width:110px !important;margin-left:auto !important;margin-right:auto !important}.ugb-27596e5 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 There are so many great options when looking for the perfect family hotel in Malta for your next travels. Hope this article gives kicks off your Malta travel planning on a positive note. If you have any questions about visiting Malta with your family don't hesitant to ask, I have am a travel agent and Malta travel specialist. Have fun planning.
 

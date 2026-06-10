@@ -36,11 +36,11 @@ View this post as a Google Web Story: [**Best Hotels in Las Vegas for Families**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_6lMQpM-Me0?si=tHR4M1Rhaip6bWqH&amp;start=174" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-0d8969b ugb-main-block"><style>.ugb-0d8969b .ugb-heading__title{text-align:center}.ugb-0d8969b .ugb-heading__bottom-line{background-color:#de0a0a !important;height:8px !important;width:243px !important;margin-left:auto !important;margin-right:auto !important}.ugb-0d8969b .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Reviews of Kid-Friendly Hotels on Las Vegas Strip
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure id="NYNY-kid-friendly-vegas-hotel-review"><a href="/images/NYNY-kid-friendly-vegas-hotel-review.jpg"><img src="/images/NYNY-kid-friendly-vegas-hotel-review.jpg" alt="New York New York Vegas Hotel with Kids" /></a></figure>
 

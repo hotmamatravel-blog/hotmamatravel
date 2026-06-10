@@ -18,11 +18,11 @@ While still retaining its laid-back ambiance, Sayulita now offers an array of at
 
 Curious about the best-kept secrets of this picturesque town? Discover the true essence of Sayulita with our exclusive guide to its hidden gems - a treasure trove of recommendations cherished by frequent visitors. Unravel the magic of Sayulita and make your next Mexican escape truly unforgettable.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-d107844 ugb-main-block"><style>.ugb-d107844 .ugb-heading__title{text-align:center}.ugb-d107844 .ugb-heading__bottom-line{background-color:#f70000 !important;width:149px !important;margin-left:auto !important;margin-right:auto !important}.ugb-d107844 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Top 8 Things To Do in Sayulita
 
-<div class="ugb-heading__bottom-line">
+
 
 
 <figure id="sunset-carricitos-beach-sayulita-mexico"><a href="/images/sunset-carricitos-beach-sayulita-mexico.jpg"><img src="/images/sunset-carricitos-beach-sayulita-mexico.jpg" alt="" /></a></figure>

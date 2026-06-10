@@ -15,19 +15,19 @@ author: "Amanda Keeley-Thurman"
 
 If your kids judge a hotel by the size of its water slide (and honestly, who can blame them?), Orange County is the ultimate playground. From beachfront resorts to [**Disneyland-area favorites**](/best-family-hotels-anaheim-suites-near-disneyland/), these family-friendly hotels combine comfortable accommodations with splash-worthy fun. Whether you’re planning a magical Disney vacation or a relaxing coastal getaway, these Orange County hotels with water slides guarantee smiles, laughter, and just the right amount of chlorine.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-d6a065b ugb-main-block"><style>.ugb-d6a065b .ugb-heading__title{text-align:center}.ugb-d6a065b .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-d6a065b .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## 🌊 Quick Comparison Table
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure><table class="has-fixed-layout"><thead><tr><th>Hotel</th><th>Location</th><th>Water Slide Type</th><th>Best For</th></tr></thead><tbody><tr><td>Hyatt Regency Newport Beach</td><td>Newport Beach</td><td>Multiple slides &amp; lagoon-style pool</td><td>Coastal staycation</td></tr><tr><td>Anaheim Resort Suites</td><td>Anaheim</td><td>Pirate-themed splash zone</td><td>Budget families</td></tr><tr><td>Howard Johnson Anaheim</td><td>Anaheim</td><td>Castaway Cove water playground</td><td>Disneyland visitors</td></tr><tr><td>Courtyard Anaheim Theme Park Entrance</td><td>Anaheim</td><td>Surfside Waterpark with slides</td><td>Walking distance to Disneyland</td></tr><tr><td>Renaissance ClubSport Aliso Viejo</td><td>Aliso Viejo</td><td>Outdoor slide</td><td>Active families</td></tr><tr><td>Hyatt Regency Huntington Beach</td><td>Huntington Beach</td><td>Slyders Water Playground</td><td>Beachfront luxury</td></tr><tr><td>Disneyland Hotel</td><td>Anaheim</td><td>Monorail-themed slides</td><td>Disney immersion</td></tr><tr><td>Pixar Place Hotel</td><td>Anaheim</td><td>Rooftop pool with slide</td><td>Pixar fans</td></tr><tr><td>Disney’s Grand Californian Hotel &amp; Spa</td><td>Anaheim</td><td>Redwood-themed slide</td><td>Luxury Disney stay</td></tr><tr><td>Great Wolf Lodge</td><td>Garden Grove</td><td>Indoor water park</td><td>Year-round fun</td></tr><tr><td>Hyatt Regency Irvine</td><td>Irvine</td><td>Family-friendly pool with slide</td><td>Central OC location</td></tr></tbody></table></figure>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-e15e718 ugb-main-block"><style>.ugb-e15e718 .ugb-heading__title{text-align:center}.ugb-e15e718 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-e15e718 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## 🏖️ Hotel Spotlights
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-44de834d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Hyatt-Regency-Newport-Beach.jpg"><img src="/images/Hyatt-Regency-Newport-Beach.jpg" alt="hyatt regency newport beach" /></a></figure></div>
 

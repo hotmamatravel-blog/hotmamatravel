@@ -182,11 +182,11 @@ After our wonderful airboat adventure we headed off for grub and beers as I prom
 
 Papa and Grams actually thanked me for forcing them on the airboat. Even though everyone fought me on this activity, it turned out to be everyone's favorite! The kids had a blast and still talk about it to this day. Sometimes we just need a little adventure, and an airboat tour through the Everglades is a great one for kids and grandparents!
 
-<div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 An Everglades airboat tour is a perfect family adventure that offers a unique opportunity to explore the beauty and diversity of one of the world's most extraordinary ecosystems. The tour allows you to get up close with a wide range of wildlife, including alligators, turtles, and exotic birds, while enjoying the thrill of gliding across the water on a high-speed airboat.
 

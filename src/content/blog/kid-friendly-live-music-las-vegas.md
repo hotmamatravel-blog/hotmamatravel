@@ -19,11 +19,11 @@ Finding restaurants with live entertainment is a great way to enjoy Las Vegas ni
 
 So there are plenty of options, but to get you started here are our** **favorite kid-friendly live music Las Vegas restaurants.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-1dc61bb ugb-main-block"><style>.ugb-1dc61bb .ugb-heading__title{text-align:center}.ugb-1dc61bb .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-1dc61bb .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Top Kid Friendly Live Music Las Vegas Restaurants
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="nine-fine-irishmen-las-vegas"><figure><a href="/images/nine-fine-irishmen-las-vegas.jpg"><img src="/images/nine-fine-irishmen-las-vegas.jpg" alt="Kid friendly live music las vegas Nine Fine Irishmen" /></a></figure></div>
 

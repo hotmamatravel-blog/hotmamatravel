@@ -47,11 +47,11 @@ In this article, you will learn all about family-friendly Cirque du Soleil shows
 
 To view this article as a web story: [**Kid-Friendly Las Vegas Cirque Du Soleil Shows**](/web-stories/kid-friendly-las-vegas-cirque-du-soleil-shows/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-b763f48 ugb-main-block"><style>.ugb-b763f48 .ugb-heading__title{text-align:center}.ugb-b763f48 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-b763f48 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Best Cirque Du Soleil Shows In Vegas For Kids
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Mystere-Cirque-du-soleil-las-vegas-show"><figure><a href="/images/Mystere-Cirque-du-soleil-las-vegas-show.jpg"><img src="/images/Mystere-Cirque-du-soleil-las-vegas-show.jpg" alt="Mystere Las Vegas Cirque Show for kids" /></a></figure></div>
 

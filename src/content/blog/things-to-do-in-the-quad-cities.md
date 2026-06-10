@@ -191,11 +191,11 @@ The museum also has an extensive collection of small arms, including rifles, pis
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-a9fd262 ugb-main-block"><style>.ugb-a9fd262 .ugb-heading__title{text-align:center}.ugb-a9fd262 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-a9fd262 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 Knock out four cities in one trip with a trip to the Quad Cities. Hope this list of things to do in the Quad Cities helps you better plan a fun family weekend getaway. Don't forget to explore our blog for more guides in more cities. Happy Travels Hot Fam!
 

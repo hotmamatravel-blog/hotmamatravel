@@ -16,11 +16,11 @@ When it comes to family vacations, Ireland's enchanting landscapes, rich history
 
 These journeys offer an immersive and personalized experience that caters to all generations, from grandparents to the littlest adventurers. Join us as we embark on a virtual exploration of the finest small group tours Ireland has to offer, where the magic of the Irish countryside and culture awaits your family's discovery.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-0f962b1 ugb-main-block"><style>.ugb-0f962b1 .ugb-heading__title{text-align:center}.ugb-0f962b1 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-0f962b1 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Best For Kids Ireland Small Group Tours
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-f5d27852 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/exoticca-ireland-scotland-15-days-small-group-tours-in-ireland.jpg"><img src="/images/exoticca-ireland-scotland-15-days-small-group-tours-in-ireland.jpg" alt="private family tour in ireland" /></a></figure></div>
 
@@ -344,11 +344,11 @@ If you want a fun, low-stress way to explore Dublin that keeps everyone smiling 
 
 **[See Prices, Dates, Reviews &amp; More](/go/donut-adventure-dublin-ireland/)**
 
-<div class="wp-block-ugb-heading ugb-heading ugb-2c59b95 ugb-main-block"><style>.ugb-2c59b95 .ugb-heading__title{text-align:center}.ugb-2c59b95 .ugb-heading__bottom-line{background-color:#fc0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-2c59b95 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Best Day-Trip Small Group Tours In Ireland
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-3623fcc4 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/exoticca-ireland-scotland-england-small-group-tours-in-ireland.jpg"><img src="/images/exoticca-ireland-scotland-england-small-group-tours-in-ireland.jpg" alt="cliffs of moher small group Ireland tour" /></a></figure></div>
 
@@ -650,11 +650,11 @@ This tour combines stunning natural beauty, castles, and city exploration into a
 
 **[See Photos, Reviews, &amp; More](/go/gaint-causeway-dark-hedges-dunluce-belfast-tour-ireland/)**
 
-<div class="wp-block-ugb-heading ugb-heading ugb-3badd88 ugb-main-block"><style>.ugb-3badd88 .ugb-heading__title{text-align:center}.ugb-3badd88 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-3badd88 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Multi-Day Small Group Tours In Ireland
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-e4edb339 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Blarney-Castle-Small-Group-Tour.jpg"><img src="/images/Blarney-Castle-Small-Group-Tour.jpg" alt="Blarney Castle Small Group Ireland Tour " /></a></figure></div>
 

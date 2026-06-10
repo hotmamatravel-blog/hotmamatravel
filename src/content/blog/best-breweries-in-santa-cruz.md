@@ -15,11 +15,11 @@ author: "Amanda Keeley-Thurman"
 
 Nestled along the stunning coastline of California, Santa Cruz isn't just a haven for surfers; it's also a paradise for craft beer enthusiasts seeking a taste of coastal magic. Embark on a virtual tour with us as we explore the vibrant family-friendly craft beer scene in this seaside gem, uncovering the best breweries in Santa Cruz that offer great food, music and events to complete their amazing brews!
 
-<div class="wp-block-ugb-heading ugb-heading ugb-b7df283 ugb-main-block"><style>.ugb-b7df283 .ugb-heading__title{text-align:center}.ugb-b7df283 .ugb-heading__bottom-line{background-color:#ff0909 !important;margin-left:auto !important;margin-right:auto !important}.ugb-b7df283 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## List of the Best Breweries in Santa Cruz
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="santa-cruz-moutain-brewing-best-breweries-santa-cruz"><figure><a href="/images/santa-cruz-moutain-brewing-best-breweries-santa-cruz.jpg"><img src="/images/santa-cruz-moutain-brewing-best-breweries-santa-cruz.jpg" alt="Womenn-owned and operated Santa Cruz Mountain Brewing" /></a><figcaption class="uagb-image-caption">Courtesy of Santa Cruz Mountain Brewing</figcaption></figure></div>
 

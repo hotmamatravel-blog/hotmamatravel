@@ -41,7 +41,7 @@ Table of Contents
 
 ## Where to Stay in Las Vegas With Kids
 
-<div class="ugb-heading__bottom-line">
+
 
 A curated breakdown of the most family-friendly places to stay in Las Vegas, including resorts, suites, and budget options that actually work with kids.
 
@@ -73,7 +73,7 @@ A visual guide to where hotels are located on the Las Vegas Strip so families ca
 
 ## Things to Do with Kids
 
-<div class="ugb-heading__bottom-line">
+
 
 ### [Free Things to Do in Las Vegas with Kids](/free-family-activities-las-vegas/)
 
@@ -91,7 +91,7 @@ Teens are tough to impress. Vegas makes it easy with high-energy attractions, im
 
 ## Shows &amp; Entertainment
 
-<div class="ugb-heading__bottom-line">
+
 
 ### [Best Las Vegas Shows for Families](/las-vegas-shows-for-kids/)
 
@@ -113,7 +113,7 @@ Save money and simplify planning with family-friendly dinner-and-show combos kid
 
 ## Pools &amp; Play
 
-<div class="ugb-heading__bottom-line">
+
 
 ### [Best Family Pools in Las Vegas](/best-family-pools-in-vegas/)
 
@@ -127,7 +127,7 @@ Classic arcades, VR gaming, esports, and indoor fun for kids and teens, perfect 
 
 ## Seasonal &amp; Spooky Fun
 
-<div class="ugb-heading__bottom-line">
+
 
 ### [Halloween Activities in Las Vegas](/halloween-for-kids-in-las-vegas/)
 
@@ -145,7 +145,7 @@ Spooky but kid-appropriate hotels with fascinating ghost stories, haunted histor
 
 ## Where to Eat with Kids
 
-<div class="ugb-heading__bottom-line">
+
 
 ### [Best Las Vegas Family Restaurants with Live Music](/kid-friendly-live-music-las-vegas/)
 
@@ -163,7 +163,7 @@ Yes, you can do celebrity dining with kids. These restaurants are fun, approacha
 
 ## Beyond the Strip
 
-<div class="ugb-heading__bottom-line">
+
 
 ### [Unforgettable Road Trips from Las Vegas](/3-day-road-trips-from-las-vegas/)
 
@@ -181,7 +181,7 @@ Explore Old West history with kid-friendly ghost towns just a short drive from L
 
 ## Planning &amp; Tips
 
-<div class="ugb-heading__bottom-line">
+
 
 ### [Best Time of Year to Visit Las Vegas with Kids](/best-time-of-year-to-go-to-las-vegas/)
 
@@ -203,7 +203,7 @@ Real questions parents ask about Vegas with kids, answered clearly and honestly.
 
 ## Special Travel Situations
 
-<div class="ugb-heading__bottom-line">
+
 
 ### [Las Vegas with Baby Itinerary](/advice-las-vegas-with-baby-infant-itinerary/)
 
@@ -221,7 +221,7 @@ How to walk the Strip safely with kids, avoid chaos, and actually enjoy the expe
 
 ## Bonus: Check out our family travel videos
 
-<div class="ugb-heading__bottom-line">
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=tbe9RbHGTRvKYymD&amp;list=PLBukqMU4IGfu6fpXsfo66W4aDbTJrV6Cb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

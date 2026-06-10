@@ -140,11 +140,11 @@ The Hollywood Sign is an iconic symbol of Los Angeles, but few visitors know tha
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-1036a38 ugb-main-block"><style>.ugb-1036a38 .ugb-heading__title{text-align:center}.ugb-1036a38 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-1036a38 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 As you can see, California is full of hidden gems waiting to be discovered. Whether you're a nature lover, a history buff, or just looking for a unique experience, there's something for everyone in the Golden State. So, get out there and explore them today!
 

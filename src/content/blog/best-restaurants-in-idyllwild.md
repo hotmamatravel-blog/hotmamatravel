@@ -19,19 +19,19 @@ Brace yourselves for a mouthwatering adventure as we navigate through the best r
 
 From cozy cafes to gourmet gems, let’s explore how Idyllwild’s food scene turns every meal into a celebration of flavors amidst the towering pines, because mountain magic doesn’t stop when the hiking boots come off.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-f59cbbb ugb-main-block"><style>.ugb-f59cbbb .ugb-heading__title{text-align:center}.ugb-f59cbbb .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-f59cbbb .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Our Favorite Family Restaurants in Idyllwild
 
-<div class="ugb-heading__bottom-line">
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K2cDGSGtBNY?si=8WkvgkOTNjx1TlSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-65e7942 ugb-main-block"><style>.ugb-65e7942 .ugb-heading__title{text-align:center}.ugb-65e7942 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-65e7942 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Best Restaurants In Idyllwild
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="gastrognome-restaurants-in-idyllwild"><figure><a href="/images/gastrognome-restaurants-in-idyllwild.jpg"><img src="/images/gastrognome-restaurants-in-idyllwild.jpg" alt="family friendly gastrognome best restaurants in Idyllwild" /></a></figure></div>
 

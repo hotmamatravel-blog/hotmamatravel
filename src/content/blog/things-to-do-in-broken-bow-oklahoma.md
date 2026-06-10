@@ -137,11 +137,11 @@ Rugaru Adventures Ziplining Tour is a great way to experience the great outdoors
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-740bade ugb-main-block"><style>.ugb-740bade .ugb-heading__title{text-align:center}.ugb-740bade .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-740bade .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 Hope you enjoy this quick guide for things to do in Broken Bow Oklahoma. These are just a few of the many things to do in Broken Bow, Oklahoma. Whether you're looking for outdoor adventure or a relaxing getaway, this town has something for everyone.
 

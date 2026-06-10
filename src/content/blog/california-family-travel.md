@@ -14,11 +14,7 @@ author: "Amanda Keeley-Thurman"
 
 This is your guide to California family travel! Discover the best things to do, cozy** [family hotels](/best-family-hotels/)**, and unique spots – from [**family-friendly breweries**](/americas-best-breweries/) to haunted places. Let's turn your Golden State getaway into an unforgettable adventure!
 
-<div class="wp-block-ugb-heading ugb-heading ugb-19a796a ugb-main-block"><style>.ugb-19a796a .ugb-heading__title{text-align:center}.ugb-19a796a .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-19a796a .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## [Orange](/orange-county-family-travel/)[County](/orange-county-family-travel/)[With Kids](/orange-county-family-travel/)
-
-<div class="ugb-heading__bottom-line">
 
 - [Top Things to do in Anaheim with kids (besides Disney)](/things-to-do-in-anaheim/)
 
@@ -82,11 +78,7 @@ This is your guide to California family travel! Discover the best things to do, 
 
 - [Staying at Sonesta Redondo Beach](/sonesta-redondo-beach-and-marina/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-e213797 ugb-main-block"><style>.ugb-e213797 .ugb-heading__title{text-align:center}.ugb-e213797 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-e213797 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Palm Springs With Kids
-
-<div class="ugb-heading__bottom-line">
 
 - [Epic list of fun things to do in Palm Springs with kids](/palm-springs-with-kids/)
 
@@ -100,11 +92,7 @@ This is your guide to California family travel! Discover the best things to do, 
 
 - [5 Best Glamping Spots in Joshua Tree National Park](/glamping-joshua-tree-national-park/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-ffb4cde ugb-main-block"><style>.ugb-ffb4cde .ugb-heading__title{text-align:center}.ugb-ffb4cde .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-ffb4cde .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## San Diego With Kids
-
-<div class="ugb-heading__bottom-line">
 
 - [What to do in Old Town San Diego with Kids – Live Music, Haunted Places and More](/old-town-san-diego-with-kids/)
 
@@ -122,11 +110,7 @@ This is your guide to California family travel! Discover the best things to do, 
 
 - [5 Kid-friendly Haunted Historical Places you need to visit next](/best-haunted-places-with-kids/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-8016ae2 ugb-main-block"><style>.ugb-8016ae2 .ugb-heading__title{text-align:center}.ugb-8016ae2 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-8016ae2 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Idyllwild With Kids
-
-<div class="ugb-heading__bottom-line">
 
 - [Fun Things to do in Idyllwild with Kids Your Family Will Love](/things-to-do-in-idyllwild-with-kids/)
 
@@ -134,11 +118,7 @@ This is your guide to California family travel! Discover the best things to do, 
 
 - [6 Best Idyllwild Cabin Rentals for Families](/best-idyllwild-cabin-rentals/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-2e8ba21 ugb-main-block"><style>.ugb-2e8ba21 .ugb-heading__title{text-align:center}.ugb-2e8ba21 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-2e8ba21 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Temecula With Kids
-
-<div class="ugb-heading__bottom-line">
 
 - [Top Things to do in Temecula for a Fun Family Getaway!](/top-things-to-do-in-temecula/)
 
@@ -154,11 +134,7 @@ This is your guide to California family travel! Discover the best things to do, 
 
 - [Guide to Rving at Vail Lake Resort with Kids](/vail-lake-resort-with-kids/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-c1b805a ugb-main-block"><style>.ugb-c1b805a .ugb-heading__title{text-align:center}.ugb-c1b805a .ugb-heading__bottom-line{background-color:#f30000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-c1b805a .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## San Francisco With Kids
-
-<div class="ugb-heading__bottom-line">
 
 - [Best Family Hotels San Francisco](/best-family-hotels-san-francisco-with-great-amenities-and-locations/)
 
@@ -166,11 +142,7 @@ This is your guide to California family travel! Discover the best things to do, 
 
 - [Visiting Alcatraz With Kids](/is-alcatraz-worth-visiting/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-f6a1f55 ugb-main-block"><style>.ugb-f6a1f55 .ugb-heading__title{text-align:center}.ugb-f6a1f55 .ugb-heading__bottom-line{background-color:#f30000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-f6a1f55 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Things To Do In California With Kids
-
-<div class="ugb-heading__bottom-line">
 
 - [Top Things to do in Anaheim with kids (besides Disney)](/things-to-do-in-anaheim/)
 
@@ -236,11 +208,7 @@ This is your guide to California family travel! Discover the best things to do, 
 
 - [President’s Day at the Nixon Presidential Library with Kids](/presidents-day-at-the-nixon-presidential-library-with-kids/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-ccad2af ugb-main-block"><style>.ugb-ccad2af .ugb-heading__title{text-align:center}.ugb-ccad2af .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-ccad2af .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Best Family Hotels in California
-
-<div class="ugb-heading__bottom-line">
 
 - [Best Family Hotels Near LAX for an Amazing LA Vacation](/best-family-hotels-near-lax/)
 
@@ -266,11 +234,7 @@ This is your guide to California family travel! Discover the best things to do, 
 
 - [6 Best Idyllwild Cabin Rentals for Families](/best-idyllwild-cabin-rentals/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-51e032c ugb-main-block"><style>.ugb-51e032c .ugb-heading__title{text-align:center}.ugb-51e032c .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-51e032c .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Best Family-Friendly Restaurants in California
-
-<div class="ugb-heading__bottom-line">
 
 - [Our Top 11 kid-friendly places with live music across the US](/top-kid-friendly-places-live-music-usa/)
 
@@ -280,11 +244,7 @@ This is your guide to California family travel! Discover the best things to do, 
 
 - [8 Best Restaurants In Idyllwild For Families](/best-restaurants-in-idyllwild/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-9b51656 ugb-main-block"><style>.ugb-9b51656 .ugb-heading__title{text-align:center}.ugb-9b51656 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-9b51656 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Best Family-Friendly Breweries in California
-
-<div class="ugb-heading__bottom-line">
 
 - [Crafting Family Memories at the Best Breweries in Long Beach](/best-breweries-in-long-beach/)
 
@@ -294,11 +254,7 @@ This is your guide to California family travel! Discover the best things to do, 
 
 - [14 Brewtastic Breweries in Temecula That You Will Love!](/best-breweries-in-temecula-ca/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-1f35834 ugb-main-block"><style>.ugb-1f35834 .ugb-heading__title{text-align:center}.ugb-1f35834 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-1f35834 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Best Family-Friendly Wineries in California
-
-<div class="ugb-heading__bottom-line">
 
 - [8 Best Kid-Friendly Wineries in Temecula 2024 You’ll Love!](/kid-friendly-wineries-temecula-ca/)
 
@@ -310,11 +266,7 @@ This is your guide to California family travel! Discover the best things to do, 
 
 - [5 Most Unique Temecula Wine Tours that include Lunch!](/best-temecula-wine-tours/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-c100a44 ugb-main-block"><style>.ugb-c100a44 .ugb-heading__title{text-align:center}.ugb-c100a44 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-c100a44 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Best Family-Friendly Glamping in California
-
-<div class="ugb-heading__bottom-line">
 
 - [8 Best California Glamping Sites you will love!](/best-california-glamping-sites/)
 
@@ -338,11 +290,7 @@ This is your guide to California family travel! Discover the best things to do, 
 
 - [Big Bear Shores RV Resort with Kids](/big-bear-shores-rv-resort-with-kids/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-d2edd42 ugb-main-block"><style>.ugb-d2edd42 .ugb-heading__title{text-align:center}.ugb-d2edd42 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-d2edd42 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Family-Friendly Haunted Places in California
-
-<div class="ugb-heading__bottom-line">
 
 - [Stay in a Haunted Hotel in California!](/haunted-hotel-in-california/)
 
@@ -358,11 +306,7 @@ This is your guide to California family travel! Discover the best things to do, 
 
 - [5 Kid-friendly Haunted Historical Places you need to visit next](/best-haunted-places-with-kids/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-229ddd5 ugb-main-block"><style>.ugb-229ddd5 .ugb-heading__title{text-align:center}.ugb-229ddd5 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-229ddd5 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Holiday-Themed Family Travel in California
-
-<div class="ugb-heading__bottom-line">
 
 - [Best Towns for Halloween to Visit With Your Family](/best-towns-for-halloween/)
 

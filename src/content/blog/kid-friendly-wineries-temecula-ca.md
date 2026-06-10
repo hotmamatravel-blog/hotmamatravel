@@ -19,11 +19,11 @@ Yes, you can bring the family for a relaxing and exciting day in wine country fo
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<div class="wp-block-ugb-heading ugb-heading ugb-9d1f681 ugb-main-block"><style>.ugb-9d1f681 .ugb-heading__title{text-align:center}.ugb-9d1f681 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-9d1f681 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Kid-Friendly Wineries in Temecula
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure id="Wilson-Creek-Winery-kid-friendly-wineries-temecula"><a href="/images/Wilson-Creek-Winery-kid-friendly-wineries-temecula.jpg"><img src="/images/Wilson-Creek-Winery-kid-friendly-wineries-temecula.jpg" alt="Wilson Creek Winery" /></a></figure>
 

@@ -14,11 +14,11 @@ author: "Amanda Keeley-Thurman"
 
 Finding [**Las Vegas hotels**](/best-family-hotels-in-las-vegas/) with balcony rooms is extremely rare due to [legit safety concerns](https://www.casino.org/vitalvegas/insider-secrets-really-really-dont-want-know-las-vegas/). However, there some limited options for those looking to take in the views of the glittering Las Vegas strip from the comfort of their own outdoor space. So, if you are all about the balcony during your next stay, here are some Las Vegas hotels with balcony rooms.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-32d9847 ugb-main-block"><style>.ugb-32d9847 .ugb-heading__title{text-align:center}.ugb-32d9847 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-32d9847 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Las Vegas Hotels with Balcony Rooms
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure id="terrace-suites-cosmopolitan-balcony-rooms-las-vegas"><a href="/images/terrace-suites-cosmopolitan-balcony-rooms-las-vegas.jpg"><img src="/images/terrace-suites-cosmopolitan-balcony-rooms-las-vegas.jpg" alt="balcony rooms at Cosmopolitan Las Vegas" /></a><figcaption class="wp-element-caption">Courtesy of Cosmopolitan Las Vegas</figcaption></figure>
 

@@ -27,11 +27,11 @@ If you follow our blog, you know[**we visit Vegas frequently with our kids**](/l
 
 View this post as a Google Web Story: [**Free Things to do in Las Vegas with Kids**](/web-stories/free-things-las-vegas/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-9a9b753 ugb-main-block"><style>.ugb-9a9b753 .ugb-heading__title{text-align:center}.ugb-9a9b753 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-9a9b753 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Free Family Activities Las Vegas
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure id="las-vegas-strip-free-attractions"><a href="/images/las-vegas-teens.jpg"><img src="/images/las-vegas-teens.jpg" alt="free family activities las vegas strip" /></a></figure>
 

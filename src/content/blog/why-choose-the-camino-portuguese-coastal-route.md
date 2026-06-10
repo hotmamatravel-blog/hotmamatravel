@@ -16,11 +16,7 @@ When you set out to explore Portugal, the Coastal Route offers an enchanting alt
 
 Moreover, it is a well trodden path by Camino de Santiago pilgrims. With this in mind, let’s take a deep dive into why the [Camino de Santigo by way of Portugal](https://santiagoways.com/en/camino-de-santiago-routes/portuguese-camino-coastal-route/from-porto/) is so popular.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-04e1f49 ugb-main-block"><style>.ugb-04e1f49 .ugb-heading__title{text-align:center}.ugb-04e1f49 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-04e1f49 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## From Santarem to Coimbra: A Journey Through History and Beauty
-
-<div class="ugb-heading__bottom-line">
 
 ### 1. Santarem – The Gothic Capital of Portugal
 
@@ -38,11 +34,7 @@ Midway, you reach Figueira da Foz, celebrated for its expansive sandy beaches an
 
 As you approach Coimbra, the journey takes a scholarly turn. Home to one of the oldest universities in Europe, Coimbra is a city where **history and knowledge have intertwined** for centuries. The University of Coimbra, a UNESCO World Heritage site, is famous for its stunning Baroque library, the Biblioteca Joanina. Wander through the city’s narrow streets, and you’ll find a vibrant blend of old and new, where traditional fado music fills the air and contemporary cafes serve up local and international flavors.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-09bb9ec ugb-main-block"><style>.ugb-09bb9ec .ugb-heading__title{text-align:center}.ugb-09bb9ec .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-09bb9ec .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Why This Route?
-
-<div class="ugb-heading__bottom-line">
 
 Choosing the Portuguese Coastal Route means stepping into a world where every corner holds a story, every landscape inspires awe, and every town welcomes you with open arms. It’s not just a journey; it’s an experience that enriches the soul.
 

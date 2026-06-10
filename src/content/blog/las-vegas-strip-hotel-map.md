@@ -19,19 +19,19 @@ The best part is that within these palatial establishments are accommodations fi
 
 In addition to viewing our Las Vegas Strip hotel map, check out our **[Vegas Strip walking guide](/walking-las-vegas-strip/) **for tips to make the most of your experience when visiting [**Las Vegas with kids**](/las-vegas-with-kids/).
 
-<div class="wp-block-ugb-heading ugb-heading ugb-508f2d3 ugb-main-block"><style>.ugb-508f2d3 .ugb-heading__title{text-align:center}.ugb-508f2d3 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-508f2d3 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Map of Hotels on the Vegas Strip
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure id="Las-Vegas-Strip-Hotel-Map"><a href="/images/Las-Vegas-Strip-Hotel-Map-2024.jpg"><img src="/images/Las-Vegas-Strip-Hotel-Map-2024-683x1024.jpg" alt="Las Vegas Hotel Map 2024" /></a></figure>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-3f8c026 ugb-main-block"><style>.ugb-3f8c026 .ugb-heading__title{text-align:center}.ugb-3f8c026 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-3f8c026 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Description of Hotels on The Vegas Strip
 
-<div class="ugb-heading__bottom-line">
+
 
 **[Mandalay Bay:](https://mandalaybay.mgmresorts.com/en.html)** A luxurious escape with tropical-themed ambiance and sprawling pools.
 
@@ -75,11 +75,11 @@ In addition to viewing our Las Vegas Strip hotel map, check out our **[Vegas Str
 
 **[Encore:](https://www.wynnlasvegas.com/)** Offers a refined and upscale experience with luxurious accommodations and impeccable service.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-71c75d6 ugb-main-block"><style>.ugb-71c75d6 .ugb-heading__title{text-align:center}.ugb-71c75d6 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-71c75d6 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Why Do You Need A Las Vegas Strip Hotel Map?
 
-<div class="ugb-heading__bottom-line">
+
 
 With so much competition for the attention (and dollars) of tourists in their [**restaurants**](/best-family-restaurants-in-las-vegas/), [**shows**](/las-vegas-shows-for-kids/), [**attractions**](/affordable-family-activities-las-vegas/), and casinos, *the hotels on the Las Vegas strip have little choice but to keep their rates as low as possible*, and even offer [**free attractions**](/free-family-activities-las-vegas/) and [**expansive pools**](/best-family-pools-in-vegas/) to draw in crowds.
 

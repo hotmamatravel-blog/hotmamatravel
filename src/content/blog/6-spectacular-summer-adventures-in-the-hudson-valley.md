@@ -26,11 +26,11 @@ So, grab your sunhat, pack your adventure gear, and prepare to embark on a journ
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<div class="wp-block-ugb-heading ugb-heading ugb-e362496 ugb-main-block"><style>.ugb-e362496 .ugb-heading__title{text-align:center}.ugb-e362496 .ugb-heading__bottom-line{background-color:#fe0b0b !important;width:282px !important;margin-left:auto !important;margin-right:auto !important}.ugb-e362496 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Let the Hudson Valley summer adventure begin!
 
-<div class="ugb-heading__bottom-line">
+
 
 
 
@@ -97,11 +97,11 @@ Last but not least on our countdown is the [Mohonk Mountain House](https://www.m
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 So, there you have six spectacular adventures to fill your Hudson Valley summer with fun, frolic, and a dash of adventure. Whether you're an outdoor enthusiast, a history buff, or simply a traveler with a keen sense of curiosity, the Hudson Valley has something for everyone.
 

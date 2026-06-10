@@ -176,11 +176,11 @@ If you're looking for something a little more active, Sawyer also has a number o
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-8f264e9 ugb-main-block"><style>.ugb-8f264e9 .ugb-heading__title{text-align:center}.ugb-8f264e9 .ugb-heading__bottom-line{background-color:#cf2e2e !important;width:134px !important;margin-left:auto !important;margin-right:auto !important}.ugb-8f264e9 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 For your next family vacation look no further than New Buffalo, Michigan. Beauty surrounds you in this lakeside city offering everything a family could want for a relaxing getaway.
 

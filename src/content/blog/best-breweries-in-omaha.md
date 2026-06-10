@@ -15,11 +15,11 @@ author: "Amanda Keeley-Thurman"
 
 Hey there beer buddies and hop-heads! Ready to embark on a journey through the suds-soaked streets of Omaha? Buckle up, because we're about to uncover the hoppy haven that makes this Nebraska city a brewtopia worth toasting to. I'm about to share with you the best breweries in Omaha that are family-friendly, dog-friendly, have live music and events, awesome food, and more!
 
-<div class="wp-block-ugb-heading ugb-heading ugb-4ca9559 ugb-main-block"><style>.ugb-4ca9559 .ugb-heading__title{text-align:center}.ugb-4ca9559 .ugb-heading__bottom-line{background-color:#ff0101 !important;margin-left:auto !important;margin-right:auto !important}.ugb-4ca9559 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Best Family-Friendly Breweries in Omaha
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="zipline-brewing-co-best-breweries-in-omaha"><figure><a href="/images/zipline-brewing-co-best-breweries-in-omaha.jpg"><img src="/images/zipline-brewing-co-best-breweries-in-omaha.jpg" alt="Zipline Brewing Co Taproom and Beer Lounge in Omaha" /></a><figcaption class="uagb-image-caption">Courtesy of Zipline Brewing Co.</figcaption></figure></div>
 

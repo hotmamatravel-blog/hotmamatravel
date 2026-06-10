@@ -119,11 +119,11 @@ Built in 1915, Rutabegorz was once the home of settlers Danny and Annie Crawford
 
 [**See photos, reviews &amp; more**](/go/rutabegorz-restaurant-old-towne-orange-circle/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-7fd8805 ugb-main-block"><style>.ugb-7fd8805 .ugb-heading__title{text-align:center}.ugb-7fd8805 .ugb-heading__bottom-line{background-color:#cf2e2e !important;height:5px !important;width:134px !important;margin-left:auto !important;margin-right:auto !important}.ugb-7fd8805 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 So who is ready for a spirit day (or night) trip to Old Towne Orange Circle? If you would like more information about the haunted places mentioned in this article, I recommend taking a ghost walk with [**HauntedOC**](/go/haunted-oc-ghost-walk-tours-old-towne-orange/).
 

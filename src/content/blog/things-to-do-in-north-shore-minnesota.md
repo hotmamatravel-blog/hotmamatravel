@@ -198,11 +198,11 @@ Another feature of Lutsen Mountain Summit Express is that it is open for night s
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-bb5533f ugb-main-block"><style>.ugb-bb5533f .ugb-heading__title{text-align:center}.ugb-bb5533f .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-bb5533f .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 When planning your next family vacation, you'll find there is no shortage of fun and adventurous things to in North Shore, Minnesota. Hope this list helped you plan the perfect itinerary for your family. Now go have some fun.
 

@@ -180,11 +180,11 @@ But the museum isn't just for kids. Adults will also find plenty to love here, i
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
  A Destin family vacation is an absolute must-do for any family looking for sun, sand, and fun. With its beautiful beaches, charming coastal villages, and endless array of activities, there's truly something for everyone in this Gulf Coast paradise.
 

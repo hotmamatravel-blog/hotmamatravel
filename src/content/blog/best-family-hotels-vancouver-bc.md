@@ -70,11 +70,11 @@ Whether you are visiting before embarking on one of the many cruises leaving out
 
 <div class="rank-math-answer">The best family hotels in Vancouver with fridges and/or kitchenettes in the rooms are the [Residence Inn by Marriott Vancouver Downtown](#residence-inn-marriott-vancouver), [Century Plaza Hotel &amp; Spa](#century-plaza-hotel), [Pan Pacific Vancouver](#pan-pacific-vancouver), and [Delta Hotels by Marriott Vancouver](#delta-hotels-marriott-vancouver)</div>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-e8199bf ugb-main-block"><style>.ugb-e8199bf .ugb-heading__title{text-align:center}.ugb-e8199bf .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-e8199bf .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Top Family Hotels In Vancouver BC, Canada
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="family-friendly-vancouver-hotel-fairmont-waterfront-front"><figure><a href="/images/family-friendly-vancouver-hotel-fairmont-waterfront-front.jpg"><img src="/images/family-friendly-vancouver-hotel-fairmont-waterfront-front.jpg" alt="Fairmont Waterfront Vancouver kid friendly hotel" /></a><figcaption class="uagb-image-caption">Courtesy of Fairmont Waterfront Vancouver</figcaption></figure></div>
 

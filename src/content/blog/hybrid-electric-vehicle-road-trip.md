@@ -60,11 +60,11 @@ You can plan your journey around charging stations, however, that doesn't mean t
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 A road trip is an amazing way to see the world, but if you're going to worry about whether your car can go the distance, these are a few things that can make a massive difference to an amazing journey that is benefiting the planet.
 

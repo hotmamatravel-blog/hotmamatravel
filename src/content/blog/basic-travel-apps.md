@@ -90,11 +90,11 @@ Using our currency converter, you can easily figure out how much you are paying!
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-e45764a ugb-main-block"><style>.ugb-e45764a .ugb-heading__title{text-align:center}.ugb-e45764a .ugb-heading__bottom-line{background-color:#e70a0a !important;height:6px !important;width:157px !important;margin-left:auto !important;margin-right:auto !important}.ugb-e45764a .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 How does it feel to be all set and fully prepared for your next vacation? Awesome, right? That was our goal and we hope you found this article helpful in that regard. Let us know if you have anything to share or ask in the comments section below. We would love to hear back from you.&nbsp;
 

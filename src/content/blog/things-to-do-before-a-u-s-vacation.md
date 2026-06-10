@@ -16,11 +16,11 @@ A vacation in the U.S. can be a great option for multiple reasons. There’ll be
 
 Compared to other countries, there might be a few extra steps you need to take. If you don’t know about these, they could add a lot of last-minute stress to your trip. It’s worth diving into what you have to do before going on the trip.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-baa7616 ugb-main-block"><style>.ugb-baa7616 .ugb-heading__title{text-align:center}.ugb-baa7616 .ugb-heading__bottom-line{background-color:#ff0000 !important;width:165px !important;margin-left:auto !important;margin-right:auto !important}.ugb-baa7616 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## What To Do Before A U.S Vacation: 3 Top Picks
 
-<div class="ugb-heading__bottom-line">
+
 
 
 

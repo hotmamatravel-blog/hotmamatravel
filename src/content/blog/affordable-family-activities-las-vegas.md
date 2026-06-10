@@ -27,11 +27,11 @@ In this article, we highlight some our favorite affordable family activities in 
 
 - See this post as a Google Web Story: [Cheap Things to do in Las Vegas with Kids](/web-stories/cheap-activities-las-vegas/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-f1abc08 ugb-main-block"><style>.ugb-f1abc08 .ugb-heading__title{text-align:center}.ugb-f1abc08 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-f1abc08 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Affordable Family Activities Las Vegas
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="eiffel-tower-paris-las-vegas"><figure><a href="/images/Las-Vegas-Eiffel-Tower.jpg"><img src="/images/Las-Vegas-Eiffel-Tower.jpg" alt="Eiffel tower paris hotel las vegas" /></a></figure></div>
 

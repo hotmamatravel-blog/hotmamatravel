@@ -15,11 +15,11 @@ author: "Amanda Keeley-Thurman"
 
 Anaheim, California, is not just the land of Mickey Mouse and theme parks; it's also a hub for craft beer enthusiasts. Nestled amidst the palm trees and sun-kissed streets, this vibrant city boasts a thriving craft beer scene that's perfect for spending quality time with friends and family. Whether you're a local looking for your next hangout spot or a visitor seeking a taste of the local brews, Anaheim's best breweries have something for everyone. Join us as we explore the top breweries where you can unwind, savor unique flavors, and create lasting memories with your loved ones. From hoppy IPAs to rich stouts, Anaheim's breweries offer a spectrum of flavors and experiences to suit all tastes.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-0bed581 ugb-main-block"><style>.ugb-0bed581 .ugb-heading__title{text-align:center}.ugb-0bed581 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-0bed581 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Best Breweries in Anaheim
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image aligncenter uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-center" id="brewery-x-best-breweries-in-anaheim"><figure><a href="/images/brewery-x-best-breweries-in-anaheim.jpg"><img src="/images/brewery-x-best-breweries-in-anaheim.jpg" alt="brewery x is one of the best breweries in Anaheim" /></a><figcaption class="uagb-image-caption">Courtesy of Brewery X Anaheim</figcaption></figure></div>
 

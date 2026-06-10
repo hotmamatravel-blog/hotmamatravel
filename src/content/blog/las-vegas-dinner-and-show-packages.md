@@ -16,11 +16,11 @@ Las Vegas is a destination that offers endless opportunities for entertainment a
 
 So whether you're looking for a [**thrilling adventure**](/kid-friendly-day-trips-las-vegas/) or a night of relaxation and good food, Las Vegas has something to offer. Book your [**Vegas hotel**](/best-family-hotels-in-las-vegas/) and get ready to enjoy the best in dining and entertainment with your family in the Entertainment Capital of the World!
 
-<div class="wp-block-ugb-heading ugb-heading ugb-fc8fd7d ugb-main-block"><style>.ugb-fc8fd7d .ugb-heading__title{text-align:center}.ugb-fc8fd7d .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-fc8fd7d .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Las Vegas Dinner and Show Packages
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure id="marriage-can-be-murder-las-vegas-dinner-show-packages"><a href="/images/marriage-can-be-murder-las-vegas-dinner-show-packages.jpg"><img src="/images/marriage-can-be-murder-las-vegas-dinner-show-packages.jpg" alt="Marriage Can Be Murder Las Vegas Dinner and Show Packages" /></a><figcaption class="wp-element-caption">Courtesy of Vegas.com</figcaption></figure>
 
@@ -157,11 +157,11 @@ The atmosphere at the All Motown Dinner and Show Package is electric, with audie
 
 [**See photos, reviews &amp; more**](/go/all-motown-dinner-show-las-vegas/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-cbdf8ce ugb-main-block"><style>.ugb-cbdf8ce .ugb-heading__title{text-align:center}.ugb-cbdf8ce .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-cbdf8ce .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 Las Vegas dinner and show package is a perfect way to enjoy the city's vibrant nightlife with your family. From exciting [**dining experiences**](/best-family-restaurants-in-las-vegas/) to spectacular performances, there's something for everyone to enjoy. With so many options available, it's easy to find the perfect package to suit your needs and budget. So book your next Las Vegas trip today and experience the magic of this vibrant city for yourself!
 

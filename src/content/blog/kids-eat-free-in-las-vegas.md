@@ -12,11 +12,7 @@ author: "Amanda Keeley-Thurman"
 
 If you’re planning a trip to [Las Vegas with your kiddos](/las-vegas-with-kids/), you’re in for a treat. Literally! One of the best parts of family travel is discovering where to enjoy a delicious meal without breaking the bank. And what’s better than a free meal for your little ones? While you're exploring the city, don’t forget to check out the [best family restaurants in Las Vegas](/best-family-restaurants-in-las-vegas/), [restaurants with live music](/kid-friendly-live-music-las-vegas/), and even some [celebrity restaurants](/celebrity-chef-restaurants-las-vegas/). Here’s your ultimate guide to places where kids eat free in Las Vegas.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-202325d ugb-main-block"><style>.ugb-202325d .ugb-heading__title{text-align:center}.ugb-202325d .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-202325d .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Kids Eat Free In Las Vegas
-
-<div class="ugb-heading__bottom-line">
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure></figure></div>
 

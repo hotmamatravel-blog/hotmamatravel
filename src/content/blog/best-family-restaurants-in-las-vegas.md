@@ -15,11 +15,11 @@ author: "Amanda Keeley-Thurman"
 
 Ready to embark on a culinary adventure in the heart of Vegas? Say hello to my guide on the Best Family Restaurants in Las Vegas, where every bite is a delight for all ages! From kid-approved menus to vibrant atmospheres and [**live music**](/kid-friendly-live-music-las-vegas/) that spell family fun to exciting **[celebrity-owned restaurants](/celebrity-chef-restaurants-las-vegas/),** I've scoured the city to bring you the absolute best spots. Whether you're craving mouthwatering burgers, savory pizzas, or delightful international cuisine, we've got it all. So, buckle up for a taste bud journey and get ready to explore the culinary wonders Vegas has to offer for you and your little VIPs. Let's make every meal a memory in this city of lights and flavors!
 
-<div class="wp-block-ugb-heading ugb-heading ugb-8e0ffef ugb-main-block"><style>.ugb-8e0ffef .ugb-heading__title{text-align:center}.ugb-8e0ffef .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-8e0ffef .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Best Family Restaurants In Las Vegas
 
-<div class="ugb-heading__bottom-line">
+
 
 ### [Family-Friendly Restaurants NYNY](/go/nyny-hotel-las-vegas/)
 
@@ -236,11 +236,11 @@ From classic cheeseburgers to inventive creations like the Greg Norman Burger to
 
 **[See Photos, Reviews, &amp; More](/go/excalibur-hotel-las-vegas/)**
 
-<div class="wp-block-ugb-heading ugb-heading ugb-add1e28 ugb-main-block"><style>.ugb-add1e28 .ugb-heading__title{text-align:center}.ugb-add1e28 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-add1e28 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Kid-Friendly Vegas Restaurants Near The Strip
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-e75a11e5 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/casa-di-amore-family-restaurants-las-vegas.jpg"><img src="/images/casa-di-amore-family-restaurants-las-vegas.jpg" alt="casa di amore family restaurant in las vegas" /></a></figure></div>
 

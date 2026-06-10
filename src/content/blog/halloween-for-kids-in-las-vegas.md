@@ -17,11 +17,11 @@ If you're looking for some Halloween thrills and chills in the world's entertain
 
 Las Vegas has a ton of awesome history, and with history comes ghost stories. Complete your spooky adventure with a [**stay at one of Las Vegas's many haunted hotels**](/haunted-hotels-in-las-vegas/). Don't worry, they are family-friendly too!
 
-<div class="wp-block-ugb-heading ugb-heading ugb-f210383 ugb-main-block"><style>.ugb-f210383 .ugb-heading__title{text-align:center}.ugb-f210383 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-f210383 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Spooky Year-Round Las Vegas Attractions
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/zak-bagans-haunted-museum-church.jpg"><img src="/images/zak-bagans-haunted-museum-church.jpg" alt="Zak Bagans Haunted Museum in Las Vegas" /></a></figure></div>
 
@@ -157,11 +157,11 @@ During these guided tours, you'll hear chilling stories that bring the city's da
 
 **[See Photos, Reviews, &amp; More](/go/las-vegas-ghost-tour/)**
 
-<div class="wp-block-ugb-heading ugb-heading ugb-9ffae5c ugb-main-block"><style>.ugb-9ffae5c .ugb-heading__title{text-align:center}.ugb-9ffae5c .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-9ffae5c .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Events During Halloween For Kids in Las Vegas
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-3591c9ae wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="sistahs-hocus-pocus-parody-las-vegas"><figure><a href="/images/sistahs-hocus-pocus-parody-las-vegas.jpg"><img src="/images/sistahs-hocus-pocus-parody-las-vegas.jpg" alt="Sistahs! Hocus Pocus Parody Las Vegas" /></a><figcaption class="uagb-image-caption">Courtesy of Vegas.com</figcaption></figure></div>
 

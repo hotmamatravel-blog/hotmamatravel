@@ -17,11 +17,11 @@ Ventura, kissed by the Pacific breeze, unveils a craft beer scene that goes beyo
 
 In this exploration of the best breweries in Ventura, we delve into more than just the exceptional brews—they are gateways to laughter-filled family moments, pet-friendly havens, and stages for live music that resonates in the soul. From hop-forward IPAs to corners where furry friends find joy, these breweries embody the essence of Ventura's dynamic and inviting craft culture. Sip with us as we uncover the perfect blend of craft, camaraderie, and the coastal spirit that defines the best breweries in Ventura.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-2eb0404 ugb-main-block"><style>.ugb-2eb0404 .ugb-heading__title{text-align:center}.ugb-2eb0404 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-2eb0404 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Best Breweries in Ventura
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="topa-topa-brewing-company-best-breweries-in-ventura"><figure><a href="/images/topa-topa-brewing-company-best-breweries-in-ventura.jpg"><img src="/images/topa-topa-brewing-company-best-breweries-in-ventura.jpg" alt="Topa Topa Brewing Company in Ventura" /></a></figure></div>
 

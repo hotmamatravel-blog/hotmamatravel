@@ -13,11 +13,11 @@ author: "Amanda Keeley-Thurman"
 ---
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-e117a62 ugb-main-block"><style>.ugb-e117a62 .ugb-heading__title{text-align:center}.ugb-e117a62 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-e117a62 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Want more from [HotMama](/about/)?
 
-<div class="ugb-heading__bottom-line">
+
 
 Here are a list of guest posts, features, interviews, speaking engagements, and more!
 

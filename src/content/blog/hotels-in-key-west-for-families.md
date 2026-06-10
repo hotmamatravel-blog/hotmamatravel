@@ -128,11 +128,11 @@ The hotel also offers several dining options, including Sunset Pier, which serve
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-f3cd0bd ugb-main-block"><style>.ugb-f3cd0bd .ugb-heading__title{text-align:center}.ugb-f3cd0bd .ugb-heading__bottom-line{background-color:#f90808 !important;width:157px !important;margin-left:auto !important;margin-right:auto !important}.ugb-f3cd0bd .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Florida Keys Family Resorts
 
-<div class="ugb-heading__bottom-line">
+
 
 
 <figure id="hawks-cay-resort-florida-keys-kid-friendly-resorts"><a href="/images/hawks-cay-resort-florida-keys-kid-friendly-resorts.jpg"><img src="/images/hawks-cay-resort-florida-keys-kid-friendly-resorts.jpg" alt="" /></a></figure>
@@ -264,11 +264,11 @@ Finally, the resort's central location in the Florida Keys makes it an ideal bas
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 Hope you enjoyed taking a look at these awesome kid-friendly hotels in Key West and other cool Florida Keys kid-friendly resorts. Here at HotMamaTravel, we want you to have all the information you need to plan the best Key West family vacation and that starts with a knowing the best hotels in Key West for families.
 

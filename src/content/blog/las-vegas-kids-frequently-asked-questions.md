@@ -27,11 +27,11 @@ Take a look around and who knows, *maybe you'll see a question you didn't even t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aO4Cz1Yh68c?si=3s_3ggHguxqG915H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-3ffa9b3 ugb-main-block"><style>.ugb-3ffa9b3 .ugb-heading__title{text-align:center}.ugb-3ffa9b3 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-3ffa9b3 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Las Vegas Kids Frequently Asked Questions
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure><a href="/images/Best-Guide-Las-Vegas-with-Kids.jpg"><img src="/images/Best-Guide-Las-Vegas-with-Kids.jpg" alt="Best Guide to Visiting Las Vegas with Kids
 Las Vegas kids frequently asked questions" /></a></figure>

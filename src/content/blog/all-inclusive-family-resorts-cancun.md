@@ -254,11 +254,11 @@ Next to the main pool is the kid's pool, which is designed lagoon-style, so that
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-ba40084 ugb-main-block"><style>.ugb-ba40084 .ugb-heading__title{text-align:center}.ugb-ba40084 .ugb-heading__bottom-line{background-color:#cf2e2e !important;width:127px !important;margin-left:auto !important;margin-right:auto !important}.ugb-ba40084 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 Cancun offers a plethora of all-inclusive resorts that cater to families looking for a fun and relaxing vacation. Royal Uno Resort, Hard Rock Cancun, Iberostar Selection Cancun, Finest Playa Mujeres, Occidental Tucancun, and Occidental Costa Cancun are all great options that offer a range of amenities and activities suitable for families.
 

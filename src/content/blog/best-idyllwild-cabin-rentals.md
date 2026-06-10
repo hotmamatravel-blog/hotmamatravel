@@ -19,11 +19,11 @@ Whether you're dreaming of rustic cabins, charming cottages, or mountain retreat
 
 And guess what? We're not just talking about any accommodation; we're diving into the best Idyllwild cabin rentals that promise a dose of wilderness with a side of comfort. So, pack your sense of adventure and let's unravel the magic of family-friendly stays in this mountain paradise!
 
-<div class="wp-block-ugb-heading ugb-heading ugb-4dfce77 ugb-main-block"><style>.ugb-4dfce77 .ugb-heading__title{text-align:center}.ugb-4dfce77 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-4dfce77 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Awesome Family Idyllwild Cabin Rentals
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Fireside-idyllwild-places-to-stay"><figure><a href="/images/Fireside-idyllwild-places-to-stay.jpg"><img src="/images/Fireside-idyllwild-places-to-stay.jpg" alt="Fireside Inn Idyllwild Cabin Rentals" /></a><figcaption class="uagb-image-caption">Courtesy of Fireside Inn</figcaption></figure></div>
 

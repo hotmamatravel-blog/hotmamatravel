@@ -101,11 +101,11 @@ travel destination on&nbsp;[natvisa.com](http://natvisa.com/)
 
 <div class="rank-math-answer">The Destin family hotels that have awesome family pools are [The Henderson](#henderson-resort), [The Palms of Destin Resort](#palms-destin-resort)and [Emerald Grande](#emerald-grande-harborwalk-village). However, [Embassy Suites by Hilton Destin](#embassy-suites-hilton-destin) and [Spark by Hilton Destin](#best-western-sugar-sands) also have pools. </div>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-d78ca82 ugb-main-block"><style>.ugb-d78ca82 .ugb-heading__title{text-align:center}.ugb-d78ca82 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-d78ca82 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Top Family Hotels in Destin
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-6f562eb5 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/destin-kid-friendly-hotel-henderson-lazy-river.jpg"><img src="/images/destin-kid-friendly-hotel-henderson-lazy-river.jpg" alt="family friendly pool at the Henderson Resort in Destin Fl" /></a></figure></div>
 

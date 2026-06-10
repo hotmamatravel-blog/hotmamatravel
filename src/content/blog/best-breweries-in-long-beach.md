@@ -15,11 +15,11 @@ author: "Amanda Keeley-Thurman"
 
 Long Beach, California, is not only known for its stunning coastline and vibrant community but also for its flourishing craft beer scene. Whether you're a beer enthusiast, a family looking for a weekend outing, or someone searching for a pet-friendly spot, Long Beach has a variety of breweries that cater to everyone. Here, we've curated a detailed list of the best Long Beach breweries that are family-friendly with live music, events, and delicious offerings that make them must-visit destinations.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-31045dd ugb-main-block"><style>.ugb-31045dd .ugb-heading__title{text-align:center}.ugb-31045dd .ugb-heading__bottom-line{background-color:#f10e0e !important;margin-left:auto !important;margin-right:auto !important}.ugb-31045dd .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Family-Friendly Breweries in Long Beach
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="long-beach-beer-lab-best-breweries-in-long-beach"><figure><a href="/images/long-beach-beer-lab-best-breweries-in-long-beach.jpg"><img src="/images/long-beach-beer-lab-best-breweries-in-long-beach.jpg" alt="Family-Friendly Long Beach Beer Labs Brewery Long Beach " /></a><figcaption class="uagb-image-caption">Courtesy of Long Beach Beer Lab</figcaption></figure></div>
 

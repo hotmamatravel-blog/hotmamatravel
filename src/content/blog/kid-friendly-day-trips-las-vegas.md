@@ -32,11 +32,11 @@ See this article as a web story, [Las Vegas Day Trips](/web-stories/las-vegas-da
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<div class="wp-block-ugb-heading ugb-heading ugb-2c41d4a ugb-main-block"><style>.ugb-2c41d4a .ugb-heading__title{text-align:center}.ugb-2c41d4a .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-2c41d4a .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Family Day Trips From Las Vegas
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure id="beautiful-grand-canyon-south-rim-scenic"><a href="/images/beautiful-grand-canyon-south-rim-scenic.jpg"><img src="/images/beautiful-grand-canyon-south-rim-scenic.jpg" alt="Stunning view from Grand Canyon South Rim" /></a></figure>
 
@@ -254,11 +254,11 @@ Kids will love the delicious Western-style breakfast or dinner at a ranch, then 
 
 **[Check for Deals on Vegas.com with their Best Price Guarantee](/go/wild-west-horseback-adventure/)**
 
-<div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 As I said in the intro, there are so many [**fun activities in Las Vegas**](/affordable-family-activities-las-vegas/) that it is easy to forget that Vegas is situated in a very unique desert ecosystem with insane natural beauty. Luckily, there are a host of tour companies that have designed thrilling, kid-friendly day tour itineraries from Vegas to learn about and experience the wonderful areas surrounding Las Vegas.
 

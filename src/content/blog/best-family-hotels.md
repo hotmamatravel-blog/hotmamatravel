@@ -14,11 +14,7 @@ author: "Amanda Keeley-Thurman"
 
 This is your guide to the best family hotels around the world! Here is a curated selection of hotels featuring family-friendly amenities, complimentary breakfasts, convenient locations, and much more. These hotels are your home away from home, ensuring every stay is a memorable chapter in your family's travel tale. No matter where you and your family is going, I have your back!
 
-<div class="wp-block-ugb-heading ugb-heading ugb-3f3cd66 ugb-main-block"><style>.ugb-3f3cd66 .ugb-heading__title{text-align:center}.ugb-3f3cd66 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-3f3cd66 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Best Family Hotels In United States
-
-<div class="ugb-heading__bottom-line">
 
 ### Arizona
 
@@ -100,37 +96,21 @@ This is your guide to the best family hotels around the world! Here is a curated
 
 - [5 Reasons Best Western® Hotels &amp; Resorts is our “go-to” hotel chain for family travel](/best-western-family-travel/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-944442b ugb-main-block"><style>.ugb-944442b .ugb-heading__title{text-align:center}.ugb-944442b .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-944442b .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Best Family Hotel In Canada
-
-<div class="ugb-heading__bottom-line">
 
 - [5 Best Family Hotels in Vancouver, BC with kids 2023](/best-family-hotels-vancouver-bc/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-079ebb3 ugb-main-block"><style>.ugb-079ebb3 .ugb-heading__title{text-align:center}.ugb-079ebb3 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-079ebb3 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Best Family Hotels In Europe
-
-<div class="ugb-heading__bottom-line">
 
 - [The Best Kid-friendly Hotels in Malta](/best-kid-friendly-hotels-in-malta/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-361951c ugb-main-block"><style>.ugb-361951c .ugb-heading__title{text-align:center}.ugb-361951c .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-361951c .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Best Family Hotels In Mexico
-
-<div class="ugb-heading__bottom-line">
 
 - [Best All-Inclusive Family Resorts Cancun You Have to See 2023](/all-inclusive-family-resorts-cancun/)
 
 - [8 Awesome Cabo San Lucas All-inclusive Family Resorts](/best-cabo-san-lucas-all-inclusive-family-resorts/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-a0c8c08 ugb-main-block"><style>.ugb-a0c8c08 .ugb-heading__title{text-align:center}.ugb-a0c8c08 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-a0c8c08 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Best Family-Friendly Haunted Hotels
-
-<div class="ugb-heading__bottom-line">
 
 - [Most Family-Friendly Haunted Hotels in Savannah](/haunted-hotels-savannah/)
 

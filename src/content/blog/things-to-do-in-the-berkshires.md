@@ -160,11 +160,11 @@ There are several hiking trails that wind through the surrounding woods and offe
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-8eef365 ugb-main-block"><style>.ugb-8eef365 .ugb-heading__title{text-align:center}.ugb-8eef365 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-8eef365 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 The Berkshires is a beautiful area of Massachusetts that makes for the perfect family getaway anytime of year. In addition to gorgeous nature to explore and enjoy, there is a plenty of art, culture and history to be experienced. So what are you waiting for?
 

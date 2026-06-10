@@ -27,11 +27,11 @@ So follow me and discover some of our favorite kid-friendly activities in Idyllw
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<div class="wp-block-ugb-heading ugb-heading ugb-f7e6d45 ugb-main-block"><style>.ugb-f7e6d45 .ugb-heading__title{text-align:center}.ugb-f7e6d45 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-f7e6d45 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## 6 Reasons you will fall in LOVE with Idyllwild
 
-<div class="ugb-heading__bottom-line">
+
 
 - It is a cute mountain town with fresh air that smells like Christmas all year-round (think pine trees and fireplaces)
 
@@ -51,11 +51,11 @@ So follow me and discover some of our favorite kid-friendly activities in Idyllw
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-iTWWKrAvc?si=-gk-62-ga-KyJM0g&amp;start=853" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-c947647 ugb-main-block"><style>.ugb-c947647 .ugb-heading__title{text-align:center}.ugb-c947647 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-c947647 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Leisure Things To Do In Idyllwild With Kids
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure id="shopping-things-to-do-in-idyllwild-ca"><a href="/images/shopping-things-to-do-in-idyllwild-ca-1.jpg"><img src="/images/shopping-things-to-do-in-idyllwild-ca-1.jpg" alt="Shopping in Idyllwild" /></a></figure>
 
@@ -157,11 +157,11 @@ Taking the **[Palm Springs Aerial Tramway](/go/palm-springs-aerial-tramway-palm-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fz8bYEglAK4?si=zTmEgtp-Z6nqSBg9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-045e8d6 ugb-main-block"><style>.ugb-045e8d6 .ugb-heading__title{text-align:center}.ugb-045e8d6 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-045e8d6 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Nature Activities In Idyllwild
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure id="easy-hikes-in-idyllwild-things-to-do-in-idyllwild"><a href="/images/easy-hikes-in-idyllwild-things-to-do-in-idyllwild.jpg"><img src="/images/easy-hikes-in-idyllwild-things-to-do-in-idyllwild.jpg" alt="kid-friendly hikes in Idyllwild" /></a></figure>
 
@@ -199,11 +199,11 @@ Immerse yourself in the serenity of Idyllwild with our outdoor yoga classes that
 
 Whether you're a seasoned yogi or a first-timer, these classes cater to all levels, ensuring everyone can find their zen in the mountain breeze. It's not just about striking the perfect pose; it's about finding balance, peace, and a deep connection with the natural beauty that surrounds you. There are several cool studios that offer outdoor class so just try a few to see what fits your vibe.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-cb75c05 ugb-main-block"><style>.ugb-cb75c05 .ugb-heading__title{text-align:center}.ugb-cb75c05 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-cb75c05 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Artsy Things To Do In Idyllwild
 
-<div class="ugb-heading__bottom-line">
+
 
 ### Jazz in the Pines
 
@@ -235,11 +235,11 @@ Idyllwild's art scene isn't just for connoisseurs; it's an immersive experience 
 
 **[See Photos, Reviews, &amp; More](/go/art-galleries-idyllwild/)**
 
-<div class="wp-block-ugb-heading ugb-heading ugb-b9d7162 ugb-main-block"><style>.ugb-b9d7162 .ugb-heading__title{text-align:center}.ugb-b9d7162 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-b9d7162 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Idyllwild Family Travel Videos
 
-<div class="ugb-heading__bottom-line">
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-iTWWKrAvc?si=88RguoPdQ3k1Si1T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

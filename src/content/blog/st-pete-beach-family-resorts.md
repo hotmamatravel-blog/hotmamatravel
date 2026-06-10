@@ -18,11 +18,11 @@ But before you go, you will need a place to stay. In this blog post, we'll explo
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<div class="wp-block-ugb-heading ugb-heading ugb-676b818 ugb-main-block"><style>.ugb-676b818 .ugb-heading__title{text-align:center}.ugb-676b818 .ugb-heading__bottom-line{background-color:#f10000 !important;height:6px !important;width:168px !important;margin-left:auto !important;margin-right:auto !important}.ugb-676b818 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## St. Pete Beach Kid-Friendly Hotels
 
-<div class="ugb-heading__bottom-line">
+
 
 
 <figure id="tradewinds-island-grand-st-pete-beach-family-resorts"><a href="/images/tradewinds-island-grand-st-pete-beach-family-resorts.jpg"><img src="/images/tradewinds-island-grand-st-pete-beach-family-resorts.jpg" alt="" /></a></figure>
@@ -154,11 +154,11 @@ The resort's on-site restaurant, the Belleview Bistro, serves up delicious Ameri
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-bc9f96f ugb-main-block"><style>.ugb-bc9f96f .ugb-heading__title{text-align:center}.ugb-bc9f96f .ugb-heading__bottom-line{background-color:#f41212 !important;height:5px !important;width:122px !important;margin-left:auto !important;margin-right:auto !important}.ugb-bc9f96f .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 St. Pete Beach offers a variety of family-friendly resorts that are perfect for a memorable beach vacation. Your family will love the selections of luxurious beachfront properties with kid-friendly amenities, restaurants, entertainment. St. Pete Beach's white sand beaches, clear blue waters, and abundance of activities make it a top destination for families seeking fun in the sun.  Whether you're looking to relax and unwind or embark on an adventure-packed trip, St. Pete Beach's family resorts are sure to make your stay unforgettable.
 

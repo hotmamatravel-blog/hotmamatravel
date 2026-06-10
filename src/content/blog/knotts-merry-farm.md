@@ -21,11 +21,11 @@ As Knott’s Annual Pass Holders, we come back year after year to soak up every 
 
 This article will give you all the tips and insider advice to make the most out of your merriment at Knott’s Merry Farm 2025, from festive shows and treats to the best spots for that perfect family photo under the twinkling lights.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-8aa06b4 ugb-main-block"><style>.ugb-8aa06b4 .ugb-heading__title{text-align:center}.ugb-8aa06b4 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-8aa06b4 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Things To Do At Knott's Merry Farm
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-4297de9c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Christmas-Craft-Village-Knotts-Merry-Farm-1.jpg"><img src="/images/Christmas-Craft-Village-Knotts-Merry-Farm-1.jpg" alt="Knott" /></a></figure></div>
 
@@ -75,11 +75,11 @@ By day, it’s cheerful and festive, and by night, it’s pure magic. The glow o
 
 From the thrill rides to the kiddie rides, every inch of Knott’s feels *wrapped and ready* for the holidays. It’s not just an amusement park anymore, it’s a full-on winter celebration, SoCal-style.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-6ad91b8 ugb-main-block"><style>.ugb-6ad91b8 .ugb-heading__title{color:#0f0e17;text-align:center}.ugb-6ad91b8 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-6ad91b8 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Knotts Merry Farm Videos
 
-<div class="ugb-heading__bottom-line">
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6lMuGGxtx80?si=GPiooo4MnlDqnH0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -87,11 +87,11 @@ From the thrill rides to the kiddie rides, every inch of Knott’s feels *wrappe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YPV1vV1xr30?si=hdHamOmb0Atdg7sX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-59a3ce6 ugb-main-block"><style>.ugb-59a3ce6 .ugb-heading__title{text-align:center}.ugb-59a3ce6 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-59a3ce6 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Knotts Merry Farm Holiday Drinks &amp; Eats
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure><a href="/images/Mrs.-Claus-Kitchen-Knotts-Merry-Farm.jpg"><img src="/images/Mrs.-Claus-Kitchen-Knotts-Merry-Farm.jpg" alt="Mrs. Claus Kitchen Knott" /></a></figure>
 

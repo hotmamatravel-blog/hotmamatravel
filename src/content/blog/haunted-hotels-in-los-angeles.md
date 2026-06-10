@@ -141,11 +141,11 @@ In addition to its haunted history and luxurious amenities, the Hollywood Hills 
 
 [**See photos, reviews &amp; more**](/go/hollywood-hills-hotel-los-angeles/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-7601644 ugb-main-block"><style>.ugb-7601644 .ugb-heading__title{text-align:center}.ugb-7601644 .ugb-heading__bottom-line{background-color:#cf2e2e !important;height:5px !important;width:126px !important;margin-left:auto !important;margin-right:auto !important}.ugb-7601644 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 These hotels might be haunted, but don’t worry, they’re spooky *and* totally family-friendly. Whether you’re chasing chills at one of my favorite **[Haunted Hotels in California](/haunted-hotel-in-california/)**, glamping under the stars at one of these [**LA Glamping Sites**](/glamping-los-angeles/), or cozying up at [**Family Hotels near LAX**](/best-family-hotels-near-lax/), you’ll find plenty of thrills (and comfort) for your crew.
 

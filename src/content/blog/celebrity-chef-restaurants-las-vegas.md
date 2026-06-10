@@ -15,11 +15,11 @@ author: "Amanda Keeley-Thurman"
 
 Las Vegas is known for its glitz and glamour, [**amazing hotels**](/best-family-hotels-in-las-vegas/), world-class entertainment, and an incredible dining scene just on [**The Strip**](/walking-las-vegas-strip/) alone. The city is home to some of the world's best celebrity-owned restaurants, offering a unique dining experience and a chance to spot a celebrity. Here are some of the best celebrity chef restaurants in Las Vegas.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-fd1ebb6 ugb-main-block"><style>.ugb-fd1ebb6 .ugb-heading__title{text-align:center}.ugb-fd1ebb6 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-fd1ebb6 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Celebrity Chef Restaurants Las Vegas
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure id="gordon-ramsay-steak-celebrity-chef-restaurant-las-vegas"><a href="/images/gordon-ramsay-steak-celebrity-chef-restaurant-las-vegas.jpg"><img src="/images/gordon-ramsay-steak-celebrity-chef-restaurant-las-vegas.jpg" alt="Las Vegas Celebrity Restaurants Gordon Ramsay Steak at Paris Las Vegas" /></a><figcaption class="wp-element-caption">Courtesy of Gordon Ramsay Steak</figcaption></figure>
 
@@ -265,11 +265,11 @@ The dining room at Delmonico Steakhouse is warm and welcoming, with a classic an
 
 [**See photos, reviews &amp; more**](/go/delmonico-steakhouse-las-vegas/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-b53c406 ugb-main-block"><style>.ugb-b53c406 .ugb-heading__title{text-align:center}.ugb-b53c406 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-b53c406 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 Las Vegas is a city that offers a wide range of dining experiences, including [**restaurants with live music**](/kid-friendly-live-music-las-vegas/) as well as an impressive selection of celebrity chef restaurants and celebrity-owned. These restaurants, which are helmed by some of the most talented and celebrated chefs in the world, offer a range of cuisines, from Italian and steakhouse to Asian and French, and are known for their innovative menus, beautiful design, and top-notch service.
 

@@ -18,11 +18,7 @@ When you make fitness a family activity, not only do you bond and strengthen you
 
 This might sound like a lot of time to take out from your routine, but once you get the hang of involving your kids in your chores, you will see that it is far easier to spend time together and exercise on the side, ensuring that you and your family are in the best shape for your travel adventures.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-15d912b ugb-main-block"><style>.ugb-15d912b .ugb-heading__title{text-align:center}.ugb-15d912b .ugb-heading__bottom-line{background-color:#f30202 !important;margin-left:auto !important;margin-right:auto !important}.ugb-15d912b .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Why Explore Fitness As A Family?
-
-<div class="ugb-heading__bottom-line">
 
 [Physical activity](https://www.urmc.rochester.edu/encyclopedia/content.aspx?contenttypeid=1&amp;contentid=4803) becomes more sustainable and effective when it is fun, and what can be more fun than involving your children in your daily workouts? Regardless of age, fitness and well being play a very important role in maintaining overall health and happiness. Other than the fun aspect of it, exploring fitness as a family will also promote bonding and mutual cooperation among family members, which is seldom seen in today’s busy world.
 
@@ -44,11 +40,7 @@ When everyone wants to be engaged and take part in this special family time acti
 
 Working moms have a plethora of responsibilities, and they often miss out on family fun times because of this. Exercising as a family will also bring members closer to each other and strengthen their familial bond. Bonding can take many forms, for instance, volunteering at your kid’s football fame or teaching a new activity to your kids or even performing some [at-home bodyweight workouts](https://barbend.com/best-at-home-bodyweight-workouts/) together. These are all great ways to spend time with your family and create cherished memories which will stay with your kids long after they have grown up.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-c91c0b1 ugb-main-block"><style>.ugb-c91c0b1 .ugb-heading__title{text-align:center}.ugb-c91c0b1 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-c91c0b1 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## How To Start A Family Fitness Routine?
-
-<div class="ugb-heading__bottom-line">
 
 If you are serious about exercising as a family, the first thing to decide is the outcome of your activity. Are you trying to remain healthy, lose weight, spend more time with your kids, or just maintain your overall well-being? You will have to set some time every week for the entire family to engage in a certain activity, and schedule all your other tasks accordingly so that there is no clash. To make sure that you stick to engaging in the activity, make a dedicated routine and stick it somewhere around the house where everyone would be able to see it, so they will subconsciously be reminded of the importance of the activity every time they glance at it. Wearable technology like Fitbit might also be a good idea for keeping track of fitness goals and progress. You can even maintain the [fitness routine while traveling](/staying-fit-on-the-road/).
 

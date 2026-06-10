@@ -16,11 +16,11 @@ Planning a Florida family vacation and trying to decide between St. Pete and Cle
 
 As a family, we go visit Florida every year and love this area off the Gulf Coast. So, let’s compare St. Pete vs Clearwater Beach to see what makes them unique, and which one is a better fit for your family.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-eb9e3ed ugb-main-block"><style>.ugb-eb9e3ed .ugb-heading__title{text-align:center}.ugb-eb9e3ed .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-eb9e3ed .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## What Clearwater Beach Offers Families
 
-<div class="ugb-heading__bottom-line">
+
 
 If your dream family getaway involves staying right on a bustling beach with tons of activities at your fingertips, Clearwater Beach might be your jam. Clearwater Beach, Florida, is a dreamy family destination that has everything you need for the ultimate beach vacation with kids. Think soft, sugar-white sand, calm turquoise waters, and endless sunshine, basically a kid-friendly paradise!
 
@@ -52,11 +52,11 @@ The best part? Everything is walkable! Clearwater Beach’s laid-back vibe and s
 
 Clearwater Beach is lively, family-friendly, and full of action. This is a busier beach, making it very popular for teens. If you like to stay where the fun is, or you have teenagers, this is your spot!
 
-<div class="wp-block-ugb-heading ugb-heading ugb-7b95f14 ugb-main-block"><style>.ugb-7b95f14 .ugb-heading__title{text-align:center}.ugb-7b95f14 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-7b95f14 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## What St. Pete Beach Offers Families
 
-<div class="ugb-heading__bottom-line">
+
 
 St. Pete offers a more laid-back, artsy vibe that’s perfect for families who want a mix of beach time and cultural experiences. I'll be honest, we love **[visiting St. Pete Beach](/st-pete-beach-with-kids/)**, and we visit every year.
 

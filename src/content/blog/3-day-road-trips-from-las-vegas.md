@@ -37,11 +37,11 @@ In this article, I provide 3 road trip itineraries which all start (and end) in 
 
 View this post as a Google Web Story, here: [**Las Vegas Road Trips**](/web-stories/las-vegas-road-trips/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-08dabe5 ugb-main-block"><style>.ugb-08dabe5 .ugb-heading__title{text-align:center}.ugb-08dabe5 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-08dabe5 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Road Trips From Las Vegas
 
-<div class="ugb-heading__bottom-line">
+
 
 **Here are the 3 road trip itineraries in this article.** You can click a title to jump ahead.
 
@@ -60,7 +60,7 @@ View this post as a Google Web Story, here: [**Las Vegas Road Trips**](/web-stor
 
 ## Road Trip Option #1 - Oatman &amp; Topock
 
-<div class="ugb-heading__bottom-line">
+
 
 ### Day 1: Morning Drive from Las Vegas to [Oatman, AZ](/go/oatman-arizona/)
 
@@ -106,7 +106,7 @@ On your scenic drive back to Las Vegas in time for [**dinner and a show**](/las-
 
 ## Road Trip Option #2: Zion National Park, UT
 
-<div class="ugb-heading__bottom-line">
+
 
 ### Day 1: Morning drive from Vegas to[St. George, Utah](/go/st-george-utah/)
 
@@ -144,7 +144,7 @@ On the way back to Vegas, you may want to stop for lunch in Mesquite, Nevada. It
 
 ## Road Trip Option #3: Williams - Grand Canyon
 
-<div class="ugb-heading__bottom-line">
+
 
 ### Day 1: Morning drive along Historic Route 66 to[Williams, AZ](/go/williams-arizona/)
 

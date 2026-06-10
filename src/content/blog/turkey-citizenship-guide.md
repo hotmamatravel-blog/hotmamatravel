@@ -18,11 +18,11 @@ Turkey is one of the very few countries worldwide that offer the quickest and ea
 
 Let's learn some more about why Turkey is attractive for global citizens as an option for second citizenship and its insights given by the Global Residence Index.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-ad21a25 ugb-main-block"><style>.ugb-ad21a25 .ugb-heading__title{text-align:center}.ugb-ad21a25 .ugb-heading__bottom-line{background-color:#fd0606 !important;margin-left:auto !important;margin-right:auto !important}.ugb-ad21a25 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Requirements for Turkish Citizenship and Residency
 
-<div class="ugb-heading__bottom-line">
+
 
 According to the rules of citizenship of Turkey, anyone who has never been registered for a major crime or violation of the laws of the land of Turkey is eligible for citizenship application. The application is for the individual investor, spouse, and children under 18. Parents or adult children without independent sources of income are eligible for a $5,000 residency permit.
 
@@ -40,11 +40,11 @@ For the people who are not ready to shift permanently to Turkey but want to be r
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-00fc736 ugb-main-block"><style>.ugb-00fc736 .ugb-heading__title{text-align:center}.ugb-00fc736 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-00fc736 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Factors make Turkey attractive to the global citizen
 
-<div class="ugb-heading__bottom-line">
+
 
 The picturesque beauty of Turkey itself is ample enough to attract global citizens to stay here. However, many other factors play a crucial role in making Turkey renounce as an option for a second citizenship.
 
@@ -83,11 +83,11 @@ One of the very few nations, including Turkey, has the E2 visa of the USA. This 
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-7673cc6 ugb-main-block"><style>.ugb-7673cc6 .ugb-heading__title{text-align:center}.ugb-7673cc6 .ugb-heading__bottom-line{background-color:#fc0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-7673cc6 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Opportunities Open for citizens of Turkey
 
-<div class="ugb-heading__bottom-line">
+
 
 Being a permanent citizen or a temporary resident of Turkey, you can enjoy the following opportunities this place offers.
 

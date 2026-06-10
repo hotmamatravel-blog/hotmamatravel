@@ -19,19 +19,19 @@ And let’s be real: Christmas for parents is busy, expensive, and just a little
 
 To get in the spirit, we had the *Polar Express* movie running on a nonstop loop for a week. Meanwhile, my husband was serving full Grinch energy: “I hope I don’t have to drive in the snow.” “Eight hours in the car with the kids?” Blah, blah, blah. Lucky for him, I’m a professional memory-maker. We went, we laughed, we made magic, and yes, we’re absolutely doing it again.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-07a87ad ugb-main-block"><style>.ugb-07a87ad .ugb-heading__title{text-align:center}.ugb-07a87ad .ugb-heading__bottom-line{background-color:#f50707 !important;margin-left:auto !important;margin-right:auto !important}.ugb-07a87ad .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Video of our family on the Polar Express Train with kids:
 
-<div class="ugb-heading__bottom-line">
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gPeyeKJ7KEM?si=MWj9WWZR33gljy83" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-94bdb64 ugb-main-block"><style>.ugb-94bdb64 .ugb-heading__title{text-align:center}.ugb-94bdb64 .ugb-heading__bottom-line{background-color:#df0202 !important;margin-left:auto !important;margin-right:auto !important}.ugb-94bdb64 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Save on the Polar Express in Williams Arizona
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="grand-canyon-railway-hotel-Polar-express-williams-arizona"><figure><a href="/images/grand-canyon-railway-hotel-Polar-express-williams-arizona.jpg"><img src="/images/grand-canyon-railway-hotel-Polar-express-williams-arizona.jpg" alt="Polar Express Package at Grand Canyon Railway Hotel" /></a></figure></div>
 
@@ -51,11 +51,11 @@ Sometimes with bigger groups it is more cost effective to book the room and trai
 
 **[See Photos, Reviews, &amp; More](/go/grand-canyon-railway-hotel-williams-az/)**
 
-<div class="wp-block-ugb-heading ugb-heading ugb-bd4e5df ugb-main-block"><style>.ugb-bd4e5df .ugb-heading__title{text-align:center}.ugb-bd4e5df .ugb-heading__bottom-line{background-color:#f30707 !important;margin-left:auto !important;margin-right:auto !important}.ugb-bd4e5df .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Where to stay near the Polar Express in Williams, AZ
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-3cd3a101 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="christmas-grand-canyon-railway-hotel-williams-arizona"><figure><a href="/images/christmas-grand-canyon-railway-hotel-williams-arizona.jpg"><img src="/images/christmas-grand-canyon-railway-hotel-williams-arizona.jpg" alt="Christmas at the Grand Canyon Railway Hotel for the Polar Express" /></a></figure></div>
 
@@ -103,11 +103,11 @@ We stayed at the Best Western Plus Inn in Williams, Arizona, on a recent trip to
 
 **[See Photos, Reviews, &amp; More](/go/best-western-plus-inn-williams/)**
 
-<div class="wp-block-ugb-heading ugb-heading ugb-3230b3e ugb-main-block"><style>.ugb-3230b3e .ugb-heading__title{text-align:center}.ugb-3230b3e .ugb-heading__bottom-line{background-color:#ff0202 !important;margin-left:auto !important;margin-right:auto !important}.ugb-3230b3e .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## What to expect from the Polar Express Arizona Experience
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-e3daee54 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="polar-express-experience-williams-arizona"><figure><a href="/images/polar-express-experience-williams-arizona.jpg"><img src="/images/polar-express-experience-williams-arizona.jpg" alt="Ride on the Polar Express in Williams Arizona" /></a></figure></div>
 

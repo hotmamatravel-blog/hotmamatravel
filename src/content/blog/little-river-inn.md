@@ -15,11 +15,11 @@ author: "Amanda Keeley-Thurman"
 
 Nestled along the captivating coastline of Mendocino, California, the Little River Inn stands as a hidden gem awaiting discovery by families seeking a picturesque retreat. With its blend of coastal charm, scenic vistas, and warm hospitality, this inn offers an idyllic escape that captures the hearts of young and old alike. From the moment you arrive, the air of relaxation and adventure merges, creating an environment where cherished family memories are born. Whether you're exploring the rugged shoreline, indulging in delectable cuisine, or simply savoring the moments of togetherness, the [**Little River Inn**](/go/little-river-inn-tp/) beckons families to embrace the beauty of Mendocino and craft their own chapter in its storied history.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-cdcad77 ugb-main-block"><style>.ugb-cdcad77 .ugb-heading__title{text-align:center}.ugb-cdcad77 .ugb-heading__bottom-line{background-color:#f80505 !important;margin-left:auto !important;margin-right:auto !important}.ugb-cdcad77 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## The Little River Inn Story
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Little-River-Inn-Family-Home-1853"><figure><a href="/images/Little-River-Inn-Family-Home.jpg"><img src="/images/Little-River-Inn-Family-Home.jpg" alt="Little River Inn Built in 1853" /></a></figure></div>
 
@@ -55,11 +55,11 @@ Abalone was a very popular dish at the Little River Inn, but commercial fishing 
 
 **[See Photos, Reviews, &amp; More](/go/little-river-inn-tp/)**
 
-<div class="wp-block-ugb-heading ugb-heading ugb-b9d219e ugb-main-block"><style>.ugb-b9d219e .ugb-heading__title{text-align:center}.ugb-b9d219e .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-b9d219e .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Why Families Will Love Little River Inn
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-a6b4325d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Little-River-Inn-rooms"><figure><a href="/images/Little-River-Inn-rooms.jpg"><img src="/images/Little-River-Inn-rooms.jpg" alt="Spacious family rooms in Little River Inn" /></a></figure></div>
 
@@ -153,11 +153,11 @@ The coastal surroundings are seamlessly integrated into the spa experience, crea
 
 **[See Photos, Reviews, &amp; More](/go/little-river-inn-tp/)**
 
-<div class="wp-block-ugb-heading ugb-heading ugb-b20595f ugb-main-block"><style>.ugb-b20595f .ugb-heading__title{text-align:center}.ugb-b20595f .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-b20595f .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Watch Our Stay from Little River Inn!
 
-<div class="ugb-heading__bottom-line">
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O_fd1TX35Dw?si=jwVvh2NznAXgOb4l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

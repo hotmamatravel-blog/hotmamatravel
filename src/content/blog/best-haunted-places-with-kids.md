@@ -23,11 +23,11 @@ At **HotMamaTravel**, we specialize in *family travel with a twist* and [preppin
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<div class="wp-block-ugb-heading ugb-heading ugb-61110c2 ugb-main-block"><style>.ugb-61110c2 .ugb-heading__title{text-align:center}.ugb-61110c2 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-61110c2 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Best Haunted Prisons To Visit With Kids
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure><a href="/images/eastern-state-penitentiary-.jpg"><img src="/images/eastern-state-penitentiary-.jpg" alt="Eastern State Penitentiary " /></a></figure>
 
@@ -125,11 +125,11 @@ There are adult, junior, senior, and child pricing for tours. Kids 4 and under a
 
 **[See Reviews, Photos, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-<div class="wp-block-ugb-heading ugb-heading ugb-0232703 ugb-main-block"><style>.ugb-0232703 .ugb-heading__title{text-align:center}.ugb-0232703 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-0232703 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Haunted Houses, Theaters, &amp; More
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure><a href="/images/bird-cage-theatre-tombstone.jpg"><img src="/images/bird-cage-theatre-tombstone.jpg" alt="Bird Cage Theatre Tombstone AZ" /></a></figure>
 
@@ -273,11 +273,11 @@ There are also companies that provide a variety of ghost tours of Savannah, whic
 
 **[See Reviews, Photos, &amp; More](/best-haunted-places-with-kids/)**
 
-<div class="wp-block-ugb-heading ugb-heading ugb-de5b152 ugb-main-block"><style>.ugb-de5b152 .ugb-heading__title{text-align:center}.ugb-de5b152 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-de5b152 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Favorite Haunted Hotels
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure><a href="/images/Queen-Mary-2.jpg"><img src="/images/Queen-Mary-2.jpg" alt="Fight to save the Queen Mary in Long Beach Ca" /></a></figure>
 

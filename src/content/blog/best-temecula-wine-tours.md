@@ -104,11 +104,11 @@ The public wine tour includes a guided scenic tour of wine country as you make y
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-61b934b ugb-main-block"><style>.ugb-61b934b .ugb-heading__title{color:#000000;text-align:center}.ugb-61b934b .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-61b934b .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's a Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 Who is thirsty? I know I am. Turn an ordinary day into a celebration with one of these unique Temecula Wine Tours! Oh and don’t forget to bring your [wine travel case](/best-wine-suitcase-wine-travel-bag/), so you can bring all those delicious vinos home safely!!
 

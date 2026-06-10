@@ -15,11 +15,11 @@ author: "Amanda Keeley-Thurman"
 
 Step into the heart of Montana's craft beer culture as we embark on a frothy adventure through the best breweries in Bozeman. Known for its scenic landscapes and vibrant community, Bozeman offers more than just breathtaking views—it's a craft beer haven. From innovative brews to cozy atmospheres that welcome families and furry friends alike, each brewery in this bustling town contributes to the rich tapestry of flavors and experiences. Join us as we raise a glass and explore the distinctive offerings that make Bozeman's breweries a must-visit for beer enthusiasts and anyone seeking the perfect blend of Montana charm and craft beer excellence.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-aa14c22 ugb-main-block"><style>.ugb-aa14c22 .ugb-heading__title{text-align:center}.ugb-aa14c22 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-aa14c22 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Best Breweries in Bozeman
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="bozeman-brewing-company-best-breweries-bozeman"><figure><a href="/images/bozeman-brewing-company-best-breweries-bozeman.jpg"><img src="/images/bozeman-brewing-company-best-breweries-bozeman.jpg" alt="Bozeman Brewing Company in Bozeman MT" /></a><figcaption class="uagb-image-caption">Courtesy of Bozeman Brewing Comany</figcaption></figure></div>
 

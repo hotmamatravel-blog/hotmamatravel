@@ -21,11 +21,11 @@ As a couple, we’ve been visiting Idyllwild since 2003, and it quickly became o
 
 <div class="wp-block-uagb-image uagb-block-71663c90 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Fireside-Idyllwild-Couples-Retreat-.jpg"><img src="/images/Fireside-Idyllwild-Couples-Retreat-.jpg" alt="Fireside Idyllwild Romantic Getaway " /></a></figure></div>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-19454ab ugb-main-block"><style>.ugb-19454ab .ugb-heading__title{text-align:center}.ugb-19454ab .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-19454ab .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Fireside Inn Cabins &amp; Rooms
 
-<div class="ugb-heading__bottom-line">
+
 
 ### **Sequoia Cabin**
 

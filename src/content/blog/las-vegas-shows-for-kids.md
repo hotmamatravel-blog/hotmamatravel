@@ -31,11 +31,11 @@ The point of this article is to help you by giving a succinct overview for 20 of
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RRpIBy5ON40?si=KwQwsREBMx1l3mxz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-7f8ec13 ugb-main-block"><style>.ugb-7f8ec13 .ugb-heading__title{text-align:center}.ugb-7f8ec13 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-7f8ec13 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Top Las Vegas Shows For Kids By Category
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-ugb-feature ugb-feature ugb-92ab112 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-92ab112 .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-92ab112 .ugb-button .ugb-button--inner,.ugb-92ab112 .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-92ab112 .ugb-button:before{border-radius:4px !important}.ugb-92ab112 .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-92ab112 .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-92ab112 .ugb-img{width:200px;height:auto !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
@@ -64,11 +64,11 @@ What to expect: comedy, fun, audience participation, magic tricks
 *What to expect: physical comedy, animal tricks, clown, juggling
 <div class="ugb-button-container">[<div class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></div>**Book it!**](/go/popovich-pet-theatre-las-vegas-bov/)<div class="ugb-feature__image-side">![](/images/Gregory-Popovich-Family-Vegas-Show-with-pets.png)</div>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-3fcb88e ugb-main-block"><style>.ugb-3fcb88e .ugb-heading__title{text-align:center}.ugb-3fcb88e .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-3fcb88e .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Why Our List Of Las Vegas Shows For Kids Is *Different*
 
-<div class="ugb-heading__bottom-line">
+
 
 We provide detailed insights about what the best Vegas shows are *really* like, so you can determine whether it is appropriate for your family depending on the age and interests of your children, *and the adults,* in your party.
 
@@ -80,11 +80,11 @@ We provide detailed insights about what the best Vegas shows are *really* like, 
 
 So we didn’t make just a plain old list. **We also provide custom ratings along 5 key dimensions** that will help you to visualize the strengths, weaknesses, and feelings associated with each of the top kid-friendly Vegas shows.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-19c67eb ugb-main-block"><style>.ugb-19c67eb .ugb-heading__title{text-align:center}.ugb-19c67eb .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-19c67eb .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Best Las Vegas Comedy Shows For Kids
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-ugb-feature ugb-feature ugb-6b76a3c ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-6b76a3c .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-6b76a3c .ugb-button .ugb-button--inner,.ugb-6b76a3c .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-6b76a3c .ugb-button:before{border-radius:4px !important}.ugb-6b76a3c .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-6b76a3c .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-6b76a3c .ugb-img{width:200px;height:auto !important}.ugb-6b76a3c.ugb-feature{margin-top:0px !important;margin-right:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
@@ -122,11 +122,11 @@ You might recognize Piff from his successful run on the TV show America's Got Ta
 
 #### See More: [Piff the Magic Dragon](/go/piff-magic-dragon-las-vegas-bov/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-314f26a ugb-main-block"><style>.ugb-314f26a .ugb-heading__title{text-align:center}.ugb-314f26a .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-314f26a .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Best Family Shows In Vegas For Dance
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-ugb-feature ugb-feature ugb-8bf0ca2 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-8bf0ca2 .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-8bf0ca2 .ugb-button .ugb-button--inner,.ugb-8bf0ca2 .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-8bf0ca2 .ugb-button:before{border-radius:4px !important}.ugb-8bf0ca2 .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-8bf0ca2 .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-8bf0ca2 .ugb-img{width:200px;height:auto !important}.ugb-8bf0ca2.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
@@ -190,11 +190,11 @@ If you are in Las Vegas with kids once in your lifetime and you get to see just 
 
 #### See More: [Blue Man Group](/go/blue-man-group-las-vegas-bov/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-8258f2c ugb-main-block"><style>.ugb-8258f2c .ugb-heading__title{text-align:center}.ugb-8258f2c .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-8258f2c .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Best Family Shows In Vegas For Thrills
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-ugb-feature ugb-feature ugb-5a7c54d ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-5a7c54d .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-5a7c54d .ugb-button .ugb-button--inner,.ugb-5a7c54d .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-5a7c54d .ugb-button:before{border-radius:4px !important}.ugb-5a7c54d .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-5a7c54d .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-5a7c54d .ugb-img{width:200px;height:auto !important}.ugb-5a7c54d.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
@@ -290,11 +290,11 @@ Another reason *Awakening* is great for families is its pace. The show moves qui
 
 **See More: [Awakening at Wynn Las Vegas](/go/awakening-las-vegas-show/)**
 
-<div class="wp-block-ugb-heading ugb-heading ugb-62e7d8c ugb-main-block"><style>.ugb-62e7d8c .ugb-heading__title{text-align:center}.ugb-62e7d8c .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-62e7d8c .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Best Magic Shows For Kids In Las Vegas
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-ugb-feature ugb-feature ugb-bb09796 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-bb09796 .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-bb09796 .ugb-button .ugb-button--inner,.ugb-bb09796 .ugb-button svg:not(.ugb-custom-icon){color:#030303 !important}.ugb-bb09796 .ugb-button:before{border-radius:4px !important}.ugb-bb09796 .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-bb09796 .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-bb09796 .ugb-img{width:200px;height:auto !important}.ugb-bb09796.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 

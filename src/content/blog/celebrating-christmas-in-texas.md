@@ -17,11 +17,11 @@ Christmas is the loveliest time of the year. And in the Lone Star State, you can
 
 From boots to BBQ and everything in between, the Great State of Texas has all you need for holiday fun. Check out our list of awesome Texas holiday favorites to treat your family to this year.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-fce7ad2 ugb-main-block"><style>.ugb-fce7ad2 .ugb-heading__title{text-align:center}.ugb-fce7ad2 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-fce7ad2 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Visit The Christmas Capital Of Texas
 
-<div class="ugb-heading__bottom-line">
+
 
 If you’re ready to dive headfirst into holiday cheer, **[Grapevine, Texas](https://www.grapevinetexasusa.com/)**, the official *Christmas Capital of Texas*, is your playground. This town doesn’t just celebrate Christmas; it throws 1,400 festive events over 40 days, which is basically North Pole energy with Texas attitude.
 
@@ -29,11 +29,11 @@ You have to stay in one of [**Grapevine’s Christmas hotels**](/go/hotels-grape
 
 Even Grapevine Mills gets in on the action with seasonal shopping and experiences. It’s the kind of place where kids stay wide-eyed the entire trip, and adults don’t stand a chance either. Grapevine hits you with Christmas spirit from every direction, and honestly, you’ll love every glitter-covered second.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-b426848 ugb-main-block"><style>.ugb-b426848 .ugb-heading__title{text-align:center}.ugb-b426848 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-b426848 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Ranch At Christmas Time
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-5a991e12 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Horseback-riding-texas.jpg"><img src="/images/Horseback-riding-texas.jpg" alt="Riding horse in Texas" /></a></figure></div>
 
@@ -41,11 +41,11 @@ Get out on the range with your kin this season and spend some time having a ranc
 
 A great Christmas gift for the horse lover in your family is to surprise them with horseback riding lessons, then spend the rest of your holiday season learning the art of riding. Texas is a great place to do it, with affordable rates and plenty of range, you’ll be riding like a cowboy with a [western hat](https://www.stetson.com/store/hats/western.html) in no time.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-8538751 ugb-main-block"><style>.ugb-8538751 .ugb-heading__title{text-align:center}.ugb-8538751 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-8538751 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Family BBQ
 
-<div class="ugb-heading__bottom-line">
+
 
 Looking for a holiday idea that’s a little less predictable and a whole lot more delicious? While you’re in Texas, round up the crew and go all-in on a true Texas Christmas tradition: BBQ**.** I know, I know—everyone else is out here carving turkeys and glazing hams. Still, nothing bonds a family faster than standing around a picnic table devouring brisket so tender it basically melts on contact.
 
@@ -63,11 +63,11 @@ And let’s be honest… if you’re spending the holidays in Texas, you’re si
 
 - **[Truth Barbeque&nbsp;(Brenham/Tomball)](/go/truth-bb-brenham-tx/):**&nbsp;Included on the Texas Real Food report list.&nbsp;
 
-<div class="wp-block-ugb-heading ugb-heading ugb-4909e47 ugb-main-block"><style>.ugb-4909e47 .ugb-heading__title{text-align:center}.ugb-4909e47 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-4909e47 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Check Out A Rodeo
 
-<div class="ugb-heading__bottom-line">
+
 
 You can’t go all the way to Texas and *not* experience a rodeo. That’s like visiting Italy and skipping the pasta. The sheer fun of watching real cowboys tear across the arena, hanging on for dear life while bulls do their absolute best to yeet them into orbit, is the kind of holiday memory your family will never forget.
 
@@ -75,11 +75,11 @@ If you want the classic Texas experience, start with the **[Cowtown Coliseum Rod
 
 And don’t be shy, check** local rodeo event listings** wherever you’re traveling in Texas. From small-town weekend shows to big holiday rodeo spectaculars, there’s always something wild and unforgettable happening in the arena. It’s rowdy, it’s joyful, and it’s absolutely the Texas holiday adventure your crew didn’t know they needed.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-3e835c7 ugb-main-block"><style>.ugb-3e835c7 .ugb-heading__title{text-align:center}.ugb-3e835c7 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-3e835c7 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## See The Sight In Austin
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure><a href="/images/Austin-christmas-night-scene.jpg"><img src="/images/Austin-christmas-night-scene.jpg" alt="Austin at night" /></a></figure>
 
@@ -89,11 +89,11 @@ Austin, the capital of Texas and one of the coolest cities on the planet, shines
 
 For something different, hop aboard a **[Lone Star Riverboat](/austin-bat-cruise/)** and see the city sparkle from the water. Austin mixes quirky charm with classic holiday magic, and your family will eat it up like peppermint bark.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-2c49e8d ugb-main-block"><style>.ugb-2c49e8d .ugb-heading__title{text-align:center}.ugb-2c49e8d .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-2c49e8d .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Red River District Christmas Market
 
-<div class="ugb-heading__bottom-line">
+
 
 If you want a little Old World charm deep in the heart of Texas, the [German Texan Heritage Society Christmas Market](https://www.germantexans.org/christmas-market) in Austin is the place to be. Tucked right into the lively Red River District, this market feels like you’ve wandered into a tiny pocket of Europe.
 
@@ -101,11 +101,11 @@ Picture rows of booths filled with authentic German Christmas treasures, like ha
 
 And don’t even get me started on the food. You can warm your frozen soul with a cup of Glühwein (hot spiced wine) and snag a slice of Christmas Stollen from The New World Bakery; trust me, it tastes like holiday cheer in loaf form. It’s the perfect blend of Texas vibes and German tradition, and families absolutely eat it up… sometimes literally.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-f8e7db1 ugb-main-block"><style>.ugb-f8e7db1 .ugb-heading__title{text-align:center}.ugb-f8e7db1 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-f8e7db1 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Holiday Spirit Along San Antonio Riverwalk
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure><a href="/images/san-antonio-riverwalk-night.jpg"><img src="/images/san-antonio-riverwalk-night.jpg" alt="San Antonio riverwalk" /></a></figure>
 
@@ -119,11 +119,11 @@ To make planning easy, check out my **[San Antonio family travel guide](/things-
 
 And if you happen to be visiting during spooky season, or you just enjoy a little festive fright, don’t miss my list of **[family-friendly haunted hotels in San Antonio](/haunted-hotels-san-antonio/)**. Christmas in San Antonio has sparkle, soul, and just the right amount of Wild West fun, and it’s one holiday destination your family won’t forget.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-c6c2514 ugb-main-block"><style>.ugb-c6c2514 .ugb-heading__title{text-align:center}.ugb-c6c2514 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-c6c2514 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Holiday Events In Dallas
 
-<div class="ugb-heading__bottom-line">
+
 
 Dallas is one of the biggest cities in the U.S., and during the holidays, it goes full sparkle mode with southern confidence. You’ve got museums, shopping, nightlife, and plenty of festive fun all without needing to dress like the Michelin Man. With an average December high of around 58 degrees, you can explore the city comfortably while the rest of the country is chiseling ice off their cars. *Win.*
 
@@ -133,11 +133,11 @@ But the real holiday magic in Dallas is in the events, like the Dallas Midtown L
 
 Be sure not to miss the Downtown Dallas Holiday Parade. This annual parade brings classic holiday energy to the heart of Downtown. Think giant floats, marching bands, performers, and that picture-perfect holiday moment that makes you want to hum *Jingle Bells* for the rest of the day. It’s festive, it’s lively, and it’s a great family memory, no snow boots required.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-cb1682f ugb-main-block"><style>.ugb-cb1682f .ugb-heading__title{text-align:center}.ugb-cb1682f .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-cb1682f .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Christmas At The Silos At Magnolia Market In Waco
 
-<div class="ugb-heading__bottom-line">
+
 
 Just about a hundred miles north of the state capitol of Austin is the city of Waco, where the whole family can enjoy visiting the famed [Silos at Magnolia Market](https://magnolia.com/silos/), owned by Joanna and Chip Gaines of the hit TV Show "Fixer Upper" on HGTV. They have a fun, festive Christmas installation during the Holiday season that includes a light display that covers the enormous Silos. Don't forget to stop by their own restaurant, Magnolia Table, just a few miles down the road from the Silos. Parents and kids will enjoy a relaxing holiday at Magnolia Market in Waco.
 

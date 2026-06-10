@@ -35,17 +35,17 @@ I created this article to be helpful for moms (and dads) who basically have NO C
 
 **First I will answer some common questions and *misconceptions***&nbsp;that I have heard over the years about visiting Las Vegas with young kids, then I follow that up with **an example itinerary** that should help you get started on planning your next trip to Las Vegas with baby.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-c685966 ugb-main-block"><style>.ugb-c685966 .ugb-heading__title{text-align:center}.ugb-c685966 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-c685966 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Frequently Asked Questions About Babies In Vegas
 
-<div class="ugb-heading__bottom-line">
 
-<div class="wp-block-ugb-heading ugb-heading ugb-f618b89 ugb-main-block"><style>.ugb-f618b89 .ugb-heading__title{text-align:center}.ugb-f618b89 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-f618b89 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
+
 
 ## Our Las Vegas With Baby And Q&amp;A Videos Are Helpful
 
-<div class="ugb-heading__bottom-line">
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aO4Cz1Yh68c?si=lxe-udb3yTOY8zrv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -53,11 +53,11 @@ I created this article to be helpful for moms (and dads) who basically have NO C
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FnkExE4scDo?si=VOKVZzybarzNn7Ji" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<div class="wp-block-ugb-heading ugb-heading ugb-0d0fc60 ugb-main-block"><style>.ugb-0d0fc60 .ugb-heading__title{text-align:center}.ugb-0d0fc60 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-0d0fc60 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Perfect 2-Day Itinerary In Las Vegas With Baby
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-985a02d" id="day-1" data-block-id="985a02d">
 

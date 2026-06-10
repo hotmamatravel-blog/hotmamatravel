@@ -156,11 +156,11 @@ business meetings.
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-f5adebe ugb-main-block"><style>.ugb-f5adebe .ugb-heading__title{text-align:center}.ugb-f5adebe .ugb-heading__bottom-line{background-color:#cf2e2e !important;height:5px !important;width:149px !important;margin-left:auto !important;margin-right:auto !important}.ugb-f5adebe .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 St Kitts &amp; Nevis is truly a gem in the Caribbean that gives you the opportunity to enjoy delicious cuisine, beaches, hiking trails and for the adventurous the option to take a ferry to nearby St Maarten. The island lies on the Southern tip of the hurricane belt and is therefore susceptible to tropical storms during the period of June to November annually.
 

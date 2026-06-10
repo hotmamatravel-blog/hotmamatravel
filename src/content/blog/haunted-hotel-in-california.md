@@ -17,11 +17,11 @@ Looking for a more spirited stay on your next California family vacation? Well, 
 
 I love staying at haunted hotels with my family! I have put a list together of our favorite family-friendly haunted hotels in California that are actually pleasant stays, even if you are not into ghosts. So if you are looking to add a little spooky excitement to your California road trip, you are in the right spot. What haunted hotel in California will you choose?
 
-<div class="wp-block-ugb-heading ugb-heading ugb-4560115 ugb-main-block"><style>.ugb-4560115 .ugb-heading__title{text-align:center}.ugb-4560115 .ugb-heading__bottom-line{background-color:#e90707 !important;margin-left:auto !important;margin-right:auto !important}.ugb-4560115 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Haunted Hotels in Northern California
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Holbrooke-hotel-grass-valley-hotels"><figure><a href="/images/Holbrooke-hotel-grass-valley-hotels.jpg"><img src="/images/Holbrooke-hotel-grass-valley-hotels.jpg" alt="Holbrooke-hotel-grass-valley-hotels" /></a></figure></div>
 
@@ -97,11 +97,11 @@ As dusk settles and shadows grow longer, The Westin St. Francis reveals a side t
 
 **[See Photos, Reviews, &amp; More](/go/westin-st-francis-san-francisco-ca/)**
 
-<div class="wp-block-ugb-heading ugb-heading ugb-93d488b ugb-main-block"><style>.ugb-93d488b .ugb-heading__title{text-align:center}.ugb-93d488b .ugb-heading__bottom-line{background-color:#f80606 !important;margin-left:auto !important;margin-right:auto !important}.ugb-93d488b .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Haunted Hotels in Central California
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-030ab657 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-groveland-hotel-haunted-hotels-california"><figure><a href="/images/the-groveland-hotel-haunted-hotels-california.jpg"><img src="/images/the-groveland-hotel-haunted-hotels-california.jpg" alt="The Groveland Hotel Haunted Hotels in California" /></a></figure></div>
 
@@ -147,11 +147,11 @@ Room 224 has become synonymous with intrigue, as visitors report a range of eeri
 
 **[See Photos, Reviews, &amp; More](/go/santa-maria-inn-ca/)**
 
-<div class="wp-block-ugb-heading ugb-heading ugb-3d2364c ugb-main-block"><style>.ugb-3d2364c .ugb-heading__title{text-align:center}.ugb-3d2364c .ugb-heading__bottom-line{background-color:#fc0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-3d2364c .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Haunted Hotels in Southern California
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-d283e0b8 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="queen-mary-haunted-hotels-california"><figure><a href="/images/queen-mary-haunted-hotels-california.jpg"><img src="/images/queen-mary-haunted-hotels-california.jpg" alt="Haunted Hotel in California The Queen Mary Hotel" /></a></figure></div>
 

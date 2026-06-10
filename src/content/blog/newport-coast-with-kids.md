@@ -20,11 +20,11 @@ From chic coastal spots to laid-back beaches perfect for little ones, this slice
 
 Being a local, it’s a wonder I travel anywhere else! Without further ado, here are some fun things to do in Newport Coast with kids.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-5ffb704 ugb-main-block"><style>.ugb-5ffb704 .ugb-heading__title{text-align:center}.ugb-5ffb704 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-5ffb704 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Things To Do In Newport Beach With Kids
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure><img src="/images/fun-things-to-do-newport-coast-with-kids-orange-county.png" alt="Things to do with kids on Newport Coast OC" /></figure>
 
@@ -172,11 +172,11 @@ Newport Beach is an ideal location for whale watching year-round. From November 
 
 [**See photos, reviews &amp; more**](/go/newport-landing-whale-watching-newport-beach-ca/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-2cb04c0 ugb-main-block"><style>.ugb-2cb04c0 .ugb-heading__title{text-align:center}.ugb-2cb04c0 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-2cb04c0 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Our Favorite Family Restaurants in Newport Beach
 
-<div class="ugb-heading__bottom-line">
+
 
 ### [**The Old Spaghetti Factory**](/go/old-spaghetti-factory-newport-beach-ca/)
 
@@ -278,11 +278,11 @@ It’s the kind of spot where you can slow down, refuel, and enjoy that easy New
 
 **[See photos, reviews &amp; more](/go/lighthouse-cafe-newport-beach/)**
 
-<div class="wp-block-ugb-heading ugb-heading ugb-b77cf39 ugb-main-block"><style>.ugb-b77cf39 .ugb-heading__title{text-align:center}.ugb-b77cf39 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-b77cf39 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Newport Beach Family Hotels &amp; Rentals
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-3672dc41 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Hyatt-Regency-Newport-Beach.jpg"><img src="/images/Hyatt-Regency-Newport-Beach.jpg" alt="hyatt regency newport beach family hotel" /></a></figure></div>
 

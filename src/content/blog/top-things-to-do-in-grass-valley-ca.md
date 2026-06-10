@@ -17,11 +17,11 @@ Grass Valley is a historic gold mining town in the Sierra Nevada foothills that 
 
 In this article, I provide a list of things to do in [Grass Valley](https://www.visitcalifornia.com/places-to-visit/grass-valley/) to help you plan your next visit to California’s historic Gold Country.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-9f786a0 ugb-main-block"><style>.ugb-9f786a0 .ugb-heading__title{text-align:center}.ugb-9f786a0 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-9f786a0 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Grass Valley Attractions
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure id="empire-mine-state-park-cottage-grass-valley-ca"><a href="/images/empire-mine-state-park-cottage-grass-valley-ca.jpg"><img src="/images/empire-mine-state-park-cottage-grass-valley-ca.jpg" alt="Empire Mine Park Grass Valley" /></a></figure>
 
@@ -69,11 +69,11 @@ If you can’t get enough of California’s mining history, then take the short 
 
 [**See photos, reviews &amp; more**](/go/nevada-city-grass-valley-ca/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-9300660 ugb-main-block"><style>.ugb-9300660 .ugb-heading__title{text-align:center}.ugb-9300660 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-9300660 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Hiking Trails near Grass Valley
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure id="union-hill-trails-grass-valley-ca"><a href="/images/union-hill-trails-grass-valley-ca.jpg"><img src="/images/union-hill-trails-grass-valley-ca.jpg" alt="Union Hill Trails Grass Valley" /></a></figure>
 
@@ -101,11 +101,11 @@ This is a high elevation and difficult 9.9 mile trail. Sharing a portion of the 
 
 [**See photos, reviews &amp; more**](/go/wolf-creek-trail-grass-valley-ca/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-8940977 ugb-main-block"><style>.ugb-8940977 .ugb-heading__title{text-align:center}.ugb-8940977 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-8940977 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Restaurants in Grass Valley
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure id="golden-gate-saloon-restaurant-grass-valley-ca"><a href="/images/golden-gate-saloon-restaurant-grass-valley-ca.jpg"><img src="/images/golden-gate-saloon-restaurant-grass-valley-ca.jpg" alt="Golden Gate Saloon Grass Valley" /></a></figure>
 
@@ -145,11 +145,11 @@ Open for breakfast, lunch and dinner, Humpty Dumpty Kitchen is a fun and friendl
 
 [**See photos, reviews &amp; more**](/top-things-to-do-in-grass-valley-ca/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-3d93d00 ugb-main-block"><style>.ugb-3d93d00 .ugb-heading__title{text-align:center}.ugb-3d93d00 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-3d93d00 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Hotels in Grass Valley
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure id="Holbrooke-hotel-grass-valley-ca"><a href="/images/Holbrooke-hotel-grass-valley-ca.jpg"><img src="/images/Holbrooke-hotel-grass-valley-ca.jpg" alt="Holbrooke Hotel Grass Valley" /></a></figure>
 

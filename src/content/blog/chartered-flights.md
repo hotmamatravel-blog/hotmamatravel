@@ -79,11 +79,11 @@ reposition themselves at locations where a scheduled flight departs. They fly â€
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 The charter industry is evolving to meet a new market. Travelers are always looking for new ways to get from point A to point B with as little hassle as possible. Additionally, if they can experience luxuries that used to be reserved for the wealthy few, why would they say no? However, above even convenience or luxury, passengers want an unforgettable experience.
 

@@ -21,11 +21,11 @@ However, fear not! There are still several hotels in Las Vegas that do not charg
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<div class="wp-block-ugb-heading ugb-heading ugb-5e4c9f1 ugb-main-block"><style>.ugb-5e4c9f1 .ugb-heading__title{text-align:center}.ugb-5e4c9f1 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-5e4c9f1 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Las Vegas Hotels Without Resort Fees
 
-<div class="ugb-heading__bottom-line">
+
 
 <figure id="travelodge-wyndham-las-vegas-hotels-without-resort-fees"><a href="/images/travelodge-wyndham-las-vegas-hotels-without-resort-fees.jpg"><img src="/images/travelodge-wyndham-las-vegas-hotels-without-resort-fees.jpg" alt="Travelodge by Wyndham Las Vegas Hotels without resort fees" /></a></figure>
 
@@ -153,11 +153,11 @@ For a blend of nostalgic charm and budget-friendly stays, Hotel Apache offers an
 
 **[See Photos, Reviews, &amp; More](/go/hotel-apache-las-vegas/)**
 
-<div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 If you're planning a trip to [**Las Vegas with kids**](/las-vegas-with-kids/) or without kids, and want to save some money, consider staying at one of the hotels that do not charge resort fees. From the Four Queens Hotel and Casino to the Silver Sevens Hotel &amp; Casino, there are several great options to choose from, each offering clean and comfortable rooms, great amenities, and convenient locations. By staying at one of these hotels, you can enjoy all the excitement and entertainment that Las Vegas has to offer, without breaking the bank.
 

@@ -14,11 +14,7 @@ author: "Amanda Keeley-Thurman"
 
 While embarking on exciting getaways, let's not forget that traveling can expose us to cyber threats. To ensure the safety of yourself, your loved ones, and your colleagues during your travels, here are nine valuable cybersecurity tips.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-e1896d8 ugb-main-block"><style>.ugb-e1896d8 .ugb-heading__title{text-align:center}.ugb-e1896d8 .ugb-heading__bottom-line{background-color:#ec0505 !important;margin-left:auto !important;margin-right:auto !important}.ugb-e1896d8 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
-
 ## Top 10 vacation safety tips
-
-<div class="ugb-heading__bottom-line">
 
 ### Update first
 

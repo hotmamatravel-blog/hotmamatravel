@@ -256,11 +256,11 @@ To explore haunted places in Key West as well as across America in some of [best
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 All in all, Key West is a fantastic destination for your next family vacation. With its warm weather, beautiful beaches, unique attractions, and friendly locals, it's no wonder that this little island has become such a popular spot for tourists. Whether you're looking to relax on the beach or explore the island's many sights and sounds, there's something for everyone in Key West.
 

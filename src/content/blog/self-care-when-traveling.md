@@ -78,11 +78,11 @@ By setting aside some in your schedule to dedicate toward wellness, you're also 
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-0ddb509 ugb-main-block"><style>.ugb-0ddb509 .ugb-heading__title{text-align:center}.ugb-0ddb509 .ugb-heading__bottom-line{background-color:#cf2e2e !important;margin-left:auto !important;margin-right:auto !important}.ugb-0ddb509 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## That's A Wrap!
 
-<div class="ugb-heading__bottom-line">
+
 
 Self-care and travel often come hand-in-hand, as both practices give you the chance to prioritize your happiness and leave the stress of everyday life behind. As such, it's crucial that you do not leave self-care to the wayside whenever you’re on vacation, especially as failing to do so could limit the enjoyment of your trip quite considerably.
 

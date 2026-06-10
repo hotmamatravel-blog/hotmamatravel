@@ -14,12 +14,12 @@ author: "Amanda Keeley-Thurman"
 
 Hi, I am Warren from [The Nomad Hive](https://thenomadhive.com/) and I hope you enjoy this guest post on Hot Mama Travel! As someone who has always been fascinated by haunted places in Mexico, I couldn't resist the lure of Isla de las Muñecas, also known as the Island of the Dead Dolls. This eerie island, shrouded in legends and mystery, promised to be an adventure. Here's my personal journey through this chilling yet surprisingly fun destination.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-b1c0ecd ugb-main-block"><style>.ugb-b1c0ecd .ugb-heading__title{text-align:center}.ugb-b1c0ecd .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-b1c0ecd .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## The Story of Isla De Las Muñecas
 
 (Haunted Island Of The Dead Dolls)
-<div class="ugb-heading__bottom-line">
+
 
 Nestled among the canals of Xochimilco, a short trip from Mexico City, lies a unique and haunting destination: Isla de las Muñecas, or the Island of the Dead Dolls. This small island presents a disturbing gallery of dolls, decaying, dismembered, and hanging from trees. The sight is as unsettling as it is captivating, drawing visitors from around the world to witness its eerie beauty and to experience one of the most haunted places in Mexico. The island's story is a fascinating blend of local folklore, personal tragedy, and a touch of the supernatural.
 
@@ -49,11 +49,11 @@ The haunting aura of Isla de las Muñecas stirs debates about its paranormal sta
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-540c31e ugb-main-block"><style>.ugb-540c31e .ugb-heading__title{text-align:center}.ugb-540c31e .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-540c31e .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## How to Get to Isla De Las Muñecas
 
-<div class="ugb-heading__bottom-line">
+
 
 
 <div class="wp-block-uagb-image uagb-block-0ec15a27 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="getting-to-isla-de-las-muncas"><figure><a href="/images/getting-to-isla-de-las-muncas-1.jpg"><img src="/images/getting-to-isla-de-las-muncas-1.jpg" alt="How to get to Isla de las Munecas" /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
@@ -77,11 +77,11 @@ Once you're on the trajinera and en route, it's crucial to ensure that you're he
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-4daec92 ugb-main-block"><style>.ugb-4daec92 .ugb-heading__title{text-align:center}.ugb-4daec92 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-4daec92 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Xochimilco Boat Ride (Trajinera)
 
-<div class="ugb-heading__bottom-line">
+
 
 
 <div class="wp-block-uagb-image uagb-block-6f168660 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="xochimilco-boat-ride-to-isla-de-las-munecas"><figure><a href="/images/xochimilco-boat-ride-to-isla-de-las-munecas.jpg"><img src="/images/xochimilco-boat-ride-to-isla-de-las-munecas.jpg" alt="Xochimilco Boat Ride " /></a><figcaption class="uagb-image-caption">Courtesy of The Nomad Hive</figcaption></figure></div>
@@ -116,11 +116,11 @@ The boat ride to Isla de las Muñecas is a relaxed and picturesque journey, taki
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-88b1184 ugb-main-block"><style>.ugb-88b1184 .ugb-heading__title{text-align:center}.ugb-88b1184 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-88b1184 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## How Much Does The Whole Trip Cost?
 
-<div class="ugb-heading__bottom-line">
+
 
 The overall expense of the trip can vary, but here’s a breakdown of what we spent during our trip to the haunted island of the dead dolls.
 
@@ -141,11 +141,11 @@ In total, we went with a group of 5 people and the cost for a single person turn
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-5df31df ugb-main-block"><style>.ugb-5df31df .ugb-heading__title{text-align:center}.ugb-5df31df .ugb-heading__bottom-line{background-color:#fd0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-5df31df .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## When is the best time to go to?
 
-<div class="ugb-heading__bottom-line">
+
 
 Selecting the optimal time to visit Isla de las Muñecas greatly influences the kind of experience you'll have at this intriguing yet haunting location. The island, with its mysterious and somber atmosphere, can present different facets depending on the season and time of day you choose for your visit.
 
@@ -187,11 +187,11 @@ Tours to Isla de las Muñecas go until late, about 9 pm. For those seeking a tru
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-7785135 ugb-main-block"><style>.ugb-7785135 .ugb-heading__title{text-align:center}.ugb-7785135 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-7785135 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## What Else Can You Experience On The Xochimilco Boat Ride?
 
-<div class="ugb-heading__bottom-line">
+
 
 The journey to Isla de las Muñecas on a Xochimilco trajinera offers a multitude of experiences beyond the destination itself. Here are some of the highlights that you can enjoy during this unique boat ride.
 
@@ -233,11 +233,11 @@ One of the best parts of the trajinera ride is the opportunity to relax and soci
 
 
 
-<div class="wp-block-ugb-heading ugb-heading ugb-be61617 ugb-main-block"><style>.ugb-be61617 .ugb-heading__title{text-align:center}.ugb-be61617 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-be61617 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## What to Bring?
 
-<div class="ugb-heading__bottom-line">
+
 
 When planning your trip to Isla de las Muñecas and a trajinera ride in Xochimilco, it's essential to pack thoughtfully to ensure the most enjoyable experience. Here's a recommended list of what we packed.
 

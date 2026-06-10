@@ -19,11 +19,11 @@ Neon lights illuminate the night sky, the buzz of excitement fills the air, and 
 
 So, let's cut to the chase and unveil the top picks for the best Las Vegas shows for teens!
 
-<div class="wp-block-ugb-heading ugb-heading ugb-f19b65e ugb-main-block"><style>.ugb-f19b65e .ugb-heading__title{text-align:center}.ugb-f19b65e .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-f19b65e .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Best Las Vegas Shows For Teens
 
-<div class="ugb-heading__bottom-line">
+
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="cris-angel-best-las-vegas-shows-for-teens"><figure><a href="/images/criss-angel-mindfreak-planet-hollywood.jpg"><img src="/images/criss-angel-mindfreak-planet-hollywood.jpg" alt="Criss Angel Mindfreak best Las Vegas shows for teens" /></a></figure></div>
 
