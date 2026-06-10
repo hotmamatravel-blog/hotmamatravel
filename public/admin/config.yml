@@ -2,8 +2,8 @@ backend:
   name: github
   repo: hotmamatravel-blog/hotmamatravel
   branch: main
-  base_url: https://api.netlify.com
-  auth_endpoint: auth
+  base_url: https://www.hotmamatravel.com
+  auth_endpoint: api/auth
 
 # This gives you a web editor at hotmamatravel.com/admin/
 # Log in with your GitHub account — no separate password needed
