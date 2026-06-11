@@ -11,16 +11,11 @@ wpSlug: "st-pete-vs-clearwater"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Planning a Florida family vacation and trying to decide between St. Pete and Clearwater Beach? Both are gorgeous Gulf Coast destinations with powdery white sand, calm waters, and endless family-friendly activities, but they offer very different vibes. I’ve done the legwork for you (you’re welcome!) to help you choose the best beach for your crew!
 
 As a family, we go visit Florida every year and love this area off the Gulf Coast. So, let’s compare St. Pete vs Clearwater Beach to see what makes them unique, and which one is a better fit for your family.
 
-
-
 ## What Clearwater Beach Offers Families
-
-
 
 If your dream family getaway involves staying right on a bustling beach with tons of activities at your fingertips, Clearwater Beach might be your jam. Clearwater Beach, Florida, is a dreamy family destination that has everything you need for the ultimate beach vacation with kids. Think soft, sugar-white sand, calm turquoise waters, and endless sunshine, basically a kid-friendly paradise!
 
@@ -52,11 +47,7 @@ The best part? Everything is walkable! Clearwater Beach’s laid-back vibe and s
 
 Clearwater Beach is lively, family-friendly, and full of action. This is a busier beach, making it very popular for teens. If you like to stay where the fun is, or you have teenagers, this is your spot!
 
-
-
 ## What St. Pete Beach Offers Families
-
-
 
 St. Pete offers a more laid-back, artsy vibe that’s perfect for families who want a mix of beach time and cultural experiences. I'll be honest, we love **[visiting St. Pete Beach](/st-pete-beach-with-kids/)**, and we visit every year.
 
@@ -88,11 +79,7 @@ Good eats is not an issue in St. Pete. There are plethora great restaurants. Unl
 
 St. Pete Beach or Clearwater Beach, which one is best for your family? Honestly, you can’t go wrong with either one. Both offer that laid-back Florida charm that families love. And since they’re only about 30 minutes apart, why not explore both? You can even take the [Suncoast Trolly](https://www.psta.net/how-to-ride/schedulesmap/suncoast-beach-trolley/) and spend a in each and enjoy the best of both worlds!
 
-## That's a Wrap!
-
 To plan the ultimate Florida vacation, check out our other[Florida family travel guides](/florida-family-holidays/).
-
-
 
 Like it? Pin it!
 

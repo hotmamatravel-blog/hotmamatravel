@@ -114,5 +114,7 @@ Sounds like a lot of fun, huh? When we visit Newport Beach with the family, we t
 **Have you ever been to Balboa Village?**
 
 **What is your favorite family-friendly beach town?**
+## That's a Wrap!
+
 
 **Like it? Pin it!**

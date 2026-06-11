@@ -12,12 +12,7 @@ wpSlug: "who-is-hot-mama"
 author: "Amanda Keeley-Thurman"
 ---
 
-
-
-
 ## Family Travel with a Twist
-
-
 
 <figure><a href="/las-vegas-with-kids/"><img src="/images/Las-Vegas-with-a-toddler.jpg" alt="Guide to Las Vegas with a toddler" /></a></figure>
 
@@ -27,11 +22,7 @@ I specialize in **family-friendly nightlife, haunted adventures**, and unexpecte
 
 Yes, I take kids to [**Vegas**](/family-friendly-vegas/). Yes, we’ve hunted ghosts. Yes, we’ve done spooky festivals, late-night light shows, and hotel pools that close way past bedtime. And guess what? The kids *love* it—and so do the adults.
 
-
-
 ## 👨‍👩‍👧‍👦 Real Family. Real Travel. Real Fun.
-
-
 
 <figure><a href="/images/Multigenerational-family-travel-.jpg"><img src="/images/Multigenerational-family-travel-.jpg" alt="Multigenerational family travel " /></a></figure>
 
@@ -40,11 +31,7 @@ When most people think “family vacation,” they picture chaos, cranky kids, a
 Where Mama goes, the babies go.
 (And usually Grandma too. And maybe an aunt. We roll deep.)
 
-
-
 ## 🌎 What You’ll Find at HotMamaTravel
-
-
 
 <figure><a href="/images/HotMama-Fun-in-Vegas-930-x-520-px.gif"><img src="/images/HotMama-Fun-in-Vegas-930-x-520-px.gif" alt="HotMamaTravel Fun Family Travel" /></a></figure>
 
@@ -77,11 +64,7 @@ Subscribe to get exclusive travel guides, behind-the-scenes sneak peeks, and the
 👉 **Let’s keep family travel hot. Join the adventure!**
 [**→ Subscribe Now**]
 
-
-
 ## Can You Take Your Kids To...?
-
-
 
 Check out our series, proving you can make just about [**any adventure kid-friendly**](/kid-friendly-travel-blogger-roundup/)! From [**wineries**](/best-family-friendly-wineries/) and** [breweries](/americas-best-breweries/)**, to [**honky tonks**](/kid-friendly-restaurants-nashville/) and [**haunted hotels**](/haunted-places/family-friendly-haunted-hotels/).
 

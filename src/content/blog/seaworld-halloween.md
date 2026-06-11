@@ -18,14 +18,11 @@ Halloween is great time of year to let loose and let your freak flag fly. I love
 
 ## ***Keep Cost in Check:***
 
-
 Go for the annual pass if you're local. It really is the best deal and then you don’t have to pay again to visit for other holiday events held throughout the year. A great way to save is to buy day and get the rest of the year free. This year there was a special promotion going on, so when I went to upgrade my day pass to annual I received the following full year for the same price! Needless to say, I was pretty excited. A great deal is the two-year pass. **[Check Deals](http://www.tkqlhce.com/click-8336032-11076152)**.
-
 
 Traveling with kids and you are only able to visit once? Sometimes there are special events when kids are free. For example, this year kids were free in October with the purchase of a specific adult ticket. I made the mistake of buying an adult ticket from another source which didn’t work to get Firecracker in free. Oops. So, pay attention to any promotions that might be going on before you plan your trip. [**Get your Single Day Ticket**](http://www.dpbolvw.net/click-8336032-12811606).
 
 ## ***Drop Your Bags:***
-
 
 There are plenty of options for nearby accommodations, but I do have my favorites. I love Old Town San Diego, so whenever I plan a trip to SeaWorld I try to combine the visits. I prefer the Hacienda Hotel, because of the AAA discount and its convenient location to historical plaza.
 
@@ -38,18 +35,15 @@ For more information on where to drop your bags, see my posts about staying at t
 ## ***Get Your Grub On:
 ***
 
-
 During the month of October there was a promotion that kids eat free for the dining with Shamu. A pretty pricey, but amazing dining experience, this was a really good deal. Not sure if this will be an annual promotion, but I’ll keeping my eyes peeled.
 
 ## ***Chug-A-Lug:***
-
 
 If you buy a beer, keep your glass. Beer refills are offered, saving about $4 a glass. SeaWorld offers a really nice selection of local craft brews too! I.P.A, Wreck Ally, Stone and much more! When you consume beer like we do, that’s a big savings. It is also the same with the souvenir soda cup. When you buy a cup soda refills are a $1. We save all our cups and remember to bring for every visit.
 
 [![SeaWorld Halloween](/images/IMG_6052-1024x1024_201410.jpg)](/seaworld-halloween/)
 
 ## ***Entertain Me:***
-
 
 Follow the music until you arrive at Jumbo Pink Octopus. Once you gaze upon the many colorful characters, kids and parents grooving to the beat you know you have arrived at the Halloween Spooktacular.
 
@@ -77,12 +71,13 @@ Be sure to catch the show! Clyde and Seymour’s Spooky Adventure is a silly sho
 
 ## ***That’s A Wrap:***
 
-
 A SeaWorld Halloween is definitely not a scary event, but rather a happy celebration of embracing our childish side, letting loose and having fun! SeaWorld’s Spooktacular starts at the end of September and runs every weekend until the end of October. Make sure you caught the detail about **weekends only**. Unlike Disneyland at Halloween (see post **[HERE](/halloween-disneyland/)**), where holiday festivities continue throughout the week, SeaWorld Spooktacular is only on the weekends. I made this mistake when I brought my kids on a Monday and had to make a second trip on the weekend, because I got them so excited about Halloween party. Can't say I hated it. We love seeing all the sea life. Oh well. Live and learn, but now you can learn from my mistake. Happy haunting everyone!
 
 [**Get your tickets here!**](http://www.dpbolvw.net/click-8336032-12811606)
 
 **Have you every visited a theme park for their holiday celebrations?**
+## That's a Wrap!
+
 
 **Like it? Pin it!**
 

@@ -12,18 +12,13 @@ wpSlug: "kid-friendly-wineries-temecula-ca"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Temecula, Southern California’s wine country, has over 40 wineries with more projected to come in the next year. It is a beautiful place filled with rolling vineyards, hot air balloons, and award-winning wines. With ample opportunities for wine tasting and live entertainment, [Temecula wine country](https://www.visittemeculavalley.com/wine/) is an adult’s playground, but did you know that most of the wineries in Temecula are kid-friendly?
 
 Yes, you can bring the family for a relaxing and exciting day in wine country for wine and live music! Although most of the wineries *do *allow kids (to some extent), I have put together a list of the **best **kid-friendly wineries in Temecula that have live music and family activities, in addition of course to award-winning wine.
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-
-
 ## Kid-Friendly Wineries in Temecula
-
-
 
 <figure id="Wilson-Creek-Winery-kid-friendly-wineries-temecula"><a href="/images/Wilson-Creek-Winery-kid-friendly-wineries-temecula.jpg"><img src="/images/Wilson-Creek-Winery-kid-friendly-wineries-temecula.jpg" alt="Wilson Creek Winery" /></a></figure>
 
@@ -129,8 +124,6 @@ Truffle Pig (formerly Avensole) is one of Temecula’s oldest wineries and welco
 
 [**See photos, reviews &amp; more**](/go/avensole-winery-temecula-ca/)
 
-## That's a Wrap!
-
 Ready for a day of wine and live entertainment with family? Then head out to wine country to enjoy some of these amazing kid-friendly wineries in Temecula. If you are planning to visit more than one winery in a day, I suggest taking an organized wine tour. I have put together a list of the most [**unique Temecula wine tours**](/best-temecula-wine-tours/) for you to check out. Some tours do allow kids to come along for a reduced ticket.
 
 Also, consider a trip to Temecula wine country in a&nbsp;[luxury limo service](https://strackground.com/). Imagine being chauffeured through the rolling hills of Southern California in a plush, comfortable vehicle while taking in the breathtaking scenery. Your experienced driver will pick you up at your doorstep and transport you in style to some of the finest wineries in the region. Sip on a glass of your favorite vintage as you take in the panoramic views of the vineyards and sample the latest offerings from local winemakers.
@@ -142,8 +135,6 @@ Looking to extend your time in Temecula? Check out my suggestions for awesome [*
 For more family-friendly wineries check out my [**Family-friendly wineries**](/best-family-friendly-wineries/) guide, including more destinations in California, ,like  [**Kid-Friendly Wineries Napa**](/kid-friendly-wineries-in-napa/) and [**Kid-Friendly Sonoma**](/kid-friendly-wineries-in-sonoma/).
 
 Now what are you waiting for? Go have some fun!
-
-
 
 **Like it? Pin it!**
 

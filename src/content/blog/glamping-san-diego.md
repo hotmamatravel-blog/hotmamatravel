@@ -11,13 +11,11 @@ wpSlug: "glamping-san-diego"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 San Diego is known as a top family travel destination with pristine beaches, numerous family attractions, a bustling downtown and lively historic districts. It seems like San Diego has it all! But wait there's more! Glamping in San Diego is some of the best around, from airstreams, glamping tents, to floating cabins!&nbsp;
 
 Ready to get out there and have some fun? Check out our **six favorite glamping San Diego sites**.
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor and Airbnb). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
-
 
 <figure id="san-diego-metro-koa-glamping-san-diego"><img src="/images/San-Diego-Koa-Glamping-Cabins.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of San Diego Metro KOA</figcaption></figure>
 
@@ -33,9 +31,6 @@ San Diego KOA has a ton of activities, a pool and hot tub, playground, rock clim
 
 [See photos, reviews &amp; more](/go/san-diego-metro-koa-san-diego-ca/)
 
-
-
-
 <figure id="san-diego-zoo-safari-park-glamping-san-diego"><img src="/images/family-glamping-roar-snore-san-diego-safari-park-ca.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy San Diego Zoo Safari Park</figcaption></figure>
 
 #### **[San Diego Zoo Safari Park](/go/san-diego-zoo-safari-park-san-diego-ca/)**
@@ -49,9 +44,6 @@ The Roar &amp; Snore at the San Diego Safari Park is an excellent option for fam
 There are three styles of glamping tents to choose from at the San Diego Safari Park. The Classic Tent is the most economical and sleeps up to five and has no beds. Instead the Classic Tent has vinyl floors and provides sleeping bag pads. The Vista Tent is the next upgrade, with sleeping cots for up to six people. Plus, the Vista Tent comes with views of the African Plains, so you can wake up to giraffes, rhinos, antelope and more. The Premium Tent sleeps four with a queen bed and two single cots with wood floors, area rug and electrical outlets. All Roar &amp; Snore bookings include camp activities, a campfire, after-hours viewing of the animals, dinner, s’mores and breakfast.
 
 [See photos, reviews &amp; more](/go/san-diego-zoo-safari-park-san-diego-ca/)
-
-
-
 
 <figure id="the-ranch-bandy-canyon-glamping-san-diego"><img src="/images/family-glamping-the-ranch-bandy-canyon-san-diego-ca.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of The Ranch at Bandy Canyon</figcaption></figure>
 
@@ -67,9 +59,6 @@ Today, you can stay in one of the many cabins on The Ranch. Cabins range from sm
 
 [See photos, reviews &amp; more](/go/the-ranch-brandy-canyon-san-diego-ca/)
 
-
-
-
 <figure id="santee-lakes-recreation-preserve-glamping-san-diego"><img src="/images/santee-lakes-recreation-preserve-glamping-san-diego-ca.jpeg" alt="" /><figcaption class="wp-element-caption">Courtesy of Santee Lakes Recreation Preserve</figcaption></figure>
 
 #### **[Santee Lakes Recreation Preserve](/go/santee-lakes-recreation-preserve-san-diego-ca/)**
@@ -83,9 +72,6 @@ At the Santee Lakes Recreation Preserve you can stay in one of the seven floatin
 On the property you and your family can enjoy taking the pedal boat out on the lakes, taking a dip in one of the two pools, birding and fishing. There are seven playgrounds that kids will love, including a boulder adventure course, a spray-ground for water fun, a Tot Lot for little ones, Mega Tower and even a playground for kids with disabilities.
 
 [See photos, reviews &amp; more](/go/santee-lakes-recreation-preserve-san-diego-ca/)
-
-
-
 
 <figure id="african-safari-sunset-eco-glamping-san-diego"><img src="/images/african-safari-sunset-eco-glamping-san-diego-ca.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of African Safari Sunset Eco Glamping</figcaption></figure>
 
@@ -101,9 +87,6 @@ While glamping at African Safari you have the option to just enjoy the peacefuln
 
 [See photos, reviews &amp; more](https://www.airbnb.com/rooms/plus/28074848?source_impression_id=p3_1686263389_j29oiqJz5jr%2BuGSb)
 
-
-
-
 <figure id="palm-canyon-hotel-rv-resort-glamping-san-diego"><img src="/images/palm-canyon-hotel-rv-resort-glamping-san-diego-ca.jpeg" alt="" /><figcaption class="wp-element-caption">Courtesy of Palm Canyon Hotel &amp; RV Resort</figcaption></figure>
 
 #### **[Palm Canyon Hotel &amp; RV Resort](/go/palm-canyon-hotel-rv-resort-san-diego-ca/)**
@@ -113,8 +96,6 @@ While glamping at African Safari you have the option to just enjoy the peacefuln
 When you think of San Diego, you think beaches, but this glamp site is in the desert! Yes, desert glamping in San Diego. At the Palm Canyon Hotel &amp; RV Resort you have the option of vintage trailer rentals, airstream rentals and even wild west themed hotel rooms. The airstreams sleep up to two people. The property includes a swimming pool, hot tub, Big Horn bar &amp; grill with live music, fitness center and complimentary wifi.
 
 [See photos, reviews &amp; more](/go/palm-canyon-hotel-rv-resort-san-diego-ca/)
-
-
 
 ## That's a Wrap!
 
@@ -155,8 +136,6 @@ Also, feel free to check out our relevant articles:
 - [Glamping Upstate New York](/glamping-upstate-new-york/)
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 **Like it? Pin it!**
 

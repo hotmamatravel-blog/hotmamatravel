@@ -12,16 +12,11 @@ wpSlug: "ghost-towns-around-las-vegas"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 I don't know about you guys, but I love a good ghost town. I never miss an opportunity to visit ghost towns during any road trip, even on the way to a [**Vegas family vacation**](/las-vegas-with-kids/). Hidden within the rugged desert landscape, these forgotten relics of the past hold secrets untold and stories waiting to be discovered, and I am here for it!
 
 From the whispers of the wind through abandoned buildings to the echoes of bygone eras, exploring these ghost towns is like stepping back in time to a world where the Old West still reigns supreme. So grab your hat, dust off your boots, and join me on a journey through the best ghost towns around Las Vegas, where the past comes alive in the most hauntingly beautiful way.
 
-
-
 ## Ghost Towns Around Las Vegas
-
-
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="calico-ghost-towns-around-las-vegas"><figure><a href="/images/calico-ghost-towns-around-las-vegas.jpg"><img src="/images/calico-ghost-towns-around-las-vegas.jpg" alt="Calico Ghost Towns Around Las Vegas" /></a></figure></div>
 
@@ -147,8 +142,6 @@ Throughout the year, Oatman hosts live reenactments of Wild West gunfights and o
 
 **[See Photos, Reviews, &amp; More](/go/oatman-arizona/)**
 
-## That's a Wrap!
-
 As our journey through the best ghost towns around Las Vegas comes to a close, we're left with memories of dusty streets, forgotten tales, and the enduring spirit of the American West. These ghost towns, with their weathered buildings and storied pasts, serve as reminders of the pioneers and prospectors who once roamed these lands in search of fortune and adventure.
 
 While time may have taken its toll, the allure of these ghost towns remains as strong as ever, drawing travelers from far and wide to experience a taste of history and mystery in the desert. So as we bid farewell to these spectral remnants of days gone by, let us carry with us the echoes of the past and the promise of new adventures yet to come.
@@ -156,8 +149,6 @@ While time may have taken its toll, the allure of these ghost towns remains as s
 To help plan a truly memorable trip with your family, check out our [**Las Vegas family travel guides**](/family-friendly-vegas/) and [**Nevada Attractions**](/nevada-family-travel/).
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](http://11. https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
-
-
 
 Like it? Pin it!
 

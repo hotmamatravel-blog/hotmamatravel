@@ -11,7 +11,6 @@ wpSlug: "kid-friendly-day-trips-las-vegas"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 There is so much to do on the Las Vegas Strip, even if you are visiting [**Las Vegas with kids**](/las-vegas-with-kids/), that you might be wondering *why would anyone in their right mind ever want or need to leave the Vegas strip*!?
 
 Well many people don’t realize it, but **Las Vegas is actually situated in one of the most beautiful [areas of the United States](/nevada-family-travel/)**, and there are lots of great reasons to escape the bustling city for a day to explore the many unique natural wonders that surround Las Vegas.
@@ -32,11 +31,7 @@ See this article as a web story, [Las Vegas Day Trips](/web-stories/las-vegas-da
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-
-
 ## Family Day Trips From Las Vegas
-
-
 
 <figure id="beautiful-grand-canyon-south-rim-scenic"><a href="/images/beautiful-grand-canyon-south-rim-scenic.jpg"><img src="/images/beautiful-grand-canyon-south-rim-scenic.jpg" alt="Stunning view from Grand Canyon South Rim" /></a></figure>
 
@@ -254,12 +249,6 @@ Kids will love the delicious Western-style breakfast or dinner at a ranch, then 
 
 **[Check for Deals on Vegas.com with their Best Price Guarantee](/go/wild-west-horseback-adventure/)**
 
-
-
-## That's A Wrap!
-
-
-
 As I said in the intro, there are so many [**fun activities in Las Vegas**](/affordable-family-activities-las-vegas/) that it is easy to forget that Vegas is situated in a very unique desert ecosystem with insane natural beauty. Luckily, there are a host of tour companies that have designed thrilling, kid-friendly day tour itineraries from Vegas to learn about and experience the wonderful areas surrounding Las Vegas.
 
 Here I presented my own favorite day trips from Las Vegas for families, but if you didn't see something that was perfect for your family, there are actually a bunch more to choose from on **[Vegas.com](/go/best-of-vegas-main/)**. Next time you are in [**Vegas with kids**](/family-friendly-vegas/), don't forget to book a day tour and check some items off your bucket list!
@@ -267,13 +256,12 @@ Here I presented my own favorite day trips from Las Vegas for families, but if y
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
-
+## That's a Wrap!
 
 
 **Like it? Pin it!**
 
 <figure id="8-Amazing-kid-friendly-day-trips-from-Las-Vegas"><a href="/images/family-day-trips-las-vegas.jpg"><img src="/images/family-day-trips-las-vegas-200x300.jpg" alt="8 kid-friendly day trips from Las Vegas" /></a></figure>
-
 
 -
 

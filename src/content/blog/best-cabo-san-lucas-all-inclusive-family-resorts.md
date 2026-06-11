@@ -11,11 +11,9 @@ wpSlug: "best-cabo-san-lucas-all-inclusive-family-resorts"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Cabo San Lucas is a resort city that offers desert, sea, and sun in one unique destination. Located at the southern tip of Mexico’s Baja California peninsula, Cabo is known for its beaches, outdoor activities, nightlife, and fabulous resorts.&nbsp;
 
 Cabo is a great destination for a worry-free family vacation as it is home to some of the best all-inclusive resorts in [Mexico](https://www.divein.com/travel/all-inclusive-resorts-in-mexico/). They have everything a family could want, from a wide variety in dining options, kids’ clubs, themed parties, amazing pools and much more. If you are interested in planning your vacation, here are some of the best Cabo San Lucas all-inclusive family resorts.
-
 
 <figure id="grand-fiesta-americana-family-resort-cabo-all-inclusive"><a href="/images/grand-fiesta-americana-family-resort-cabo-all-inclusive.jpg"><img src="/images/grand-fiesta-americana-family-resort-cabo-all-inclusive.jpg" alt="" /></a></figure>
 
@@ -33,9 +31,6 @@ All those activities are sure to work up an appetite! Luckily, there are a dozen
 
 [See photos, reviews &amp; more](/go/grand-fiesta-americana-los-cabos/)
 
-
-
-
 <figure id="hard-rock-hotel-los-cabos-family-resort-all-inclusive"><a href="/images/hard-rock-hotel-los-cabos-family-resort-all-inclusive.jpg"><img src="/images/hard-rock-hotel-los-cabos-family-resort-all-inclusive.jpg" alt="" /></a></figure>
 
 #### **[Hard Rock Hotel Los Cabos](/go/hard-rock-hotel-los-cabos/)**
@@ -51,9 +46,6 @@ Since this is the Hard Rock, you know there has to be music and your family, age
 Time to make a splash. Your kids will love the 5 expansive pools that include swim-up bars, flume water slides and shady swings. The Lyric Pool is the biggest pool, complete with a child-safe swim area, waterslides, foam parties, activities, live music and more.&nbsp; The Eden Pool is more relaxed with a nice wet bar and snack bar for enjoying drinks and appetizers. The Legendary Pool is surrounded by cabanas and fire pits with premium cocktails available at the bar. The Pulse Pool is a guest favorite, located near the Italian restaurant and the Slides of Fun. Rhythm Pool is the seaside adults-only pool and the Red Pool is the party pool, where you can swim to the cool beats from the DJ booth in the center.
 
 [See photos, reviews &amp; more](/go/hard-rock-hotel-los-cabos/)
-
-
-
 
 <figure id="dreams-los-cabos-family-resort-movie-under-stars"><a href="/images/dreams-los-cabos-family-resort-movie-under-stars.jpg"><img src="/images/dreams-los-cabos-family-resort-movie-under-stars.jpg" alt="" /></a></figure>
 
@@ -71,9 +63,6 @@ Eat and drink to your heart’s content with 24-hour room service, numerous swim
 
 [See photos, reviews &amp; more](/go/dreams-los-cabos/)
 
-
-
-
 <figure id="grand-velas-los-cabos-all-inclusive-family-resort"><a href="/images/grand-velas-los-cabos-all-inclusive-family-resort.jpg"><img src="/images/grand-velas-los-cabos-all-inclusive-family-resort.jpg" alt="" /></a></figure>
 
 #### **[Grand Velas Los Cabos](/go/grand-vela-los-cabos/)**
@@ -87,9 +76,6 @@ Grand Velas Los Cabos makes for a relaxing all-inclusive vacation experience for
 Spend your day lounging by pools, taking advantage of the resort’s Land and Sea Tours or dining until your stomachs burst with happiness. There are 8 onsite restaurants, 5 of which are fine dining, and there are 5 bars. End your perfect day with dancing to live music and enjoying those beautiful Cabo sunsets.&nbsp;
 
 [See photos, reviews &amp; more](/go/grand-vela-los-cabos/)
-
-
-
 
 <figure id="barcelo-gran-faro-los-cabos-all-inclusive-family-resort"><a href="/images/barcelo-gran-faro-los-cabos-all-inclusive-family-resort.jpg"><img src="/images/barcelo-gran-faro-los-cabos-all-inclusive-family-resort.jpg" alt="" /></a></figure>
 
@@ -105,9 +91,6 @@ Not only will the whole family enjoy their day swimming, dining and engaging in 
 
 [See photos, reviews &amp; more](/go/barcelo-gran-faro-los-cabos/)
 
-
-
-
 <figure id="hyatt-ziva-los-cabos-all-inclusive-family-resort"><a href="/images/hyatt-ziva-los-cabos-all-inclusive-family-resort.jpg"><img src="/images/hyatt-ziva-los-cabos-all-inclusive-family-resort.jpg" alt="" /></a></figure>
 
 #### **[Hyatt Ziva Los Cabos](/go/hyatt-ziva-los-cabos/)**
@@ -121,9 +104,6 @@ All you can eat. All you can drink. All you can do. All included in your room ra
 More for the kids to enjoy is the KidZ Club that is loaded with fun games, arts and crafts, and a play area outside with a jungle gym, playground, mini cars, and bikes. Throughout the day and evening the whole family will be indulged in delicious food and drink. There are 7 onsite restaurants to suit all tastes, including a fun Japanese teppanyaki grill and sushi restaurant. At night the family can gather for nightly live entertainment. There is a different signature show every night, including magic shows, tropical dance shows and live music. From sunup to sundown, you and your family will be having a blast.&nbsp;
 
 [See photos, reviews &amp; more](/go/hyatt-ziva-los-cabos/)
-
-
-
 
 <figure id="riu-santa-fe-cabo-all-inclusive-family-resort"><a href="/images/riu-santa-fe-cabo-all-inclusive-family-resort.jpg"><img src="/images/riu-santa-fe-cabo-all-inclusive-family-resort.jpg" alt="" /></a></figure>
 
@@ -139,9 +119,6 @@ All that fun will surely work up an appetite, so take advantage of the buffets o
 
 [See photos, reviews &amp; more](/go/riu-santa-fe-cabo-san-lucas/)
 
-
-
-
 <figure id="riu-palace-cabo-san-lucas-all-inclusive-family-resort"><a href="/images/riu-palace-cabo-san-lucas-all-inclusive-family-resort.jpg"><img src="/images/riu-palace-cabo-san-lucas-all-inclusive-family-resort.jpg" alt="" /></a></figure>
 
 #### **[Riu Palace Cabo San Lucas](/go/riu-palace-cabo-san-lucas/)**
@@ -156,9 +133,7 @@ Some different offerings include adult-only swim-up suites, RiuFit program, addi
 
 [See photos, reviews &amp; more](/go/riu-palace-cabo-san-lucas/)
 
-
-
-## That's A Wrap!
+## That's a Wrap!
 
 If that doesn’t scream ultimate family vacation, I don’t know what does! When you stay at any of the options listed above, you are sure to have an amazing time. Just think, it is all included with your room rate!&nbsp;
 
@@ -167,8 +142,6 @@ As a travel agent, I do have special access to deals and promotions at all the C
 For more all-inclusive family-friendly resorts, explore our other destinations!
 
 - [All-Inclusive Family Resorts Cancun](/all-inclusive-family-resorts-cancun/)
-
-
 
 **Like it? Pin it!**
 

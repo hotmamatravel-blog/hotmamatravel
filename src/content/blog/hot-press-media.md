@@ -12,12 +12,7 @@ wpSlug: "hot-press-media"
 author: "Amanda Keeley-Thurman"
 ---
 
-
-
-
 ## Want more from [HotMama](/about/)?
-
-
 
 Here are a list of guest posts, features, interviews, speaking engagements, and more!
 
@@ -34,8 +29,6 @@ In my second appearance, I tackled one of my favorite “hot takes” in family 
 Listen to the full interview here: **[Reviewing Disney's Fantasy Cruise Ship and Things to do for All Ages](https://music.amazon.com.mx/podcasts/ec31f43f-ff76-4985-9f39-cb6000e66576/episodes/01aa46eb-6a92-4617-a013-e26b8cc8bb7f/destinations-beyond-expectations-reviewing-disney)**
 
 Listen to the full interview here: **[True or False: Las Vegas is Suitable for a Family Trip](https://music.amazon.com/podcasts/ec31f43f-ff76-4985-9f39-cb6000e66576/episodes/541408fa-e6ad-4aac-8f51-8e54d5c98348/destinations-beyond-expectations-true-or-false-las-vegas-is-suitable-for-a-family-trip)**
-
-
 
 ## Publications &amp; Guest Posts
 

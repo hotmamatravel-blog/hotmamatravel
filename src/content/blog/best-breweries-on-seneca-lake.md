@@ -12,7 +12,6 @@ wpSlug: "best-breweries-on-seneca-lake"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 The picturesque region of New York's Finger Lakes, not only boasts stunning views but also a brew scene that's as diverse as it is delicious. So, grab your tasting glass and get ready to hop from one ale adventure to the next, exploring the best breweries on Seneca Lake. Get ready for a sip of fun, a dash of flavor, and a whole lot of good times – because the brews here are as vibrant as the scenery that surrounds them!
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="scale-house-brewery-best-breweries-seneca-lake"><figure><a href="/images/scale-house-brewery-best-breweries-seneca-lake.jpg"><img src="/images/scale-house-brewery-best-breweries-seneca-lake.jpg" alt="Family Friendly Live Musica at Scale House Brewery Seneca Lake" /></a><figcaption class="uagb-image-caption">Courtesy of Scale House Brewery</figcaption></figure></div>
@@ -215,13 +214,9 @@ This is truly a unique brewery experience like no other. Fall Street is a cafe t
 
 **[See Photos, Reviews, &amp; More](/go/fall-street-brewing-seneca-lake/)**
 
-## That's a Wrap!
-
 As the sun sets over the glistening waters, our journey through the best breweries on Seneca Lake comes to a frothy close. From hop-forward IPAs to rich stouts and everything in between, the Finger Lakes region has proven to be a haven for beer enthusiasts. Each brewery, with its unique charm and distinctive brews, has left an indelible mark on our palates and memories. Whether you're sipping by the lakeside or sharing a flight with friends, the vibrant craft beer scene of Seneca Lake is a testament to the artistry and camaraderie that define this liquid culture. Cheers to the unforgettable flavors and the moments we've brewed along the shores of Seneca Lake!
 
 Check out [more awesome breweries in more awesome places](/americas-best-breweries/)!
-
-
 
 Like it? Pin it!
 

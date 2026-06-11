@@ -11,16 +11,11 @@ wpSlug: "las-vegas-dinner-and-show-packages"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Las Vegas is a destination that offers endless opportunities for entertainment and adventure. Whether you're [**traveling with kids**](/las-vegas-with-kids/) or just looking for a fun and unique experience, there are many Las Vegas dinner and show packages that are perfect for families. These packages offer the perfect combination of delicious food and exciting performances, making for an unforgettable evening of entertainment.
 
 So whether you're looking for a [**thrilling adventure**](/kid-friendly-day-trips-las-vegas/) or a night of relaxation and good food, Las Vegas has something to offer. Book your [**Vegas hotel**](/best-family-hotels-in-las-vegas/) and get ready to enjoy the best in dining and entertainment with your family in the Entertainment Capital of the World!
 
-
-
 ## Las Vegas Dinner and Show Packages
-
-
 
 <figure id="marriage-can-be-murder-las-vegas-dinner-show-packages"><a href="/images/marriage-can-be-murder-las-vegas-dinner-show-packages.jpg"><img src="/images/marriage-can-be-murder-las-vegas-dinner-show-packages.jpg" alt="Marriage Can Be Murder Las Vegas Dinner and Show Packages" /></a><figcaption class="wp-element-caption">Courtesy of Vegas.com</figcaption></figure>
 
@@ -157,19 +152,13 @@ The atmosphere at the All Motown Dinner and Show Package is electric, with audie
 
 [**See photos, reviews &amp; more**](/go/all-motown-dinner-show-las-vegas/)
 
-
-
-## That's A Wrap!
-
-
+## That's a Wrap!
 
 Las Vegas dinner and show package is a perfect way to enjoy the city's vibrant nightlife with your family. From exciting [**dining experiences**](/best-family-restaurants-in-las-vegas/) to spectacular performances, there's something for everyone to enjoy. With so many options available, it's easy to find the perfect package to suit your needs and budget. So book your next Las Vegas trip today and experience the magic of this vibrant city for yourself!
 
 See more [**Las Vegas Travel Guides**](/family-friendly-vegas/) and greater [**Nevada state activities**](/nevada-family-travel/) to help you plan the perfect family vacation.
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
-
-
 
 **Like it? Pin it!**
 

@@ -20,18 +20,15 @@ What makes this event extra special is that is also honors the location of the s
 
 ## ***Keep the Cost in Check:***
 
-
 The Scottish Festival at the Queen Mary is a weekend long event, so there is a variety of tickets and **[packages you can purchase](https://wl.seetickets.us/event/ScotsFestival/353204?afflky=QueenMaryEvents) **that range from hotel/event packages to specific event tickets.
 
 ## ***Things to do Queen Mary Scots Festival:***
-
 
 If handsome men in kilts isn’t enough entertainment, don’t fret there is plenty to do at The Queen Mary Scottish Festival with kids!
 
 The Highland Games run from 9:00am until 6:00pm. Here clans test their strength and skills while visitors (like me) get to gulp beer and watch! It really is fascinating to watch as people participate in these historical athletics. Though some might not think that such an event would be very** [family friendly](/kid-friendly-travel-blogger-roundup/)**, this is precisely the sort of attraction that we love to visit with our children, with something fun for the whole family.
 
 ### Some of the events include:
-
 
 • Caber toss (log throw as I call it) where you balance the log and toss it so that it flips in a 12 o’clock fashion.
  • Stone Put, which is similar to the shot put, but instead use a stone (much more medieval) and they don’t run to a toeboard, but either stand still or spin.
@@ -69,14 +66,12 @@ Other activities include, Celtic Harp demos, sheep-herding, reenactments, iron w
 
 ## ***Where to stay: Aboard the ship, of course!***
 
-
 The Queen Mary is not only a historical site, but also functions as a hotel. It truly is an amazing experience to stay aboard this glorious ship, and if you are spending the day drinking Scottish-style, then is it probably best to purchase the *Stay and Play* or *Nightly Package*. Both packages include a night stay in one of the staterooms aboard the ship and passes to the Scots Festival events. We have actually stayed aboard the ship a couple of times and felt like we were transported back to another era.***
 ***
 
 ***[![Inside the Queen Mary Ship near Observation Bar](/images/Inside-Queen-Mary-Observation-Bar-Entrance.png)](/the-queen-mary-scots-festival-with-kids/)***
 
 ## ***Where to eat at Scots Festival:***
-
 
 Guests can experience a traditional Scottish meal for $99. Robert Burns Supper is a four-course sit-down event hosted by Robert Burns (a famous Scottish poet) and features haggis and whisky. As diners nibble and sip through the evening they also will get to enjoy traditional Scottish music and dancing. So, if you really want a full dining experience, it is worth the extra cost.
 
@@ -86,13 +81,11 @@ For those who just want to keep is casual, there are plenty of other dining opti
 
 ## ***Where to grab a drink:***
 
-
 Although it is the Queen Mary Scots Festival with kids, that doesn't mean there isn't plenty of beer and whisky for the pleasure of us parents! The thirst is real, friends. During the event, the Queen Mary offers whisky tastings and craft beer tasting, but those are purchased as upgrades to your event pass.
 
 **HotMama Tip:** Buy tasting tickets well in advance as they sell out every year!!
 
 There are various beer gardens set up around the Scots Festival, but I prefer to get out of the heat and hangout in the Observation Bar on the Queen Mary. It is probably my favorite bar in general, because I love the views and the history. In fact, we return to visit the Queen Mary several times per year just to hang out in the Observation Bar, and it is super kid-friendly. Read more details and advice about visiting the** [Queen Mary in Long Beach CA](/the-queen-mary-with-kids/)** all season long. It definitely ranks as one of our top 7 affordable **[family-friendly things to do in OC](/orange-county-family-travel/)**.
-
 
 [![Drinks at the Tavern at the Queen Mary Scots Fest](/images/DSCN8845-1024x768.jpg)](/the-queen-mary-scots-festival-with-kids/)
 
@@ -100,13 +93,13 @@ There are various beer gardens set up around the Scots Festival, but I prefer to
 
 ## ***That’s a Wrap:***
 
-
 So, you don’t need to be in Scotland to enjoy the festivities surrounding the Highland Games. You can probably find an event your part of the world easily throughout the year. I love this one, because it is at the Queen Mary. I don’t need many excuses to get my butt over that awesome ship for the day. Check out the Queen Mary Scots Festival with kids and let the games begin!
-
 
 **Have you ever been to a Scots Festival?**
 
 **Have you ever seen the real Highland Games?**
+## That's a Wrap!
+
 
 **Like it? Pin it!**
 

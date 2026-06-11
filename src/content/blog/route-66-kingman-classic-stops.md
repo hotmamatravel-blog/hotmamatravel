@@ -167,6 +167,8 @@ Let me just say, it is also the best Del Taco in my (as well as many others) hum
 My dad happens to know Ed, and we were excited to see that he was still working in the back doing dishes and cleaning tables. This is a man that truly embodies grit and hard work. We chatted with Ed for a few cherished moments while shoveling down yummy tacos. I definitely recommend making a taco stop at Del Taco #1 in Barstow the next time you are passing through, and don’t be afraid to say Hi to Ed if you spot him.
 
 ## **That’s a Wrap!**
+## That's a Wrap!
+
 
 With broad changes to interstate travel over the last 50 years, Route 66 could have languished like many other roads in its time, but in many ways it is still alive and well. Route 66 nostalgia has persisted in America’s culture and consciousness, and it is so heartening to know that these small towns, against all odds, still endure along Route 66. Kingman is a classic place to stop in the Arizona desert and Best Western Plus A Wayfarer’s Inn was a great kid-friendly hotel well-suited for our big family. If you plan a road trip, be sure to check out these historic small towns to bathe in the authentic history of Route 66, and educate your kids about America's Motor past.
 

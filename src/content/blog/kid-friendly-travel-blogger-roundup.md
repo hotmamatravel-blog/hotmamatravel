@@ -26,7 +26,6 @@ We started to wonder why there are so few resources on the web for families like
 
 ##
 
-
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -55,12 +54,9 @@ To find out if we are alone in this, **I decided to ask 14 of the best family tr
 
  	- *Does a place have to be kid-oriented to be considered kid friendly?*
 
-
 To get a summary of the results at a glance, **we have created this custom, shareable infographic** that has unique data and selected quotes from each of the great travel bloggers who volunteered to contribute to this article. *Click the image to see it in full resolution, and be sure to continue below for  full answers from each contributor.*
 
 ## Infographic: What does Kid Friendly Mean?
-
-
 
 ### Share this Image On Your Site
 
@@ -206,9 +202,6 @@ I don’t look for the typical meaning of “kid-friendly” at all when I plan 
 Kid-friendly comes in so many shapes and sizes. Simply having crayons at a restaurant can make a place kid-friendly, but you know what, as a mom, my purse is what makes a place kid-friendly. I always have an activity ready to go while we wait for a meal. Activities that are hands-on or have scavenger hunt sheets and audio guides also make a spot kid-friendly. Some of the top museums in the world, ones that many parents would never think to bring their young children, actually have some of the best children’s programming. I’ve had to drag my 5-year-old son out of Holyrood Palace because I got bored well before he did. He was that engrossed in the children’s audio guide they had created. Obviously I should have asked for the kid’s guide instead of the adult guide. The lesson learned here— never underestimate what your children will enjoy. Kids don’t need clowns, cartoons and screens to have fun. They can find fun anywhere, especially if they can explore with their family and share the magic they find in the world."
 
 *Thank you Keryn!*
-
-## That's a Wrap!
-
 
 As you can clearly see, kid friendly means a little something different to every family, and that is OK. In this blog roundup, we heard from 14 family travel experts who unanimously agree that a place definitely does not have to be kid-oriented in order to be a kid friendly travel destination. The lesson is this: Don't be afraid to take your children, no matter what age, to any city, establishment or attraction, as long as they will let you in the door with them! And I leave you with this, from when my daughter was just a year old (leave a comment if you know what movie this is from for bonus points!):
 

@@ -10,13 +10,11 @@ wpSlug: "glamping-los-angeles"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Los Angeles is known for being the film and television capital, attracting millions of tourists a year. With so much to do and see in L.A it is no wonder why it is a great city for a family vacation. However, Los Angeles has more to offer than just the warm glow of the spotlights.&nbsp;
 
 For those looking for a more outdoorsy experience, consider staying at one of these awesome Los Angeles glamping sites. Glamping in Los Angeles is a great option for those visiting and for locals looking to escape the hustle and bustle of the city.
 
 ## Best Los Angeles Glamping Sites
-
 
 <figure id="ventura-ranch-koa-wagon-glamping-los-angeles-ca"><a href="/images/ventura-ranch-koa-wagon-glamping-los-angeles-ca.jpg"><img src="/images/ventura-ranch-koa-wagon-glamping-los-angeles-ca.jpg" alt="" /></a></figure>
 
@@ -34,9 +32,6 @@ Ventura Ranch KOA Holiday is a great glamping site for families thanks to the pl
 
 [See photos, reviews &amp; more](/go/ventura-ranch-koa-los-angeles-ca/)
 
-
-
-
 <figure id="teepee-glamping-Acton-KOA-Los-Angeles-Ca"><a href="/images/teepee-glamping-Acton-KOA-Los-Angeles-Ca.jpg"><img src="/images/teepee-glamping-Acton-KOA-Los-Angeles-Ca.jpg" alt="" /></a></figure>
 
 #### [Acton Los Angeles North KOA Holiday](/go/acton-los-angeles-north-koa-holiday/)
@@ -50,9 +45,6 @@ Acton Los Angeles North KOA Holiday is close enough to the city for you to hit u
 Acton Los Angeles North KOA Holiday is great for families, because there are plenty of exciting activities, like arts and crafts, movies under the stars, and more. From May through October you can enjoy the refreshing pool. For the adventurers, you can access the famous Pacific Crest Trail. Also, you are not too far away from local Los Angeles attractions to make a day of fun in the city.
 
 [See photos, reviews &amp; more](/go/acton-los-angeles-north-koa-holiday/)
-
-
-
 
 <figure id="soledad-rv-campground-glamping-los-angeles-ca"><a href="/images/soledad-rv-campground-glamping-los-angeles-ca.jpg"><img src="/images/soledad-rv-campground-glamping-los-angeles-ca.jpg" alt="" /></a></figure>
 
@@ -68,9 +60,6 @@ At Soledad Canyon RV Resort, you feel secluded without being too far from Los An
 
 [See photos, reviews &amp; more](/go/soledad-canyon-rv-camping-resort-los-angeles-ca/)
 
-
-
-
 <figure id="fairplex-rv-park-glamping-los-angeles-ca"><a href="/images/fairplex-rv-park-glamping-los-angeles-ca.jpg"><img src="/images/fairplex-rv-park-glamping-los-angeles-ca.jpg" alt="" /></a></figure>
 
 #### [Fairplex RV Park](/go/fairplex-rv-park-los-angeles-ca/)
@@ -84,8 +73,6 @@ Located across the street from the Los Angeles Fairplex, Fairplex RV Park is a g
 Fairplex RV Park does not offer a ton of activities, the perk is more about the location. Located in the middle of both Los Angeles and Orange County you are close to both area’s attractions. However, there is a pool that the kids will enjoy and a convenience store for all your glamping needs.
 
 [See photos, reviews &amp; more](/go/fairplex-rv-park-los-angeles-ca/)
-
-
 
 ## That's a Wrap!
 
@@ -122,8 +109,6 @@ For more awesome glamping sites from around the country, check out our there pos
 - [Glamping Texas](/glamping-texas/)
 
 - [Glamping Upstate New York](/glamping-upstate-new-york/)
-
-
 
 **Like it? Pin it!**
 

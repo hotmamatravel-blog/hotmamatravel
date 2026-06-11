@@ -11,9 +11,7 @@ wpSlug: "glamping-upstate-new-york"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 We all need a little city escape sometimes to reconnect with our families, ourselves and nature. If you love nature, but don’t love the work of camping, then you will love these awesome sites for glamping in Upstate New York that I have put together for you.
-
 
 <figure id="firelight-camps-tents-glamping-upstate-new-york"><a href="/images/firelight-camps-tents-glamping-upstate-new-york.jpg"><img src="/images/firelight-camps-tents-glamping-upstate-new-york.jpg" alt="" /></a></figure>
 
@@ -29,9 +27,6 @@ The Lobby Tent includes a beverage station with hot water, coffee and tea, a wat
 
 [See photos, reviews &amp; more](/go/firelight-glamping-upstate-new-york/)
 
-
-
-
 <figure id="Orenda-family-tents-glamping-upstate-new-york"><a href="/images/Orenda-family-tents-glamping-upstate-new-york.jpeg"><img src="/images/Orenda-family-tents-glamping-upstate-new-york.jpeg" alt="" /></a></figure>
 
 #### [Camp Orenda](/go/orenda-glamping-upstate-new-york/)
@@ -45,9 +40,6 @@ The Canvas Cabins at Camp Orenda can sleep from two to four guests with various 
 All meals (except lunch) at the onsite, Backcountry Kitchen, are all-inclusive and are all cooked over an open-fire in cast iron skillets, Dutch ovens and griddles. There is even a S’mores bar in the evenings. Base Camp is the common area that all campers can enjoy, including a general store and several dining and gathering areas. While staying at Camp Orenda, you will have access to hiking trails, canoeing, kayaking, swimming and cliff diving, fishing, archery and mountain biking.
 
 [See photos, reviews &amp; more](/go/orenda-glamping-upstate-new-york/)
-
-
-
 
 <figure id="harmony-hill-yurt-glamping-upstate-new-york"><a href="/images/harmony-hill-yurt-glamping-upstate-new-york.jpg"><img src="/images/harmony-hill-yurt-glamping-upstate-new-york.jpg" alt="" /></a></figure>
 
@@ -63,9 +55,6 @@ Onsite, you can enjoy massages, guided intuitive nature walks that include a for
 
 [See photos, reviews &amp; more](/go/harmony-hill-retreat-glamping-upstate-new-york/)
 
-
-
-
 <figure id="treetopia-family-glamping-upstate-new-york"><a href="/images/treetopia-family-glamping-upstate-new-york.jpg"><img src="/images/treetopia-family-glamping-upstate-new-york.jpg" alt="" /></a></figure>
 
 #### [Treetopia Campground](/go/teetopia-glamping-upstate-new-york/)
@@ -79,9 +68,6 @@ At Treetopia Campground you have a variety of options like sleeping in Tree Hous
 Onsite you can enjoy a pool, but there aren’t any other onsite activities or dining, but the location of Treetopia puts you right in the center of amazing outdoor activities. The campground has put together a list of local favorites like hiking trails, ziplining, ski resorts, river cruises, historic sites and more.
 
 [See photos, reviews &amp; more](/go/teetopia-glamping-upstate-new-york/)
-
-
-
 
 <figure id="deerpark-koa-family-glamping-upstate-new-york"><a href="/images/deerpark-koa-family-glamping-upstate-new-york.jpg"><img src="/images/deerpark-koa-family-glamping-upstate-new-york.jpg" alt="" /></a></figure>
 
@@ -97,9 +83,7 @@ At Neversink River Resort you can partake in various recreational activities suc
 
 [See photos, reviews &amp; more](/go/deerpark-koa-upstate-new-york/)
 
-
-
-## That's A Wrap!
+## That's a Wrap!
 
 Start planning your spring and summer family vacations now and book a stay at one of these amazing upstate New York glamping sites. If you love glamping and want more, check out our other great glamping options from around the country! Happy Glamping!
 
@@ -134,8 +118,6 @@ Start planning your spring and summer family vacations now and book a stay at on
 - [Glamping Texas](/glamping-texas/)
 
 - [Glamping Upstate New York](/glamping-upstate-new-york/)
-
-
 
 **Like it? Pin it!**
 

@@ -159,6 +159,8 @@ SeaWorld San Diego is a very positive place for the animals as well as its human
 **Have you ever been to SeaWorld San Diego?**
 
 **What new attraction are you most excited about?**
+## That's a Wrap!
+
 
 **Like it? Pin it!**
 

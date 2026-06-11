@@ -11,13 +11,11 @@ wpSlug: "glamping-palm-springs"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Palm Springs, Hollywood’s favorite desert escape. For decades Palm Springs is where many Californians come to escape the city and seek refuge among the desert landscape. Now, glamping Palms Springs allows you to reconnect with nature, but with the amenities that would make any hotel lover comfortable.
 
 Here’s a list of some great Palm Spring glamping sites that allow you to experience the outdoors, enjoy desert nights and sleep knowing nothing will slither or crawl across your face at night!
 
 **Disclaimer**: Links in this page will help you find relevant information by linking directly to specific pages on partner websites (i.e. TripAdvisor, AirBnB). If you click a link, we may earn a small commission on transactions, which helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. *You can read more on our [disclosure policy](/disclosure-policy/).*
-
 
 <figure><img src="/images/palm-springs-rv-resort-family-glamping-palm-springs-ca.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of Palm Springs RV Resort</figcaption></figure>
 
@@ -37,9 +35,6 @@ If exploring the desert is what you seek, there are plenty of natural trails and
 
 [See photos, reviews &amp; more](/go/palm-springs-rv-resort-palm-springs-ca/)
 
-
-
-
 <figure><img src="/images/emerald-desert-rv-resort-glamping-palm-springs.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of Emerald Desert RV Resort</figcaption></figure>
 
 #### [Emerald Desert RV Resort](/go/emerald-desert-rv-resort-palm-springs-ca/)
@@ -53,9 +48,6 @@ Family Glamping  -  Villas  -  Pool  -  Family&nbsp;activities  -  Private bathr
 Emerald Desert RV Resort connects you with the outdoors while giving you five-star amenities and service. This property features a pool, fitness center, a putting green, and eight pickle balls courts. For those who don’t have an RV, but want to experience glamping in Palm Springs at the Emerald Desert RV Resort, you can rent one of the 12 onsite villas. Villas range from studio suites to three-bedrooms. Villas allow you to enjoy the amenities and outdoor lifestyle of Emerald Desert RV Resort, but without having to bring your own RV!
 
 [See photos, reviews &amp; more](/go/emerald-desert-rv-resort-palm-springs-ca/)
-
-
-
 
 <figure><img src="/images/shadow-hill-rv-resort-glamping-palm-springs.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of Shadow Hill RV Resort </figcaption></figure>
 
@@ -73,9 +65,6 @@ The teepees sleep up to two people with either one queen or two twins and are lo
 
 [See photos, reviews &amp; more](/go/shadow-hill-rv-resort-palm-springs-ca/)
 
-
-
-
 <figure><img src="/images/indian-waters-rv-resort-cottages-glamping-palm-springs.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of Indian Water RV Resort &amp; Cottages</figcaption></figure>
 
 #### [Indian Waters RV Resort &amp; Cottages](/go/indian-waters-rv-resort-cottages-palm-springs-ca/)
@@ -90,9 +79,6 @@ You can glamp on this beautiful property by staying in a cute onsite cottage. Th
 
 [See photos, reviews &amp; more](/go/indian-waters-rv-resort-cottages-palm-springs-ca/)
 
-
-
-
 <figure><img src="/images/kates-lazy-desert-glamping-palm-springs-ca.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of Kate's Lazy Desert</figcaption></figure>
 
 #### [Kate's Lazy Desert](/go/kates-lazy-desert-palm-springs-landers-ca/)
@@ -106,8 +92,6 @@ Airstream Glamping  -  Adults Only  -  Private Bathrooms
 Owned by Kate Pierson from the B52's, Kate's Lazy Desert is an adults only  desert glamping site located in the Mojave desert about 45 minutes from Palm Springs and 20 minutes from Joshua Tree National Park. There are six vintage airstream options to choose from, each designed in a cool retro theme. Each airstream sleeps two adults, has a private bathroom, small cooktop, coffee maker and basic cooking utensils and BBQ with picnic site. It's the perfect place for stargazing and a quiet, relaxing glamping experience near Palm Springs.
 
 [See photos, reviews &amp; more](/go/kates-lazy-desert-palm-springs-landers-ca/)
-
-
 
 ## That's a Wrap!
 
@@ -146,8 +130,6 @@ For even more inspiration, check out our articles on:
 - [Upstate New York Glamping](/glamping-upstate-new-york/)
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 **Like it? Pin it!**
 

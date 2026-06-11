@@ -12,7 +12,6 @@ wpSlug: "haunted-hotels-savannah"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Savannah, Georgia, is known for its beautiful architecture, rich history, and, of course, its haunted past. But there’s so much more to this Southern gem. There are plenty of **[cool things to do in Savannah with kids](/things-to-do-in-savannah-ga-with-kids/)**, from exploring cobblestone squares to dining at a **[haunted restaurant](/best-haunted-places-with-kids/)**.
 
 And since Savannah also ranks high on my list of **[best towns to visit for Halloween](/best-towns-for-halloween/)**, it’s no surprise that it’s home to some of the most haunted, and surprisingly family-friendly, hotels in the country. Here are the most iconic and luxurious family-approved haunted hotels in Savannah.
@@ -83,11 +82,7 @@ Complimentary amenities include morning coffee or tea service, a chef-prepared S
 
 [**See photos, reviews &amp; more**](/go/hamilton-turner-inn-savannah-ga/)
 
-
-
-## That's A Wrap!
-
-
+## That's a Wrap!
 
 Overall, Savannah is a great destination for families looking for a haunted getaway. From historic hotels to charming inns, the city is home to a number of family-friendly haunted hotels that are sure to provide a spooky and exciting adventure.
 
@@ -95,10 +90,7 @@ Explore our blog to discover more [**haunted places and hotels**](/best-haunted-
 
 If you would like to see more of what Georgia has to offer, check out our [**Georgia Family Travel**](/best-of-georgia-family-travel/) resources.
 
-
-
 Like it? Pin it!
 
 <figure data-essb-pin-description="👻✨ Looking for a spooky and stylish family getaway? These haunted hotels in Savannah, Georgia mix Southern charm with spine-tingling stories—perfect for adventurous families who love a little ghostly fun with their history! #FamilyTravelWithATwist #HauntedHotels #SavannahGeorgia #FamilyAdventure"><a href="/images/Haunted-Hotels-in-Savannah-Georgia-for-Families.jpg"><img src="/images/Haunted-Hotels-in-Savannah-Georgia-for-Families-200x300.jpg" alt="most haunted hotels in savannah georgia" /></a></figure>
-
 

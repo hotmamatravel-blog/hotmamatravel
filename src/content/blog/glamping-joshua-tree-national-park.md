@@ -10,11 +10,9 @@ wpSlug: "glamping-joshua-tree-national-park"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Joshua Tree, California is a National Park with a rugged desert landscape and Dr. Suess-style trees that twist towards the sky. There are many interesting hiking trails to explore, like the Hidden Valley trail that weaves through giant boulders! Joshua Tree glamping allows you to bask in this unique desert oasis and reconnect with nature, all while enjoy the comfort of modern amenities!
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, AirBnB). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
-
 
 <figure id="joshua-tree-glamping-hicksville-trailer-palace"><a href="/images/joshua-tree-glamping-hicksville-trailer-palace.jpg"><img src="/images/joshua-tree-glamping-hicksville-trailer-palace.jpg" alt="" /></a></figure>
 
@@ -30,9 +28,6 @@ For trailers without a private bathroom, there is a communal shower room and toi
 
 [See photos, reviews &amp; more](/go/hicksville-trailer-palace-joshua-tree-ca/)
 
-
-
-
 <figure><img src="/images/joshua-tree-glamping-castle-house-estate.jpg" alt="" /></figure>
 
 #### [The Castle House Estate](/go/castle-house-estate-joshua-tree-ca/)
@@ -44,9 +39,6 @@ Yurt Glamping  -  Tiny Houses  -  Glamping trailers  -  Pool
 Featured on HGTV as the “ultimate glamping experience, The Castle House Estate sits on 8-acres blurring the lines of indoor and outdoor living. The entrance is marked with two adobe guard towers, which you can actually book a stay within that features a tower-top lounge. Onsite there are a number of campsites, tiny homes, trailers and yurt tents that each include its own fire pit. The property amenities include a small swimming pool, outdoor shower, and portable bathrooms. The desert views and unique imagery are extremely instagram-worthy (just check out some of the photos at the link below).
 
 [See photos, reviews &amp; more](/go/castle-house-estate-joshua-tree-ca/)
-
-
-
 
 <figure><img src="/images/joshua-tree-glamping-joshua-tree-acres.jpeg" alt="" /></figure>
 
@@ -60,9 +52,6 @@ Joshua Tree Acres is a charming spot to glamp in Joshua Tree. Started by three f
 
 [See photos, reviews &amp; more](https://www.joshuatreeacres.com/)
 
-
-
-
 <figure><img src="/images/joshua-tree-glamping-joshuas-treehouses.jpg" alt="" /></figure>
 
 #### [Joshua’s Treehouses](/go/joshuas-treehouses-glamping-joshua-tree-ca/)
@@ -74,9 +63,6 @@ Yurt Glamping  -  Tiny Houses  -  Outdoor bathtubs  -  Private firepits  -  Priv
 Located on five acres of desert property, Joshua’s Treehouses offer six accommodation options from yurts to tiny houses for the ultimate Joshua Tree glamping experience. Each yurt and tiny house sleeps up to two people and features beds, heaters, outdoor bathtubs, private firepits and outdoor lounge furniture. The Studio tiny house has its own private bathroom, but the other properties have shared bathroom facilities. For guests at Joshua’s Treehouses you can enjoy the communal kitchen, container pool and jacuzzi.
 
 [See photos, reviews &amp; more](/go/joshuas-treehouses-glamping-joshua-tree-ca/)
-
-
-
 
 <figure id="autocamp-joshua-tree-glamping"><a href="/images/autocamp-joshua-tree-glamping.jpg"><img src="/images/autocamp-joshua-tree-glamping.jpg" alt="" /></a></figure>
 
@@ -95,8 +81,6 @@ The resort also offers numerous family-friendly activities and amenities. Kids c
 AutoCamp Joshua Tree's family-friendly atmosphere extends to its communal spaces as well. The resort features a clubhouse with a community kitchen and dining area, encouraging families to gather and connect over shared meals. The onsite shop offers local products and provisions, making it convenient for families to stock up on snacks and essentials.
 
 [See photos, reviews &amp; more](/go/autocamp-glamping-joshua-tree/)
-
-
 
 ## That's a Wrap!
 
@@ -135,8 +119,6 @@ For more nearby options, check out our article on the [best glamping sites near 
 - [Glamping Florida](/best-glamping-florida/)
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 **Like it? Pin it!**
 

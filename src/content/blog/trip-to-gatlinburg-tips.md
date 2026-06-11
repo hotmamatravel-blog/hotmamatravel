@@ -58,7 +58,5 @@ Gatlinburg hosts a variety of seasonal events and festivals that add an extra la
 
 The summer months are filled with music and food festivals, such as the Gatlinburg Craftsmen’s Fair and Smoky Mountain Tunes &amp; Tales. Fall is celebrated with the Smoky Mountain Harvest Festival, featuring autumn decorations, craft shows, and seasonal foods. Participating in these events is a great way to experience the local culture and join in the community’s celebrations. Be sure to check the event calendar when planning your trip to see what’s happening during your stay.
 
-## That's a Wrap!
-
 Gatlinburg is a destination that truly has it all, from stunning natural landscapes to vibrant local culture and delicious cuisine. By planning your visit during the off-season, choosing the right accommodations, exploring the Great Smoky Mountains National Park, and immersing yourself in downtown Gatlinburg, you’ll ensure a memorable and enjoyable trip. Add to that the experience of local art and craftsmanship, savoring local flavors, taking scenic drives, participating in seasonal events, and finding time to relax, and you have the recipe for a perfect vacation. Embrace the charm and beauty of Gatlinburg, and you’ll create memories that last a lifetime.
 

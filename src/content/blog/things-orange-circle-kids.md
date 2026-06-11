@@ -12,13 +12,11 @@ wpSlug: "things-orange-circle-kids"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Made official in 1875, Orange was once a farming community bursting with orange groves. Although Orange is still thriving, the groves have since diminished. Visitors can still catch glimpses of the past where Alfred Chapman and Andrew Glassell established the first plaza center, an area locals refer to as Orange Circle or Old Towne Orange. Now, it is a favorite weekend hangout for Orange County locals as well as popular filming location for various movies and television shows.&nbsp;
 
 Orange Circle is great for antique lovers too, as you can spend the afternoon wandering through the local shops between frequent beer breaks on the many options of restaurant patios. As regulars we know all the fun things to do at the Orange Circle with kids, and we rank it as one of our favorite top** **[**7 cheap things to do in OC**](/orange-county-family-travel/). So, here’s what’s happening at the historical Orange Circle.
 
 **Here's what's in this article**:
-
 
 ### Unique area attractions
 
@@ -46,14 +44,11 @@ Orange Circle is great for antique lovers too, as you can spend the afternoon wa
 - [Royer Mansion](#royer-mansion-orange)
 - [Women's Club](#womens-club-orange)
 
-
-
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 ## Kid-friendly Orange Circle Attractions
 
 Orange Circle, most of the time, is very laid-back, but has its moments of coming alive. With all the bars and restaurants around, nights are very lively. Most days, it is nice to wonder around, pop into various shops, and enjoy some good food and drink.
-
 
 <figure><img src="/images/Orangecircle-1024x1024.jpg" alt="antique mall in old towne orange" /></figure>
 
@@ -63,9 +58,6 @@ Shops, shops and more shops. If you love antiques and sweet boutiques, then you�
 
 [See photos, reviews &amp; more](/go/orange-circle-antique-mall-orange-ca/)
 
-
-
-
 <figure><img src="/images/Street-Fari-e1491513362146.png" alt="International street fair at orange circle " /></figure>
 
 #### **[International Street Fair](/go/old-towne-orange-ca/)**
@@ -73,10 +65,6 @@ Shops, shops and more shops. If you love antiques and sweet boutiques, then you�
 The International Street Fair has been an Old Towne tradition since 1973 and was inspired by the first International Street Fair in 1910. Probably the craziest time I’ve ever experienced at the Orange Circle. There are over 40 vendors offering food and adult libations from all over the world. There is live entertainment everywhere as well as local artists selling their handmade crafts. It is quite an event and it gets real busy, but it is really fun and really yummy.
 
 [See photos, reviews &amp; more](/go/old-towne-orange-ca/)
-
-
-
-
 
 #### [Haunted Orange County Tours &amp; Events](/go/haunted-orange-county-old-towne-orange-ca/)
 
@@ -86,10 +74,7 @@ Yes people, ghost tours. It is a historical district after all and what historic
 
 [See photos, reviews &amp; more](/go/haunted-orange-county-old-towne-orange-ca/)
 
-
-
 ## Family Restaurants in Old Towne Orange
-
 
 <figure><img src="/images/Filling-Station-e1491511012159.png" alt="old towne orange family restaurant filling station cafe" /></figure>
 
@@ -103,10 +88,6 @@ On the weekends Filling Station offers breakfast all day, which my kids love! If
 
 [See photos, reviews &amp; more](/go/filling-station-cafe-old-towne-orange-ca/)
 
-
-
-
-
 #### **[Rutabegorz](/go/rutabegorz-restaurant-old-towne-orange/)**
 
 * 264 N Glassell St, Orange, CA 92866*
@@ -114,9 +95,6 @@ On the weekends Filling Station offers breakfast all day, which my kids love! If
 Healthy and delicious? Yup. Rutabegorz nailed it. In this 1915 converted home of former citrus ranchers, Rutabegorz continues their tradition of giving new life to historical buildings. Vegetarian dishes, lean meats, low-fat dressings and tons of flavors keep the people coming back for more, including myself. Again, I tend to favor the patio, but the inside is fascinating with its funky twist on early 1900’s décor.
 
 [See photos, reviews &amp; more](/go/rutabegorz-restaurant-old-towne-orange/)
-
-
-
 
 <figure><img src="/images/family-restaurant-old-town-orange-felix-continental-cafe.jpg" alt="" /><figcaption>courtesy of Felix Continental Cafe</figcaption></figure>
 
@@ -130,9 +108,6 @@ In addition to beer and wine, libations include a variety of specialty drinks an
 
 [See photos, reviews &amp; more](/go/felix-continental-cafe-old-towne-orange-ca/)
 
-
-
-
 <figure><img src="/images/tokyo-cafe-orange.jpg" alt="" /></figure>
 
 #### **[Tokyo Café](/go/tokyo-cafe-old-towne-orange-ca/)**
@@ -143,10 +118,6 @@ This is a tiny and cozy Japanese restaurant, serving up delicious sushi rolls as
 
 [See photos, reviews &amp; more](/go/tokyo-cafe-old-towne-orange-ca/)
 
-
-
-
-
 #### **[Avila’s E](/go/avilas-ranchito-old-towne-orange-ca/)[l](/go/avilas-ranchito-old-towne-orange-ca/)[Ranchito](/go/avilas-ranchito-old-towne-orange-ca/)**
 
 * **182 S Orange St, Orange, CA 92866***
@@ -154,9 +125,6 @@ This is a tiny and cozy Japanese restaurant, serving up delicious sushi rolls as
 Avila’s El Ranchito is a delicious family-owned restaurant in Old Towne Orange, located in a stunning historic church with original wood floors and stained glass windows. The Avila family have been in business for over 50 years and still going strong. Avila’s El Ranchito is a favorite for taco Tuesday, but a great choice anytime of the week.&nbsp;
 
 [See photos, reviews &amp; more](/go/avilas-ranchito-old-towne-orange-ca/)
-
-
-
 
 <figure><img src="/images/haven-gastropub-orange.jpg" alt="" /></figure>
 
@@ -168,9 +136,6 @@ Haven is a really nice gastropub with a great menu and impressive whiskey and be
 
 [See photos, reviews &amp; more](/go/haven-craft-kitchen-bar-old-towne-orange-ca/)
 
-
-
-
 <figure><img src="/images/gabbis-mexican-kitchen-old-town-orange.jpg" alt="" /></figure>
 
 #### **[Gabbi’s Mexican Kitchen](/go/gabbis-mexican-kitchen-old-towne-orange-ca/)**
@@ -181,10 +146,6 @@ Gabbi’s is located in a cute building built in the early 1900’s and is owned
 
 [See photos, reviews &amp; more](/go/gabbis-mexican-kitchen-old-towne-orange-ca/)
 
-
-
-
-
 #### **[Citrus City Grille](/go/citrus-city-grille-old-towne-orange-ca/)**
 
 * 122 N Glassell St, Orange, CA 92866*
@@ -192,10 +153,6 @@ Gabbi’s is located in a cute building built in the early 1900’s and is owned
 Citrus City Grille has been around for over 20 years and serves up delicious modern American cuisine. They have a popular sunday brunch otherwise they are open for dinner. The menu has sophisticated dishes adults will enjoy like their signature Chilean Sea Bass as well as pastas and pizzas that kids will likely love. There is also a quaint patio located in front for views of downtown Old Towne Orange.
 
 [See photos, reviews &amp; more](/go/citrus-city-grille-old-towne-orange-ca/)
-
-
-
-
 
 #### **[Francoli Gourmet](/go/francoli-gourmet-old-towne-orange-ca/)**
 
@@ -205,10 +162,7 @@ This beautiful restaurant features an upscale northern Italian menu that adults 
 
 [See photos, reviews &amp; more](/go/francoli-gourmet-old-towne-orange-ca/)
 
-
-
 ## Historic Districts in Orange County
-
 
 <figure><img src="/images/plaza-square-park-old-towne-orange.jpg" alt="" /></figure>
 
@@ -219,9 +173,6 @@ This beautiful restaurant features an upscale northern Italian menu that adults 
 Located right in the center of Old Towne Orange Historic District, The Plaza Park cannot be missed. Taking center stage is the beautiful 1937 white fountain adorned with terracotta tiles around the base and surrounded by blooming rose bushes. This square park encircled by historical buildings and homes is a lovely place to take a break, enjoy an ice cream and let the kids play.
 
 [See photos, reviews &amp; more](/go/plaza-square-park-old-towne-orange-ca/)
-
-
-
 
 <figure><img src="/images/watsons-drug-soda-old-towne-orange.jpg" alt="" /></figure>
 
@@ -235,9 +186,6 @@ Today, you can still come in and enjoy the nostalgia over a good burger and a sh
 
 [See photos, reviews &amp; more](/go/watsons-drug-store-soda-fountain-old-towne-orange-ca/)
 
-
-
-
 <figure><img src="/images/big-mommas-house-old-town-orange.jpg" alt="filming location of Big Momma" /></figure>
 
 #### **[Big Momma’s House](/go/old-towne-orange-ca/)**
@@ -250,10 +198,6 @@ In addition, the surrounding neighborhood is worth a stroll with the family as a
 
 [See photos, reviews &amp; more](/go/old-towne-orange-ca/)
 
-
-
-
-
 #### [Royer Mansion](/go/old-towne-orange-ca/)
 
 * **307 E Chapman Ave, Orange, CA 92866*
@@ -261,10 +205,6 @@ In addition, the surrounding neighborhood is worth a stroll with the family as a
 The Royer Mansion built in 1900 was once the home of Orange mayor, Dr. Daniel Franklin Royer.&nbsp;Now the home functions as the Chamber of Commerce and is the meeting place for your Haunted Orange County tour. The mayor died in 1929 and the home became a mortuary. Oh spooky, I know. That’s why it makes for a perfect starting point for a haunted ghost walk. Lots of people have had a paranormal experience here. Maybe you will too, if you are lucky enough...or unlucky enough, depending how you look at it.
 
 [See photos, reviews &amp; more](/go/old-towne-orange-ca/)
-
-
-
-
 
 #### [Women’s Club](/go/old-towne-orange-ca/)
 
@@ -274,8 +214,6 @@ Established in February of 1915 by a Miss Lea Collins invited friends, friends a
 
 [See photos, reviews &amp; more](/go/old-towne-orange-ca/)
 
-
-
 ## That's a Wrap!
 
 A day spent at Orange Circle with kids is just so relaxing. It is a historical little section of town that is quaint enough to be charming, but has enough going on that it is not boring. The streets are lined with so many exciting dining options that you could literally spend a whole day here eating. The kids get excited to try new food and then find a new treasure at the antique shops. Plus, it is so scenic! I have had several friends take their engagement photos here. I bet you’ll love it. Come check out and I’ll come over and meet you for a beer…with my kids. Ha. Check out our vlog from a [fun family day at Orange Circle](https://youtu.be/UiZe1nV6CHg).
@@ -283,8 +221,6 @@ A day spent at Orange Circle with kids is just so relaxing. It is a historical l
 If you would like to spookier side to Old Towne Orange, check out our guide to [Orange Circle's Haunted Places](/haunted-places-old-towne-orange-circle/).
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 **Like it? Pin it!**
 

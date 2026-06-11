@@ -73,6 +73,8 @@ All of us enjoyed watching the bats, but the kids really got a kick out of the A
 
 **For more things to do in Texas, check out our related posts:**
 
+## That's a Wrap!
+
  	- [Things to do in San Antonio](/things-san-antonio-kids/)
 
  	- [Where to Stay in San Antonio](/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/)

@@ -91,6 +91,8 @@ What kids doesn't like sweet treats? There are a few different sweet shops, but 
 Fun little shops, yummy restaurants and quirky entertainment, make Seaport Village with kids a fun daytrip for the whole family. It is close enough to Downtown and other San Diego attractions that makes it convenient to spend a couple ours enjoying a meal or stroll along the bay without too much effort. When traveling with kids we love anything with minimal effort! So, the next time you visit San Diego, pop by Seaport Village and have fun!
 
 **Have you ever visited Seaport Village? Tell me about your favorite things to there.**
+## That's a Wrap!
+
 
 **Like it? Pin it!
 **

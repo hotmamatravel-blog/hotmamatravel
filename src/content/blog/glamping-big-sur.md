@@ -12,11 +12,9 @@ wpSlug: "glamping-big-sur"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Big Sur is a lovely mountain escape located along California’s Central Coast nestle between the Santa Lucia Mountains and the Pacific ocean. Abundant in lush forest, giant Redwoods and breathtaking coastal views, glamping Big Sur is sure to make for a magical experience. Here are our picks for the best glamping sites in Big Sur to recharge and reconnect.
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. AirBnB, TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
-
 
 <figure id="treebones-resort-big-sur-glamping"><img src="/images/treebones-resort-glamping-yurts-big-sur.jpg" alt="yurt glamping at Treebones Resort in Big Sur California" /><figcaption class="wp-element-caption">Courtesy of Treebones Resort</figcaption></figure>
 
@@ -34,9 +32,6 @@ On the property you have access to the main lodge, where the restrooms are locat
 
 [See photos, reviews &amp; more](/go/treebones-resort-big-sur-ca/)
 
-
-
-
 <figure id="glen-oaks-big-sur-glamping"><img src="/images/glen-oaks-glamping-cabins-big-sur.jpg" alt="glamping cabins at Glen Oaks Resort in Big Sur California" /><figcaption class="wp-element-caption">Courtesy of Glen Oaks Big Sur</figcaption></figure>
 
 #### [Glen Oaks Big Sur](/go/glen-oaks-big-sur-ca/)
@@ -52,9 +47,6 @@ There are two options with the Oak Tree Cottages - the Cottage is a one bedroom 
 At Glen Oaks Big Sur you are nestled within Redwoods and just steps from amazing hiking trails, river views, nature-based local attractions and more. Onsite you can dine at Big Sur Roadhouse for a hearty locally-sourced meal. If you feel like you need a little relaxation, book a massage in your cabin or at the CannaSpa.
 
 [See photos, reviews &amp; more](/go/glen-oaks-big-sur-ca/)
-
-
-
 
 <figure id="glamping-big-sur-fernwood-resort"><img src="/images/adventure-tent-fernwood-resort-glamping-big-sur.jpg" alt="glamping adventure tents at Fernwood resort in Big Sur California" /><figcaption class="wp-element-caption">Courtesy of Fernwood Resort</figcaption></figure>
 
@@ -72,9 +64,6 @@ Fernwood Resort is located in the heart of Big Sur near the river and with acces
 
 [See photos, reviews &amp; more](/go/fernwood-resort-big-sur-ca/)
 
-
-
-
 <figure id="ventana-big-sur-glamping-big-sur"><img src="/images/ventana-big-sur-glamping.jpg" alt="glamping tents at Ventana Resort in Big Sur California" /><figcaption class="wp-element-caption">Courtesy of Ventana Big Sur</figcaption></figure>
 
 #### [Ventana Big Sur](/go/ventana-glamping-big-sur-ca/)
@@ -88,9 +77,6 @@ At Ventana you have the option of staying at their luxury resort or in one of th
 When glamping at Ventana, you will not have access to the resort grounds, pools or fitness center at this time, but you do have access to SurStream for snack and drinks and Big Sur Smokehouse for meals. You can also add enhancements, like a s'more kit,&nbsp; beer and wine, a cheese and wine picnic basket, and more. There are also unique events to participate in such as falconry on the property. There are a number of hiking trails to enjoy exploring the ancient Redwoods that surround the canyon.
 
 [See photos, reviews &amp; more](/go/ventana-glamping-big-sur-ca/)
-
-
-
 
 <figure id="saddle-mountain-ranch-glamping-big-sur"><img src="/images/saddle-mountain-ranch-family-glamping-big-sur.jpg" alt="glamping tents at Saddle Mountain Ranch in Carmel-Big Sur California" /><figcaption class="wp-element-caption">Courtesy of Saddle Mountain Ranch</figcaption></figure>
 
@@ -107,8 +93,6 @@ For my glampers, there are two styles of glamping tents. Both the Luxury Tents a
 For bigger groups and families, there are ten cabins to choose from, sleeping anywhere from four to seven people. The cabins also have private bathrooms and kitchens. There are also the five Pool House suites that sleep up to 10&nbsp; with two bathrooms, if you rent out the whole house. The Bunk House is more rustic style with six beds, BBQ, kitchenette, seating area and lighting. The Bunk House does not have a private bathroom, but rather it is located next to the Gazebo Tents with access to the shared bathhouse. Saddle Mountain Ranch has a pool and playground for you to enjoy as well as access to over five miles of hiking trails.
 
 [See photos, reviews &amp; more](/go/saddle-mountain-ranch-big-sur-ca/)
-
-
 
 ## That's a Wrap!
 
@@ -147,8 +131,6 @@ If you would like to check out more amazing glamping sites in California see our
 - [Glamping Upstate New York](/glamping-upstate-new-york/)
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 **Like it? Pin it!**
 

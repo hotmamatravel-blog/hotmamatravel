@@ -58,11 +58,11 @@ Finally, if you want to use your pilot’s license for travel, then you’ll nee
 
 Learning to fly is not only an exciting hobby, it can open up many new opportunities for you. You could start a new career as a commercial pilot, begin an aerial photography business, or simply use your pilot’s license to make your next travel adventure a little more exciting. Earning your pilot’s license takes time and money, so if this is something you want to do, it’s best to start planning it out as soon as you can. That way, you can ensure that you’ve set aside enough time, saved up any money you need, and can plan out any future trips based on when you expect to get your license.
 
-## That's A Wrap!
-
 <div class="uagb-separator-wrap">
 
 </div>
+
+## That's a Wrap!
 
 So there you have it! If you want to take your love of travel to another level, like above the clouds kind of level, then you may want to learn to fly. With these steps you are on your way for an exciting chapter in your travel life. Take to the skies and bon voyage!
 

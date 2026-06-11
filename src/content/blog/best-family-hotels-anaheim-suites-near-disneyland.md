@@ -12,7 +12,6 @@ wpSlug: "best-family-hotels-anaheim-suites-near-disneyland"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 So you are planning a trip to [**Anaheim with kids**](/things-to-do-in-anaheim/) and need help finding the right hotel? Well, ***high-five***, because you landed in the right place!
 
 This article will help you choose the perfect kid-friendly hotel near Disneyland for your family, whether it's a desire for:
@@ -39,13 +38,7 @@ Whatever you need, our list likely has you covered!
 
 Ok, so we begin this article with a set of answers to Frequently Asked Questions (FAQs). **I recommend you start here** if you are just beginning your research on family hotels in Anaheim.
 
-
-
 ## Frequently Asked Questions
-
-
-
-
 
 ### Are there any non-Disney hotels that are walking distance to Disneyland park?
 
@@ -71,11 +64,7 @@ Yes, there are several hotels that offer free breakfast buffet. Our favorite hot
 
 Free hotel parking is rare to find near Disneyland, but free parking is offered to guests at [**Clementine Hotel &amp; Suites**](/go/clementine-hotel-suites-anaheim/), and is included in some packages at [**Anaheim Majestic Garden Hotel**](/go/majestic-garden-hotel-anaheim/).
 
-
-
 ## Best Family Hotels Near Disneyland Anaheim
-
-
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/majestic-garden-anaheim-hotel-swimming-pool.jpg"><img src="/images/majestic-garden-anaheim-hotel-swimming-pool.jpg" alt="Anaheim Majestic Garden Family Hotel near Disneyland" /></a><figcaption class="uagb-image-caption">Photo courtesy of Anaheim Majestic Garden Hotel</figcaption></figure></div>
 
@@ -315,8 +304,6 @@ In addition to the water playground, the hotel features a heated outdoor pool, a
 
 **[See Photos, Reviews, &amp; More](/go/howard-johnson-anaheim/)**
 
-## That's a Wrap!
-
 There are lots of hotel options for families visiting the Anaheim area, ranging from budget motels to all-suite family hotels. Here we've highlighted what we think are the **best family hotels near Disneyland** considering factors like price, amenities, location, room size, kids' activities, and more.
 
 I promise, if you are visiting Disneyland, one of the [**family beaches near Anaheim**](/beaches-near-anaheim/), or another awesome nearby city, like [**Buena Park**](/buena-park-with-kids/), you will not go wrong staying at one of these family-friendly Anaheim hotels. *Happy travels!*
@@ -327,13 +314,9 @@ For more hotels with all the amenities your family will love, check out our guid
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
-
-
 **Like it? Pin it!** *Your choice*
 
 <div class="wp-block-columns has-2-columns">
 <div class="wp-block-column">
 <figure><img src="/images/best-family-hotels-anaheim-suites-near-disneyland-for-kids-200x300.jpg" alt="5 Hottest family hotels in Anaheim - Best family suites near Disneyland" /></figure>
-
-
 

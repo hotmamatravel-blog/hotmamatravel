@@ -10,9 +10,7 @@ wpSlug: "things-to-do-in-the-berkshires"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 The Berkshires is a beautiful and diverse region in Massachusetts, with plenty of things to do and see for families. Here are ten activities and attractions that you and your family can enjoy during a visit to the Berkshires.
-
 
 <figure id="Mount-Greylock-Berkshires-Massachusetts"><a href="/images/Mount-Greylock-Berkshires-Massachusetts.jpg"><img src="/images/Mount-Greylock-Berkshires-Massachusetts.jpg" alt="" /></a></figure>
 
@@ -28,9 +26,6 @@ Mount Greylock is also a popular destination for winter sports, including cross-
 
 [See photos, reviews &amp; more](/go/mount-greylock-berkshires-massachusetts/)
 
-
-
-
 <figure id="Bash-Bish-Falls-Berkshires-Massachusetts"><a href="/images/Bash-Bish-Falls-Berkshires-Massachusetts.jpg"><img src="/images/Bash-Bish-Falls-Berkshires-Massachusetts.jpg" alt="" /></a></figure>
 
 #### [Bash Bish Falls](/go/bash-bish-falls-berkshires-massachusetts/)
@@ -42,9 +37,6 @@ Bash Bish Falls is accessible by a moderate hike, the trail is about 1.5 miles r
 There are campsites available nearby the falls, it is a great way to enjoy the outdoors and explore the waterfall at different times of day.
 
 [See photos, reviews &amp; more](/go/bash-bish-falls-berkshires-massachusetts/)
-
-
-
 
 <figure id="Tanglewood-Music-Center-Berkshires-Massachusetts"><a href="/images/Tanglewood-Music-Center-Berkshires-Massachusetts.jpg"><img src="/images/Tanglewood-Music-Center-Berkshires-Massachusetts.jpg" alt="" /></a></figure>
 
@@ -62,9 +54,6 @@ Hungry? Tanglewood has several dining options available for visitors, from casua
 
 [See photos, reviews &amp; more](/go/tanglewood-music-center-berkshires-massachusetts/)
 
-
-
-
 <figure id="Clark-Art-Institute-Berkshires-Massachusetts"><a href="/images/Clark-Art-Institute-Berkshires-Massachusetts.jpg"><img src="/images/Clark-Art-Institute-Berkshires-Massachusetts.jpg" alt="" /></a></figure>
 
 #### [Clark Art Institute](/go/clark-art-institute-berkshires-massachusetts/)
@@ -77,9 +66,6 @@ The Clark Art Institute website has a blog that provides updates on new exhibiti
 
 [See photos, reviews &amp; more](/go/clark-art-institute-berkshires-massachusetts/)
 
-
-
-
 <figure id="Massachusetts-Museum-Contemporary-Arts-Berkshires-Massachusetts"><a href="/images/Massachusetts-Museum-Contemporary-Arts-Berkshires-Massachusetts.jpg"><img src="/images/Massachusetts-Museum-Contemporary-Arts-Berkshires-Massachusetts.jpg" alt="" /></a></figure>
 
 #### [Massachusetts Museum of Contemporary Art](/go/mass-moca-berkshires-massachusetts/)
@@ -91,9 +77,6 @@ The Massachusetts Museum of Contemporary Art (MASS MoCA) is a contemporary art m
 The MASS MoCA website has a blog called "The Inside scoop" which features updates on new exhibitions, events, and programs taking place at the museum, as well as essays and articles about art, artists, and the museum's collection. You can also find information about upcoming shows and events, staff picks, and behind the scenes looks at the museum's operations.
 
 [See photos, reviews &amp; more](/go/mass-moca-berkshires-massachusetts/)
-
-
-
 
 <figure id="The-Mount-Edith-Wharton-Home-Berkshires-Massachusetts"><a href="/images/The-Mount-Edith-Wharton-Home-Berkshires-Massachusetts.jpg"><img src="/images/The-Mount-Edith-Wharton-Home-Berkshires-Massachusetts.jpg" alt="" /></a></figure>
 
@@ -111,9 +94,6 @@ Additionally, the Mount's gardens are a great spot for a picnic or a walk, it is
 
 [See photos, reviews &amp; more](/go/edith-wharton-home-berkshires-massachusetts/)
 
-
-
-
 <figure id="Mission-House-Berkshires-Massachusetts"><a href="/images/Mission-House-Berkshires-Massachusetts.jpg"><img src="/images/Mission-House-Berkshires-Massachusetts.jpg" alt="" /></a></figure>
 
 #### [Mission House](/go/mission-house-stockbridge-berkshires-massachusetts/)
@@ -127,9 +107,6 @@ At the Mohican Miles exhibit you will learn more about Indigenous history as wel
 For families, there are always interesting activities going on at the Mission House, including easy guided kid-friendly hikes, cozy fire pit gatherings, art-making, cooking classes and adventures. Every season offers a selection of family-friendly activities, so it is always a great time to plan your visit.
 
 [See photos, reviews &amp; more](/go/mission-house-stockbridge-berkshires-massachusetts/)
-
-
-
 
 <figure id="Stockbridge-Bowl-Berkshires-Massachusetts"><a href="/images/Stockbridge-Bowl-Berkshires-Massachusetts.jpg"><img src="/images/Stockbridge-Bowl-Berkshires-Massachusetts.jpg" alt="" /></a></figure>
 
@@ -145,9 +122,6 @@ For the active families there are several hiking trails that run around the lake
 
 [See photos, reviews &amp; more](https://stockbridgeinn.com/2022/06/17/stockbridge-bowl/)
 
-
-
-
 <figure id="Lake-Onota-Berkshires-Massachusetts"><a href="/images/Lake-Onota-Berkshires-Massachusetts.jpg"><img src="/images/Lake-Onota-Berkshires-Massachusetts.jpg" alt="" /></a></figure>
 
 #### [Lake Onota](/go/lake-onota-berkshires-masschusetts/)
@@ -158,13 +132,7 @@ There are several hiking trails that wind through the surrounding woods and offe
 
 [See photos, reviews &amp; more](/go/lake-onota-berkshires-masschusetts/)
 
-
-
-
-
-## That's A Wrap!
-
-
+## That's a Wrap!
 
 The Berkshires is a beautiful area of Massachusetts that makes for the perfect family getaway anytime of year. In addition to gorgeous nature to explore and enjoy, there is a plenty of art, culture and history to be experienced. So what are you waiting for?
 
@@ -175,8 +143,6 @@ To help you explore more of Massachusetts, check out our other posts.
 - [Haunted Hotels in Salem, MA](/haunted-hotels-in-salem-ma/)
 
 - [Best Family Hotels in Boston, MA](/best-family-hotels-boston/)
-
-
 
 **Like it? Pin it!**
 

@@ -91,6 +91,8 @@ I have to say; out of all the hotels in Americus I am so thankful we had the cha
 **Have you ever heard of the Windsor Hotel?**
 
 **Have you ever been to Americus?**
+## That's a Wrap!
+
 
 **Like it? Pin it!**
 

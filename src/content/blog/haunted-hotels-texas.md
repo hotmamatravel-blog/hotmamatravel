@@ -12,7 +12,6 @@ wpSlug: "haunted-hotels-texas"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 The Lone Star State, where history and the supernatural collide in the most entertaining way possible! Texas isn't just about cowboys and barbecue; it's also home to some spine-tingling, hair-raising haunted hotels that promise an unforgettable stay. Get ready to pack your bags and your courage as we embark on a ghostly journey through the heart of Texas, where you'll find accommodations that are eerily comfortable, devilishly charming, and hauntingly hospitable. If you're itching for a spooktacular getaway that's more fun than frightening, these haunted hotels in Texas are sure to cast their spell on you!
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="menger-hotel-haunted-hotels-san-antonio"><figure><a href="/images/menger-hotel-haunted-hotels-san-antonio.jpg"><img src="/images/menger-hotel-haunted-hotels-san-antonio.jpg" alt="Haunted Menger Hotel in San Antonio Texas" /></a></figure></div>
@@ -209,8 +208,6 @@ The Magnolia Hotel is living history, with a side of thrills. It’s a stay that
 
 **[See Photos, Reviews, &amp; More](/go/magnolia-hotel-texas/)**
 
-## That's a Wrap!
-
 In the vast expanse of Texas, where barbecue and cowboy legends usually hog the spotlight, we’ve uncovered a side that’s rich in history, mystery, and just the right dose of the supernatural. Staying in these haunted hotels isn’t just about spine-tingling thrills; it’s your ticket to a family adventure that blends goosebumps with giggles.
 
 From the grandeur of The Menger Hotel in San Antonio to the timeless elegance of The Driskill Hotel in Austin, and all the uncanny experiences in between, every stay promises stories you’ll retell long after checkout.
@@ -220,8 +217,6 @@ If your family’s ready to dig deeper into the Lone Star State, don’t miss ou
 So go ahead—secure your reservations, embrace the enigmatic, and may your Texan ghostly escapade be a symphony of laughter, goosebumps, and memories that linger like friendly spirits.
 
 Explore more haunted places in Texas as wells as across America, in the **[best towns to visit for Halloween](/best-towns-for-halloween/)**.
-
-
 
 Like it? Pin it!
 

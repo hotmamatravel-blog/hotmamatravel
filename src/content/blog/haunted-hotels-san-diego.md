@@ -12,7 +12,6 @@ wpSlug: "haunted-hotels-san-diego"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Whether you believe in ghosts or not, there’s something magnetic about stepping into a historic hotel that’s seen it all: celebrations, heartbreak, and maybe even a few lingering guests who never quite checked out.
 
 One of my favorite ways to soak up that eerie charm is by staying in a haunted hotel. There’s just something thrilling about hearing footsteps in an empty hallway or catching a whiff of old perfume with no one around.
@@ -177,8 +176,6 @@ Families will love how close the hotel is to the action; it's within walking or 
 
 **[See More Photos, Reviews, &amp; More](/go/horton-grand-hotel-san-diego/)**
 
-## That's a Wrap!
-
 The next time you visit San Diego, you could stay in a regular, predictable hotel (yawn), ***or*** you could check into one of these *hauntingly* historic gems that come with a side of goosebumps and great stories. If you’re anything like me, you’ll appreciate the antique charm, creaky floors, and mysterious energy that only time (and a few ghosts) can create.
 
 If you prefer something a little less spooky but still full of character, check out my review of our favorite family-friendly stay in Old Town, the **[Best Western Plus Hacienda Hotel](/hacienda-hotel/)**. Or, if you’d rather trade haunted hallways for starlit skies, you’ll love my **[Glamping in San Diego](/glamping-san-diego/)** guide. It’s the perfect way to add a touch of luxury to your next outdoor adventure.
@@ -186,8 +183,6 @@ If you prefer something a little less spooky but still full of character, check 
 And for all my fellow paranormal-loving travelers, don’t miss my collection of more **[haunted hotels and places to visit with your family](/best-haunted-places-to-visit-for-families/)**! It’s packed with destinations that blend history, mystery, and family fun, HotMama style!
 
 Wherever your travels take you, whether it’s a haunted suite or a sunny California beach, you’ll find plenty of ideas in my **[Best of California Family Travel](/california-family-travel/)** guide to help you plan your next unforgettable trip. So go ahead, pack your bags, keep an open mind, and let the adventure (and maybe a ghost or two) surprise you.
-
-
 
 Like it? Pin it!
 

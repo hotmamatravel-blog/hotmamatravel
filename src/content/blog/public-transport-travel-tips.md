@@ -41,7 +41,5 @@ When traveling, it’s easy to lose track of time, especially when you’re imme
 
 When in doubt, don’t hesitate to approach public transport staff for help. Most transport stations have information desks, and staff members are usually willing to assist with directions, ticketing questions, or any concerns you might have. Even if there’s a language barrier, transport staff are typically well-versed in assisting tourists and can often communicate basic information in English or through visual aids like maps.
 
-## That's a Wrap!
-
 It’s easy to get lost in any modern public transport system, so be sure to take the time to do the research that you need. It can help you see a lot more and enjoy your city break without the frustrations and stress of getting lost.
 

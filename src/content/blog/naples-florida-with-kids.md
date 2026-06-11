@@ -10,7 +10,6 @@ wpSlug: "naples-florida-with-kids"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Naples, located on the Paradise Coast in southwest Florida is known for many things. It has been called "the Beverly Hills of Florida" as well as "town of the newly wed and nearly dead", and it gets its reputation for good reason. True, it is not a cheap party town ideal for young college spring breakers.
 
 Rather, Naples is luxurious, classy, beautiful and if you look closely, it is full of family fun. It is brimming with so many fabulous shopping districts, delicious restaurants and pristine beaches that keep us coming back to Naples Florida with kids.
@@ -24,7 +23,6 @@ No matter where you live, we are certain that Naples, FL would be a great choice
 To make the planning even easier, **this article will show you exactly where to stay, where to eat and what to do to have a fabulous family trip to Naples with kids.**
 
 **Here's what's in this article**:
-
 
 ### Unique area attractions
 
@@ -100,12 +98,9 @@ To make the planning even easier, **this article will show you exactly where to 
 
 - [Corkscrew Swamp Sanctuary](#corkscrew-swamp-sanctuary)
 
-
-
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 ## Kid-friendly Naples Attractions
-
 
 <figure id="naples-pier-naples-fl-family-vacations"><a href="/images/naples-pier-naples-fl-family-vacations.jpg"><img src="/images/naples-pier-naples-fl-family-vacations.jpg" alt="" /></a></figure>
 
@@ -121,9 +116,6 @@ Additionally, there are plenty of nearby amenities such as restrooms, showers, a
 
 [See photos, reviews &amp; more](/go/naples-pier-naples-fl/)
 
-
-
-
 <figure id="naples-zoo-naples-fl-family-vacations"><a href="/images/naples-zoo-naples-fl-family-vacations.jpg"><img src="/images/naples-zoo-naples-fl-family-vacations.jpg" alt="" /></a></figure>
 
 #### [Naples Zoo &amp; Caribbean Gardens](/go/naples-zoo-caribbean-gardens-naples-fl/)
@@ -133,9 +125,6 @@ Additionally, there are plenty of nearby amenities such as restrooms, showers, a
 We had the best experience at Naples Zoo and definitely recommend for a fun and easy family attraction to do in Naples. First of all, the price is reasonable; about half of the cost of visiting the San Diego Zoo and even less if you purchase your tickets online. The animals are much more accessible, which my babies loved because they could actually see the lions and tigers and bears. (Oh My!) You will enjoy the primate boat cruise, where primates live freely on various islands within the zoo and your kids will LOVE feeding the giraffes.
 
 [See photos, reviews &amp; more](/go/naples-zoo-caribbean-gardens-naples-fl/)
-
-
-
 
 <figure id="golisano-childrens-museum-naples-fl-family-vacations"><a href="/images/golisano-childrens-museum-naples-fl-family-vacations.jpg"><img src="/images/golisano-childrens-museum-naples-fl-family-vacations.jpg" alt="" /></a></figure>
 
@@ -147,10 +136,6 @@ Just like with travel, the Naples Children’s Museum promotes family bonding an
 
 [See photos, reviews &amp; more](/go/golisano-childrens-museum-naples-fl/)
 
-
-
-
-
 #### [Naples Train Museum](/go/naples-train-museum-naples-fl/)
 
  *401 10th St S, Naples, FL 34102*
@@ -159,10 +144,7 @@ Open on the weekends only, the Naples Train Museum is a multi-level model train 
 
 [See photos, reviews &amp; more](/go/naples-train-museum-naples-fl/)
 
-
-
 ## Family-friendly Hotels in Naples
-
 
 <figure id="naples-grande-beach-resort-naples-resorts-for-kids"><a href="/images/naples-grand-beach-resort-naples-resorts-for-kids.jpg"><img src="/images/naples-grand-beach-resort-naples-resorts-for-kids.jpg" alt="" /></a></figure>
 
@@ -174,9 +156,6 @@ This is where we have stayed for years and it never disappoints. This kid-friend
 
 [See photos, reviews &amp; more](/go/naples-grande-beach-resort-naples-fl/)
 
-
-
-
 <figure id="hyatt-house-naples-5th-avenue-naples-resorts-for-kids"><a href="/images/hyatt-house-naples-5th-avenue-naples-resorts-for-kids.jpg"><img src="/images/hyatt-house-naples-5th-avenue-naples-resorts-for-kids.jpg" alt="" /></a></figure>
 
 #### [Hyatt House Naples/5th Avenue](/go/hyatt-house-naples-5th-avenue-naples-fl/)
@@ -186,9 +165,6 @@ This is where we have stayed for years and it never disappoints. This kid-friend
 Located on the Gordon River within walking distance from the trendy 5th Avenue, the Hyatt House Naples is another great hotel for family travel. You and your family will have plenty of room to relax in one their spacious suites and guest rooms, complete with kitchenettes and/or full kitchens. However, you will probably want to indulge in the abundance of excellent restaurants both onsite and in downtown. Guests are even treated to complimentary breakfast. You can spend your day soaking up the Florida sun by the lagoon-style pool with an infinity edge that overlooks the Gordon River. By night, take in the magical sunset by the outdoor fire pit.
 
 [See photos, reviews &amp; more](/go/hyatt-house-naples-5th-avenue-naples-fl/)
-
-
-
 
 <figure id="naples-bay-resort-marina-naples-resorts-for-kids"><a href="/images/naples-bay-resort-marina-naples-resorts-for-kids.jpg"><img src="/images/naples-bay-resort-marina-naples-resorts-for-kids.jpg" alt="" /></a></figure>
 
@@ -204,21 +180,13 @@ The resort's accommodations are also designed with families in mind, with spacio
 
 [See photos, reviews &amp; more](/go/naples-bay-resort-marina-naples-fl/)
 
-
-
-
-
 #### [Family-Friendly Beach House Rentals with VRBO](/go/naples-fl-vrbo-map/)
 
 We have stayed at a few different VRBO properties in Naples, Florida over the years. I would say that it is an excellent city to find a family-friendly home or condo, especially if you need the extra space and prefer multiple bedrooms. No, vacation rentals don't have all the amenities of a beach resort - but they could be a more affordable option and some of these homes are decorated so cutely that you'll feel like it's your second home.
 
 [See MAP of Vacation Rentals in Naples](/go/naples-fl-vrbo-map/)
 
-
-
 ## Kid-friendly Live Music near Naples
-
-
 
 #### [Tommy Bahama Restaurant &amp; Store](/go/tommy-bahama-restaurant-store-naples-fl/)
 
@@ -228,10 +196,6 @@ Naples is the original Tommy Bahama Restaurant and store and boy is it a good ti
 
 [See photos, reviews &amp; more](/go/tommy-bahama-restaurant-store-naples-fl/)
 
-
-
-
-
 #### [Old Naples Pub](/go/old-naples-pub-naples-fl/)
 
 * 255 13TH Avenue South Naples Florida 34102*
@@ -239,9 +203,6 @@ Naples is the original Tommy Bahama Restaurant and store and boy is it a good ti
 Located only two blocks from the Naples Pier, the Old Naples Pub is a favorite local hangout and for good reason. The inside is cozy and the patio is scenic, making for a friendly atmosphere day or night. The menu features yummy sandwiches, salads and seafood, but what makes this a fun is the live music Wednesday through Sunday nights. The music usually starts at 6:00 pm, which is early enough to enjoy with the kids.
 
 [See photos, reviews &amp; more](/go/old-naples-pub-naples-fl/)
-
-
-
 
 <figure id="tin-city-riverwalk-kid-friendly-restaurants-naples-fl"><a href="/images/tin-city-riverwalk-kid-friendly-restaurants-naples-fl.jpg"><img src="/images/tin-city-riverwalk-kid-friendly-restaurants-naples-fl.jpg" alt="" /></a></figure>
 
@@ -253,10 +214,6 @@ The Riverwalk Restaurant is an open-air restaurant that overlooks the Gordon Riv
 
 [See photos, reviews &amp; more](/go/riverwalk-naples-fl/)
 
-
-
-
-
 #### [The Real Macaw Restaurant &amp; Bar](/go/real-macaw-restaurant-bar-naples-fl/)
 
  *3275 Bayshore Drive, Naples, Fl 34112*
@@ -264,10 +221,6 @@ The Riverwalk Restaurant is an open-air restaurant that overlooks the Gordon Riv
 This fun restaurant has a laidback Key West style with a twinkly whimsical feeling in the evening. The bright color palette of the restaurant instantly makes you feel cheerful and locals agree that this is the spot for a good time. The live music and dancing ensures that you’ll have a blast. Live entertainment starts at 7:00pm on Friday and Saturday nights and 6:00pm on Sundays.
 
 [See photos, reviews &amp; more](/go/real-macaw-restaurant-bar-naples-fl/)
-
-
-
-
 
 #### [Bambu Tropical Bar &amp; Grille](/go/bambu-tropical-bar-grille-naples-fl/)
 
@@ -277,10 +230,6 @@ Bambu Tropical Bar &amp; Grille is an outdoor patio restaurant overlooking Naple
 
 [See photos, reviews &amp; more](/go/bambu-tropical-bar-grille-naples-fl/)
 
-
-
-
-
 #### [Paddy Murphy's Irish Pub](/go/paddy-murphys-irish-pub-naples-fl/)
 
 * *457 5th Ave S., Naples, FL, 34102
@@ -289,10 +238,7 @@ Paddy Murphy’s is a really fun Irish pub located in the heart of 5th Avenue So
 
 [See photos, reviews &amp; more](/go/paddy-murphys-irish-pub-naples-fl/)
 
-
-
 ## Bustling Naples Downtown Districts
-
 
 <figure id="tin-city-naples-attractions-for-families"><a href="/images/tin-city-riverwalk-kid-friendly-restaurants-naples-fl.jpg"><img src="/images/tin-city-riverwalk-kid-friendly-restaurants-naples-fl.jpg" alt="" /></a></figure>
 
@@ -308,9 +254,6 @@ In addition to the water activities, Tin City Riverwalk also offers a range of s
 
 [See photos, reviews &amp; more](/go/tin-city-naples-fl/)
 
-
-
-
 <figure id="5th-avenue-naples-attractions-for-families"><a href="/images/5th-avenue-naples-attractions-for-families.jpg"><img src="/images/5th-avenue-naples-attractions-for-families.jpg" alt="" /></a></figure>
 
 #### [5th Avenue South](/go/fifth-avenue-south-naples-fl/)
@@ -321,9 +264,6 @@ In addition to the water activities, Tin City Riverwalk also offers a range of s
 
 [See photos, reviews &amp; more](/go/fifth-avenue-south-naples-fl/)
 
-
-
-
 <figure id="crayton-cove-naples-attractions-for-families"><a href="/images/crayton-cove-naples-attractions-for-families.jpg"><img src="/images/crayton-cove-naples-attractions-for-families.jpg" alt="" /></a></figure>
 
 #### [Crayton Cove](/go/crayton-cove-naples-fl/)
@@ -331,9 +271,6 @@ In addition to the water activities, Tin City Riverwalk also offers a range of s
 This fun section of Downtown Naples is where the Naples Yacht Club and the Naples City Dock are located. Onsite are some shops and restaurants, including the famous Dock Restaurant. You can take in the lovely harbor views or even charter a boat from Crayton Cove. This area is another must see on your family vacation to Naples, Florida
 
 [See photos, reviews &amp; more](/go/crayton-cove-naples-fl/)
-
-
-
 
 <figure id="bayfront-naples-attractions-for-families"><a href="/images/bayfront-naples-attractions-for-families.jpg"><img src="/images/bayfront-naples-attractions-for-families.jpg" alt="" /></a></figure>
 
@@ -343,9 +280,6 @@ This part of Downtown Naples will make you feel like you have left Florida and a
 
 [See photos, reviews &amp; more](https://bayfrontnaples.com/)
 
-
-
-
 <figure id="third-street-south-naples-attractions-for-families"><a href="/images/third-street-south-naples-attractions-for-families.jpg"><img src="/images/third-street-south-naples-attractions-for-families.jpg" alt="" /></a></figure>
 
 #### [Third Street South](/go/third-street-south-naples-fl/)
@@ -354,10 +288,7 @@ Third Street South is considered the birthplace of Naples. This area, known as �
 
 [See photos, reviews &amp; more](/go/third-street-south-naples-fl/)
 
-
-
 ## Best Kid-friendly Restaurants Naples FL
-
 
 <figure id="the-dock-kid-friendly-restaurants-naples-fl"><a href="/images/the-dock-kid-friendly-restaurants-naples-fl.jpg"><img src="/images/the-dock-kid-friendly-restaurants-naples-fl.jpg" alt="" /></a></figure>
 
@@ -369,10 +300,6 @@ The Dock is a very popular Naples restaurant and one of our favorites. Overlooki
 
 [See photos, reviews &amp; more](/go/the-dock-crayton-cove-naples-fl/)
 
-
-
-
-
 #### [Rumba Cuban Cafe](/go/rumba-cuban-cafe-naples-fl/)
 
 * 1265 Airport-Pulling Rd, Naples, FL 34104*
@@ -380,10 +307,6 @@ The Dock is a very popular Naples restaurant and one of our favorites. Overlooki
 There is no better place to enjoy Cuban cuisine than in Florida. Rumba Cuban Cafe is a casual dining space, perfect for enjoying a yummy Cuban meal with kids. You can’t go wrong with a refreshing sangria to wash down a flavorful Churrasco steak and kids will love the sweet plantains (aka Maduros). There is also a kids menu with kid-friendly dishes available, because sometimes kids just want a grilled cheese.
 
 [See photos, reviews &amp; more](/go/rumba-cuban-cafe-naples-fl/)
-
-
-
-
 
 #### [Roma Italian Bistro, Pizzeria &amp; Cafe](/go/roma-italian-bistro-pizzeria-naples-fl/)
 
@@ -393,10 +316,6 @@ This is a great spot for enjoying a bottle of wine and a fresh handmade pizza al
 
 [See photos, reviews &amp; more](/go/roma-italian-bistro-pizzeria-naples-fl/)
 
-
-
-
-
 #### [Pincher's Crab Shack](/go/pinchers-crab-shack-tin-city-naples-fl/)
 
  1200 5th Ave S., Naples, FL 34102
@@ -405,10 +324,7 @@ Pincher’s Crabshack prides themselves on having the freshest crab and seafood 
 
 [See photos, reviews &amp; more](/go/pinchers-crab-shack-tin-city-naples-fl/)
 
-
-
 ## Beaches, parks and hiking near Naples
-
 
 <figure id="everglades-airboat-tour-things-to-do-in-naples-with-kids"><a href="/images/everglades-airboat-tour-things-to-do-in-naples-with-kids.jpg"><img src="/images/everglades-airboat-tour-things-to-do-in-naples-with-kids.jpg" alt="" /></a></figure>
 
@@ -418,10 +334,6 @@ Although not technically in town, [visiting the Everglades](/everglades-airboat-
 
 [See photos, reviews &amp; more](/go/everglades-city-airboat-tours-everglades-city-fl/)
 
-
-
-
-
 #### [Lowdermilk Park](/go/lowdermilk-beach-park-naples-fl/)
 
 *1301 Gulf Shore Blvd N, Naples, FL 34102*
@@ -429,10 +341,6 @@ Although not technically in town, [visiting the Everglades](/everglades-airboat-
 Lowdermilk Park is one of Naples’ popular beachfront parks, complete with two playgrounds, volleyball courts, thatched huts and a concession stand. It does cost to park, but it is a lovely park to visit and enjoy the day. You can even rent one of the gazebos onsite for a nice shady picnic.
 
 [See photos, reviews &amp; more](/go/lowdermilk-beach-park-naples-fl/)
-
-
-
-
 
 #### [Naples Botanical Gardens](/go/naples-botanical-garden-naples-fl/)
 
@@ -442,10 +350,6 @@ This garden paradise is 170-acres of tropical and lush plants from around the wo
 
 [See photos, reviews &amp; more](/go/naples-botanical-garden-naples-fl/)
 
-
-
-
-
 #### [Freedom Park](/go/freedom-park-naples-fl/)
 
  *1515 Golden Gate Pkwy, Naples, FL 34105*
@@ -454,10 +358,6 @@ Freedom Park is a family-friendly 50-acre walk through protected wetlands along 
 
 [See photos, reviews &amp; more](/go/freedom-park-naples-fl/)
 
-
-
-
-
 #### [Gordon River Greenway Park](/go/gordon-river-greenway-park-naples-fl/)
 
 *1596 Golden Gate Pkwy, Naples, FL 34105 *
@@ -465,9 +365,6 @@ Freedom Park is a family-friendly 50-acre walk through protected wetlands along 
 Gordon River Greenway Park is a tranquil place to get out and stroll through nature. The various trails of broadwalk, asphalt and mulch wind through 140-acres of six different plant communities. There are fishing piers, kayak and canoe launching docks, fountains, playgrounds and even a tree house.
 
 [See photos, reviews &amp; more](/go/gordon-river-greenway-park-naples-fl/)
-
-
-
 
 <figure id="clam-pass-park-things-to-do-in-naples-with-kids"><img src="/images/ultimate-guide-naples-florida-with-kids-things-to-do.png" alt="Guide to Naples FL with Kids" /></figure>
 
@@ -479,10 +376,6 @@ Clam Pass Park is 35-acres of coastal habitat and preserves with a boardwalk tha
 
 [See photos, reviews &amp; more](/go/clam-pass-park-naples-fl/)
 
-
-
-
-
 #### [Naples Preserve](/go/naples-preserve-naples-fl/)
 
 1690 Tamiami Trail N, Naples, FL 34102
@@ -490,10 +383,6 @@ Clam Pass Park is 35-acres of coastal habitat and preserves with a boardwalk tha
 This is 9.5-acres of protected green space in the heart of urban Naples. The boardwalks allow you to wander through this unique ecosystem, taking in all the wildlife and tropical plants along the way. This is a free walk through Pine Flatwoods and Oak-Rosemary Scrub, which are two Florida Upland habitats. It is said that this is the best location to spot Gopher Tortoises.
 
 [See photos, reviews &amp; more](/go/naples-preserve-naples-fl/)
-
-
-
-
 
 #### [Corkscrew Swamp Sanctuary](/go/corkscrew-swamp-sanctuary-naples-fl/)
 
@@ -503,17 +392,11 @@ The Corkscrew Swamp Sanctuary is 13,000-acres of mostly wetlands with 700-acres 
 
 [See photos, reviews &amp; more](/go/corkscrew-swamp-sanctuary-naples-fl/)
 
-
-
-## That's a Wrap!
-
 In our busy lives we sometimes forget to just stop, but when you are in Naples, all your senses are engaged. Here, you can take the time to touch, smell, see and taste all the things that make life pleasurable. Naples offers southern charm, a slower pace, kindness and sociability that you will love.&nbsp;
 
 I think of the trees that grow native in Southwest Florida, how they have branches that grow down to support the roots. It is hard to convey the wonder of Naples, Florida in words for there is something intangible about this place that even the trees can’t seem to grasp. I encourage you to experience Naples, FL with your family!
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 **Like it? Pin it!**
 

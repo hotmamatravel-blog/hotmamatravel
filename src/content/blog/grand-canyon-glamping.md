@@ -10,11 +10,9 @@ wpSlug: "grand-canyon-glamping"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 The Grand Canyon is a natural wonder, exposing 2-billion years of the Earth’s geological history. At a staggering 277 miles long and 18 miles wide, the Grand Canyon is a breathtaking sight that can only be truly appreciated when seen in person.&nbsp;
 
 Since visiting the Grand Canyon is such an amazing destination, you can make it *extra *special with a truly wild west experience. I have put together an incredible list of Grand Canyon glamping sites that I promise will take your visit to the next level!
-
 
 <figure id="under-canvas-grand-canyon-tent-glamping"><a href="/images/under-canvas-grand-canyon-tent-glamping.jpg"><img src="/images/under-canvas-grand-canyon-tent-glamping.jpg" alt="" /></a></figure>
 
@@ -30,9 +28,6 @@ Onsite, you can enjoy fresh locally-sourced breakfast and dinner at the lobby di
 
 [See photos, reviews &amp; more](/go/under-canvas-grand-canyon-glamping/)
 
-
-
-
 <figure id="clear-sky-resort-grand-canyon-glamping-sky-dome"><a href="/images/clear-sky-resort-grand-canyon-glamping-sky-dome.jpg"><img src="/images/clear-sky-resort-grand-canyon-glamping-sky-dome.jpg" alt="" /></a></figure>
 
 #### [Clear Sky Resorts](/go/clear-sky-resort-grand-canyon-glamping/)
@@ -47,9 +42,6 @@ Onsite, you will love to be greeted in the huge Welcome Dome with lounge areas f
 
 [See photos, reviews &amp; more](/go/clear-sky-resort-grand-canyon-glamping/)
 
-
-
-
 <figure id="wander-camp-grand-canyon-glamping-tents"><a href="/images/wander-camp-grand-canyon-glamping-tents.jpg"><img src="/images/wander-camp-grand-canyon-glamping-tents.jpg" alt="" /></a></figure>
 
 #### [Wander Camp](/go/wander-camp-grand-canyon-glamping/)
@@ -63,9 +55,6 @@ Located just 15 miles from the South Rim, Wander Camp offers a feeling of being 
 Onsite, you can enjoy campfire meals, prepared with Dutch ovens over a hot campfire. Breakfast is served at sunrise and dinner is served at sundown. You are able to be a part of the cooking process or just show up to eat. Take advantage of being in the high desert by booking an adventure with the Adventure Concierge, like mule rides, guided hiking, helicopter rides, and jeep safaris.
 
 [See photos, reviews &amp; more](/go/wander-camp-grand-canyon-glamping/)
-
-
-
 
 <figure id="grand-canyon-western-ranch-tent-glamping-grand-canyon"><a href="/images/grand-canyon-western-ranch-tent-glamping-grand-canyon.jpg"><img src="/images/grand-canyon-western-ranch-tent-glamping-grand-canyon.jpg" alt="" /></a></figure>
 
@@ -83,9 +72,6 @@ Onsite you can enjoy an authentic western-style meal, live music and cocktail at
 
 [See photos, reviews &amp; more](/go/grand-canyon-western-ranch-grand-canyon-glamping/)
 
-
-
-
 <figure id="bright-angel-lodge-cabins-glamping-grand-canyon"><a href="/images/bright-angel-lodge-cabins-glamping-grand-canyon.jpg"><img src="/images/bright-angel-lodge-cabins-glamping-grand-canyon.jpg" alt="" /></a></figure>
 
 #### [Bright Angel Lodge](/go/bright-angel-lodge-grand-canyon-glamping/)
@@ -100,9 +86,7 @@ Bright Angel Lodge is located at the top of the Bright Angel trail head, making 
 
 [See photos, reviews &amp; more](/go/bright-angel-lodge-grand-canyon-glamping/)
 
-
-
-## That's A Wrap!
+## That's a Wrap!
 
 The Grand Canyon is such a magical place and natural wonder, why not add to the experience with a one-of-kind Grand Canyon glamping experience?
 
@@ -139,8 +123,6 @@ If you love glamping and just can’t get enough we have a more locations for yo
 - [Glamping Texas](/glamping-texas/)
 
 - [Glamping Upstate New York](/glamping-upstate-new-york/)
-
-
 
 **Like it? Pin it!**
 

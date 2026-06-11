@@ -11,7 +11,6 @@ wpSlug: "route-66-family-road-trip-itinerary"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Few highways capture the American imagination like Route 66, the legendary *Mother Road* that has inspired generations of road trippers chasing nostalgia, adventure, and iconic roadside charm.
 
 As a family that’s lived out West our entire lives, we were inspired by "**[The Best Hits on Route 66: 100 Essential Stops on the Mother Road](https://amzn.to/2MOKNQk)**" by Amy Bizzarri, and decided to flip the classic journey and take our kids on a Route 66 family road trip itinerary, traveling *eastbound* from Los Angeles to Santa Fe.
@@ -24,11 +23,7 @@ If you love road trips, you may also enjoy our **[cross-country family road trip
 
 Below, you’ll find our easy Route 66 family road trip itinerary, including the best stops, kid-friendly highlights, must-see attractions, and travel tips for each city, plus why this trip is perfect for families who want adventure without overcomplicating the drive.
 
-
-
 ## Oatman, Arizona
-
-
 
 <figure><a href="/images/oatman-arizona.jpg"><img src="/images/oatman-arizona.jpg" alt="Kids at Oatman Arizona" /></a></figure>
 
@@ -52,11 +47,7 @@ We love visiting Old West ghost towns like **[Tombstone](/tombstone-with-kids/) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UucHeWQJI0I?si=-xAVmHYjs5W6cSVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## Williams, Arizona
-
-
 
 <div class="wp-block-uagb-image uagb-block-a7e55027 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/grand-canyon-arizona_201902.jpg"><img src="/images/grand-canyon-arizona_201902.jpg" alt="Grand Canyon with kids" /></a></figure></div>
 
@@ -78,11 +69,7 @@ Williams has long been considered the gateway to the Grand Canyon, one of the tr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DSpWXkWJNCo?si=2U-ACi1rQn0HRUzh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## Gallup, New Mexico
-
-
 
 <div class="wp-block-uagb-image uagb-block-be48840e wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/El-Rancho-Hotel-Gallup-NM.jpg"><img src="/images/El-Rancho-Hotel-Gallup-NM.jpg" alt="El Rancho Hotel Route 66" /></a></figure></div>
 
@@ -98,11 +85,7 @@ Gallup has served as the backdrop for over 100 old Western Movies over the years
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PPBMtgugS1o?si=lFh9le7tmNvEosUL&amp;start=118" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## Santa Fe, New Mexico
-
-
 
 <div class="wp-block-uagb-image uagb-block-5b4cd88d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Saint-francis-of-assisi-cathedral-santa-fe-with-kids.jpg"><img src="/images/Saint-francis-of-assisi-cathedral-santa-fe-with-kids.jpg" alt="Kids in Santa Fe at Saint Francis de Assisi" /></a></figure></div>
 
@@ -132,11 +115,7 @@ Santa Fe has been calling me for years, and we made it the centerpiece of our Ro
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ahBfKhPntLQ?si=roiQNFYBnkQllvD8&amp;start=118" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## Holbrook, Arizona
-
-
 
 <div class="wp-block-uagb-image uagb-block-5a267f9b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Holbrook-AZ-Route-66.jpg"><img src="/images/Holbrook-AZ-Route-66.jpg" alt="Holbrook Arizona Route 66" /></a></figure></div>
 
@@ -158,11 +137,7 @@ The highlight of our visit was exploring the legendary **[Wigwam Motel](https://
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PPBMtgugS1o?si=y7HLcpzK_E4XTctQ&amp;start=338" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## Kingman, Arizona
-
-
 
 ### Day 6 (1 night)
 
@@ -178,11 +153,7 @@ After a long drive leaving New Mexico, we stayed the night and rested up in **[K
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PPBMtgugS1o?si=VzJYxKsD6cdswsUL&amp;start=490" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## Barstow, California
-
-
 
 ### Day 7 (passing through)
 
@@ -198,11 +169,7 @@ We only ended up having lunch, because my son came down with something and we de
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PPBMtgugS1o?si=b2C62WpcFjDgRspf&amp;start=853" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## Santa Monica, California
-
-
 
 ### Day 7 (END)
 
@@ -220,15 +187,11 @@ While the Santa Monica Pier is the official ending point of historic Route 66, w
 
 - Watch sunset of the Pacific
 
-## That's a Wrap!
-
 Our Route 66 family road trip from Los Angeles to Santa Fe reminded us why the Mother Road is one of the most unforgettable drives in America. It is packed with quirky roadside stops, nostalgic diners, classic motels, and meaningful family memories along the way. Whether you’re planning a full Route 66 adventure or a partial itinerary like ours, this journey is proof that road trips with kids can be fun, affordable, and incredibly rewarding.
 
 If you’re mapping out your own route, be sure to explore our **[California family travel guide](/california-family-travel/)** and **[Arizona family travel guide](/best-of-arizona-family-travel/)** for more kid-friendly stops, hotels, and activity ideas. And to make your drive smoother (and quieter), don’t miss our **[list of road trip car games for kids](/road-trip-car-games-for-kids/)** and [**top toddler toys for car rides**](/best-toddler-toys-for-car-rides/). They’re lifesavers for long stretches of highway.
 
 Route 66 isn’t just a road, it’s a family adventure you’ll talk about for years.
-
-
 
 Like it? Pin it!
 

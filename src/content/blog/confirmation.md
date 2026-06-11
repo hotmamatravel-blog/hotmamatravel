@@ -16,6 +16,4 @@ You've confirmed your subscription to HotMamaTravel.
 
 As promised, you will be receiving a welcome email with the link to the Family Travel Planner.
 
-## That's a Wrap!
-
 Now you can start planning your next family trip today!

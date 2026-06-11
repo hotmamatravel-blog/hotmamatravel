@@ -82,6 +82,8 @@ You have to love complimentary breakfast. Every morning in the lobby, the Best W
 Staying in budget on a big trip is no joke. Best Western Philadelphia is a great choice option for cheap hotels in Philadelphia without sacrificing style and comfort,  What I love is that the competitive rates of Best Western Plus Philadelphia Convention Center Hotel allowed us to have lovely accommodations in a big city without breaking the bank. In addition, we earned Best Western Rewards through their loyalty program. Not only did we save by staying with Best Western Plus, but we continue to save on future travels. The great thing is that the points never expire and the program is free to join.
 
 ## *That’s A Wrap!*
+## That's a Wrap!
+
 
 If you are looking for where to stay in Philadelphia, look no further. We started each morning with a complimentary breakfast and ended each night with a cocktail at the cozy hotel bar. We were close enough to Philadelphia attractions that we could easily see everything we wanted in one weekend. All in all our stay at the Best Western Plus Philadelphia Convention Center Hotel was a huge success. [**Check room rates**](http://www.tkqlhce.com/click-8336032-13039224)and book your stay today!
 

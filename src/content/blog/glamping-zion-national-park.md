@@ -10,11 +10,9 @@ wpSlug: "glamping-zion-national-park"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Zion, Utah is known for breathtaking canyons that draw adventurers from all over the world. Most famous canyons include Subway, Zion Narrows, Keyhole Canyon, Mystery Canyon and Pine Creek, just to name a few. Dramatic cliffs arise along the sparkling Virgin River and Emerald Pools.&nbsp;
 
 This is the kind of place you want to take in the outdoors as much as possible, lingering in Zion's beauty. That’s why glamping in Zion makes for the perfect way to stay. To help you decide on the perfect glamping experience for you, I have put together a list of 5 of the best sites for glamping near Zion National Park.
-
 
 <figure id="under-canvas-zion-family-glamping-tents"><a href="/images/under-canvas-zion-family-glamping-tents.jpg"><img src="/images/under-canvas-zion-family-glamping-tents.jpg" alt="" /></a></figure>
 
@@ -30,9 +28,6 @@ Onsite there are a number of camp activities, like yoga, live acoustic music, tr
 
 [See photos, reviews &amp; more](/go/under-canvas-glamping-zion/)
 
-
-
-
 <figure id="zion-ponderosa-ranch-resort-family-glamping-zion"><a href="/images/zion-ponderosa-ranch-resort-family-glamping-zion.jpg"><img src="/images/zion-ponderosa-ranch-resort-family-glamping-zion.jpg" alt="" /></a></figure>
 
 #### [Zion Ponderosa Ranch Resort](/go/zion-ponderosa-ranch-resort-glamping-zion/)
@@ -46,9 +41,6 @@ Rough it in style as they say at Zion Ponderosa Ranch Resort. When looking for a
 All accommodations include breakfast at their onsite restaurant, Ray’s Restaurant, but you can pop in there anytime of the day for a great meal. During the summer season, you can enjoy a country cookout dinner at Grandma Ruth’s Country Dinner. Onsite, there are a plethora of activities, including a pool for having fun and splashing around. By the pool there is a snack bar available for refreshments. More camp activities include a rock climbing wall, mini golf, kids’ activities, paintball, skeet shooting, zip lining, outdoor sport courts and more! In addition, you can book a number of tours like canyoneering, jeep tours, hiking and horseback riding.
 
 [See photos, reviews &amp; more](/go/zion-ponderosa-ranch-resort-glamping-zion/)
-
-
-
 
 <figure id="east-zion-resort-yurt-glamping-zion"><a href="/images/east-zion-resort-yurt-glamping-zion.jpg"><img src="/images/east-zion-resort-yurt-glamping-zion.jpg" alt="" /></a></figure>
 
@@ -64,9 +56,6 @@ At East Zion Resort you can participate in a number of exciting activities, like
 
 [See photos, reviews &amp; more](/go/east-zion-resot-glamping-zion/)
 
-
-
-
 <figure id="zion-glamping-adventures-tent-glamping-zion"><a href="/images/zion-glamping-adventures-tent-glamping-zion.jpg"><img src="/images/zion-glamping-adventures-tent-glamping-zion.jpg" alt="" /></a></figure>
 
 #### [Zion Glamping Adventures](/go/zion-glamping-adventures-glamping-zion/)
@@ -80,9 +69,6 @@ Centrally located to major Zion attractions, Zion Glamping Adventures offers lux
 This glamping site is more about adventuring, the actual camp site is pretty chill with not a lot of activities onsite, but you can book a lot of adventures through Zion Glamping Adventures including horseback riding, cattle driving, 4x4 adventures, guided hikes and buggy rides. The family is sure to enjoy a very adventurous time with Zion Glamping Adventures.&nbsp;
 
 [See photos, reviews &amp; more](/go/zion-glamping-adventures-glamping-zion/)
-
-
-
 
 <figure id="zion-wildflower-resort-conestoga-wagon-glamping-zion"><a href="/images/zion-wildflower-resort-conestoga-wagon-glamping-zion.jpg"><img src="/images/zion-wildflower-resort-conestoga-wagon-glamping-zion.jpg" alt="" /></a></figure>
 
@@ -98,9 +84,7 @@ Onsite, you can enjoy an array of activities including a kids’ play area and l
 
 [See photos, reviews &amp; more](/go/zion-wildflower-resor-glamping-zion/)
 
-
-
-## That's A Wrap!
+## That's a Wrap!
 
 I don’t know about you, but I want to pack my bags and get to Zion now. With these five amazing sites for glamping in Zion to choose from, you are sure to have an incredible time outdoors experiencing Zion National Park
 
@@ -135,8 +119,6 @@ If you love glamping and want more, check out my many glamp site guides!
 - [Glamping Texas](/glamping-texas/)
 
 - [Glamping Upstate New York](/glamping-upstate-new-york/)
-
-
 
 **Like it? Pin it!**
 

@@ -11,13 +11,11 @@ wpSlug: "glasgow-with-kids"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Glasgow, the largest city in Scotland and one of the friendliest, hasn’t always had such a positive reputation. Once a major shipping port and industrial center, Glasgow, like many big cities, had issues with overcrowding, sanitation and violence. Since then, Glasgow has gone through major positive changes and re-branding.
 
 Fabulous shopping and restaurants, Glasgow University, and the School of Art have become major attractions to the city, boosting Glasgow tourism. In fact, in 2008 Glasgow was named UNESCO City of Music. There is so much do in Glasgow that it makes for a fantastic family vacation. For families traveling to Glasgow, [rental24.co.uk](https://rental24.co.uk/uk/glasgow-airport-international/9-seater) offers big 9-seater cars for rent at Glasgow Airport. It allows you to fit as many attractions as possible in one trip. We spent a month exploring Glasgow with our kids and are eager to share all the amazing things to do in Glasgow Scotland.
 
 **Here's what's in this article**...
-
 
 ### Unique Glasgow attractions
 
@@ -135,14 +133,11 @@ Fabulous shopping and restaurants, Glasgow University, and the School of Art hav
 
 - [Outlander Tours](#outlander-tours-glasgow)
 
-
-
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 ## Unique Glasgow Attractions
 
 &nbsp;
-
 
 <figure><img src="/images/science-center-glasgow-scotland.jpg" alt="" /></figure>
 
@@ -154,10 +149,6 @@ The Glasgow Science Center is a great place for all ages to learn about science 
 
 [See photos, reviews &amp; more](/go/glasgow-science-center-glasgow-scotland/)
 
-
-
-
-
 #### **[The Barras](/go/barras-market-glasgow-scotland/)**
 
 * 242 Gallowgate, Glasgow G1 5DX, United Kingdom*
@@ -166,10 +157,6 @@ The Barras is a famous secondhand and antique street and indoor weekend marketpl
 
 [See photos, reviews &amp; more](/go/barras-market-glasgow-scotland/)
 
-
-
-
-
 #### **[City Sightseeing Glasgow](/go/city-sightseeing-glasgow-glasgow-scotland/)**
 
 *George Square, Glasgow G2 1BA, United Kingdom*
@@ -177,9 +164,6 @@ The Barras is a famous secondhand and antique street and indoor weekend marketpl
 This is the best way to see the whole city in one or two days. I actually bought four days of passes, because it was so easy for me to take the kids around the various Glasgow points of interest. It is a hop-on hop-off bus with 28 stops and well worth it for the convenience, especially if you have a big group over 5 like we did (it is not always easy to hail a cab for 6+ in UK)!
 
 [See photos, reviews &amp; more](/go/city-sightseeing-glasgow-glasgow-scotland/)
-
-
-
 
 <figure><img src="/images/IMG_0281-1024x768.jpg" alt="bustling shopping district in downtown glasgaow scotland" /></figure>
 
@@ -191,9 +175,6 @@ These streets are bustling with excitement and have great Glasgow shopping! This
 
 [See photos, reviews &amp; more](/go/buchanan-street-glasgow-scotland/)
 
-
-
-
 <figure><img src="/images/DSCN9350-1024x768.jpg" alt="Ride the clockwork orange subway in glasgow scotland" /></figure>
 
 #### [Ride Clockwork Orange](/go/clockwork-orange-subway-glasgow-scotland/)
@@ -203,9 +184,6 @@ These streets are bustling with excitement and have great Glasgow shopping! This
 The subway is a super easy way to take a full loop around the city of Glasgow. You can find stations all around the loop. We started at the Hillhead station on the West End and used it to go to Buchanan Street. We loved taking the Subway or as Glaswegians call it, Clockwork Orange, because it is always on time, it is orange and goes around the city in a circle. It was clean, really cheap and fast!
 
 [See photos, reviews &amp; more](/go/clockwork-orange-subway-glasgow-scotland/)
-
-
-
 
 <figure><img src="/images/armadillo-glasgow-scotland.jpg" alt="" /></figure>
 
@@ -217,9 +195,6 @@ It is called the Armadillo, because it looks like an armadillo. However, it is a
 
 [See photos, reviews &amp; more](/go/sec-armadillo-glasgow-scotland/)
 
-
-
-
 <figure><img src="/images/SSE-Hyrdo-glasgow-scotland.jpg" alt="" /></figure>
 
 #### [SSE Hydro](/go/sse-hydro-glasgow-scotland/)
@@ -230,12 +205,9 @@ The SSE Hydro is a really cool looking all-purpose arena. Also located by the Sc
 
 [See photos, reviews &amp; more](/go/sse-hydro-glasgow-scotland/)
 
-
-
 ## Historic Sites in Glasgow
 
 &nbsp;
-
 
 <figure><img src="/images/IMG_70901-1024x1024.jpg" alt="Glasgow historic site University of Glasgow" /></figure>
 
@@ -246,9 +218,6 @@ The SSE Hydro is a really cool looking all-purpose arena. Also located by the Sc
 Glasgow University was founded in 145, making it the fourth-oldest English speaking university in the world. It also resembles Hogwarts for those Harry Potter fans. It is a magnificent public space to wander around and take some epic photos, but it is nearby several museums, including the connected Hunterian Museum.
 
 [See photos, reviews &amp; more](/go/university-glasgow-glasgow-scotland/)
-
-
-
 
 <figure><img src="/images/IMG_7415-1024x768.jpg" alt="glasgow cathedral historic site to visit with kids in glasgow scotland" /></figure>
 
@@ -262,9 +231,6 @@ Built in 1197 this is the oldest cathedral on the mainland of Scotland and truel
 
 <figure><img src="/images/IMG_7304-1024x768.jpg" alt="St. Mungo" /><figcaption class="wp-element-caption">The tomb of St. Mungo in the lower crypt of Glasgow Cathedral</figcaption></figure>
 
-
-
-
 <figure><img src="/images/IMG_7401-1024x768.jpg" alt="visiting the city of the dead with kids at necropolis in glasgow scotland" /></figure>
 
 #### **[Glasgow Necropolis](/go/necropolis-glasgow-scotland/)**
@@ -274,9 +240,6 @@ Built in 1197 this is the oldest cathedral on the mainland of Scotland and truel
 Necropolis is a massive victorian cemetery established in the 1830’s. At first it was the main burial ground for the rich tobacco lords of the city, but over the years has seen over 50,000 burials. Some of Glasgow’s most famous residents are buried here! Just a stroll across the giant and ornate stone bridge from the Glasgow Cathedral, Necropolis rises from the hill like a city for the dead. The elaborate tombstones and mausoleums are truly something to appreciate. You are free to wander through on your own or you can participate in a walking tour. There are even fun facts and print outs to help kids get most out of their visit to Glasgow Necropolis.
 
 [See photos, reviews &amp; more](/go/necropolis-glasgow-scotland/)
-
-
-
 
 <figure><img src="/images/DSCN9973-1024x683.jpg" alt="oldest home in glasgow provand" /></figure>
 
@@ -288,10 +251,6 @@ Provand’s Lordship is one of the oldest houses in Glasgow, built in 1471. Quee
 
 [See photos, reviews &amp; mor](/go/provands-lordship-glasgow-scotland/)e
 
-
-
-
-
 #### **[Mackintosh House](/go/mackintosh-house-glasgow-scotland/)**
 
 * 82 Hillhead St, Glasgow G12 8QQ, United Kingdom*
@@ -300,12 +259,9 @@ From 1906 to 1914 this was the home of the famous Glaswegian architect Charles R
 
 [See photos, reviews &amp; more](/go/mackintosh-house-glasgow-scotland/)
 
-
-
 ## Kid-Friendly Glasgow Museums
 
 &nbsp;
-
 
 <figure><img src="/images/IMG_0499-1024x461.jpg" alt="Hunterian Museum is a free museum to visit with kids in glasgow scotland" /></figure>
 
@@ -317,9 +273,6 @@ Located at the University of Glasgow, The Hunterian Museum is the oldest museum 
 
 [See photos, reviews &amp; more](/go/hunterian-museum-glasgow-scotland/)
 
-
-
-
 <figure><img src="/images/IMG_7643-1024x768.jpg" alt="kid-friendly free riverside museum in glasgow scotland" /></figure>
 
 #### **[Riverside Museum](/go/riverside-museum-glasgow-scotland/)**
@@ -329,9 +282,6 @@ Located at the University of Glasgow, The Hunterian Museum is the oldest museum 
 The Riverside Museum displays Glasgow transportation throughout the decades. There is a reproduction of an old Victorian street that you can wander down with period-style shops to explore. There are interactive displays throughout the museums, which is very engaging for the kids. Outside of the museum is a historic Tall Ship to check out too!
 
 [See photos, reviews &amp; more](/go/riverside-museum-glasgow-scotland/)
-
-
-
 
 <figure><img src="/images/DSCN9965-1024x819.jpg" alt="kelvingrove museum for families in glasgow scotland" /></figure>
 
@@ -343,9 +293,6 @@ The Kelvingrove museum opened in 1901 and is relaxing with a great mix of exhibi
 
 [See photos, reviews &amp; more](/go/kelvingrove-museum-glasgow-scotland/)
 
-
-
-
 <figure><img src="/images/DSCN98721-1024x768.jpg" alt="glasgow museum of modern art glasgow scotland" /></figure>
 
 #### **[Museum of Modern Art](/go/gallery-modern-art-glasgow-scotland/)**
@@ -355,9 +302,6 @@ The Kelvingrove museum opened in 1901 and is relaxing with a great mix of exhibi
 This is Glasgow’s main gallery for contemporary art. The museum is housed inside the former neoclassical home of Glasgow Tobacco Lord, William Cunninghame,&nbsp; built in 1778. GoMA has four galleries, a library, cafe and shop. However, it is most recognizable from the statue of Duke Wellington riding a horse with a bright orange traffic cone on his head.
 
 [See photos, reviews &amp; more](/go/gallery-modern-art-glasgow-scotland/)
-
-
-
 
 <figure><img src="/images/IMG_7484-1024x768.jpg" alt="people" /></figure>
 
@@ -371,10 +315,6 @@ Opened in 1898, the People’s Palace Museum takes you&nbsp; on a journey throug
 
 <figure><img src="/images/IMG_7487-1024x768.jpg" alt="Jacobite resting place at glasgow green in glasgow scotland" /><figcaption class="wp-element-caption">Glasgow Green on a typical cloudy day</figcaption></figure>
 
-
-
-
-
 #### **[Fossil Grove](/go/fossil-grove-glasgow-scotland/)**
 
 * 51 Victoria Park Dr S, Glasgow G14 9QR, United Kingdom*
@@ -382,10 +322,6 @@ Opened in 1898, the People’s Palace Museum takes you&nbsp; on a journey throug
 Located in Victoria Park a 330 million year-old prehistoric forest is preserved and open to the public to explore. Among the fossils discovered in 1887 are eleven fossilized stumps from extinct Lepidodendron trees.
 
 [See photos, reviews &amp; more](/go/fossil-grove-glasgow-scotland/)
-
-
-
-
 
 #### **[The Tenement House Museum](/go/tenement-house-glasgow-scotland/)**
 
@@ -395,12 +331,9 @@ This is a historic house museum from 1892 that has been preserved in time to ref
 
 [See photos, reviews &amp; more](/go/tenement-house-glasgow-scotland/)
 
-
-
 ## Parks &amp; Gardens in Glasgow
 
 &nbsp;
-
 
 <figure><img src="/images/DSCN9571-768x1024.jpg" alt="visit glasgow botanic gardens with kids" /></figure>
 
@@ -412,9 +345,6 @@ The Botanic Garden is located on the West End of Glasgow. Since it was really cl
 
 [See photos, reviews &amp; more](/go/glasgow-botanic-gardens-glasgow-scotland/)
 
-
-
-
 <figure><img src="/images/DSCN9407-1024x768.jpg" alt="kelvingrove park in glasgow scotland" /></figure>
 
 #### **[Kelvingrove Park](/go/kelvingrove-park-glasgow-scotland/)**
@@ -424,9 +354,6 @@ The Botanic Garden is located on the West End of Glasgow. Since it was really cl
 Also located on the West End, this park is along the Kelvingrove River right by the Kelvingrove Museum. This space was established in 1852. The park has a lot of activities beyond just its natural beauty including a skate park, a bowling and croquet green and a several interesting monuments.
 
 [See photos, reviews &amp; more](/go/kelvingrove-park-glasgow-scotland/)
-
-
-
 
 <figure><img src="/images/mugdock-country-park-glasgow-scotland.jpg" alt="" /></figure>
 
@@ -438,12 +365,9 @@ This made the list, because this park contains castle ruins!! Yes, castle ruins.
 
 [See photos, reviews &amp; more](/go/mugdock-country-park-glasgow-scotland/)
 
-
-
 ## Glasgow Family Restaurants
 
 &nbsp;
-
 
 <figure><img src="/images/Bothy-1024x1024.jpg" alt="the bothy a family restaurant in glasgow scotland" /></figure>
 
@@ -455,9 +379,6 @@ Located down a quiet alley on the lovely West End of Glasgow, The Bothy is a bea
 
 [See photos, reviews &amp; more](/go/bothy-restaurant-glasgow-scotland/)
 
-
-
-
 <figure><img src="/images/IMG_7063-1024x768.jpg" alt="hanoi bike shop family friendly restaurant in glasgow scotland" /></figure>
 
 #### **[Hanoi Bike Shop](/go/hanoi-bike-shop-glasgow-scotland/)**
@@ -468,10 +389,6 @@ Really delicious and authentic Vietnamese cuisine can be found at the Hanoi Bike
 
 [See photos, reviews &amp; more](/go/hanoi-bike-shop-glasgow-scotland/)
 
-
-
-
-
 #### **[DiMaggio’s](/go/dimaggios-glasgow-scotland/)**
 
 * 61 Ruthven Ln, Glasgow G12 9BG, United Kingdom*
@@ -479,9 +396,6 @@ Really delicious and authentic Vietnamese cuisine can be found at the Hanoi Bike
 DiMaggio’s was one of the Italian restaurants in Glasgow that became the kids’ favorite. They loved the macaroni and cheese and pizza, as well as the play room. We were even lucky enough to get an impromptu magic show from a professional magician disguised as a balloon animal maker during dinner here. You can watch a video of our magic show experience on our HotMamaTravel YouTube channel [**HERE**](https://www.youtube.com/c/hotmamatravel).
 
 [See photos, reviews &amp; more](/go/dimaggios-glasgow-scotland/)
-
-
-
 
 <figure><img src="/images/IMG_72351-1024x1024.jpg" alt="brel family restaurant in glasgow scotland" /></figure>
 
@@ -493,9 +407,6 @@ Brel is a Belgian restaurant with great outdoor seating right on Ashton Lane as 
 
 [See photos, reviews &amp; more](/go/brel-glasgow-scotland/)
 
-
-
-
 <figure><img src="/images/DSCN9461-1024x768.jpg" alt="grosvenor cafe family restaurant in glasgow scotland " /></figure>
 
 #### **[Grosvenor Cafe](/go/grosvenor-cafe-glasgow-scotland/)**
@@ -505,9 +416,6 @@ Brel is a Belgian restaurant with great outdoor seating right on Ashton Lane as 
 Connected to the Grosvenor Theater, the Grosvenor Cafe is perfect for dinner and a movie. When we were there, when you see a film at the theater you receive 50% off your tab at the restaurant. It is the perfect after-movie dining spot, because the whole place is designed to feel like you are on a movie set.
 
 [See photos, reviews &amp; more](/go/grosvenor-cafe-glasgow-scotland/)
-
-
-
 
 <figure><img src="/images/IMG_7182-1024x1024.jpg" alt="casual family restaurant in glasgow scotland university cafe" /></figure>
 
@@ -519,9 +427,6 @@ Established in 1918, it is somewhat of an institution and attracts many famous c
 
 [See photos, reviews &amp; more](/go/university-cafe-glasgow-scotland/)
 
-
-
-
 <figure><img src="/images/family-restaurant-hillhead-book-club-glasgow-scotland.jpg" alt="" /></figure>
 
 #### **[Hillhead Book Club](/go/hillhead-bookclub-glasgow-scotland/)**
@@ -531,9 +436,6 @@ Established in 1918, it is somewhat of an institution and attracts many famous c
 The Hillhead Book Club has really cool décor, a great cocktail list, cheap beer and a playroom for the kids! The interior design is like a wacky craftsman style with everyday items re-purposed as something else. The eclectic mix of plush velvet tufted chairs, leather belts used as backings to booths, old suitcases under the bar, delicate floral china, iron stools and exposed pipes, make this old theater house an exciting and eccentric place to grab a meal in Glasgow. We liked it so much, we actually ate here twice in the same day, which we have literally never done anywhere else!
 
 [See photos, reviews &amp; more](/go/hillhead-bookclub-glasgow-scotland/)
-
-
-
 
 <figure><img src="/images/DSCN0029-1024x768.jpg" alt="old school house family restaurant and pub in glasgow scotland" /></figure>
 
@@ -545,9 +447,6 @@ Once an actual old time schoolhouse, the Old Schoolhouse pub has really reasonab
 
 [See photos, reviews &amp; more](/go/old-school-house-glasgow-scotland/)
 
-
-
-
 <figure><img src="/images/browns-family-restaurant-glasgow-scotland.jpg" alt="" /></figure>
 
 #### **[Brown's](/go/browns-glasgow-scotland/)**
@@ -557,9 +456,6 @@ Once an actual old time schoolhouse, the Old Schoolhouse pub has really reasonab
 Brown's is a very elegant British restaurant with a grand cafe vibe. It has lobster nights, high tea and a fun cocktail hour for 5 GBP. The location was great, right off of George Square, near the bus stop and Queen Street Train Station. It was a perfect place to stop after a long day of touring Scotland by train, because it was right off the platform. Also, see Life with Frills suggestions for two more[great restaurants in Glasgow](https://www.alifewithfrills.co.uk/2022/11/great-restaurants-glasgow.html) nearby.
 
 [See photos, reviews &amp; more](/go/browns-glasgow-scotland/)
-
-
-
 
 <figure><img src="/images/IMG_6624-1024x1024.jpg" alt="family friendly drum and monkey pub and restaurant glasgow scotland" /></figure>
 
@@ -571,9 +467,6 @@ This grand pub, built in the 1920’s is located in downtown Glasgow. We visited
 
 [See photos, reviews &amp; more](/go/drum-monkey-glasgow-scotland/)
 
-
-
-
 <figure><img src="/images/DSCN9955-e1436221915130-768x1024.jpg" alt="family restaurant in glasgow scotland cathedral house " /></figure>
 
 #### **[Cathedral House Hotel &amp; Green Room Restaurant](/go/cathedral-house-hotel-restaurant-glasgow-scotland/)**
@@ -583,9 +476,6 @@ This grand pub, built in the 1920’s is located in downtown Glasgow. We visited
 The Cathedral House Hotel Green House Restaurant is located right by the Glasgow Cathedral and Necropolis. Built in 1896, this is where my Kevin’s favorite Haggis was located. He loved the fried haggis balls. The meat pie was amazing and I loved the goat cheese salad! The atmosphere in the old stone building was not too fancy, but made us feel a bit like we were dining in a castle.
 
 [See photos, reviews &amp; more](/go/cathedral-house-hotel-restaurant-glasgow-scotland/)
-
-
-
 
 <figure><img src="/images/curlers-rest-glasgow-scotland-family-pub.jpg" alt="" /></figure>
 
@@ -597,9 +487,6 @@ Curler’s Rest was our favorite place for a night cup (or a before 8:00pm drink
 
 [See photos, reviews &amp; more](/go/curlers-rest-glasgow-scotland/)
 
-
-
-
 <figure><img src="/images/DSCN9424-1024x768.jpg" alt="family restaurant glasgow scotland oran mor" /></figure>
 
 #### **[Oran Mor](/go/oran-mor-glasgow-scotland/)**
@@ -609,9 +496,6 @@ Curler’s Rest was our favorite place for a night cup (or a before 8:00pm drink
 Built in 1862 Oran Mor is an old church with a really cool bar and dining room! We went once toward the end of the trip because it was right next to our hotel. I wish we would have visited more often. It is open pretty late and visited by a more upscale crowd when we were there. Oran Mor is also a live music and arts venue, so be sure to check out their events list. Age requirements vary depending on the event.
 
 [See photos, reviews &amp; more](/go/oran-mor-glasgow-scotland/)
-
-
-
 
 <figure><img src="/images/Willow-Tea-Rooms-1024x1024.jpg" alt="willow tea rooms glasgow scotland" /></figure>
 
@@ -623,12 +507,9 @@ Enjoy a fun afternoon tea at the famous Willow Tea Rooms on Buchanan Street, ins
 
 [See photos, reviews &amp; more](/go/willow-tea-rooms-glasgow-scotland/)
 
-
-
 ## Family-Friendly Hotels in Glasgow
 
 &nbsp;
-
 
 <figure><img src="/images/hilton-glasgow-grosvenor-glasgow-scotland.jpg" alt="" /></figure>
 
@@ -640,9 +521,6 @@ Located in a historic building on the West End of Glasgow right on the corner of
 
 [See photos, reviews &amp; more](/go/hilton-glasgow-grosvenor-hotel-glasgow-scotland/)
 
-
-
-
 <figure><img src="/images/radission-blu-glasgow-scotland.jpg" alt="" /></figure>
 
 #### **[Radisson Blu Hotel](/go/radisson-blu-glasgow-scotland/)**
@@ -652,9 +530,6 @@ Located in a historic building on the West End of Glasgow right on the corner of
 If you would like to stay in the City Center, a great option is the Radisson Blu Edwardian. Located in the Financial District, it is mostly designed to accommodate business travelers, but it works for families too. I like that it has great access to Glasgow transportation, like the bus, railway and subway systems. It is even a stop on the City Sightseeing tour bus.
 
 [See photos, reviews &amp; more](/go/radisson-blu-glasgow-scotland/)
-
-
-
 
 <figure><img src="/images/belhaven-hotel-family-room-glasgow-scotland.jpg" alt="" /></figure>
 
@@ -666,14 +541,11 @@ Located on the West End of Glasgow off Bryers Road, it looks over the beautiful 
 
 [See photos, reviews &amp; more](/go/belhaven-hotel-glasgow-scotland/)
 
-
-
 ## Day Trips from Glasgow
 
 &nbsp;
 
 Glasgow is close to other points of interest outside the city and makes for fun day trips. If you are going to be in Scotland for a few days and plan on doing a lot of sightseeing, I recommend getting the Historic Scotland Explorer Pass. It is the most cost effective way to see some of the best Scotland attractions. You can customize your itinerary into 3 to 7 day passes.
-
 
 <figure><img src="/images/IMG_6941-1024x768.jpg" alt="discover scotland highland tours from glasgow scotland" /></figure>
 
@@ -689,9 +561,6 @@ Discover Scotland is a fabulous tour company that takes you all over with set it
 
 <figure><img src="/images/DSCN9683-1024x768.jpg" alt="family friendly inveraray castle scotland tours" /></figure>
 
-
-
-
 <figure><img src="/images/DSCN0052-1024x768.jpg" alt="riding scotrail with kids from glasgow scotland" /></figure>
 
 #### [Ride Scotrail](/go/scotrail-glasgow-scotland/)
@@ -701,9 +570,6 @@ Discover Scotland is a fabulous tour company that takes you all over with set it
 Scotrail is simple, efficient and inexpensive. It only took us 45 minutes by rail to get to Edinburgh and only 30 minutes to get to Stirling. The tickets are easy to purchase online and the trains leave out of Glasgow Central or Queen Street, but both are very close to each other. It is a lovely journey along with wonderful views of the Scottish country side. Some cars even have coffee and snack service, which we all enjoyed.&nbsp; If you like mores information on riding Scotrail, please see our detailed guide [HERE](/scotrail-with-kids/).
 
 [See photos, reviews &amp; more](/go/scotrail-glasgow-scotland/)
-
-
-
 
 <figure><img src="/images/visit-edinburgh-castle-with-kids-scotland.png" alt="Edinburgh Castle Visitors Guide with Kids" /></figure>
 
@@ -715,9 +581,6 @@ If it is your first time to Edinburgh, chances are you came to see Edinburgh Cas
 
 [See photos, reviews &amp; more](/go/edinburgh-castle-edinburgh-scotland/)
 
-
-
-
 <figure><img src="/images/stirling-castle-with-kids-scotland.png" alt="Stirling Castle Scotland with kids Visitor Guide" /></figure>
 
 #### **[Stirling Castle](/go/stirling-castle-stirling-scotland/)**
@@ -728,27 +591,19 @@ Stirling Castle is one of the largest castles in Scotland. Just as important as 
 
 [See photos, reviews &amp; more](/go/stirling-castle-stirling-scotland/)
 
-
-
-
-
 #### **[Outlander Tours](/go/outlander-tours-glasgow-scotland/)**
 
 If you are a fan of the fastastic book series and Starz show, like me, then you definitely want to take part in an Outlander Tour. Filiming for the show has taken place all over Scotland, but many sites are in or just minutes from Glasgow. You can even find self-guided driving tours if you prefer.
 
 [See photos, reviews &amp; more](/go/outlander-tours-glasgow-scotland/)
 
-
+&nbsp;
 
 ## That's a Wrap!
-
-&nbsp;
 
 All in all, Glasgow is an amazing and complex city! It will take me a few posts to cover everything we learned and did during our stay, but I can honestly say it is a wonderful place to visit. The people are friendly, the food is to die for and the options for fun are endless!!!
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 **Like it? Pin it!**
 

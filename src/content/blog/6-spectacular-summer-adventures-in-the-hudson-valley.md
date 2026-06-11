@@ -11,7 +11,6 @@ wpSlug: "6-spectacular-summer-adventures-in-the-hudson-valley"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 As the sun graces us with her radiant beams and the earth warms under her gentle touch, it's time to bid adieu to the confines of our homes and welcome summer’s sweet embrace. And where better to celebrate the season of sun, fun, and adventure than the glorious Hudson Valley?
 
 Oh, the Hudson Valley! A beautiful canvas of verdant valleys, majestic mountains, and serene rivers, it's a place where Mother Nature paints with a palette of vibrant hues. She transforms the landscape each season into a masterpiece that enthralls and enchants. But, it's during the summer that the Hudson Valley truly comes alive.
@@ -26,13 +25,7 @@ So, grab your sunhat, pack your adventure gear, and prepare to embark on a journ
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-
-
 ## Let the Hudson Valley summer adventure begin!
-
-
-
-
 
 #### A Nature Lover's Paradise: The Nature Place Day Camp
 
@@ -40,18 +33,11 @@ So, grab your sunhat, pack your adventure gear, and prepare to embark on a journ
 
 Kickstart your summer adventure at The [Nature Place Day Camp](https://thenatureplace.com/). Nestled in the heart of 200 beautiful acres in Rockland County, this 6-week summer adventure runs from July 3 to August 11, 2023. Whether you join for five weeks or stay the full six, it's the perfect place to explore, play, and learn in the great outdoors. It's a true highlight among Hudson Valley activities for families, and a chance to immerse yourself in Mother Nature's classroom.
 
-
-
-
-
 #### [The Hudson Highlands State Park: An Outdoor Enthusiast's Dream](/go/hudson-highlands-state-park-ny/)
 
 The next stop is the [Hudson Highlands State Park](https://parks.ny.gov/parks/hudsonhighlands/details.aspx). A haven for hiking and boating enthusiasts, this sprawling sanctuary covers more than 8,000 acres along the Hudson River. The grandeur of the river and the serenity of the rolling hills make it a must-visit spot for those seeking outdoor activities in Hudson Valley. It's the perfect backdrop for a day of exploration and adventure. As you navigate its vast expanse, soaking in the panoramic views and the intoxicating scent of fresh earth, you'll understand why this park is often hailed as one of the Hudson Valley's most precious natural treasures.
 
 [See photos, reviews &amp; more](/go/hudson-highlands-state-park-ny/)
-
-
-
 
 <figure id="kaaterskill-falls-hudson-vally-new-york"><a href="/images/kaaterskill-falls-hudson-vally-new-york.jpg"><img src="/images/kaaterskill-falls-hudson-vally-new-york.jpg" alt="" /></a></figure>
 
@@ -61,9 +47,6 @@ How about a hike to the tallest waterfall in New York? [Kaaterskill Falls](https
 
 [See photos, reviews &amp; more](/go/kaaterskill-falls-ny/)
 
-
-
-
 <figure id="state-capitol-albany-hudson-vally-new-york"><a href="/images/state-capitol-albany-hudson-vally-new-york.jpg"><img src="/images/state-capitol-albany-hudson-vally-new-york.jpg" alt="" /></a></figure>
 
 #### [The State Capital of Albany: A Blend of History and Architecture](/go/new-york-state-capitol-albany-ny/)
@@ -72,18 +55,11 @@ Swap your hiking boots for a pair of walking shoes and head to Albany, the[State
 
 [See photos, reviews &amp; more](/go/new-york-state-capitol-albany-ny/)
 
-
-
-
-
 #### [The Hudson Valley Adventure Guide: Your Passport to Adventure](/go/hudson-valley-new-york/)
 
 Here’s something for everyone: the[Hudson Valley Adventure Guide](https://hudsonvalleyguides.com/). With plenty of summer adventures, this guide is a ticket to a whirlwind of experiences, catering to everyone from the boldest thrill-seeker to the most contemplative nature lover. It's your passport to the full spectrum of Hudson Valley activities.
 
 [See photos, reviews &amp; more](/go/hudson-valley-new-york/)
-
-
-
 
 <figure id="mohonk-moutain-house-hudson-vally-new-york"><a href="/images/mohonk-moutain-house-hudson-vally-new-york.jpg"><img src="/images/mohonk-moutain-house-hudson-vally-new-york.jpg" alt="" /></a></figure>
 
@@ -95,13 +71,7 @@ Last but not least on our countdown is the [Mohonk Mountain House](https://www.m
 
 [See photos, reviews &amp; more](/go/mohonk-mountain-house-new-york/)
 
-
-
-
-
-## That's A Wrap!
-
-
+## That's a Wrap!
 
 So, there you have six spectacular adventures to fill your Hudson Valley summer with fun, frolic, and a dash of adventure. Whether you're an outdoor enthusiast, a history buff, or simply a traveler with a keen sense of curiosity, the Hudson Valley has something for everyone.
 

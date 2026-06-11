@@ -11,7 +11,6 @@ wpSlug: "self-care-when-traveling"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Amid the stress of day-to-day life, the necessity for self-care becomes clear. After all, as a Mom, the time you dedicate to your self-care routine is likely the only time you set aside for yourself. It can provide you with a welcome reprieve from stress and other negative emotions, alongside showing you the importance of putting yourself first.&nbsp;
 
 However, when traveling, it's easy to neglect self-care habits despite the many benefits they bring forward. After all, if you’re having fun when exploring the world, you may not feel the need to destress quite as often.
@@ -19,8 +18,6 @@ However, when traveling, it's easy to neglect self-care habits despite the many 
 Despite this, finding a way to prioritize self-care when traveling can help you make the most of your travels, as it means you are taking good care of yourself, both mentally and physically. With that in mind, here are some simple ways in which you can prioritize self-care when traveling.
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
-
-
 
 #### Find time to rest
 
@@ -30,19 +27,11 @@ As a result, you should ensure that you set aside some time in your schedule for
 
 When you stop for a few days, no matter where you are, you will be able to find some public transport, or you can make use of the local taxis. The bonus of a local taxi is that they know the location like the back of their hand and can make sure you get where you need to go with ease. One of the perks of taking a taxi like a [Morristown Limo](https://www.daisylimo.com/morristown_nj.html) is you get to sit back and enjoy the views, and you can get to anywhere you need to go - heck, you can even take a nap on the way!
 
-
-
-
-
 #### Maintain your beauty routine
 
 Your beauty and skincare routine doesn’t have to be left behind when you go traveling (though you may have to transfer items into smaller travel-friendly bottles). After all, abandoning your skincare or haircare routine at this stage could mean that all your hard work goes out of the window, and you begin to notice the same problems come up again and again.
 
 As a result, be sure to write down a list of all of the products you need to take with you ahead of time so that you never leave anything out of your case or backpack. While some items are a given, such as sunscreen and moisturizer, others may be less obvious or more personalized. For example, if you’ve dyed your hair and are learning [how to care for burgundy hair](https://www.hair.com/burgundy-hair-color.html), you may want to add specialist shampoo to your case.
-
-
-
-
 
 #### Find ways to keep your stress levels to a minimum
 
@@ -52,10 +41,6 @@ Fortunately, there are many ways in which you can go about this. For example, si
 
 Finding ways to keep your kids entertained on long flights or journeys can also help keep your own stress levels to a minimum, as it means you won’t be bombarded with complaints or the phrase “Are we there yet” 100 times an hour. For example, you should write down a list of [road trip car games that will keep your kids entertained for hours](/road-trip-car-games-for-kids/).&nbsp;
 
-
-
-
-
 #### Follow a healthy diet
 
 One of the greatest joys of traveling is the fact that you can[try new things](/raising-brave-kids-in-a-big-world/) - food and drink included. And, while you should always make an effort to try local cuisine, you should also ensure that you stick to a healthy, balanced diet when possible, especially if you are traveling for long periods of time.&nbsp;
@@ -63,10 +48,6 @@ One of the greatest joys of traveling is the fact that you can[try new things](/
 After all, sticking to a healthy diet will help you to better manage both your physical and mental health while also ensuring you’re full of energy each and every day.&nbsp;
 
 In some cases, taking vitamin supplements when traveling can also be helpful, as this is an effective way to ensure that your body is getting all of the nutrients and vitamins you need to thrive. However, you may also want to pack some healthy non-perishable snacks in your case.
-
-
-
-
 
 #### Participate in wellness-boosting activities
 
@@ -76,21 +57,13 @@ However, there are many other wellness pursuits you can explore during this time
 
 By setting aside some in your schedule to dedicate toward wellness, you're also setting an excellent example for your kids when it comes to managing their own well-being in the future.
 
-
-
-
-
-## That's A Wrap!
-
-
+## That's a Wrap!
 
 Self-care and travel often come hand-in-hand, as both practices give you the chance to prioritize your happiness and leave the stress of everyday life behind. As such, it's crucial that you do not leave self-care to the wayside whenever you’re on vacation, especially as failing to do so could limit the enjoyment of your trip quite considerably.
 
 Furthermore, there are plenty of ways in which you can continue to practice self-care when traveling, whether that means listening to wellness podcasts, meditating, or simply keeping up-to-date with your beauty, hair, and skincare routine.
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
-
-
 
 **Like it? Pin it!**
 

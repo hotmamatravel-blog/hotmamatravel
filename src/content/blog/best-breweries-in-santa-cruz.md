@@ -12,14 +12,9 @@ wpSlug: "best-breweries-in-santa-cruz"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Nestled along the stunning coastline of California, Santa Cruz isn't just a haven for surfers; it's also a paradise for craft beer enthusiasts seeking a taste of coastal magic. Embark on a virtual tour with us as we explore the vibrant family-friendly craft beer scene in this seaside gem, uncovering the best breweries in Santa Cruz that offer great food, music and events to complete their amazing brews!
 
-
-
 ## List of the Best Breweries in Santa Cruz
-
-
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="santa-cruz-moutain-brewing-best-breweries-santa-cruz"><figure><a href="/images/santa-cruz-moutain-brewing-best-breweries-santa-cruz.jpg"><img src="/images/santa-cruz-moutain-brewing-best-breweries-santa-cruz.jpg" alt="Womenn-owned and operated Santa Cruz Mountain Brewing" /></a><figcaption class="uagb-image-caption">Courtesy of Santa Cruz Mountain Brewing</figcaption></figure></div>
 
@@ -119,13 +114,9 @@ Complement your beer indulgence with a gastronomic journey. Sante Adairius Rusti
 
 **[See Photos, Reviews, &amp; More](/go/sante-adairius-rustic-ales-santa-cruz/)**
 
-## That's a Wrap!
-
 Hope you enjoyed this journey through the best breweries in Santa Cruz, where each brewery weaves a unique narrative through its brews. Whether you're a seasoned beer enthusiast or just beginning to explore the world of craft, Santa Cruz's breweries offer a taste of the vibrant culture that defines this coastal community. So, grab a pint, soak in the ocean breeze, and let Santa Cruz's craft beer scene enchant you. Cheers to the spirited brews and coastal vibes of this California gem!
 
 **Don't let the fun stop now! Explore more cool [breweries in more cool cities](/americas-best-breweries/)**.
-
-
 
 Like it? Pin it!
 

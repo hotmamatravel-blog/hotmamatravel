@@ -12,7 +12,6 @@ wpSlug: "free-family-activities-las-vegas"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Truth be told, you really don't have to spend a lot of money to do some very fun and free family activities Las Vegas style.
 
 Sure, the city has elegant restaurants and five-star accommodations (and $10k blackjack tables). Still, it's also full of cool [**family restaurants**](/best-family-restaurants-in-las-vegas/) and [**cheap**](/affordable-family-activities-las-vegas/) or even free entertainment opportunities, around almost every corner.
@@ -27,11 +26,7 @@ If you follow our blog, you know[**we visit Vegas frequently with our kids**](/l
 
 View this post as a Google Web Story: [**Free Things to do in Las Vegas with Kids**](/web-stories/free-things-las-vegas/)
 
-
-
 ## Free Family Activities Las Vegas
-
-
 
 <figure id="las-vegas-strip-free-attractions"><a href="/images/las-vegas-teens.jpg"><img src="/images/las-vegas-teens.jpg" alt="free family activities las vegas strip" /></a></figure>
 
@@ -284,7 +279,7 @@ If you need to know how to get to the Las Vegas sign, here are some simple direc
 
 [**See Photos, Reviews, &amp; More**](/go/las-vegas-sign/)
 
-## That's A Wrap!
+## That's a Wrap!
 
 As you can clearly see, there are many ways to have fun on a budget in [**Las Vegas with kids**](/las-vegas-with-kids/). We have outlined ten of our favorite free things to do in Las Vegas, but if you are willing to spend a buck or two, there are also a ton of other great, affordable activities for families in Las Vegas (under forty bucks or so).
 

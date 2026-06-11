@@ -12,7 +12,6 @@ wpSlug: "nevada-family-travel"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Welcome to Nevada, where family adventures unfold! Explore everything from the dazzling lights of the [**Las Vegas Strip**](/family-friendly-vegas/) to the natural wonders of Red Rock Canyon. Dive into unique experiences like family-friendly haunted places, exciting hotels, and cool activities. Time to create lasting memories together in Nevada.
 
 <div class="wp-block-stackable-card stk-block-card stk-block stk-50ea72e is-style-default" data-v="2" data-block-id="50ea72e"><div class="stk--no-padding stk-container stk-50ea72e-container stk-hover-parent"><figure class="stk-block-card__image stk-img-wrapper stk-image--shape-stretch"><img src="/images/family-friendly-las-vegas.jpg" alt="Ultimate Las Vegas family travel resource" /></figure><div class="stk-container-padding stk-block-card__content"><div class="stk-block-content stk-inner-blocks stk-50ea72e-inner-blocks">
@@ -32,10 +31,7 @@ Welcome to the ultimate guide for Las Vegas family travel! Here, you'll find a c
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
 
-
 ### Las Vegas Kids Activities
-
-
 
 - [Everything You Need to Know! Ultimate Guide to Las Vegas with Kids.](/las-vegas-with-kids/)
 
@@ -63,11 +59,7 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 - [Christmas in Las Vegas for Families](/las-vegas-christmas-activities/)
 
-
-
 ### Family Hotels in Las Vegas
-
-
 
 - [5 Best Family Hotels in Las Vegas for kids](/best-family-hotels-in-las-vegas/)
 
@@ -81,11 +73,7 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 - [Haunted Las Vegas Hotels](/haunted-hotels-in-las-vegas/)
 
-
-
 ### Kid-Friendly Restaurants Las Vegas
-
-
 
 - [5 Kid-friendly Restaurants in Las Vegas with Live Music](/kid-friendly-live-music-las-vegas/)
 
@@ -95,11 +83,7 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 - [Everything You Need to Know! Ultimate Guide to Las Vegas with Kids.](/las-vegas-with-kids/)
 
-
-
 ### More Tips &amp; Guides for Las Vegas Travel
-
-
 
 - [Best Time of Year to Visit Vegas](/best-time-of-year-to-go-to-las-vegas/)
 
@@ -117,19 +101,11 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 - [5 Insider Tips for planning a family trip to Las Vegas (plus a bonus tip)](/las-vegas-with-kids/)
 
-
-
 ### Beyond Las Vegas: Day Trips &amp; Road Trips
-
-
 
 - [3 Unforgettable Weekend Road Trips from Las Vegas](/3-day-road-trips-from-las-vegas/)
 
 - [8 Amazing Kid-Friendly Day Trips from Las Vegas that will blow your mind](/kid-friendly-day-trips-las-vegas/)
 
 - [Ghost Towns Around Las Vegas](/ghost-towns-around-las-vegas/)
-
-
-
-
 

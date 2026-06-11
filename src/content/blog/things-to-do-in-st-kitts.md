@@ -10,11 +10,9 @@ wpSlug: "things-to-do-in-st-kitts"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 The Caribbean island of St Kitts is one of the most popular destination stops for cruise passengers to the region. The dual nation has a significant place in the history of the Caribbean as it is the first country to be colonized by the British in 1623. The island is tranquil and relatively safe with friendly people, which make it one of the [best Caribbean islands for families](https://www.aroundthecaribbean.com/caribbean-islands-for-families/).
 
 Today, St Kitts still remains part of the Commonwealth of Nations with King Charles III serving as the Head of State. In this article, we explore ten amazing activities that you can enjoy in St Kitts to give you a rich appreciation of the culture, history and charm of the island.
-
 
 <figure id="Brimstone-Hill-Fortress-National-Park"><a href="/images/Brimstone-Hill-Fortress-National-Park.jpg"><img src="/images/Brimstone-Hill-Fortress-National-Park.jpg" alt="" /></a></figure>
 
@@ -28,9 +26,6 @@ This park is open to visitors daily from 9:30 am to 5:30 pm and provides breatht
 
 [See photos, reviews &amp; more](/go/brimstone-hill-fortress-national-park-st-kitts/)
 
-
-
-
 <figure id="st-maarten-day-trip"><a href="/images/st-maarten-day-trip.jpg"><img src="/images/st-maarten-day-trip.jpg" alt="" /></a></figure>
 
 #### [Island Hop To St Maarten](/go/st-martin-st-maarten-caribbean/)
@@ -40,9 +35,6 @@ One major advantage of vacationing in St Kitts is the easy access to neighboring
 Furthermore, there are also onward connections to other Dutch Caribbean Islands of Saba and St Eustatius. All prices quoted on the website are in US dollars and bookings must be made in advance. There are also other ferries services that offer transportation assistance to Anguilla and St Barths. Therefore, St Kitts is an ideal destination if you are on a budget and interested in island hopping.
 
 [See photos, reviews &amp; more](/go/st-martin-st-maarten-caribbean/)
-
-
-
 
 <figure id="nevis-st-kitts"><a href="/images/nevis-st-kitts.jpg"><img src="/images/nevis-st-kitts.jpg" alt="" /></a></figure>
 
@@ -56,9 +48,6 @@ Nature lovers to the island can enjoy the beauty of the flora, fauna and wildlif
 
 [See photos, reviews &amp; more](/go/nevis-st-kitts-caribbean/)
 
-
-
-
 <figure id="South-Peninsula-st-kitts"><a href="/images/South-Peninsula-st-kitts.jpg"><img src="/images/South-Peninsula-st-kitts.jpg" alt="" /></a></figure>
 
 #### [Take Pictures At The South Peninsula](/go/south-peninsula-st-kitts-nevis-caribbean/)
@@ -66,9 +55,6 @@ Nature lovers to the island can enjoy the beauty of the flora, fauna and wildlif
 This is truly the most spectacular spot on the island for photo opportunities. The road is long and winding and you can view the Atlantic Ocean on the left side and the Caribbean Sea on the right side of the path simultaneously. The Caribbean Sea waters are calm while the Atlantic Ocean has strong waves which are choppy. Frankly, it is a jaw-dropping site to behold.
 
 [See photos, reviews &amp; more](/go/south-peninsula-st-kitts-nevis-caribbean/)
-
-
-
 
 <figure id="port-zante-st-kitts"><a href="/images/porte-zante-st-kitts.jpg"><img src="/images/porte-zante-st-kitts.jpg" alt="" /></a></figure>
 
@@ -79,9 +65,6 @@ Located in the heart of the capital city of Basseterre, Port Zante is the cruise
 The local currency used is the Eastern Caribbean Dollar. Nevertheless, US dollars are widely accepted by businesses on the island. For ease of completing transactions, it is best to have US bills of smaller denominations. Individuals in a wheelchair will be delighted at the ease of navigation as most of the shops have ramps and the area is level and even.
 
 [See photos, reviews &amp; more](/go/port-zante-st-kitts-caribbean/)
-
-
-
 
 <figure id="romney-manor-st-kitts"><a href="/images/romney-manor-st-kitts.jpg"><img src="/images/romney-manor-st-kitts.jpg" alt="" /></a></figure>
 
@@ -96,9 +79,6 @@ architecture. This venue is a perfect activity for families including children a
 
 [See photos, reviews &amp; more](/go/romney-manor-st-kitts-caribbean/)
 
-
-
-
 <figure id="st-kitts-scenic-railway"><a href="/images/st-kitts-scenic-railway.jpg"><img src="/images/st-kitts-scenic-railway.jpg" alt="" /></a></figure>
 
 #### [Take A Scenic Train Tour](/go/st-kitts-scenic-railway-caribbean/)
@@ -108,9 +88,6 @@ Enjoy a three hour tour which covers 30 miles around the island in the [last rai
 The rail was built between 1912 and 1926 to bring sugar cane from the plantations to sugar factories on the island. This attraction is unique to St Kitts and is not available on other Caribbean islands and is perfect for individuals of all ages.
 
 [See photos, reviews &amp; more](/go/st-kitts-scenic-railway-caribbean/)
-
-
-
 
 <figure id="cockleshell-beach-st-kitts"><a href="/images/cockleshell-beach-st-kitts.jpg"><img src="/images/cockleshell-beach-st-kitts.jpg" alt="" /></a></figure>
 
@@ -125,9 +102,6 @@ It is one of the preferred locations on the island for snorkeling.
 
 [See photos, reviews &amp; more](/go/cockleshell-beach-st-kitts-caribbean/)
 
-
-
-
 <figure id="Mount-Liamuiga-st-kitts"><a href="/images/Mount-Liamuiga-st-kitts.jpg"><img src="/images/Mount-Liamuiga-st-kitts.jpg" alt="" /></a></figure>
 
 #### [Hike Mount Liamuiga](/go/mount-liamuiga-st-kitts/)
@@ -137,9 +111,6 @@ This is the highest point in St Kitts which stands at an elevation of 3,792 feet
 The hike is moderate to difficult and may be challenging for beginners. Nevertheless, the view at the summit is magnificent. There is also a crater lake which you can take a dip before descending.
 
 [See photos, reviews &amp; more](/go/mount-liamuiga-st-kitts/)
-
-
-
 
 <figure id="Basseterre-st-kitts"><a href="/images/Basseterre-st-kitts.jpg"><img src="/images/Basseterre-st-kitts.jpg" alt="" /></a></figure>
 
@@ -154,20 +125,12 @@ business meetings.
 
 [See photos, reviews &amp; more](/go/basseterre-st-kitts-nevis-caribbean/)
 
-
-
-
-
-## That's A Wrap!
-
-
+## That's a Wrap!
 
 St Kitts &amp; Nevis is truly a gem in the Caribbean that gives you the opportunity to enjoy delicious cuisine, beaches, hiking trails and for the adventurous the option to take a ferry to nearby St Maarten. The island lies on the Southern tip of the hurricane belt and is therefore susceptible to tropical storms during the period of June to November annually.
 
 **Bio**
 [Around The Caribbean](https://www.aroundthecaribbean.com/) is an online travel magazine dedicated to sharing information about the Caribbean islands. The content provides helpful and meaningful tips for individuals who want to relocate or vacation in the region.
-
-
 
 **Like it? Pin it!**
 

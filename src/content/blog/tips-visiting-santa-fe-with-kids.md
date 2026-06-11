@@ -18,9 +18,7 @@ I mean, basically, from the first time I saw Jack Maxwell from the show Booze Tr
 
 So after a fantastic time **[visiting the Grand Canyon](/grand-canyon-with-kids-williams-az/)**, we packed up the family, moved on from Arizona and set out towards New Mexico in search of exciting things to do in Santa Fe with kids.*Disclosure: We would like to thank and acknowledge **Best Western Hotels &amp; Resorts** for sponsoring our Route 66 family road trip and providing accommodations along the trip, including at the Best Western Plus Inn of Santa Fe, for review. As always, all content and opinions are genuinely our own.*
 
-
 ## **First Impressions of Best Western Plus Inn of Santa Fe**
-
 
 After a long travel day from **[Williams, AZ](/grand-canyon-with-kids-williams-az/)** and a stop at the El Rancho Hotel in Gallup, New Mexico it was such a relief to arrive at the Best Western Plus Inn of Santa Fe.
 
@@ -36,11 +34,9 @@ Little attentions-to-detail like this really excite us for some reason, and it�
 
 ### **Location**
 
-
 Located off the historic Route 66, the Best Western Plus Inn of Santa Fe makes for a perfect location for most Santa Fe attractions. For instance, it is less than a mile from Meow Wolf and about 10 minutes from Downtown Santa Fe’s historic district and Santa Fe Plaza (which we adored and you can read more about below!).
 
 ### **Amenities We Love**
-
 
 Who doesn’t love a** complimentary breakfast**? We sure do and I love having a place onsite that the kids can get fed right away. Any traveling parent will attest that hungry kids on the road are *no bueno*.
 
@@ -60,10 +56,7 @@ What can I say? Staying at a hotel with** guest laundry facilities **always make
 
 ## **Things to do in Santa Fe with Kids**
 
-
-
 ### **Santa Fe Plaza**
-
 
 The Santa Fe Plaza is a National Historic Landmark located in the heart of downtown Santa Fe. As it has been there nearly 400 years, the Santa Fe Plaza continues to be a popular gathering place for locals as well as visitors.
 
@@ -73,11 +66,9 @@ At the plaza you will find a central park surrounded by an historic mix of adobe
 
 ### **Palace of the Governors at the New Mexico History Museum**
 
-
 Visiting the Palace of the Governors is a real chance to step into Santa Fe history. This palace was built in 1610 by the Spanish government. A Registered National Historic Landmark, the Palace of the Governors is the oldest continuously occupied public building in the country!
 
 ### **Cathedral Basilica of Saint Francis of Assisi**
-
 
 While visiting the Santa Fe Plaza, be sure to check out the Cathedral Basilica of Saint Francis of Assisi. It was built around 1880’s on the site of an older adobe church that was built in 1626, but destroyed in the Pueblo Revolt of 1680.
 
@@ -86,7 +77,6 @@ While visiting the Santa Fe Plaza, be sure to check out the Cathedral Basilica o
 The architectural style of Romanesque Revival is in vast contrast to the surrounding adobe buildings in downtown, making it really stand out.
 
 ### **San Miguel Chapel**
-
 
 Located in the Barrio de Analco Historic District, it is the oldest church structure in the United States. Yes, you read that right – it is the oldest church in the US! The San Miguel Chapel was built in 1610 by the Tlaxcala Indians.
 
@@ -102,7 +92,6 @@ What I found interesting was the beautiful altar screen. When you go up to the C
 
 ### **The New Mexico State Capital Building**
 
-
 The New Mexico State Capital Building, located in Santa Fe is the only circular shaped capital building in the United States, lending to its nickname as the Roundhouse. It is designed after the Zia Pueblo sun sign, which also happens to be the state symbol.
 
 ![Santa Fe Capitol Building with kids](/images/Santa-fe-capital-building-with-kids.jpg)
@@ -112,7 +101,6 @@ What is super cool about the Roundhouse it that not only is it the capital build
 This is a free attraction with self-guided tours available daily.
 
 ### **Meow Wolf**
-
 
 If you are looking for a truly unique experience, go check out Meow Wolf in Santa Fe. It is mysterious, exciting and will 100% *blow your mind*.
 
@@ -130,7 +118,6 @@ Meow Wolf is about challenging norms, embracing weirdness and exercising the pow
 
 ## **Where to Eat, Drink and Party in Santa Fe with kids**
 
-
 It is no secret that when we go out with our without kids, we are on the hunt for three things: good food, cold drinks and live music. If we can find **all three** in a historic building, then we’ve hit the HotMama Jackpot.
 
 ![View from Santa Fe Plaza New Mexico](/images/view-santa-fe-plaza.jpg)
@@ -139,18 +126,15 @@ There is ton of great food in Santa Fe, but I am just going to share the ones th
 
 ### **El Farol **
 
-
 El Farol is not only the oldest bar and restaurant in Santa Fe, it’s a party.  In addition to serving up traditional Spanish cuisine like hot and cold tapas, paella and more, every night there is some sort of live entertainment, such as Flamenco music and dancers as well as various styles of live music.
 
 ### **La Fonda On The Plaza**
-
 
 Located off the Santa Fe Plaza on the site of the city’s first inn in 1607, is the historic La Fonda on the Plaza, built in 1922.  Not only, this a beautiful site to visit, there are also several dining options we recommend enjoying while in town.
 
 ![La Fonda on the Plaza Santa Fe Hotel](/images/la-fonda-from-santa-fe-plaza.jpg)
 
 ### **La Plazuela**
-
 
 The massive rod iron chandelier and surrounding courtyard façade gives you the bright feeling of dining al fresco without having to subject to the elements.
 
@@ -160,13 +144,11 @@ Dining in this colorful space, beneath twinkling trees gives such a warm and coz
 
 ### **La Fiesta Lounge**
 
-
 Serving up classic Southwestern cuisine, this is a great spot to grab a casual dinner or evening drink. Why? Because there is live music seven nights a week! Whoohoo.
 
 We took the family for a fun night out enjoying dinner right in front of the dance floor. There was a group of regulars that were all out for a night of fun and we enjoyed watching them cheerfully mingle and dance the night away. We even got out there a bit ourselves for a few dances.
 
 ### **Float Café-Meow Wolf Santa Fe**
-
 
 Float Café is located inside Meow Wolf, but you don’t have to purchase admission or enter the Eternal Return to enjoy a drink. During the day you can grab various non-alcoholic beverages, but after 4:00PM is when it gets really fun.
 
@@ -178,10 +160,11 @@ It is definitely a bar to check out if you are looking for something a little fu
 
 ## **That’s a Wrap!**
 
-
 So what did we learn from our time in Santa Fe with kids? That we need to go back to see more, do more and eat more. Two full days just wasn’t enough to quench our thirst, but it was a great sampler plate.
 
 Santa Fe has such a cool and artsy laid back style mixed with rich history and culture. Just the architecture alone is enough visual interest to keep everyone in awe. We also really enjoyed our stay at the Best Western Plus Inn of Santa Fe, which was not located downtown, but was not too far away and it was actually right next to Meow Wolf in a nice part of town with lots of stores and restaurants. **See lots more reviews and photos [HERE](/go/best-western-plus-inn-santa-fe/).**
+## That's a Wrap!
+
 
 All in all the kids had fun, we had fun and we are definitely going back. Soon, very soon.
 

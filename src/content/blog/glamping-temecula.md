@@ -11,9 +11,7 @@ wpSlug: "glamping-temecula"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Temecula is home to some fantastic wineries, local casinos, great restaurants and a charming historic Old Town. With so much beautiful countryside and fun activities to explore, glamping in Temecula makes for the perfect weekend getaway to reset, recharge and rejuvenate.
-
 
 <figure id="double-yurt-baileys-palomar-mountain-glamping-temecula"><a href="/images/double-yurt-bailys-palomar-mountain-glamping-temecula.jpg"><img src="/images/double-yurt-bailys-palomar-mountain-glamping-temecula.jpg" alt="" /></a></figure>
 
@@ -29,9 +27,6 @@ The luxury yurts, safari tents and historic cabins have private en-suit bathroom
 
 [See photos, reviews &amp; more](/go/bailys-on-palomar-glamping-temecula-ca/)
 
-
-
-
 <figure id="eco-camps-glamping-temecula-ca"><a href="/images/eco-camps-glamping-temecula-ca.jpg"><img src="/images/eco-camps-glamping-temecula-ca.jpg" alt="" /></a></figure>
 
 #### [Eco-Camps Temecula](/go/eco-camps-temecula-glamping-temecula-ca/)
@@ -45,9 +40,6 @@ Experience the peace and tranquility of Eco-Camps Temecula. Located in wine coun
 At Eco-Camps Temecula you can expect beautiful views of sunsets, starry nights and wildlife as well as ample opportunities to enjoy nature with picnics and hiking trails. Across the road you can partake in wine tasting and olive oil tasting. If you are interested in exploring more of the wine country, you can book an organized wine tour.&nbsp;
 
 [See photos, reviews &amp; more](/go/eco-camps-temecula-glamping-temecula-ca/)
-
-
-
 
 <figure id="glamping-temecula-koa-vail-lake"><a href="/images/glamping-temecula-koa-vail-lake.jpg"><img src="/images/glamping-temecula-koa-vail-lake.jpg" alt="" /></a></figure>
 
@@ -67,9 +59,6 @@ Temecula KOA is conveniently located near popular attractions such as the [Temec
 
 [See photos, reviews &amp; more](/go/temecula-koa-vail-lake-glamping/)
 
-
-
-
 <figure id="rusty-fork-ranch-glamping-temecula"><a href="/images/rusty-fork-ranch-glamping-temecula.jpg"><img src="/images/rusty-fork-ranch-glamping-temecula.jpg" alt="" /></a></figure>
 
 #### [Rusty Fork Ranch](/go/rusty-fork-ranch-glamping-temecula-ca/)
@@ -83,9 +72,6 @@ Rusty Fork Ranch offers a ranch experience while still being in the center of it
 You will be staying on a mini farm, so there is livestock to see as well as the beauty of the surrounding wine country. Although you may feel miles away from it all, you are not far from all of Temecula’s most popular attractions. You are just minutes from wineries, Old Town and Pechanga Casino.&nbsp;
 
 [See photos, reviews &amp; more](/go/rusty-fork-ranch-glamping-temecula-ca/)
-
-
-
 
 <figure id="glamping-temecula-pechanga-rv-resort"><a href="/images/glamping-temecula-pechanga-rv-resort.jpg"><img src="/images/glamping-temecula-pechanga-rv-resort.jpg" alt="" /></a></figure>
 
@@ -105,9 +91,7 @@ The RV resort is conveniently located near popular attractions in Temecula, Cali
 
 [See photos, reviews &amp; more](/go/pechanga-resort-casino-temecula-ca/)
 
-
-
-## That's A Wrap!
+## That's a Wrap!
 
 Are you ready for a weekend in Temecula? Before you go make sure to check out our other posts on Temecula like, [Kid-Friendly Wineries in Temecula](/kid-friendly-wineries-temecula-ca/), [Best Temecula Winery Hotels](/best-winery-hotels-temecula-ca/), [Things to do in Temecula,](/top-things-to-do-in-temecula/) [Best Golf Courses in Temecula](/best-temecula-golf-courses/), [Best Breweries in Temecula](/best-breweries-in-temecula-ca/) and [Unique Wine Tours in Temecula](/best-temecula-wine-tours/).
 
@@ -143,10 +127,7 @@ If you love glamping and want more places to stay, check out other suggestions f
 
 - [Glamping Upstate New York](/glamping-upstate-new-york/)
 
-
-
 **Like it? Pin it!**
 
 <figure id="5-best-glamping-sites-temecula-ca"><a href="/images/5-best-glamping-sites-temecula-ca.jpg"><img src="/images/5-best-glamping-sites-temecula-ca-200x300.jpg" alt="" /></a></figure>
-
 

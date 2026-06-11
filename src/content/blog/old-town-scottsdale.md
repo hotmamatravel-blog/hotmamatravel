@@ -12,7 +12,6 @@ wpSlug: "old-town-scottsdale"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Old Town Scottsdale is the not only the oldest area in Scottsdale, it is also in my opinion the most happening. First settled in the 1880’s, this neighborhood is now a bustling collection of interesting shops and restaurants.
 
 Downtown Scottsdale may be a hub for shopping and dining, but there are also some interesting historical sites to explore in the area, as well as hiking trails and kid-friendly spots with live music. With such an exciting merge of old and new, we were excited to visit Old Town Scottsdale, AZ on our epic summer&nbsp;[**family road trip**](/family-road-trip-across-us/) across the US.
@@ -22,7 +21,6 @@ Downtown Scottsdale may be a hub for shopping and dining, but there are also som
 In this article, we provide a list of the **top things to do in Old Town Scottsdale with kids** and provide family-friendly hotel recommendations to help you plan a wonderful trip to Scottsdale, AZ.
 
 **Here's what's in this article**:
-
 
 ### Unique area attractions
 
@@ -72,8 +70,6 @@ In this article, we provide a list of the **top things to do in Old Town Scottsd
 - [Cave Creek Outfitters](#cave-creek-outfitters)
 - [Pinnacle Peak Park](#pinnacle-peak-park)
 
-
-
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 <figure><div class="wp-block-embed__wrapper">
@@ -81,7 +77,6 @@ https://www.youtube.com/watch?v=QDDP4fdz1gM
 </div><figcaption>Check out our travel video to **Old Town Scottsdale with kids**!</figcaption></figure>
 
 ## Kid-friendly Scottsdale Attractions
-
 
 <figure><img src="/images/Old-town-scottsdale-shopping.png" alt="Shopping in Old Town Scottsdale AZ" /><figcaption>Shops in Old Town Scottsdale</figcaption></figure>
 
@@ -93,10 +88,6 @@ The free Old Town Trolley takes you around Old Town Scottsdale (literally) in a 
 
 [See photos, reviews &amp; more](/go/old-town-trolley-scottsdale-az/)
 
-
-
-
-
 #### **[Scottsdale Museum of Contemporary Art](/go/scottsdale-museum-contemporary-art-scottsdale-az/)**
 
 *7374 E. Second St. Scottsdale, AZ 85251*
@@ -104,9 +95,6 @@ The free Old Town Trolley takes you around Old Town Scottsdale (literally) in a 
 What makes SMoCA such a cool place to visit is that it is located on a beautifully landscaped 21-acre park right in the middle of Old Town Scottsdale. The museum features innovative exhibits and educational programs. What was once an old movie theater is now a re-imagined space with 5 unique galleries dedicated to contemporary art, architecture and design. It is a great place for the community and visitors to gather and explore, as admission is free to the public.
 
 [See photos, reviews &amp; more](/go/scottsdale-museum-contemporary-art-scottsdale-az/)
-
-
-
 
 <figure><img src="/images/kids-shopping-old-town-scottsdale-az.png" alt="Kids shopping for Indian Dolls" /></figure>
 
@@ -118,10 +106,6 @@ This museum is a celebration of the history and art of the American west. Its ai
 
 [See photos, reviews &amp; more](/go/western-spirit-scottsdale-museum-west-scottsdale-az/)
 
-
-
-
-
 #### **[Southwest Wildlife Conservation Center](/go/southwest-wildlife-conservation-center-scottsdale-az/)**
 
 *27026 N 156th St, Scottsdale, AZ 85262-9524*
@@ -129,10 +113,6 @@ This museum is a celebration of the history and art of the American west. Its ai
 The SWCC rescues wild animals that have been injured, abandoned or had their home destroyed. The ultimate goal is to rehabilitate and release them back into the wild, but it is also an accredited sanctuary for those animals that can not be returned to the wild. The Southwest Wildlife Conservation Center is open to the public for tours, but by appointments only. You can head to the website and choose from the tour times available and have a truly unique southwest experience.
 
 [See photos, reviews &amp; more](/go/southwest-wildlife-conservation-center-scottsdale-az/)
-
-
-
-
 
 #### **[McCormick-Stillman Railroad Park](/go/mccormick-stillman-railroad-park-scottsdale-az/)**
 
@@ -142,10 +122,7 @@ Built on land donated to the city of Scottsdale with the intention of making a p
 
 [See photos, reviews &amp; more](/go/mccormick-stillman-railroad-park-scottsdale-az/)
 
-
-
 ## Kid-friendly Live Music in Scottsdale
-
 
 <figure><img src="/images/rusty-spur-saloon-az-scottsdale-bar.jpg" alt="Hot Mama Travel in Rusty Spur Saloon" /></figure>
 
@@ -159,10 +136,6 @@ One of those great Old Scottsdale bars is The Rusty Spur, which was originally a
 
 [See photos, reviews &amp; more](/go/rusty-spur-saloon-scottsdale-az/)
 
-
-
-
-
 #### **[JoJo Coffee House](/go/jojo-coffee-house-scottsdale-az/)**
 
 *3712 N Scottsdale Rd Suite 110, Scottsdale, AZ 85251*
@@ -170,10 +143,6 @@ One of those great Old Scottsdale bars is The Rusty Spur, which was originally a
 Every weekend you can hear the sweet tune of live music coming from JoJo Coffee House. Start your day off right with Saturday and Sunday brunch from 10:00am to 2:0pm. You and your family can enjoy yummy food, craft coffee or even beer and mimosas while you groove to live performances. On Saturday afternoons from 2:00pm to 5:00pm it is your time to shine or watch others give it a go with open mic time!
 
 [See photos, reviews &amp; more](/go/jojo-coffee-house-scottsdale-az/)
-
-
-
-
 
 #### **[Twisted Lizard Tavern &amp; Grille](/go/twisted-lizard-tavern-grille-scottsdale-az/)**
 
@@ -183,11 +152,7 @@ Twisted Lizard Tavern &amp; Grille has a hip atmosphere against a gorgeous deser
 
 [See photos, reviews &amp; more](/go/twisted-lizard-tavern-grille-scottsdale-az/)
 
-
-
 ## Kid-Friendly Hotels in Scottsdale
-
-
 
 #### **[Best Western Plus Sundial](/go/best-western-plus-sundial-scottsdale-az/)**
 
@@ -199,9 +164,6 @@ Located right across the street from the Entertainment District and just minutes
 
 [See photos, reviews &amp; more](/go/best-western-plus-sundial-scottsdale-az/)
 
-
-
-
 <figure><img src="/images/saguaro-cactus-scottsdale.jpg" alt="saguaro cactus" /><figcaption>This is the Saguaro cactus, characteristic of the Arizona Sonoran Desert</figcaption></figure>
 
 #### [The Saguaro Scottsdale](/go/saguaro-scottsdale-scottsdale-az/)
@@ -212,10 +174,6 @@ The Saguaro is a brightly colored hip hotel, located right next to Old Scottsdal
 
 [See photos, reviews &amp; more](/go/saguaro-scottsdale-scottsdale-az/)
 
-
-
-
-
 #### **[Scottsdale Marriott Suites Old Town](/go/scottsdale-marriott-suites-old-town-scottsdale-az/)**
 
 *7325 E 3rd Ave, Scottsdale, AZ 85251*
@@ -223,10 +181,6 @@ The Saguaro is a brightly colored hip hotel, located right next to Old Scottsdal
 Location is everything with hotels in the city of Scottsdale and the Marriott is located in the heart of Old Town. In addition to the comforts one would expect from a Marriott, there is also a lovely rooftop pool and patio with fire pits.
 
 [See photos, reviews &amp; more](/go/scottsdale-marriott-suites-old-town-scottsdale-az/)
-
-
-
-
 
 #### **[The Scott Resort &amp; Spa](/go/scott-resort-spa-scottsdale-az/)**
 
@@ -236,11 +190,7 @@ This hotel is a lush oasis in Old Town Scottsdale, complete with two pools and a
 
 [See photos, reviews &amp; more](/go/scott-resort-spa-scottsdale-az/)
 
-
-
 ## Best Family Resorts near Scottsdale
-
-
 
 #### **[The Phoenician](/go/phoenician-resort-spa-scottsdale-az/)**
 
@@ -250,10 +200,6 @@ Considered a premier luxury resort, it is also one the best Scottsdale family re
 
 [See photos, reviews &amp; more](/go/phoenician-resort-spa-scottsdale-az/)
 
-
-
-
-
 #### **[Omni Scottsdale Resort &amp; Spa](/go/omni-scottsdale-resort-spa-scottsdale-az/)**
 
 *4949 E Lincoln Dr, Scottsdale, AZ 85253*
@@ -261,10 +207,6 @@ Considered a premier luxury resort, it is also one the best Scottsdale family re
 The desert is hot and you just can’t go wrong with multiple sparkling pools. The Kasbah Pool and Oasis Pool are perfect for hanging out with the family, sipping on something cold while the Joya Terrace Pool is reserved for spa guests only. For the kids, there is the Omni Kids Crew program which includes a backpack filled with fun items like an activity book, crayons, stickers, game cards, binoculars and a tabletop game. They also receive milk and cookies delivered to their guest room on the first night.
 
 [See photos, reviews &amp; more](/go/omni-scottsdale-resort-spa-scottsdale-az/)
-
-
-
-
 
 #### **[Hyatt Regency Scottsdale Resort and Spa](/go/hyatt-regency-scottsdale-resort-spa-scottsdale-az/)**
 
@@ -274,10 +216,6 @@ This 27-arce resort oozes family-friendliness. The 2.5-arce water playground has
 
 [See photos, reviews &amp; more](/go/hyatt-regency-scottsdale-resort-spa-scottsdale-az/)
 
-
-
-
-
 #### **[Fairmont Scottsdale Princess](/go/fairmont-scottsdale-princess-scottsdale-az/)**
 
 *7575 E Princess Dr, Scottsdale, AZ 85255*
@@ -286,11 +224,7 @@ This place is loaded with family fun. There are six pools, including Sonoran Spl
 
 [See photos, reviews &amp; more](/go/fairmont-scottsdale-princess-scottsdale-az/)
 
-
-
 ## Historic Sites in Scottsdale
-
-
 
 #### **[Little Red Schoolhouse](/go/little-red-schoolhouse-scottsdale-az/)**
 
@@ -299,9 +233,6 @@ This place is loaded with family fun. There are six pools, including Sonoran Spl
 Housed inside the Little Red Schoolhouse is the Scottsdale Historical Museum. The Little Red Schoolhouse was built in 1909. Not only was it used as a grammar school for the local children it was also the community hub where it functioned as a church, Sunday school, town hall, county court office, polling place and Red Cross bandage rolling facility. Later, this would be the building where Mexican-American students would attend. Now, the Little Red Schoolhouse can be visited as a historical museum with relics and exhibits on display. Kids will find the the class photos of the kids from the early 1900’s interesting as well as viewing the one-room schoolhouse display.
 
 [See photos, reviews &amp; more](/go/little-red-schoolhouse-scottsdale-az/)
-
-
-
 
 <figure><img src="/images/DSC03619-1024x683.jpg" alt="The Old Adobe Mission Scottsdale Az" /></figure>
 
@@ -315,10 +246,6 @@ The Old Adobe Mission is not as old as the California missions, which were built
 
 [See photos, reviews &amp; more](/go/old-adobe-mission-scottsdale-az/)
 
-
-
-
-
 #### **[Taliesin West](/go/taliesin-west-scottsdale-az/)**
 
 *12621 N Frank Lloyd Wright Blvd, Scottsdale, AZ 85259*
@@ -327,11 +254,7 @@ This was the Arizona laboratory, school and winter home of architect Frank Llyon
 
 [See photos, reviews &amp; more](/go/taliesin-west-scottsdale-az/)
 
-
-
 ## Scottsdale Restaurants for Families
-
-
 
 #### **[Rehab Burger Therapy](/go/rehab-burger-therapy-scottsdale-az/)**
 
@@ -341,10 +264,6 @@ This highly rated burger joint is said to be the perfect mix of salty, sweet, oo
 
 [See photos, reviews &amp; more](/go/rehab-burger-therapy-scottsdale-az/)
 
-
-
-
-
 #### **[Mowry &amp; Cotton](/go/mowry-cotton-scottsdale-az/)**
 
 *6000 E Camelback Rd, at The Phoenician, Scottsdale, AZ 85251*
@@ -352,10 +271,6 @@ This highly rated burger joint is said to be the perfect mix of salty, sweet, oo
 Located inside The Phoenician, Mowry &amp; Cotton has a modern meets old west atmosphere with relaxing open-aire patio perfect for enjoying the desert sunshine and&nbsp; a wonderful conversation with your family. The menu features regionally inspired American cuisine using fresh locally sourced ingredients. Open for breakfast, lunch and dinner, Mowry &amp; Cotton makes for the perfect spot to grab a bite any time of day.&nbsp;
 
 [See photos, reviews &amp; more](/go/mowry-cotton-scottsdale-az/)
-
-
-
-
 
 #### **[Craft 64](/go/craft-64-scottsdale-az/)**
 
@@ -365,10 +280,6 @@ If you like pizza and beer, then Craft 64 is the spot for you. This restaurant i
 
 [See photos, reviews &amp; more](/go/craft-64-scottsdale-az/)
 
-
-
-
-
 #### **[The Mission](/go/mission-scottsdale-az/)**
 
 *3815 N Brown Ave, Scottsdale, AZ 85251*
@@ -376,10 +287,6 @@ If you like pizza and beer, then Craft 64 is the spot for you. This restaurant i
 Enjoy modern latin cuisine against the backdrop of old world elegance. The Mission features homemade tortillas, salsas and sauce that are made fresh daily. My kids LOVE guacamole and at The Mission the guac is made fresh at the table, which is fun to watch as well eat! For parents, you will love the Margaritas made with frothy egg whites. On Sundays, The Mission holds their Sunday Pig Out, which features all you can eat pork tacos and half priced drinks!
 
 [See photos, reviews &amp; more](/go/mission-scottsdale-az/)
-
-
-
-
 
 #### **[Cold Beers &amp; Cheeseburgers](/go/cold-beers-cheeseburgers-scottsdale-az/)**
 
@@ -389,11 +296,7 @@ Who doesn’t like cold beers and cheeseburgers, am I right? Well, if you are lo
 
 [See photos, reviews &amp; more](/go/cold-beers-cheeseburgers-scottsdale-az/)
 
-
-
 ## Parks and Hiking near Scottsdale
-
-
 
 #### **[Mcdowell Sonoran Conservancy](/go/mcdowell-sonoran-preserve-scottsdale-az/)**
 
@@ -403,10 +306,6 @@ This non-profit conservancy is dedicated to preserving the Sonoran desert and mo
 
 [See photos, reviews &amp; more](/go/mcdowell-sonoran-preserve-scottsdale-az/)
 
-
-
-
-
 #### **[Cave Creek Outfitters](/go/cave-creek-outfitters-scottsdale-az/)**
 
 *31313 N 144th St, Scottsdale, AZ 85262*
@@ -414,10 +313,6 @@ This non-profit conservancy is dedicated to preserving the Sonoran desert and mo
 Explore the McDowell Sonoran Preserve and Tonto National Forest with guided horseback rides, cowboy cookouts, entertainment and games. Located near the Rio Verde River and between the McDowell and Mazatzal Mountain Ranges, Cave Creek Outfitters allows you to experience the beauty of the desert while still being a part of the bustling city of Scottsdale. Learn about wildlife and plants on a relaxing horseback ride suitable for all ages. It really makes for a unique experience for families visiting Scottsdale.
 
 [See photos, reviews &amp; more](/go/cave-creek-outfitters-scottsdale-az/)
-
-
-
-
 
 #### **[Pinnacle Peak Park](/go/pinnacle-peak-park-scottsdale-az/)**
 
@@ -427,15 +322,11 @@ If you like to hike, then you will like this moderate trail through the Sonoran 
 
 [See photos, reviews &amp; more](/go/pinnacle-peak-park-scottsdale-az/)
 
-
-
 ## That's a Wrap!
 
 Surprisingly, out of all the places we visited during our summer road trip the kids couldn’t stop talking about how much they loved Scottsdale, AZ. Maybe it was the hot desert nights swimming under the stars or the days taking it slow, wandering from store to store and from bar to restaurant. Scottsdale is a desert beauty, beckoning visitors to come and relax. Needless to say, if Old Town Scottsdale wasn’t on your bucket list before, it should be now.
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 **Like it? Pin it!**
 

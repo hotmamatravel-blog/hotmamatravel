@@ -93,6 +93,4 @@ You can contact us by email: hotmamatravel@gmail.com
 
 Thank you for your interest in partnering with HotMamaTravel!
 
-## That's a Wrap!
-
 Click [**here**](/images/Media-Kit-HotMamaTravel-DEC2019.pdf) to view our media kit

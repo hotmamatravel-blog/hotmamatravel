@@ -12,7 +12,6 @@ wpSlug: "haunted-hotels-in-los-angeles"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Los Angeles isn’t just about movie stars and sunshine. It’s also home to some seriously haunted hotels that bring a little *Hollywood horror* to your stay.  I am totally obsessed with haunted hotels, and I just had to share some of my favorite haunted hotels in Los Angeles with you all. These hotels are spooky, but also trendy, glamorous, and even family-friendly.
 
 If you love mixing ghosts with a good getaway, you’ll want to check out more of my favorite **[haunted places and hotels](/best-haunted-places-to-visit-for-families/)** and my list of **[best towns to visit for Halloween](/best-towns-for-halloween/)**, because who says spooky can’t be a family affair?
@@ -141,19 +140,13 @@ In addition to its haunted history and luxurious amenities, the Hollywood Hills 
 
 [**See photos, reviews &amp; more**](/go/hollywood-hills-hotel-los-angeles/)
 
-
-
-## That's A Wrap!
-
-
+## That's a Wrap!
 
 These hotels might be haunted, but don’t worry, they’re spooky *and* totally family-friendly. Whether you’re chasing chills at one of my favorite **[Haunted Hotels in California](/haunted-hotel-in-california/)**, glamping under the stars at one of these [**LA Glamping Sites**](/glamping-los-angeles/), or cozying up at [**Family Hotels near LAX**](/best-family-hotels-near-lax/), you’ll find plenty of thrills (and comfort) for your crew.
 
 For even more adventures across the Golden State, check out my **[California Family Travel Guide](/california-family-travel/)**, because family travel with a twist doesn’t stop when the ghosts clock out.
 
 So grab your ghost gear and your kiddos, and get ready for a hauntingly fun California getaway you won’t forget.
-
-
 
 Like it? Pin it!
 

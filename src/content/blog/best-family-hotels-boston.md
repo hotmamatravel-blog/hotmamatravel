@@ -12,7 +12,6 @@ wpSlug: "best-family-hotels-boston"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 So you are planning a trip to Boston with kids and need help finding the right hotel? Well*** ******high-five***, because you landed in the right place!
 
 This article will help you choose the perfect kid-friendly hotel in Boston for your family, whether it's a desire for:
@@ -50,7 +49,6 @@ As an alternative, you can jump straight ahead to our list of Boston's Best Fami
 
 <figure><a href="#seaport-hotel"><img src="/images/boston-family-hotel-Seaport-world-trade-center-Family-Breakfast.jpg" alt="Breakfast at Seaport Hotel Boston" /></a><figcaption> *Seaport Hotel &amp; World Trade Center*</figcaption></figure>
 
-
 <div class="wp-block-columns has-3-columns">
 <div class="wp-block-column">
 <figure><a href="#four-seasons-boston"><img src="/images/kid-friendly-boston-hotel-four-seasons-restauarnt.jpg" alt="Four Seasons Boston Hotel restaurant" /></a><figcaption> *Four Seasons Hotel Boston*</figcaption></figure>
@@ -62,7 +60,6 @@ As an alternative, you can jump straight ahead to our list of Boston's Best Fami
 
 <div class="wp-block-column">
 <figure><a href="#lenox-hotel"><img src="/images/boston-family-hotel-city-bar-Lenox.jpg" alt="City Bar in Lenox Hotel Boston" /></a><figcaption> *The Lenox Hotel*</figcaption></figure>
-
 
 <div class="uagb-infobox__outer-wrap uagb-block-4819081f-010a-4361-bad0-5e04eec6fe23"><div class="uagb-infobox__content-wrap uagb-infobox uagb-infobox-has-icon uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox-enable-border-radius "><div class="uagb-ifb-left-right-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-image-icon-content uagb-ifb-imgicon-wrap"><div class="uagb-ifb-icon-wrap"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 384 512"><path d="M202.021 0C122.202 0 70.503 32.703 29.914 91.026c-7.363 10.58-5.093 25.086 5.178 32.874l43.138 32.709c10.373 7.865 25.132 6.026 33.253-4.148 25.049-31.381 43.63-49.449 82.757-49.449 30.764 0 68.816 19.799 68.816 49.631 0 22.552-18.617 34.134-48.993 51.164-35.423 19.86-82.299 44.576-82.299 106.405V320c0 13.255 10.745 24 24 24h72.471c13.255 0 24-10.745 24-24v-5.773c0-42.86 125.268-44.645 125.268-160.627C377.504 66.256 286.902 0 202.021 0zM192 373.459c-38.196 0-69.271 31.075-69.271 69.271 0 38.195 31.075 69.27 69.271 69.27s69.271-31.075 69.271-69.271-31.075-69.27-69.271-69.27z"></path></svg><div class="uagb-ifb-title-wrap">DID YOU KNOW
 
@@ -80,8 +77,6 @@ As an alternative, you can jump straight ahead to our list of Boston's Best Fami
 <div class="uagb-separator-wrap">
 
 </div>
-
-
 
 ### Where should a family stay in Boston on vacation?
 
@@ -115,7 +110,6 @@ Pin'able Comparison Chart:
 
 <div class="wp-block-image"><figure class="aligncenter"><img src="/images/Top-family-hotels-boston-with-kids-downtown.png" alt="Top 5 Family Hotels in Boston Comparison Chart" /></figure></div>
 
-
 ## Residence Inn Boston Harbor On Tudor Wharf
 
 <div class="uagb-separator-wrap">
@@ -125,9 +119,6 @@ Pin'able Comparison Chart:
 <figure><a href="/go/residence-inn-marriott-harbor-tudor-wharf-boston/"><img src="/images/boston-family-hotel-Residence-Harbor-tudor-wharf-patio.jpg" alt="Residence inn Boston Harbor" /></a><figcaption>*Photo courtesy of Residence Inn Boston Harbor On Tudor Wharf*</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-56394de ugb-button--design-plain ugb-main-block" id=""><style>.ugb-56394de .ugb-block-content{justify-content:center}.ugb-56394de .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-56394de .ugb-button1 .ugb-button--inner,.ugb-56394de .ugb-button1 svg{color:#000000}.ugb-56394de .ugb-button1:before{border-radius:4px !important}.ugb-56394de .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/residence-inn-marriott-harbor-tudor-wharf-boston/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" data-icon="images" class="svg-inline--fa ugbfa-images fa-w-18 " role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512"><path fill="currentColor" d="M480 416v16c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V176c0-26.51 21.49-48 48-48h16v48H54a6 6 0 0 0-6 6v244a6 6 0 0 0 6 6h372a6 6 0 0 0 6-6v-10h48zm42-336H150a6 6 0 0 0-6 6v244a6 6 0 0 0 6 6h372a6 6 0 0 0 6-6V86a6 6 0 0 0-6-6zm6-48c26.51 0 48 21.49 48 48v256c0 26.51-21.49 48-48 48H144c-26.51 0-48-21.49-48-48V80c0-26.51 21.49-48 48-48h384zM264 144c0 22.091-17.909 40-40 40s-40-17.909-40-40 17.909-40 40-40 40 17.909 40 40zm-72 96l39.515-39.515c4.686-4.686 12.284-4.686 16.971 0L288 240l103.515-103.515c4.686-4.686 12.284-4.686 16.971 0L480 208v80H192v-48z"></path></svg></span>See more photos</span></a>
-
-
-
 
 **Editor's Pick: Best all-around choice**
 
@@ -153,9 +144,6 @@ Overlooking the Boston Harbor yet out of the way from hoards of tourists, Reside
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-f2c95b8 ugb-button--design-plain ugb-main-block" id=""><style>.ugb-f2c95b8 .ugb-block-content{justify-content:center}.ugb-f2c95b8 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-f2c95b8 .ugb-button1 .ugb-button--inner,.ugb-f2c95b8 .ugb-button1 svg{color:#000000}.ugb-f2c95b8 .ugb-button1:before{border-radius:4px !important}.ugb-f2c95b8 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/residence-inn-marriott-harbor-tudor-wharf-boston/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" data-icon="mouse-pointer" class="svg-inline--fa ugbfa-mouse-pointer fa-w-10 " role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 320 512"><path fill="currentColor" d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></span>Book it!</span></a>
 
-
-
-
 ## Seaport Hotel &amp; World Trade Center
 
 <div class="uagb-separator-wrap">
@@ -165,9 +153,6 @@ Overlooking the Boston Harbor yet out of the way from hoards of tourists, Reside
 <figure><a href="/go/seaport-hotel-world-trade-center-boston/"><img src="/images/family-hotel-boston-Seaport-world-trade-center-front.jpg" alt="Seaport Hotel Boston" /></a><figcaption> *Photo courtesy of Seaport Hotel &amp; World Trade Center*</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-2f4d93b ugb-button--design-plain ugb-main-block" id=""><style>.ugb-2f4d93b .ugb-block-content{justify-content:center}.ugb-2f4d93b .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-2f4d93b .ugb-button1 .ugb-button--inner,.ugb-2f4d93b .ugb-button1 svg{color:#000000}.ugb-2f4d93b .ugb-button1:before{border-radius:4px !important}.ugb-2f4d93b .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/seaport-hotel-world-trade-center-boston/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" data-icon="images" class="svg-inline--fa ugbfa-images fa-w-18 " role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512"><path fill="currentColor" d="M480 416v16c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V176c0-26.51 21.49-48 48-48h16v48H54a6 6 0 0 0-6 6v244a6 6 0 0 0 6 6h372a6 6 0 0 0 6-6v-10h48zm42-336H150a6 6 0 0 0-6 6v244a6 6 0 0 0 6 6h372a6 6 0 0 0 6-6V86a6 6 0 0 0-6-6zm6-48c26.51 0 48 21.49 48 48v256c0 26.51-21.49 48-48 48H144c-26.51 0-48-21.49-48-48V80c0-26.51 21.49-48 48-48h384zM264 144c0 22.091-17.909 40-40 40s-40-17.909-40-40 17.909-40 40-40 40 17.909 40 40zm-72 96l39.515-39.515c4.686-4.686 12.284-4.686 16.971 0L288 240l103.515-103.515c4.686-4.686 12.284-4.686 16.971 0L480 208v80H192v-48z"></path></svg></span>See more photos</span></a>
-
-
-
 
 **Top Budget Friendly Choice**
 
@@ -193,9 +178,6 @@ When you stay at the Seaport Hotel, will have access to some of Boston’s most 
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-348eaf9 ugb-button--design-plain ugb-main-block" id=""><style>.ugb-348eaf9 .ugb-block-content{justify-content:center}.ugb-348eaf9 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-348eaf9 .ugb-button1 .ugb-button--inner,.ugb-348eaf9 .ugb-button1 svg{color:#000000}.ugb-348eaf9 .ugb-button1:before{border-radius:4px !important}.ugb-348eaf9 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/seaport-hotel-world-trade-center-boston/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" data-icon="mouse-pointer" class="svg-inline--fa ugbfa-mouse-pointer fa-w-10 " role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 320 512"><path fill="currentColor" d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></span>Book it!</span></a>
 
-
-
-
 ## Four Seasons Hotel Boston
 
 <div class="uagb-separator-wrap">
@@ -205,8 +187,6 @@ When you stay at the Seaport Hotel, will have access to some of Boston’s most 
 <figure><a href="/go/four-seasons-boston/"><img src="/images/boston-family-hotel-lobby-four-seasons.jpg" alt="Lobby of Four Seasons Hotel Boston" /></a><figcaption> *Photo courtesy of Four Seasons Hotel Boston*</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-c77491a ugb-button--design-plain ugb-main-block" id=""><style>.ugb-c77491a .ugb-block-content{justify-content:center}.ugb-c77491a .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-c77491a .ugb-button1 .ugb-button--inner,.ugb-c77491a .ugb-button1 svg{color:#000000}.ugb-c77491a .ugb-button1:before{border-radius:4px !important}.ugb-c77491a .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/four-seasons-boston/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" data-icon="images" class="svg-inline--fa ugbfa-images fa-w-18 " role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512"><path fill="currentColor" d="M480 416v16c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V176c0-26.51 21.49-48 48-48h16v48H54a6 6 0 0 0-6 6v244a6 6 0 0 0 6 6h372a6 6 0 0 0 6-6v-10h48zm42-336H150a6 6 0 0 0-6 6v244a6 6 0 0 0 6 6h372a6 6 0 0 0 6-6V86a6 6 0 0 0-6-6zm6-48c26.51 0 48 21.49 48 48v256c0 26.51-21.49 48-48 48H144c-26.51 0-48-21.49-48-48V80c0-26.51 21.49-48 48-48h384zM264 144c0 22.091-17.909 40-40 40s-40-17.909-40-40 17.909-40 40-40 40 17.909 40 40zm-72 96l39.515-39.515c4.686-4.686 12.284-4.686 16.971 0L288 240l103.515-103.515c4.686-4.686 12.284-4.686 16.971 0L480 208v80H192v-48z"></path></svg></span>See more photos</span></a>
-
-
 
 ### Key features
 
@@ -230,9 +210,6 @@ For dining, the Four Seasons Boston has one onsite restaurant and bar that is op
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-6cfcb14 ugb-button--design-plain ugb-main-block" id=""><style>.ugb-6cfcb14 .ugb-block-content{justify-content:center}.ugb-6cfcb14 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-6cfcb14 .ugb-button1 .ugb-button--inner,.ugb-6cfcb14 .ugb-button1 svg{color:#000000}.ugb-6cfcb14 .ugb-button1:before{border-radius:4px !important}.ugb-6cfcb14 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/four-seasons-boston/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" data-icon="mouse-pointer" class="svg-inline--fa ugbfa-mouse-pointer fa-w-10 " role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 320 512"><path fill="currentColor" d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></span>Book it!</span></a>
 
-
-
-
 ## Kimpton Nine Zero Hotel
 
 <div class="uagb-separator-wrap">
@@ -242,8 +219,6 @@ For dining, the Four Seasons Boston has one onsite restaurant and bar that is op
 <figure><a href="/go/kimpton-nine-zero-boston/"><img src="/images/family-hotel-boston-kimpton-nine-zero-front.jpg" alt="Kimpton Nine Zero Hotel in Boston" /></a><figcaption> *Photo courtesy of Kimpton Nine Zero Hotel*</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-2cc409a ugb-button--design-plain ugb-main-block" id=""><style>.ugb-2cc409a .ugb-block-content{justify-content:center}.ugb-2cc409a .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-2cc409a .ugb-button1 .ugb-button--inner,.ugb-2cc409a .ugb-button1 svg{color:#000000}.ugb-2cc409a .ugb-button1:before{border-radius:4px !important}.ugb-2cc409a .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/kimpton-nine-zero-boston/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" data-icon="images" class="svg-inline--fa ugbfa-images fa-w-18 " role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512"><path fill="currentColor" d="M480 416v16c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V176c0-26.51 21.49-48 48-48h16v48H54a6 6 0 0 0-6 6v244a6 6 0 0 0 6 6h372a6 6 0 0 0 6-6v-10h48zm42-336H150a6 6 0 0 0-6 6v244a6 6 0 0 0 6 6h372a6 6 0 0 0 6-6V86a6 6 0 0 0-6-6zm6-48c26.51 0 48 21.49 48 48v256c0 26.51-21.49 48-48 48H144c-26.51 0-48-21.49-48-48V80c0-26.51 21.49-48 48-48h384zM264 144c0 22.091-17.909 40-40 40s-40-17.909-40-40 17.909-40 40-40 40 17.909 40 40zm-72 96l39.515-39.515c4.686-4.686 12.284-4.686 16.971 0L288 240l103.515-103.515c4.686-4.686 12.284-4.686 16.971 0L480 208v80H192v-48z"></path></svg></span>See more photos</span></a>
-
-
 
 ### Key features
 
@@ -267,9 +242,6 @@ Also complimentary to guests is the European style breakfast and nightly wine re
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-f8f2200 ugb-button--design-plain ugb-main-block" id=""><style>.ugb-f8f2200 .ugb-block-content{justify-content:center}.ugb-f8f2200 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-f8f2200 .ugb-button1 .ugb-button--inner,.ugb-f8f2200 .ugb-button1 svg{color:#000000}.ugb-f8f2200 .ugb-button1:before{border-radius:4px !important}.ugb-f8f2200 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/kimpton-nine-zero-boston/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" data-icon="mouse-pointer" class="svg-inline--fa ugbfa-mouse-pointer fa-w-10 " role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 320 512"><path fill="currentColor" d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></span>Book it!</span></a>
 
-
-
-
 ## The Lenox Hotel
 
 <div class="uagb-separator-wrap">
@@ -279,8 +251,6 @@ Also complimentary to guests is the European style breakfast and nightly wine re
 <figure><a href="/go/lenox-hotel-boston/"><img src="/images/family-hotel-boston-Lenox-front.jpg" alt="Lenox Hotel Boston" /></a><figcaption> *Photo courtesy of The Lenox Hotel Boston*</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-a4a5fba ugb-button--design-plain ugb-main-block" id=""><style>.ugb-a4a5fba .ugb-block-content{justify-content:center}.ugb-a4a5fba .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-a4a5fba .ugb-button1 .ugb-button--inner,.ugb-a4a5fba .ugb-button1 svg{color:#000000}.ugb-a4a5fba .ugb-button1:before{border-radius:4px !important}.ugb-a4a5fba .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/lenox-hotel-boston/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" data-icon="images" class="svg-inline--fa ugbfa-images fa-w-18 " role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 576 512"><path fill="currentColor" d="M480 416v16c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V176c0-26.51 21.49-48 48-48h16v48H54a6 6 0 0 0-6 6v244a6 6 0 0 0 6 6h372a6 6 0 0 0 6-6v-10h48zm42-336H150a6 6 0 0 0-6 6v244a6 6 0 0 0 6 6h372a6 6 0 0 0 6-6V86a6 6 0 0 0-6-6zm6-48c26.51 0 48 21.49 48 48v256c0 26.51-21.49 48-48 48H144c-26.51 0-48-21.49-48-48V80c0-26.51 21.49-48 48-48h384zM264 144c0 22.091-17.909 40-40 40s-40-17.909-40-40 17.909-40 40-40 40 17.909 40 40zm-72 96l39.515-39.515c4.686-4.686 12.284-4.686 16.971 0L288 240l103.515-103.515c4.686-4.686 12.284-4.686 16.971 0L480 208v80H192v-48z"></path></svg></span>See more photos</span></a>
-
-
 
 ### Key features
 
@@ -304,15 +274,11 @@ The Lenox Hotel is situated in the heart of the wonderful Back Bay neighborhood,
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-baf626f ugb-button--design-plain ugb-main-block" id=""><style>.ugb-baf626f .ugb-block-content{justify-content:center}.ugb-baf626f .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-baf626f .ugb-button1 .ugb-button--inner,.ugb-baf626f .ugb-button1 svg{color:#000000}.ugb-baf626f .ugb-button1:before{border-radius:4px !important}.ugb-baf626f .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/lenox-hotel-boston/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" data-icon="mouse-pointer" class="svg-inline--fa ugbfa-mouse-pointer fa-w-10 " role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 320 512"><path fill="currentColor" d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></span>Book it!</span></a>
 
-
-
 ## That's a Wrap!
 
 Well there you have it. In our opinion, these are 5 of the best family hotels in Boston due to excellent locations in safe neighborhoods and family-friendly amenities. I'll be honest, Boston is not the easiest city to find an affordable hotel suitable for families with kids. I promise though, you really can't go wrong choosing one of the excellent hotels on this list.
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 **Like it? Pin it!** *Your choice*
 
@@ -323,5 +289,4 @@ Well there you have it. In our opinion, these are 5 of the best family hotels in
 <div class="wp-block-column">
 <div class="wp-block-image"><figure class="aligncenter"><img src="/images/Top-family-hotels-boston-with-kids-downtown-200x300.png" alt="Top 5 Family Hotels in Boston Comparison Chart" /></figure>
 </div>
-
 

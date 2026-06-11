@@ -79,6 +79,8 @@ The rooms at the Best Western Plus Austin City Hotel are very nice and comfortab
 [![Guest Rooms at Best Western Plus Austin City Hotel](/images/Guest-Rooms-e1511206621803.jpg)](/best-western-plus-austin-city-hotel/) Courtesy of Best Western
 
 ## *That’s A Wrap:*
+## That's a Wrap!
+
 
 Although there are many hotels in Austin, TX, we all agreed that we really enjoyed our stay at the Best Western Plus Austin City Hotel. The location was perfect for maximizing our sightseeing. Plus the rates were really competitive, especially for being situated in one of Austin’s best neighborhoods. Top that with Best Western’s great reward loyalty program and onsite amenities. We definitely recommend it as one of the best hotels in Austin for families. We definitely plan to stay here the next time we visit Austin. [**Check rates and availability**](http://www.kqzyfj.com/click-8336032-13039226).
 

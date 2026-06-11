@@ -289,6 +289,8 @@ For more family fun Halloween ideas, you should check out my other posts:
 [** Terror in the Oaks at Vail Lake Resort in Temecula, CA**](/vail-lake-resort-halloween-festivities/)
 **
 **
+## That's a Wrap!
+
 
 **Like it? Pin it!**
 

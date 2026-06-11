@@ -68,6 +68,8 @@ However, when you book a traditional hotel room, you won’t necessarily have ac
 
 ## *That's A Wrap!*
 
+## That's a Wrap!
+
 The bottom-line is that travel doesn’t have to be expensive to be amazing. It is really about doing your research, using the right sources and planning around your budget. If done right, it is quite possible to travel for next to nothing. So no more excuses! Back your bags, grab the kids and go!
 
 **What money saving tips can you share?**

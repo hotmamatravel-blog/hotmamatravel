@@ -10,9 +10,7 @@ wpSlug: "new-yorks-five-boroughs"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 When it comes to [US](/united-states/) cities that are rich in diversity, history, culture, and never-ending excitement, New York City indisputably tops the list. This bustling metropolis is a collage of five unique boroughs, each with its own distinct personality. From the glitz of Manhattan to the quiet charm of Staten Island, there's an endless array of experiences waiting for you. Let's embark on a journey through these vibrant boroughs and discover what each one has to offer.
-
 
 <figure id="manhattan-new-york-five-boroughs"><a href="/images/manhattan-new-york-five-boroughs.jpg"><img src="/images/manhattan-new-york-five-boroughs.jpg" alt="" /></a></figure>
 
@@ -22,9 +20,6 @@ Manhattan is synonymous with luxury and grandeur. This borough is home to famous
 
 [See photos, reviews &amp; more](/go/things-to-do-manhattan/)
 
-
-
-
 <figure id="brooklyn-new-york-five-boroughs"><a href="/images/brooklyn-new-york-five-boroughs.jpg"><img src="/images/brooklyn-new-york-five-boroughs.jpg" alt="" /></a></figure>
 
 #### [Brooklyn: Where Tradition Meets Trendiness](/go/brooklyn-ny-things-to-do/)
@@ -32,9 +27,6 @@ Manhattan is synonymous with luxury and grandeur. This borough is home to famous
 Brooklyn seamlessly blends the old with the new, creating a charming atmosphere that's hard to resist. It's the place for artisanal breweries, vintage stores, and foodie havens. Don't miss the iconic Brooklyn Bridge and the hip neighborhood of [Williamsburg](https://untappedcities.com/2020/12/02/williamsburg-transformation-grit-to-hip/). The Brooklyn Museum and the Brooklyn Botanic Garden are also must-visit spots for culture and nature enthusiasts, respectively.
 
 [See photos, reviews &amp; more](/go/brooklyn-ny-things-to-do/)
-
-
-
 
 <figure id="queens-new-york-five-boroughs"><a href="/images/queens-new-york-five-boroughs.jpg"><img src="/images/queens-new-york-five-boroughs.jpg" alt="" /></a></figure>
 
@@ -44,9 +36,6 @@ Queens is the most ethnically diverse urban area in the world, boasting a unique
 
 [See photos, reviews &amp; more](/go/queens-ny-things-to-do/)
 
-
-
-
 <figure id="bronx-new-york-five-boroughs"><a href="/images/bronx-new-york-five-boroughs.jpg"><img src="/images/bronx-new-york-five-boroughs.jpg" alt="" /></a></figure>
 
 #### [The Bronx: Unmatched Cultural Richness](/go/bronx-ny-things-to-do/)
@@ -55,9 +44,6 @@ The Bronx is a vibrant borough steeped in cultural richness. Known as the birthp
 
 [See photos, reviews &amp; more](/go/bronx-ny-things-to-do/)
 
-
-
-
 <figure id="staten-island-new-york-five-boroughs-(1)"><a href="/images/staten-island-new-york-five-boroughs-1.jpg"><img src="/images/staten-island-new-york-five-boroughs-1.jpg" alt="" /></a></figure>
 
 #### [Staten Island: Tranquility Amidst the Bustle](/go/staten-island-ny-things-to-do/)
@@ -65,10 +51,6 @@ The Bronx is a vibrant borough steeped in cultural richness. Known as the birthp
 Staten Island is a tranquil retreat away from the city's hustle and bustle. It offers picturesque views, especially from the free Staten Island Ferry, and historical attractions like the Snug Harbor Cultural Center and Botanical Garden. Don't miss the Staten Island Zoo or the Richmond County Bank Ballpark for some family fun.
 
 [See photos, reviews &amp; more](/go/staten-island-ny-things-to-do/)
-
-
-
-## That's a Wrap!
 
 Each of New York's boroughs offers its unique blend of experiences, catering to a variety of interests and tastes. From the elegance of Manhattan to the cultural richness of The Bronx, the dynamic cityscape of New York promises unforgettable adventures. So, whether you're sipping a cocktail at Balcon, exploring the trendy corners of Brooklyn, or enjoying a leisurely ferry ride in Staten Island, New York is guaranteed to leave you spellbound.
 

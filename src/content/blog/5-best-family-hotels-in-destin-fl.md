@@ -10,7 +10,6 @@ wpSlug: "5-best-family-hotels-in-destin-fl"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 So you are planning a trip to [**Destin, Florida with kids**](/things-to-do-with-kids-in-destin-fl/) and need help finding the right hotel? Well ***high-five***, because you landed in the right place!
 
 This article will help you choose the best Destin hotels for families, whether it's a desire for:
@@ -56,7 +55,6 @@ As an alternative, you can jump straight ahead to our list of Destin's Best Fami
 
 <figure id="best-western-sugar-sands-destin-hotels-for-families"><a href="#best-western-sugar-sands"><img src="/images/Best-western-sugar-sands-inn-suites-pool.jpg" alt="Family pool at Best Western Sugar Sands Suites in Destin Fl" /></a><figcaption class="wp-element-caption"><a href="#best-western-sugar-sands">Spark by Hilton Destin</a></figcaption></figure>
 
-
 <div class="wp-block-columns has-3-columns">
 <div class="wp-block-column">
 <figure id="embassy-suites-hilton-family-hotels-destin-fl"><a href="#embassy-suites-hilton-destin"><img src="/images/Embassy-Suites-Hilton-Miramar-Beach-Destin-Atrium.jpg" alt="Lobby Atrium at Embassy Suites Miramar Beach Destin Fl" /></a><figcaption class="wp-element-caption"><a href="#embassy-suites-hilton-destin">The Embassy Suites</a></figcaption></figure>
@@ -69,13 +67,10 @@ As an alternative, you can jump straight ahead to our list of Destin's Best Fami
 <div class="wp-block-column">
 <figure id="lagoon-pool-palms-resort-destin-family-resorts"><a href="#palms-destin-resort"><img src="/images/destin-palms-pool.jpg" alt="Lagoon pool at Destin Palms Resort in Destin Fl" /></a><figcaption class="wp-element-caption"><a href="#palms-destin-resort">The Palms Destin Resort</a></figcaption></figure>
 
-
 Get all the visa-related information you need for your next
 travel destination on&nbsp;[natvisa.com](http://natvisa.com/)
 
 ## Frequently Asked Questions
-
-
 
 ### What Destin family hotels have direct beach access?
 
@@ -101,11 +96,7 @@ The hotel in Destin for families that has a kids' club is [The Henderson](#hende
 
 The Destin family hotels that have awesome family pools are [The Henderson](#henderson-resort), [The Palms of Destin Resort](#palms-destin-resort)and [Emerald Grande](#emerald-grande-harborwalk-village). However, [Embassy Suites by Hilton Destin](#embassy-suites-hilton-destin) and [Spark by Hilton Destin](#best-western-sugar-sands) also have pools. 
 
-
-
 ## Top Family Hotels in Destin
-
-
 
 <div class="wp-block-uagb-image uagb-block-6f562eb5 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/destin-kid-friendly-hotel-henderson-lazy-river.jpg"><img src="/images/destin-kid-friendly-hotel-henderson-lazy-river.jpg" alt="family friendly pool at the Henderson Resort in Destin Fl" /></a></figure></div>
 
@@ -261,13 +252,9 @@ Whether you’re looking for a beachfront resort with all the bells and whistles
 
 - 👉 Browse my **[Family Hotel Guides](/best-family-hotels/)** to find the perfect stay for your crew
 
-## That's a Wrap!
-
 At the end of the day, this is the kind of trip your kids will talk about for years… and honestly, you will too.
 
 **Now go book the trip, Destin is waiting.**
-
-
 
 Like it? Pin it!
 

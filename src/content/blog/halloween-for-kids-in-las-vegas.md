@@ -12,16 +12,11 @@ wpSlug: "halloween-for-kids-in-las-vegas"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 If you're looking for some Halloween thrills and chills in the world's entertainment capital, you're in for a treat. Las Vegas isn't just for the grown-ups; it’s packed with spook-tacular fun for kids, too! Whether you're visiting [**Vegas with kids**](/las-vegas-with-kids/) for the seasonal Halloween events or want to explore creepy attractions [**any time of the year**](/best-time-of-year-to-go-to-las-vegas/), we've got you covered. Let's get into the best Halloween for kids in Las Vegas!
 
 Las Vegas has a ton of awesome history, and with history comes ghost stories. Complete your spooky adventure with a [**stay at one of Las Vegas's many haunted hotels**](/haunted-hotels-in-las-vegas/). Don't worry, they are family-friendly too!
 
-
-
 ## Spooky Year-Round Las Vegas Attractions
-
-
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/zak-bagans-haunted-museum-church.jpg"><img src="/images/zak-bagans-haunted-museum-church.jpg" alt="Zak Bagans Haunted Museum in Las Vegas" /></a></figure></div>
 
@@ -157,11 +152,7 @@ During these guided tours, you'll hear chilling stories that bring the city's da
 
 **[See Photos, Reviews, &amp; More](/go/las-vegas-ghost-tour/)**
 
-
-
 ## Events During Halloween For Kids in Las Vegas
-
-
 
 <div class="wp-block-uagb-image uagb-block-3591c9ae wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="sistahs-hocus-pocus-parody-las-vegas"><figure><a href="/images/sistahs-hocus-pocus-parody-las-vegas.jpg"><img src="/images/sistahs-hocus-pocus-parody-las-vegas.jpg" alt="Sistahs! Hocus Pocus Parody Las Vegas" /></a><figcaption class="uagb-image-caption">Courtesy of Vegas.com</figcaption></figure></div>
 
@@ -231,15 +222,11 @@ This family-friendly event is perfect for young gamers eager to show off their t
 
 **[See Photos, Reviews, &amp; More](/go/the-luxor-hotel-las-vegas/)**
 
-## That's a Wrap!
-
 As Halloween approaches, Las Vegas turns into a magical playground filled with spooky fun and unforgettable adventures for kids and families. From haunted aquariums to thrilling escape rooms, there’s no shortage of eerie excitement to enjoy.
 
  Ready to plan your ultimate Halloween getaway? Join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! It is a lot of fun.
 
 Also, check out our [**Best of Nevada**](/nevada-family-travel/) and [**Family-Friendly Las Vegas**](/family-friendly-vegas/) pages for more tips and ideas to make your family trip spook-tacularly perfect!
-
-
 
 Like it? Pin it!
 

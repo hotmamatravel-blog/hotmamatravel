@@ -10,13 +10,11 @@ wpSlug: "buena-park-with-kids"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Orange County, California is home to many popular cities. Newport Beach and Laguna Beach both have been the back drops to famous television shows and Anaheim has Disneyland, but what do you know about Buena Park? There are so many fun things to do in Orange County for families that it would take you multiple trips to see and do it all. I’m lucky enough to call this piece of the U.S home and I want to share the best of it with all of you! Today, I want to share all the fun things to do in Buena Park with kids!
 
 My family has deep seeded roots in Buena Park. In fact, my dad is the oldest surviving officer of Buena Park Police Department! Grams (my mama) used to hang out at Knott’s Berry Farm as a teenager and I was even married in Buena Park! So, I’m very familiar with this area of Orange County. There are tons of Buena Park attractions and exciting restaurants, making it easy to have a fun-filled day in Buena Park with kids.
 
 **Here's what's in this article**:
-
 
 ### Unique area attractions
 
@@ -66,14 +64,11 @@ My family has deep seeded roots in Buena Park. In fact, my dad is the oldest sur
 
 - [Fairfield Inn &amp; Suites](#fairfield-inn-suites-buena-park)
 
-
-
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 ## Kid-friendly Buena Park Attractions
 
 &nbsp;
-
 
 <figure><img src="/images/Knotts-Berry-Farm-Buena-Park-1.jpg" alt="" /></figure>
 
@@ -87,9 +82,6 @@ Okay. Okay. I know you heard about Knott’s, but I can’t talk about Buena Par
 
 [See photos, reviews &amp; more](/go/knotts-berry-farm-buena-park-ca/)
 
-
-
-
 <figure><img src="/images/knotts-soak-city-buena-park-ca-1.jpg" alt="Knott" /></figure>
 
 #### [Knott's Soak City](/go/knotts-soak-city-buena-park-ca/)
@@ -99,10 +91,6 @@ Okay. Okay. I know you heard about Knott’s, but I can’t talk about Buena Par
 Knott's Soak City is a water park located across the street from the Knott's Berry Farm theme park. You can purchase combo tickets, which makes for the perfect Southern California family day out in Orange County. During the summer is fun to start your day at Knott's Soak City and then head over Knott's Berry Farm for lunch and to the rest of the evening. There are a ton of areas for various ages from toddlers to adults. So, if you like water parks, Soak City is one to check out.
 
 [See photos, reviews &amp; more](/go/knotts-soak-city-buena-park-ca/)
-
-
-
-
 
 #### [Medieval Times](/go/medieval-times-buena-park-ca/)
 
@@ -114,10 +102,6 @@ This is a time when knights fought for honor, for the king, for that special lad
 
 [See photos, reviews &amp; more](/go/medieval-times-buena-park-ca/)
 
-
-
-
-
 #### [Pirate Dinner Adventure](/go/pirate-dinner-adventure-buena-park-ca/)
 
 * 7600 Beach Blvd, Buena Park, CA 90620 *
@@ -125,10 +109,6 @@ This is a time when knights fought for honor, for the king, for that special lad
 Ahoy Matey! Watch the all the pirate ship action go down while you and your family gobble up a three course meal!&nbsp; When they say, "dinner adventure," they are not kidding. This is a magnificent performance of sword battles and aerial tricks. There is action, comedy, romance and, yes, MERMAIDS!!! All of this while you and your family enjoy a delicious four-course meal.
 
 [See photos, reviews &amp; more](/go/pirate-dinner-adventure-buena-park-ca/)
-
-
-
-
 
 #### [Ralph B. Clark Interpretive Center](/go/ralph-b-clark-interpretive-buena-park-ca/)
 
@@ -138,10 +118,6 @@ At the Ralph B. Clark Interpretive Center, you will get a glimpse into prehistor
 
 [See photos, reviews &amp; more](/go/ralph-b-clark-interpretive-buena-park-ca/)
 
-
-
-
-
 #### [The Source](/go/the-source-buena-park-ca/)
 
 *6940 Beach Blvd, Buena Park, CA 90621 *
@@ -150,13 +126,9 @@ The Source is a multi-level shopping, dining and entertainment complex. This is 
 
 [See photos, reviews &amp; more](/go/the-source-buena-park-ca/)
 
-
-
 ## Kid-friendly Live Music near Buena Park
 
 &nbsp;
-
-
 
 #### [La Huasteca Mexican Restaurant](/go/la-huasteca-buena-park-ca/)
 
@@ -166,10 +138,6 @@ Located on the 3rd of The Source, La Huasteca is a fun Mexican restaurant featur
 
 [See photos, reviews &amp; more](/go/la-huasteca-buena-park-ca/)
 
-
-
-
-
 #### [Isla Cuban-Latin Kitchen &amp; Rum Bar](/go/isla-cuban-latin-kitchen-buena-park-ca/)
 
 *30 Centerpointe Dr. La Palma, CA 90623 Suite 12 *
@@ -178,12 +146,9 @@ This relatively new restaurant on the scene is bursting with Latin flavor. Isla 
 
 [See photos, reviews &amp; more](/go/isla-cuban-latin-kitchen-buena-park-ca/)
 
-
-
 ## Family Restaurants in Buena Park
 
 &nbsp;
-
 
 <figure><img src="/images/Mrs-knotts-chicken-dinner-family-restaurant-buena-park-1.jpg" alt="" /></figure>
 
@@ -199,9 +164,6 @@ If you are in Buena Park with kids, specifically Knott’s Berry Farm, you have 
 
 [See photos, reviews &amp; more](/go/mrs-knotts-chicken-dinner-house-buena-park-ca/)
 
-
-
-
 <figure><img src="/images/IMG_0464-1024x683.jpg" alt="buena park family restuarant Rock &amp; Brews" /></figure>
 
 #### [Rock &amp; Brews](/go/rock-brews-buena-park-ca/)
@@ -211,9 +173,6 @@ If you are in Buena Park with kids, specifically Knott’s Berry Farm, you have 
 One of the newest restaurants, and one of our favorite new things to do in Buena Park, Rock and Brews is also one of the coolest! A magical combination of Rock &amp; Roll, craft beer, great food and family fun, Rock &amp; Brews is guaranteed to make everyone in your group happy. This is a great pick if dining out with kids, because not only is the atmosphere exciting and stimulating, but there is an awesome outdoor play area! Parents can dine al fresco, sip on some cold brewskies, and maybe play a few rounds of corn-hole, while the kids enjoy yummy choices on the kids’ menu and burn energy in the play house. Win-Win.
 
 [See photos, reviews &amp; more](/go/rock-brews-buena-park-ca/)
-
-
-
 
 <figure><img src="/images/IMG_0435-1024x1024.jpg" alt="tana ethiopian restaurant buena park" /></figure>
 
@@ -225,9 +184,6 @@ I love teaching my kids about the world through food and there are plenty of opp
 
 [See photos, reviews &amp; more](/go/tana-ethiopian-restaurant-anaheim-ca/)
 
-
-
-
 <figure><img src="/images/IMG_4363-1024x1024.jpg" alt="kitakata ramen ban nai buena park" /></figure>
 
 #### [Kitakata Ramen Ban Nai](/go/kitakata-ramen-ban-nai-buena-park-ca/)
@@ -238,10 +194,6 @@ If you love ramen, then you will LOVE Kitakata Ramen Ban Nai. It is one of our f
 
 [See photos, reviews &amp; more](/go/kitakata-ramen-ban-nai-buena-park-ca/)
 
-
-
-
-
 #### [Porto's Bakery &amp; Cafe](/go/portos-bakery-cafe-buena-park-ca/)
 
 * 7640 Beach Blvd.,&nbsp;Buena Park CA 90620*
@@ -250,13 +202,9 @@ Porto's is a family-owned Cuban bakery and quick-service cafe. This bakery has w
 
 [See photos, reviews &amp; more](/go/portos-bakery-cafe-buena-park-ca/)
 
-
-
 ## Family Hotels in Buena Park
 
 &nbsp;
-
-
 
 #### [Knott's Berry Farm Hotel](/go/knotts-berry-farm-hotel-buena-park/)
 
@@ -266,10 +214,6 @@ I love the[&nbsp;Knott’s Berry Farm Hotel](https://reservations.knottshotel.co
 
 [See photos, reviews &amp; more](/go/knotts-berry-farm-hotel-buena-park/)
 
-
-
-
-
 #### **[Hampton Inn &amp; Suites Buena Park](/go/hampton-inn-suites-buena-park-ca/)**
 
 * 7307 Artesia Blvd, Buena Park, CA 90621*
@@ -277,10 +221,6 @@ I love the[&nbsp;Knott’s Berry Farm Hotel](https://reservations.knottshotel.co
 What is great about this recently built Buena Park hotel, it that every this clean and new. Located close to Knott's Berry Farm and only seven miles from Disneyland. What is also great about Hampton Inn Suites is that you are sure to find large family rooms at a reasonable rate. In addition they offer free breakfast, free parking and a nice outdoor pool with a fire pit!
 
 [See photos, reviews &amp; more](/go/hampton-inn-suites-buena-park-ca/)
-
-
-
-
 
 #### [Fairfield Inn &amp; Suites Anaheim/North Buena Park](/go/fairfield-inn-suites-anaheim-north-buena-park-ca/)
 
@@ -290,17 +230,13 @@ Fairfield Inn &amp; Suites Anaheim/North Buena Park offers large family rooms as
 
 [See photos, reviews &amp; more](/go/fairfield-inn-suites-anaheim-north-buena-park-ca/)
 
-
+&nbsp;
 
 ## That's a Wrap!
-
-&nbsp;
 
 Whether you want to hang with knights, pirates or cowboys, Buena Park attractions has you covered. Great restaurants, exciting live entertainment and amusement for the whole family. So, next time you are thinking about family travel, think about visiting Buena Park with kids. It’ll be fun, I promise.
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 **Like it? Pin it!**
 

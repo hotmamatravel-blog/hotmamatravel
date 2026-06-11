@@ -12,7 +12,6 @@ wpSlug: "the-queen-mary-with-kids"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Luxury, legends, and a little spooky… visiting the Queen Mary with kids is anything but ordinary.
 
 Built during the Great Depression, the Queen Mary set sail on her maiden transatlantic voyage in 1936, redefining luxury at sea. This legendary ocean liner hosted Hollywood icons like Clark Gable, welcomed British royalty, and later earned the nickname *The Grey Ghost* when she was transformed into a top-secret WWII troopship.
@@ -23,11 +22,7 @@ And yes… she also happens to have a **[reputation for being one of the most ha
 
 So if you’re wondering whether [**visiting the Queen Mary with kids**](/go/the-queen-mary-ship-hotel/) is worth it (history, spooky stories, and all), you’re in the right place. Let’s explore what families can expect when staying, eating, touring, and making unforgettable memories aboard this iconic ship.
 
-
-
 ## Is the Queen Mary Good for Kids?
-
-
 
 Yes, the Queen Mary is a great experience for kids, especially families who love history, hands-on exploration, and a little spooky fun.
 
@@ -37,11 +32,7 @@ Add in themed events, kid-friendly dining options, and the ship’s famous haunt
 
 For parents,  fun bars and restaurants, and live music. Plus, it’s walkable, educational, unique, and easy to pair with nearby Long Beach attractions, making it an ideal stop for families traveling with kids of different ages.
 
-
-
 ## Staying on the Queen Mary
-
-
 
 ### Queen Mary Room Options for Families
 
@@ -57,11 +48,7 @@ Reports dating back to Queen Mary’s final voyage in 1967 include unexplained k
 
 Staying aboard the Queen Mary is quite a treat. It’s like stepping back in time, drifting off to sleep amid the art deco décor and glamor of another era. Unless, of course, you are keeping one eye open to spy one of the many ghosts said to haunt this historic floating hotel. Yup, I said ghosts.
 
-
-
 ## Eating on the Queen Mary
-
-
 
 ### Queen Mary Restaurants for Families
 
@@ -89,11 +76,7 @@ Fashioned after British afternoon tea, it is available on Saturdays from 2:00 pm
 
 One of my favorite things to do on a Sunday is brunch, and the Queen Mary has a fantastic one! Held in the Grand Salon, the endless buffet of delicious dishes from all over the world wraps around the entire dance floor. Live music plays and champagne flows. It is truly a Sunday Funday.
 
-
-
 ## Tours, Attractions &amp; Events
-
-
 
 ### Best Queen Mary Tours for Families
 
@@ -458,21 +441,13 @@ Before booking your visit, [check the Queen Mary event calendar](https://www.que
 
 One ship. Endless experiences. And a reason to come back again, and again.
 
-
-
 ## Frequently Asked Questions
 
-
-
 At the end of the day, the Queen Mary is one of those rare places that actually works for kids, teens, and parents. It has history, hands-on exploring, a little spooky fun, and plenty of “wait… this is actually really cool” moments.
-
-## That's a Wrap!
 
 Whether you’re visiting for a few hours, staying overnight, or timing your trip around one of the ship’s seasonal events, it’s the kind of experience your kids will talk about long after you leave the dock.
 
 And if you’re ready to keep the adventure going, head over to my[** California Family Travel Guides**](/california-family-travel/) and my **[Best Haunted Hotels in California Guides](/haunted-hotel-in-california/)** for more family-approved destinations, unique stays, and unforgettable experiences across the Golden State, because California is full of trips that are just as fun as they are memorable.
-
-
 
 Like it? Pin it!
 

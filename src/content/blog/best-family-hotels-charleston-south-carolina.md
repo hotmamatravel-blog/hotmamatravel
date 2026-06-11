@@ -11,7 +11,6 @@ wpSlug: "best-family-hotels-charleston-south-carolina"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 So you are planning a trip to [Charleston with kids](/things-to-do-in-charleston-with-kids/) and need help finding the right hotel? Well*** ******high-five***, because you landed in the right place!
 
 This article will help you choose the perfect kid-friendly hotel in Charleston, SC for your family, whether it's a desire for:
@@ -55,7 +54,6 @@ As an alternative, you can jump straight ahead to our list of Charleston's Best 
 
 <figure><a href="#holiday-inn-charleston"><img src="/images/charleston-family-harborview-restaurant-lounge-holida-inn-charleston-riverview.jpg" alt="Holiday Inn Charleston Harborview Restaurant" /></a><figcaption class="wp-element-caption"> *Holiday Inn Charleston-Riverview*</figcaption></figure>
 
-
 <div class="wp-block-columns has-3-columns">
 <div class="wp-block-column">
 <figure><a href="#french-quarter-inn"><img src="/images/charleston-family-terrace-french-quarter-inn.jpg" alt="Terrace at French Quarter Inn Charleston Family Hotel" /></a><figcaption class="wp-element-caption"> *French Quarter Inn*</figcaption></figure>
@@ -67,7 +65,6 @@ As an alternative, you can jump straight ahead to our list of Charleston's Best 
 
 <div class="wp-block-column">
 <figure><a href="#springill-suites-charleston"><img src="/images/charleston-family-breakfast-buffet-springhill-suites-charleston-downtown-riverview.jpg" alt="Kid-friendly Charleston Hotel Springhill Suites Downtown" /></a><figcaption class="wp-element-caption"> *Springhill Suites Charleston Downtown/Riverview*</figcaption></figure>
-
 
 <div class="wp-block-uagb-info-box uagb-block-f9836131 uagb-infobox__content-wrap  uagb-infobox-icon-above-title uagb-infobox-image-valign-top uagb-infobox__outer-wrap"><div class="uagb-ifb-content"><div class="uagb-ifb-icon-wrap"><svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 320 512"><path d="M204.3 32.01H96c-52.94 0-96 43.06-96 96c0 17.67 14.31 31.1 32 31.1s32-14.32 32-31.1c0-17.64 14.34-32 32-32h108.3C232.8 96.01 256 119.2 256 147.8c0 19.72-10.97 37.47-30.5 47.33L127.8 252.4C117.1 258.2 112 268.7 112 280v40c0 17.67 14.31 31.99 32 31.99s32-14.32 32-31.99V298.3L256 251.3c39.47-19.75 64-59.42 64-103.5C320 83.95 268.1 32.01 204.3 32.01zM144 400c-22.09 0-40 17.91-40 40s17.91 39.1 40 39.1s40-17.9 40-39.1S166.1 400 144 400z"></path></svg></div><div class="uagb-ifb-title-wrap">
 
@@ -81,8 +78,6 @@ As an alternative, you can jump straight ahead to our list of Charleston's Best 
 **Disclaimer**: Links in this page are meant to help you book a room easier by linking directly to specific hotel pages on partner websites (since we can't take bookings directly). If you click a link and decide to book a room, we may earn a small commission on this transaction. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 ## Frequently Asked Questions
-
-
 
 ### Which family hotels in Charleston have large family suites?
 
@@ -111,7 +106,6 @@ Yes, the best family hotel in Charleston that has a kid's club and a ton of acti
 ##
 Top Family Hotels in Charleston SC
 
-
 ## Beach Club at Charleston Harbor Resort &amp; Marina
 
 4-star hotel |  20 Patriots Point Rd, Mt Pleasant, SC 29464
@@ -119,9 +113,6 @@ Top Family Hotels in Charleston SC
 <figure id="beach-club-charleston-harbor-resort-marina-family-hotels-charleston-sc"><a href="/go/beach-club-charleston-harbor-marina-charleston/"><img src="/images/family-hotel-charleston-beach-club-harbor-resort-marina-front.jpg" alt="Charleston Beach Club Harbor Resort" /></a><figcaption class="wp-element-caption">Photo Courtesy of Beach Club at Charleston Harbor Resort &amp; Marina</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-fa6c063 ugb-main-block"><style>.ugb-fa6c063 .ugb-block-content{justify-content:center !important}.ugb-fa6c063 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-fa6c063 .ugb-button1 .ugb-button--inner,.ugb-fa6c063 .ugb-button1 svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-fa6c063 .ugb-button1:before{border-radius:4px !important}.ugb-fa6c063 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/beach-club-charleston-harbor-marina-charleston/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M480 416v16c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V176c0-26.51 21.49-48 48-48h16v48H54a6 6 0 0 0-6 6v244a6 6 0 0 0 6 6h372a6 6 0 0 0 6-6v-10h48zm42-336H150a6 6 0 0 0-6 6v244a6 6 0 0 0 6 6h372a6 6 0 0 0 6-6V86a6 6 0 0 0-6-6zm6-48c26.51 0 48 21.49 48 48v256c0 26.51-21.49 48-48 48H144c-26.51 0-48-21.49-48-48V80c0-26.51 21.49-48 48-48h384zM264 144c0 22.091-17.909 40-40 40s-40-17.909-40-40 17.909-40 40-40 40 17.909 40 40zm-72 96l39.515-39.515c4.686-4.686 12.284-4.686 16.971 0L288 240l103.515-103.515c4.686-4.686 12.284-4.686 16.971 0L480 208v80H192v-48z"></path></svg></span>See more photos</span></a>
-
-
-
 
 **Editor's Pick: Best all-around choice**
 
@@ -151,9 +142,6 @@ The Beach Club has several onsite restaurants including, Charleston Harbor Fish 
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-8a34754 ugb-main-block"><style>.ugb-8a34754 .ugb-block-content{justify-content:center !important}.ugb-8a34754 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-8a34754 .ugb-button1 .ugb-button--inner,.ugb-8a34754 .ugb-button1 svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-8a34754 .ugb-button1:before{border-radius:4px !important}.ugb-8a34754 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/beach-club-charleston-harbor-marina-charleston/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="mouse-pointer" class="svg-inline--fa fa-mouse-pointer fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></span>Book it!</span></a>
 
-
-
-
 ## Holiday Inn Charleston-Riverview
 
 3-star hotel |  301 Savannah Hwy, Charleston, South Carolina 29407
@@ -161,9 +149,6 @@ The Beach Club has several onsite restaurants including, Charleston Harbor Fish 
 <figure id="holiday-inn-charleston-riverview-family-hotels-charleston-sc"><a href="/go/holiday-inn-charleston-riverview-charleston/"><img src="/images/family-hotel-charleston-holiday-inn-charleston-riverview-front.jpg" alt="Holiday Inn Charleston Riverview Hotel for Families" /></a></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-7a27069 ugb-main-block"><style>.ugb-7a27069 .ugb-block-content{justify-content:center !important}.ugb-7a27069 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-7a27069 .ugb-button1 .ugb-button--inner,.ugb-7a27069 .ugb-button1 svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-7a27069 .ugb-button1:before{border-radius:4px !important}.ugb-7a27069 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/holiday-inn-charleston-riverview-charleston/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M480 416v16c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V176c0-26.51 21.49-48 48-48h16v48H54a6 6 0 0 0-6 6v244a6 6 0 0 0 6 6h372a6 6 0 0 0 6-6v-10h48zm42-336H150a6 6 0 0 0-6 6v244a6 6 0 0 0 6 6h372a6 6 0 0 0 6-6V86a6 6 0 0 0-6-6zm6-48c26.51 0 48 21.49 48 48v256c0 26.51-21.49 48-48 48H144c-26.51 0-48-21.49-48-48V80c0-26.51 21.49-48 48-48h384zM264 144c0 22.091-17.909 40-40 40s-40-17.909-40-40 17.909-40 40-40 40 17.909 40 40zm-72 96l39.515-39.515c4.686-4.686 12.284-4.686 16.971 0L288 240l103.515-103.515c4.686-4.686 12.284-4.686 16.971 0L480 208v80H192v-48z"></path></svg></span>See more photos</span></a>
-
-
-
 
 **Top Budget Friendly Choice**
 
@@ -193,9 +178,6 @@ The Holiday Inn Charleston-Riverview is a great value for family travel to Charl
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-e4dee45 ugb-main-block"><style>.ugb-e4dee45 .ugb-block-content{justify-content:center !important}.ugb-e4dee45 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-e4dee45 .ugb-button1 .ugb-button--inner,.ugb-e4dee45 .ugb-button1 svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-e4dee45 .ugb-button1:before{border-radius:4px !important}.ugb-e4dee45 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/holiday-inn-charleston-riverview-charleston/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="mouse-pointer" class="svg-inline--fa fa-mouse-pointer fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></span>Book it!</span></a>
 
-
-
-
 ## French Quarter Inn
 
 4-star hotel |  166 Church St, Charleston, SC 29401
@@ -203,8 +185,6 @@ The Holiday Inn Charleston-Riverview is a great value for family travel to Charl
 <figure id="french-quarter-inn-family-hotels-charleston-sc"><a href="/go/french-quarter-inn-charleston/"><img src="/images/family-hotel-charleston-french-quarter-inn-front.jpg" alt="French Quarter Inn Charleston Kid-friendly Hotel" /></a><figcaption class="wp-element-caption">Photo courtesy of French Quarter Inn</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-d7b75dc ugb-main-block"><style>.ugb-d7b75dc .ugb-block-content{justify-content:center !important}.ugb-d7b75dc .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-d7b75dc .ugb-button1 .ugb-button--inner,.ugb-d7b75dc .ugb-button1 svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-d7b75dc .ugb-button1:before{border-radius:4px !important}.ugb-d7b75dc .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/french-quarter-inn-charleston/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M480 416v16c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V176c0-26.51 21.49-48 48-48h16v48H54a6 6 0 0 0-6 6v244a6 6 0 0 0 6 6h372a6 6 0 0 0 6-6v-10h48zm42-336H150a6 6 0 0 0-6 6v244a6 6 0 0 0 6 6h372a6 6 0 0 0 6-6V86a6 6 0 0 0-6-6zm6-48c26.51 0 48 21.49 48 48v256c0 26.51-21.49 48-48 48H144c-26.51 0-48-21.49-48-48V80c0-26.51 21.49-48 48-48h384zM264 144c0 22.091-17.909 40-40 40s-40-17.909-40-40 17.909-40 40-40 40 17.909 40 40zm-72 96l39.515-39.515c4.686-4.686 12.284-4.686 16.971 0L288 240l103.515-103.515c4.686-4.686 12.284-4.686 16.971 0L480 208v80H192v-48z"></path></svg></span>See more photos</span></a>
-
-
 
 ### Key features
 
@@ -236,9 +216,6 @@ Then after a fun day on the town your family can rest soundly in the spacious Ju
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-85ffd29 ugb-main-block"><style>.ugb-85ffd29 .ugb-block-content{justify-content:center !important}.ugb-85ffd29 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-85ffd29 .ugb-button1 .ugb-button--inner,.ugb-85ffd29 .ugb-button1 svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-85ffd29 .ugb-button1:before{border-radius:4px !important}.ugb-85ffd29 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/french-quarter-inn-charleston/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="mouse-pointer" class="svg-inline--fa fa-mouse-pointer fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></span>Book it!</span></a>
 
-
-
-
 ## Ansonborough Inn
 
 3-star hotel |  21 Hasell St, Charleston, SC 29401
@@ -246,8 +223,6 @@ Then after a fun day on the town your family can rest soundly in the spacious Ju
 <figure id="ansonborough-family-hotels-charleston-sc"><a href="/go/ansonborough-inn-charleston/"><img src="/images/family-hotel-charleston-ansonborough-inn-front.jpg" alt="Ansonborough Inn Charleston" /></a><figcaption class="wp-element-caption">*Photo courtesy of Ansonborough Inn*</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-3611ae2 ugb-main-block"><style>.ugb-3611ae2 .ugb-block-content{justify-content:center !important}.ugb-3611ae2 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-3611ae2 .ugb-button1 .ugb-button--inner,.ugb-3611ae2 .ugb-button1 svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-3611ae2 .ugb-button1:before{border-radius:4px !important}.ugb-3611ae2 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/ansonborough-inn-charleston/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M480 416v16c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V176c0-26.51 21.49-48 48-48h16v48H54a6 6 0 0 0-6 6v244a6 6 0 0 0 6 6h372a6 6 0 0 0 6-6v-10h48zm42-336H150a6 6 0 0 0-6 6v244a6 6 0 0 0 6 6h372a6 6 0 0 0 6-6V86a6 6 0 0 0-6-6zm6-48c26.51 0 48 21.49 48 48v256c0 26.51-21.49 48-48 48H144c-26.51 0-48-21.49-48-48V80c0-26.51 21.49-48 48-48h384zM264 144c0 22.091-17.909 40-40 40s-40-17.909-40-40 17.909-40 40-40 40 17.909 40 40zm-72 96l39.515-39.515c4.686-4.686 12.284-4.686 16.971 0L288 240l103.515-103.515c4.686-4.686 12.284-4.686 16.971 0L480 208v80H192v-48z"></path></svg></span>See more photos</span></a>
-
-
 
 ### Key features
 
@@ -275,9 +250,6 @@ In addition to complimentary breakfast each morning, afternoon wine and cheese a
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-e5ce3c1 ugb-main-block"><style>.ugb-e5ce3c1 .ugb-block-content{justify-content:center !important}.ugb-e5ce3c1 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-e5ce3c1 .ugb-button1 .ugb-button--inner,.ugb-e5ce3c1 .ugb-button1 svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-e5ce3c1 .ugb-button1:before{border-radius:4px !important}.ugb-e5ce3c1 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/ansonborough-inn-charleston/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="mouse-pointer" class="svg-inline--fa fa-mouse-pointer fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></span>Book it!</span></a>
 
-
-
-
 ## Springhill Suites Charleston Downtown/Riverview
 
 3-star hotel |  98 Ripley Point Dr, Charleston, SC 29407
@@ -285,8 +257,6 @@ In addition to complimentary breakfast each morning, afternoon wine and cheese a
 <figure id="springhill-suites-charleston-downtown-riverviewbest-family-hotels-charleston-sc"><a href="/go/springhill-suites-charleston-downtown-riverview-charleston/"><img src="/images/family-hotel-charleston-springhill-suites-charleston-downtown-riverview-front.jpg" alt="Springhill Suites Charleston" /></a><figcaption class="wp-element-caption">*Photo courtesy of Springhill Suites Charleston Downtown/Riverview*</figcaption></figure>
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-3ee33d6 ugb-main-block"><style>.ugb-3ee33d6 .ugb-block-content{justify-content:center !important}.ugb-3ee33d6 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-3ee33d6 .ugb-button1 .ugb-button--inner,.ugb-3ee33d6 .ugb-button1 svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-3ee33d6 .ugb-button1:before{border-radius:4px !important}.ugb-3ee33d6 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/springhill-suites-charleston-downtown-riverview-charleston/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M480 416v16c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48V176c0-26.51 21.49-48 48-48h16v48H54a6 6 0 0 0-6 6v244a6 6 0 0 0 6 6h372a6 6 0 0 0 6-6v-10h48zm42-336H150a6 6 0 0 0-6 6v244a6 6 0 0 0 6 6h372a6 6 0 0 0 6-6V86a6 6 0 0 0-6-6zm6-48c26.51 0 48 21.49 48 48v256c0 26.51-21.49 48-48 48H144c-26.51 0-48-21.49-48-48V80c0-26.51 21.49-48 48-48h384zM264 144c0 22.091-17.909 40-40 40s-40-17.909-40-40 17.909-40 40-40 40 17.909 40 40zm-72 96l39.515-39.515c4.686-4.686 12.284-4.686 16.971 0L288 240l103.515-103.515c4.686-4.686 12.284-4.686 16.971 0L480 208v80H192v-48z"></path></svg></span>See more photos</span></a>
-
-
 
 ### Key features
 
@@ -314,10 +284,6 @@ Located just a mile from the historic downtown Charleston, it is easy to take th
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-button--design-plain ugb-14908f8 ugb-main-block"><style>.ugb-14908f8 .ugb-block-content{justify-content:center !important}.ugb-14908f8 .ugb-button1{background-color:#ecec50;border-radius:4px !important}.ugb-14908f8 .ugb-button1 .ugb-button--inner,.ugb-14908f8 .ugb-button1 svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-14908f8 .ugb-button1:before{border-radius:4px !important}.ugb-14908f8 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/springhill-suites-charleston-downtown-riverview-charleston/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="mouse-pointer" class="svg-inline--fa fa-mouse-pointer fa-w-10" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></span>Book it!</span></a>
 
-
-
-## That's a Wrap!
-
 There you have it. After thorough research, these are our five favorite family hotels in Charleston. By staying at one of these amazing family hotels in Charleston SC your trip is already off to a great start. I know you are eager to get booking, so I am going to let you go. Have a great time in Charleston!
 
 Explore more awesome [family hotels in more awesome cities](/best-family-hotels/)!
@@ -325,8 +291,6 @@ Explore more awesome [family hotels in more awesome cities](/best-family-hotels/
 Also, visit [Best of South Carolina Family Travel](/south-carolina-family-travel/) for more things to do in this amazing state.
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 **Like it? Pin it!** *Your choice*
 
@@ -337,6 +301,4 @@ Also, visit [Best of South Carolina Family Travel](/south-carolina-family-travel
 
 <div class="wp-block-column">
 <figure id="kid-friendly-hotels-charleston"><img src="/images/5-best-family-hotels-charleston-guide-200x300.jpg" alt="Checklist of Best Family Hotels in Charleston SC" /></figure>
-
-
 

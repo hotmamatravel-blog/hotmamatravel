@@ -12,7 +12,6 @@ wpSlug: "walking-las-vegas-strip"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 So you want to walk the Las Vegas Strip? That’s great! Walking [**Las Vegas Strip**](/las-vegas-strip-hotel-map/) is the best way to immerse yourself in iconic Las Vegas attractions and truly experience this exciting city. However, for those who have never done it before, and especially if you are traveling with kids, you may have some questions like: *Is it safe? What is the best time of day to walk the strip? How long does it really take to walk the strip? What route should I take? Etc*. Well, that’s what this article is all about!
 
 **As a bonus**, I will share with you my list of the best Las Vegas attractions along the Strip, with particular attention to kid-friendly insider tips and tricks to help you maximize your day (or night) of fun walking the Las Vegas Strip.&nbsp;
@@ -50,8 +49,6 @@ You may hear people tell you that it is not safe to walk the strip at night, but
 I recommend starting your walk about an hour before sunset and continuing for about 2-3 hours round trip. During the summer time, that means walking the strip from about 7-9pm.
 
 ## Las Vegas Strip Frequently Asked Questions.
-
-
 
 ### Is the Las Vegas Strip walkable?
 
@@ -183,15 +180,13 @@ Chocoholics beware! This delicious experience is right off The Park inside the N
 
 [**See photos, reviews &amp; more**](/go/hershey-chocolate-world-las-vegas/)
 
-## That's A Wrap!
+## That's a Wrap!
 
 Walking the Las Vegas Strip is a must! You and your family will have a blast strolling through this exciting city as you take in all the sparkling lights, entertainment and attractions the Vegas Strip as to offer.
 
 If you would like more information on [**family-friendly Las Vegas attractions**](/affordable-family-activities-las-vegas/), [**shows**](/las-vegas-shows-for-kids/), [**hotels**](/best-family-hotels-in-las-vegas/) and more, please explore our other helpful guides to make your next Las Vegas family vacation hot!
 
 Check out more of our great **[Vegas for kids articles](/family-friendly-vegas/) **and explore more** [Nevada family fun](/nevada-family-travel/).** Also, be sure to join my [**Las Vegas With Kids Facebook Group**](http://11. https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
-
-
 
 Like it? Pin it!
 

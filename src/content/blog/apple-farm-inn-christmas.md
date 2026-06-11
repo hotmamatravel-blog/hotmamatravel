@@ -12,16 +12,11 @@ wpSlug: "apple-farm-inn-christmas"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Every season, we like to take our family on a holiday-inspired trip. One of our favorites is checking into the Christmas Wonderland that is the Apple Farm Inn. Here, we let our holiday spirit be filled with cheer. Sparkling lights drape over every surface, casting a warm glow, jumbo garland adorned with oversized ornaments frames the windows, doors, and staircase, and a fire roars in the lobby as guests are invited to enjoy complimentary cookies and refreshments. It truly is as breathtaking as it sounds, which is why we chose to spend our holiday vacation experiencing an Apple Farm Christmas. Come along, see what we saw!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DwbDsBWD1yE?si=K_nDHdQPSbaEvDx-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## **Apple Farm Inn San Luis Obispo Specials:**
-
-
 
 <div class="wp-block-uagb-image uagb-block-895b2a52 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Apple-Farm.jpg"><img src="/images/Apple-Farm.jpg" alt="Christmas-at-Apple-Farm-HotMamaTravel" /></a></figure></div>
 
@@ -31,11 +26,7 @@ Apple Farm San Luis Obispo  is not a bargain hotel; it is top-notch all the way
 
 If you can't find any seasonal specials, we got you covered! We partnered with Apple Farm Inn to bring you the **Hot Mama Travel Special Rate**, which will give you 10% off the standard rate. [**Book your Apple Farm reservations here!**](https://www.applefarm.com/specials/hot-mama-travel-special-rate)
 
-
-
 ## **Apple Farm Hotel:**
-
-
 
 <div class="wp-block-uagb-image uagb-block-3e95b1d4 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Untitled-design-4_201612.jpg"><img src="/images/Untitled-design-4_201612.jpg" alt="Christmas-apple-farm-inn" /></a></figure></div>
 
@@ -43,11 +34,7 @@ THE ROOMS!!! I heart the rooms at The Apple Farm. Recently remodeled with a touc
 
 <div class="wp-block-uagb-image uagb-block-d2f7d7ed wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Untitled-design-1_201612.jpg"><img src="/images/Untitled-design-1_201612.jpg" alt="rooms-apple-farm-inn" /></a></figure></div>
 
-
-
 ## **Apple Farm Restaurant:**
-
-
 
 <div class="wp-block-uagb-image uagb-block-1bb48e37 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/restaurant.jpg"><img src="/images/restaurant.jpg" alt="Apple-Farm-Restaurant-HotMamaTravel" /></a></figure></div>
 
@@ -71,11 +58,7 @@ Various nights throughout the holidays is Supper with Santa. This is festive buf
 
 The pot roast is to die for and something you must try!!! I also really like the beef stroganoff. The meat is fall-a-part tender. Washed down with cold IPA or nice glass of Apple Farm Cabernet and you are in heaven.
 
-
-
 ## **Where to Drink at Apple Farm SLO:**
-
-
 
 Wine, wine and more wine!! Apple Farm in San Luis Obispo is situated within wine country, so guests are only minutes from various wineries to enjoying a multitude of tastings. The great thing is that you don’t have to even leave the inn to sip on delicious vino.
 
@@ -89,11 +72,7 @@ More wine! Every night at the Apple Farm, guests are invited to the free welcome
 
 During the holidays there is usually a holiday movie playing throughout the reception to add to the Christmas cheer. There are also special holiday additives throughout the season to be aware of, like Candy Cane day or Mulled Wine Day.&nbsp;
 
-
-
 ## **Apple Farm Inn Christmas**
-
-
 
 <figure><a href="/images/breakfast-with-santa.jpg"><img src="/images/breakfast-with-santa.jpg" alt="Santa-Apple-Farm-Christmas-HotMamaTravel" /></a></figure>
 
@@ -123,11 +102,7 @@ Everyday during the holidays there is something special going on, like Rudolph D
 
 There is a pool at the Apple Farm Inn in San Luis Obispo, and although it was too cold to enjoy the pool, we did enjoy the hot tub after dinner. One last effort to burn up some excess energy, the kids really loved being out in the cold night air in a warm Jacuzzi, and yes, it worked! They were tired and ready to relax while us adults enjoyed one (or two) more bottles of wine.
 
-## That's a Wrap!
-
 For those who love the holidays, Apple Farm Inn is a holiday heaven. The décor alone is worth the trip, but coupled with all the extras that Apple Farm San Luis Obispo provides each guest, it is truly a magical experience. Guests of all ages love to stay, but families will really enjoy all the activities during the holidays. If you want to add a little extra jolly to your season, book a stay right away and have a Merry Apple Farm Inn Christmas. Get 10% off at Apple Farm Inn using an exclusive promotional offer specifically for HotMamaTravel visitors [**HERE**](https://www.applefarm.com/specials/hot-mama-travel-special-rate).
-
-
 
 Like it? Pin it!
 

@@ -38,7 +38,7 @@ You need time to plan the logistics, like airport transfers and other forms of t
 
 With more time to plan your travel, you will also be able to do better research on the best time of year to visit your chosen destination. If the best time of year to travel falls during your child's school year, you will be able to notify the teachers or apply for independent study.
 
-## That's A Wrap!
+## That's a Wrap!
 
 So, if you are planning a trip with your family in the near future, make sure to give yourself plenty of time to properly plan, research weather and crowd conditions in the desired travel destination, plan logistics of entire trip, and give everyone in your travel party travel expected travel dates. Avoid these common mistakes and you are sure to have amazing family adventures.
 

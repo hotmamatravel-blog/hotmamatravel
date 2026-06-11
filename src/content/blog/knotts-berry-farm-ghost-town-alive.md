@@ -100,6 +100,8 @@ All in all, Knotts Berry Farm Ghost Town Alive is one of my favorite events. The
 **[Guide to Knotts Merry Farm](/knotts-merry-farm/)**
 
 **[Ultimate Guide to Buena Park](/buena-park-with-kids/)**
+## That's a Wrap!
+
 
 **Like it? Pin it!**
 

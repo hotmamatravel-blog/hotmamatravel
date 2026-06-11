@@ -12,7 +12,6 @@ wpSlug: "newport-dunes-resort"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Growing up in Southern California, I’ve always been a beach lover, and luckily, my kids inherited the same obsession. We never pass up a chance to be by the ocean. Around here, sandy toes and salty hair are basically part of the family dress code.
 
 One of our favorite local escapes is **[Newport Dunes Waterfront Resort &amp; Marina](/go/newport-dunes-rv-resort-newport-beach-ca/)**, tucked along the calm waters of the Back Bay. While Newport Beach attracts visitors from all over the world, this hidden gem gives families a relaxed way to enjoy the coast without the crashing waves or crowded shoreline.
@@ -25,11 +24,7 @@ S**ee Our RV Experiences at Newport Dunes Resort:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AygyWQcZY4Q?si=pBpd8u0jyTPW_OeC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## Where to Stay at Newport Dunes Resort: Glamping Cottages &amp; RV Sites
-
-
 
 ### Glamping Cottages:
 
@@ -155,11 +150,7 @@ The largest sites range from 1,250 sq ft beachfront spaces to 1,575 sq ft supers
 
 In addition to RV sites, RV, trailer, and tent camping options are available throughout the resort, making Newport Dunes Marina and Waterfront Resort a flexible stop for travelers exploring the Southern California coast. Whether you're staying one night on a road trip or settling in for a beach vacation, these waterfront sites make it easy to enjoy the laid-back coastal lifestyle.
 
-
-
 ## Where to Eat at Newport Dunes Resort
-
-
 
 ### Moe B's Munchies Beach Bar &amp; Grill:
 
@@ -171,11 +162,7 @@ For the grown-ups, the beachfront bar serves hand-shaken margaritas, cocktails, 
 
 And if you feel like venturing out, remember that Newport Dunes sits in the heart of **[Newport Beach](/beaches-near-anaheim/)**, which means fantastic dining is just minutes away. From classic seafood spots to waterfront restaurants, you’ll have plenty of options nearby, including local favorites like **The Crab Cooker** and the beautiful dining spots along **[Newport Coast](/newport-coast-with-kids/)**.
 
-
-
 ## Family Fun &amp; Activities at Newport Dunes Resort
-
-
 
 Family experiences at Newport Dunes Resort are all about making lasting memories at one of Newport Beach’s most unique family entertainment destinations. Whether you’re visiting for a weekend getaway or a longer coastal escape, the resort is packed with activities for all ages.
 
@@ -237,11 +224,7 @@ Celebrate with themed holiday events, enjoy live music at seasonal music festiva
 
 From summer movies on the beach to **[St. Patrick’s Day festivities](/st-patricks-day-at-newport-dunes/)**, there’s always a fun reason to plan a visit. Newport Dunes Marina and Waterfront Resort combines natural beauty with a calendar full of activities, making it a top destination for family-friendly entertainment in Newport Beach.
 
-
-
 ## Family Travel Videos From Newport Dunes Resort
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nYNurGcKJQE?si=tLjsWql_pyPE2Qnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -257,13 +240,9 @@ From summer movies on the beach to **[St. Patrick’s Day festivities](/st-patri
 
 If you’re visiting Newport Beach with the kids, I highly recommend staying at** [Newport Dunes Resort](/go/newport-dunes-rv-resort-newport-beach-ca/)**. It has everything you need for a relaxing beach weekend, calm waters with no waves to worry about, easy access to the beach, playground, pool, and water sports, plus all the amenities conveniently located so families can enjoy stress-free fun.
 
-## That's a Wrap!
-
 While the dunes are open to the public, pool access and some amenities are reserved for resort guests, which makes it extra safe and easy to keep track of the kids. Entry fees help keep the beach area calm and family-friendly, unlike the busy public beaches. We love staying here multiple times a year—it’s truly one of our favorite Southern California escapes.
 
 For more ideas on family-friendly adventures across the Golden State, check out our [**Orange County**](/orange-county-family-travel/) and [**California Family Travel Guides**](/california-family-travel/) to discover beaches, parks, cabins, and kid-approved activities throughout the state.
-
-
 
 Like it? Pin it!
 

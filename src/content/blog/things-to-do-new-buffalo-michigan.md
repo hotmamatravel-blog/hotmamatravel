@@ -10,9 +10,7 @@ wpSlug: "things-to-do-new-buffalo-michigan"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 New Buffalo, Michigan is a charming lakeside town located just an hour's drive from Chicago. It's a popular destination for those looking to escape the hustle and bustle of the city and spend some time relaxing by the beach. New Buffalo, Michigan is a great destination for families with children. Here are some things you can do with your kids in New Buffalo.
-
 
 <figure id="New-Buffalo-Beach-Michigan"><a href="/images/New-Buffalo-Beach-Michigan.jpg"><img src="/images/New-Buffalo-Beach-Michigan.jpg" alt="" /></a></figure>
 
@@ -30,9 +28,6 @@ If you're looking for something to do besides lounging on the beach, there are p
 
 [See photos, reviews &amp; more](/go/new-buffalo-beach-michigan/)
 
-
-
-
 <figure id="Chikaming-Open-Lands-New-Buffalo-Michigan"><a href="/images/Chikaming-Open-Lands-New-Buffalo-Michigan.jpg"><img src="/images/Chikaming-Open-Lands-New-Buffalo-Michigan.jpg" alt="" /></a></figure>
 
 #### [The Chikaming Open Land Nature Preserve](/go/chikaming-open-lands-nature-preserve-new-buffalo-michigan/)
@@ -48,9 +43,6 @@ In addition to the hiking trails, the preserve also has a number of other amenit
 Whether you're a nature lover, a birdwatcher, or just looking for a peaceful spot to relax, the Chikaming Open Lands nature preserve is a great place to visit. It's a short drive from the downtown area of New Buffalo, and it's an excellent spot to get away from the hustle and bustle of the city and spend some time surrounded by nature.
 
 [See photos, reviews &amp; more](/go/chikaming-open-lands-nature-preserve-new-buffalo-michigan/)
-
-
-
 
 <figure id="Warren-Water-Dunes-State-Park-New-Buffalo-Michigan"><a href="/images/Warren-Water-Dunes-State-Park-New-Buffalo-Michigan.jpg"><img src="/images/Warren-Water-Dunes-State-Park-New-Buffalo-Michigan.jpg" alt="" /></a></figure>
 
@@ -68,9 +60,6 @@ If you're planning a longer visit, the park has a campground with sites for tent
 
 [See photos, reviews &amp; more](/go/warren-water-dunes-state-park-new-buffalo-michigan/)
 
-
-
-
 <figure id="New-Buffalo-Farmers-Market-New-Buffalo-Michigan"><a href="/images/New-Buffalo-Farmers-Market-New-Buffalo-Michigan.jpg"><img src="/images/New-Buffalo-Farmers-Market-New-Buffalo-Michigan.jpg" alt="" /></a></figure>
 
 #### [New Buffalo Farmer's Market](https://newbuffalofarmersmarket.com/)
@@ -86,9 +75,6 @@ In addition to the market itself, there are also several food vendors on hand, o
 Whether you're a foodie, a shopper, or just looking for something to do on a Saturday morning, the New Buffalo Farmer's Market is a great place to visit. It's a short walk from the downtown area of New Buffalo and is an excellent way to spend a summer morning.
 
 [See photos, reviews &amp; more](https://newbuffalofarmersmarket.com/)
-
-
-
 
 <figure id="Four-Winds-Casino-Resort-New-Buffalo-Michigan"><a href="/images/Four-Winds-Casino-Resort-New-Buffalo-Michigan.jpg"><img src="/images/Four-Winds-Casino-Resort-New-Buffalo-Michigan.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Four Winds Casino Resort</figcaption></figure>
 
@@ -106,9 +92,6 @@ If you're looking for something to do besides gambling and dining, the resort al
 
 [See photos, reviews &amp; more](/go/four-winds-casino-resort-new-buffalo-michigan/)
 
-
-
-
 <figure id="Lake-Michigan-New-Buffalo-Michigan"><a href="/images/Lake-Michigan-New-Buffalo-Michigan.jpg"><img src="/images/Lake-Michigan-New-Buffalo-Michigan.jpg" alt="" /></a></figure>
 
 #### [Rent a boat or go fishing on Lake Michigan](/go/lake-michigan-new-buffalo-michigan/)
@@ -122,9 +105,6 @@ If you'd rather spend your time on the water in a boat, there are several marina
 Overall, whether you're an experienced angler or just looking to spend a day on the water, there are plenty of options for renting a boat or going fishing on Lake Michigan. It's a great way to spend a day in the great outdoors and enjoy all that the lake has to offer.
 
 [See photos, reviews &amp; more](/go/lake-michigan-new-buffalo-michigan/)
-
-
-
 
 <figure id="New-Buffalo-Railroad-Museum-New-Buffalo-Michigan"><a href="/images/New-Buffalo-Railroad-Museum-New-Buffalo-Michigan.jpg"><img src="/images/New-Buffalo-Railroad-Museum-New-Buffalo-Michigan.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of New Buffalo Railroad Museum</figcaption></figure>
 
@@ -140,9 +120,6 @@ Overall, the New Buffalo Railroad Museum is a great destination for families and
 
 [See photos, reviews &amp; more](/go/new-buffalo-railroad-museum-michigan/)
 
-
-
-
 <figure id="st-joseph-Michigan"><a href="/images/st-joseph-Michigan.jpg"><img src="/images/st-joseph-Michigan.jpg" alt="" /></a></figure>
 
 #### [Day Trip to St. Joseph](/go/st-joseph-michigan/)
@@ -156,9 +133,6 @@ In addition to the beach, St. Joseph also has a number of shopping and dining op
 If you're looking for something a little more active, St. Joseph also has a number of recreational options, including golf courses, parks, and hiking trails. The town is also home to the Krasl Art Center, which has a number of exhibits and events throughout the year.
 
 [See photos, reviews &amp; more](/go/st-joseph-michigan/)
-
-
-
 
 <figure id="day-trip-to-sawyer-Michigan-new-buffalo-michigan"><a href="/images/day-trip-to-sawyer-Michigan-new-buffalo-michigan.jpg"><img src="/images/day-trip-to-sawyer-Michigan-new-buffalo-michigan.jpg" alt="" /></a></figure>
 
@@ -174,17 +148,9 @@ If you're looking for something a little more active, Sawyer also has a number o
 
 [See photos, reviews &amp; more](/go/sawyer-michigan/)
 
-
-
-
-
-## That's A Wrap!
-
-
+## That's a Wrap!
 
 For your next family vacation look no further than New Buffalo, Michigan. Beauty surrounds you in this lakeside city offering everything a family could want for a relaxing getaway.
-
-
 
 **Like it? Pin it!**
 

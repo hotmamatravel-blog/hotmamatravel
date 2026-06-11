@@ -11,13 +11,11 @@ wpSlug: "family-holiday-galapagos"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 If you are looking for a new way to explore the enchanting beauty of South America, you are at the right place. The Galapagos Islands are distributed across the archipelago, each of them on a different side of the Pacific Ocean and the Equator.&nbsp;
 
 Galapagos is a one-of-a-kind destination and claims first place on the list of uniquely different destinations. We'll give you a whole new perspective on traveling along with a dizzying number of reasons why you should visit this heaven on Earth.&nbsp;
 
 Traveling should always be about what you want to see, feel, experience, do and taste. Moreover, traveling with family and kids should be about education and memories. So, we giving you the amazing reasons why you need to visit Galapagos for your next holiday.
-
 
 <figure id="Family-Holiday-Galapagos-Beaches"><a href="/images/Family-Holiday-Galapagos-Beaches.jpg"><img src="/images/Family-Holiday-Galapagos-Beaches.jpg" alt="" /></a></figure>
 
@@ -31,9 +29,6 @@ Do not expect to see any umbrellas, decks, or bars, this is not a beach in Ibiza
 
 [See photos, reviews &amp; more](/go/best-beaches-galapagos-islands/)
 
-
-
-
 <figure id="Family-Holiday-Galapagos-scuba-diving"><a href="/images/Family-Holiday-Galapagos-scuba-diving.jpg"><img src="/images/Family-Holiday-Galapagos-scuba-diving.jpg" alt="" /></a></figure>
 
 #### Incredible Water Activities
@@ -46,9 +41,6 @@ Regarding the weather and the season you should visit the Galapagos so you can e
 
 [See photos, reviews &amp; more](/go/scuba-diving-galapagos-islands/)
 
-
-
-
 <figure id="Family-Holiday-Galapagos-hiking"><a href="/images/Family-Holiday-Galapagos-hiking.jpg"><img src="/images/Family-Holiday-Galapagos-hiking.jpg" alt="" /></a></figure>
 
 #### Stunning Vistas When Hiking
@@ -56,9 +48,6 @@ Regarding the weather and the season you should visit the Galapagos so you can e
 For nature lovers and hikers, Galapagos has some of the most unique trails you can explore. There are a couple of paths in the Galapagos that will take you through the inland landscapes. On your hiking trip, you’ll get to learn more about the unbelievable symbiosis under which flora and fauna live, have a better understanding of the evolution process, see some volcanic sites, and hit the road.
 
 [See photos, reviews &amp; more](/go/sierra-negra-hiking-galapagos-islands/)
-
-
-
 
 <figure id="Family-Holiday-Galapagos-lanscapes"><a href="/images/Family-Holiday-Galapagos-lanscapes.jpg"><img src="/images/Family-Holiday-Galapagos-lanscapes.jpg" alt="" /></a></figure>
 
@@ -70,9 +59,6 @@ The Galapagos Islands are unlike each other, so you will remember their landscap
 
 [See photos, reviews &amp; more](/go/rebecca-adventure-tour-galapagos-islands/)
 
-
-
-
 <figure id="Family-Holiday-Galapagos-giant-tortoises"><a href="/images/Family-Holiday-Galapagos-giant-tortoises.jpg"><img src="/images/Family-Holiday-Galapagos-giant-tortoises.jpg" alt="" /></a></figure>
 
 #### The Wildlife
@@ -82,9 +68,6 @@ The unique wildlife including marine iguanas, [giant tortoises](https://www.worl
 The marine iguanas are a species of lizards with razor-sharp teeth, beady eyes, and fat, scaly belly. There are also giant tortoises, the world’s largest giant tortoises, of which 11 species are living on these islands.
 
 [See photos, reviews &amp; more](/go/wildlife-tours-galapagos-islands/)
-
-
-
 
 <figure id="Family-Holiday-Galapagos-Marine-Iguanas"><a href="/images/Family-Holiday-Galapagos-Marine-Iguanas.jpg"><img src="/images/Family-Holiday-Galapagos-Marine-Iguanas.jpg" alt="" /></a></figure>
 
@@ -97,17 +80,13 @@ Darwin called the [marine iguanas](https://www.nationalgeographic.com/animals/re
 
 [See photos, reviews &amp; more](/go/wildlife-tours-galapagos-islands/)
 
-
-
-## That's A Wrap!
-
 <div class="uagb-separator-wrap">
 
 </div>
 
+## That's a Wrap!
+
 The Galapagos thrills, motivates, amazes, and enchants all at once! If you are looking for the antidote to freshen up your urban lifestyle and incorporate something exotic, book your trip to Galapagos now!
-
-
 
 **Like it? Pin it!**
 

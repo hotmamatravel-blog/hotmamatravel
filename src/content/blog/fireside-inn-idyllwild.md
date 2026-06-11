@@ -12,7 +12,6 @@ wpSlug: "fireside-inn-idyllwild"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Before kids, Idyllwild was our romantic getaway. After kids? Still magic—just louder.
 
 As a couple, we’ve been visiting Idyllwild since 2003, and it quickly became one of our favorite traditions. Over the years, and with the addition of our beautiful, wild babies, this mountain escape naturally shifted from a cozy couples’ retreat to a go-to family getaway. Even after countless visits, it wasn’t until 2010 that we discovered the Fireside Inn while looking to switch things up and stay closer to town. Located just three blocks from the village, the Fireside Inn Idyllwild turned out to be the perfect fit for our growing family: close, convenient, and full of that classic mountain charm we love.
@@ -21,11 +20,7 @@ As a couple, we’ve been visiting Idyllwild since 2003, and it quickly became o
 
 <div class="wp-block-uagb-image uagb-block-71663c90 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Fireside-Idyllwild-Couples-Retreat-.jpg"><img src="/images/Fireside-Idyllwild-Couples-Retreat-.jpg" alt="Fireside Idyllwild Romantic Getaway " /></a></figure></div>
 
-
-
 ## Fireside Inn Cabins &amp; Rooms
-
-
 
 ### **Sequoia Cabin**
 
@@ -167,15 +162,11 @@ Set on four private acres, the Violin House is perfect for families who want to 
 
 **[See Photos, Reviews, &amp; More](/fireside-inn-idyllwild/)**
 
-## That's a Wrap!
-
 No matter which cabin you choose at [Fireside Inn](https://thefiresideinn.com/), it’s easy to see why this cozy mountain retreat has been a family favorite for years. From warm fireplaces to fully equipped kitchens and plenty of space for kids to play, every stay feels like a home away from home.
 
 While you’re here, don’t miss out on all the fun Idyllwild has to offer. Check out our full list of **[things to do in Idyllwild with kids](/things-to-do-in-idyllwild-with-kids/)**, and of course, fuel your adventures with a stop at the **[best family-friendly restaurants in Idyllwild](/best-restaurants-in-idyllwild/)**.
 
 If Fireside Inn isn’t quite the right fit, we’ve rounded up **[more awesome cabin rentals in Idyllwild](/best-idyllwild-cabin-rentals/)** to make sure your family getaway is perfect. For more California adventures and family travel inspiration, explore our **[California family travel guide](/california-family-travel/)** and start planning your next unforgettable trip!
-
-
 
 Like it? Pin it!
 

@@ -11,7 +11,6 @@ wpSlug: "what-upsets-babies-on-planes"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Taking a baby on a plane makes all new parents nervous. You don’t know how your baby is going to do, you don’t know how other passengers are going to react, and this could end up being the [most stressful flight](/airports-flights-children-survival-guide/) of your life!
 
 But don’t panic yet. You can get through this calmly! All you need to know is how babies and planes tend to mesh. As such, here are five things that could affect the way your baby behaves while on board.
@@ -50,13 +49,9 @@ Fixing the feeling of motion sickness can be very hard in babies. Placing someth
 
 If you think this is the problem, it might be worth it to ask your doctor. Motion sickness can be grown out of, or it might be something your baby grows into as they get older. While it’s a common thing, it’s still incredibly disruptive and can affect people at any point in their lives.
 
-## That's a Wrap!
-
 Understanding what upsets babies on planes is essential for smoother travels for both parents and fellow passengers. By knowing these five key factors in advance, from discomfort due to air pressure changes to hunger and fatigue, parents can better prepare and mitigate potential issues.
 
 Equipped with this knowledge, families can approach air travel with confidence, knowing they are well-prepared to keep their little ones comfortable and content throughout the journey. So, whether it's bringing along familiar toys, scheduling flights around nap times, or being mindful of potential discomfort, being proactive can make all the difference in ensuring a more enjoyable and stress-free flying experience for everyone involved.
-
-
 
 Like it? Pin it!
 

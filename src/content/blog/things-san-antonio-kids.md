@@ -11,7 +11,6 @@ wpSlug: "things-san-antonio-kids"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 One cannot think of San Antonio without thinking about The Alamo. In fact, a local recently told me that if you come to San Antonio and do not see The Alamo or Riverwalk, you have not seen their city.
 
 As our first official stop on our #HotMamaDoesAmerica [cross country road trip](/family-road-trip-across-us/), we only had about a day to really explore San Antonio attractions and if I saw nothing else, I was determined to at least see those two major landmarks.
@@ -19,7 +18,6 @@ As our first official stop on our #HotMamaDoesAmerica [cross country road trip](
 Luckily, for a big city we were able to accomplish even more than we thought and that’s with all of our frequent beer breaks. So if you are just passing through or looking for a fun day trip, here are some things to do in San Antonio with kids.
 
 **Here's what's in this article**:
-
 
 ### Unique area attractions
 
@@ -74,8 +72,6 @@ Luckily, for a big city we were able to accomplish even more than we thought and
 - [Hotel Emma](#hotel-emma)
 - [Emily Morgan Hotel- A Doubletree by Hilton](#emily-morgan-hotel)
 
-
-
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 ## Kid-friendly San Antonio Attractions
@@ -83,7 +79,6 @@ Luckily, for a big city we were able to accomplish even more than we thought and
 <div class="uagb-separator-wrap">
 
 </div>
-
 
 <figure><img src="/images/rio-san-antonio-cruise-family-fun-activities.jpg" alt="" /></figure>
 
@@ -97,9 +92,6 @@ Since it is hot during the day, especially during the summer when we visited, I 
 
 [See photos, reviews &amp; more](/go/rio-san-antonio-cruises-san-antonio-tx/)
 
-
-
-
 <figure><img src="/images/family-friendly-riverwalk-san-antonio-tx.jpg" alt="" /></figure>
 
 #### **[Riverwalk](/go/riverwalk-san-antonio-tx/)**
@@ -109,9 +101,6 @@ Since it is hot during the day, especially during the summer when we visited, I 
 A true South Texas treasure, the San Antonio Riverwalk is a 15-mile urban waterway lined with shops, restaurants, hotels and historic sites. The Riverwalk can be explored by foot or by boat, but either way you want to see it. Not only is the Riverwalk the iconic fun hub of the city, it is a historic part of the city too. You just can’t visit San Antonio without spending some time at the Riverwalk.
 
 [See photos, reviews &amp; more](/go/riverwalk-san-antonio-tx/)
-
-
-
 
 <figure><img src="/images/DSC02573-1024x683.jpg" alt="family activity in san antonio city sightseeing bus" /></figure>
 
@@ -123,9 +112,6 @@ San Antonio is a big city, but an approachable city. Many of San Antonio's point
 
 [See photos, reviews &amp; more](/go/city-sightseeing-bus-san-antonio-tx/)
 
-
-
-
 <figure><img src="/images/Morgans-Wounderland-San-Antonio.jpg" alt="" /></figure>
 
 #### **[Morgan’s Wonderland](/go/morgans-wonderland-san-antonio-tx/)**
@@ -135,9 +121,6 @@ San Antonio is a big city, but an approachable city. Many of San Antonio's point
 Morgan’s Wonderland is a non-profit theme park created to be fully accessible to individuals with special needs so that all ages and abilities can enjoy an exciting day at this 25-acre funland. Attractions include a wheelchair accessible ferris wheel, a sensory village, splash park, a wonderland express, show and much more. There are also three food outlets and a gift shop!
 
 [See photos, reviews &amp; more](/go/morgans-wonderland-san-antonio-tx/)
-
-
-
 
 <figure><img src="/images/natural-bridge-caverns-san-antonio.jpg" alt="" /></figure>
 
@@ -149,9 +132,6 @@ This city has it all - history, cool restaurants, live music and even caves! Yes
 
 [See photos, reviews &amp; more](/go/natural-bridge-caverns-san-antonio-tx/)
 
-
-
-
 <figure><img src="/images/natural-bridge-wildlife-ranch-san-antonio.jpg" alt="" /></figure>
 
 #### **[Natural Bridge Wildlife Ranch](/go/natural-bridge-wildlife-ranch-san-antonio-tx/)**
@@ -161,9 +141,6 @@ This city has it all - history, cool restaurants, live music and even caves! Yes
 Nearby the awesome Natural Bridge Caverns is the Natural Bridge Wildlife Ranch. Here, your family can take a safari from the safety of your own car. You can drive through 450-acres of ranchland while not only enjoying natural beauty, but also over 500 animals. Animals at the ranch include Zebras, Giraffes, Buffalos and much more.
 
 [See photos, reviews &amp; more](/go/natural-bridge-wildlife-ranch-san-antonio-tx/)
-
-
-
 
 <figure><img src="/images/san-antonio-zoo-san-antonio-tx.jpg" alt="" /></figure>
 
@@ -175,9 +152,6 @@ At the San Antonio Zoo, you can visit over 750 animal species within 56-acres of
 
 [See photos, reviews &amp; more](/go/san-antonio-zoo-san-antonio-tx/)
 
-
-
-
 <figure><img src="/images/seaworld-san-antonio.jpg" alt="" /></figure>
 
 #### **[SeaWorld &amp; Aquatica San Antonio](/go/seaworld-aquatica-san-antonio-tx/)**
@@ -187,9 +161,6 @@ At the San Antonio Zoo, you can visit over 750 animal species within 56-acres of
 SeaWorld &amp; Aquatica has everything you need for a fun day in San Antonio with kids. There is a splash park for cooling off on hot days, thrill rides for getting the blood pumping and fascinating marine life to visit. There are a ton of exciting shows, animal interactions and ways to learn about marine life conservation.
 
 [See photos, reviews &amp; more](/go/seaworld-aquatica-san-antonio-tx/)
-
-
-
 
 <figure><img src="/images/six-flags-fiesta-texas-san-antonio.jpg" alt="" /></figure>
 
@@ -201,9 +172,6 @@ If you are all about the thrills, then you might want to visit Six Flags. Here, 
 
 [See photos, reviews &amp; more](/go/six-flags-fiesta-texas-san-antonio-tx/)
 
-
-
-
 <figure><img src="/images/tower-americas-san-antonio.jpg" alt="" /><figcaption>courtesy of U.S Air Force</figcaption></figure>
 
 #### **[Tower of the Americas](/go/tower-americas-san-antonio-tx/)**
@@ -214,14 +182,11 @@ Take in panorama views of San Antonio at the top of the Tower of the Americas. S
 
 [See photos, reviews &amp; more](/go/tower-americas-san-antonio-tx/)
 
-
-
 ## Historic Sites in San Antonio
 
 <div class="uagb-separator-wrap">
 
 </div>
-
 
 <figure><img src="/images/san-antonio-family-activity-alamo.jpg" alt="" /></figure>
 
@@ -237,9 +202,6 @@ The Alamo as well as the other four missions offer some free things to do in San
 
 [See photos, reviews &amp; more](/go/the-alamo-san-antonio-tx/)
 
-
-
-
 <figure><img src="/images/Mission-National-Park-San-Antonio.jpg" alt="" /></figure>
 
 #### **[San Antonio Missions National Park](/go/san-antonio-missions-national-historical-park-san-antonio-tx/)**
@@ -250,9 +212,6 @@ A UNESCO World Heritage Site, this area holds four of the five Spanish missions 
 
 [See photos, reviews &amp; more](/go/san-antonio-missions-national-historical-park-san-antonio-tx/)
 
-
-
-
 <figure><img src="/images/king-william-district-san-antonio.jpg" alt="" /></figure>
 
 #### **[King William Historic District](/go/king-william-historic-district-san-antonio-tx/)**
@@ -260,9 +219,6 @@ A UNESCO World Heritage Site, this area holds four of the five Spanish missions 
 This area south of downtown San Antonio is known for its cluster of 19th-century mansions. It was called the King William District because it was a German settlement and was named after the King of Prussia at the time. It is also a cool area to drive through, and also to stop for a bite to eat and cold drink. The area now is full of eclectic restaurants and a craft brewery.
 
 [See photos, reviews &amp; more](/go/king-william-historic-district-san-antonio-tx/)
-
-
-
 
 <figure><img src="/images/pearl-brewery-san-antonio.jpg" alt="" /></figure>
 
@@ -276,9 +232,6 @@ There is a mini San Antonio splash zone that is very popular among the kids. It 
 
 [See photos, reviews &amp; more](/go/pearl-brewery-san-antonio-tx/)
 
-
-
-
 <figure><img src="/images/spanish-governors-palace-san-antonio.jpg" alt="" /></figure>
 
 #### **[Spanish Governor’s Palace](/go/spanish-governors-palace-san-antonio-tx/)**
@@ -288,9 +241,6 @@ There is a mini San Antonio splash zone that is very popular among the kids. It 
 Built in 1749 this house served at the residence and working offices of the Spanish Governors who lived in San Antonio. It is one of the oldest residential buildings in Texas. It is a beautiful site with a lovely courtyard that transports you back in time. It is a wonderful way to catch a glimpse into earlier days in San Antonio.
 
 [See photos, reviews &amp; more](/go/spanish-governors-palace-san-antonio-tx/)
-
-
-
 
 <figure><img src="/images/charline-mccombs-empire-theater-san-antonio.jpg" alt="" /></figure>
 
@@ -302,9 +252,6 @@ Built in 1913 this historic theater was once the Rische’s Opera House. Now it 
 
 [See photos, reviews &amp; more](/go/charline-mccombs-empire-theatre-san-antonio-tx/)
 
-
-
-
 <figure><img src="/images/maverick-carter-house-san-antonio.jpg" alt="" /></figure>
 
 #### **[Maverick Carter House](https://maverickcarterhouse.org/)**
@@ -315,14 +262,11 @@ This three-story limestone estate was built in 1893 for the Texas real estate de
 
 [See photos, reviews &amp; more](https://maverickcarterhouse.org/)
 
-
-
 ## Family Restaurants in San Antonio
 
 <div class="uagb-separator-wrap">
 
 </div>
-
 
 <figure><img src="/images/DSC02651-1024x683.jpg" alt="family friendly restaurant in San Antonio Boiler House" /></figure>
 
@@ -336,9 +280,6 @@ Happy hour is Monday through Friday from opening to 6:00pm, which is really long
 
 [See photos, reviews &amp; more](/go/boiler-house-texas-grill-wine-garden-san-antonio-tx/)
 
-
-
-
 <figure><img src="/images/waxy-oconnors-san-antonio.jpg" alt="" /></figure>
 
 #### **[Waxy O’Connor’s Irish Pub](/go/waxy-oconnors-riverwalk-san-antonio-tx/)**
@@ -348,9 +289,6 @@ Happy hour is Monday through Friday from opening to 6:00pm, which is really long
 You can’t go wrong with an Irish pub. I know it sounds kind of funny, but the happy hour drew us in along with the great patio on the river. Then we ended up staying for dinner. The menu had many traditional items one would expect from an Irish pub, like fish n’ chips and Shepherd's pie, but it also had some surprising options such as curry chicken with rice. Basically, Waxy O’Connor’s was a crowd-pleaser with something for everyone and reasonable prices to boot. Interestingly enough, there was also a mariachi band that played live music on the patio for us. Go figure!
 
 [See photos, reviews &amp; more](/go/waxy-oconnors-riverwalk-san-antonio-tx/)
-
-
-
 
 <figure><img src="/images/cafe-ole-san-antonio.jpg" alt="" /><figcaption>Photo courtesy of Cafe Ole</figcaption></figure>
 
@@ -362,9 +300,6 @@ Located right on the Riverwalk, Cafe Ole features Tex-Mex cuisine and great marg
 
 [See photos, reviews &amp; more](/go/cafe-ole-san-antonio-tx/)
 
-
-
-
 <figure><img src="/images/casa-rio-san-antonio.jpg" alt="" /></figure>
 
 #### **[Casa Rio](/go/casa-rio-san-antonio-tx/)**
@@ -374,9 +309,6 @@ Located right on the Riverwalk, Cafe Ole features Tex-Mex cuisine and great marg
 This was one of the first restaurants to open on the Riverwalk and it is probably one of the most iconic with its colorful umbrellas that line the riverside patio. It has multiple levels and is capable of serving high-volumes at a time, no need to worry about high wait times. With delicious Mexican favorites and a lively colorful atmosphere, this is a winner.
 
 [See photos, reviews &amp; more](/go/casa-rio-san-antonio-tx/)
-
-
-
 
 <figure><img src="/images/buckhorn-saloon-museum-san-antonio.jpg" alt="" /></figure>
 
@@ -388,14 +320,11 @@ Opening in 1881, The Buckhorn Saloon is a historic site, an attraction and a coo
 
 [See photos, reviews &amp; more](/go/the-buckhorn-saloon-museum-san-antonio-tx/)
 
-
-
 ## Family-Friendly Hotels in San Antonio
 
 <div class="uagb-separator-wrap">
 
 </div>
-
 
 <figure><img src="/images/best-western-plus-sunset-suites-rivewalk-family-hotel-san-antonio.jpg" alt="" /></figure>
 
@@ -407,9 +336,6 @@ This is a big city, so there are many options for where to stay in San Antonio. 
 
 [See photos, reviews &amp; more](/go/best-western-plus-sunset-suites-riverwalk-san-antonio-tx/)
 
-
-
-
 <figure><img src="/images/emma-hotel-san-antonio.jpg" alt="" /></figure>
 
 #### **[Hotel Emma](/go/hotell-emma-san-antonio-tx/)**
@@ -419,9 +345,6 @@ This is a big city, so there are many options for where to stay in San Antonio. 
 This hotel is a landmark in San Antonio. Hotel Emma is housed in what was once the historic Pearl Brewhouse built in 1894 and it looks as grand as ever. The classic rooms do offer two queens, which works for smaller families. Originally designed in Chicago in the Second Empire-Style, Hotel Emma is ultra cool with a cozy mix of industrial and Victorian decor. The hotel has a really warm old-school library, bustling restaurant and lounge, and a rooftop pool, just to name a few amenities. It has an really interesting history too, complete with strong women, love triangles and murder! Even if you don’t stay here, at the least pop in for a look around. It is truly amazing.
 
 [See photos, reviews &amp; more](/go/hotell-emma-san-antonio-tx/)
-
-
-
 
 <figure><img src="/images/emily-morgan-hotel-san-antonio.jpg" alt="" /></figure>
 
@@ -433,19 +356,15 @@ This historic hotel features architecture from the 1920's and is located in the 
 
 [See photos, reviews &amp; more](/go/emily-morgan-hotel-san-antonio-tx/)
 
-
-
-## That's a Wrap!
-
 <div class="uagb-separator-wrap">
 
 </div>
 
+## That's a Wrap!
+
 We really enjoyed the vibe in San Antonio and would love to go back to enjoy more of what the city has to offer. Thanks to the convenient location of our hotel and the City Sightseeing bus, we definitely got to experience some of the best things to do in San Antonio with kids. I hope you found this list helpful for your next trip to San Antonio!
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 **Like it? Pin it!**
 

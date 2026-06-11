@@ -16,35 +16,29 @@ I will be the first to admit that I am not a water park person. Sure, the kids l
 
 ## Set a Time Limit
 
-
 A whole day spent at a water park will make you want to slit your wrists. Okay, I’m being a little dramatic, but seriously don’t do it. I’ve learned over the years that marathon days at any type of amusement park are too much, let alone water parks. You need a time limit. I say, no more than three hours. I’m personally good with two hours. It is long enough to allow the kids to have fun, play, and burn energy, but short enough that you don’t lose your sanity.
 
 Tell the kids your time limit ahead of time, so that there are no surprises when you want to leave. That being said, I’m sure you’ll experience some push back, but having them prepared ahead of time will definitely reduce the meltdowns. If they have waterproof watches set an alarm so they know when time is up on their own and they can’t accuse you of cutting the time short.
 
 ## Go Later in the Day
 
-
 You might think that going earlier would be best, but it gets crowded fast and I don’t like crowds. I’m a very social person, but nothing makes me hate people more than hoards of bodies in my way. Plus, it makes it really hard to keep track of your kids if there are too many people around. I actually prefer later in the day, like 2:00 or 3:00, for a few of reasons.
 
 ### 1. No eating!
-
 
  It is between meal times, so you don’t have to worry about you or the kids being hungry.
 
 ### 2. Fewer crowds!
 
-
 Most people are leaving at that time. It will be easier to park, it will be easier to enjoy the attractions, and it will be easier to watch your kids.
 
 ### 3. Closing Time!
-
 
 Most water parks close around 5:00p.m, which makes it easier to enforce that two hour time limit. “Honey, I wish we could stay longer too, but the park is closing.” HAHAHA!
 
 [![water parks with kids](/images/DSCN0938-682x1024.jpg)](/water-parks-with-kids/)
 
 ## Have a P-L-A-N Plan!
-
 
 You have to be strategic if you are going to accomplish a day at the water park with kids without losing your marbles or yelling like a psycho. I hate being that obnoxious mom, so a plan helps reduce those freak-out moments. Go over any rules you have before arrival. For example, if want them to hold your hand, not to run ahead of you, etc. God forbid this happens, but I even like to have a meeting place picked out in the unfortunate case that you and your child get separated.
 
@@ -54,33 +48,27 @@ There are lots of people at water parks and it gets really hectic, really quickl
 
 ## BYO Supplies!
 
-
 You will need some things, if you are going to enjoy the day at the water park with kids, but you also don’t want to be weighed down by crap while chasing kids. Lockers are kind of expensive, but worth it if you are bringing a change of clothes, money, towels, etc. If you don’t want to get a locker here are some must have items.
 
 ### 1. Sunscreen:
-
 
 Although you’ll only be there a couple hours, you still want to protect yourselves from the sun. I say apply in the car or before you leave the house that way you don’t have to bring it.
 
 ### 2. Waterproof phone case/Ziplock bag:
 
-
 You’ll want your phone on you for taking photos, staying social, and keeping in contact with others. You can also use this case to store your credit card or some cash. Plus, the waterproof phone case has a strap attached, so you can throw it around your neck leaving your hands free. If you don’t have a waterproof phone case, you can also use a ziplock plastic bag. It keeps water out and is clear to take photos through.
 
 ## Eat Before You Go
 
-
 I hate eating at water parks. The food is usually not that great, there are few comfortable places to dine, it is usually over-priced, and crowded. I say, come to the water park with full tummies. That’s the beauty of coming later and staying a couple hours; you will have time to eat before arrival and won’t be hungry during your visit. This strategy saves time, money, and frustration.
 
 ## Reward Yourself
-
 
 How do most of us get through tough times? We look for the light at the end of the tunnel. For me, that comes in the form of a happy hour. Parents, you just took your kids to a water park. You need to reward yourself for your efforts. Believe me, you will be much happier and have a much better time if you have something to look forward to at the end. I usually make a deal with my kids as part of our pre-plan. It goes something like this, “I’ll take you to the water park for a couple hours, if you are good for mama during happy hour.” Believe it or not, it works. They will be tired from their busy day, allowing you to fully decompress.
 
 [![parents at happy hour](/images/DSCN2561-1024x683.jpg)](/water-parks-with-kids/)
 
 ## *That’s a Wrap!*
-
 
 I’m no stranger to the water park scene, but I have to keep it real. I don’t actually like them, but my kids do and I’m willing to make the effort for them. However, that doesn’t mean I have to sacrifice my enjoyment completely. I have discovered ways to keep us all happy at the water park. In turn, my kids get to visit more often, so in the end it is a pretty good deal. Whether it is your first visit or you’ve endured this before, I hope you will find these tips to be helpful for surviving the water parks with kids. To all my fellow parents: May your days end with tired kids and cold beer in your hands!
 

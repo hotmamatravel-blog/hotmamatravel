@@ -12,18 +12,13 @@ wpSlug: "las-vegas-family-suites"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Las Vegas may be famed for its vibrant nightlife and glitzy casinos, but it's also an exciting destination for families. With a [**plethora of attractions**](/las-vegas-with-kids/) that cater to all ages, from [**world-class entertainment**](/las-vegas-shows-for-kids/), [**sparkling pools**](/best-family-pools-in-vegas/), to large Las Vegas family suites, it's no wonder many families are choosing Sin City for their vacations.
 
 The first step to a successful family trip to Vegas is finding the perfect accommodation for your family. Luckily Las Vegas is loaded with amazing [**family-friendly hotels**](/best-family-hotels-in-las-vegas/). If you traveling with a family of 5 or more, a standard two-queen room may be too tight.
 
 I will say that you can create family suites by reserving two connecting rooms, which is what we do as a family of eight. You also always stay in a [**vacation rental or villa**](/las-vegas-accommodations-large-family-group/) too. However, you may want even more space and comfort and therefore require a more luxurious family suite inside one of Las Vegas many iconic[**hotels along the strip**](/las-vegas-strip-hotel-map/). I've got you! Here’s a guide to some of the best family suites in Las Vegas that promise comfort, convenience, and plenty of fun for everyone.
 
-
-
 ## Las Vegas Family Suites
-
-
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="westgate-las-vegas-family-suite"><figure><a href="/images/westgate-las-vegas-family-suite.jpg"><img src="/images/westgate-las-vegas-family-suite.jpg" alt="Westgate Las Vegas Family Suites" /></a></figure></div>
 
@@ -139,13 +134,9 @@ Immerse your family in the elegance of [Bellagio](https://bellagio.mgmresorts.co
 
 **[See Photos, Reviews, &amp; More](/go/bellagio-las-vegas-expedia/)**
 
-## That's a Wrap!
-
 Ready to plan your perfect family getaway? Las Vegas family suites offer the ideal blend of space, comfort, and entertainment to ensure a memorable vacation for everyone. Don't miss out on exploring my other [**Las Vegas family travel guides**](/family-friendly-vegas/) and [**Nevada family travel guides**](/nevada-family-travel/) for more tips, recommendations, and insider information to make your trip truly unforgettable. Start planning your adventure today!
 
 Also, be sure to join my **[Las Vegas With Kids Facebook Group](https://www.facebook.com/groups/lasvegaswithkidstips)**! This is where our community gathers to share the most up-to-date Vegas family news and tips. It is a lot of fun.
-
-
 
 Like it? Pin it!
 

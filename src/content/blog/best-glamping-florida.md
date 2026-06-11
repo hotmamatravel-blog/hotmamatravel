@@ -10,11 +10,9 @@ wpSlug: "best-glamping-florida"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Treehouses, Yurts and Chickee Huts, Oh My! Florida is the most southeastern state in the US and known for it's tropical climate, lush nature and unique wildlife. Throw this kind of weather in with an exciting accommodation like a Chickee Hut or Treehouse and you got yourself a real glamping adventure!&nbsp;For those of you looking for a camping experience that is truly unique, check out my list of the best glamping sites in Florida!
 
 ## Best Glamping in Florida
-
 
 <figure id="trail-lakes-campground-glamping-florida"><a href="/images/trail-lakes-campground-glamping-florida.jpg"><img src="/images/trail-lakes-campground-glamping-florida.jpg" alt="" /></a></figure>
 
@@ -29,9 +27,6 @@ Get a real wildlife Everglades experience! Family owned and operated, Trail Lake
 You are in the middle of the Everglades and surrounded by nature. Trail Lakes Campground offers culture and nature tours to explore and learn all about the area. Tours include pole boat tours, kayaking, air boats and swamp hikes. You can also&nbsp;customize your tour to fit your family’s needs.&nbsp;
 
 [See photos, reviews &amp; more](/go/trail-lakes-campground-glamping-florida/)
-
-
-
 
 <figure id="coldwater-gardens-glamping-florida"><a href="/images/coldwater-gardens-glamping-florida.jpg"><img src="/images/coldwater-gardens-glamping-florida.jpg" alt="" /></a></figure>
 
@@ -49,9 +44,6 @@ While staying at Coldwater Gardens, you can enjoy tubing, kayaking and other wat
 
 [See photos, reviews &amp; more](/go/coldwater-gardens-glamping-florida/)
 
-
-
-
 <figure id="camptel-cedar-key-glamping-florida"><a href="/images/camptel-cedar-key-glamping-florida.jpg"><img src="/images/camptel-cedar-key-glamping-florida.jpg" alt="" /></a></figure>
 
 #### [Camptel Cedar Key](/go/camptel-resort-glamping-florida/)
@@ -65,9 +57,6 @@ This RV resort offers a variety of glamping accommodations, including Yurts, Ten
 Onsite you can partake in a number of activities like kayaking, AirBoat Tours, fishing and bike rides. There is an outdoor pool for having fun and cooling down as well as a community center for campfire chats and games. With all the accommodations you will enjoy beautiful water views of Cedar Key.&nbsp;
 
 [See photos, reviews &amp; more](/go/camptel-resort-glamping-florida/)
-
-
-
 
 <figure id="live-oak-landing-glamping-florida"><a href="/images/live-oak-landing-glamping-florida.jpg"><img src="/images/live-oak-landing-glamping-florida.jpg" alt="" /></a></figure>
 
@@ -83,9 +72,6 @@ Onsite, you and your family can enjoy a sparkling pool with open concept luxury 
 
 [See photos, reviews &amp; more](/go/live-oak-landing-glamping-florida/)
 
-
-
-
 <figure id="treehouse-cabin-retreats-glamping-florida"><a href="/images/treehouse-cabin-retreats-glamping-florida.jpg"><img src="/images/treehouse-cabin-retreats-glamping-florida.jpg" alt="" /></a></figure>
 
 #### [Treehouse Cabin Retreat](/go/tree-house-cabin-retreat-glamping-florida/)
@@ -100,9 +86,7 @@ Since there isn't any wifi, you will have to just embrace nature. Onsite, you ca
 
 [See photos, reviews &amp; more](/go/tree-house-cabin-retreat-glamping-florida/)
 
-
-
-## That's A Wrap!
+## That's a Wrap!
 
 &nbsp;So are you ready to experience Florida’s great outdoors and tropical landscapes? Then pack your bags and let's go glamping in Florida!
 
@@ -137,8 +121,6 @@ If you would more information on glamping in the United States, please see our o
 - [Glamping Texas](/glamping-texas/)
 
 - [Glamping Upstate New York](/glamping-upstate-new-york/)
-
-
 
 **Like it? Pin it!**
 

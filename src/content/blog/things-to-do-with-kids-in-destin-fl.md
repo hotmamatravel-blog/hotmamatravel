@@ -10,13 +10,11 @@ wpSlug: "things-to-do-with-kids-in-destin-fl"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Destin, Florida is a family-friendly vacation destination that offers something for everyone. Known for its stunning beaches, crystal-clear waters, and abundant sunshine, it's no wonder why families from all over the world flock to this picturesque Gulf Coast town. But there's more to Destin than just its beautiful coastline. From thrilling water sports and outdoor adventures to family-friendly attractions and restaurants, Destin has it all.
 
 We'll explore all the cool things to do with kids in Destin, FL, with your kids. So pack your bags, grab the sunscreen, and get ready for a memorable family vacation in one of Florida's most charming beach towns.
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
-
 
 <figure id="destin-harbor-boardwalk-marina-destin-activities-for-families-"><a href="/images/destin-harbor-boardwalk-marina-destin-activities-for-families-.jpg"><img src="/images/destin-harbor-boardwalk-marina-destin-activities-for-families--1024x576.jpg" alt="" /></a></figure>
 
@@ -33,9 +31,6 @@ If you're looking for a more adrenaline-fueled experience, try parasailing or je
 During the evening you can find live music, concerts and even a nightly firework display on summer nights. Be sure to see our suggestions for fun [family hotels in Destin, FL](/5-best-family-hotels-in-destin-fl/) that are walking distance to the Destin Harbor Boardwalk &amp; Marina.
 
 [See photos, reviews &amp; more](/go/destin-harbor-boardwalk-destin-fl/)
-
-
-
 
 <figure id="henderson-state-park-destin-activities-for-families-"><a href="/images/henderson-state-park-destin-activities-for-families-.jpg"><img src="/images/henderson-state-park-destin-activities-for-families--1024x576.jpg" alt="" /></a></figure>
 
@@ -55,9 +50,6 @@ If you would like to stay in Henderson State Park to enjoy the beach easier with
 
 [See photos, reviews &amp; more](/go/henderson-state-park-destin-fl/)
 
-
-
-
 <figure id="jolee-island-nature-park-destin-activities-for-families-"><a href="/images/jolee-island-nature-park-destin-activities-for-families-.jpg"><img src="/images/jolee-island-nature-park-destin-activities-for-families--1024x576.jpg" alt="" /></a></figure>
 
 #### [Jolee Island Nature Park](/go/jolee-island-nature-park-destin-fl/)
@@ -73,9 +65,6 @@ If your kids are more into water activities, bring some kayaks or paddleboards a
 For some extra excitement, try your hand at fishing in the park's ponds. The park staff can provide you with some basic fishing gear if you don't have your own, and there's a good chance you'll catch some bass, bream, or catfish.
 
 [See photos, reviews &amp; more](/go/jolee-island-nature-park-destin-fl/)
-
-
-
 
 <figure id="village-baytowne-wharf-destin-activities-for-families-"><a href="/images/village-baytowne-wharf-destin-activities-for-families-.jpg"><img src="/images/village-baytowne-wharf-destin-activities-for-families--1024x576.jpg" alt="" /></a></figure>
 
@@ -93,9 +82,6 @@ For a more relaxed experience, consider taking a sunset cruise or dolphin-watchi
 
 [See photos, reviews &amp; more](/go/village-baytowne-wharf-destin-fl/)
 
-
-
-
 <figure id="sandcastle-lessons-destin-activities-for-families-"><a href="/images/sandcastle-lessons-destin-activities-for-families-.jpg"><img src="/images/sandcastle-lessons-destin-activities-for-families--1024x576.jpg" alt="" /></a></figure>
 
 #### [SandCastle Lessons](/things-to-do-with-kids-in-destin-fl/)
@@ -110,9 +96,6 @@ This activity is fun for the whole family and for all ages. One adult must be pr
 
 [See photos, reviews &amp; more](/things-to-do-with-kids-in-destin-fl/)
 
-
-
-
 <figure id="crab-island-pontoon-destin-activities-for-families-"><a href="/images/crab-island-pontoon-destin-activities-for-families-.jpg"><img src="/images/crab-island-pontoon-destin-activities-for-families--1024x576.jpg" alt="" /></a></figure>
 
 #### [Private Crab Island Pontoon Charter](/go/private-crab-island-pontoon-destin-fl/)
@@ -124,9 +107,6 @@ When looking for things to do in Destin, FL with kids, look no further than a po
 This 4-hour excursion takes you and your family out into the Gulf of Mexico to the Crab Island where you can have a blast swimming and playing on the soft sandbar. The double-decker pontoon includes, a double waterslide, lily mat, inflatable paddleboards and water toys to enjoy throughout the day. All you need to do is bring your cooler and sunscreen!
 
 [See photos, reviews &amp; more](/go/private-crab-island-pontoon-destin-fl/)
-
-
-
 
 <figure id="dolphin-watching-destin-activities-for-families-"><a href="/images/dolphin-watching-destin-activities-for-families-.jpg"><img src="/images/dolphin-watching-destin-activities-for-families--1024x576.jpg" alt="" /></a></figure>
 
@@ -141,9 +121,6 @@ Yes, at Dolphin-Watching Speedboat cruise, you get a family-friendly adventure t
 Your guide will take your family out into the crystal-clear waters of the Gulf of Mexico while pointing out all the local wildlife, helping you spot animals like dolphins, stingrays, loggerhead turtles, and sharks.
 
 [See photos, reviews &amp; more](/go/dolphin-watching-speedboat-cruise-destin-fl/)
-
-
-
 
 <figure id="destin-commons-destin-activities-for-families-"><a href="/images/destin-commons-destin-activities-for-families-.jpg"><img src="/images/destin-commons-destin-activities-for-families--1024x576.jpg" alt="" /></a></figure>
 
@@ -161,9 +138,6 @@ And of course, no visit to Destin Commons would be complete without sampling som
 
 [See photos, reviews &amp; more](/go/destin-commons-destin-fl/)
 
-
-
-
 <figure id="destin-history-fishing-museum-destin-activities-for-families-"><a href="/images/destin-history-fishing-museum-destin-activities-for-families-.jpg"><img src="/images/destin-history-fishing-museum-destin-activities-for-families--1024x576.jpg" alt="" /></a></figure>
 
 #### [Destin History &amp; Fishing Museum](/go/destin-history-fishing-museum-destin-fl/)
@@ -178,13 +152,7 @@ But the museum isn't just for kids. Adults will also find plenty to love here, i
 
 [See photos, reviews &amp; more](/go/destin-history-fishing-museum-destin-fl/)
 
-
-
-
-
-## That's A Wrap!
-
-
+## That's a Wrap!
 
  A Destin family vacation is an absolute must-do for any family looking for sun, sand, and fun. With its beautiful beaches, charming coastal villages, and endless array of activities, there's truly something for everyone in this Gulf Coast paradise.
 
@@ -193,8 +161,6 @@ Whether you want to learn how to build the ultimate sandcastle, take a sunset cr
 So why wait? Book your Destin family vacation today and start making memories that will last a lifetime. You won't be disappointed!
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
-
-
 
 **Like it? Pin it!**
 

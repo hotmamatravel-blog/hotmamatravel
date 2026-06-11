@@ -12,7 +12,6 @@ wpSlug: "3-day-road-trips-from-las-vegas"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 So I am going to assume that **you **are in Vegas (or planning a trip soon) and looking for a little adventure while you are here. We visit [**Las Vegas with our kids**](/las-vegas-with-kids/) regularly, so I know full well that Las Vegas is a vacation destination unto itself with about a million different things to keep you busy.
 
 *But I want to let you in on a little secret. *
@@ -37,14 +36,9 @@ In this article, I provide 3 road trip itineraries which all start (and end) in 
 
 View this post as a Google Web Story, here: [**Las Vegas Road Trips**](/web-stories/las-vegas-road-trips/)
 
-
-
 ## Road Trips From Las Vegas
 
-
-
 **Here are the 3 road trip itineraries in this article.** You can click a title to jump ahead.
-
 
 ## 1. [Oatman, AZ - Topock, AZ](#oatman-topock-road-trip)
 
@@ -52,15 +46,11 @@ View this post as a Google Web Story, here: [**Las Vegas Road Trips**](/web-stor
 
 ## 3. [Williams, AZ - Grand Canyon South Rim](#grand-canyon-road-trip)
 
-
-
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 <div class="wp-block-ugb-heading ugb-heading ugb-447dd01 ugb-main-block" id="oatman-topock-road-trip"><style>.ugb-447dd01 .ugb-heading__title{text-align:center}.ugb-447dd01 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-447dd01 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Road Trip Option #1 - Oatman &amp; Topock
-
-
 
 ### Day 1: Morning Drive from Las Vegas to [Oatman, AZ](/go/oatman-arizona/)
 
@@ -106,8 +96,6 @@ On your scenic drive back to Las Vegas in time for [**dinner and a show**](/las-
 
 ## Road Trip Option #2: Zion National Park, UT
 
-
-
 ### Day 1: Morning drive from Vegas to[St. George, Utah](/go/st-george-utah/)
 
 *Distance: 120 miles, or about 2 hours*
@@ -143,8 +131,6 @@ On the way back to Vegas, you may want to stop for lunch in Mesquite, Nevada. It
 <div class="wp-block-ugb-heading ugb-heading ugb-4b670f0 ugb-main-block" id="grand-canyon-road-trip"><style>.ugb-4b670f0 .ugb-heading__title{text-align:center}.ugb-4b670f0 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-4b670f0 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Road Trip Option #3: Williams - Grand Canyon
-
-
 
 ### Day 1: Morning drive along Historic Route 66 to[Williams, AZ](/go/williams-arizona/)
 
@@ -186,13 +172,9 @@ If you chose not to take the scenic Route 66 on the way from Vegas to Williams, 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DSpWXkWJNCo?si=dU30PEZMIs8Xuk_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## That's a Wrap!
-
 I hope you enjoyed learning about three different 3-day road trip itineraries to take you from the hustle and bustle of Las Vegas to the majestic natural wonders of the Southwestern American Desert. If you are visiting Las Vegas with kids, we have a ton of content to help you plan the perfect **[family trip to Vegas](/family-friendly-vegas/), **as well as more of [**Nevada family fun**](/nevada-family-travel/).
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families. It is a lot of fun.
-
-
 
 Like it? Pin it!
 

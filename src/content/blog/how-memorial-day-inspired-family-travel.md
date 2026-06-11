@@ -57,6 +57,8 @@ You don’t have to have a direct family connection to learn about war and those
 Memorial Day is not about backyard barbecues and getting turned-up. It is about remembering those who fought and died for their country, for their families, for you.
 
 **Do you have stories of fallen soldiers in your family? Please share.**
+## That's a Wrap!
+
 
 **Like it? Pin it!**
 

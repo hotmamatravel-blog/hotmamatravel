@@ -12,16 +12,11 @@ wpSlug: "haunted-hotel-in-california"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Looking for a more spirited stay on your next California family vacation? Well, look no further. From the rugged terrain of Northern California to the sunny coast of Southern California haunted hotels are sprinkled across the state like a spooky cupcake.
 
 I love staying at haunted hotels with my family! I have put a list together of our favorite family-friendly haunted hotels in California that are actually pleasant stays, even if you are not into ghosts. So if you are looking to add a little spooky excitement to your California road trip, you are in the right spot. What haunted hotel in California will you choose?
 
-
-
 ## Haunted Hotels in Northern California
-
-
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Holbrooke-hotel-grass-valley-hotels"><figure><a href="/images/Holbrooke-hotel-grass-valley-hotels.jpg"><img src="/images/Holbrooke-hotel-grass-valley-hotels.jpg" alt="Holbrooke-hotel-grass-valley-hotels" /></a></figure></div>
 
@@ -97,11 +92,7 @@ As dusk settles and shadows grow longer, The Westin St. Francis reveals a side t
 
 **[See Photos, Reviews, &amp; More](/go/westin-st-francis-san-francisco-ca/)**
 
-
-
 ## Haunted Hotels in Central California
-
-
 
 <div class="wp-block-uagb-image uagb-block-030ab657 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="the-groveland-hotel-haunted-hotels-california"><figure><a href="/images/the-groveland-hotel-haunted-hotels-california.jpg"><img src="/images/the-groveland-hotel-haunted-hotels-california.jpg" alt="The Groveland Hotel Haunted Hotels in California" /></a></figure></div>
 
@@ -147,11 +138,7 @@ Room 224 has become synonymous with intrigue, as visitors report a range of eeri
 
 **[See Photos, Reviews, &amp; More](/go/santa-maria-inn-ca/)**
 
-
-
 ## Haunted Hotels in Southern California
-
-
 
 <div class="wp-block-uagb-image uagb-block-d283e0b8 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="queen-mary-haunted-hotels-california"><figure><a href="/images/queen-mary-haunted-hotels-california.jpg"><img src="/images/queen-mary-haunted-hotels-california.jpg" alt="Haunted Hotel in California The Queen Mary Hotel" /></a></figure></div>
 
@@ -197,8 +184,6 @@ See our post for more [**haunted hotels in San Diego**](/haunted-hotels-san-dieg
 
 **[See Photos, Reviews, &amp; More](/go/hotel-del-coronado-san-diego/)**
 
-## That's a Wrap!
-
 California's haunted hotels is a curious blend of history, mystery, and the supernatural awaits families seeking a unique and captivating getaway. From the opulent corridors of The Queen Mary to the sunlit shores of Hotel del Coronado, these hotels offer an experience that goes beyond the ordinary. With their rich histories, storied pasts, and tales of ghostly encounters, these accommodations invite families to embark on a journey where the past and present intertwine, igniting imaginations and sparking conversations that span generations.
 
 Whether you're captivated by the echoes of the past, intrigued by spectral stories, or simply seeking an unforgettable adventure, these haunted hotels beckon you to explore a world where the boundaries between reality and the unknown blur into one unforgettable, and perhaps slightly eerie, experience.
@@ -206,8 +191,6 @@ Whether you're captivated by the echoes of the past, intrigued by spectral stori
 Explore more[](/best-haunted-places-to-visit-for-families/)[**haunted places and hotels**](/best-haunted-places-to-visit-for-families/) in California as well as across America in some of **[best towns to visit during Halloween](/best-towns-for-halloween/)**.
 
 Be sure to visit our [**California Family Travel**](/california-family-travel/) page for planning the ultimate California vacation.
-
-
 
 Like it? Pin it!
 

@@ -60,7 +60,5 @@ Remember to bring along your trusty password manager and 2FA device. There's not
 
 Even before you travel, ensure the safety of your valuable data by backing it up. You can choose to safeguard your files and photos either on an external hard drive or through the convenience of a cloud service. By doing this, even if your device goes missing or falls into the wrong hands, you can still enjoy uninterrupted access to your critical information. Regular backups also act as a reliable shield from potential hazards.
 
-## That's a Wrap!
-
 Though we should practice these precautions daily, they often slip our minds when anticipating an exciting trip we've long awaited. Remember, it's always better to prioritize safety. Enjoy your journey!
 

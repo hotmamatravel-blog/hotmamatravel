@@ -12,7 +12,6 @@ wpSlug: "advice-las-vegas-with-baby-infant-itinerary"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 OK, so you are going to Las Vegas BABY! Or more like Las Vegas with baby and you probably have a few questions, like…
 
 Is it safe?
@@ -35,17 +34,9 @@ I created this article to be helpful for moms (and dads) who basically have NO C
 
 **First I will answer some common questions and *misconceptions***&nbsp;that I have heard over the years about visiting Las Vegas with young kids, then I follow that up with **an example itinerary** that should help you get started on planning your next trip to Las Vegas with baby.
 
-
-
 ## Frequently Asked Questions About Babies In Vegas
 
-
-
-
-
 ## Our Las Vegas With Baby And Q&amp;A Videos Are Helpful
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aO4Cz1Yh68c?si=lxe-udb3yTOY8zrv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -53,11 +44,7 @@ I created this article to be helpful for moms (and dads) who basically have NO C
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FnkExE4scDo?si=VOKVZzybarzNn7Ji" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-
 ## Perfect 2-Day Itinerary In Las Vegas With Baby
-
-
 
 <div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-985a02d" id="day-1" data-block-id="985a02d">
 
@@ -157,8 +144,6 @@ If your baby is all good and you still have the energy to keep going here are so
 
 **Warm weather:** When the nights are warm, that is a great time to walk the strip, because city sparkles with lights and is loaded with outdoor entertainment. The main strip is very touristy and loaded with families. If you are worried about safety, I would just suggest to not go out too late. This is a good opportunity to catch some free classic outdoor shows like the Fountains at [**Bellagio**](/go/bellagio-las-vegas-expedia/).
 
-## That's a Wrap!
-
 After two full days for activities, you will be exhausted. Time to sink into those comfy hotel beds and dream about all the fun you had in Las Vegas with baby.
 
 Vegas is the entertainment capital, and there are countless ways to experience the fun and excitement of Las Vegas with baby. I want to prove to you that, YES, it is possible to have a fun, safe trip to Las Vegas with kids of all ages - including infants and babies.
@@ -170,8 +155,6 @@ Vegas can be whatever you make of it, and we have chosen to make it a family tra
 We regularly go to Las Vegas with baby, toddlers, kids and teens. We know what we are talking about. **Everything** you need to plan the best Vegas family vacation can be found on our [**Las Vegas family travel page**](/family-friendly-vegas/). We also have exciting travel ideas for the [**greater state of Nevada**](/nevada-family-travel/) for more family travel fun. So, click around and keep exploring.
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
-
-
 
 Like it? Pin it!
 

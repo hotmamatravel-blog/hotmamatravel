@@ -10,11 +10,9 @@ wpSlug: "top-kids-activities-st-george-utah"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 St. George is a beautiful city located in Southwestern Utah. It’s 4 ½ hours south of Salt Lake City and 2 hours east of Las Vegas. It has primarily been known for its red rock mountains and proximity to bucket list hiking destinations such as Zion National Park, Bryce Canyon National Park, and the Grand Canyon. The town has grown in recent years to include so much more! Learn below [how to win with your kids](https://justdadswinning.com/) on your vacation to St. George, Utah!
 
 **Here's what's in this article**...
-
 
 ### Outdoor activities
 
@@ -43,8 +41,6 @@ St. George is a beautiful city located in Southwestern Utah. It’s 4 ½ hours s
 - [Sand Hollow Aquatic Center](#sand-hollow-aquatic-center)
 - [Judd’s General Store](#judds-general-store)
 
-
-
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 ## Kid-friendly Outdoor Activities in St. George
@@ -52,7 +48,6 @@ St. George is a beautiful city located in Southwestern Utah. It’s 4 ½ hours s
 <div class="uagb-separator-wrap">
 
 </div>
-
 
 <figure id="snow-canyon-state-park-utah"><a href="/images/snow-canyon-state-park-utah.jpg"><img src="/images/snow-canyon-state-park-utah.jpg" alt="" /></a></figure>
 
@@ -62,9 +57,6 @@ People have been coming to hike in St. George for decades. Zion National Park an
 
 [See photos, reviews &amp; more](/go/snow-canyon-state-park-utah/)
 
-
-
-
 <figure id="Thunder-junction-all-abilities-park-utah"><a href="/images/Thunder-junction-all-abilities-park-utah.jpg"><img src="/images/Thunder-junction-all-abilities-park-utah.jpg" alt="" /></a></figure>
 
 #### **[Thunder Junction All-Abilities Park](/go/thunder-junction-all-abilities-park-utah/)**
@@ -72,9 +64,6 @@ People have been coming to hike in St. George for decades. Zion National Park an
 When it comes to playgrounds, swing sets, and woodchips, most city parks are very similar. However, Thunder Junction is a specialty park. It offers opportunities for all kids, including those with physical disabilities! There is no entrance fee, kids will be excited to give the zip line a try, and it even includes a splash pad for hot days. And if you’re still not impressed, check out the park’s train that takes kids around the park.
 
 [See photos, reviews &amp; more](/go/thunder-junction-all-abilities-park-utah/)
-
-
-
 
 <figure id="red-hills-desert-garden-st-george-utah"><a href="/images/red-hills-desert-garden-st-george-utah.jpg"><img src="/images/red-hills-desert-garden-st-george-utah.jpg" alt="" /></a></figure>
 
@@ -84,9 +73,6 @@ Desert plants are some of the most interesting plants in the world, and the Red 
 
 [See photos, reviews &amp; more](/go/red-hills-desert-garden-utah/)
 
-
-
-
 <figure id="pioneer-park-st-george-utah"><a href="/images/pioneer-park-st-george-utah.jpg"><img src="/images/pioneer-park-st-george-utah.jpg" alt="" /></a></figure>
 
 #### **[Pioneer Park](/go/pioneer-park-utah/)**
@@ -94,9 +80,6 @@ Desert plants are some of the most interesting plants in the world, and the Red 
 A rock climber’s dream spot! Pioneer Park is a 52-acre community park that allows kids of all ages the opportunity to climb rocks, run up hills, and explore for hours. There are fire pits available for use, pavilions for picnics, and the famous Dixie Rock, which provides a spectacular viewpoint of St. George.
 
 [See photos, reviews &amp; more](/go/pioneer-park-utah/)
-
-
-
 
 <figure id="sand-hollow-state-park-utah"><a href="/images/sand-hollow-state-park-utah.jpg"><img src="/images/sand-hollow-state-park-utah.jpg" alt="" /></a></figure>
 
@@ -106,14 +89,11 @@ While some of the already-mentioned activities are catered to younger children, 
 
 [See photos, reviews &amp; more](/go/sand-hollow-state-park-utah/)
 
-
-
 ## Kid-friendly Indoor Activities in St. George
 
 <div class="uagb-separator-wrap">
 
 </div>
-
 
 <figure id="fiesta-fun-family-center-st-george-utah"><a href="/images/fiesta-fun-family-center-st-george-utah.jpg"><img src="/images/fiesta-fun-family-center-st-george-utah.jpg" alt="" /></a></figure>
 
@@ -123,9 +103,6 @@ Bowling, mini golf, laser tag, go karts, bumper boats, batting cages, and an arc
 
 [See photos, reviews &amp; more](/go/fiesta-fun-utah/)
 
-
-
-
 <figure id="dinosaur-discovery-center-st-george-utah"><a href="/images/dinosaur-discovery-center-st-george-utah.jpg"><img src="/images/dinosaur-discovery-center-st-george-utah.jpg" alt="" /></a></figure>
 
 #### **[St. George Dinosaur Discovery Site](/go/st-george-dinosaur-discovery-site-utah/)**
@@ -134,18 +111,11 @@ Like many museums, the dinosaur discovery site allows kids to learn. Most little
 
 [See photos, reviews &amp; more](/go/st-george-dinosaur-discovery-site-utah/)
 
-
-
-
-
 #### **[St. George Children’s Museum](/go/st-george-childrens-museum-utah/)**
 
 The museum’s motto is, “Discover, Imagine, and Create!” It features 12 exhibit rooms such as a transportation room that allows kids to be pilots flying airplanes, or a government room where a child can become the president of the United States for the day. My personal favorite is the Under the Sea exhibit, which allows kids to learn all about the ocean and its creatures!
 
 [See photos, reviews &amp; more](/go/st-george-childrens-museum-utah/)
-
-
-
 
 <figure id="Sand-Hollow-Aquatic-Center-utah"><a href="/images/Sand-Hollow-Aquatic-Center-utah.jpg"><img src="/images/Sand-Hollow-Aquatic-Center-utah.jpg" alt="" /></a></figure>
 
@@ -155,23 +125,17 @@ This indoor aquatic center is [made for kids](https://justdadswinning.com/top-10
 
 [See photos, reviews &amp; more](/go/sand-hollow-aquatic-center-utah/)
 
-
-
-
-
 #### **[Judd’s General Store](/go/judds-store-st-george-utah/)**
 
 My favorite soda shop out there! Take your kids here and let them pick out a fun soda with unique candy. They’ll find so much joy in looking at all of the fun options and parents will get a blast from the past as they dig into candy from their childhood. Also, Judd’s General Store has amazing breadsticks that you can’t miss out on!
 
 [See photos, reviews &amp; more](/go/judds-store-st-george-utah/)
 
-
-
-## That's a Wrap!
-
 <div class="uagb-separator-wrap">
 
 </div>
+
+## That's a Wrap!
 
 Whatever you’re coming to St. George for, you’ll be able to fill each day with fun activities for the kids. Whether you come prepared with a plan or not, take some of these ideas and run with them!
 
@@ -179,12 +143,9 @@ For More Utah family travel tips, see guide on [mind-blowing glamping sites in Z
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
-
-
 **Like it? Pin it!**
 
 <div id="Top-10-activities-for-kids-st-george-utah" class="wp-block-image"><figure class="alignleft size-medium"><a href="/images/Top-10-activities-for-kids-st-george-utah.jpg"><img src="/images/Top-10-activities-for-kids-st-george-utah-200x300.jpg" alt="" /></a></figure></div>
-
 
 **Author Bio**
 ![](https://lh4.googleusercontent.com/p6uI7z04J28OW7AZmr-9wypp8KmgGdS-McaEyWlHhx8MNQ63jML_uOcI2LPM8wQZfQTwDqNwjfHRDKnoBc6X8rJ-iRElwDiu_lB4HakkWaOXiV44X5BNwQHDFwy5FiGu0_7pZHBA)

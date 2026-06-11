@@ -11,7 +11,6 @@ wpSlug: "newport-coast-with-kids"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 I’ve always felt drawn to the sea, and Newport Beach has long been my happy place. It’s where I first tasted my favorite mint chocolate chip ice cream during a family vacation at just five years old. Years later, it became the backdrop for countless lazy summer days with my hubby when we were teenagers. Now, it’s where I get to watch my own children play, explore, and create beach memories that will last a lifetime.
 
 While Newport Beach holds a special place in my heart, it also attracts millions of visitors each year. Yes, it’s home to a few of the famous OC Housewives, and many people associate the area with glitz and glamour. But the truth is, it’s surprisingly relaxed and incredibly family-friendly, especially when exploring the beautiful Newport Coast with kids.
@@ -20,11 +19,7 @@ From chic coastal spots to laid-back beaches perfect for little ones, this slice
 
 Being a local, it’s a wonder I travel anywhere else! Without further ado, here are some fun things to do in Newport Coast with kids.
 
-
-
 ## Things To Do In Newport Beach With Kids
-
-
 
 <figure><img src="/images/fun-things-to-do-newport-coast-with-kids-orange-county.png" alt="Things to do with kids on Newport Coast OC" /></figure>
 
@@ -172,11 +167,7 @@ Newport Beach is an ideal location for whale watching year-round. From November 
 
 [**See photos, reviews &amp; more**](/go/newport-landing-whale-watching-newport-beach-ca/)
 
-
-
 ## Our Favorite Family Restaurants in Newport Beach
-
-
 
 ### [**The Old Spaghetti Factory**](/go/old-spaghetti-factory-newport-beach-ca/)
 
@@ -278,11 +269,7 @@ It’s the kind of spot where you can slow down, refuel, and enjoy that easy New
 
 **[See photos, reviews &amp; more](/go/lighthouse-cafe-newport-beach/)**
 
-
-
 ## Newport Beach Family Hotels &amp; Rentals
-
-
 
 <div class="wp-block-uagb-image uagb-block-3672dc41 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Hyatt-Regency-Newport-Beach.jpg"><img src="/images/Hyatt-Regency-Newport-Beach.jpg" alt="hyatt regency newport beach family hotel" /></a></figure></div>
 
@@ -346,15 +333,11 @@ Several water activities and rentals are available for right on the beach, so if
 
 [**See photos, reviews &amp; more**](/go/newport-dunes-rv-resort-newport-beach-ca/)
 
-## That's a Wrap!
-
 Newport Coast with kids is one of the easiest and most rewarding family beach getaways in California. From Balboa Fun Zone and Marina Park to Newport Dunes and iconic local dining, this coastal escape is packed with kid-friendly beaches, outdoor fun, and unforgettable family memories.
 
 If you’re planning a trip, explore my **[California travel guides](/california-family-travel/)** for more must-visit destinations, and don’t miss my **[Orange County family travel guides](/orange-county-family-travel/)** for even more beaches, hotels, and activities near Newport Beach.
 
 Newport Coast is just the start—California family adventures are waiting.
-
-
 
 Like it? Pin it!
 

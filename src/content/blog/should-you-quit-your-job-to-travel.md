@@ -12,7 +12,6 @@ wpSlug: "should-you-quit-your-job-to-travel"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 *As a traveling mama, I often wonder if I am ready to quit my job and commit myself to full-time travel.  **This guest post, by Matthew Sienna, gives wanderlusters some food for thought. Are you ready to go all in?*
 
 ## *Should You Quit Your Job to Travel?*
@@ -42,8 +41,6 @@ If you are dead-set on quitting your stable office job to go traveling the world
 ## *Don't fall behind on your career goals...*
 
 If you choose to work freelance while you travel, and as you should, you need to really take it seriously and actually factor in working five days a week no matter where you are. If you do not, the odds are pretty high that you will fall behind your career goals. You don't want to be 40-years-old one day and realize that you have zero work experience. So take your work seriously and account for days when you will not be able to take off on another adventure because your client needs that work within the next five hours. If you can successfully be your own boss, this will work in your favor.
-
-## That's a Wrap!
 
 **Are you ready to quit your job to travel? Or you a part-time traveler?**
 

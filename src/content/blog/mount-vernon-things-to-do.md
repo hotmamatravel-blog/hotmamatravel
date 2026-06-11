@@ -245,6 +245,8 @@ This colonial-inspired restaurant is just outside the entrance to Mount Vernon a
 The food court is a good option if you don’t want to spend a lot of time eating or are on a budget. This area is open for breakfast and lunch, offering everything from snacks, salads, sandwiches, burgers and more. *But trust me,*&nbsp;plan on factoring in one hour to enjoy a meal at the Mount Vernon Inn Restaurant (you won't regret it)!
 
 ## **That’s A Wrap!**
+## That's a Wrap!
+
 
 After one visit to Mount Vernon it is easy to see why George Washington never wanted to leave home. Imagine being a kid on these amazing grounds! With all the animals, gardens and views of the sparkling Potomac River, it must have been magical. The best part is that your kids can get a small piece of that magical experience for themselves at Mount Vernon.
 

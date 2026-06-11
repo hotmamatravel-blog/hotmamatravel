@@ -10,11 +10,9 @@ wpSlug: "glamping-santa-barbara"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Nestled between the Pacific Coast and the Santa Ynez Mountains is the beautiful coastal town of Santa Barbara, California. It is known as the American Riviera, filled with exciting restaurants, wineries galore, shopping, history and outdoor activities. A great way to enjoy this lovely town’s beautiful nature is by glamping in Santa Barbara at one of these amazing sites!
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
-
 
 <figure><img src="/images/glamping-el-capitan-canyon-santa-barbara.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of El Capitan Canyon</figcaption></figure>
 
@@ -32,9 +30,6 @@ Onsite, you will have access to resort-style amenities while still being able to
 
 [See photos, reviews &amp; more](/go/el-capitan-canyon-santa-barbara-ca/)
 
-
-
-
 <figure><img src="/images/Circle-bar-b-guest-ranch-glamping-santa-barbara.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of Circle Bar B Guest Ranch</figcaption></figure>
 
 #### [Circle Bar B Guest Ranch](/go/circle-bar-b-guest-ranch-santa-barbara-ca/)
@@ -48,9 +43,6 @@ Family owned for four generations, the Circle Bar B Guest Ranch opened in 1939 a
 Circle Bar B Guest Ranch is a relaxed ranch where families can come enjoy the outdoors while enjoying the amenities of a resort. You will have access to the exciting activities that the ranch has to offer, including horseback riding, walking trails,&nbsp; private library, pool, full bar, the main lodge with a grand stone fireplace, game room and more. Your stay also includes the dinner on your first night and the breakfast on your last day!
 
 [See photos, reviews &amp; more](/go/circle-bar-b-guest-ranch-santa-barbara-ca/)
-
-
-
 
 <figure><img src="/images/yurt-glamping-cachuma-lake-santa-barbara.jpg" alt="" /><figcaption class="wp-element-caption">Courtesy of Santa Barbara County Parks</figcaption></figure>
 
@@ -68,9 +60,6 @@ Onsite you will have access to a general store, gas station, laundromat and shar
 
 [See photos, reviews &amp; more](/go/cachuma-lake-recreation-santa-barbara-ca/)
 
-
-
-
 <figure><img src="/images/family-glamping-rancho-oso-rv-restort-santa-barbara.jpg" alt="Unique family glamping site at Rancho Oso RV Camping Resort in Santa Barbara California" /><figcaption class="wp-element-caption">Courtesy of Rancho Oso RV &amp; Camping Resort</figcaption></figure>
 
 #### [Rancho Oso RV &amp; Camping Resort](/go/rancho-oso-rv-camping-resort-santa-barbara-ca/)
@@ -84,8 +73,6 @@ This western style glamping resort is a fun way to get the family out to enjoy f
 The&nbsp;Resort amenities include, a club house, playground, BBQs, basketball, pickleball, volleyball, a dog park, mini-golf, horseshoes, a game room, general store and laundry facility.&nbsp; You will also have access to more great outdoor activities, like nature and hiking trails, horseback riding, swimming pool and hot tub. For meals, you can BBQ your own outdoor meals or enjoy the onsite restaurant.
 
 [See photos, reviews &amp; more](/go/rancho-oso-rv-camping-resort-santa-barbara-ca/)
-
-
 
 ## That's a Wrap!
 
@@ -124,8 +111,6 @@ For more exciting glamping destinations, explore our site!
 - [New England](/glamping-new-england/)
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 **Like it? Pin it!**
 

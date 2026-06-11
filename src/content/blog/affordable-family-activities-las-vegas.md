@@ -12,7 +12,6 @@ wpSlug: "affordable-family-activities-las-vegas"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 As you hopefully already know, there is so much more to Las Vegas than gambling and nightclubs. Las Vegas is a virtual playground for adults (*and children*) with about a gazillion different attractions to entertain just about everyone.
 
 I should know. I have been traveling with family to Vegas for decades and have become an expert on all things [**family travel in Las Vegas**](/las-vegas-with-kids/).
@@ -27,11 +26,7 @@ In this article, we highlight some our favorite affordable family activities in 
 
 - See this post as a Google Web Story: [Cheap Things to do in Las Vegas with Kids](/web-stories/cheap-activities-las-vegas/)
 
-
-
 ## Affordable Family Activities Las Vegas
-
-
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="eiffel-tower-paris-las-vegas"><figure><a href="/images/Las-Vegas-Eiffel-Tower.jpg"><img src="/images/Las-Vegas-Eiffel-Tower.jpg" alt="Eiffel tower paris hotel las vegas" /></a></figure></div>
 
@@ -223,13 +218,9 @@ My kids love this activity, and I love how affordable it is for hours of enterta
 
 **[See Photos, Reviews, &amp; More](/go/the-luxor-hotel-las-vegas/)**
 
-## That's a Wrap!
-
 This list, although pretty amazing, only scratches the surface of what Las Vegas has to offer. From cheap things to do in Vegas with family to extraordinary family activities, Vegas has it! Honestly, if you can’t find something fun to do in Las Vegas, the problem is probably with you. Anyhow, if you are ready to have insane fun with your family in Las Vegas, we have a wealth of information right here on the blog to help you plan every aspect of your trip. Let us help you do Vegas the right way!
 
 Check out more of our [**Las Vegas family travel guides**](/family-friendly-vegas/), as well as more of [**the things to do in Nevada**](/nevada-family-travel/). Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
-
-
 
 Like it? Pin it!
 

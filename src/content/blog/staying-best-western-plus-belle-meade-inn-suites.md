@@ -87,6 +87,8 @@ Whether you are traveling for business, pleasure or both, it is always nice to h
 After a long day of traveling or sightseeing it is so nice to come back to a comfortable room. At the Best Western Belle Meade the guest rooms come with all the comforts of home without the work. Each room has a microwave, a refrigerator, and a coffee and tea maker. I love when hotel rooms have refrigerators. A simple pleasure, but it makes it so convenient to store food or milk for the babies or kids, and beer and wine for mom and dad. There is also cable television, so you don’t have to miss your favorite shows while on the road. The free wireless Internet access, desks, data ports and two-line phones make it easy for getting a little work done in your room.
 
 ## *That’s A Wrap!*
+## That's a Wrap!
+
 
 When visiting Nashville, you may not have thought to stay in Bell Meade, but it makes for a great option for traveling families. There is so much to see and do in Nashville besides music row, that staying in downtown is not necessarily the most convenient. What we liked about the Best Western Plus Belle Meade was that it was set in a less congested part of town, near Hattie B’s Hot Chicken and the Belle Meade Plantation. The hotel was not only comfortable for our family, but an affordable Nashville accommodation with an award winning loyalty rewards program to help keep our family traveling! Thanks Best Western Plus Belle Meade for a great stay. [**Book your stay today**](http://www.jdoqocy.com/click-8336032-13039225)!
 

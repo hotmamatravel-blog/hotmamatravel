@@ -82,6 +82,4 @@ Also open from November through April, this fairground is an opportunity to imme
 
 As Dubai is famous for its tall buildings, you can't miss out on a visit to the Burj Khalifa. Currently the world's tallest tower, visitors can travel up to the 124th and 125th floors of the 830m tall building. While the wait can be long, the views are worth it. Your kids are sure to be in awe as they take in the sights of the beautiful city around them.
 
-## That's a Wrap!
-
 Hopefully, this article provided a few ideas you'll keep in mind when planning the next family vacation. As a parent, it's important to ensure there will be activities and attractions that will keep your kids busy while traveling. So whether you're checking out the historical museums in Washington, D.C., taking in the sights and smells of the flower garden in Dubai, or flying high above the Melbourne skyline, any one of these places will help your family create memories that will last a lifetime.

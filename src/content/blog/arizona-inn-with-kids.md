@@ -14,7 +14,6 @@ author: "Amanda Keeley-Thurman"
 
 85 years ago an extraordinary woman by the name of Isabella Greenway opened her simply fabulous inn in Tucson, Arizona. Surrounded by the comforts of home, yet equipped with all the luxuries of an extravagant resort, the Arizona Inn remains timeless. During the depression, the inn was a symbol of hope in dark times. Today, it continues stand to strong, rising out of the desert like an oasis, beckoning guests of all types to come, stay and play awhile.
 
-
 And beckon guests it does.
 
 For decades the inn has attracted a number of famous guests, including (time for some name dropping) President F.D.R, Clark Gable (swoon), Gary Cooper, President Kennedy, the Rockefellers, Danny Kaye, John Wayne and Bettie Davis, just to name a few. The list goes on and on. Fancy names for a fancy place, but this is family travel blog and I haven’t forgotten about the kids. Still a family-owned business, Arizona Inn is classic glamour, but very family-friendly.
@@ -25,13 +24,11 @@ My family and I were invited to stay a couple nights on our way home from a **[v
 
 ## ***Keep the Cost in Check:***
 
-
 I recently read an Arizona Inn receipt from the 1930’s and I will say rates have gone up, ha! Seriously though, this is a luxury resort and although it may be more than what a family on a tight budget wants to spend on accommodations, I would encourage you to consider the value of what this experience offers. The amazing amenities as well as the 14 acres of gorgeous grounds and gardens can all be enjoyed without a resort fee. It really is a great deal and well worth the value. I’ll explain further in the post. [**Check Prices Now**](http://www.anrdoezrs.net/links/8336032/type/dlg/https://www.expedia.com/Tucson-Hotels-Arizona-Inn.h170100.Hotel-Information)
 
 [![Arizona Inn with kids](/images/AZI2-1024x1024.jpg)](/arizona-inn-with-kids/)
 
 ## ***Drop Your Bags:***
-
 
 The rooms! You can’t make me leave. I won’t, I just won’t! Immediately upon my arrival I felt like Orphan Annie visiting Daddy Warbucks’ estate for the first time. We squealed, my kids twirled, I sang, “I think I’m going to like it here!” I know. We are dramatic, but we are excitable and after a long day traveling with kids the luxuries of Arizona Inn were much appreciated.
 
@@ -40,8 +37,6 @@ There are three types of accommodations offered at Arizona Inn. There are rooms,
 [![Arizona Inn with kids](/images/AZI4-1-1024x872.jpg)](/arizona-inn-with-kids/)
 
 ### All rooms include:
-
-
 
  	- Turn down service.
 
@@ -63,11 +58,9 @@ There are three types of accommodations offered at Arizona Inn. There are rooms,
 
  	- Bath Robes
 
-
 Only the Deluxe rooms and suites have private patios, fireplaces, wet bar and sitting area. [**Check Prices Now**](http://www.anrdoezrs.net/links/8336032/type/dlg/https://www.expedia.com/Tucson-Hotels-Arizona-Inn.h170100.Hotel-Information)
 
 ### **Rates:**
-
 
 Like most hotels, rates fluctuate depending on time of year and day of week. Generally, off season (summer in AZ) offers the
  lowest rates, which start at $170 Deluxe Room. During peak season rates can start at $230 and above.
@@ -78,21 +71,17 @@ House Six is a two-bedroom, two-bathroom house with front and back yards. This h
 
 ## ***Get You Grub On***
 
-
 There are several places to dine at Arizona Inn, but the menu remains the same throughout the resort with slight variations depending on time of day.
 
 ### **Main Dining Room:**
 
-
  Open of lunch and dinner, this dining room is both elegant and cozy. The tall cathedral ceilings, table cloths, warm woods, fireplace and romantic lighting come together to create a truly wonderful atmosphere. The Filet Mignon, French Onion Soup, Paella and Scallops were amazing!
-
 
 [![Arizona Inn with Kids](/images/DSCN2264-1024x684.jpg)](/arizona-inn-with-kids/)
 
 [![Arizona Inn with Kids](/images/Dinner-1024x1024.jpg)](/arizona-inn-with-kids/)
 
 ### **Audubon Bar and Patio:**
-
 
 This is the more casual dining option off the Main Dining Room. In the bar is a piano, which is played nightly. Not only can you enjoy the live piano in the bar, but throughout the dining spaces as the lovely music trickles out the patio and into the Main Dining Room.
 
@@ -106,18 +95,15 @@ I really enjoyed having breakfast on the patio, because I could enjoy the views 
 
 ### **Pool Dining:**
 
-
 Whether you are swimming or not, you can still enjoy lighter dishes surrounded by the sparkling pool. Why does food taste so good when you’re playing in warm sun and cool water?
 
 [![Arizona Inn with kids](/images/AZI6-1024x512.jpg)](/arizona-inn-with-kids/)
 
 ### **Room Service:**
 
-
 Hungry, but don’t feel like leaving your room. Maybe you want to dine in those fluffy bathrobes hanging in your closet. For nights like this, room service is available from 6:30pm until midnight.
 
 ### **Free Sundaes!**
-
 
 Every night from 5:00pm to 9:00pm, Arizona Inn provides a free sundae bar poolside! Yes, the kids loved it! In fact, it was the highlight of their whole trip. We let them indulge during our stay and get a sundae before and after dinner. Why not? I must make a point that the sundaes, although a win for the kids, are great for all ages. I don’t even have a sweet tooth and enjoyed making myself a little cool treat. It was sweet to see grandparents, grandchildren and parents enjoying twilight snack al fresco. [**Check Prices Now**](http://www.anrdoezrs.net/links/8336032/type/dlg/https://www.expedia.com/Tucson-Hotels-Arizona-Inn.h170100.Hotel-Information)
 
@@ -128,7 +114,6 @@ Every night from 5:00pm to 9:00pm, Arizona Inn provides a free sundae bar poolsi
 [![Arizona Inn with Kids](/images/IMG_1375-1024x683.jpg)](/arizona-inn-with-kids/)
 
 ## ***Chug-A-Lug***
-
 
 Let me start by saying, every morning is a great morning when it starts with a Bloody Mary. For $6 at the Audubon Bar and Patio are Mimosas and Bloody Marys offered at breakfast.
 
@@ -146,11 +131,9 @@ For a proper afternoon, you might enjoy the complimentary afternoon tea offered 
 
 ## ***Entertain Me!***
 
-
 So, what is there to do at a luxury resort in the desert? Lots!
 
 ### Activities
-
 
 Active guests may enjoy a morning workout at the 24 hour exercise facility or take advantage of the complimentary bicycle rentals, before taking a plunge in the dazzling pool. Maybe a friendly game of Tennis, Badminton, Croquet or Ping Pong sounds fun. Well, it is all available at the Arizona Inn. [**Check Prices Now**](http://www.anrdoezrs.net/links/8336032/type/dlg/https://www.expedia.com/Tucson-Hotels-Arizona-Inn.h170100.Hotel-Information)
 
@@ -159,7 +142,6 @@ My kids loved playing Ping Pong and Croquet after breakfast. There are darling c
 [![Arizona Inn with Kids](/images/active-1024x1024.jpg)](/arizona-inn-with-kids/)
 
 ### The pool
-
 
 Anywhere we travel the pool is a favorite activity for my water babies, so this is where we spend a lot of our time. Well, the silly mama that I am, I forgot CuddleBear’s water-wings. Ugh. The kids were determined to spend the day poolside, but luckily the Arizona Inn had me covered. The pool area has complimentary water-noodles and floaties, as well as sunscreen! Try finding these items complimentary at a resort in Las Vegas! I was very impressed.
 
@@ -171,11 +153,9 @@ Can I just express my love for the restrooms at the Arizona Inn? They are so nic
 
 ### Movies
 
-
 Remember the complementary DVD library I mentioned in room amenities? Well, in your room is a book of all the available DVDs offered. Most movies offered are classics starring the famous guests of the Arizona Inn. A quick call to the front desk and Danny Cay’s “Court Jester” was delivered for Papa within minutes. There is also a great selection of Disney movies available for the kids’ entertainment.
 
 ## ***That’s A Wrap!***
-
 
 I think it is pretty obvious by now that we really enjoyed our stay at the Arizona Inn in Tucson. Once I was invited to visit, I immediately started researching and fell in love with the history and story of the inn. I was so excited to see it for myself and I was not disappointed. Not only was it relaxing and luxurious for the adults, it was also really fun and exciting for the kids. I must commend Arizona Inn for their hospitality. From housekeeping to valet, everyone went above and beyond to make our stay fabulous! My experience was truly beyond expectations and I would have loved a few more days to enjoy this impeccable resort. Thank you Arizona Inn for a wonderful weekend! [**Check Prices Now**](http://www.anrdoezrs.net/links/8336032/type/dlg/https://www.expedia.com/Tucson-Hotels-Arizona-Inn.h170100.Hotel-Information)
 

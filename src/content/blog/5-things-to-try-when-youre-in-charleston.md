@@ -11,13 +11,11 @@ wpSlug: "5-things-to-try-when-youre-in-charleston"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Filled with amazing restaurants, museums, boating experiences, and countless other attractions, Charleston, South Carolina, can be a great place to visit. Depending on how much time you’re spending there, you mightn’t have the time to take it all in, however.
 
 You’ll still want to enjoy yourself, so it’s worth focusing on a few notable [thi](/things-to-do-in-charleston-with-kids/)[ngs to do](/interesting-activities-family-vacation/) when you’re in Charleston. Some of these could be more appealing than others. They’ll not only have you enjoying yourself, but you’ll end up creating some amazing memories.
 
 It’s worth looking at some of the more notable of these.
-
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="charleston-city-market-things-to-do-charleston"><figure><a href="/images/charleston-city-market-charleston-sc.jpg"><img src="/images/charleston-city-market-charleston-sc.jpg" alt="Visit the Charleston City Market " /></a></figure></div>
 
@@ -27,9 +25,6 @@ While some people say the [Charleston City Market](https://www.thecharlestoncity
 
 **[See Photos, Reviews, &amp; More](/go/charleston-city-market-charleston-sc/)**
 
-
-
-
 <div class="wp-block-uagb-image uagb-block-a4a5b1d1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="sullivans-island-things-to-do-charleston-sc"><figure><a href="/images/sullivans-island-things-to-do-charleston-sc.jpg"><img src="/images/sullivans-island-things-to-do-charleston-sc.jpg" alt="Sullivan" /></a></figure></div>
 
 ### **[Go To Sullivan’s Island](/go/sullivans-island-charleston-sc/)**
@@ -37,9 +32,6 @@ While some people say the [Charleston City Market](https://www.thecharlestoncity
 Sullivan’s Island is one of the more notable places you can visit when you’re in Charleston. You could even spend your entire vacation there while being able to enjoy yourself. From restaurants to beaches, there’ll be plenty to see and do when you’re there. You shouldn’t have a problem enjoying yourself there, so it’s worth visiting.
 
 **[See Photos, Reviews, &amp; More](/go/sullivans-island-charleston-sc/)**
-
-
-
 
 <div class="wp-block-uagb-image uagb-block-4fd11394 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="carriage-tour-things-to-do-charleston"><figure><a href="/images/old-south-haunted-carriage-tour-charleston-sc.jpg"><img src="/images/old-south-haunted-carriage-tour-charleston-sc.jpg" alt="Old South Carriage Tour Charleston" /></a></figure></div>
 
@@ -49,9 +41,6 @@ There are plenty of tours to go on when you’re in Charleston, some of which ca
 
 **[See Photos, Reviews, &amp; More](/go/palmetto-carriage-works-tour-charleston-sc/)**
 
-
-
-
 <div class="wp-block-uagb-image uagb-block-80b62e35 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="magnolia-plantation-things-to-do-charleston-sc"><figure><a href="/images/magnolia-plantation-things-to-do-charleston-sc.jpg"><img src="/images/magnolia-plantation-things-to-do-charleston-sc.jpg" alt="Magnolia Plantation Charleston SC" /></a></figure></div>
 
 ### **[Check Out The Magnolia Plantation](/go/magnolia-plantation-tour-charleston-sc/)**
@@ -59,9 +48,6 @@ There are plenty of tours to go on when you’re in Charleston, some of which ca
  If you want to take in a bit of scenery, you’ll have plenty of options when you’re in Charleston. One of the more appealing is The [Magnolia Plantation](https://www.magnoliaplantation.com/), which boasts amazing gardens and wildlife. While this varies depending on what time of the year you go, you’ll end up having an amazing time, no matter what.
 
 **[See Photos, Reviews, &amp; More](/go/magnolia-plantation-tour-charleston-sc/)**
-
-
-
 
 <div class="wp-block-uagb-image uagb-block-e8f5def4 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="food-tour-things-to-do-charleston-sc"><figure><a href="/images/food-tour-things-to-do-charleston-sc.jpg"><img src="/images/food-tour-things-to-do-charleston-sc.jpg" alt="Charleston food tours" /></a></figure></div>
 
@@ -71,15 +57,9 @@ Charleston has quite a wide variety of cuisine, and there’ll be plenty of food
 
 **[See Photos, Reviews, &amp; More](/go/food-tour-charleston-sc/)**
 
-
-
-## That's a Wrap!
-
 Figuring out what to do when you’re in Charleston can be complicated, as there’s quite a bit to do. You simply mightn’t have the time to do it all. That doesn’t mean struggling to figure out what you should do.
 
 You’ll have plenty of options to choose from, and some of them can be more appealing than you’d think. It’s worth focusing on them if you want to have an amazing time and create some great memories. You’ll be enjoying it before you know it.
-
-
 
 Like it? Pin it!
 

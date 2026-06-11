@@ -176,11 +176,11 @@ Here are some of my favorite amusement park Halloween events:
 
 ![](/images/Queen-Mary-Deck-Halloween-Terror-Harbor.jpg)
 
-## That's A Wrap!
-
 I covered a lot of different options here, but the main take away is that you don’t have to travel far or spend a ton of money for your family to have a great Halloween. But if you want to spend a little dough, there are countless haunted hotels, haunted historic homes, and amusement parks that are calling your name...
 
 ***Happy Haunts :)***
+
+## That's a Wrap!
 
 *How do you like to celebrate Halloween all month long?*
 

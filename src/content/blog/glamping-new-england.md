@@ -11,9 +11,7 @@ wpSlug: "glamping-new-england"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Nowhere does "camp life" like New England! Located in the northeastern region of the United States, New England includes the states&nbsp;of Maine, Vermont, New Hampshire, Massachusetts, Connecticut and Rhode Island. With lush woodlands and deep blue coastlines, New England is home to some of the best camps in the country.&nbsp;If you love camping (and don’t love the work) then check out my list of the five best sites for glamping New England. Hope you are ready to have a great time!
-
 
 <figure id="sandy-pines-tent-glamping-new-england"><a href="/images/sandy-pines-tent-glamping-new-england.jpg"><img src="/images/sandy-pines-tent-glamping-new-england.jpg" alt="" /></a></figure>
 
@@ -29,9 +27,6 @@ Onsite, the Grand Lodge is where you go for information or to get supplies at th
 
 [See photos, reviews &amp; more](/go/sandy-pines-campground-glamping-new-england/)
 
-
-
-
 <figure id="huttopia-white-mountains-tent-glamping-new-england"><a href="/images/huttopia-white-mountains-tent-glamping-new-england.jpg"><img src="/images/huttopia-white-mountains-tent-glamping-new-england.jpg" alt="" /></a></figure>
 
 #### [Huttopia White Mountains](/go/huttopia-white-mountains-glamping-new-england/)
@@ -45,9 +40,6 @@ Located only 2.5 hours from Boston in the New Hampshire’s White Mountains, Hut
 At Huttopia you have access to Iona Lake from the camp’s private beach. Rentals are available if you would like to take out a paddleboard or canoe for the day. You can also reserve a fishing license in advance. For more ways to cool off, take a dip in the large outdoor pool or take the little kids to the paddle pool. During the summer, there are daily camp activities like live music, magic shows, movie nights, yoga and more. There is also a playground and kids’ club for the littles to stay busy with crafts, games and outdoor activities. Additionally, there are a ton of outdoor sports, like volleyball, basketball, foosball, baseball and much more.&nbsp;
 
 [See photos, reviews &amp; more](/go/huttopia-white-mountains-glamping-new-england/)
-
-
-
 
 <figure id="under-canvas-acadia-tent-glamping-new-england"><a href="/images/under-canvas-acadia-tent-glamping-new-england.jpg"><img src="/images/under-canvas-acadia-tent-glamping-new-england.jpg" alt="" /></a></figure>
 
@@ -63,9 +55,6 @@ At camp you can enjoy a variety of camp activities, like acoustic music, yoga, g
 
 [See photos, reviews &amp; more](/go/under-canvas-acadia-glamping-new-england/)
 
-
-
-
 <figure id="autocamp-cape-code-airstream-glamping-new-england"><a href="/images/autocamp-cape-code-airstream-glamping-new-england.jpg"><img src="/images/autocamp-cape-code-airstream-glamping-new-england.jpg" alt="" /></a></figure>
 
 #### [Autocamp Cape Cod](/go/autocamp-cape-cod-glamping-new-england/)
@@ -80,9 +69,6 @@ Onsite, you can pick up supplies at the general store where they have ready-gril
 
 [See photos, reviews &amp; more](/go/autocamp-cape-cod-glamping-new-england/)
 
-
-
-
 <figure id="maine-forest-yurts-double-bunkbeds-glamping-new-england"><a href="/images/maine-forest-yurts-double-bunkbeds-glamping-new-england.jpg"><img src="/images/maine-forest-yurts-double-bunkbeds-glamping-new-england.jpg" alt="" /></a></figure>
 
 #### [Maine Forest Yurts](/go/maine-forest-yurts-glamping-new-england/)
@@ -96,8 +82,6 @@ Maine Forest Yurts is a family owned and operated yurt glamping experience great
 Located on Runaround Pond with two shallow ponds perfect for enjoying a nice kayak, canoe or paddle board ride while taking in the wildlife. You also have access to seasonal outdoor activities, like hiking, fishing, snowshoeing, ice-skating, skiing and more. Nearby, you can visit Bradbury Mountain State Park for outdoor adventures.
 
 [See photos, reviews &amp; more](/go/maine-forest-yurts-glamping-new-england/)
-
-
 
 ## That's a Wrap!
 
@@ -134,8 +118,6 @@ If you love glamping and want more places to sleep in luxury while enjoying the 
 - [Glamping Upstate New York](/glamping-upstate-new-york/)
 
 - [Glamping California](/best-california-glamping-sites/)
-
-
 
 **Like it? Pin it!**
 

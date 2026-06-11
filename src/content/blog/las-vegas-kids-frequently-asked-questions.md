@@ -12,7 +12,6 @@ wpSlug: "las-vegas-kids-frequently-asked-questions"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 We go to Vegas regularly with our kids, so I'd consider myself at least a *semi-expert* on how to do **[Las Vegas with kids](/las-vegas-with-kids/)** of just about any age. Given our love of the city and extensive experience, we have ended up writing a **TON** of content over years to help families have a fun and safe visit to Sin City.
 
 As a result, **we also get a bunch of different questions from readers** about how to make the best of their visit to Las Vegas with kids. Some folks go for weddings or conferences, and others (like us!) decide to take family vacations to Vegas.
@@ -27,16 +26,10 @@ Take a look around and who knows, *maybe you'll see a question you didn't even t
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aO4Cz1Yh68c?si=3s_3ggHguxqG915H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## Las Vegas Kids Frequently Asked Questions
-
-
 
 <figure><a href="/images/Best-Guide-Las-Vegas-with-Kids.jpg"><img src="/images/Best-Guide-Las-Vegas-with-Kids.jpg" alt="Best Guide to Visiting Las Vegas with Kids
 Las Vegas kids frequently asked questions" /></a></figure>
-
-
 
 ### Is Las Vegas Safe for kids?
 
@@ -166,11 +159,7 @@ Join the conversation. Do you have anything else to add about your own experienc
 
 For more Las Vegas family fun, check out our [**Vegas family travel guides**](/family-friendly-vegas/) as well as travel ideas around [**Nevada**](/nevada-family-travel/).
 
-## That's a Wrap!
-
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families. It is a lot of fun.
-
-
 
 Like it? Pin it!
 

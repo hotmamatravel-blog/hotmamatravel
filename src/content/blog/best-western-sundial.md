@@ -48,6 +48,8 @@ Finally, I can’t say enough about how much I love the Best Western’s complim
 [![Complimentary Breakfast at Best Western Sundial](/images/Breakfast-e1512506190300.jpg)](/best-western-sundial/) Courtesy of Best Western
 
 ## *That’s A Wrap!*
+## That's a Wrap!
+
 
 We all loved our time in Scottsdale, and our stay at the Best Western Plus Sundial was the icing on the cake. We had a great location right in the middle of all the action, complimentary full breakfasts and a fun pool to splash around in - all for such a reasonable rate! Not only are the room rates always competitive, you also earn Best Western rewards during your stay when you sign up for their loyalty program. Those rewards help keep families like us traveling together. Since the kids keep asking to go back to Scottsdale, it looks like we will be checking into the Best Western Sundial again really soon!&nbsp;
 

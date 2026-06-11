@@ -12,13 +12,11 @@ wpSlug: "kid-friendly-wineries-in-napa"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Napa is one of the biggest wine regions in California with over 400 wineries, numerous highly rated restaurants and lavish resorts. Wine tasting is a must when visiting Napa, but what if you are traveling with your kids? No worries, there are plenty of kid-friendly wineries in Napa and I am here to share five of the best Napa Wineries for families that you will love.
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 <figure><a href="/go/vinarmour-luxury-wine-bag/"><img src="/images/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg" alt="Get your VinArmour wine travel case today" /></a></figure>
-
 
 <figure id="castello-di-amorosa-kid-friendly-winery-napa-ca"><a href="/images/castello-di-amorosa-kid-friendly-winery-napa-ca.jpeg"><img src="/images/castello-di-amorosa-kid-friendly-winery-napa-ca.jpeg" alt="" /></a></figure>
 
@@ -34,9 +32,6 @@ Castello produces Italian-style wines. Currently, wine tasting is by reservation
 
 [See photos, reviews &amp; more](/go/castello-di-amorosa-winery-napa-ca/)
 
-
-
-
 <figure id="honig-vineyard-kid-friendly-winery-napa-ca"><a href="/images/honig-vineyard-kid-friendly-winery-napa-ca.jpg"><img src="/images/honig-vineyard-kid-friendly-winery-napa-ca.jpg" alt="" /></a></figure>
 
 #### [Honig Vineyard &amp; Winery](/go/honig-vineyard-winery-napa-ca/)
@@ -50,10 +45,6 @@ This family-owned and operated winery in Napa is focused on reducing their impac
 Honig Vineyard &amp; Winery exclusively produces Sauvigon Blanc and Cabernet Sauvignon, offering a variety of tasting experiences. They even offer a family-friendly tasting on the patio when you book a Classic Tasting. For $10 per child, they will receive juice boxes, Goldfish crackers and coloring books to keep them entertained while mom and dad enjoy a sampling of four current release wines and some breadsticks.&nbsp;
 
 [See photos, reviews &amp; more](/go/honig-vineyard-winery-napa-ca/)
-
-
-
-
 
 #### Hoopes Vineyard
 
@@ -69,9 +60,6 @@ Hoopes is definitely a resort for animals, but it can also be a resort for you t
 
 See photos, reviews &amp; more
 
-
-
-
 <figure id="alpha-omega-kid-friendly-napa-ca"><a href="/images/Alpha_Omega_Winery_Exterior_Napa.jpg"><img src="/images/Alpha_Omega_Winery_Exterior_Napa.jpg" alt="" /></a><figcaption>Photo Credit: Alpha Omega</figcaption></figure>
 
 #### [Alpha Omega](/go/alpha-omega-winery-napa-ca/)
@@ -83,9 +71,6 @@ Family Friendly&nbsp; -&nbsp; Kids Activities&nbsp; -&nbsp; Eco Friendly&nbsp;
 At Alpha Omega you and your family can enjoy a day at this beautiful estate among the water fountains and reflecting pond. The friendly, picturesque estate welcomes families to come and enjoy the grounds and wine. Kids even receive coloring books and crayons to enjoy while mom and dad enjoy the award-winning wine. For a relatively new winery, opening in 2006, Alpha Omega has made a splash with their impressive wines and you can feel comfortable bringing the kids along for a day on the vineyard. &nbsp;
 
 [See photos, reviews &amp; more](/go/alpha-omega-winery-napa-ca/)
-
-
-
 
 <figure id="frogs-leap-winery-napa-ca"><a href="/images/frogs-leap-winery-napa-ca.jpg"><img src="/images/frogs-leap-winery-napa-ca.jpg" alt="" /></a></figure>
 
@@ -101,8 +86,6 @@ All guests need to make reservations to book an experience at Frog’s Leap and 
 
 [See photos, reviews &amp; more](/go/frogs-leap-winery-napa-ca/)
 
-
-
 ## That's a Wrap!
 
 Raise your hand if you’re thirsty? Me too! Napa not only has great wines, but also has beautiful land and amazing wineries from castles to historic barns and beyond. The only thing left to do is pack up your bags and your family, and get to Napa!
@@ -110,8 +93,6 @@ Raise your hand if you’re thirsty? Me too! Napa not only has great wines, but 
 For more family-friendly wineries in California, check out other articles on best [Kid-Friendly Wineries in Temecula](/kid-friendly-wineries-temecula-ca/) and [Kid-Friendly Wineries in Sonoma](/kid-friendly-wineries-in-sonoma/).&nbsp;
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 **Like it? Pin it!**
 

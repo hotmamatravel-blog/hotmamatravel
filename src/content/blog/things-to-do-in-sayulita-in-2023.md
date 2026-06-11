@@ -11,19 +11,13 @@ wpSlug: "things-to-do-in-sayulita-in-2023"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Step away from the tourist crowds of Puerto Vallarta and immerse yourself in the charm of Sayulita. This once-tranquil fishing village has blossomed into a captivating destination with its unique allure. From cozy beds and breakfasts to sandy beach resorts and trendy restaurants, Sayulita effortlessly blends surf-town vibes with modern comforts.
 
 While still retaining its laid-back ambiance, Sayulita now offers an array of attractions that appeal to adventurers and relaxation-seekers. Whether you're yearning for peaceful moments or exciting explorations, Sayulita delivers the perfect balance.
 
 Curious about the best-kept secrets of this picturesque town? Discover the true essence of Sayulita with our exclusive guide to its hidden gems - a treasure trove of recommendations cherished by frequent visitors. Unravel the magic of Sayulita and make your next Mexican escape truly unforgettable.
 
-
-
 ## Top 8 Things To Do in Sayulita
-
-
-
 
 <figure id="sunset-carricitos-beach-sayulita-mexico"><a href="/images/sunset-carricitos-beach-sayulita-mexico.jpg"><img src="/images/sunset-carricitos-beach-sayulita-mexico.jpg" alt="" /></a></figure>
 
@@ -35,9 +29,6 @@ Want to know the secret spot? Make your way to Carricitos Beach, fondly known as
 
 [See photos, reviews &amp; more](/go/carricitos-beach-sayulita-mexico/)
 
-
-
-
 <figure id="whale-watching-tours-sayulita-mexico"><a href="/images/whale-watching-california.jpg"><img src="/images/whale-watching-california.jpg" alt="" /></a></figure>
 
 #### [Embark on a Majestic Whale-Watching Journey](/go/whale-watching-sayulita-mexico/)
@@ -48,9 +39,6 @@ watching. From December to March, these magnificent marine mammals grace Sayulit
 Imagine witnessing these magnificent creatures up close, their size mesmerizing you. Join one of the available whale-watching tours for an unforgettable journey and create memories that will last a lifetime.
 
 [See photos, reviews &amp; more](/go/whale-watching-sayulita-mexico/)
-
-
-
 
 <figure id="galleries-shops-sayulita-mexico"><a href="/images/galleries-shops-sayulita-mexico.jpg"><img src="/images/galleries-shops-sayulita-mexico.jpg" alt="" /></a></figure>
 
@@ -68,9 +56,6 @@ much more meaningful and worthwhile.
 
 [See photos, reviews &amp; more](/things-to-do-in-sayulita-in-2023/)
 
-
-
-
 <figure id="mezcal-tour-sayulita-mexico"><a href="/images/mezcal-tour-sayulita-mexico.jpg"><img src="/images/mezcal-tour-sayulita-mexico.jpg" alt="" /></a></figure>
 
 #### [Indulge in Sayulita's Eclectic Mezcal Selection](/go/tacos-tequila-mezcal-tour-sayulita-mexico/)
@@ -81,9 +66,6 @@ At esteemed bars like Cava or Agave Experience, the Mezcal experience goes beyon
 selection, you'll have the pleasure of choosing from over 50 mesmerizing Mezcal varieties, all waiting to be discovered and appreciated at these vibrant local establishments.
 
 [See photos, reviews &amp; more](/go/tacos-tequila-mezcal-tour-sayulita-mexico/)
-
-
-
 
 <figure id="surf-camp-sayulita-mexico"><a href="/images/surf-camp-sayulita-mexico.jpg"><img src="/images/surf-camp-sayulita-mexico.jpg" alt="" /></a></figure>
 
@@ -99,9 +81,6 @@ For those venturing into surfing for the first time, the [WildMex 7-Day Progress
 
 [See photos, reviews &amp; more](/go/surf-camps-sayulita-mexico/)
 
-
-
-
 <figure id="surf-school-sayulita-mexico"><a href="/images/surf-school-sayulita-mexico.jpg"><img src="/images/surf-school-sayulita-mexico.jpg" alt="" /></a></figure>
 
 #### [Experience the Ultimate Surfing Adventure](/go/surf-school-sayulita-mexico/)
@@ -111,9 +90,6 @@ Experience Sayulita, a true surfing paradise! Your trip won't be complete withou
 Sayulita offers ideal conditions for year-round surfing, making this the ideal spot to begin or expand a hobby or hone existing ones. Litibu Beach provides beginners with a safe introduction to surfing; intermediate surfers can test themselves at famous spots like Stinky's and La Lancha for an unforgettable wave surfing session.
 
 [See photos, reviews &amp; more](/go/surf-school-sayulita-mexico/)
-
-
-
 
 <figure id="day-of-the-dead-sayulita-mexico"><a href="/images/day-of-the-dead-sayulita-mexico.jpg"><img src="/images/day-of-the-dead-sayulita-mexico.jpg" alt="" /></a></figure>
 
@@ -126,9 +102,6 @@ At this intimate ceremony, Mexicans pay their departed loved ones tribute by dec
 Sayulita's cemetery offers visitors the perfect chance to reflect and discover Sayulita's cultural heritage. After your visit, enjoy a peaceful beach visit, have a delightful picnic, rent lounge chairs for optimal relaxation, or take advantage of nearby shacks that serve delicious food and refreshing drinks - and then complete your experience by sampling
 some delectable treats from nearby shacks offering mouthwatering food and refreshing beverages!
 
-
-
-
 <figure id="open-air-markets-sayulita-mexico"><a href="/images/open-air-markets-sayulita-mexico.jpg"><img src="/images/open-air-markets-sayulita-mexico.jpg" alt="" /></a></figure>
 
 #### [Immerse Yourself in the Bohemian Charm of Open-Air Markets](/go/market-tours-sayulita-mexico/)
@@ -139,10 +112,6 @@ Wander through the market's enchanting stalls, each brimming with a treasure tro
 
 [See photos, reviews &amp; more](/go/market-tours-sayulita-mexico/)
 
-
-
-## That's a Wrap!
-
 Sayulita is the perfect destination for travelers seeking an authentic Mexican experience without the hustle and bustle of popular tourist spots.
 
 With its laid-back atmosphere and a wide range of accommodation options, including boutique hotels, surf hostels, and budget-friendly options, Sayulita offers something for everyone. To make your trip planning process easier, Travel-Wise is here to help.
@@ -152,8 +121,6 @@ Our [trip planner](https://itravel-wise.com/) allows you to browse community-cre
 With Travel-Wise, planning your dream Mexican holiday has never been so
 quick, easy, and fun. So, leave your worries behind and create unforgettable
 travel moments with us.
-
-
 
 **Like it? Pin it!**
 

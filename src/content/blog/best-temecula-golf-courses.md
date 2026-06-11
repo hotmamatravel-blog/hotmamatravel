@@ -11,9 +11,7 @@ wpSlug: "best-temecula-golf-courses"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Temecula, California over the years has become quite a popular travel destination with increasingly more and more things to enjoy, such as [wineries](/kid-friendly-wineries-temecula-ca/), [breweries](/best-breweries-in-temecula-ca/)and a huge casino resort. No resort town is complete without a few premiere golf courses, am I right? Temecula actually has seven amazing golf courses that take advantage of the beautiful surrounding nature and give you a fun-filled day outdoors!
-
 
 <figure id="legends-golf-club-temeku-hills-temecula-ca"><a href="/images/legends-golf-club-temeku-hills-temecula-ca.jpg"><img src="/images/legends-golf-club-temeku-hills-temecula-ca.jpg" alt="" /></a></figure>
 
@@ -25,9 +23,6 @@ Designed by Ted Robinson, this 72 par, 18-hole course is 6,636 yards with a 131 
 
 [See photos, reviews &amp; more](/go/legends-temeku-hills-golf-course-temecula-ca/)
 
-
-
-
 <figure id="temecula-creek-inn-golf-oaks-course"><a href="/images/temecula-creek-inn-golf-oaks-course.jpg"><img src="/images/temecula-creek-inn-golf-oaks-course.jpg" alt="" /></a></figure>
 
 #### **[Temecula Creek Inn, Oaks Cours](/go/temecula-creek-inn-golf-courses-temecula-ca/)e**
@@ -37,9 +32,6 @@ Designed by Ted Robinson, this 72 par, 18-hole course is 6,636 yards with a 131 
 Also designed by Ted Robinson, this 9-hole course is over 3,436 yards with a par of 36 on Bermuda grass. Oak lined fairways make a very scenic landscape. This is a more traditional course that golfers love.
 
 [See photos, reviews &amp; more](/go/temecula-creek-inn-golf-courses-temecula-ca/)
-
-
-
 
 <figure id="temecula-creek-inn-golf-creek-course"><a href="/images/temecula-creek-inn-golf-creek-course.jpg"><img src="/images/temecula-creek-inn-golf-creek-course.jpg" alt="" /></a></figure>
 
@@ -51,9 +43,6 @@ This 9-hole, 36 par course is 3,348 yards on Bermuda grass. Designed by Ted Robi
 
 [See photos, reviews &amp; more](/go/temecula-creek-inn-golf-courses-temecula-ca/)
 
-
-
-
 <figure id="temecula-creek-inn-golf-stone-house-course"><a href="/images/temecula-creek-inn-golf-stone-house-course.jpg"><img src="/images/temecula-creek-inn-golf-stone-house-course.jpg" alt="" /></a></figure>
 
 #### **[Temecula Creek Inn, Stonehouse Course](/go/temecula-creek-inn-golf-courses-temecula-ca/)**
@@ -63,9 +52,6 @@ This 9-hole, 36 par course is 3,348 yards on Bermuda grass. Designed by Ted Robi
 The Stonehouse Course is set along Temecula Creek Inn’s historic cottage. This 9-hole, 36 par course is over 3,257 yards and designed by Ted Robinson. This is the most challenging course of the three courses at Temecula Creek Inn with demanding tee shots and dramatic changes in elevation and bends.
 
 [See photos, reviews &amp; more](/go/temecula-creek-inn-golf-courses-temecula-ca/)
-
-
-
 
 <figure id="redhawk-golf-course-temecula-ca"><a href="/images/redhawk-golf-course-temecula-ca.jpg"><img src="/images/redhawk-golf-course-temecula-ca.jpg" alt="" /></a></figure>
 
@@ -77,9 +63,6 @@ Home to the famous “Island Green,” this 18-hole is&nbsp; over 7,180 yards wi
 
 [See photos, reviews &amp; more](/go/redhawk-golf-course-temecula-ca/)
 
-
-
-
 <figure id="best-golf-course-temecula-journey-pechanga"><a href="/images/best-golf-course-temecula-journey-pechanga.jpg"><img src="/images/best-golf-course-temecula-journey-pechanga.jpg" alt="" /></a></figure>
 
 #### **[The Journey at Pechanga](/go/journey-golf-course-pechanga-temecula-ca/)**
@@ -89,9 +72,6 @@ Home to the famous “Island Green,” this 18-hole is&nbsp; over 7,180 yards wi
 The Journey at Pechanga is the highest rated golf course in the Temecula area. It also happens to be&nbsp; the longest golf course in Temecula at 7,219 yards. This 18-hole, 72 par course was designed by golf legend Arthur Hills. Set below the South Temecula hillside, the course is carved right out of the native landscape, lending to breathtaking views.
 
 [See photos, reviews &amp; more](/go/journey-golf-course-pechanga-temecula-ca/)
-
-
-
 
 <figure id="cross-creek-golf-course-temecula-ca"><a href="/images/cross-creek-golf-course-temecula-ca.jpg"><img src="/images/cross-creek-golf-course-temecula-ca.jpg" alt="" /></a></figure>
 
@@ -103,19 +83,15 @@ This pristine 18-hole, 71 par course is over 6,940 yards with a 142 slope on Rye
 
 [See photos, reviews &amp; more](/go/cross-creek-golf-course-temecula-ca/)
 
-
-
-## That's A Wrap!
-
 <div class="uagb-separator-wrap">
 
 </div>
 
+## That's a Wrap!
+
 So who is up for some golf? With so many great Temecula golf courses to choose from, you may want to [extend your stay](/best-winery-hotels-temecula-ca/).&nbsp;
 
 Hey while you're out there, be sure to hit up some [wineries](/kid-friendly-wineries-temecula-ca/) or [breweries](/best-breweries-in-temecula-ca/) too! For more information on things to do in Temecula, check out our full guide to Temecula.
-
-
 
 **Like it? Pin it!**
 

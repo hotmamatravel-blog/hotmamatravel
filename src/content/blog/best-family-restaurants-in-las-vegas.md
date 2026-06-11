@@ -12,14 +12,9 @@ wpSlug: "best-family-restaurants-in-las-vegas"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Ready to embark on a culinary adventure in the heart of Vegas? Say hello to my guide on the Best Family Restaurants in Las Vegas, where every bite is a delight for all ages! From kid-approved menus to vibrant atmospheres and [**live music**](/kid-friendly-live-music-las-vegas/) that spell family fun to exciting **[celebrity-owned restaurants](/celebrity-chef-restaurants-las-vegas/),** I've scoured the city to bring you the absolute best spots. Whether you're craving mouthwatering burgers, savory pizzas, or delightful international cuisine, we've got it all. So, buckle up for a taste bud journey and get ready to explore the culinary wonders Vegas has to offer for you and your little VIPs. Let's make every meal a memory in this city of lights and flavors!
 
-
-
 ## Best Family Restaurants In Las Vegas
-
-
 
 ### [Family-Friendly Restaurants NYNY](/go/nyny-hotel-las-vegas/)
 
@@ -236,11 +231,7 @@ From classic cheeseburgers to inventive creations like the Greg Norman Burger to
 
 **[See Photos, Reviews, &amp; More](/go/excalibur-hotel-las-vegas/)**
 
-
-
 ## Kid-Friendly Vegas Restaurants Near The Strip
-
-
 
 <div class="wp-block-uagb-image uagb-block-e75a11e5 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/casa-di-amore-family-restaurants-las-vegas.jpg"><img src="/images/casa-di-amore-family-restaurants-las-vegas.jpg" alt="casa di amore family restaurant in las vegas" /></a></figure></div>
 
@@ -290,15 +281,11 @@ After your meal, the on-site gift shop offers rainforest-themed toys and souveni
 
 **[See Photos, Reviews, &amp; More](/go/rainforest-cafe-las-vegas/)**
 
-## That's a Wrap!
-
 Alright, fabulous families, we've embarked on a delectable journey through the 'Best Family Restaurants in Las Vegas,' and I hope your taste buds are still tingling with delight! But guess what? Our Vegas adventure doesn't end here. There's a whole world of [**family-friendly fun **](/las-vegas-with-kids/)waiting for you in the vibrant city and beyond.
 
 Don't miss out on exploring more of our** [Las Vegas family travel guides](/family-friendly-vegas/)**, uncovering hidden gems, and planning exciting adventures across the beautiful landscapes of [**Nevada**](/nevada-family-travel/). From iconic attractions to off-the-beaten-path wonders, there's something for every family to discover. So, pack your sense of adventure, gather your loved ones, and let's make your Nevada journey one for the memory books!
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
-
-
 
 Like it? Pin it!
 

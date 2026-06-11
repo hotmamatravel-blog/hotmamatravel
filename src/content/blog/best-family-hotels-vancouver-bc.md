@@ -12,7 +12,6 @@ wpSlug: "best-family-hotels-vancouver-bc"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 So you are [**planning a trip to Vancouver, BC, Canada**](/vancouver-with-kids/), with kids and need help finding the right hotel? Well, high-five, because you landed in the right place!
 
 This article will help you choose the perfect kid-friendly hotel in Vancouver for your family, whether it's a desire for:
@@ -48,8 +47,6 @@ Whether you are visiting before embarking on one of the many cruises leaving out
 
 ## Frequently Asked Questions
 
-
-
 ### Which hotels in Vancouver offer complimentary breakfast?
 
 The best family hotels in Vancouver that offers complimentary breakfast is the [Residence Inn by Marriott Vancouver Downtown](#residence-inn-marriott-vancouver) and [Hampton Inn &amp; Suites by Hilton Vancouver](#hampton-inn-vancouver) which have a delicious hot breakfast buffet. 
@@ -70,11 +67,7 @@ All the Vancouver family hotels on our list have a pool area. The [Fairmont Wate
 
 The best family hotels in Vancouver with fridges and/or kitchenettes in the rooms are the [Residence Inn by Marriott Vancouver Downtown](#residence-inn-marriott-vancouver), [Century Plaza Hotel &amp; Spa](#century-plaza-hotel), [Pan Pacific Vancouver](#pan-pacific-vancouver), and [Delta Hotels by Marriott Vancouver](#delta-hotels-marriott-vancouver)
 
-
-
 ## Top Family Hotels In Vancouver BC, Canada
-
-
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="family-friendly-vancouver-hotel-fairmont-waterfront-front"><figure><a href="/images/family-friendly-vancouver-hotel-fairmont-waterfront-front.jpg"><img src="/images/family-friendly-vancouver-hotel-fairmont-waterfront-front.jpg" alt="Fairmont Waterfront Vancouver kid friendly hotel" /></a><figcaption class="uagb-image-caption">Courtesy of Fairmont Waterfront Vancouver</figcaption></figure></div>
 
@@ -176,8 +169,6 @@ Dining is a delight with three restaurants and bars, including the Ocean 999 Res
 
 **[See Photos, Reviews, &amp; More](/go/pan-pacific-vancouver-bc/)**
 
-## That's a Wrap!
-
 All the hotels on our list have been thoroughly researched to ensure that you can pick the best hotel in Vancouver for your family. They all offer wonderful amenities, comforts and convenient locations to help make family travel to Vancouver as easy as possible. To make the decision easier, try [cozycozy](https://www.cozycozy.com/us/vancouver-hotels) and compare family-friendly accommodation options in the city.
 
 Now that you have all the information you need to plan you family vacation to Vancouver, the only hard part left is making a decision on where to stay in Vancouver with kids. When you do, let me know what you pick and how was your stay!
@@ -186,12 +177,9 @@ Want to keep exploring? Check out our suggestions for more [**Canada Family Trav
 
 For more family hotels in more cool cities, be sure to explore our top picks for [**Family Hotels**](/best-family-hotels/) around the world.
 
-
-
 Like it? Pin it!
 
 <figure id="best-family-hotels-in-vancouver-bc" data-essb-pin-description="Planning a family trip to Vancouver BC? 🇨🇦 From hotels with pools and spacious family suites to walkable locations near top attractions, these are the best family-friendly hotels in Vancouver for an unforgettable vacation with kids. Explore where to stay in Vancouver with families, plus insider travel tips, nearby activities, and must-know recommendations to make your trip easier (and way more fun). ✨
 
 #VancouverBC #FamilyTravel #FamilyVacation #VancouverWithKids #CanadaTravel #FamilyHotels #TravelWithKids #VancouverHotels #FamilyFriendlyTravel #HotMamaTravel"><a href="/images/best-family-hotels-in-vancouver-bc.jpg"><img src="/images/best-family-hotels-in-vancouver-bc-200x300.jpg" alt="Family hotels in Vancouver BC" /></a></figure>
-
 

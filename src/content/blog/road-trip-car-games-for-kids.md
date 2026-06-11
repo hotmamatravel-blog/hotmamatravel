@@ -11,7 +11,6 @@ wpSlug: "road-trip-car-games-for-kids"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Road trips are one of our [favorite ways](/driving-cross-country-with-kids/) to explore the country on a budget (*it's sooo much cheaper than flying, especially for a big family like ours*). However, what lots of parents don't realize is that the "road trip" part itself can make or break your family vacation. And that is where **car games for kids** can be a real life saver.
 
 Let me explain.
@@ -35,7 +34,6 @@ We highlight the top car games for young kids (4-9y), and top road trip games fo
 You can** jump ahead** by clicking a category in the table below.
 
 **Here's what's in this article**...
-
 
 ### [Best games in the car for young kids (4-9)](#best-games-in-car-for-kids)
 
@@ -107,8 +105,6 @@ You can** jump ahead** by clicking a category in the table below.
 
 - Battleship travel edition
 
-
-
 ## Road Trip Games for Younger Kids
 
 ### Car Games for 1
@@ -127,7 +123,6 @@ Trust me, kids delight in searching for Waldo on every new page. With brilliant 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-25e884f ugb-main-block"><style>.ugb-25e884f .ugb-block-content{justify-content:center !important}.ugb-25e884f .ugb-button1:hover{border-color:#fcb900 !important;background-color:#fcb900 !important;opacity:1}.ugb-25e884f .ugb-button1:hover .ugb-button--inner{color:#222222 !important}.ugb-25e884f .ugb-button1.ugb-button--has-icon.ugb-button--has-icon:hover svg:not(.ugb-custom-icon){color:#222222 !important}.ugb-25e884f .ugb-button1:before{content:"";background-image:linear-gradient(90deg,#fcb900,#fcb900)}.ugb-25e884f .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="https://amzn.to/37yPXJp"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="amazon" class="svg-inline--fa fa-amazon fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M257.2 162.7c-48.7 1.8-169.5 15.5-169.5 117.5 0 109.5 138.3 114 183.5 43.2 6.5 10.2 35.4 37.5 45.3 46.8l56.8-56S341 288.9 341 261.4V114.3C341 89 316.5 32 228.7 32 140.7 32 94 87 94 136.3l73.5 6.8c16.3-49.5 54.2-49.5 54.2-49.5 40.7-.1 35.5 29.8 35.5 69.1zm0 86.8c0 80-84.2 68-84.2 17.2 0-47.2 50.5-56.7 84.2-57.8v40.6zm136 163.5c-7.7 10-70 67-174.5 67S34.2 408.5 9.7 379c-6.8-7.7 1-11.3 5.5-8.3C88.5 415.2 203 488.5 387.7 401c7.5-3.7 13.3 2 5.5 12zm39.8 2.2c-6.5 15.8-16 26.8-21.2 31-5.5 4.5-9.5 2.7-6.5-3.8s19.3-46.5 12.7-55c-6.5-8.3-37-4.3-48-3.2-10.8 1-13 2-14-.3-2.3-5.7 21.7-15.5 37.5-17.5 15.7-1.8 41-.8 46 5.7 3.7 5.1 0 27.1-6.5 43.1z"></path></svg></span>See on Amazon</span></a>
 </div>
 
-
 <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__stack-mobile uagb-columns__valign- uagb-columns__gap-15 align uagb-block-ac1c6811 uagb-columns__columns-1 uagb-columns__max_width-theme"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-1">
 <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-color uagb-block-f3249bf1"><div class="uagb-column__overlay"></div>
 
@@ -141,7 +136,6 @@ My kids love learning new jokes and making mom and dad crack a smile. Joke books
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-c615268 ugb-main-block"><style>.ugb-c615268 .ugb-block-content{justify-content:center !important}.ugb-c615268 .ugb-button1:hover{border-color:#fcb900 !important;background-color:#fcb900 !important;opacity:1}.ugb-c615268 .ugb-button1:hover .ugb-button--inner{color:#222222 !important}.ugb-c615268 .ugb-button1.ugb-button--has-icon.ugb-button--has-icon:hover svg:not(.ugb-custom-icon){color:#222222 !important}.ugb-c615268 .ugb-button1:before{content:"";background-image:linear-gradient(90deg,#fcb900,#fcb900)}.ugb-c615268 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="https://amzn.to/2ZZC5Wh"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="amazon" class="svg-inline--fa fa-amazon fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M257.2 162.7c-48.7 1.8-169.5 15.5-169.5 117.5 0 109.5 138.3 114 183.5 43.2 6.5 10.2 35.4 37.5 45.3 46.8l56.8-56S341 288.9 341 261.4V114.3C341 89 316.5 32 228.7 32 140.7 32 94 87 94 136.3l73.5 6.8c16.3-49.5 54.2-49.5 54.2-49.5 40.7-.1 35.5 29.8 35.5 69.1zm0 86.8c0 80-84.2 68-84.2 17.2 0-47.2 50.5-56.7 84.2-57.8v40.6zm136 163.5c-7.7 10-70 67-174.5 67S34.2 408.5 9.7 379c-6.8-7.7 1-11.3 5.5-8.3C88.5 415.2 203 488.5 387.7 401c7.5-3.7 13.3 2 5.5 12zm39.8 2.2c-6.5 15.8-16 26.8-21.2 31-5.5 4.5-9.5 2.7-6.5-3.8s19.3-46.5 12.7-55c-6.5-8.3-37-4.3-48-3.2-10.8 1-13 2-14-.3-2.3-5.7 21.7-15.5 37.5-17.5 15.7-1.8 41-.8 46 5.7 3.7 5.1 0 27.1-6.5 43.1z"></path></svg></span>See on Amazon</span></a>
 </div>
-
 
 <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__stack-mobile uagb-columns__valign- uagb-columns__gap-15 align uagb-block-b37ace7e uagb-columns__columns-1 uagb-columns__max_width-theme"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-1">
 <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-color uagb-block-27221d4d"><div class="uagb-column__overlay"></div>
@@ -157,7 +151,6 @@ Ok, who remembers these from when you were a kid!? I remember being frustrated t
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-f783e4e ugb-main-block"><style>.ugb-f783e4e .ugb-block-content{justify-content:center !important}.ugb-f783e4e .ugb-button1:hover{border-color:#fcb900 !important;background-color:#fcb900 !important;opacity:1}.ugb-f783e4e .ugb-button1:hover .ugb-button--inner{color:#222222 !important}.ugb-f783e4e .ugb-button1.ugb-button--has-icon.ugb-button--has-icon:hover svg:not(.ugb-custom-icon){color:#222222 !important}.ugb-f783e4e .ugb-button1:before{content:"";background-image:linear-gradient(90deg,#fcb900,#fcb900)}.ugb-f783e4e .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="https://amzn.to/2QOrngQ"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="amazon" class="svg-inline--fa fa-amazon fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M257.2 162.7c-48.7 1.8-169.5 15.5-169.5 117.5 0 109.5 138.3 114 183.5 43.2 6.5 10.2 35.4 37.5 45.3 46.8l56.8-56S341 288.9 341 261.4V114.3C341 89 316.5 32 228.7 32 140.7 32 94 87 94 136.3l73.5 6.8c16.3-49.5 54.2-49.5 54.2-49.5 40.7-.1 35.5 29.8 35.5 69.1zm0 86.8c0 80-84.2 68-84.2 17.2 0-47.2 50.5-56.7 84.2-57.8v40.6zm136 163.5c-7.7 10-70 67-174.5 67S34.2 408.5 9.7 379c-6.8-7.7 1-11.3 5.5-8.3C88.5 415.2 203 488.5 387.7 401c7.5-3.7 13.3 2 5.5 12zm39.8 2.2c-6.5 15.8-16 26.8-21.2 31-5.5 4.5-9.5 2.7-6.5-3.8s19.3-46.5 12.7-55c-6.5-8.3-37-4.3-48-3.2-10.8 1-13 2-14-.3-2.3-5.7 21.7-15.5 37.5-17.5 15.7-1.8 41-.8 46 5.7 3.7 5.1 0 27.1-6.5 43.1z"></path></svg></span>See on Amazon</span></a>
 </div>
 
-
 <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__stack-mobile uagb-columns__valign- uagb-columns__gap-15 align uagb-block-04c1e3f0 uagb-columns__columns-1 uagb-columns__max_width-theme"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-1">
 <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-color uagb-block-3ccdb487"><div class="uagb-column__overlay"></div>
 
@@ -171,7 +164,6 @@ My kids love to draw, especially my daughter, and drawing boards are a great roa
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-67f59ff ugb-main-block"><style>.ugb-67f59ff .ugb-block-content{justify-content:center !important}.ugb-67f59ff .ugb-button1:hover{border-color:#fcb900 !important;background-color:#fcb900 !important;opacity:1}.ugb-67f59ff .ugb-button1:hover .ugb-button--inner{color:#222222 !important}.ugb-67f59ff .ugb-button1.ugb-button--has-icon.ugb-button--has-icon:hover svg:not(.ugb-custom-icon){color:#222222 !important}.ugb-67f59ff .ugb-button1:before{content:"";background-image:linear-gradient(90deg,#fcb900,#fcb900)}.ugb-67f59ff .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="https://amzn.to/2tv0Lte"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="amazon" class="svg-inline--fa fa-amazon fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M257.2 162.7c-48.7 1.8-169.5 15.5-169.5 117.5 0 109.5 138.3 114 183.5 43.2 6.5 10.2 35.4 37.5 45.3 46.8l56.8-56S341 288.9 341 261.4V114.3C341 89 316.5 32 228.7 32 140.7 32 94 87 94 136.3l73.5 6.8c16.3-49.5 54.2-49.5 54.2-49.5 40.7-.1 35.5 29.8 35.5 69.1zm0 86.8c0 80-84.2 68-84.2 17.2 0-47.2 50.5-56.7 84.2-57.8v40.6zm136 163.5c-7.7 10-70 67-174.5 67S34.2 408.5 9.7 379c-6.8-7.7 1-11.3 5.5-8.3C88.5 415.2 203 488.5 387.7 401c7.5-3.7 13.3 2 5.5 12zm39.8 2.2c-6.5 15.8-16 26.8-21.2 31-5.5 4.5-9.5 2.7-6.5-3.8s19.3-46.5 12.7-55c-6.5-8.3-37-4.3-48-3.2-10.8 1-13 2-14-.3-2.3-5.7 21.7-15.5 37.5-17.5 15.7-1.8 41-.8 46 5.7 3.7 5.1 0 27.1-6.5 43.1z"></path></svg></span>See on Amazon</span></a>
 </div>
-
 
 ### Car Games for 2
 
@@ -189,7 +181,6 @@ I don't think I need to explain how to play tic-tac-toe (everybody knows that). 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-d724024 ugb-main-block"><style>.ugb-d724024 .ugb-block-content{justify-content:center !important}.ugb-d724024 .ugb-button1:hover{border-color:#fcb900 !important;background-color:#fcb900 !important;opacity:1}.ugb-d724024 .ugb-button1:hover .ugb-button--inner{color:#222222 !important}.ugb-d724024 .ugb-button1.ugb-button--has-icon.ugb-button--has-icon:hover svg:not(.ugb-custom-icon){color:#222222 !important}.ugb-d724024 .ugb-button1:before{content:"";background-image:linear-gradient(90deg,#fcb900,#fcb900)}.ugb-d724024 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="https://amzn.to/36vVBem"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="amazon" class="svg-inline--fa fa-amazon fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M257.2 162.7c-48.7 1.8-169.5 15.5-169.5 117.5 0 109.5 138.3 114 183.5 43.2 6.5 10.2 35.4 37.5 45.3 46.8l56.8-56S341 288.9 341 261.4V114.3C341 89 316.5 32 228.7 32 140.7 32 94 87 94 136.3l73.5 6.8c16.3-49.5 54.2-49.5 54.2-49.5 40.7-.1 35.5 29.8 35.5 69.1zm0 86.8c0 80-84.2 68-84.2 17.2 0-47.2 50.5-56.7 84.2-57.8v40.6zm136 163.5c-7.7 10-70 67-174.5 67S34.2 408.5 9.7 379c-6.8-7.7 1-11.3 5.5-8.3C88.5 415.2 203 488.5 387.7 401c7.5-3.7 13.3 2 5.5 12zm39.8 2.2c-6.5 15.8-16 26.8-21.2 31-5.5 4.5-9.5 2.7-6.5-3.8s19.3-46.5 12.7-55c-6.5-8.3-37-4.3-48-3.2-10.8 1-13 2-14-.3-2.3-5.7 21.7-15.5 37.5-17.5 15.7-1.8 41-.8 46 5.7 3.7 5.1 0 27.1-6.5 43.1z"></path></svg></span>See on Amazon</span></a>
 </div>
 
-
 <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__stack-mobile uagb-columns__valign- uagb-columns__gap-15 align uagb-block-3ab10660 uagb-columns__columns-1 uagb-columns__max_width-theme"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-1">
 <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-color uagb-block-fbccda7e"><div class="uagb-column__overlay"></div>
 
@@ -203,7 +194,6 @@ Again, most people know the rules of hangman so I won't waste your time. I highl
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-f9ff2f6 ugb-main-block"><style>.ugb-f9ff2f6 .ugb-block-content{justify-content:center !important}.ugb-f9ff2f6 .ugb-button1:hover{border-color:#fcb900 !important;background-color:#fcb900 !important;opacity:1}.ugb-f9ff2f6 .ugb-button1:hover .ugb-button--inner{color:#222222 !important}.ugb-f9ff2f6 .ugb-button1.ugb-button--has-icon.ugb-button--has-icon:hover svg:not(.ugb-custom-icon){color:#222222 !important}.ugb-f9ff2f6 .ugb-button1:before{content:"";background-image:linear-gradient(90deg,#fcb900,#fcb900)}.ugb-f9ff2f6 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="https://amzn.to/2O18w1u"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="amazon" class="svg-inline--fa fa-amazon fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M257.2 162.7c-48.7 1.8-169.5 15.5-169.5 117.5 0 109.5 138.3 114 183.5 43.2 6.5 10.2 35.4 37.5 45.3 46.8l56.8-56S341 288.9 341 261.4V114.3C341 89 316.5 32 228.7 32 140.7 32 94 87 94 136.3l73.5 6.8c16.3-49.5 54.2-49.5 54.2-49.5 40.7-.1 35.5 29.8 35.5 69.1zm0 86.8c0 80-84.2 68-84.2 17.2 0-47.2 50.5-56.7 84.2-57.8v40.6zm136 163.5c-7.7 10-70 67-174.5 67S34.2 408.5 9.7 379c-6.8-7.7 1-11.3 5.5-8.3C88.5 415.2 203 488.5 387.7 401c7.5-3.7 13.3 2 5.5 12zm39.8 2.2c-6.5 15.8-16 26.8-21.2 31-5.5 4.5-9.5 2.7-6.5-3.8s19.3-46.5 12.7-55c-6.5-8.3-37-4.3-48-3.2-10.8 1-13 2-14-.3-2.3-5.7 21.7-15.5 37.5-17.5 15.7-1.8 41-.8 46 5.7 3.7 5.1 0 27.1-6.5 43.1z"></path></svg></span>See on Amazon</span></a>
 </div>
-
 
 <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__stack-mobile uagb-columns__valign- uagb-columns__gap-15 align uagb-block-0288dd75 uagb-columns__columns-1 uagb-columns__max_width-theme"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-1">
 <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-color uagb-block-9d54b6f8"><div class="uagb-column__overlay"></div>
@@ -226,7 +216,6 @@ It is amazing how well this game is able to settle minor disputes, and how long 
 
 </div>
 
-
 <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__stack-mobile uagb-columns__valign- uagb-columns__gap-15 align uagb-block-d9b48490 uagb-columns__columns-1 uagb-columns__max_width-theme"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-1">
 <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-color uagb-block-23a0ad2c"><div class="uagb-column__overlay"></div>
 
@@ -241,7 +230,6 @@ I love, love, LOVE that this is such a quiet game. And it always induces some gi
 - The first person to blink loses
 
 </div>
-
 
 ### Multi-player Car Games (2+)
 
@@ -259,7 +247,6 @@ We love playing [Hed Banz](https://amzn.to/30U2FjS). This game is ingenious and 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-df5e987 ugb-main-block"><style>.ugb-df5e987 .ugb-block-content{justify-content:center !important}.ugb-df5e987 .ugb-button1:hover{border-color:#fcb900 !important;background-color:#fcb900 !important;opacity:1}.ugb-df5e987 .ugb-button1:hover .ugb-button--inner{color:#222222 !important}.ugb-df5e987 .ugb-button1.ugb-button--has-icon.ugb-button--has-icon:hover svg:not(.ugb-custom-icon){color:#222222 !important}.ugb-df5e987 .ugb-button1:before{content:"";background-image:linear-gradient(90deg,#fcb900,#fcb900)}.ugb-df5e987 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="https://amzn.to/30U2FjS"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="amazon" class="svg-inline--fa fa-amazon fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M257.2 162.7c-48.7 1.8-169.5 15.5-169.5 117.5 0 109.5 138.3 114 183.5 43.2 6.5 10.2 35.4 37.5 45.3 46.8l56.8-56S341 288.9 341 261.4V114.3C341 89 316.5 32 228.7 32 140.7 32 94 87 94 136.3l73.5 6.8c16.3-49.5 54.2-49.5 54.2-49.5 40.7-.1 35.5 29.8 35.5 69.1zm0 86.8c0 80-84.2 68-84.2 17.2 0-47.2 50.5-56.7 84.2-57.8v40.6zm136 163.5c-7.7 10-70 67-174.5 67S34.2 408.5 9.7 379c-6.8-7.7 1-11.3 5.5-8.3C88.5 415.2 203 488.5 387.7 401c7.5-3.7 13.3 2 5.5 12zm39.8 2.2c-6.5 15.8-16 26.8-21.2 31-5.5 4.5-9.5 2.7-6.5-3.8s19.3-46.5 12.7-55c-6.5-8.3-37-4.3-48-3.2-10.8 1-13 2-14-.3-2.3-5.7 21.7-15.5 37.5-17.5 15.7-1.8 41-.8 46 5.7 3.7 5.1 0 27.1-6.5 43.1z"></path></svg></span>See on Amazon</span></a>
 </div>
 
-
 <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__stack-mobile uagb-columns__valign- uagb-columns__gap-15 align uagb-block-f7506415 uagb-columns__columns-1 uagb-columns__max_width-theme"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-1">
 <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-color uagb-block-bde7e7ac"><div class="uagb-column__overlay"></div>
 
@@ -274,7 +261,6 @@ Scavenger hunt games for the car are fun to play for kids and adults, as long as
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-f85493a ugb-main-block"><style>.ugb-f85493a .ugb-block-content{justify-content:center !important}.ugb-f85493a .ugb-button1:hover{border-color:#fcb900 !important;background-color:#fcb900 !important;opacity:1}.ugb-f85493a .ugb-button1:hover .ugb-button--inner{color:#222222 !important}.ugb-f85493a .ugb-button1.ugb-button--has-icon.ugb-button--has-icon:hover svg:not(.ugb-custom-icon){color:#222222 !important}.ugb-f85493a .ugb-button1:before{content:"";background-image:linear-gradient(90deg,#fcb900,#fcb900)}.ugb-f85493a .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="https://amzn.to/2tRhNCv"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="amazon" class="svg-inline--fa fa-amazon fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M257.2 162.7c-48.7 1.8-169.5 15.5-169.5 117.5 0 109.5 138.3 114 183.5 43.2 6.5 10.2 35.4 37.5 45.3 46.8l56.8-56S341 288.9 341 261.4V114.3C341 89 316.5 32 228.7 32 140.7 32 94 87 94 136.3l73.5 6.8c16.3-49.5 54.2-49.5 54.2-49.5 40.7-.1 35.5 29.8 35.5 69.1zm0 86.8c0 80-84.2 68-84.2 17.2 0-47.2 50.5-56.7 84.2-57.8v40.6zm136 163.5c-7.7 10-70 67-174.5 67S34.2 408.5 9.7 379c-6.8-7.7 1-11.3 5.5-8.3C88.5 415.2 203 488.5 387.7 401c7.5-3.7 13.3 2 5.5 12zm39.8 2.2c-6.5 15.8-16 26.8-21.2 31-5.5 4.5-9.5 2.7-6.5-3.8s19.3-46.5 12.7-55c-6.5-8.3-37-4.3-48-3.2-10.8 1-13 2-14-.3-2.3-5.7 21.7-15.5 37.5-17.5 15.7-1.8 41-.8 46 5.7 3.7 5.1 0 27.1-6.5 43.1z"></path></svg></span>See on Amazon</span></a>
 </div>
 
-
 <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__stack-mobile uagb-columns__valign- uagb-columns__gap-15 align uagb-block-9f785d31 uagb-columns__columns-1 uagb-columns__max_width-theme"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-1">
 <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-color uagb-block-34053863"><div class="uagb-column__overlay"></div>
 
@@ -288,7 +274,6 @@ There are a variety of magnetic games for the car to choose from, and Play Monst
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-eb8b35d ugb-main-block"><style>.ugb-eb8b35d .ugb-block-content{justify-content:center !important}.ugb-eb8b35d .ugb-button1:hover{border-color:#fcb900 !important;background-color:#fcb900 !important;opacity:1}.ugb-eb8b35d .ugb-button1:hover .ugb-button--inner{color:#222222 !important}.ugb-eb8b35d .ugb-button1.ugb-button--has-icon.ugb-button--has-icon:hover svg:not(.ugb-custom-icon){color:#222222 !important}.ugb-eb8b35d .ugb-button1:before{content:"";background-image:linear-gradient(90deg,#fcb900,#fcb900)}.ugb-eb8b35d .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="https://amzn.to/37rWshu"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="amazon" class="svg-inline--fa fa-amazon fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M257.2 162.7c-48.7 1.8-169.5 15.5-169.5 117.5 0 109.5 138.3 114 183.5 43.2 6.5 10.2 35.4 37.5 45.3 46.8l56.8-56S341 288.9 341 261.4V114.3C341 89 316.5 32 228.7 32 140.7 32 94 87 94 136.3l73.5 6.8c16.3-49.5 54.2-49.5 54.2-49.5 40.7-.1 35.5 29.8 35.5 69.1zm0 86.8c0 80-84.2 68-84.2 17.2 0-47.2 50.5-56.7 84.2-57.8v40.6zm136 163.5c-7.7 10-70 67-174.5 67S34.2 408.5 9.7 379c-6.8-7.7 1-11.3 5.5-8.3C88.5 415.2 203 488.5 387.7 401c7.5-3.7 13.3 2 5.5 12zm39.8 2.2c-6.5 15.8-16 26.8-21.2 31-5.5 4.5-9.5 2.7-6.5-3.8s19.3-46.5 12.7-55c-6.5-8.3-37-4.3-48-3.2-10.8 1-13 2-14-.3-2.3-5.7 21.7-15.5 37.5-17.5 15.7-1.8 41-.8 46 5.7 3.7 5.1 0 27.1-6.5 43.1z"></path></svg></span>See on Amazon</span></a>
 </div>
-
 
 <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__stack-mobile uagb-columns__valign- uagb-columns__gap-15 align uagb-block-dd47aa8a uagb-columns__columns-1 uagb-columns__max_width-theme"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-1">
 <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-color uagb-block-bf65ee09"><div class="uagb-column__overlay"></div>
@@ -307,7 +292,6 @@ Would you rather is a classic game that you can teach to kids as young as 4. We 
 
 </div>
 
-
 <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__stack-mobile uagb-columns__valign- uagb-columns__gap-15 align uagb-block-eb522140 uagb-columns__columns-1 uagb-columns__max_width-theme"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-1">
 <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-color uagb-block-3390d4df"><div class="uagb-column__overlay"></div>
 
@@ -324,7 +308,6 @@ Would you rather is a classic game that you can teach to kids as young as 4. We 
 - Players give their answers and explain why
 
 </div>
-
 
 <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__stack-mobile uagb-columns__valign- uagb-columns__gap-15 align uagb-block-8acf435b uagb-columns__columns-1 uagb-columns__max_width-theme"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-1">
 <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-color uagb-block-4ece5940"><div class="uagb-column__overlay"></div>
@@ -347,7 +330,6 @@ I am not sure the official name for this game, but we call it "Pass the Category
 
 </div>
 
-
 <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__stack-mobile uagb-columns__valign- uagb-columns__gap-15 align uagb-block-6e3b3f3d uagb-columns__columns-1 uagb-columns__max_width-theme"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-1">
 <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-color uagb-block-9c805290"><div class="uagb-column__overlay"></div>
 
@@ -367,7 +349,6 @@ The way we play this game is to pick a category and then we take turns coming up
 
 </div>
 
-
 <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__stack-mobile uagb-columns__valign- uagb-columns__gap-15 align uagb-block-414e7e57 uagb-columns__columns-1 uagb-columns__max_width-theme"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-1">
 <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-color uagb-block-ee948985"><div class="uagb-column__overlay"></div>
 
@@ -379,7 +360,6 @@ The chocolate melt game is fun and satisfying for kids. It is also a quiet game 
 
 </div>
 
-
 <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__stack-mobile uagb-columns__valign- uagb-columns__gap-15 align uagb-block-7ac90057 uagb-columns__columns-1 uagb-columns__max_width-theme"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-1">
 <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-color uagb-block-5533c3da"><div class="uagb-column__overlay"></div>
 
@@ -390,7 +370,6 @@ The chocolate melt game is fun and satisfying for kids. It is also a quiet game 
 OK, if you have a full minivan then this is a fun game to play in the car. The first player whispers a statement in the ear of the person nearest (without repeating), and then that person whispers what they heard to the person nearest them until you go all the way through the car (you may **not **want to include the driver in this). At the end you compare what the first person said to what the last person heard, which is usually very different as long as your whispers are faint enough. Telephone Game is best with bigger groups (more than 3).
 
 </div>
-
 
 ## Road Trip Activities for Older Kids
 
@@ -410,7 +389,6 @@ The Rubik's Cube game is love/hate, unless you are really good at it. Either way
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-198cfc9 ugb-main-block"><style>.ugb-198cfc9 .ugb-block-content{justify-content:center !important}.ugb-198cfc9 .ugb-button1:hover{border-color:#fcb900 !important;background-color:#fcb900 !important;opacity:1}.ugb-198cfc9 .ugb-button1:hover .ugb-button--inner{color:#222222 !important}.ugb-198cfc9 .ugb-button1.ugb-button--has-icon.ugb-button--has-icon:hover svg:not(.ugb-custom-icon){color:#222222 !important}.ugb-198cfc9 .ugb-button1:before{content:"";background-image:linear-gradient(90deg,#fcb900,#fcb900)}.ugb-198cfc9 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="https://amzn.to/2HxWV6A"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="amazon" class="svg-inline--fa fa-amazon fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M257.2 162.7c-48.7 1.8-169.5 15.5-169.5 117.5 0 109.5 138.3 114 183.5 43.2 6.5 10.2 35.4 37.5 45.3 46.8l56.8-56S341 288.9 341 261.4V114.3C341 89 316.5 32 228.7 32 140.7 32 94 87 94 136.3l73.5 6.8c16.3-49.5 54.2-49.5 54.2-49.5 40.7-.1 35.5 29.8 35.5 69.1zm0 86.8c0 80-84.2 68-84.2 17.2 0-47.2 50.5-56.7 84.2-57.8v40.6zm136 163.5c-7.7 10-70 67-174.5 67S34.2 408.5 9.7 379c-6.8-7.7 1-11.3 5.5-8.3C88.5 415.2 203 488.5 387.7 401c7.5-3.7 13.3 2 5.5 12zm39.8 2.2c-6.5 15.8-16 26.8-21.2 31-5.5 4.5-9.5 2.7-6.5-3.8s19.3-46.5 12.7-55c-6.5-8.3-37-4.3-48-3.2-10.8 1-13 2-14-.3-2.3-5.7 21.7-15.5 37.5-17.5 15.7-1.8 41-.8 46 5.7 3.7 5.1 0 27.1-6.5 43.1z"></path></svg></span>See on Amazon</span></a>
 </div>
 
-
 <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__stack-mobile uagb-columns__valign- uagb-columns__gap-15 align uagb-block-d6c04055 uagb-columns__columns-1 uagb-columns__max_width-theme"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-1">
 <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-color uagb-block-9c46cec9"><div class="uagb-column__overlay"></div>
 
@@ -425,7 +403,6 @@ Perhaps the most important thing to bring on a road trip with kids is a phone or
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-fa6b2c2 ugb-main-block"><style>.ugb-fa6b2c2 .ugb-block-content{justify-content:center !important}.ugb-fa6b2c2 .ugb-button1:hover{border-color:#fcb900 !important;background-color:#fcb900 !important;opacity:1}.ugb-fa6b2c2 .ugb-button1:hover .ugb-button--inner{color:#222222 !important}.ugb-fa6b2c2 .ugb-button1.ugb-button--has-icon.ugb-button--has-icon:hover svg:not(.ugb-custom-icon){color:#222222 !important}.ugb-fa6b2c2 .ugb-button1:before{content:"";background-image:linear-gradient(90deg,#fcb900,#fcb900)}.ugb-fa6b2c2 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="https://amzn.to/2OW4yYD"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="amazon" class="svg-inline--fa fa-amazon fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M257.2 162.7c-48.7 1.8-169.5 15.5-169.5 117.5 0 109.5 138.3 114 183.5 43.2 6.5 10.2 35.4 37.5 45.3 46.8l56.8-56S341 288.9 341 261.4V114.3C341 89 316.5 32 228.7 32 140.7 32 94 87 94 136.3l73.5 6.8c16.3-49.5 54.2-49.5 54.2-49.5 40.7-.1 35.5 29.8 35.5 69.1zm0 86.8c0 80-84.2 68-84.2 17.2 0-47.2 50.5-56.7 84.2-57.8v40.6zm136 163.5c-7.7 10-70 67-174.5 67S34.2 408.5 9.7 379c-6.8-7.7 1-11.3 5.5-8.3C88.5 415.2 203 488.5 387.7 401c7.5-3.7 13.3 2 5.5 12zm39.8 2.2c-6.5 15.8-16 26.8-21.2 31-5.5 4.5-9.5 2.7-6.5-3.8s19.3-46.5 12.7-55c-6.5-8.3-37-4.3-48-3.2-10.8 1-13 2-14-.3-2.3-5.7 21.7-15.5 37.5-17.5 15.7-1.8 41-.8 46 5.7 3.7 5.1 0 27.1-6.5 43.1z"></path></svg></span>See on Amazon</span></a>
 </div>
 
-
 <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__stack-mobile uagb-columns__valign- uagb-columns__gap-15 align uagb-block-0f6e5ae4 uagb-columns__columns-1 uagb-columns__max_width-theme"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-1">
 <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-color uagb-block-005892b2"><div class="uagb-column__overlay"></div>
 
@@ -439,7 +416,6 @@ It is a good idea to keep a travel journal in the car, especially for long road 
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-096ef9e ugb-main-block"><style>.ugb-096ef9e .ugb-block-content{justify-content:center !important}.ugb-096ef9e .ugb-button1:hover{border-color:#fcb900 !important;background-color:#fcb900 !important;opacity:1}.ugb-096ef9e .ugb-button1:hover .ugb-button--inner{color:#222222 !important}.ugb-096ef9e .ugb-button1.ugb-button--has-icon.ugb-button--has-icon:hover svg:not(.ugb-custom-icon){color:#222222 !important}.ugb-096ef9e .ugb-button1:before{content:"";background-image:linear-gradient(90deg,#fcb900,#fcb900)}.ugb-096ef9e .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="https://amzn.to/2SzPCBB"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="amazon" class="svg-inline--fa fa-amazon fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M257.2 162.7c-48.7 1.8-169.5 15.5-169.5 117.5 0 109.5 138.3 114 183.5 43.2 6.5 10.2 35.4 37.5 45.3 46.8l56.8-56S341 288.9 341 261.4V114.3C341 89 316.5 32 228.7 32 140.7 32 94 87 94 136.3l73.5 6.8c16.3-49.5 54.2-49.5 54.2-49.5 40.7-.1 35.5 29.8 35.5 69.1zm0 86.8c0 80-84.2 68-84.2 17.2 0-47.2 50.5-56.7 84.2-57.8v40.6zm136 163.5c-7.7 10-70 67-174.5 67S34.2 408.5 9.7 379c-6.8-7.7 1-11.3 5.5-8.3C88.5 415.2 203 488.5 387.7 401c7.5-3.7 13.3 2 5.5 12zm39.8 2.2c-6.5 15.8-16 26.8-21.2 31-5.5 4.5-9.5 2.7-6.5-3.8s19.3-46.5 12.7-55c-6.5-8.3-37-4.3-48-3.2-10.8 1-13 2-14-.3-2.3-5.7 21.7-15.5 37.5-17.5 15.7-1.8 41-.8 46 5.7 3.7 5.1 0 27.1-6.5 43.1z"></path></svg></span>See on Amazon</span></a>
 </div>
-
 
 ### Multi-player Car Games (2+)
 
@@ -457,7 +433,6 @@ I put Mad Libs under the older kids category, even though my 8 year old daughter
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-028ffdd ugb-main-block"><style>.ugb-028ffdd .ugb-block-content{justify-content:center !important}.ugb-028ffdd .ugb-button1:hover{border-color:#fcb900 !important;background-color:#fcb900 !important;opacity:1}.ugb-028ffdd .ugb-button1:hover .ugb-button--inner{color:#222222 !important}.ugb-028ffdd .ugb-button1.ugb-button--has-icon.ugb-button--has-icon:hover svg:not(.ugb-custom-icon){color:#222222 !important}.ugb-028ffdd .ugb-button1:before{content:"";background-image:linear-gradient(90deg,#fcb900,#fcb900)}.ugb-028ffdd .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="https://amzn.to/2uKue3E"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="amazon" class="svg-inline--fa fa-amazon fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M257.2 162.7c-48.7 1.8-169.5 15.5-169.5 117.5 0 109.5 138.3 114 183.5 43.2 6.5 10.2 35.4 37.5 45.3 46.8l56.8-56S341 288.9 341 261.4V114.3C341 89 316.5 32 228.7 32 140.7 32 94 87 94 136.3l73.5 6.8c16.3-49.5 54.2-49.5 54.2-49.5 40.7-.1 35.5 29.8 35.5 69.1zm0 86.8c0 80-84.2 68-84.2 17.2 0-47.2 50.5-56.7 84.2-57.8v40.6zm136 163.5c-7.7 10-70 67-174.5 67S34.2 408.5 9.7 379c-6.8-7.7 1-11.3 5.5-8.3C88.5 415.2 203 488.5 387.7 401c7.5-3.7 13.3 2 5.5 12zm39.8 2.2c-6.5 15.8-16 26.8-21.2 31-5.5 4.5-9.5 2.7-6.5-3.8s19.3-46.5 12.7-55c-6.5-8.3-37-4.3-48-3.2-10.8 1-13 2-14-.3-2.3-5.7 21.7-15.5 37.5-17.5 15.7-1.8 41-.8 46 5.7 3.7 5.1 0 27.1-6.5 43.1z"></path></svg></span>See on Amazon</span></a>
 </div>
 
-
 <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__stack-mobile uagb-columns__valign- uagb-columns__gap-15 align uagb-block-a4d9d4b1 uagb-columns__columns-1 uagb-columns__max_width-theme"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-1">
 <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-color uagb-block-58e32fae"><div class="uagb-column__overlay"></div>
 
@@ -471,7 +446,6 @@ We love this game in the car, or anywhere, really. We already recommended  [Hed 
 
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-e3bc6a0 ugb-main-block"><style>.ugb-e3bc6a0 .ugb-block-content{justify-content:center !important}.ugb-e3bc6a0 .ugb-button1:hover{border-color:#fcb900 !important;background-color:#fcb900 !important;opacity:1}.ugb-e3bc6a0 .ugb-button1:hover .ugb-button--inner{color:#222222 !important}.ugb-e3bc6a0 .ugb-button1.ugb-button--has-icon.ugb-button--has-icon:hover svg:not(.ugb-custom-icon){color:#222222 !important}.ugb-e3bc6a0 .ugb-button1:before{content:"";background-image:linear-gradient(90deg,#fcb900,#fcb900)}.ugb-e3bc6a0 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="https://amzn.to/30U2FjS"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="amazon" class="svg-inline--fa fa-amazon fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M257.2 162.7c-48.7 1.8-169.5 15.5-169.5 117.5 0 109.5 138.3 114 183.5 43.2 6.5 10.2 35.4 37.5 45.3 46.8l56.8-56S341 288.9 341 261.4V114.3C341 89 316.5 32 228.7 32 140.7 32 94 87 94 136.3l73.5 6.8c16.3-49.5 54.2-49.5 54.2-49.5 40.7-.1 35.5 29.8 35.5 69.1zm0 86.8c0 80-84.2 68-84.2 17.2 0-47.2 50.5-56.7 84.2-57.8v40.6zm136 163.5c-7.7 10-70 67-174.5 67S34.2 408.5 9.7 379c-6.8-7.7 1-11.3 5.5-8.3C88.5 415.2 203 488.5 387.7 401c7.5-3.7 13.3 2 5.5 12zm39.8 2.2c-6.5 15.8-16 26.8-21.2 31-5.5 4.5-9.5 2.7-6.5-3.8s19.3-46.5 12.7-55c-6.5-8.3-37-4.3-48-3.2-10.8 1-13 2-14-.3-2.3-5.7 21.7-15.5 37.5-17.5 15.7-1.8 41-.8 46 5.7 3.7 5.1 0 27.1-6.5 43.1z"></path></svg></span>See on Amazon</span></a>
 </div>
-
 
 <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__stack-mobile uagb-columns__valign- uagb-columns__gap-15 align uagb-block-48c7874b uagb-columns__columns-1 uagb-columns__max_width-theme"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-1">
 <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-color uagb-block-994a9418"><div class="uagb-column__overlay"></div>
@@ -491,10 +465,8 @@ We play Apples to Apples all the time at home with our kids, so why not play it 
 [![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B00112CHD4&amp;Format=_SL110_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=hmt016-20&amp;language=en_US)](https://www.amazon.com/Mattel-Games-Apples-Junior-Comparisons/dp/B00112CHD4/ref=as_li_ss_il?keywords=apples+to+apples+game&amp;qid=1581959905&amp;s=office-products&amp;sr=1-2-catcorr&amp;linkCode=li1&amp;tag=hmt016-20&amp;linkId=597fc142b1f4af8d6c53269b1580993e&amp;language=en_US)![](https://ir-na.amazon-adsystem.com/e/ir?t=hmt016-20&amp;language=en_US&amp;l=li1&amp;o=1&amp;a=B00112CHD4)
 </div>
 
-
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-9c25529 ugb-main-block"><style>.ugb-9c25529 .ugb-block-content{justify-content:center !important}.ugb-9c25529 .ugb-button1:hover{border-color:#fcb900 !important;background-color:#fcb900 !important;opacity:1}.ugb-9c25529 .ugb-button1:hover .ugb-button--inner{color:#222222 !important}.ugb-9c25529 .ugb-button1.ugb-button--has-icon.ugb-button--has-icon:hover svg:not(.ugb-custom-icon){color:#222222 !important}.ugb-9c25529 .ugb-button1:before{content:"";background-image:linear-gradient(90deg,#fcb900,#fcb900)}.ugb-9c25529 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="https://amzn.to/322Sl9H"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="amazon" class="svg-inline--fa fa-amazon fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M257.2 162.7c-48.7 1.8-169.5 15.5-169.5 117.5 0 109.5 138.3 114 183.5 43.2 6.5 10.2 35.4 37.5 45.3 46.8l56.8-56S341 288.9 341 261.4V114.3C341 89 316.5 32 228.7 32 140.7 32 94 87 94 136.3l73.5 6.8c16.3-49.5 54.2-49.5 54.2-49.5 40.7-.1 35.5 29.8 35.5 69.1zm0 86.8c0 80-84.2 68-84.2 17.2 0-47.2 50.5-56.7 84.2-57.8v40.6zm136 163.5c-7.7 10-70 67-174.5 67S34.2 408.5 9.7 379c-6.8-7.7 1-11.3 5.5-8.3C88.5 415.2 203 488.5 387.7 401c7.5-3.7 13.3 2 5.5 12zm39.8 2.2c-6.5 15.8-16 26.8-21.2 31-5.5 4.5-9.5 2.7-6.5-3.8s19.3-46.5 12.7-55c-6.5-8.3-37-4.3-48-3.2-10.8 1-13 2-14-.3-2.3-5.7 21.7-15.5 37.5-17.5 15.7-1.8 41-.8 46 5.7 3.7 5.1 0 27.1-6.5 43.1z"></path></svg></span>See on Amazon</span></a>
 </div>
-
 
 <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__stack-mobile uagb-columns__valign- uagb-columns__gap-15 align uagb-block-c940885a uagb-columns__columns-1 uagb-columns__max_width-theme"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-1">
 <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-color uagb-block-df7250bc"><div class="uagb-column__overlay"></div>
@@ -510,7 +482,6 @@ I am sure you have heard of Cards against Humanity, so this is a very similar ga
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-1249333 ugb-main-block"><style>.ugb-1249333 .ugb-block-content{justify-content:center !important}.ugb-1249333 .ugb-button1:hover{border-color:#fcb900 !important;background-color:#fcb900 !important;opacity:1}.ugb-1249333 .ugb-button1:hover .ugb-button--inner{color:#222222 !important}.ugb-1249333 .ugb-button1.ugb-button--has-icon.ugb-button--has-icon:hover svg:not(.ugb-custom-icon){color:#222222 !important}.ugb-1249333 .ugb-button1:before{content:"";background-image:linear-gradient(90deg,#fcb900,#fcb900)}.ugb-1249333 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="https://amzn.to/2u4B8jF"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="amazon" class="svg-inline--fa fa-amazon fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M257.2 162.7c-48.7 1.8-169.5 15.5-169.5 117.5 0 109.5 138.3 114 183.5 43.2 6.5 10.2 35.4 37.5 45.3 46.8l56.8-56S341 288.9 341 261.4V114.3C341 89 316.5 32 228.7 32 140.7 32 94 87 94 136.3l73.5 6.8c16.3-49.5 54.2-49.5 54.2-49.5 40.7-.1 35.5 29.8 35.5 69.1zm0 86.8c0 80-84.2 68-84.2 17.2 0-47.2 50.5-56.7 84.2-57.8v40.6zm136 163.5c-7.7 10-70 67-174.5 67S34.2 408.5 9.7 379c-6.8-7.7 1-11.3 5.5-8.3C88.5 415.2 203 488.5 387.7 401c7.5-3.7 13.3 2 5.5 12zm39.8 2.2c-6.5 15.8-16 26.8-21.2 31-5.5 4.5-9.5 2.7-6.5-3.8s19.3-46.5 12.7-55c-6.5-8.3-37-4.3-48-3.2-10.8 1-13 2-14-.3-2.3-5.7 21.7-15.5 37.5-17.5 15.7-1.8 41-.8 46 5.7 3.7 5.1 0 27.1-6.5 43.1z"></path></svg></span>See on Amazon</span></a>
 </div>
 
-
 <section class="wp-block-uagb-columns uagb-columns__wrap uagb-columns__stack-mobile uagb-columns__valign- uagb-columns__gap-15 align uagb-block-844f3579 uagb-columns__columns-1 uagb-columns__max_width-theme"><div class="uagb-columns__overlay"></div><div class="uagb-columns__inner-wrap uagb-columns__columns-1">
 <div class="wp-block-uagb-column uagb-column__wrap uagb-column__background-color uagb-block-09918f65"><div class="uagb-column__overlay"></div>
 
@@ -525,8 +496,7 @@ Raise your hand if you played Battleship as a kid. I know I did, as did most peo
 <div class="wp-block-ugb-button ugb-button-wrapper ugb-714330c ugb-main-block"><style>.ugb-714330c .ugb-block-content{justify-content:center !important}.ugb-714330c .ugb-button1:hover{border-color:#fcb900 !important;background-color:#fcb900 !important;opacity:1}.ugb-714330c .ugb-button1:hover .ugb-button--inner{color:#222222 !important}.ugb-714330c .ugb-button1.ugb-button--has-icon.ugb-button--has-icon:hover svg:not(.ugb-custom-icon){color:#222222 !important}.ugb-714330c .ugb-button1:before{content:"";background-image:linear-gradient(90deg,#fcb900,#fcb900)}.ugb-714330c .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-button-container"><a class="ugb-button ugb-button1" href="https://amzn.to/2SzZLOH"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg aria-hidden="true" focusable="false" data-prefix="fab" data-icon="amazon" class="svg-inline--fa fa-amazon fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M257.2 162.7c-48.7 1.8-169.5 15.5-169.5 117.5 0 109.5 138.3 114 183.5 43.2 6.5 10.2 35.4 37.5 45.3 46.8l56.8-56S341 288.9 341 261.4V114.3C341 89 316.5 32 228.7 32 140.7 32 94 87 94 136.3l73.5 6.8c16.3-49.5 54.2-49.5 54.2-49.5 40.7-.1 35.5 29.8 35.5 69.1zm0 86.8c0 80-84.2 68-84.2 17.2 0-47.2 50.5-56.7 84.2-57.8v40.6zm136 163.5c-7.7 10-70 67-174.5 67S34.2 408.5 9.7 379c-6.8-7.7 1-11.3 5.5-8.3C88.5 415.2 203 488.5 387.7 401c7.5-3.7 13.3 2 5.5 12zm39.8 2.2c-6.5 15.8-16 26.8-21.2 31-5.5 4.5-9.5 2.7-6.5-3.8s19.3-46.5 12.7-55c-6.5-8.3-37-4.3-48-3.2-10.8 1-13 2-14-.3-2.3-5.7 21.7-15.5 37.5-17.5 15.7-1.8 41-.8 46 5.7 3.7 5.1 0 27.1-6.5 43.1z"></path></svg></span>See on Amazon</span></a>
 </div>
 
-
-## That's a Wrap
+## That's a Wrap!
 
 There you have it, I hope you found my list helpful for preparing for your next road trip with kids. These car games will have your family connecting, laughing, and having fun while the miles of road roll by. Let me know if I missed a great car trip game for kids and what you think of my list!
 

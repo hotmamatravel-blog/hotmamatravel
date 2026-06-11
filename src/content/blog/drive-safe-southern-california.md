@@ -18,7 +18,6 @@ Just traveling through Southern California, whether on the Pacific Coast Highway
 
 ## Enjoy Where You Live and Visit
 
-
 If you are fortunate enough to live in this amazing place that offers so many varieties of food, culture, and lifestyles, or even if you are only spending your vacation here, take the time to enjoy more than the daily commute to work or the typical tourist attractions.  Use your free time to explore the little known local attractions like the [Santa Ana Zoo](http://www.santaanazoo.org/attracta.htm) that offers train rides and where you can feed some of the animals, or take the beautiful drive from Santa Barbara down the coast to San Diego where you will catch glimpses of miles of beaches. You will run out of time before you run out of things to see and do.
 
 Take a beautiful stroll down the streets of Laguna Beach where you can browse art galleries, eat fresh local fish at one of the many seafood restaurants, or pop into a fun pub or tavern for your favorite pint (read our guide for visiting Laguna Beach with kids** [HERE](/laguna-beach-with-kids/)**). Or visit the Santa Monica pier your and enjoy a taco and a glass of wine at the local restaurants right on the beach, before continuing your walk down to Muscle beach in Venice to see the famous seaside weight lifters.  Take a train ride from Fullerton to San Diego and enjoy the wondrous views of the ocean and natural coastal beauty that Southern California has to offer.  Taste the global cuisine on offer at a variety of different restaurants all across Orange County, or visit one of the fun indoor malls in Brea or South Coast Plaza in Costa Mesa which beckons you with almost every store imaginable.
@@ -33,9 +32,6 @@ If you are traveling with kids and have a day to spare, do yourself a favor and 
 
 ## Travel Safely
 
-
 Whether you are traveling through the old town of San Diego or to the theme parks of Los Angeles, good protection like [Anaheim auto insurance](https://agency.nationwide.com/anaheim-ca) is your best key to protecting yourself. Traffic is often serious and relentless.  Moving in and out of lanes safely and confidently without hesitation, especially on the freeways, is your best bet. Basically, make a decision and stick to it. Local drivers don’t get offended by aggressive drivers; they tend to loathe those who don’t make swift decisions and then cause delays or worse, accidents. Protect yourself and your loved ones as you venture out and explore all that this incredibly beautiful and diverse area has to offer.
-
-## That's a Wrap!
 
 Whether you are a local or you picked this great location to visit, set your sites on more than just the ordinary.  Find out what makes Southern California so amazing besides its weather and great people. Be safe and enjoy the food, the views, and the fast-paced lifestyle.

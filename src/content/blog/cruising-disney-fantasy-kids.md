@@ -370,8 +370,6 @@ Characters are all over the ship, so there are plenty of opportunities for photo
 
 [![Kids with Disney Characters on Cruise](/images/Characters-1024x1024.jpg)](/cruising-disney-fantasy-kids/)
 
-## That’s a Wrap!
-
 Oh boy, this was a long post. I know covered a lot, but I wanted to take you on a virtual cruise with us. Booking a Disney Cruise was one of the best travel decisions we’ve made and I would recommend to anyone and everyone. Now you and your family will be fully prepared when you finally make the choice to go cruising on the Disney Fantasy with kids. Last chance to check upcoming itineraries and deals on Cruise Direct [**HERE**](/go/disney-fantasy-cruise/)
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
@@ -381,6 +379,8 @@ Oh boy, this was a long post. I know covered a lot, but I wanted to take you on 
 **If so, tell me about it.**
 
 ** If not, would you want to?**
+## That's a Wrap!
+
 
 **Like it? Pin it!**
 

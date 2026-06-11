@@ -12,7 +12,6 @@ wpSlug: "united-states"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 **There are so many great places to visit in the United States**, where should you [start](/)!?
 
 **[We are from](/about/) **Southern California and therefore provide a ton of resources and advice for visiting Orange County, Los Angeles and San Diego with kids.

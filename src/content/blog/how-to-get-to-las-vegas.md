@@ -12,7 +12,6 @@ wpSlug: "how-to-get-to-las-vegas"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 If you're planning a trip to the neon-lit oasis of Las Vegas with your kids, you're in for a treat. Whether you're flying in or embarking on a family road trip, getting to Vegas is easier than you might think. Here's your go-to guide for how to get to Las Vegas with all the tips and tricks you need to make your journey smooth and enjoyable. Whether you choose to fly or drive, once you arrive, [**getting around without a car**](/getting-around-las-vegas-without-a-car/) is a breeze.
 
 Las Vegas isn't just for adults, it's a fantastic destination for family fun, too! Check out my [**Las Vegas with Kids G**](/las-vegas-with-kids/)[**u**](/las-vegas-with-kids/)[**ide**](/las-vegas-with-kids/) for the best family-friendly attractions, shows, and dining options to make your trip unforgettable.
@@ -21,11 +20,7 @@ Timing is everything when it comes to a successful family vacation. For the most
 
 Now, let's dive into the easiest ways to get to Las Vegas with your family. Whether you're taking to the skies or hitting the open road, we've got you covered!
 
-
-
 ## How To Get To Las Vegas By Plane
-
-
 
 Depending on where you are coming from, the fastest and most convenient way of getting to Las Vegas is by flying. [Harry Reid International Airport](https://www.harryreidairport.com/) (formerly known as McCarran International Airport) is just a stone's throw from the Strip, making it super easy to dive right into the action.
 
@@ -75,11 +70,7 @@ If you plan to explore beyond the Strip, renting a car can be a great idea. Rent
 
 Shuttle pickups for Terminal 1 are located outside the baggage claim on the Ground Transportation Level 1 just outside doors 10 and 11. Shuttle pickup for Terminal 3 is located on Level 0 outside doors 51-54 on west end and doors 55-58 on east end.
 
-
-
 ## How To Get To Las Vegas By Car
-
-
 
 For those who love the freedom of the open road, driving to Las Vegas is an adventure in itself. Here's what you need to know to hit the road.
 
@@ -141,11 +132,7 @@ If you are starting at Interstate 91, then stay on the 91 Freeway East for appro
 
 Make your drive more enjoyable with a stop at **Peggy Sue's 50s Diner** in Yermo, CA. This retro diner offers classic American comfort food, milkshakes, and a fun 1950s ambiance.
 
-
-
 ## Arriving in Las Vegas
-
-
 
 Once you arrive in Las Vegas, whether by plane or car, the excitement truly begins. Here's a quick rundown of what to do next.
 
@@ -167,11 +154,7 @@ To help you plan the ultimate family vacation, join my **[Las Vegas With Kids Fa
 
 Also, check out all our family-friendly [**Las Vegas travel guides**](/family-friendly-vegas/) as well as more fun family [**adventures around Nevada**](/nevada-family-travel/).
 
-## That's a Wrap!
-
 Safe travels and see you in Vegas!
-
-
 
 Like it? Pin it!
 

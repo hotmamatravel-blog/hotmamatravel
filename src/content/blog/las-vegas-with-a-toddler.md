@@ -12,16 +12,11 @@ wpSlug: "las-vegas-with-a-toddler"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Does going to Las Vegas with toddler sound like a nightmare to you? Well, where can you go with a toddler that isn't a nightmare? Just kidding. Just kidding. Traveling mom humor.  Honestly though, Las Vegas with a toddler is a great time!
 
 Despite having a dominate reputation as playground for adults, it is a fantastic destination for families. I should know. I have been a kid in Vegas and now I travel to Vegas on the regular with kids. I’ve written comprehensive guides for traveling to Las Vegas with a family, whether you’re **[pregnant](/pregnant-las-vegas/)**, traveling with **[babies](/advice-las-vegas-with-baby-infant-itinerary/) **and **[young children](/las-vegas-with-kids/)**, or planning a trip with **[teens](/things-to-do-in-las-vegas-with-teens/)** to help make things as easy as possible. But, now I am going to share my Vegas travel tips specific to parents of toddlers. So let's dig in.
 
-
-
 ## Tips for Visiting Las Vegas With A Toddler
-
-
 
 ### Find A Family-Friendly Hotel
 
@@ -117,11 +112,7 @@ It really doesn't take a lot to entertain a toddler with the bright lights and c
 
 For more resources to help you plan your trip, join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! It is a lot of fun!
 
-## That's a Wrap!
-
 Also, check my **[family travel guides for Las Vegas](/family-friendly-vegas/)** as well as my **[Nevada travel guides](/nevada-family-travel/)**.
-
-
 
 Like it? Pin it!
 

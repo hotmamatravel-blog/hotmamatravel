@@ -12,7 +12,6 @@ wpSlug: "is-alcatraz-worth-visiting"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Perched on a lonely island in the middle of San Francisco Bay, Alcatraz isn’t just a crumbling prison; it’s a stage where history, hauntings, and a few wild escape attempts all collide. Families who love a mix of thrills and learning will find that “The Rock” delivers both in spades. One minute you’re walking the same cellblocks as notorious gangsters, the next you’re hearing whispers of ghostly footsteps echoing down the halls.
 
 And if your crew is like mine and loves a good spooky sleepover, San Francisco has no shortage of [**haunted hotels that welcome families**](/haunted-hotels-san-francisco/) where you can keep the eerie vibes going long after your ferry leaves the island.
@@ -21,11 +20,7 @@ In this article, I’ll share why I think Alcatraz is absolutely worth visiting 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_0mtE2GGelo?si=ug_8iSUuQg5oiiw1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-
 ## Brief History
-
-
 
 <figure id="military-fort-alcatraz"><a href="/images/military-fort-alcatraz.jpg"><img src="/images/military-fort-alcatraz.jpg" alt="Cannon at Alcatraz " /></a></figure>
 
@@ -77,11 +72,7 @@ Over the years, Alcatraz has seen efforts to restore its natural vegetation. Tod
 
 **[See Photos, Reviews, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-
-
 ## How to Get to Alcatraz
-
-
 
 <div class="wp-block-uagb-image uagb-block-b5165a95 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="alcatraz-ferry-visiting-alcatraz"><figure><a href="/images/alcatraz-ferry-visiting-alcatraz.jpg"><img src="/images/alcatraz-ferry-visiting-alcatraz.jpg" alt="Alcatraz Ferry to get to Alcatraz" /></a></figure></div>
 
@@ -105,11 +96,7 @@ After you visit Alcatraz, return to the mainland by taking the ferry back to you
 
 **[See Photos, Reviews, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-
-
 ## What You'll See On Your Alcatraz Tour
-
-
 
 <div class="wp-block-uagb-image uagb-block-6a3e819b wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="visiting-alcatraz-the-dock"><figure><a href="/images/visiting-alcatraz-the-dock.jpg"><img src="/images/visiting-alcatraz-the-dock.jpg" alt="The Alcatraz Dock, first site when visiting Alcatraz " /></a></figure></div>
 
@@ -191,11 +178,7 @@ The first gardens were planted on Alcatraz by the military as a means to keep th
 
 **[See Photos, Reviews, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-
-
 ## Alcatraz Escape Attempts, Deaths, and Hauntings
-
-
 
 <div class="wp-block-uagb-image uagb-block-147236c9 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="escape-attempts-alcatraz-island"><figure><a href="/images/escape-attempts-alcatraz-island.jpg"><img src="/images/escape-attempts-alcatraz-island.jpg" alt="Escape attempt 13 Alcatraz 1962" /></a></figure></div>
 
@@ -251,11 +234,7 @@ If you love exploring [**family-friendly paranormal sites**](/best-haunted-place
 
 **[See Photos, Reviews, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-
-
 ## Tips for Families Visiting Alcatraz
-
-
 
 ### [Strollers &amp; Haircap Accessible](/go/alcatraz-island-san-francisco/)
 
@@ -269,11 +248,7 @@ There is no food or drink allowed on Alcatraz Island, except for water bottles. 
 
 **[See Photos, Reviews, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-
-
 ## Alcatraz Books
-
-
 
 If you're fascinated by Alcatraz and its history, there are several excellent books that provide in-depth insights into this infamous island prison. These books offer a range of perspectives on Alcatraz, from historical accounts to personal narratives. They provide a deeper understanding of the island's complex history and its enduring fascination in popular culture. Here are some must-reads:
 
@@ -293,11 +268,7 @@ And if you’re planning to turn your trip into a family getaway, you’ll want 
 
 For even more adventures beyond the Bay, don’t miss my full [**California family travel guide**](/california-family-travel/), packed with road trips, hidden gems, and plenty of kid-friendly fun.
 
-## That's a Wrap!
-
 So, if you're seeking an adventure that combines history, intrigue, and breathtaking views of San Francisco Bay, Alcatraz is an absolute must-visit destination.
-
-
 
 Like it? Pin it!
 

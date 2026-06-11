@@ -18,7 +18,6 @@ However, kids aren’t always the most adventurous when it comes to trying new f
 
 ## **Develop your kids global palate** **before you travel.**
 
-
 HotDaddy LOVES food. He loves to cook and he loves to eat all kinds of crazy creations. His biggest fear was having picky-eaters for children. So, in order to avoid this dilemma we started introducing our kids to bold flavors right from the start.
 
 [![Developing kids](/images/DSCN8446-1024x768.jpg)](/developing-kids-global-palate/)
@@ -27,7 +26,6 @@ We like to encourage them to try everything at least once. That is not say we do
 
 ### **Ease into new flavors by introducing various sauces. **
 
-
 **Most kids like rice or pasta, which make for great bases.**
 
 I remember the first time we took my daughter to a Vietnamese restaurant. She had a meltdown, because she thought we were going out for Chinese food (which she loves). I took her outside until she calmed down and then reminded her that she was once unwilling to try Chinese food too. We laughed about how silly it sounded now, because it’s one of her favorites. Then I told her that Vietnamese might be her favorite too, but how will she know until she tries it. I made a deal that if she at least tried some she could choose our family’s next meal. Needless to say, she agreed, she tried Vietnamese cuisine and ended up loving it!
@@ -35,7 +33,6 @@ I remember the first time we took my daughter to a Vietnamese restaurant. She ha
 [![Developing kids](/images/Vina.png)](/images/Vina.png)
 
 ### **Developing your kids’ palate can easily be done at home and is wonderful prep for travel.**
-
 
 When they are about to try something new, I usually make it sound as exciting as possible by telling them about the culture from which it comes. If we are eating at home, I’ll put on a movie that takes place in the region of whatever we are preparing. For example one night we were having Greek cuisine and I had olive tapenade and feta cheese appetizers. The kids were hesitant, but I explained where it was from and put on Mama Mia. They had a ball singing to the movie and inhaling the appetizers. **It makes it fun, like taking a culinary mental vacation.**
 
@@ -58,7 +55,5 @@ By developing kids' global palate you aren’t just expanding their food options
 What I love the most is that they aren’t just learning about food. Rather, they are learning about the world and its people. How amazing is that? So what far off land are you and your family off tonight? It is what’s for dinner. Bon appetite.
 
 **Are you and your kids picky eaters?**
-
-## That's a Wrap!
 
 **How has travel changed how you eat?**

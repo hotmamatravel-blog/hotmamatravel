@@ -12,7 +12,6 @@ wpSlug: "things-to-do-in-anaheim"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Living in Anaheim, I’ve spent a lot of time exploring every nook and cranny of this popular city. My knowledge goes ***way ***beyond Disney!
 
 If you are visiting Anaheim (or currently planning a visit), chances are that you will be checking out a Disney Park or two while you are here. That’s great! *But I want to let you in on a little secret...*
@@ -28,7 +27,6 @@ If you are visiting Anaheim and looking for a great family-friendly accommodatio
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zw6LMRvNP0E?si=_EmLAoGVxWbcQIPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Here's what's in this article**:
-
 
 ### Unique Anaheim Attractions
 
@@ -117,8 +115,6 @@ If you are visiting Anaheim and looking for a great family-friendly accommodatio
 - [Orange County Great Park](#oc-great-park) (Irvine)
 
 - [Upper Newport Bay Nature Preserve](#newport-bay-preserve) (Newport)
-
-
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
@@ -522,15 +518,11 @@ Upper Newport Bay Nature Preserve, also known as Back Bay, is a 1,000 acres of c
 
 [**See photos, reviews &amp; more**](/go/newport-bay-nature-preserve/)
 
-## That's a Wrap!
-
 Now that you've made it to the end of this list, I hope you understand that there are so many fun things to do with kids in Anaheim besides Disneyland. You can go hiking and enjoy nature, visit an famed OC beach city, spend an afternoon at a museum, or shop to your hearts content. There are just so many fabulous things to do near Anaheim with children. Enjoy your visit to sunny Southern California!
 
 For more help planning your next California family vacation, visit our [**California family travel guides**](/california-family-travel/) and our [**Orange County family travel guides**](/orange-county-family-travel/).
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 Like it? Pin it!
 

@@ -11,7 +11,6 @@ wpSlug: "las-vegas-accommodations-large-family-group"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Here is an amazing fact. There are over 150 thousand hotel rooms in Las Vegas, which is [almost twice as many](https://www.nytimes.com/2007/04/24/business/24vegas.html) as in New York City! And [tourism is not slowing down](https://www.lasvegasnevada.gov/News/Blog/Detail/strong-growth-for-tourism) anytime soon. However, the frustrating thing about Vegas (well, actually about hotels in general) is that **a large majority of these rooms are designed to accommodate only up to four guests**.
 
 You can expect to pay an arm (and most likely a leg) for one of the few family-sized suites available at the main hotels on the Vegas strip – that is, *if they aren’t already booked*.
@@ -22,11 +21,7 @@ My kids have always loved our time staying at [**family-friendly resorts on the 
 
 In fact, I discovered that there are some really nice Las Vegas accommodations large family group options, including condo, timeshare rentals, that are just off the Vegas strip but close enough to the action that it would be just a quick ride to see a [**kid-friendly Vegas show**](/las-vegas-shows-for-kids/) or eat at a **[family restaurant](/best-family-restaurants-in-las-vegas/)** on the Vegas strip.
 
-
-
 ## Las Vegas Accommodations Large Family Group
-
-
 
 There are actually quite a few benefits of staying somewhere off the Vegas strip if you desire a more low-key experience on your [**Vegas family vacation**](/las-vegas-with-kids/).
 
@@ -40,11 +35,7 @@ With that in mind, here are some **great places to stay near the Vegas Strip for
 
 [![](https://www.lduhtrp.net/image-8336032-17179229)](https://www.anrdoezrs.net/click-8336032-17179229)
 
-
-
 ## Family Vacation Rentals in Vegas
-
-
 
 There are several reputable websites, like [**VRBO**](/go/vrbo-las-vegas/), where you can search listings of homes, condos, and timeshares that are for rent in the Las Vegas area. In many cases, these accommodations can be found in beautiful family-friendly resorts with **[extravagant pools](/best-family-pools-in-vegas/)**, arcades, grocery stores, restaurants, and other conveniences for families. Some of these resorts don’t have gambling on site, which is nice for the kiddos, but you will still be just minutes away from all the action in numerous nearby casinos (e.g., if you can score a babysitter for a few hours!).
 
@@ -82,11 +73,7 @@ Though they can be expensive if purchased directly through the resorts themselve
 
 Since timeshare resorts are super family-friendly, most do not have on-site gambling while also offering children’s pools, arcades, grocery stores, and planned activities. You can think of it as a wonderful and safe home-away-from home. We do not personally own a timeshare, but we visit Vegas so often with kids that I can really see the appeal.
 
-
-
 ## Las Vegas Family Suites
-
-
 
 For families seeking accommodations in a Las Vegas Strip hotel complete with a family suite, look no further. Your ideal solution lies in exploring my comprehensive post dedicated to family suites in Las Vegas. Whether you're in search of spacious layouts, kid-friendly amenities, or convenient access to the vibrant attractions of the Strip, my post provides valuable insights tailored to your needs. Discover the perfect blend of comfort and convenience as you delve into the array of options available, ensuring a memorable stay for the whole family.
 
@@ -94,11 +81,7 @@ Las Vegas has so many options for families of all sizes, but I found that it is 
 
 For more help planning your next Vegas vacation, check out our [**Las Vegas Family Travel Guides**](/family-friendly-vegas/) as well as our [**Nevada Family Travel Guides**](/nevada-family-travel/).
 
-## That's a Wrap!
-
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families. It is a lot of fun.
-
-
 
 Like it? Pin it!
 

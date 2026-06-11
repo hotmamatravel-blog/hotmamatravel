@@ -12,7 +12,6 @@ wpSlug: "haunted-hotels-in-las-vegas"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Las Vegas is known for its bright lights, [**world-class entertainment**](/las-vegas-shows-for-kids/), and [**thrilling attractions**](/affordable-family-activities-las-vegas/), but did you know it’s also home to some [**family hotels**](/best-family-hotels-in-las-vegas/) that are rumored to be haunted? Whether you're [**visiting Las Vegas during Halloween**](/halloween-for-kids-in-las-vegas/) or your family is just into ghost stories and curious about some eerie history, here’s a look at a few haunted hotels in Las Vegas that might just give you goosebumps.
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="horseshoe-haunted-las-vegas-hotel"><figure><a href="/images/horseshoe-las-vegas-haunted-hotel.jpg"><img src="/images/horseshoe-las-vegas-haunted-hotel.jpg" alt="Haunted Horseshoe Hotels Las Vegas" /></a></figure></div>
@@ -106,8 +105,6 @@ Just steps away from Hotel Apache is the** [Fremont Street Experience](/go/fremo
 **The [Mob Museum](/go/las-vegas-mob-museum/)** is a short walk from the hotel. This interactive museum explores the history of organized crime in America. While some exhibits are more geared toward adults, there are plenty of hands-on activities and cool displays that will capture kids’ attention. Plus, it has a haunted history of its own!
 
 **[See Photos, Reviews, &amp; More](/go/hotel-apache-las-vegas/)**
-
-## That's a Wrap!
 
 While these haunted hotels have their fair share of spooky stories, they also offer plenty of family-friendly attractions that are perfect for those who want a mix of eerie excitement and fun. Whether your family is into ghost hunting or just looking for a unique hotel experience in Las Vegas, these haunted spots add a little extra thrill to your stay!
 

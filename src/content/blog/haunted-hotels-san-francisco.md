@@ -12,7 +12,6 @@ wpSlug: "haunted-hotels-san-francisco"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 San Francisco, a city steeped in history and mystery, offers an intriguing blend of the past and present. For families planning a trip, finding the right [**family-friendly hotel in San Francisco**](/best-family-hotels-san-francisco-with-great-amenities-and-locations/) can set the stage for your adventures.
 
 However, if you're seeking an unforgettable stay with a touch of the supernatural, the haunted hotels of San Francisco beckon with tales of ghostly apparitions, mysterious occurrences, and a sense of the unknown. From elegant historic establishments to charming boutique inns, these hotels provide a truly unique experience for curious and adventurous guests.
@@ -147,8 +146,6 @@ The Westin St. Francis brings a touch of old-school glamour right to Union Squar
 
 **[See Photos, Reviews, &amp; More](/go/westin-st-francis-san-francisco/)**
 
-## That's a Wrap!
-
 In a city that thrives on its diverse and captivating history, staying in one of San Francisco's haunted hotels is an opportunity to immerse yourself in a world of intrigue and fascination. Whether you encounter a spectral presence or simply appreciate the ambiance of these historic establishments, these hotels offer a window into a bygone era.
 
 Plus, there are plenty of other great [**family hotels**](/best-family-hotels-san-francisco-with-great-amenities-and-locations/) and [**glamping sites around the Bay Area**](/glamping-bay-area-near-san-francisco/) that I encourage you to explore on my blog.
@@ -164,8 +161,6 @@ So, whether you come for the ghostly tales or the unique charm, these haunted ho
 For haunted family adventures, check out all our **[favorite haunts](/best-haunted-places-to-visit-for-families/) **from more family-friendly haunted hotels, sites, tours, and more.
 
 And to expand your vacation, check out more [**California family travel ideas**](/california-family-travel/) from San Diego to Sac-Town, the Bay Area, and back down. Yes, that was a play on Tupac, California Love.
-
-
 
 Like it? Pin it!
 

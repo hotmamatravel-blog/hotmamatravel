@@ -148,6 +148,8 @@ If you are traveling with kids, I recommend getting the Adventure Backpack for a
 Monday through Sunday from 9:00am to 5:00pm. The plantation is closed on major holidays such as Easter, Thanksgiving and Christmas.
 
 ## *That’s A Wrap!*
+## That's a Wrap!
+
 
 All in all, visiting Belle Meade Plantation is one the unique things to do in Nashville. The gorgeous gardens gave us a well needed break from the city, and thoroughly refreshed our senses. Belle Meade Plantation may not have been on our radar before coming to Nashville, but it ended up being a highlight of our trip. So if your plan on visiting Nashville with kids, be sure to make a stop at Belle Meade Plantation.
 

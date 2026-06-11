@@ -126,6 +126,8 @@ For a little music history, you might want to head to the Edge neighborhood. It 
 Just outside of downtown Memphis is the private residence of Rock n’ Roll legend Elvis Presley. Visiting [Graceland](https://www.graceland.com/) is probably one of the top things to do in Memphis and the more expensive. Again, we were in town for such a short time that we didn’t get a chance to visit, but sister visited with her family and loved it! There are several different tours available, so you would have to research which one fits your family, your time constraints and your budget.
 
 ## *That’s a Wrap!*
+## That's a Wrap!
+
 
 Phew! That was a long one, but there are so many things to do in Memphis TN that I wanted to do it justice. All in all it was such a lively and spirited town, full of history and fun that we can’t wait to go back ourselves and spend more time. One day in Memphis was definitely not enough time, but we had a blast eating Memphis BBQ, hanging out on Beale Street with the kids and staying at The Peabody Hotel. There are few things we wanted to see that we didn’t get to, but it just gives us more reasons to come back!
 

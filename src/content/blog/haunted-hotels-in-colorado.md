@@ -12,7 +12,6 @@ wpSlug: "haunted-hotels-in-colorado"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Colorado may be known for its epic mountain views and charming historic towns, but look a little closer and you’ll find something even more intriguing lurking in the halls, haunted hotels with stories that refuse to fade away. These family-friendly stays aren’t just about comfy beds and killer views; they come with a side of ghostly legends, spine-tingling history, and a whole lot of fun for curious kids and brave parents alike.
 
 From the world-famous *Stanley Hotel* in Estes Park to the elegant *Hotel Jerome* in Aspen, each of these legendary lodgings invites your family to check in for an unforgettable night of chills, charm, and maybe even a friendly phantom encounter.
@@ -123,15 +122,10 @@ Or, if you’d rather sleep under the stars than with the spirits, cozy up at on
 
 Because in Colorado, adventure never rests… and apparently, neither do the ghosts.
 
-
-
 Like it? Pin it!
 
 <figure id="haunte-hotels-colorado" data-essb-pin-description="Ready for a spooktacular stay in the Rockies? Discover the most haunted hotels in Colorado for families — where ghost stories meet cozy stays! From the legendary Stanley Hotel to elegant haunted hideaways, these family-friendly destinations mix chills, charm, and mountain views.
 #HauntedHotels #FamilyTravel #ColoradoTravel #HauntedColorado #GhostStories #SpookyGetaway #HotMamaTravel"><a href="/images/haunted-hotels-colorado.jpg"><img src="/images/haunted-hotels-colorado-200x300.jpg" alt="Most Haunted Hotels Colorado for Families" /></a></figure>
-
-
-
 
 Like it? Pin it!
 

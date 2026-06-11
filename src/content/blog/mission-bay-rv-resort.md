@@ -58,8 +58,6 @@ Above all the most entertaining is our time by the campfire talking and laughing
 
 [![Mission Bay RV Resort](/images/DSCN1800-1024x768.jpg)](/mission-bay-rv-resort/)
 
-## That’s A Wrap!
-
 Mission Bay RV Resort is one of our favorite places to camp. We love San Diego and all the local attractions. Camping at Mission Bay gives us the opportunity to explore different areas every time we stay. Mission Bay is a beautiful location with spectacular views and great rates. It is safe to say, we will be back again and again. Can’t wait for our next visit!
 
 [![Mission Bay RV Resort](/images/DSCN1451-1024x768.jpg)](/mission-bay-rv-resort/)

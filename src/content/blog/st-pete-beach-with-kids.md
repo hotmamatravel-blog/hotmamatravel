@@ -12,7 +12,6 @@ wpSlug: "st-pete-beach-with-kids"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Welcome to St Pete Beach where the sand is as white as snow and soft as powder. Where the clear waters of the gulf are as radiantly turquoise as they are invitingly warm. And where the sunsets are just too breathtaking to be real.
 
 Known as the sunset capital of Florida, [St Pete Beach](/go/st-pete-beach-florida/) has been rated #1 top beach destination by TripAdvisor.com as well as earned a rating of #5 by Travel’s Choice Awards. Parent Magazine even rated St. Pete Beach as #3 of America's Top 10 Best Beach Towns for Families in 2013.
@@ -26,7 +25,6 @@ There are so many cool things to do in St. Pete Beach for kids. Each time we vis
 **In this article, we put together all of our best tips about what to do in St. Pete Beach with kids to help you have the best Florida family vacation possible. **
 
 **Here's what's in this article**:
-
 
 ### Unique area attractions
 
@@ -44,16 +42,12 @@ There are so many cool things to do in St. Pete Beach for kids. Each time we vis
 
 - [Treasure Island](#treasure-island)
 
-
-
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 ## St Pete Beach With Kids Activities
 
-
 The entertainment is endless for a family vacation in St. Petersburg Beach. Here are some fun things to do in St Pete Beach with kids!
 </div>
-
 
 <figure id="kids-activities-tradewinds-st-pete-for-kids"><a href="/images/kids-activities-tradewinds-st-pete-for-kids-1.jpg"><img src="/images/kids-activities-tradewinds-st-pete-for-kids-1.jpg" alt="family activities at Tradewinds Island Grand in St Pete Beach" /></a></figure>
 
@@ -75,9 +69,6 @@ As if all that wasn't enough, there is also a kids club with daily crafts and pi
 
 [See photos, reviews &amp; more](/go/tradewinds-st-pete-expedia/)
 
-
-
-
 <figure id="pirate-ship-royal-conquest-st-pete-for-kids"><a href="/images/pirate-ship-royal-conquest-st-pete-for-kids.jpg"><img src="/images/pirate-ship-royal-conquest-st-pete-for-kids.jpg" alt="family friendly pirate ship adventure st pete beach" /></a></figure>
 
 #### [Pirate Ship Royal Conquest](/go/pirate-ship-st-pete-beach-florida/)
@@ -90,9 +81,6 @@ John's Pass has shops, dining and adventures. We chose to board the Pirate ship 
 
 [See photos, reviews &amp; more](/go/pirate-ship-st-pete-beach-florida/)
 
-
-
-
 <figure id="dolphin-snorkel-tour-st-pete-beach-kids"><a href="/images/dolphin-snorkel-tour-st-pete-beach-kids.jpg"><img src="/images/dolphin-snorkel-tour-st-pete-beach-kids.jpg" alt="snorkeling with kids in St Pete Beach" /></a></figure>
 
 #### [Dolphin Cruise &amp; Snorkel Tour](/go/dolphin-cruise-snorkling-st-pete-beach/)
@@ -102,9 +90,6 @@ John's Pass has shops, dining and adventures. We chose to board the Pirate ship 
 Give your family the opportunity to see dolphins and manatees playing their nature habitat with these fun cruise tour. Great for families, this is a 2-hour tour that takes you to Boca Ciega Bay to view dolphins, before heading to Shell Key Island for some swimming, snorkeling and beach time. Here, you can spot manatees and rays during the warmer seasons. Snorkel gear and bottled water are provided.
 
 [See photos, reviews &amp; more](/go/dolphin-cruise-snorkling-st-pete-beach/)
-
-
-
 
 <figure id="rumfish-beach-resort-tradewinds-family-resorts-st-pete-beach"><a href="/images/rumfish-beach-resort-tradewinds-family-resorts-st-pete-beach.jpg"><img src="/images/rumfish-beach-resort-tradewinds-family-resorts-st-pete-beach.jpg" alt="kid-friendly activities at RumFish Resort in St Pete Beach" /></a></figure>
 
@@ -122,9 +107,6 @@ By the evening gather outside for firepits and complimentary smores. Nothing lik
 
 [See photos, reviews &amp; more](/go/rumfish-beach-resort-tradewinds-st-pete-beach/)
 
-
-
-
 <figure id="historic-jungle-prada-st-pete-beach-kids"><a href="/images/historic-jungle-prada-st-pete-beach-kids.jpg"><img src="/images/historic-jungle-prada-st-pete-beach-kids.jpg" alt="Family-friendly Jungle Prada Site in St. Pete Beach Florida" /></a></figure>
 
 #### [St. Petersburg Jungle Prada Site History Tour](/go/historic-prada-jungle-tour-st-pete-beach/)
@@ -134,9 +116,6 @@ By the evening gather outside for firepits and complimentary smores. Nothing lik
 Travel back in time, 900 years to visit the St. Petersburg Jungle Prada Site. As a history buff, this is probably one of the coolest things to do in St. Petersburg with kids. This 75-minute guided tour takes you through the best-preserved Native American sites in Tampa Bay. Explore the property as well as learn about the Spanish Conquistadors that landed here in 1528.
 
 [See photos, reviews &amp; more](/go/historic-prada-jungle-tour-st-pete-beach/)
-
-
-
 
 <figure id="Johns-pass-things-to-do-st-pete-beach-with-kids"><a href="/images/Johns-pass-things-to-do-st-pete-beach-with-kids.jpg"><img src="/images/Johns-pass-things-to-do-st-pete-beach-with-kids.jpg" alt="Family-friendly John" /></a></figure>
 
@@ -154,9 +133,6 @@ John's Pass has plenty of entertainment options for families, including live mus
 
 [See photos, reviews &amp; more](/go/johns-pass-madeira-st-pete-beach/)
 
-
-
-
 <figure id="treasure-island-best-beaches-st-petersburgh-fl"><a href="/images/treasure-island-best-beaches-st-petersburgh-fl.jpg"><img src="/images/treasure-island-best-beaches-st-petersburgh-fl.jpg" alt="Treasure Island family activities " /></a></figure>
 
 #### [Treasure Island](/go/treasure-island-st-pete-beach/)
@@ -166,8 +142,6 @@ John's Pass has plenty of entertainment options for families, including live mus
 Treasure Island is a beautiful stretch of white sandy beaches, perfect for a Florida family vacation. Besides fun activities, like swimming, sunbathing, building sand castles, water sports, and kayaking to mangroves, Treasure Island is lined with fun family beach resorts, restaurants and shops. It is a little slice of paradise and a great why to spend the day in St. Pete Beach with kids.
 
 [See photos, reviews &amp; more](/go/treasure-island-st-pete-beach/)
-
-
 
 ## That's a Wrap!
 
@@ -185,9 +159,6 @@ If you're more of a visual person, **check out our videos** highlighting our fam
 
 <div class="wp-block-column">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kT7U3BLGQg0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-
-
 
 **Like it? Pin it!**
 

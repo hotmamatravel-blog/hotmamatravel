@@ -12,7 +12,6 @@ wpSlug: "things-to-do-in-savannah-ga-with-kids"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Savannah. Oh, Savannah! The name alone drips with southern charm. I mean you can’t even say Savannah without a romantic sigh. It is a place my mother has romanticized in her mind ever since I was a kid. Needless to say, I was super excited to be able to finally take her there during our 60 day&nbsp;**[summer road trip across the country](/family-road-trip-across-us/)**.
 
 Chalk full of history, Savannah is the oldest city in Georgia and is also said to be the most haunted. It is also full of beauty with its moody Spanish moss, enchanting southern architecture and abundant picturesque squares.
@@ -28,7 +27,6 @@ https://youtu.be/0QMX0XoXg2M
 </div><figcaption class="wp-element-caption">See for yourself all the fun things to do with kids in Savannah</figcaption></figure>
 
 **Here's what's in this article**:
-
 
 ### Unique Savannah attractions
 
@@ -90,12 +88,9 @@ https://youtu.be/0QMX0XoXg2M
 
 - [Skidaway Island State Park Trails](#skidaway-island-state-park)
 
-
-
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 ## Kid-friendly Savannah attractions
-
 
 <figure><img src="/images/paris-market-savannah-georgia.jpg" alt="Paris Market Savannah " /><figcaption class="wp-element-caption">Photo courtesy of <a href="https://visitsavannah.com">Visit Savannah</a></figcaption></figure>
 
@@ -107,10 +102,6 @@ Located in a restored Victorian, this unique shop is reminiscent of a Parisan fl
 
 [See photos, reviews &amp; more](/go/paris-market-savannah-georgia/)
 
-
-
-
-
 #### **[Alex Raskin Antiques](/go/alex-raskin-antiques-savannah-georgia/)**
 
 *Located at 441 Bull St in Savannah Georgia*
@@ -118,9 +109,6 @@ Located in a restored Victorian, this unique shop is reminiscent of a Parisan fl
 Alex Raskin Antiques is known as Savannah’s most interesting shop because of its eclectic mix of items on display inside one of Savannah’s few unrestored mansions. The decaying old 19th century Noble Hardee Mansion with its crumbling plaster and peeling paint adds to the allure of the unique pieces that fill its walls. Considered a museum in its own right, how often do you get to go antiquing within an antique home?
 
 [See photos, reviews &amp; more](/go/alex-raskin-antiques-savannah-georgia/)
-
-
-
 
 <figure><img src="/images/pin-point-heritage-museum-savannah-georgia.jpg" alt="Family friendly Savannah Pin Point Heritage Museum" /><figcaption class="wp-element-caption"> *Photo courtesy of *Pin Point Heritage Museum</figcaption></figure>
 
@@ -132,9 +120,6 @@ Located in the old A.S. Varn &amp; Son Oyster and Crab Factory, the Pin Point He
 
 [See photos, reviews &amp; more](/go/pin-point-heritage-museum-savannah-georgia/)
 
-
-
-
 <figure><img src="/images/river-street-savannah-georgia.jpg" alt="family friendly Savannah river street " /><figcaption class="wp-element-caption"> *Photo courtesy of *<a href="https://visitsavannah.com/">Visit Savannah</a> </figcaption></figure>
 
 #### [River Street](/go/river-street-savannah-georgia/)
@@ -145,9 +130,6 @@ This nine block stretch along the river is lined with century old red brick arch
 
 [See photos, reviews &amp; more](/go/river-street-savannah-georgia/)
 
-
-
-
 <figure><img src="/images/tybee-island-savannah-georgia.jpg" alt="Savannah with kids Tybee island" /><figcaption class="wp-element-caption"> *Photo courtesy of *<a href="https://visitsavannah.com/">Visit Savannah</a> </figcaption></figure>
 
 #### [Tybee Island](/go/tybee-island-savannah-georgia/)
@@ -155,9 +137,6 @@ This nine block stretch along the river is lined with century old red brick arch
 Tybee Island is about 20 minutes outside downtown Savannah is a local beach favorite. This charming beach community is home to a number of darling cottages, yummy restaurants and cute shops. It is where the locals come to kick off their shoes and put their toes in the sand. If you want to do some exploring check out the Tybee Island Light Station Museum and Tybee Island Marine Science Center. You can’t visit Tybee Island without a least one meal at the Crab Shack for some famous low country boil.
 
 [See photos, reviews &amp; more](/go/tybee-island-savannah-georgia/)
-
-
-
 
 <figure><img src="/images/lady-sons-restaurant-savannah-georgia.jpg" alt="family friendly restaurants savannah lady and sons" /><figcaption class="wp-element-caption">Photo Courtesy of Lady &amp; Sons</figcaption></figure>
 
@@ -169,20 +148,13 @@ Savannah and Paula Deen go together like fried chicken and mac n cheese. Lady an
 
 [See photos, reviews &amp; more](/go/lady-sons-savannah-georgia/)
 
-
-
-
-
 #### [Ghost Tours](/go/ghost-tours-savannah-georgia/)
 
 Savannah has earned the title as America’s Most Haunted City and it would be ashame to visit Savannah without exploring the more “spirited” side of the city. There are a number of thrilling ghost tours to enjoy while in town as well as several haunted hotels you can stay with your family! To explore haunted places in Savannah as well as across America in some of [best towns to visit during Halloween](/best-towns-for-halloween/). Also, consider staying in a [haunted hotel in Savannah](/haunted-hotels-savannah/) to really add some thrills.
 
 [See photos, reviews &amp; more](/go/ghost-tours-savannah-georgia/)
 
-
-
 ## Live music spots in Savannah
-
 
 <figure><img src="/images/city-market-savannah-georgia.jpg" alt="savannah with kids city market savannah" /><figcaption class="wp-element-caption"> *Photo courtesy of *<a href="https://visitsavannah.com/">Visit Savannah</a> </figcaption></figure>
 
@@ -194,9 +166,6 @@ The heart of Savannah’s Historic District, the City Market as been the main pl
 
 [See photos, reviews &amp; more](/go/city-market-savannah-georgia/)
 
-
-
-
 <figure><img src="/images/good-times-jazz-bar-restaurant-savannah-georgia.jpg" alt="family friendly Savannah restaurant Good Times Jazz Bar and Restaurant" /><figcaption class="wp-element-caption">Photo courtesy of Good Times Jazz Bar &amp; Restaurant</figcaption></figure>
 
 #### **[Good Times Jazz Bar &amp; Restaurant](/go/good-times-jazz-bar-restaurant-savannah-georgia/)**
@@ -206,9 +175,6 @@ The heart of Savannah’s Historic District, the City Market as been the main pl
 This awesome venue brings together great southern food and jazz!They have full menu in their upstairs dining room, but downstairs is the live music venue with a bar menu that is slightly smaller than the main dining room area. Music starts at 7pm Tuesday through Thursday and 8pm Friday and Saturday. They also have a Gospel Brunch every Sunday that feature some really great gospel artists.
 
 [See photos, reviews &amp; more](/go/good-times-jazz-bar-restaurant-savannah-georgia/)
-
-
-
 
 <figure><img src="/images/rancho-alegre-cuban-restaurant-savannah-georgia.jpg" alt="family friendly Savannah restaurants Rancho Alegre Cuban Restaurant" /><figcaption class="wp-element-caption">Photo courtesy of Ranch Alegre Cuban Restaurant</figcaption></figure>
 
@@ -220,9 +186,6 @@ Live Jazz with a Latin vibe is what Rancho Alegre Cuban Kitchen is cooking up. W
 
 [See photos, reviews &amp; more](/go/rancho-alegre-cuban-restaurant-savannah-georgia/)
 
-
-
-
 <figure><img src="/images/molly-mcguires-pub-savannah-georgia.jpg" alt="family friendly Savannah restaurant Molly McGuires " /><figcaption class="wp-element-caption">Photo courtesy of Molly McGuires</figcaption></figure>
 
 #### **[Molly McGuires](/go/molly-mcguires-wilmington-island-georgia/)**
@@ -233,10 +196,7 @@ This is a relaxed openaire restaurant serving up fresh local seafood. They encou
 
 [See photos, reviews &amp; more](/go/molly-mcguires-wilmington-island-georgia/)
 
-
-
 ## Historical sites things to do in Savannah
-
 
 <figure><img src="/images/olde-pink-house-restaurant-savannah-georgia.jpg" alt="Olde Pink House Restaurant Savannah with kids" /><figcaption class="wp-element-caption"> *Photo courtesy of *<a href="https://visitsavannah.com/">Visit Savannah</a> </figcaption></figure>
 
@@ -248,9 +208,6 @@ Built in 1771, The Olde Pink House was the mansion of James Habersham Jr, a weal
 
 [See photos, reviews &amp; more](/go/olde-pink-house-restaurant-savannah-georgia/)
 
-
-
-
 <figure><img src="/images/pirate-house-savannah-georgia.jpg" alt="family friendly Savannah Old Pirate" /></figure>
 
 #### [Pirate House](/things-to-do-in-savannah-ga-with-kids/)
@@ -260,9 +217,6 @@ Built in 1771, The Olde Pink House was the mansion of James Habersham Jr, a weal
 The Pirate House is the oldest standing building in the state of Georgia, with parts built as early as 1734 as living quarters to the grounds keeper. Then in 1754 a tavern and inn were built to accommodate seamen visiting from overseas. The history alone makes this a fascinating place to visit, but throw in awesome southern cuisine and you’ll never want to leave. Today, the Pirate House is a fun restaurant, serving up yummy food and delicious stories of pirates and wild sailors. The restaurant offer complimentary pirate tours through the restaurant explaining the many tales of this old building and it’s many ghosts.
 
 [See photos, reviews &amp; more](/things-to-do-in-savannah-ga-with-kids/)
-
-
-
 
 <figure><img src="/images/old-savannah-tours-savannah-georgia.jpg" alt="Old Savannah Tours Things to do in Savannah with kids" /><figcaption class="wp-element-caption">Photo courtesy of Old Savannah Tours</figcaption></figure>
 
@@ -274,9 +228,6 @@ With so much history in Savannah, it is a great idea to take an Old Savannah Tou
 
 [See photos, reviews &amp; more](/go/old-savannah-tours-savannah-georgia/)
 
-
-
-
 <figure><img src="/images/bonaventure-cemetery-savannah-georgia.jpg" alt="Bonaventure Cemetery visiting Savannah with kids" /><figcaption class="wp-element-caption"> *Photo courtesy of *<a href="https://visitsavannah.com/">Visit Savannah</a> </figcaption></figure>
 
 #### **[Historical Cemeteries](/go/bonaventure-cemetery-savannah-georgia/)**
@@ -284,9 +235,6 @@ With so much history in Savannah, it is a great idea to take an Old Savannah Tou
  Savannah is an old city with long interesting history and that means some very old cemeteries to visit. [Bonaventure Cemetery](/go/bonaventure-cemetery-savannah-georgia/) was once the site of a former plantation and is the city’s largest municipal cemetery that was made famous from the novel and movie *Midnight in the Garden of Good and Evil. *The Bird Girl sculpture within the cemetery that was used as the cover of the book became so popular that it had to be relocated to the Telfair Museums. [Colonial Park Cemetery](/go/colonial-park-cemetery-savannah-georgia/) was founded 1750 there are over 10,000 graves including some of Savannah’s earliest citizens. It all graves predate the Civil War and serve as the final resting place of many notable Savannhians, like Revolutionary War soldiers, politicians, Declaration of Independence signers and sadly over 700 victims of the Yellow Fever epidemic of 1820.
 
 [See photos, reviews &amp; more](/go/bonaventure-cemetery-savannah-georgia/)
-
-
-
 
 <figure><img src="/images/old-fort-jackson-savannah-georgia.jpg" alt="Old Fort Jackson Savannah " /><figcaption class="wp-element-caption"> *Photo courtesy of *<a href="https://visitsavannah.com/">Visit Savannah</a> </figcaption></figure>
 
@@ -296,9 +244,6 @@ The old city of Savannah faced many battles and there are still a couple of prot
 
 [See photos, reviews &amp; more](/go/old-fort-jackson-savannah-georgia/)
 
-
-
-
 <figure><img src="/images/Cathedral-St-John-Baptist-Savannah-Georgia.jpg" alt="Cathedral of St. John the Baptist kid friendly Savannah" /></figure>
 
 #### [Historical Churches](/go/cathedral-st-john-baptist-savannah-georgia/)
@@ -306,9 +251,6 @@ The old city of Savannah faced many battles and there are still a couple of prot
 If you love history, then you will enjoy visiting some of the city’s most unique and historical churches. The [Cathedral of St. John the Baptist](/go/cathedral-st-john-baptist-savannah-georgia/) is a Roman Catholic church established in 1876 has a breathtaking French Gothic architecture that will stop you on the street. The amazing and massive double bell tower chime every hour filling the streets of Savannah. Savannah’s [Temple of Mickve Israel](/go/mickve-israel-temple-savannah-georgia/)has the third oldest Jewish congregation in U.S dating back to 1733 and the First African Baptist church is one of the oldest African American congregations in the country! Finally, the [Independent Presbyterian Church](/go/independent-presbyterian-church-savannah-georgia/), which was founded in 1755 is known as the mother church of Georgia’s Persbyterians and has a very impressive spires.&nbsp;
 
 [See photos, reviews &amp; more](/go/cathedral-st-john-baptist-savannah-georgia/)
-
-
-
 
 <figure><img src="/images/davenport-house-museum-savannah-georgia.jpg" alt="Davenport House Museum Savannah with kids" /><figcaption class="wp-element-caption"> *Photo courtesy of *<a href="https://visitsavannah.com/">Visit Savannah</a> </figcaption></figure>
 
@@ -320,9 +262,6 @@ The Davenport House, built in 1820, was once the family home of Isaiah Davenport
 
 [See photos, reviews &amp; more](/go/davenport-house-museum-savannah-georgia/)
 
-
-
-
 <figure><img src="/images/juliette-gordon-low-birthplace-savannah-georgia.jpg" alt="Juliette Gordon Low Birthplace Things to do in Savannah with kids" /></figure>
 
 #### **[Juliette Gorden Low Birthplace](/go/juliette-gordon-low-birthplace-savannah-georgia/)**
@@ -332,9 +271,6 @@ The Davenport House, built in 1820, was once the family home of Isaiah Davenport
 If you have a girl scout in your family like I do, then a visit to the Juliette Gordon Low Birthplace is a must. As the founder of the Girls Scouts of the USA, this is now the most famous National Girl Scout Program Center and public museum. This birthplace was Savannah’s first National Historic Landmark.
 
 [See photos, reviews &amp; more](/go/juliette-gordon-low-birthplace-savannah-georgia/)
-
-
-
 
 <figure><img src="/images/mercer-williams-house-savannah-georgia.jpg" alt="Mercer Williams House things to do in Savannah with kids" /></figure>
 
@@ -346,10 +282,6 @@ This home was the sight of the shooting death of Danny Hansford, the assistant t
 
 [See photos, reviews &amp; more](/go/mercer-williams-house-museum-savannah-georgia/)
 
-
-
-
-
 #### **[Flannery O’Connor Childhood Home](/go/flannery-oconner-childhood-home-savannah-georgia/)**
 
 *207 E Charlton St. Savannah, GA 31401*
@@ -357,9 +289,6 @@ This home was the sight of the shooting death of Danny Hansford, the assistant t
 During the Great Depression this is where award-winning writer Flannery O’Connor spent his childhood days. It gives great insight on his domestic life with his family and wander the garden where Flannery at age five taught a chicken to walk backwards. There are also rare books on display at the library.&nbsp;
 
 [See photos, reviews &amp; more](/go/flannery-oconner-childhood-home-savannah-georgia/)
-
-
-
 
 <figure><img src="/images/sorrel-weed-house-savannah-georgia.jpg" alt="Haunted Sorrel Weed House Savannah" /></figure>
 
@@ -371,10 +300,7 @@ This historical home is actually considered one of Savannah’s most haunted hom
 
 [See photos, reviews &amp; more](/go/sorrel-weed-house-savannah-georgia/)
 
-
-
 ## Parks, hikes and walking trails in Savannah
-
 
 <figure><img src="/images/historic-sqaure-savannah-georgia.jpg" alt="Historic Savannah District squares" /></figure>
 
@@ -384,28 +310,17 @@ Savannah is home to 22 squares, each with its own history and historical monumen
 
 [See photos, reviews &amp; more](/go/savannah-historic-district-squares-savannah-georgia/)
 
-
-
-
-
 #### **[McQueens Trail](/go/mcqueens-island-trail-tybee-island-georgia/)**
 
 This trail is really cool, because it was once the 1887 Savannah &amp; Atlantic Railroad line. This 6 mile trail is great for beach-lovers and history buffs as it is located along the coast and treks across land that was home to Gaulle Indians and where Revolutionary War battles were fought. Along McQueens Trail you can visit the famous Fort Pulaski the Union Civil War base
 
 [See photos, reviews &amp; more](/go/mcqueens-island-trail-tybee-island-georgia/)
 
-
-
-
-
 #### **[Savannah and Ogeechee Canal](/go/savannah-ogeechee-canal-savannah-georgia/)**
 
 Take a peaceful stroll along this historic canal, built in 1831 as a way to connect the Savannah and Ogeechee rivers. The passes through 19th century industrial corridors, old rice fields and timber tracks. The canal was also added to the National Register of Historic Places.&nbsp;
 
 [See photos, reviews &amp; more](/go/savannah-ogeechee-canal-savannah-georgia/)
-
-
-
 
 <figure><img src="/images/skidaway-island-state-park-savannah-georgia.jpg" alt="Things to do in Savannah with kids Skidaway Island State Park trails" /><figcaption class="wp-element-caption">Photo courtesy of Skidaway Island State Park</figcaption></figure>
 
@@ -417,15 +332,11 @@ This is a nature-lover’s dream as Skidaway Island State Park borders Georgia�
 
 [See photos, reviews &amp; more](/go/skidaway-island-state-park-savannah-georgia/)
 
-
-
 ## That's a Wrap!
 
 Well, there you have it! We found Savannah, GA to be a super family-friendly place with a wide-range of activities to keep us busy. We tend to hover around fun places to eat, drink and listen to live music as well as spend our time visiting historically significant sites. Savannah is perfect for that! For the kids, their highlights were riding the pedicabs and dining at the haunted Pirate House. We all loved the City Market Savannah with its live music, vivacious atmosphere and fun eats. Savannah is definitely a top place to visit as a family, and we definitely want to go back and spend more time exploring.
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 **Like it? Pin it!**
 

@@ -12,14 +12,9 @@ wpSlug: "little-river-inn"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Nestled along the captivating coastline of Mendocino, California, the Little River Inn stands as a hidden gem awaiting discovery by families seeking a picturesque retreat. With its blend of coastal charm, scenic vistas, and warm hospitality, this inn offers an idyllic escape that captures the hearts of young and old alike. From the moment you arrive, the air of relaxation and adventure merges, creating an environment where cherished family memories are born. Whether you're exploring the rugged shoreline, indulging in delectable cuisine, or simply savoring the moments of togetherness, the [**Little River Inn**](/go/little-river-inn-tp/) beckons families to embrace the beauty of Mendocino and craft their own chapter in its storied history.
 
-
-
 ## The Little River Inn Story
-
-
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Little-River-Inn-Family-Home-1853"><figure><a href="/images/Little-River-Inn-Family-Home.jpg"><img src="/images/Little-River-Inn-Family-Home.jpg" alt="Little River Inn Built in 1853" /></a></figure></div>
 
@@ -55,11 +50,7 @@ Abalone was a very popular dish at the Little River Inn, but commercial fishing 
 
 **[See Photos, Reviews, &amp; More](/go/little-river-inn-tp/)**
 
-
-
 ## Why Families Will Love Little River Inn
-
-
 
 <div class="wp-block-uagb-image uagb-block-a6b4325d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="Little-River-Inn-rooms"><figure><a href="/images/Little-River-Inn-rooms.jpg"><img src="/images/Little-River-Inn-rooms.jpg" alt="Spacious family rooms in Little River Inn" /></a></figure></div>
 
@@ -153,11 +144,7 @@ The coastal surroundings are seamlessly integrated into the spa experience, crea
 
 **[See Photos, Reviews, &amp; More](/go/little-river-inn-tp/)**
 
-
-
 ## Watch Our Stay from Little River Inn!
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O_fd1TX35Dw?si=jwVvh2NznAXgOb4l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -167,11 +154,7 @@ Whether you're embarking on a scenic adventure, savoring culinary delights, or s
 
 San Francisco makes for a great stop along your way to Mendocino. Check out our list of [**the best family hotels in San Francisco**](/best-family-hotels-san-francisco-with-great-amenities-and-locations/) and make it a proper road trip.
 
-## That's a Wrap!
-
 And if you would like to explore more of California's coast with your family, see our [**California family travel guides**](/california-family-travel/) to help you plan the ultimate family vacation. Also, see our [**family hotel guides**](/best-family-hotels/) to help you with all your stays along the way.
-
-
 
 Like it? Pin it!
 

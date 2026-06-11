@@ -12,7 +12,6 @@ wpSlug: "haunted-hotels-san-antonio"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 San Antonio, Texas, is a city rich in history, culture, and a touch of the supernatural. There is so much [**to do in San Antonio**](/things-san-antonio-kids/), but if you're an adventurous traveler with a penchant for the paranormal, you're in for a spine-tingling treat. Prepare to delve into the eerie world of the most haunted hotels in San Antonio, where history and mystery collide.
 
 <figure id="menger-hotel-haunted-hotels-san-antonio"><a href="/images/menger-hotel-haunted-hotels-san-antonio.jpg"><img src="/images/menger-hotel-haunted-hotels-san-antonio.jpg" alt="Haunted Menger Hotel San Antonio" /></a></figure>
@@ -155,11 +154,7 @@ So, if you're ready to embark on a journey through history's darker corners, the
 
 If you are looking for a great stay without ghosts, I recommend the [**Best Western Plus Sunset Suites in San Antonio**](/go/best-western-plus-sunset-suites-riverwalk-san-antonio-tx/). See our[**full review**](/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/) from our stay for more information. We also have more cool [**places to explore with your family in Texas **](/best-of-texas-family-travel/) that you should check out before you go.
 
-## That's a Wrap!
-
 Explore more [**haunted hotels in Texas**](/haunted-hotels-texas/) as well as across America in some of [**best towns to visit during Halloween**](/best-towns-for-halloween/) by checking out our[](/best-haunted-places-to-visit-for-families/)**[favorite haunted places](/best-haunted-places-to-visit-for-families/)** page.
-
-
 
 Like it? Pin it!
 

@@ -12,7 +12,6 @@ wpSlug: "vancouver-with-kids"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 **Exciting. Beautiful. Adventurous. Safe. A total foodie paradise.**
 
 Vancouver is one of those rare cities that truly has it all: stunning mountains, vibrant city life, incredible food, and endless family-friendly adventures. Often called the “Manhattan with mountains,” Vancouver perfectly blends urban energy with breathtaking nature, making it one of the world’s most livable (and visit-worthy) cities.
@@ -21,11 +20,7 @@ We spent a few rainy but unforgettable days exploring Vancouver with the kids be
 
 🔥HotMama Tip: Check out my list of the [**best family hotels in Vancouver**](/best-family-hotels-vancouver-bc/).
 
-
-
 ## Understanding Vancouver’s Neighborhoods
-
-
 
 Vancouver is one of the best Canadian cities to visit, filled with lively downtown neighborhoods, tranquil beaches, and easy access to mountain adventures. It’s made up of [many unique communities](https://vancouver.ca/news-calendar/areas-of-the-city.aspx), each with its own personality, culture, and local feel, helping break the city into easy-to-navigate areas for visitors.
 
@@ -37,11 +32,7 @@ With so many things to do in Vancouver, one of the easiest ways to see the highl
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ow4YxVv6MYA?si=pX2v79zegZDvEr-J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## Things To Do In Gastown Vancouver
-
-
 
 <div class="wp-block-uagb-image uagb-block-e889e7ae wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/gastown-vancouver.jpg"><img src="/images/gastown-vancouver.jpg" alt="Gastown Vancouver with kids" /></a></figure></div>
 
@@ -75,11 +66,7 @@ Gastown is packed with trendy restaurants, dessert spots, local boutiques, and u
 
 I recommend taking a food tour to experience all the cool dining options Gastown has to offer! And, don't miss The Old Spaghetti Factory. It is our family's favorite family restaurant in the States, and the one in Vancouver was amazing!
 
-
-
 ## Things To Do In Stanley Park, Vancouver
-
-
 
 <figure><img src="/images/Vancouver-bridge.jpg" alt="Stanley Park Vancouver" /></figure>
 
@@ -89,11 +76,7 @@ What makes Stanley Park truly unique is that it is not a man-made creation, but 
 
 The surrounding Vancouver Seawall not only helps to prevent erosion, but also provides a scenic and popular trail for those who wish to get out and get active. Along the pathway, you will find beaches, lakes, lots of trees, and other family things to do in Vancouver, like playgrounds, [**Science World**](/go/science-world-vancouver/), and the [**Vancouver Aquarium**](/go/vancouver-aquarium/).
 
-
-
 ## English Bay
-
-
 
 <figure><img src="/images/English-Bay-Vancouver-Activities.jpg" alt="English Bay Vancouver Beach Activity" /></figure>
 
@@ -101,11 +84,7 @@ This is the most popular beach in downtown Vancouver. The seawall that surrounds
 
 The beach is a great spot for sunset-gazing, swimming, and sunbathing. It is also the site of many events, such as the summer firework competition, the annual polar bear swim, and the Vancouver Pride Festival.
 
-
-
 ## Kitsilano
-
-
 
 <figure><img src="/images/Kits-Pool-Vancouver.jpg" alt="Kits Pool in Vancouver" /></figure>
 
@@ -131,11 +110,7 @@ The Vancouver Maritime Museum is where little explorers and history-loving paren
 
 Kids will love climbing around exhibits and imagining life on the water, while parents soak up the cozy nautical vibes and waterfront views. Located in scenic Vanier Park, it’s an easy stop to pair with the Space Centre, Museum of Vancouver, or a beach day in Kitsilano. Boats, history, and letting the kids burn energy by the ocean after? Solid family outing.
 
-
-
 ## Granville Island
-
-
 
 <figure><img src="/images/Vancouver-Granville-Island-Aerial.jpg" alt="Granville Island Vancouver" /></figure>
 
@@ -143,11 +118,7 @@ Technically, Granville Island is a peninsula under the Granville Street Bridge. 
 
 The Kids Market is reminiscent of the big public market, except the shops, dining options, and activities are all geared towards kids. This is a lively and spirited place to walk around and enjoy the afternoon.
 
-
-
 ## Yaletown
-
-
 
 <figure><img src="/images/Engine-374-Roundhouse-Vancouver.jpg" alt="Yaletown Engine 374" /></figure>
 
@@ -155,11 +126,7 @@ Now a hip urban district loaded with exciting restaurants and shops, Yaletown wa
 
 Now the brick warehouses and their exterior platforms have been transformed into trendy restaurants, pubs, and lounges. This is a great place for a night out on the town and local fare at a unique Vancouver restaurant like the [Flying Pig Yaletown](https://theflyingpigvan.com/).
 
-
-
 ## Chinatown
-
-
 
 <figure><img src="/images/Dr-Sun-Yat-Sen-Garden-Vancouver.jpg" alt="Chinese Garden Vancouver" /></figure>
 
@@ -167,11 +134,7 @@ Now the brick warehouses and their exterior platforms have been transformed into
 
 Located in the city’s historical Chinatown, this garden is the first of its kind to be built in Canada. It features a jade pond, koi fish, 150-year-old miniature trees, and tai hu rock from China. The garden makes for a relaxing walk and a city break for the family. The walk includes a scavenger hunt, making it fun for the kids, too.
 
-
-
 ## Richmond
-
-
 
 <figure><img src="/images/Beaver-Floatplane-Vancouver.jpg" alt="Beaver Plane Vancouver" /></figure>
 
@@ -189,11 +152,7 @@ I know it sounds weird, but hear me out. Known as Canada’s plane, taking a sce
 
 Kids will be glued to the action outside, and honestly, it’s the perfect way to experience Vancouver’s famous seaplanes without actually climbing into one yourself… which is honestly more my speed too. Adventure adjacent. We love that for us.
 
-
-
 ## Things To Do In North Vancouver
-
-
 
 <figure><img src="/images/Capilano-suspension-bridge-park-with-kids.jpg" alt="Capilano Suspension Bridge Park with kids" /></figure>
 
@@ -219,11 +178,7 @@ So there you have it. Follow this list, and you’re pretty much guaranteed an u
 
 It’s clean, safe, easy to navigate, and packed with experiences that genuinely work for families without feeling overly “kid-focused.” Vancouver is one of those rare destinations where parents and kids both leave happy, and honestly, that’s the real vacation win.
 
-## That's a Wrap!
-
 Planning more Canadian adventures? Be sure to check out more of our[** Canada family travel guides**](/canada-family-travel/) on HotMamaTravel.com for family-friendly hotels, attractions, restaurants, and travel tips across Canada.
-
-
 
 Like it? Pin it!
 

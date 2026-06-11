@@ -11,13 +11,11 @@ wpSlug: "best-kid-friendly-hotels-in-malta"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Malta has a fascinating culture and history dating back 7,000 years. Through various transformative chapters in its history, there are now so many amazing sights to see and experiences to dive into that it has become a very popular tourist destination.
 
 So, if you’re headed to[Malta with the kids](/malta-with-kids/), you’ll be glad to know there are tons of attractions that are unique, exciting, and educational. In the City of Valletta alone, you and your children can check out a variety of museums and historic structures, ride the Malta Fun Trains, or go paddleboarding. As for where you’ll be staying, there are great hotels in the country that are very kid-friendly.
 
 Are you traveling from a different country? Try the [Sims Direct](https://simsdirect.com.au/collections/europe) European travel sim card, which will keep you to stay connected during your adventures.
-
 
 <figure id="family-hotels-malta-The-Westin-Dragonara-Resort"><a href="/images/The-Westin-Dragonara-Resort-Malta.jpg"><img src="/images/The-Westin-Dragonara-Resort-Malta.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of The Westin Dragonara Resort</figcaption></figure>
 
@@ -33,9 +31,6 @@ There are also lots of diving courses available for both kids and adults if you�
 
 [See photos, reviews &amp; more](/go/westin-dragonara-resort-malta/)
 
-
-
-
 <figure id="db-Seabank-Resort-Spa-malta-family-hotel"><a href="/images/db-Seabank-Resort-Spa-malta.jpg"><img src="/images/db-Seabank-Resort-Spa-malta.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Db Seabank Resort and Spa</figcaption></figure>
 
 #### [Db Seabank Resort and Spa](/go/db-seabank-resort-spa-malta/)
@@ -47,9 +42,6 @@ The big clincher for the db Seabank Resort and Spa is their special offer that o
 Aside from having a kid’s club to hang out in, there is also a playhouse, bowling alley, and a shallow water beach. These are great options for kids that really want to enjoy the sea without parents having to worry about high tides and sudden drops. Finally, there’s also a lagoon pool and a splash pool with a pirate ship that children absolutely love.
 
 [See photos, reviews &amp; more](/go/db-seabank-resort-spa-malta/)
-
-
-
 
 <figure id="kid-friendly-LABRANDA-Riviera-Hotel-Spa-Malta"><a href="/images/LABRANDA-Riviera-Hotel-Spa-Malta.jpg"><img src="/images/LABRANDA-Riviera-Hotel-Spa-Malta.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of LABRANDA Riviera Hotel &amp; Spa</figcaption></figure>
 
@@ -63,9 +55,6 @@ Arguably the real highlight for kids, though, is the fact that it is just moment
 
 [See photos, reviews &amp; more](/go/labranda-riviera-hotel-spa-malta/)
 
-
-
-
 <figure id="the-suites-piazza-kirkop-family-friendly-malta-hotels"><a href="/images/the-suites-piazza-kirop-malta.jpg"><img src="/images/the-suites-piazza-kirop-malta.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of The Suites-Piazza Kirkop</figcaption></figure>
 
 #### [The Suites - Piazza Kirkop](/go/the-suites-piazza-kirkop-malta/)
@@ -77,9 +66,6 @@ The Suites are very welcoming and accessible, with strictly non-smoking premises
 That said, the real reason to go to this hotel if you have kids is its proximity to sightseeing hotspots. It is close to some of the [best cultural destinations in Malta](https://www.loveholidays.com/holidays/best-cultural-locations-in-malta/). There’s something for every child, so you can take them to the National Museum of Archeology, explore the Blue Grotto, check out the Tarxien Temples or even visit the Tomasina Cat Sanctuary.
 
 [See photos, reviews &amp; more](/go/the-suites-piazza-kirkop-malta/)
-
-
-
 
 <figure id="Family-Friendly-Hotel-Corinthia-St-Georges-Bay-Malta"><a href="/images/Family-Friendly-Hotel-Corinthia-St-Georges-Bay-Malta.jpg"><img src="/images/Family-Friendly-Hotel-Corinthia-St-Georges-Bay-Malta.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Corinthia St. George's Bay</figcaption></figure>
 
@@ -97,17 +83,9 @@ The real beauty of Malta is that you can have a completely relaxed vacation whil
 
 [See photos, reviews &amp; more](/go/corinthia-st-george-malta/)
 
-
-
-
-
-## That's A Wrap!
-
-
+## That's a Wrap!
 
 There are so many great options when looking for the perfect family hotel in Malta for your next travels. Hope this article gives kicks off your Malta travel planning on a positive note. If you have any questions about visiting Malta with your family don't hesitant to ask, I have am a travel agent and Malta travel specialist. Have fun planning.
-
-
 
 **Like it? Pin it!**
 

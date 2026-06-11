@@ -46,8 +46,6 @@ Of course, if you have young children then you have a young children’s play ar
 
 **[See Photos, Reviews, &amp; More](/go/mcwane-science-center-alabama/)**
 
-## That's a Wrap!
-
 From the rolling hills of the Appalachian Mountains to the pristine shores of the Gulf Coast, Alabama offers a rich tapestry of experiences just waiting to be explored. Whether you're exploring space at the US Space and Rocket Center, immersing yourself in the rich history of Battleship Memorial Park, or indulging in some golf along the Robert Trent Jones Golf Trail, there's something for everyone in the Heart of Dixie. So pack your bags, hit the open road, and get ready for an unforgettable adventure in Sweet Home Alabama. After all, as the locals say, "Alabama the Beautiful" is not just a slogan – it's a way of life.
 
 Don't forget to explore [more of what Alabama has to offer](/travel-destinations/united-states-travel/alabama-travel/) with our family-friendly travel guides.

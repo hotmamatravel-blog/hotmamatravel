@@ -12,7 +12,6 @@ wpSlug: "dunns-river-falls-with-kids"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Standing at 180ft high and stretching 600ft in length, Dunn’s River Falls is a Jamaican national treasure. It is also said to be the site of the infamous battle of Las Chorreras between the English and Spanish in 1657. In short, the English won control of the area now known as Ocho Rios. Today the falls are definitely a sight to been seen and climbed. So naturally, a visit to this famous water fall was a must on our recent trip. Yes, it is a tourist attraction, but some things are tourist attractions for reason; you should see them at least once. However, I was traveling with my family and was hesitant to actually climb Dunn’s River Falls with kids. Besides, before this trip the only reference I had of the site was from a story I spent listening to all my life.
 
 **And the story goes…**
@@ -77,7 +76,7 @@ If you want to capture those exciting memories, be sure to bring a water camera.
 
 <figure><a href="/dunns-river-falls-with-kids/"><img src="/images/Dunns-River.jpg" alt="Dunns River Falls with kids" /></a></figure>
 
-## That’s A Wrap!
+## That's a Wrap!
 
 If you get a chance to visit Jamaica with your family, I would highly recommend climbing the Dunn’s River Falls with kids. It was a great experience and one we still talk about today. Check out this great list of **[fun things to do in Ocho Rios](https://www.calculatedtraveller.com/blog/top-things-to-do-in-ocho-rios/) **from a local Jamaican and fellow travel blogger.
 

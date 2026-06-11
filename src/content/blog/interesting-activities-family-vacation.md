@@ -11,12 +11,9 @@ wpSlug: "interesting-activities-family-vacation"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 You have heard it here before, many times, how taking time to travel with your family is so important. Family vacations allow you to spend some quality time with your family, explore together, and release stress. Furthermore, taking vacation [improves your physical and mental health](/family-travel-worth-money-investment/) as you focus on the things you enjoy most in life.
 
 Family vacations are unique and create wonderful and priceless memories. It helps strengthen the family bond, share common practices, and resolve differences. The smiles that fill your face when going through photos of a family vacation, say it all. If you are looking for a more unique way to travel with your family, here are some interesting activities to consider on your next family vacation.
-
-
 
 #### Planning your vacation
 
@@ -28,17 +25,11 @@ Now that you are done with your planning, all is set for an unforgettable trip. 
 
  For your family vacation to be interesting and memorable, it should be action-packed. Whether it is a trip to [glamping sites in California](/best-california-glamping-sites/) or a visit to your grandparents, you can make it enjoyable. Here are some activities to consider.
 
-
-
-
 <figure id="family-beach-vacation"><a href="/images/family-beach-vacation.jpg"><img src="/images/family-beach-vacation.jpg" alt="" /></a></figure>
 
 #### Visit the beach
 
 For water lovers, a vacation without a beach visit is definitely a no no. Enjoy a serene atmosphere and closeness to nature experience with your family by visiting a beach during your vacation. Even if you are with younger kids, you can enjoy beach life without a problem. Aside from swimming, you can play soccer, race out, make sand castles, or enjoy watching sunrise and sunset.
-
-
-
 
 <figure id="airshow-family-vacation"><a href="/images/airshow-family-vacation.jpg"><img src="/images/airshow-family-vacation.jpg" alt="" /></a></figure>
 
@@ -46,26 +37,17 @@ For water lovers, a vacation without a beach visit is definitely a no no. Enjoy 
 
 For aviation enthusiasts, your family trip wouldn’t be complete without going for airshows if your trip date falls within such periods. You can enjoy airshow vacations in countries like the US, England, Germany, Canada, etc. All you need is to have your vacation in a country that hosts airshows. Your date for the trip must coincide with the dates for the shows and don’t forget to buy your air show tickets in advance. Airshows are for everyone and undoubtedly, your family will love it.
 
-
-
-
 <figure id="hiking-kids-family-travel"><a href="/images/hiking-kids-family-travel.jpg"><img src="/images/hiking-kids-family-travel.jpg" alt="" /></a></figure>
 
 #### Try Hiking or Rock Climbing
 
 If you are looking for adventure, hiking or rock climbing is just for you. Note: For families with younger kids this may not be for you if the trails are difficult. Hiking or rock climbing gives you an unforgettable experience with nature. Having to walk through difficult terrains, receiving cuts and bites from insects, and the need to take a rest in the middle of the journey, etc. are all interesting physical and emotional stages you go through when hiking. But in the end, you feel fulfilled and want to do more.
 
-
-
-
 <figure id="cycling-family-travel"><a href="/images/cycling-family-travel.jpg"><img src="/images/cycling-family-travel.jpg" alt="" /></a></figure>
 
 #### Go Cycling
 
  Get some exercise and have some fun! You can engage the family in the early morning and late afternoon cycling. Cycling keeps your body active as you engage almost all your senses, improves blood circulation, and reduces the risk of cardiovascular diseases. So, as you have fun with the family, you are also keeping yourself fit to stay out of the hospital.
-
-
-
 
 <figure id="volunteerism-family-travel"><a href="/images/volunteerism-family-travel.jpg"><img src="/images/volunteerism-family-travel.jpg" alt="" /></a></figure>
 
@@ -75,17 +57,11 @@ If possible, why don’t you also spend some of your time engaging in volunteer 
 
 Alternatively, you can join any volunteer organization and contribute to their effort. As your kids get involved in [volunteer activities](https://www.volunteerhq.org/volunteer-activity-ideas/) at an early age, they become conscious of life and their activities and grow up to become better people.
 
-
-
-
 <figure id="Stirling-castle-scotland-family-travel"><a href="/images/stirling-castle-with-kids-scotland.png"><img src="/images/stirling-castle-with-kids-scotland.png" alt="Stirling Castle Scotland with kids Visitor Guide" /></a></figure>
 
 #### Visiting Museums and Interesting Attractions
 
 You cannot complete your family vacation without visiting some of the interesting places around your destination. Take a visit to the nearest museum to experience what the ancient folks had for us and learn history. You can also visit interesting sites like castles, beautiful landscapes, and historic sites. This will serve as an educational and fun exercise.
-
-
-
 
 <figure id="family-challenge-family-travel"><a href="/images/family-challenge-family-travel.jpg"><img src="/images/family-challenge-family-travel.jpg" alt="" /></a></figure>
 
@@ -93,13 +69,11 @@ You cannot complete your family vacation without visiting some of the interestin
 
 Make your family vacation interesting by incorporating fun challenges. You can engage in a lyric challenge, blindfold makeover, ice bucket, bubble wrap, or longest hula-hoop on a trampoline challenge among others. Having a family challenge can strengthen the bond, release tension, and make for some extra funny memories.
 
-
-
-## That's a Wrap!
-
 <div class="uagb-separator-wrap">
 
 </div>
+
+## That's a Wrap!
 
 As you take a break from your busy schedule for traveling with your family, make it enjoyable and memorable. Many fun activities don’t even require any spending, so money shouldn’t limit your chances of exploring.
 

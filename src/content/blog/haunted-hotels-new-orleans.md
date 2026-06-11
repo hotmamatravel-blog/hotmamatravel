@@ -12,7 +12,6 @@ wpSlug: "haunted-hotels-new-orleans"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 New Orleans was founded in 1718 and is considered one of the most haunted cities in America. It also happens to be one of the **[best towns to visit during Halloween](/best-towns-for-halloween/)**, where spooky history meets vibrant street life. This city has witnessed more than its fair share of hardship over the centuries, including [yellow fever epidemics](https://www.smithsonianmag.com/history/how-yellow-fever-intensified-racial-inequality-in-19th-century-new-orleans-180979934/), slavery, the Natchez Revolt, the Civil War, destructive hurricanes, and massive fires, so it’s no surprise that there’s plenty of restless energy hanging around from the past.
 
 We actually stopped here during our **[epic cross-country road trip](/family-road-trip-preview/)**, and let me tell you, few cities balance eerie and electric quite like The Big Easy. Between the voodoo vibes, haunted mansions, and jazz pouring out of every corner, it’s the kind of place that keeps your senses buzzing day and night.
@@ -164,13 +163,9 @@ The Hotel Monteleone is absolutely HotMamaTravel approved. The rooms come equipp
 
 So, who’s ready to spend the night in one of America’s most haunted cities? Whether you check in at one of these legendary hotels or end up somewhere else in New Orleans, chances are you’ll still have a ghostly roommate or two. That’s just how this city likes to keep things *lively*.
 
-## That's a Wrap!
-
 If your family can’t get enough of the spooky side of travel, head over to my **[Haunted Places page](/best-haunted-places-to-visit-for-families/)** for more haunted hotels and destinations to explore together. From eerie inns to ghost-filled getaways, there’s a spirited stay waiting for everyone.
 
 Until next time, keep it fun, keep it curious, and remember, it’s just a bunch of hocus pocus.
-
-
 
 Like it? Pin it!
 

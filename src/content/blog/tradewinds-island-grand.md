@@ -11,7 +11,6 @@ wpSlug: "tradewinds-island-grand"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Imagine waking up to palm trees swaying in the breeze, the turquoise sea sparkling in the sun, and the sand feeling as soft as powder sugar? It is not just a fantasy; this is for real. While staying at the **[Tradewinds St Pete Beach Island Resort](/tradewinds-island-grand/)**, we woke up to paradise every single. day.
 
 Not only is the location gorgeous, but the resort caters to families. And if you’re anything like me, a mom who can make *any* hotel work with kids, you’ll appreciate that you don’t have to try so hard. It’s already done for you.
@@ -22,11 +21,7 @@ The property is massive, in the best way. Think pools, beach access, hidden path
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fKmuVFjZ3bc?si=dsD6aFQ2NGdL6iV6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## Rooms at Tradewinds Island Grand
-
-
 
 <div class="wp-block-uagb-image uagb-block-3db190f4 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Rooms-at-Tradewinds-Island-Grand.jpg"><img src="/images/Rooms-at-Tradewinds-Island-Grand.jpg" alt="rooms at Tradewinds Island Grand" /></a></figure></div>
 
@@ -54,11 +49,7 @@ If you’re traveling with a bigger group or just want more space, the resort al
 
 Bottom line: whether you go simple or all-out, the rooms here make it really easy to settle in, spread out, and fully lean into vacation mode.
 
-
-
 ## Where to Eat &amp; Drink (Without Leaving the Resort)
-
-
 
 One of the best parts of staying at **[Tradewinds Island Grand](/tradewinds-island-grand/)**? You literally don’t have to leave to eat. From casual bites to beachfront cocktails, there’s something for every mood, and every member of the family. And, if you do want to leave the resort there are several amazing [**family-friendly restaurants in St. Pete**](/best-restaurants-in-st-pete-beach-for-families/).
 
@@ -112,11 +103,7 @@ End the day toes-in-the-sand style at Salty's Beach Lounge. Sip cocktails, enjoy
 
 💡 **HotMama tip:** Schedule your meals around pool or beach time to maximize fun and minimize hangry kids. Each spot brings something unique—so plan to sample as much as you can!
 
-
-
 ## Activities &amp; Things to Do at the Resort
-
-
 
 <div class="wp-block-uagb-image uagb-block-efcb7c1e wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/waterslide-at-Tradewinds-Island-Grand.jpg"><img src="/images/waterslide-at-Tradewinds-Island-Grand.jpg" alt="waterslide at tradewinds island grand" /></a></figure></div>
 
@@ -172,11 +159,7 @@ Join Captain RedBeard’s Pirate Show for family fun, dancing, and laughs. Actio
 
 - **Duck feeding at Paddleboat Landing:** Free, fun, and great for little animal lovers.
 
-
-
 ## Don’t Skip This: Access to RumFish Beach Resort
-
-
 
 Guests at Tradewinds can enjoy full access to pools, activities, and dining at [RumFish Beach Resort](https://www.tradewindsresort.com/rumfish). This is all just steps away from the main Tradewinds property. It’s like doubling your vacation playground without leaving the beach!
 
@@ -221,11 +204,7 @@ Classic beachfront bar with live music, cocktails, and ocean views—the perfect
 
 💡 **HotMama tip:** Whether you’re here for the **marine magic, teen-friendly glow parties, or beachside relaxation**, RumFish expands your Tradewinds vacation playground—making it easy to mix and match activities for every age and energy level.
 
-
-
 ## St. Pete Family Travel Videos
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=YlBdlSgdEE8rrb7O&amp;start=455&amp;list=PLBukqMU4IGfv860ekuHVvlXqwv1msgQ90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -247,11 +226,7 @@ Whether you’re planning your **[first Florida family getaway](/florida-family-
 
 - See more of our favorite [**Family Hotels**](/best-family-hotels/) in the US and around the world.
 
-## That's a Wrap!
-
 Your tropical family escape is just a click away—**[book your stay now and start packing for paradise!](/tradewinds-island-grand/)**
-
-
 
 Like it? Pin it!
 

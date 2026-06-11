@@ -122,6 +122,8 @@ If you love visiting historical sites, then Mission San Juan Capistrano is the p
 **Have you visited the Missions? **
 
 **What's your favorite?**
+## That's a Wrap!
+
 
 **Like it? Pin it!**
 

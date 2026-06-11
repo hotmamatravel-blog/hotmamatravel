@@ -36,7 +36,5 @@ If you are stuck between two items that you want to take with you and you can't 
 
 Good packing is also going to make a [big difference](https://myadventuresacrosstheworld.com/tips-for-packing-light-travel-light/), and it’s something that you will need to make sure you are thinking about if you want to keep your luggage as light as possible. Just learning how to pack well is going to enable you to save a lot of space, so you should make sure you are doing this. There are certain things, like rolling clothes rather than folding them, which can add up to save you a huge amount of space, so it’s definitely wise to think about that. And as with most things, it just takes a little practice to figure it out.
 
-## That's a Wrap!
-
 Those are the main things you can do to ensure you are traveling light, so make sure you think about these as best as you can if you want to make that work for you.
 

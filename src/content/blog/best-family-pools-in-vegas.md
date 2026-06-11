@@ -12,7 +12,6 @@ wpSlug: "best-family-pools-in-vegas"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Honestly, there is no better way to spend a hot day in Las Vegas than relaxing by the pool. It is refreshing, saves you money and it is fun for the whole family. Plus these are no ordinary pools we are talking about either. These are the best family pools in Vegas!
 
 Just like every [**attraction in Las Vegas**](/affordable-family-activities-las-vegas/), every hotel is trying its best to outshine the competition. That means it is always a win for you! Most of the pools in Vegas are beautiful and luxurious spaces, but there are a few that just do it better. Plus, most of these pools are located inside some of the best overall [**Vegas hotels for families**](/best-family-hotels-in-las-vegas/).
@@ -27,11 +26,7 @@ Before you plan your next trip to [**Vegas with kids**](/las-vegas-with-kids/), 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CcZ4zaLZSzQ?si=mRQibzkVaB8PjaiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-
 ## Best Family Pools in Vegas
-
-
 
 <figure id="Mandaly-Bay-pool-best-las-vegas-pools-for-families"><a href="/images/mandalay-bay-lazy-river-things-to-do-in-vegas-pregnant.jpg"><img src="/images/mandalay-bay-lazy-river-things-to-do-in-vegas-pregnant.jpg" alt="best Family Pools in Vegas Mandalay Bay" /></a></figure>
 
@@ -181,18 +176,13 @@ What families will also love about the Flamingo is their [**free Vegas family at
 
 **[See Photos, Reviews, &amp; More](/go/flamingo-las-vegas-exp/)**
 
-## That's a Wrap!
-
 I know this isn’t a huge list, but is an honest list of the best family pools in Vegas that we love and recommend based on personal experience. That being said, there are many great and luxurious pools in Las Vegas that I didn't add to this list, because they didn’t offer features that stood out as it relates to the needs of families with kids. I hope you enjoyed this list and it helps you make a better decision when choosing where to stay on your next Las Vegas family vacation.
 
 Check out all our [**Las Vegas family travel guides**](/family-friendly-vegas/) as well as guides for the greater [**state of Nevada**](/nevada-family-travel/).
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community shares the most up-to-date family Vegas tips. It is a lot of fun.
 
-
-
 **Like it? Pin it!**
 
 <figure id="best-family-pools-las-vegas" data-essb-pin-description="Best Family Pools in Las Vegas"><a href="/images/best-family-pools-las-vegas.jpg"><img src="/images/best-family-pools-las-vegas-200x300.jpg" alt="Best Family Pools in Las Vegas" /></a></figure>
-
 

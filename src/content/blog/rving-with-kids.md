@@ -24,7 +24,6 @@ I am truly grateful for the countless family memories and bonding that RVing wit
 
 ## ***Drop your Bags***
 
-
 I recently published an article in Cigar &amp; Spirits Magazine about luxury RV’s. There is no such thing as “roughing it” with these glamorous recreational vehicles. In fact, I’ve stayed at hotels rougher than most of these RV’s. But, that kind of comfort comes with a high price tag. Now, we don’t roll in one these bad boys (yet), but found one that fits our families’ needs and budget just fine.
 
 [![Rving with kids](/images/IMG_1648-1024x1024.jpg)](/rving-with-kids/)
@@ -39,7 +38,6 @@ Rent a RV. You don’t have to buy an RV to experience comfortable camping. In f
 Before you drop your bags, you have to pack them. Packing for camping trips is tricky especially with kids. Be mindful that most of the time will be spent outdoors, so pack lots of backup clothes (kids and camping is messy business) and consider hot days and cold nights. Needless to say, I really over pack for RV trips. Also, bring blankets for outdoor use only. There is nothing worse than snuggling up to a blanket that smells like bonfire smoke. Yuck.
 
 ## ***Get your Grub On***
-
 
 This family loves food and when we are camping we like to really put it down, so meal planning is crucial. We take the meals pretty seriously and this usually requires my mother, my sister and I to sit down and make a solid plan over shots of tequila. We go over our itinerary and decide what meals we will be having at the site verses going to restaurants. Yes, even when we RV we still like to treat ourselves to meal or two in town.
 
@@ -56,7 +54,6 @@ When we do cook, we divvy up the responsibilities so the burden of preparing a m
 [![Rving with kids](/images/DSCN5121-1024x768.jpg)](/rving-with-kids/)
 
 ## ***Chug-a-lug***
-
 
 Hmmm? Where is a great spot for a cocktail on an RV trip? YOUR RV SITE! Obviously, it is important to B.Y.O.B. We make sure to stock our RV and coolers full of drinkable delights so we can mix up our morning mimosas and Bloody Mary’s, gulp down our afternoon beers and sip on our whiskey and rum night caps.
 
@@ -75,7 +72,6 @@ Just because you're RVing doesn’t mean you are anchored to your site. Many cam
 [![Rving with kids](/images/DSCN1458-1024x683.jpg)](/rving-with-kids/)
 
 ## ***Entertain Me***
-
 
 Our kids love to be play outside, but at home they don’t get as much time outdoors as they would like due to busy work schedules and inconvenient play areas, but RVing allows them to be outside for a whole weekend, swimming, hiking, running, splashing and burning up energy. They are happy, hungry and tired. Play. Eat. Sleep. It is great, because this HotMama can enjoy a little happy hour of her own.
 
@@ -111,7 +107,6 @@ Finding RV resorts in cities and towns that you want to explore makes for a very
 
 ## ***That’s a Wrap***
 
-
 RVing with kids has been such a wonderful experience for our family. I went my whole life without ever having the desire to RV, but now I can’t imagine my life without it! It has afforded us priceless quality time together. It has given us amazing adventures. Most of all, RVing has given our kids memories that will last a life time.
 
 [![Rving with kids](/images/DSCN2438-1024x680.jpg)](/rving-with-kids/)
@@ -125,7 +120,6 @@ RVing with kids has been such a wonderful experience for our family. I went my w
  	- Vail Lake Resort: **[HERE](/vail-lake-resort-with-kids/)**
 
  	- Mission Bay RV Resort: **[HERE](/mission-bay-rv-resort/)**
-
 
 **Have you ever been Rving?**
 

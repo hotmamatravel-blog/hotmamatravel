@@ -10,9 +10,7 @@ wpSlug: "things-to-do-in-north-shore-minnesota"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 North Shore is a beautiful and diverse area of Minnesota that offers a wide range of activities for visitors to enjoy. From outdoor adventures to cultural experiences, there is something for everyone in North Shore. Here are a few things to do in North Shore  with your family that are sure to please.
-
 
 <figure id="Family-Nature-Walks-Superior-Hiking-Trail-North-Shore-Minnesota"><a href="/images/Family-Nature-Walks-Superior-Hiking-Trail-North-Shore-Minnesota.jpg"><img src="/images/Family-Nature-Walks-Superior-Hiking-Trail-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
@@ -30,9 +28,6 @@ The Superior Hiking Trail is well-known for the breathtaking view of the lake an
 
 [See photos, reviews &amp; more](/go/superior-hiking-trail-north-shore-mn/)
 
-
-
-
 <figure id="Temperance-River-State-Park-North-Shore-Minnesota"><a href="/images/Temperance-River-State-Park-North-Shore-Minnesota.jpg"><img src="/images/Temperance-River-State-Park-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
 #### [Temperance River State Park](/go/temperance-river-state-park-north-shore-mn/)
@@ -49,9 +44,6 @@ Temperance River State Park is also a popular destination for camping, with seve
 
 [See photos, reviews &amp; more](/go/temperance-river-state-park-north-shore-mn/)
 
-
-
-
 <figure id="Tettegouche-State-Park-North-Shore-Minnesota"><a href="/images/Tettegouche-State-Park-North-Shore-Minnesota.jpg"><img src="/images/Tettegouche-State-Park-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
 #### [Tettegouche State Park](/go/tettegouche-state-park-north-shore-mn/)
@@ -63,9 +55,6 @@ The park also boasts several hiking trails that wind through the forest and alon
 Another attraction of the park is the historic Tettegouche Camp, which is a historic retreat center built in the 1920s by the Tettegouche Club, a group of influential businessmen and conservationists. The camp offers visitors a glimpse into the past, with its rustic cabins, dining hall, and other historic buildings.
 
 Tettegouche State Park also offers recreational opportunities such as rock climbing and sea kayaking. The park is home to some of the best climbing routes in Minnesota, with over 100 routes that are suitable for climbers of all skill levels. The park also offers sea kayaking on Lake Superior, which is an excellent way to explore the lake and its many islands.
-
-
-
 
 <figure id="Gooseberry-Falls-State-Park-North-Shore-Minnesota"><a href="/images/Gooseberry-Falls-State-Park-North-Shore-Minnesota.jpg"><img src="/images/Gooseberry-Falls-State-Park-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
@@ -81,9 +70,6 @@ Gooseberry Falls State Park also offers recreational opportunities such as picni
 
 [See photos, reviews &amp; more](/go/gooseberry-falls-state-park-north-shore-mn/)
 
-
-
-
 <figure id="Cross-River-Heritage-Center-North-Shore-Minnesota"><a href="/images/Cross-River-Heritage-Center-North-Shore-Minnesota.jpg"><img src="/images/Cross-River-Heritage-Center-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
 #### [Cross River Heritage Center](/go/cross-river-heritage-center-north-shore-mn/)
@@ -94,18 +80,11 @@ Locally known as *The Heart of Schroede*r the Cross River Heritage Center was or
 
 [See photos, reviews &amp; more](/go/cross-river-heritage-center-north-shore-mn/)
 
-
-
-
-
 #### [Pincushion Mountain Trail](/go/pincushion-mountain-trail-system-north-shore-mn/)
 
 This trail is located in Grand Marais, MN and offers a challenging hike with steep inclines and rocky terrain. The trail leads to the summit of Pincushion Mountain where hikers are rewarded with panoramic views of the area. The trail is considered a moderate challenge, so probably not the trail for you if you are traveling with kids.
 
 [See photos, reviews &amp; more](/go/pincushion-mountain-trail-system-north-shore-mn/)
-
-
-
 
 <figure id="Split-Rock-Lighthouse-North-Shore-Minnesota"><a href="/images/Split-Rock-Lighthouse-North-Shore-Minnesota.jpg"><img src="/images/Split-Rock-Lighthouse-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
@@ -121,9 +100,6 @@ The lighthouse is also part of the North Shore Scenic Drive, which is a beautifu
 
 [See photos, reviews &amp; more](/go/split-rock-lighthouse-north-shore-mn/)
 
-
-
-
 <figure><a href="/images/North-Shore-Scenic-Drive-North-Shore-Minnesota.jpg"><img src="/images/North-Shore-Scenic-Drive-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
 #### [North Shore Scenic Drive](/go/north-shore-scenic-drive-mn/)
@@ -135,9 +111,6 @@ The North Shore Scenic Drive is a great way to experience the natural beauty of 
 One of the highlights of the North Shore Scenic Drive is Split Rock Lighthouse, which is considered as one of the most photographed and painted lighthouses in the United States. You can take a tour of the lighthouse, which includes a climb to the top for a stunning view of the lake, and learn about the history of the lighthouse and the lives of the lighthouse keepers.
 
 The drive also offers opportunities to explore the local culture and history. You can stop at the Grand Marais Harbor Park, which features a small beach, picnic area and playground, and visit the nearby art galleries and shops in Grand Marais, a charming small town that is known for its art colony.
-
-
-
 
 <figure id="The-Oberg-Mountain-Loop-North-Shore-Minnesota"><a href="/images/The-Oberg-Mountain-Loop-North-Shore-Minnesota.jpg"><img src="/images/The-Oberg-Mountain-Loop-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
@@ -153,9 +126,6 @@ This scenic hike offers a cultural experience by showcasing the history of the a
 
 [See photos, reviews &amp; more](/go/oberg-mountain-loop-north-shore-mn/)
 
-
-
-
 <figure><a href="/images/Grand-Marais-Art-Colony-North-Shore-Minnesota.jpg"><img src="/images/Grand-Marais-Art-Colony-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
 #### [Grand Marais Art Colony](/go/grand-marais-art-colony-north-shore-mn/)
@@ -163,9 +133,6 @@ This scenic hike offers a cultural experience by showcasing the history of the a
 This historic art colony offers art classes, workshops supporting artists through residencies, intensive and mentoring classes, as well as signature events. Our Entry Points program provides opportunities for people of various ages and skill levels to attend artist talks, demonstrations, and mini-classes. Our classes provide immersive mentoring experiences for beginners to established artists.
 
 [See photos, reviews &amp; more](/go/grand-marais-art-colony-north-shore-mn/)
-
-
-
 
 <figure id="North-House-Folk-School-North-Shore-Minnesota"><a href="/images/North-House-Folk-School-North-Shore-Minnesota.jpg"><img src="/images/North-House-Folk-School-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
@@ -176,9 +143,6 @@ This historic art colony offers art classes, workshops supporting artists throug
 This school is modeled after Danish folk schools from the 1800s and offers a variety of classes and workshops that teach traditional skills such as woodworking, blacksmithing, sailing and fiber arts. Visitors can learn a new skill or craft while enjoying the beautiful surroundings of the North Shore.
 
 [See photos, reviews &amp; more](/go/north-house-folk-school-north-shore-mn/)
-
-
-
 
 <figure id="Lutsen-Mountain-Summit-Express-North-Shore-Minnesota"><a href="/images/Lutsen-Mountain-Summit-Express-North-Shore-Minnesota.jpg"><img src="/images/Lutsen-Mountain-Summit-Express-North-Shore-Minnesota.jpg" alt="" /></a></figure>
 
@@ -196,17 +160,9 @@ Another feature of Lutsen Mountain Summit Express is that it is open for night s
 
 [See photos, reviews &amp; more](/go/lutsen-mountain-summit-express-north-shore-mn/)
 
-
-
-
-
-## That's A Wrap!
-
-
+## That's a Wrap!
 
 When planning your next family vacation, you'll find there is no shortage of fun and adventurous things to in North Shore, Minnesota. Hope this list helped you plan the perfect itinerary for your family. Now go have some fun.
-
-
 
 **Like it? Pin it!**
 

@@ -12,7 +12,6 @@ wpSlug: "best-christmas-hotels-in-nyc"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 New York City during the holiday season is nothing short of enchanting, and finding the perfect home away from home is essential for a memorable family holiday vacation. In the city that never sleeps, the spirit of Christmas comes alive through dazzling lights, world-class shopping, and heartwarming traditions.
 
 In this article, we'll embark on a magical journey through the best Christmas hotels in NYC, where luxury meets festive charm, creating the perfect backdrop for your [**family's holiday adventure**](/christmas-getaways-for-families/). Whether you dream of sipping cocoa near Central Park's winter wonderland or gazing at the city lights from your cozy suite, these hotels offer much more than just a place to stay; they provide a captivating experience that will make your family's Christmas in the Big Apple truly unforgettable.
@@ -163,8 +162,6 @@ While the specific activities and offerings may vary from year to year, the Omni
 
 **[See Photos, Reviews, &amp; More](/go/omni-berkshire-place-new-york/)**
 
-## That's a Wrap!
-
 Choosing the best Christmas hotel in New York City can be a delightful and memorable part of your holiday experience. If you’re planning your trip, be sure to check out my** [New York Family Travel Guides](/new-york-family-travel-2/)** for tips on where to eat, play, and explore during your stay.Whether you're seeking luxurious elegance, family-friendly festivities, or a cozy winter retreat, the city offers a diverse range of hotels that embrace the magic of the season. From beautifully adorned lobbies and gourmet holiday dining to special events and entertainment, these hotels create a warm and inviting atmosphere, allowing you to immerse yourself in the enchanting spirit of Christmas.
 
  As you plan your stay, remember to check the official websites of these hotels for the most up-to-date information on their festive offerings. With your hotel choice sorted, you're all set to enjoy a magical and heartwarming holiday season in the Big Apple.
@@ -172,8 +169,6 @@ Choosing the best Christmas hotel in New York City can be a delightful and memor
 If you are more spooky and would like to stay in a **[haunted hotel in New York](/haunted-hotels-new-york/)**, we have some great options for you. We also have some great suggestions from amazing **[glamping sites in Upstate New York](/glamping-upstate-new-york/)**.
 
 Looking to explore more festive hotels around the country? Be sure to see our favorite [**Christmas hotels in Southern California**](/christmas-hotels-southern-california/) that go all out for the holiday season.
-
-
 
 Like it? Pin it!
 

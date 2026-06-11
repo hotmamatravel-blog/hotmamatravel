@@ -11,13 +11,11 @@ wpSlug: "things-to-do-in-charleston-with-kids"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Charleston has been called America’s number one small town and let me tell you, it is quite charming. This beautiful and historic waterfront city is truly oozing with Southern charm. It also makes for a great family vacation destination with a ton of history and exciting things to do.&nbsp;
 
 To help you plan the ultimate Charleston family getaway, I put together an extensive list of fun and historical things to do in Charleston, SC with kids.
 
 **Here's what's in this article**:
-
 
 ### Unique area attractions
 
@@ -105,12 +103,9 @@ To help you plan the ultimate Charleston family getaway, I put together an exten
 
 - [Mrs. Rose’s Fine Food and Cocktails](#mrs-roses-fine-food-cocktails)
 
-
-
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 ## Kid-friendly Charleston Attractions
-
 
 <figure><a href="/images/charleston-city-market-charleston-sc.jpg"><img src="/images/charleston-city-market-charleston-sc.jpg" alt="" /></a></figure>
 
@@ -122,9 +117,6 @@ Established in the 1790’s this historic marketplace starts on Main Street with
 
 [See photos, reviews &amp; more](/go/charleston-city-market-charleston-sc/)
 
-
-
-
 <figure><a href="/images/South-Carolina-Aquarium-Charleston-SC.jpg"><img src="/images/South-Carolina-Aquarium-Charleston-SC.jpg" alt="" /></a></figure>
 
 #### [South Carolina Aquarium](/go/south-carolina-aquarium-charleston-sc/)
@@ -134,9 +126,6 @@ Established in the 1790’s this historic marketplace starts on Main Street with
 If your kids love animals, then you might want to add the South Carolina Aquarium to your list of things to do in Charleston. Home to over 5,000 animals, many of which are local to South Carolina. The aquarium aims to inspire conservation through their exhibits. They have the biggest tank in North America that holds 700 animals and interactive touch tanks where kids can have a hands-on experience.
 
 [See photos, reviews &amp; more](/go/south-carolina-aquarium-charleston-sc/)
-
-
-
 
 <figure><a href="/images/charleston-old-haunted-jail-charleston-sc.jpg"><img src="/images/charleston-old-haunted-jail-charleston-sc.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Bulldog Tours</figcaption></figure>
 
@@ -148,9 +137,6 @@ This Old City Jail ran from 1809 to 1939 and housed some interesting characters 
 
 [See photos, reviews &amp; more](/go/charleston-haunted-city-jail-charleston-sc/)
 
-
-
-
 <figure><a href="/images/uss-yorktown-ghost-tour-charleston-sc.jpg"><img src="/images/uss-yorktown-ghost-tour-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [USS Yorktown Ghost Tour](/go/uss-yorktown-ghost-tours-charleston-sc/)
@@ -160,9 +146,6 @@ This Old City Jail ran from 1809 to 1939 and housed some interesting characters 
 The USS Yorktown, also known as the Fighting Lady, was commissioned during WWII in 1943 and manned over 3,000 American Heroes. You and your family can tour the ship during the day, but if you really want a unique experience taking a night time ghost tour is the ticket! Open to all ages, this ghost tour gives you access to parts of the ship that are closed to the public during the day.
 
 [See photos, reviews &amp; more](/go/uss-yorktown-ghost-tours-charleston-sc/)
-
-
-
 
 <figure><a href="/images/old-south-haunted-carriage-tour-charleston-sc.jpg"><img src="/images/old-south-haunted-carriage-tour-charleston-sc.jpg" alt="" /></a><figcaption class="wp-element-caption"><a href="/go/old-south-haunted-ghost-tours-charleston-sc/">Old South Carriage Company</a></figcaption></figure>
 
@@ -174,9 +157,6 @@ Riding through the historic streets of Charleston on a carriage at twilight is a
 
 [See photos, reviews &amp; more](/go/old-south-haunted-ghost-tours-charleston-sc/)
 
-
-
-
 <figure><a href="/images/gibbs-art-museum-charleston-sc.jpg"><img src="/images/gibbs-art-museum-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Gibbes Museum of Art](/go/gibbs-museum-art-charleston-sc/)
@@ -186,9 +166,6 @@ Riding through the historic streets of Charleston on a carriage at twilight is a
 This museum opened in 1905 and has a collection of American art that tells the story of Charleston. The museum celebrates, “the power of art – to inspire our imagination, heal our hurt, revel in our experience, rebuild what’s broken, nourish our souls, and release all that holds us back.” The first floor is free to the public and filled with activities. Besides the galleries, the museum also offers art events for kids, so be sure to check the events calendar.
 
 [See photos, reviews &amp; more](/go/gibbs-museum-art-charleston-sc/)
-
-
-
 
 <figure><a href="/images/middleton-place-house-museum-charleston-sc.jpg"><img src="/images/middleton-place-house-museum-charleston-sc.jpg" alt="" /></a></figure>
 
@@ -200,9 +177,6 @@ This is the home of the oldest landscaped gardens in America and visiting Middle
 
 [See photos, reviews &amp; more](/go/middleton-place-house-museum-charleston-sc/)
 
-
-
-
 <figure><a href="/images/hunley-submarine-charleston-sc.jpg"><img src="/images/hunley-submarine-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [The Historic Hunley Submarine](/go/historic-hunley-submarine-charleston-sc/)
@@ -212,9 +186,6 @@ This is the home of the oldest landscaped gardens in America and visiting Middle
 The Hunley Submarine, became the first successful combat submarine in 1864! Crazy enough, Hunley vanished after the completion of her mission and remained missing for over a century. It wasn’t until 1995 when the National Underwater and Marine Agency discovered The Hunley Submarine and then finally recovered it in 2000. The submarine is now a time capsule with hundreds of artifacts to show us what life was like during the American Civil War and teaches about the men that died onboard the vessel. The museum offers weekend tours where you can view various exhibits, artifacts and The Hunley Submarine itself. There are also a number of activities, so plan on spending at least an hour exploring.
 
 [See photos, reviews &amp; more](/go/historic-hunley-submarine-charleston-sc/)
-
-
-
 
 <figure><a href="/images/Old-Slave-Mart-Museum-charleston-sc.jpg"><img src="/images/Old-Slave-Mart-Museum-charleston-sc.jpg" alt="" /></a></figure>
 
@@ -226,10 +197,6 @@ A dark part of history, but a necessary part to understand. The Old Slave Mart M
 
 [See photos, reviews &amp; more](/go/old-slave-mart-charleston-sc/)
 
-
-
-
-
 #### [Children’s Museum of Lowcountry](/go/childrens-museum-lowcountry-charleston-sc/)
 
 * 25 Ann St, Charleston, SC 29403*
@@ -238,10 +205,7 @@ If your kids love interactive learning and adventures, then you may want to pop 
 
 [See photos, reviews &amp; more](/go/childrens-museum-lowcountry-charleston-sc/)
 
-
-
 ## Historic Districts in Charleston
-
 
 <figure><a href="/images/mcleod-plantation-charleston-sc.jpg"><img src="/images/mcleod-plantation-charleston-sc.jpg" alt="" /></a></figure>
 
@@ -253,9 +217,6 @@ The Mcleod Plantation was established in 1851, built on the money from sea islan
 
 [See photos, reviews &amp; more](/go/mcleod-plantation-historic-site-charleston-sc/)
 
-
-
-
 <figure><a href="/images/nathaniel-russell-house-charleston-sc.jpg"><img src="/images/nathaniel-russell-house-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Nathaniel Russell House](/go/nathaniel-russell-house-charleston-sc/)
@@ -265,9 +226,6 @@ The Mcleod Plantation was established in 1851, built on the money from sea islan
 This National historical landmark was once the home of Nathaniel Russell, a merchant and slave trader, built in 1808. Restored to its original glory, visitors get a chance to peek into the lives of the mercantile elite as well as artisans, craftsmen and enslaved laborers who made this opulent lifestyle possible. This home is regarded as one of the finest of its era and definitely worth a tour inside!
 
 [See photos, reviews &amp; more](/go/nathaniel-russell-house-charleston-sc/)
-
-
-
 
 <figure><a href="/images/fort-sumter-national-monument-charleston-sc.jpg"><img src="/images/fort-sumter-national-monument-charleston-sc.jpg" alt="" /></a></figure>
 
@@ -279,9 +237,6 @@ Built on a man-made island in 1829, this sea fort was to protect South Carolina 
 
 [See photos, reviews &amp; more](/go/fort-sumter-national-monument-charleston-sc/)
 
-
-
-
 <figure><a href="/images/aiken-rhett-house-charleston-sc.jpg"><img src="/images/aiken-rhett-house-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Aiken-Rhett House](/go/aiken-rhett-house-charleston-sc/)
@@ -291,9 +246,6 @@ Built on a man-made island in 1829, this sea fort was to protect South Carolina 
 Visit the antebellum home of former Governor William Aiken, built in 1820. It is considered one of the best preserved historic townhouses in the country. Greatly expanded over the years, the home remained in the Aiken family for over 140 years until it was sold to the Charleston Museum in the 1970’s. Now, you can come tour the home along with many original furnishings and see what life was like for the family as well as the enslaved that lived in there. What is really interesting is that the home and its contents were left as found. Even the slave’s quarters remained untouched since the 1850’s.
 
 [See photos, reviews &amp; more](/go/aiken-rhett-house-charleston-sc/)
-
-
-
 
 <figure><a href="/images/Edmondston-Alston-House-charleston-sc.jpg"><img src="/images/Edmondston-Alston-House-charleston-sc.jpg" alt="" /></a></figure>
 
@@ -305,9 +257,6 @@ Built in 1825, this beautiful historic Charleston home, sits right on the Charle
 
 [See photos, reviews &amp; more](/go/edmondston-alston-house-charleston-sc/)
 
-
-
-
 <figure><a href="/images/Charles-Pinckney-National-Historic-Site-Charleston-Sc.jpg"><img src="/images/Charles-Pinckney-National-Historic-Site-Charleston-Sc.jpg" alt="" /></a></figure>
 
 #### [Charles Pinckney National Historic Site](/go/charles-pinckney-national-historic-site-charleston-sc/)
@@ -317,9 +266,6 @@ Built in 1825, this beautiful historic Charleston home, sits right on the Charle
 Charles Pinckney was one of America’s founding fathers, signers of the Constitution and was Governor of South Carolina. These 28-acres is what remains of Charles Pinckney’s once 715-acre plantation, known as Snee Farm. The home was purchased by his father in 1754 and Charles inherited the indigo and rice farm in 1782. It was sold in 1828 and those owners built the cute coastal-country cottage that sits on the property now. Today, you can take a self-guided tour of the property and exhibits or participate in the Ranger Program.
 
 [See photos, reviews &amp; more](/go/charles-pinckney-national-historic-site-charleston-sc/)
-
-
-
 
 <figure><a href="/images/colonial-dorchester-charleston-sc.jpg"><img src="/images/colonial-dorchester-charleston-sc.jpg" alt="" /></a></figure>
 
@@ -331,9 +277,6 @@ This 1697 settlement was abandoned at the start of the Revolutionary War, but st
 
 [See photos, reviews &amp; more](/go/colonial-dorchester-state-historic-site-charleston-sc/)
 
-
-
-
 <figure><a href="/images/drayton-hall-charleston-sc.jpg"><img src="/images/drayton-hall-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Drayton Hall](/go/drayton-hall-charleston-sc/)
@@ -343,9 +286,6 @@ This 1697 settlement was abandoned at the start of the Revolutionary War, but st
 Known as “nothing less than a palace and gardens,” by the South Carolina Gazette, Drayton Hall has always been an impressive 1750’s estate that we all can enjoy and learn from today. The property was mostly run and maintained by the enslaved and by the time phosphate mining became the main industry in the Lowcountry, the freedmen who worked the mines continued to live, raise families and maintain the estate. So this plantation was never abandoned. With the all-inclusive admission, you can tour the house, the Gates Gallery, the caretaker’s house, the gardens and landscapes and the 18-century African American cemetery. Kids can play the I Spy Game, provided at the shop, during the tour to keep them entertained.
 
 [See photos, reviews &amp; more](/go/drayton-hall-charleston-sc/)
-
-
-
 
 <figure><a href="/images/Fort-Moultrie-National-Monument-charleston-sc.jpg"><img src="/images/Fort-Moultrie-National-Monument-charleston-sc.jpg" alt="" /></a></figure>
 
@@ -357,9 +297,6 @@ This was the first fort on Sullivan’s Island, made of just logs and sand. Alth
 
 [See photos, reviews &amp; more](/go/fort-moultrie-charleston-sc/)
 
-
-
-
 <figure><a href="/images/heyward-washington-house-charleston-sc.jpg"><img src="/images/heyward-washington-house-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Heyward-Washington House](/go/heyward-washington-house-charleston-sc/)
@@ -370,10 +307,6 @@ This historic house museum was built in 1772 and was home to the fourth Declarat
 
 [See photos, reviews &amp; more](/go/heyward-washington-house-charleston-sc/)
 
-
-
-
-
 #### [Joseph Manigault House](/go/joseph-manigault-house-charleston-sc/)
 
 * 350 Meeting St, Charleston, SC 29403*
@@ -381,9 +314,6 @@ This historic house museum was built in 1772 and was home to the fourth Declarat
 This is the historic home of Joseph Manigault, built in 1803. The Manigaults were French Huguents and fled France in the 1600’s and became successful rice planters and merchants in America. This home was designed by Joseph’s brother, Gabriel,&nbsp; who studied architecture in London and is the first home in Charleston to be built in the Adam-style architecture. The home was almost torn down to put in a gas station, but was luckily saved and now a national landmark.
 
 [See photos, reviews &amp; more](/go/joseph-manigault-house-charleston-sc/)
-
-
-
 
 <figure><a href="/images/magnolia-cemetery-charleston-sc.jpg"><img src="/images/magnolia-cemetery-charleston-sc.jpg" alt="" /></a></figure>
 
@@ -395,9 +325,6 @@ This historic cemetery was established in 1850 and is the oldest public cemetery
 
 [See photos, reviews &amp; more](/go/magnolia-cemetery-charleston-sc/)
 
-
-
-
 <figure><a href="/images/circular-congregational-church-charleston-sc.jpg"><img src="/images/circular-congregational-church-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Circular Congregational Church](/go/circular-congregational-church-charleston-sc/)
@@ -407,9 +334,6 @@ This historic cemetery was established in 1850 and is the oldest public cemetery
 This church was founded in 1681 as a free church for all those who wished to come and worship. They were known as Presbyterians, Congregationalists and Independents and included English, Welsh, Scottish and French. The church was taken over by the British during the Revolution as was used as a British hospital and warehouse. In 1804 the church was expanded and a circular design was implemented and stood out as an extraordinary building. The congregation started as progress church in 1681 and continues to be very progressive and inclusive. They stood up for integration in the church during the 1960’s, they have fully embraced the LBGTQ+ community and are committed to environmental sustainability. It is a wonderful place to visit with a beautiful historical cemetery to explore.
 
 [See photos, reviews &amp; more](/go/circular-congregational-church-charleston-sc/)
-
-
-
 
 <figure><a href="/images/Morris-Island-Lighthouse-charleston-sc.jpg"><img src="/images/Morris-Island-Lighthouse-charleston-sc.jpg" alt="" /></a></figure>
 
@@ -421,10 +345,6 @@ This historical lighthouse is actually the third lighthouse on this site, built 
 
 [See photos, reviews &amp; more](/go/morris-island-lighthouse-charleston-sc/)
 
-
-
-
-
 #### [Old Exchange and Provost Dungeon](/go/old-exchange-provost-dungeon-charleston-sc/)
 
 * 122 E Bay St, Charleston, SC 29401*
@@ -433,10 +353,6 @@ This was the site of important Charleston business since 1771. It acted as a com
 
 [See photos, reviews &amp; more](/go/old-exchange-provost-dungeon-charleston-sc/)
 
-
-
-
-
 #### [The College of Charleston](/go/college-charleston-sc/)
 
 * 66 George St, Charleston, SC 29424*
@@ -444,9 +360,6 @@ This was the site of important Charleston business since 1771. It acted as a com
 This is the 13th oldest university in the United States and the oldest municipal college, established in 1770. Among the founders of the college were three signers of the Declaration of Independence and three signers of the United States Constitution. The main campus is located in downtown Charleston and is on the National Register of Historic Places. Not only is it a historic place to visit, it is a beautiful place too. In fact, it has been voted by several media outlets at one of the most beautiful campuses and as having the most beautiful landscapes. It has also been used as the backdrop to many films and television shows.
 
 [See photos, reviews &amp; more](/go/college-charleston-sc/)
-
-
-
 
 <figure><a href="/images/historic-dock-street-theater-charleston-sc.jpg"><img src="/images/historic-dock-street-theater-charleston-sc.jpg" alt="" /></a></figure>
 
@@ -458,9 +371,6 @@ Located in the French Quarter of downtown Charleston, the current structure of t
 
 [See photos, reviews &amp; more](/go/historic-dock-street-theater-charleston-sc/)
 
-
-
-
 <figure><a href="/images/The-Powder-Magazine-Charleston-SC.jpg"><img src="/images/The-Powder-Magazine-Charleston-SC.jpg" alt="" /></a></figure>
 
 #### [The Powder Magazine](/go/powder-magazine-charleston-sc/)
@@ -471,10 +381,7 @@ The Powder Magazine was gunpowder magazine from 1713 through the Revolutionary W
 
 [See photos, reviews &amp; more](/go/powder-magazine-charleston-sc/)
 
-
-
 ## Parks and hiking near Charleston
-
 
 <figure><a href="/images/folly-beach-charleston-sc.jpg"><img src="/images/folly-beach-charleston-sc.jpg" alt="" /></a></figure>
 
@@ -483,9 +390,6 @@ The Powder Magazine was gunpowder magazine from 1713 through the Revolutionary W
 Folly Beach is actually a town located in Folly Island and is known for expansive beaches and wildlife. There are a number of nature-based activities to participate in, including kayaking, paddle-boarding, surfing, boating and fishing. Picnicking is a popular pastime on Folly Beach and you can even camp if you really want to bask in the island life.
 
 [See photos, reviews &amp; more](/go/folly-beach-charleston-sc/)
-
-
-
 
 <figure><a href="/images/charleston-outdoor-adventures-charleston-sc.jpg"><img src="/images/charleston-outdoor-adventures-charleston-sc.jpg" alt="" /></a></figure>
 
@@ -497,9 +401,6 @@ If you are looking to explore the waters of Charleston, then you will love what 
 
 [See photos, reviews &amp; more](/go/charleston-outdoor-adventures-charleston-sc/)
 
-
-
-
 <figure><a href="/images/kiawah-island-golf-resort-nature-tour-charleston-sc.jpg"><img src="/images/kiawah-island-golf-resort-nature-tour-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Kiawah Island Golf Resort Nature Tours](/go/kiawah-island-golf-resort-nature-tours-charleston-sc/)
@@ -509,9 +410,6 @@ If you are looking to explore the waters of Charleston, then you will love what 
 At the Kiawah Island Golf Resort Nature Tours, you get a land based wildlife experience. There are several tours available by van, by foot or by bikes. The Alligator Adventure, Back Island Birding and the Wildlife Photography Tour are all taken by van. The walking tours include a Gator Walk, Kiawah Creatures, Night Beach Walk, Pollination Exploration, Ocean Seining and Birding for Beginners. For bike riders, you can take a Historical Sunset Cycle or a Wildlife in the Wetlands ride. So whatever your speed, there is a tour right for you!
 
 [See photos, reviews &amp; more](/go/kiawah-island-golf-resort-nature-tours-charleston-sc/)
-
-
-
 
 <figure><a href="/images/bulls-island-ferry-charleston-sc.jpg"><img src="/images/bulls-island-ferry-charleston-sc.jpg" alt="" /></a></figure>
 
@@ -523,9 +421,6 @@ The Island Ferry takes you to the Cape Romain National Wildlife Refuge where you
 
 [See photos, reviews &amp; more](/go/bulls-island-ferry-charleston-sc/)
 
-
-
-
 <figure><a href="/images/cypress-gardens-charleston-sc.jpg"><img src="/images/cypress-gardens-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Cypress Gardens](/go/cypress-gardens-charleston-sc/)
@@ -535,9 +430,6 @@ The Island Ferry takes you to the Cape Romain National Wildlife Refuge where you
 What was once a part of 1750 Dean Hall Plantation, became a beautiful garden preserve in the 1930’s. This 170-acre preserve features a blackwater swamp surrounded with walking and boat trails. It is such a scenic location that it has been used in several major films, including The Notebook and The Patriot.
 
 [See photos, reviews &amp; more](/go/cypress-gardens-charleston-sc/)
-
-
-
 
 <figure><a href="/images/capers-island-heritage-preserve-charleston-sc.jpg"><img src="/images/capers-island-heritage-preserve-charleston-sc.jpg" alt="" /></a></figure>
 
@@ -549,9 +441,6 @@ This is a small undeveloped barrier island that contains several wildlife habita
 
 [See photos, reviews &amp; more](/go/capers-island-heritage-preserve-charleston-sc/)
 
-
-
-
 <figure><a href="/images/charleston-tea-garden-charleston-sc.jpg"><img src="/images/charleston-tea-garden-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Charleston Tea Garden](/go/charleston-tea-garden-charleston-sc/)
@@ -562,10 +451,7 @@ This unspoiled island is connected to Charleston by a single bridge. The sandy s
 
 [See photos, reviews &amp; more](/go/charleston-tea-garden-charleston-sc/)
 
-
-
 ## Kid-friendly Restaurants in Charleston
-
 
 <figure><a href="/images/family-restaurant-charleston-sc-washout-folly-beach.jpg"><img src="/images/family-restaurant-charleston-sc-washout-folly-beach.jpg" alt="" /></a></figure>
 
@@ -577,9 +463,6 @@ This is a fun and casual popular beach restaurant serving up southern seafood. T
 
 [See photos, reviews &amp; more](/go/washout-restaurant-charleston-sc/)
 
-
-
-
 <figure><a href="/images/Swamp-Fox-Restaurant-1920-charleston-family-restaurant.jpg"><img src="/images/Swamp-Fox-Restaurant-1920-charleston-family-restaurant.jpg" alt="" /></a></figure>
 
 #### [Swamp Fox Restaurant](/go/swamp-fox-restaurant-charleston-sc/)
@@ -589,9 +472,6 @@ This is a fun and casual popular beach restaurant serving up southern seafood. T
 Serving up award-winning shrimp and grits, Swamp Fox Restaurant is located in the Francis Marion Hotel overlooking Marion Square Park. The restaurant is more upscale, focusing on local Southern dishes sourced from local farms and fisheries. Serving breakfast, lunch and dinner, you can pop in at any time for a delicious meal in this historic 1920’s hotel restaurant named after the Revolutionary war hero Francis “Swamp Fox” Marion.
 
 [See photos, reviews &amp; more](/go/swamp-fox-restaurant-charleston-sc/)
-
-
-
 
 <figure><a href="/images/toast-of-charleston-sc-family-restaurant.jpg"><img src="/images/toast-of-charleston-sc-family-restaurant.jpg" alt="" /></a></figure>
 
@@ -603,9 +483,6 @@ Known for awesome breakfast, this spot is great for a meal anytime of day with t
 
 [See photos, reviews &amp; more](/go/toast-restaurant-charleston-sc/)
 
-
-
-
 <figure><a href="/images/mrs-roses-fine-food-cocktails-family-restaurant-charleston-sc.jpg"><img src="/images/mrs-roses-fine-food-cocktails-family-restaurant-charleston-sc.jpg" alt="" /></a></figure>
 
 #### [Mrs. Rose’s Fine Food and Cocktails](/go/mrs-rose-fine-food-cocktails-charleston-sc/)
@@ -616,15 +493,11 @@ This is a local favorite, serving Southern comfort food in a funky and cool atmo
 
 [See photos, reviews &amp; more](/go/mrs-rose-fine-food-cocktails-charleston-sc/)
 
-
-
 ## That's a Wrap!
 
 Charleston is an amazing city and I hope this list helps to make your trip extra special. If while you’re in town you need a place to stay, check out our article on the [best family hotels in Charleston](/best-family-hotels-charleston-south-carolina/).&nbsp; Have fun and happy travels!
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 **Like it? Pin it!**
 

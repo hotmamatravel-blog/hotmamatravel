@@ -12,7 +12,6 @@ wpSlug: "everglades-airboat-tour-kids"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 When you are visiting certain destinations there are some things you just have to do. For instance, zooming through swamp land on an Everglades airboat tour while in South Florida.
 
 [The Everglades is a unique and beautiful ecosystem](https://www.nps.gov/ever/planyourvisit/index.htm) that is home to a diverse array of plant and animal species. If you're looking for an adventure that your kids will never forget, taking an airboat tour through the Everglades is the perfect activity. Not only will your children be able to witness the beauty of the Everglades up close, but they'll also have the opportunity to learn about its history, ecology, and wildlife.
@@ -182,11 +181,7 @@ After our wonderful airboat adventure we headed off for grub and beers as I prom
 
 Papa and Grams actually thanked me for forcing them on the airboat. Even though everyone fought me on this activity, it turned out to be everyone's favorite! The kids had a blast and still talk about it to this day. Sometimes we just need a little adventure, and an airboat tour through the Everglades is a great one for kids and grandparents!
 
-
-
-## That's A Wrap!
-
-
+## That's a Wrap!
 
 An Everglades airboat tour is a perfect family adventure that offers a unique opportunity to explore the beauty and diversity of one of the world's most extraordinary ecosystems. The tour allows you to get up close with a wide range of wildlife, including alligators, turtles, and exotic birds, while enjoying the thrill of gliding across the water on a high-speed airboat.
 
@@ -203,8 +198,6 @@ Additionally, the tour provides an educational experience that helps you learn a
 - 👉 Check out my [**Best Glamping Sites in Florida**](/best-glamping-florida/) for your next unique adventure
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
-
-
 
 **Like it? Pin it!**
 

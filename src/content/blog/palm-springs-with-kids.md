@@ -12,7 +12,6 @@ wpSlug: "palm-springs-with-kids"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 The surrounding mountains are so close you feel as though you could reach out and touch them. I take in these spectacular views through a flashy pair of shades as I sip a crisp glass of white wine, lounging on one of the many restaurant patios that line Palm Canyon drive.
 
 The heat is dry, but not unbearable thanks to the cool refreshing spray of the abundant misters. We are in Palm Springs, baby!
@@ -32,7 +31,6 @@ If you are looking for a kid-friendly place to stay in Palm Springs, be sure to 
 **So let's do it, these are our all-time favorite things to do on a family trip to Palm Springs.**
 
 **Here's what's in this article**:
-
 
 ### Family attractions near Palm Springs
 
@@ -104,8 +102,6 @@ If you are looking for a kid-friendly place to stay in Palm Springs, be sure to 
 
 - [Moorten Botanical Garden](#moorten-botanical-garden)
 
-
-
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 ## Video: Here's how we do Palm Springs with kids
@@ -120,7 +116,6 @@ https://youtu.be/0QQGKHRlDkE
 
 &nbsp;
 
-
 <figure id="palm-springs-walk-of-stars"><img src="/images/DSCN2590-683x1024.jpg" alt="Palm Springs walk of fame" /></figure>
 
 #### [Palm Springs Walk of Stars](/go/palm-springs-walk-of-stars-palm-springs-ca/)
@@ -133,10 +128,6 @@ These stars are placed along the city's downtown area, allowing visitors and loc
 
 [See photos, reviews &amp; more](/go/palm-springs-walk-of-stars-palm-springs-ca/)
 
-
-
-
-
 #### [Agua Caliente Cultural Museum](/go/agua-caliente-cultural-museum-palm-springs-ca/)
 
 *219 S Palm Canyon Dr, Palm Springs, CA 92262 *
@@ -144,9 +135,6 @@ These stars are placed along the city's downtown area, allowing visitors and loc
 If you are interested in learning about the culture and history of the Palm Springs area, check out the Agua Caliente Cultural Museum. The museum celebrates the history as well as the present times of the Cahuilla Indians of the Coachella Valley. It features a diverse range of exhibits, artifacts, artwork, and interactive displays that provide insights into the tribe's ancestral heritage, language, customs, and ongoing cultural practices. Visitors to the museum can explore the exhibits that cover topics such as traditional arts and crafts, tribal governance, environmental stewardship, and the enduring resilience of the Agua Caliente community. The museum also hosts educational programs, lectures, and special events to foster cultural understanding and appreciation. What is also cool is that the museum is located on the site of the Agua Caliente Hot Mineral Spring.
 
 [See photos, reviews &amp; more](/go/agua-caliente-cultural-museum-palm-springs-ca/)
-
-
-
 
 <figure id="Cabazon-Dinosaurs-palm-springs"><img src="/images/DSCN2553-1024x683.jpg" alt="Cabazon Dinosaurs" /></figure>
 
@@ -158,9 +146,6 @@ The Cabazon Dinosaur Museum is one of the fun and quirky roadside attractions yo
 
 [See photos, reviews &amp; more](/go/cabazon-dinosaurs-palm-springs-ca/)
 
-
-
-
 <figure id="palm-springs-aerial-tramway"><a href="/images/palm-springs-aerial-tramway.jpg"><img src="/images/palm-springs-aerial-tramway.jpg" alt="" /></a></figure>
 
 #### [Palm Springs Aerial Tramway](/go/palm-springs-aerial-tramway-palm-springs-ca/)
@@ -171,10 +156,6 @@ Starting from the floor of the Coachella Valley and ending at the top of San Jac
 
 [See photos, reviews &amp; more](/go/palm-springs-aerial-tramway-palm-springs-ca/)
 
-
-
-
-
 #### [Living Desert Zoo and Gardens](/go/living-desert-zoo-gardens-palm-springs-ca/)
 
 *47900 Portola Ave, Palm Desert, CA 92260*
@@ -182,10 +163,6 @@ Starting from the floor of the Coachella Valley and ending at the top of San Jac
 The Living Desert Zoo and Gardens is a desert botanical garden and zoo dedicated to preserving and conserving various plant and animal life. Not only has it been a top Palm Springs attraction for nearly 50 years, the Living Zoo and Gardens is active in habitat protection, breeding programs and conservation research, which helps the local ecosystem as well as the efforts around the world. In addition, for cute animals to see and interact with there are lovely nature and hiking trails to help you enjoy the natural beauty of the Coachella Valley.
 
 [See photos, reviews &amp; more](/go/living-desert-zoo-gardens-palm-springs-ca/)
-
-
-
-
 
 #### [Palm Springs Air Museum](/go/palm-springs-air-museum-palm-springs-ca/)
 
@@ -195,9 +172,6 @@ This awesome aviation museum brings history to life and allows you to get up clo
 
 [See photos, reviews &amp; more](/go/palm-springs-air-museum-palm-springs-ca/)
 
-
-
-
 <figure id="palm-springs-pool"><img src="/images/DSCN1447.jpg" alt="palms springs resort pool with kids" /></figure>
 
 #### [Hotel and Resort Pools](/go/hotel-pools-palm-springs-ca/)
@@ -206,22 +180,15 @@ Palm Springs is hot, especially if you are visiting during the summer. Sometimes
 
 [See photos, reviews &amp; more](/go/hotel-pools-palm-springs-ca/)
 
-
-
-
-
 #### [Golfing](/go/golf-palm-springs-ca/)
 
 If you like to golf, then you will love Palm Springs as it is home to more than 100 renowned golf courses with over 300 days of sunshine to play. You can challenge yourself at any level from casual to advanced. Many of the beautifully manicured golf courses were designed by legends like Arnold Palmer, Pete Dye, Greg Norman and Jack Nicklaus. Even the PGA and LPGA play in Palm Springs during annual tournaments. If you are traveling with kids, many of the resorts actually offer special rates and family golf sessions.
 
 [See photos, reviews &amp; more](/go/golf-palm-springs-ca/)
 
-
-
 ## Family-Friendly Live Music in Palm Springs
 
 &nbsp;
-
 
 <figure id="las-casuelas-terraza-live-music-palm-springs"><img src="/images/las-casuelas-terraza-kids-eat-dinner.jpg" alt="Kids eating at Las Casuelas" /></figure>
 
@@ -237,10 +204,6 @@ Opening in 1958, this family owned restaurant goes back four generations. Still 
 
 <figure id="family-friendly-live-music-dancing-las-casuelas-palm-springs"><img src="/images/las-casuelas-terraza-family-friendly-live-music.jpg" alt="Family fun dancing in Palm Springs" /></figure>
 
-
-
-
-
 #### [Pete's Hideaway](/go/petes-hideaway-palm-springs-ca/)
 
 *665 S Palm Canyon Dr, Palm Springs, CA 92264*
@@ -248,10 +211,6 @@ Opening in 1958, this family owned restaurant goes back four generations. Still 
 Family owned and operated, Pete's Hideaway is a fun joint that offers classic comfort food favorites like spaghetti and meatballs, fish and chips and patty melts. They also have live music every night starting at 7:00 pm. Kids are welcomed to stay for the entertainment, making this a lively place to grab dinner with the family.
 
 [See photos, reviews &amp; more](/go/petes-hideaway-palm-springs-ca/)
-
-
-
-
 
 #### [Sammy G's Tuscan Grill](/go/sammy-gs-tuscan-grill-palm-springs-ca/)
 
@@ -261,14 +220,11 @@ Who doesn't love Italian food right? With a variety of yummy pizzas, salads, pas
 
 [See photos, reviews &amp; more](/go/sammy-gs-tuscan-grill-palm-springs-ca/)
 
-
-
 ## Palm Springs Family Resorts
 
 &nbsp;
 
 *Related:* [Read our full guide to these incredible resorts](/best-family-resorts-palm-springs/)
-
 
 <figure id="omni-rancho-las-palmas-family-resorts-palm-springs"><img src="/images/Omni-Rancho-Las-Palmas-Palm-Springs-Hotel.jpg" alt="Omni rancho las palmas resort" /></figure>
 
@@ -280,9 +236,6 @@ Omni Ranch Las Palmas is a desert paradise for parents and kids with over 240 ac
 
 [See photos, reviews &amp; more](/go/omni-rancho-las-palmas-palm-springs/)
 
-
-
-
 <figure id="js-marriott-desert-springs-resort-spa-family-resort-palm-springs"><img src="/images/JW-Marriott-Rancho-Mirage-family-resort.jpg" alt="Family Resort in Palm Springs JW Marriott" /></figure>
 
 #### [JW Marriott Desert Springs Resort &amp; Spa](/go/jw-marriott-desert-springs-palm-springs/)
@@ -292,9 +245,6 @@ Omni Ranch Las Palmas is a desert paradise for parents and kids with over 240 ac
 This luxury resort has two championship golf courses on the property, but the highlight at the JW Marriott are the scenic gondola rides along the resorts waterways. They even have an island filled with pink flamingos! To keep cool during hot days, the resort has 5 pools to choose from. Plus, there are several signature restaurants, luxury accommodations and plenty of activities to keep you family happy.
 
 [See photos, reviews &amp; more](/go/jw-marriott-desert-springs-palm-springs/)
-
-
-
 
 <figure id="family-resort-palm-springs-westin-mission-hills-golf-resort-spa"><img src="/images/westin-mission-hills-palm-springs-family-resort-1.jpg" alt="westin mission hills palm springs family resort" /></figure>
 
@@ -306,10 +256,6 @@ The Westin Mission Hills has tons of activities the whole family will love inclu
 
 [See photos, reviews &amp; more](/go/westin-mission-hills-palm-springs/)
 
-
-
-
-
 #### [Palm Canyon Resort](/go/palm-canyon-resort-spa-palm-springs-ca/)
 
 *2800 S Palm Canyon Dr, Palm Springs, CA 92264 *
@@ -317,9 +263,6 @@ The Westin Mission Hills has tons of activities the whole family will love inclu
 This fun family resort offers an activities department complete with basketball court. There is an adult pool as well as a kids' pool with a waterfall and water-slide. There is even cave whirlpool! The rooms are spacious for families and the resort is conveniently located near popular Palm Springs attractions.
 
 [See photos, reviews &amp; more](/go/palm-canyon-resort-spa-palm-springs-ca/)
-
-
-
 
 <figure><a href="/images/living-desert-starry-safari-family-glamping-palm-springs-ca.jpg"><img src="/images/living-desert-starry-safari-family-glamping-palm-springs-ca.jpg" alt="teepee glamping at living desert starry safari- palm springs glamping" /></a></figure>
 
@@ -331,12 +274,9 @@ Palm Springs' picturesque desert landscapes provide a unique backdrop for outdoo
 
 [See photos, reviews &amp; more](/glamping-palm-springs/)
 
-
-
 ## Kid-friendly Restaurants in Palm Springs
 
 &nbsp;
-
 
 <figure><img src="/images/lulu-1024x512.jpg" alt="Lulu Bistro Palm Springs" /></figure>
 
@@ -348,10 +288,6 @@ You can't miss Lulu's when walking down Palm Canyon Dr, because it literally spa
 
 [See photos, reviews &amp; more](/go/lulu-california-bistro-palm-springs-ca/)
 
-
-
-
-
 #### [Fisherman's Market &amp; Grill](/go/fishermans-market-grill-palm-springs-ca/)
 
 *235 South Indian Canyon Drive, Palm Springs, CA 92262*
@@ -360,10 +296,6 @@ This is the spot to go if you love fresh seafood. At the Fisherman's Market &amp
 
 [See photos, reviews &amp; more](/go/fishermans-market-grill-palm-springs-ca/)
 
-
-
-
-
 #### [Bill's Pizza](/go/bills-pizza-family-restaurants-palm-springs/)
 
 *119 S Indian Canyon Dr, Palm Springs, Greater Palm Springs, CA 92262*
@@ -371,10 +303,6 @@ This is the spot to go if you love fresh seafood. At the Fisherman's Market &amp
 Bill's Pizza in Palm Springs is a beloved family-friendly pizzeria that has been serving the community for over 30 years. Families are drawn to Bill's Pizza for several reasons. Firstly, their menu offers a wide selection of delicious pizzas with a variety of toppings, including vegetarian and vegan options, ensuring that there is something to please every family member's taste buds. The ability to customize pizzas allows families to tailor their orders to their individual preferences. In addition to pizzas, Bill's Pizza offers a kid-friendly menu with options like smaller-sized pizzas, chicken tenders, and pasta dishes, accommodating the palates of younger diners. The casual and welcoming atmosphere of the restaurant creates a comfortable setting for families to enjoy their meal together. Whether dining in or opting for takeout or delivery, Bill's Pizza provides a satisfying and enjoyable dining experience that appeals to families in Palm Springs.
 
 [See photos, reviews &amp; more](/go/bills-pizza-family-restaurants-palm-springs/)
-
-
-
-
 
 #### [Sherman's Deli &amp; Bakery](/go/sherman-deli-bakery-palm-springs/)
 
@@ -386,23 +314,15 @@ Additionally, Sherman's has a dedicated kids' menu with items like grilled chees
 
 [See photos, reviews &amp; more](/go/sherman-deli-bakery-palm-springs/)
 
-
-
 ## Palm Springs Parks and Hiking Trails
 
 &nbsp;
-
-
 
 #### [Tahquitz Canyon](/go/tahquitz-canyon-palm-springs-ca/)
 
 This canyon and lands have been inhabited by the Cahuilla Native Americans for over 2,000 years. There is a lot of mythical legends about Tahquitz and the canyon, but one thing is for sure, it is a beautiful two-mile hike that leads to Tahquitz Falls and back. You can visit the visitor center that has educational and cultural exhibits with artifacts on display, an observation deck, and theater where you can learn more about the legend of Tahquitz.
 
 [See photos, reviews &amp; more](/go/tahquitz-canyon-palm-springs-ca/)
-
-
-
-
 
 #### [Mount San Jacinto Peak State Park](/go/mount-san-jacinto-state-park-wilderness-idyllwild-ca/)
 
@@ -412,19 +332,11 @@ This is an advanced 10.5 mile hike that's trailhead starts at the Palm Springs A
 
 [See photos, reviews &amp; more](/go/mount-san-jacinto-state-park-wilderness-idyllwild-ca/)
 
-
-
-
-
 #### [Joshua Tree State Park](/go/joshua-tree-national-park-california/)
 
 This protected area of Southern California is best known for its twisted and bristled Joshua Trees. The hiking trails weave through the rugged rock formations and boulders in the Hidden Valley. For those of you who want to linger a little longer, check out our favorite [sites for](/glamping-joshua-tree-national-park/)[glamping in Joshua Tree](/glamping-joshua-tree-national-park/).
 
 [See photos, reviews &amp; more](/go/joshua-tree-national-park-california/)
-
-
-
-
 
 #### [Indian Canyons](/go/indian-canyons-palm-springs-ca/)
 
@@ -434,10 +346,6 @@ Indians Canyons are the ancestral home to the Agua Caliente Band of Cahuilla Ind
 
 [See photos, reviews &amp; more](/go/indian-canyons-palm-springs-ca/)
 
-
-
-
-
 #### [Moorten Botanical Garden](/go/moorten-botanical-garden-palm-springs-ca/)
 
 *1701 S Palm Canyon Dr, Palm Springs, CA 92264*
@@ -446,17 +354,13 @@ This 1-acre family-owned botanical garden is home to over 3,000 varieties of pla
 
 [See photos, reviews &amp; more](/go/moorten-botanical-garden-palm-springs-ca/)
 
-
+&nbsp;
 
 ## That's a Wrap!
-
-&nbsp;
 
 A magnificent desert landscape and Hollywood glamour unite to create one fabulous town that is truly one-of-a-kind. Palm Springs attracts a variety of people of all ages. From the young to old, from the wild to retired; it is hard to not fall in love with this little Californian retreat. The vibe is amazing, yet so relaxed that Palm Springs with kids is an absolute blast. Parents don’t have to feel left out of the nightlife just because they chose family travel. Kids are welcomed warmly, helping parents and yes, even grandparents to unwind. Once you visit for yourself, it is easy to understand why Palm Springs is so hot!
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 **Like it? Pin it!**
 

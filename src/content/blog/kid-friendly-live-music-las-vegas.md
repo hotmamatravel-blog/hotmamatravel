@@ -12,18 +12,13 @@ wpSlug: "kid-friendly-live-music-las-vegas"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Las Vegas is the capital of non-stop entertainment. Everywhere you look, there is something to see and do along [**the Las Vegas Strip**](/walking-las-vegas-strip/). Even mealtime is an event in Las Vegas, with many restaurants offering live music.
 
 Finding restaurants with live entertainment is a great way to enjoy Las Vegas night life with kids, making it one of our favorite things to do when taking a [**family trip to Las Vegas**](/las-vegas-with-kids/). Why have a boring meal when you can have dinner and a show all in one?
 
 So there are plenty of options, but to get you started here are our** **favorite kid-friendly live music Las Vegas restaurants.
 
-
-
 ## Top Kid Friendly Live Music Las Vegas Restaurants
-
-
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="nine-fine-irishmen-las-vegas"><figure><a href="/images/nine-fine-irishmen-las-vegas.jpg"><img src="/images/nine-fine-irishmen-las-vegas.jpg" alt="Kid friendly live music las vegas Nine Fine Irishmen" /></a></figure></div>
 
@@ -103,15 +98,11 @@ On top of all this, there is live music. Located in the bar area, you can expect
 
 **[See Photos, Reviews, &amp; More](/go/buddy-v-venetian-las-vegas/)**
 
-## That's a Wrap!
-
 I don't about you, but I am ready to book a trip to Vegas right now! All this talk about family-friendly restaurants in Las Vegas with live music has me hungry and itching to dance. So what are you waiting for? Let's make your next trip to Las Vegas with your family epic!
 
 Check out our other [**Las Vegas with kids resources**](/family-friendly-vegas/), as well as more [**family travels throughout Nevada**](/nevada-family-travel/). Also, be sure to join my [**Las Vegas With Kids Facebook Group**](http://11. https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
 
 For more family destinations with rocking live music that's kid-friendly, check out my list of [**Nashville restaurants**](/kid-friendly-restaurants-nashville/) and **[Annapolis restaurants](/annapolis-live-music/)**.
-
-
 
 Like it? Pin it!
 

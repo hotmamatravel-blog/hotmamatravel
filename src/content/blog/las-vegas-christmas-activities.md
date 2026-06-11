@@ -12,18 +12,13 @@ wpSlug: "las-vegas-christmas-activities"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Las Vegas at Christmas is honestly *amazing* for families. Every December, the city turns into a full-blown winter playground with holiday-themed shows, over-the-top attractions, twinkly light displays, magical pop-ups, festive hotels, and enough kid-friendly fun to keep your little elves buzzing like they just chugged hot cocoa.
 
 If you’re planning your first holiday trip to Vegas, start by checking out my **[Las Vegas with Kids guide](/las-vegas-with-kids/)** for the basics. And if you’re wondering whether December is the right time to go (spoiler: it’s one of my *favorite* times), hop over to my article on the **[best time of year to visit Las Vegas](/best-time-of-year-to-go-to-las-vegas/)**.
 
 And because Christmas should be more than just a one-day present palooza. I've got a whole list **[Christmas family travel](/christmas-getaways-for-families/)** ideas I know you will love. But first, I’m about to break down the *best* Las Vegas Christmas activities for kids and the ones you absolutely shouldn’t miss. Let’s sleigh this thing.
 
-
-
 ## Christmas-Themed Vegas Shows
-
-
 
 <div class="wp-block-uagb-image uagb-block-4c8d9ef1 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/tournament-of-kings-las-vegas-dinner-show-packages.jpg"><img src="/images/tournament-of-kings-las-vegas-dinner-show-packages.jpg" alt="Tournament of Kings at Excalibur family las vegas show" /></a></figure></div>
 
@@ -99,11 +94,7 @@ If you want something totally different from the usual Christmas carol vibes, **
 
 [**Get Your Tickets Now!**](/go/blue-man-group-las-vegas-bov/)
 
-
-
 ## Las Vegas Christmas Activities
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t4Jw9PDCTt8?si=k3UndXcvpjRVm181&amp;start=370" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -157,11 +148,7 @@ The Upside Down gets festive too! The Stranger Things Store is a great way to sp
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wR7AxiMPw_o?si=Xqn5apGoGgp_69vd&amp;start=275" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## Las Vegas Christmas Hotels
-
-
 
 ### [Christmas Suite At Westgate](/go/westgate-hotel-las-vegas/)
 
@@ -191,11 +178,7 @@ Las Vegas at Christmas is truly a wonderland for families, and as you can see, t
 
 For even more ways to plan your ultimate Vegas holiday, join my [**Las Vegas With Kids Facebook Group! **](https://www.facebook.com/groups/lasvegaswithkidstips)
 
-## That's a Wrap!
-
 Also, check out my **[Las Vegas family travel guides](/family-friendly-vegas/)**, and if you’re dreaming of exploring beyond the Strip, head over to my **[Nevada family travel guide](/nevada-family-travel/)** for more kid-friendly adventures across the Silver State.
-
-
 
 Like it? Pin it!
 

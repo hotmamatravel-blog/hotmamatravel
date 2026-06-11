@@ -12,7 +12,6 @@ wpSlug: "tampa-to-st-petersburg-in-a-rental-car"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 When someone is visiting a beach destination such as Tampa, it’s common for them to stick to very few sites of interest, mostly those that are within walking distance of the hotel. This is fine if you don’t plan to get to know the city you’re visiting, but it means that you'll be losing out on a **ton **of amazing places that can completely change your perspective of a city or town.
 
 It all boils down to transportation - the more you can move within your destination, the more sites you can visit. You can even go to neighboring sites that aren’t necessarily in the city, and that’s a factor that many people tend to ignore when planning their trips.&nbsp;
@@ -102,7 +101,7 @@ Hot Tip: The [Tradewinds](/go/tradewinds-st-pete-expedia/)at St Pete Beach is ou
 
 <figure><img src="/images/tradewinds-st-pete-beach-review-guide-with-kids.png" alt="Hotel Review Tradewinds Island Grande St Pete Beach FL" /><figcaption>My kids LOVE this resort in St Pete Beach</figcaption></figure>
 
-### That's a Wrap!
+#
 
 <div class="uagb-separator-wrap">
 
@@ -111,8 +110,6 @@ Hot Tip: The [Tradewinds](/go/tradewinds-st-pete-expedia/)at St Pete Beach is ou
 ## That's a Wrap!
 
 And there you have it, next time you visit Tampa consider renting a car and making a little trip to the town of St Petersburg. Trust me, it´s worth it!
-
-
 
 **Like it? Pin it!**
 

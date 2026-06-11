@@ -12,14 +12,9 @@ wpSlug: "getting-around-las-vegas-without-a-car"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Are you planning a trip to** [Las Vegas with your kids](/las-vegas-with-kids/)** but worried about how to navigate the city without a car? Fear not! First, check out our post on [**how to get to Vegas**](/how-to-get-to-las-vegas/), if you haven't already. Second, Las Vegas is incredibly pedestrian-friendly and offers a variety of convenient transportation options perfect for families. Whether you're [**exploring the iconic Strip**](/las-vegas-strip-hotel-map/) or venturing off to some hidden gems, here’s your ultimate guide to getting around Las Vegas without a car.
 
-
-
 ## Las Vegas Monorail
-
-
 
 <div class="wp-block-uagb-image uagb-block-defd4698 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="map-free-las-vegas-monorail"><figure><a href="/images/map-free-las-vegas-monorail.jpg"><img src="/images/map-free-las-vegas-monorail.jpg" alt="map of free las vegas monorail" /></a><figcaption class="uagb-image-caption">Courtesy of LV Monorail</figcaption></figure></div>
 
@@ -79,11 +74,7 @@ Tickets can be purchased at any of the tram vending machines, located at the ent
 
 - MGM Grand District Station: Friday &amp; Saturday: 9 a.m.– 9 p.m.
 
-
-
 ## Free Las Vegas Trams
-
-
 
 In addition to the monorail, there are several free trams that connect key hotels and attractions. These simple and easy trams do not require any tickets to board and can be enjoyed with unlimited access.
 
@@ -93,11 +84,7 @@ In addition to the monorail, there are several free trams that connect key hotel
 
 - **Mirage (HardRock) - Treasure Island Tram:** Links The Mirage and Treasure Island.
 
-
-
 ## Walking The Las Vegas Strip
-
-
 
 <div class="wp-block-uagb-image uagb-block-1d5690e8 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="las-vegas-pedestrian-bridges"><figure><a href="/images/las-vegas-pedestrian-bridges.jpg"><img src="/images/las-vegas-pedestrian-bridges.jpg" alt="Las Vegas Pedestrian Bridges" /></a></figure></div>
 
@@ -163,19 +150,11 @@ Las Vegas is designed for easy pedestrian movement, with a network of inside tun
 
 </li>
 
-
-
 ## Las Vegas Taxis, Uber, And Lyft
-
-
 
 For times when you need to travel further distances or prefer a direct route, taxis and ride-sharing services like Uber and Lyft are readily available. **Taxis** can be easily hailed from hotel taxi stands or flagged down on the street. They’re a quick way to get to your destination without the hassle of parking. You can also call an **Uber or Lyft** by simply using the app to request a ride. These services are often more affordable than taxis and provide the convenience of cashless transactions. Many hotels have designated pick-up and drop-off points for ride-shares.
 
-
-
 ## Las Vegas RTC Buses
-
-
 
 The Regional Transportation Commission of Southern Nevada (RTC) operates an extensive bus system that's family-friendly and affordable.
 
@@ -189,11 +168,7 @@ Las Vegas is more than just a city for adults; it's a playground for families, t
 
 For more help planning the best Vegas family vacation ever, join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! It's a lot of fun.
 
-## That's a Wrap!
-
 Also, check out our other [**Las Vegas family travel guides**](/family-friendly-vegas/) as well as [**guides for exploring Nevada**](/nevada-family-travel/).
-
-
 
 Like it? Pin it!
 

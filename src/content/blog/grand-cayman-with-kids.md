@@ -85,6 +85,8 @@ As you can see, how you want to spend you day in Grand Cayman with kids is compl
 **Have you ever been to Grand Cayman?**
 
 **How would spend your day?**
+## That's a Wrap!
+
 
 **Like it? Pin it!**
 

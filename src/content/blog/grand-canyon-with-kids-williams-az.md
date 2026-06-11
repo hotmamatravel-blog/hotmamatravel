@@ -24,13 +24,9 @@ As the desert landscape slowly transitioned to Ponderosa Pine forest, the excite
 
 **See what it was like on our Route 66 family travel VLOG:**<div id="video-laptop"><iframe width="560" height="315" src="https://www.youtube.com/embed/UucHeWQJI0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>*Disclosure: We would like to thank and acknowledge **Best Western Hotels &amp; Resorts** for sponsoring our Route 66 family road trip and providing accommodations along the trip, including at the Best Western Plus Inn of Williams, for review. As always, all content and opinions are genuinely our own.*
 
-
 ## **Staying at the Best Western Plus Inn of Williams**
 
-
-
 ### **First Impressions**
-
 
 If you have ever traveled long distances with kids, you know what a relief it is to finally reach your destination. We were tired, hungry and ready to check in. As the automatic doors opened to the hotel the sweet tunes of what sounded like live music wafted through the lobby. If you know us or have seen much on our content, we are a little OBSESSED with live music. (See our favorite kid-friendly places with live music across the US [**HERE**](/top-kid-friendly-places-live-music-usa/)).
 
@@ -40,7 +36,6 @@ With my legs stiff and hair a *mess* from the long drive, I rushed towards the s
 
 ### **Love the Location**
 
-
 The Best Western Williams, AZ is located right off Interstate 40 along the historic Route 66, just about 5 minutes from downtown Williams. It is a great choice for those planning to ride the train from Williams Depot into the Southern Rim of the Grand Canyon (which we did and you can read more about below). *You can check rates read more reviews on Best Western's website* **[HERE](/go/best-western-plus-inn-williams/)**.
 
 ![Exterior of Best Western Williams Arizona](/images/best-western-inn-williams-az-exterior.jpg)
@@ -48,7 +43,6 @@ The Best Western Williams, AZ is located right off Interstate 40 along the histo
 We’ve also stayed at the Grand Canyon Railway hotel for the **[Polar Express Train](/polar-express-in-arizona/)**, but besides the convenience factor of being *at* Williams Depot, there are several reasons we’d actually prefer the Best Western Plus Inn of Williams (keep reading to find out why!). It is also a great family hotel near Bearizona, which is located just 10 minutes away (5 miles). Check rates [**HERE**](/go/best-western-plus-inn-williams/).
 
 ### **Western View Steakhouse**
-
 
 The Western View Steakhouse is the restaurant onsite at the Best Western Plus Inn of Williams. It is located right behind the main lobby on the other side of the grand dual fire place, with sweeping views of the Ponderosa Pine Forest.
 
@@ -72,11 +66,9 @@ If fact, we loved it so much that we changed our dinner plans the next night and
 
 ### **Kachina Lounge**
 
-
 Adjacent to the Western View Steakhouse, adorned with life-size Kachina statues, is the Kachina Lounge. The live music plays right between both the lounge and steakhouse, so guests who just want a drink can also enjoy the entertainment or the beautiful forest views. The Kachina Lounge also offers daily appetizer and drink specials, so it is definitely a fun place to hangout.
 
 ### **Other Amenities We Love**
-
 
 The **Business center/Computer Room** is located next to the Kachina lounge, which worked out great for us. We ended up making friends with another traveling family and the kids had fun watching YouTube videos together while we chatted with the parents.
 
@@ -98,7 +90,6 @@ See availability, more photos and reviews of BW Plus Inn of Williams [**HERE**](
 
 ## **Taking Grand Canyon Railway to the South Rim **
 
-
 The historic Williams Depot, built in 1901, is located less than a mile down the road from the Best Western Plus Inn of Williams, which made it super convenient to make the 9:30 train for our perpetually late family.
 
 We *love* trains, so we were really excited to take The Grand Canyon Railway for a two hour journey to the South Rim of the Grand Canyon National Park.
@@ -117,10 +108,7 @@ We were on a budget and opted for the Pullman Car, which I have to say was fine.
 
 **Hot Tip:** During Christmastime, this same train transforms into the **[Polar Express](/polar-express-in-arizona/)** where you can ride the train with your kids in Christmas jammies while drinking hot chocolate and singing carols. It is boatloads of fun!
 
-
-
 ### **Things to do in Grand Canyon South Rim with kids       **
-
 
 First let me just say that the South Rim is absolutely gorgeous. We also lucked out on the weather - I mean, this might be my favorite photo we've taken of all time!
 
@@ -136,16 +124,11 @@ If you are coming by train, the train will let you off at the base of the histor
 
  	- Have a long leisurely lunch
 
-
-
 ### **Grand Canyon Restaurants**
-
 
 The Train arrives at the Grand Canyon Depot around 11:45AM, just in time for lunch. Now, some people don’t want to spend time at the Grand Canyon eating at a restaurant and for those people, there are a number of options.
 
 #### **Quick-Service Grand Canyon Restaurants**
-
-
 
  	- Bright Angel Bicycle Rental and Café
 
@@ -157,10 +140,7 @@ The Train arrives at the Grand Canyon Depot around 11:45AM, just in time for lun
 
  	- Maswik Food Court and Pizza Pub
 
-
-
 #### **Full-Service Grand Canyon Restaurants **
-
 
 **Arizona Room at The Bright Angel Lodge - **We are *not *those people. We thrive on a full, sit-down dining experience. Gratefully, our guide on the train, Breanna, told us about the Arizona Room at the Bright Angel Lodge. She told us that it was only restaurant that had a view of the Grand Canyon from *every* table and wasn’t overly expensive. She also warned that the dining room gets busy and there is often a wait. So thanks to her advice, we made a beeline for the Arizona Room as soon as the train arrived.
 
@@ -174,7 +154,6 @@ We took our time with lunch. We had a lovely table, fabulous food (I recommend t
 
 ### **After lunch...**
 
-
 We used our last couple hours to walk carefully along the South Rim of the Grand Canyon. Now, much of the rim in this area has guard rails, yet people still manage to fall to their deaths every year with two of them happening within a couple days of our visit. So please be careful while visiting the Grand Canyon with kids. As our guide told us, “you may be on vacation, but gravity still works here.”
 
 ![Family at Grand Canyon South Rim](/images/family-posing-grand-canyon-fun.jpg)
@@ -184,8 +163,6 @@ We told the kids they had to **hold onto an adult’s hand the whole time** and 
 All in all we had a great day with plenty of time to explore the magnificent Grand Canyon. When the time came to board the Grand Canyon Train, were ready to head back to our lovely hotel, Best Western Plus Inn of Williams, to have dinner and relax by the fire pit with live music.
 
 ### **Quick Tips for Visiting The Grand Canyon South Rim with Kids**
-
-
 
  	- Drink plenty of water due to high elevation.
 
@@ -199,11 +176,9 @@ All in all we had a great day with plenty of time to explore the magnificent Gra
 
  	- If taking The Train, don’t venture too far from depot as the train departs at 3:30PM with or without you.
 
-
 **![Funny kids at Grand Canyon](/images/south-rim-grand-canyon-kids.jpg)**
 
 ### **The Grand Canyon Train Back to Williams, AZ**
-
 
 On the way back, the Grand Canyon train offers refreshments and provides entertainment to keep everyone awake after a brilliant day at the Grand Canyon.
 
@@ -215,8 +190,9 @@ The bandits boarded the train, the kids playfully screamed, waving dollars in th
 
 ## **That’s a Wrap**
 
-
 Overall, I couldn’t have asked for an easier family trip to the Grand Canyon. Honestly, staying the Best Western Plus Inn of Williams was one of our highlights of the trip. If you are planning a family trip the Grand Canyon, the Best Western Plus Inn of Williams is a great option (last chance to click and check rates real quick [**HERE**](/go/best-western-plus-inn-williams/)). It made visiting the Grand Canyon with kids so easy with its location convenient to the Grand Canyon Railway and complimentary breakfast. Add in the fire pit, live music and great onsite restaurant, we can’t wait to go back and stay again.
+## That's a Wrap!
+
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 

@@ -11,11 +11,9 @@ wpSlug: "glamping-colorado"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Colorado is the state you want to go to if you are looking for a big adventure! White water rafting, hiking, fishing, and an abundance of farm-to-table dining - the excitement never ends in Colorado.&nbsp;
 
 If you are looking to up the ante on your adventure, definitely consider glamping in Colorado. Colorado glamping will allow you to experience the great outdoors, but with the comforts of resort amenities. For your convenience, we have picked out some amazing Colorado glamping sites that I think you will love!&nbsp;&nbsp;
-
 
 <figure id="echo-canyon-campground-glamping-colorado"><a href="/images/echo-canyon-campground-glamping-colorado.jpg"><img src="/images/echo-canyon-campground-glamping-colorado.jpg" alt="" /></a></figure>
 
@@ -31,9 +29,6 @@ The spacious accommodations, complete with multiple bedrooms and modern amenitie
 
 [See photos, reviews &amp; more](/go/echo-canyon-campground-glamping-colorado/)
 
-
-
-
 <figure id="arapaho-valley-ranch-tipi-glamping-colorado"><a href="/images/arapaho-valley-ranch-tipi-glamping-colorado.jpg"><img src="/images/arapaho-valley-ranch-tipi-glamping-colorado.jpg" alt="" /></a></figure>
 
 #### [Arapaho Valley Ranch](/go/arapaho-valley-ranch-glamping-colorado/)
@@ -47,9 +42,6 @@ At Arapaho Valley Ranch your family has the option to experience the great outdo
 Onsite, you have access to the Lodge House that is home to Colorado’s smallest bar, The Red Dog Saloon, as well as two living rooms for relaxing by the fireplace. There is also an onsite Trout pond, great for beginner fishermen and Arapaho Valley Ranch offers free canoe rentals for guests to use on Little Indian Lake. Located in Grand County and just two hours from Denver, the ranch is surrounded by the Arapaho National Forest, which means this Colorado glamping site has plenty of hiking trails to explore.
 
 [See photos, reviews &amp; more](/go/arapaho-valley-ranch-glamping-colorado/)
-
-
-
 
 <figure id="dunton-river-camp-glamping-colorado"><a href="/images/dunton-river-camp-glamping-colorado.jpg"><img src="/images/dunton-river-camp-glamping-colorado.jpg" alt="" /></a></figure>
 
@@ -65,9 +57,6 @@ Onsite, each tent gets two bikes for exploring the campsite or taking on nearby 
 
 [See photos, reviews &amp; more](/go/dunton-river-camp-glamping-colorado/)
 
-
-
-
 <figure id="piney-river-ranch-glamping-colorado"><a href="/images/piney-river-ranch-glamping-colorado.jpg"><img src="/images/piney-river-ranch-glamping-colorado-1024x573.jpg" alt="" /></a></figure>
 
 #### [Piney River Ranch](/go/piney-river-ranch-glamping-colorado/)
@@ -81,9 +70,6 @@ Located on the banks of the Piney River, this Colorado glamping experience offer
 Onsite, you can enjoy the Lodge Restaurant &amp; Bar with a full-service menu featuring bbq specialities and salads. Camp activities include horsebacking, fly-fishing, canoeing, paddle boarding, hiking and more.&nbsp;&nbsp;
 
 [See photos, reviews &amp; more](/go/piney-river-ranch-glamping-colorado/)
-
-
-
 
 <figure id="collective-vail-tents-glamping-colorado"><a href="/images/collective-vail-tents-glamping-colorado.jpg"><img src="/images/collective-vail-tents-glamping-colorado.jpg" alt="" /></a></figure>
 
@@ -99,9 +85,7 @@ Onsite, you can enjoy any meal of the day at Three Peaks Lodge, including your c
 
 [See photos, reviews &amp; more](/go/collective-retreats-vail-glamping-colorado/)
 
-
-
-## That's A Wrap!
+## That's a Wrap!
 
 There’s no doubt that after reading about these amazing glamping Colorado sites that you want to get packing.&nbsp; Now the hard part, where do you choose to stay? Well, with so many great options, you can’t go wrong. If you love glamping and just can’t get enough, check out my glamping guides from other locations.
 
@@ -135,10 +119,7 @@ There’s no doubt that after reading about these amazing glamping Colorado site
 
 - [Glamping Upstate New York](/glamping-upstate-new-york/)
 
-
-
 **Like it? Pin it!**
 
 <figure id="5-best-tent-glamping-colorado"><a href="/images/5-best-tent-glamping-colorado.jpg"><img src="/images/5-best-tent-glamping-colorado-200x300.jpg" alt="" /></a></figure>
-
 

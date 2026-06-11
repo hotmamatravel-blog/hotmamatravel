@@ -10,13 +10,11 @@ wpSlug: "glamping-bay-area-near-san-francisco"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 The San Francisco Bay Area is an expansive area of Northern California stretching from San Francisco to Wine Country. This part of California offers rugged coastal areas and wilderness that make it perfect for getting out in nature for some Bay Area glamping!
 
 If you are looking for a unique place to lose yourself in nature, but don’t want to deal with the work of camping, check out our favorite Bay Area glamping sites.
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
-
 
 <figure id="family-glamping-bay-area-ca-safari-west"><a href="/images/family-glamping-bay-area-ca-safari-west.jpg"><img src="/images/family-glamping-bay-area-ca-safari-west.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Safari West</figcaption></figure>
 
@@ -31,9 +29,6 @@ Go on a luxury safari when you stay in an authentic safari glamping tent importe
 What is awesome about these luxurious safari tents and cottages is that they are located on the Safari West animal reserve. This gives guest access to exotic wild animals from around the world. So you get to sleep with the sounds of the safari right outside your tent! The safari also includes continental breakfast at the Savannah Cafe. Kids stay free the second night Sundays through Thursdays during fall. Just about 60 miles from San Francisco, Safari West is the best of bay area glamping.
 
 [See photos, reviews &amp; more](/go/safari-west-glamping-bay-area-ca/)
-
-
-
 
 <figure id="glamping-bay-area-ca-autocamp-russian-river"><a href="/images/glamping-bay-area-ca-autocamp-russian-river.jpg"><img src="/images/glamping-bay-area-ca-autocamp-russian-river.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of AutoCamp Russian River</figcaption></figure>
 
@@ -55,9 +50,6 @@ The Premium Accessible Suites sleep up to three adults or two adults and two kid
 
 [See photos, reviews &amp; more](/go/autocamp-russian-river-glamping-bay-area-ca/)
 
-
-
-
 <figure id="bay-area-glamping-mendocino-grove-ca"><a href="/images/bay-area-glamping-mendocino-grove-ca.jpg"><img src="/images/bay-area-glamping-mendocino-grove-ca.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Mendocino Grove</figcaption></figure>
 
 #### [Mendocino Grove](/go/mendocino-grove-glamping-bay-area-ca/)
@@ -74,9 +66,6 @@ The Family Tents are grouped together near the Meadow, where kids can play and d
 
 [See photos, reviews &amp; more](/go/mendocino-grove-glamping-bay-area-ca/)
 
-
-
-
 <figure id="costanoa-lodge-camp-family-glamping-bay-area-ca"><a href="/images/costanoa-lodge-camp-family-glamping-bay-area-ca.jpg"><img src="/images/costanoa-lodge-camp-family-glamping-bay-area-ca.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Costanoa Lodge and Camp</figcaption></figure>
 
 #### [Costanoa Resort San Mateo](/go/costanoa-resort-glamping-bay-area-ca/)
@@ -90,9 +79,6 @@ Costanoa Resort is known as a coastal eco-adventure resort located on historical
 There are a variety of accommodation options at Costanoa. There are the&nbsp;39 room North and South Lodges that feature luxury accommodations with either a king bed and sleeper sofa or two double beds as well as mini-fridges, coffee-makers and private bathrooms. The Cabins have a variety of sleeping options with some sleeping up to seven people, as well as a half bath or full bathrooms, private back deck, fireplaces, and kitchenettes. The Tent Bungalows are canvas glamping tents that sleep anywhere from two to six guests with queen beds and bunk beds to accommodation families. The tents include electricity, linens, towels, firepits, Adirondack chairs and picnic tables.
 
 [See photos, reviews &amp; more](/go/costanoa-resort-glamping-bay-area-ca/)
-
-
-
 
 <figure id="family-glamping-wildhaven-sonoma-ca"><a href="/images/family-glamping-wildhaven-sonoma-ca.jpg"><img src="/images/family-glamping-wildhaven-sonoma-ca.jpg" alt="" /></a><figcaption class="wp-element-caption">Courtesy of Wildhaven Sonoma</figcaption></figure>
 
@@ -109,8 +95,6 @@ There are a variety of tent options for sleeping two to four people. In the sing
 The Riverside Cabins are more secluded than the main tent area and the Premium Tents offer a few more amenities. All tents come with linens, towels and electricity. Not all tents have fire pits, so be sure to check before booking.
 
 [See photos, reviews &amp; more](/go/wildhaven-sonoma-glamping-bay-area-ca/)
-
-
 
 ## That's a Wrap!
 
@@ -151,8 +135,6 @@ If you love glamping or are looking for a new way to travel, check out our other
 Have fun Glamping!
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 **Like it? Pin it!**
 

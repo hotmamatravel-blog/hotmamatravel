@@ -150,6 +150,8 @@ Edinburgh Castle is gorgeous and worth seeing. Although it wasn’t as kid-frien
 **If not would you like too? **
 
 **If so, what was your favorite part and what tips do you have for others?**
+## That's a Wrap!
+
 
 **Like it? Pin it!**
 

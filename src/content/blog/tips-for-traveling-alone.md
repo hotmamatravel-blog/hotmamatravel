@@ -11,7 +11,6 @@ wpSlug: "tips-for-traveling-alone"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Interested in going on a solo adventure? Good! There’s a lot to be said for it. While it can be nice to travel with friends and family, you’ll have a whole different experience when you go exploring by yourself, one that can have a profoundly positive impact on your confidence and self-esteem.
 
 Of course, traveling alone does present its own challenges. It takes more preparation, a different mindset, and it’s unlikely that it’ll be [fun every single second](/travel-tips-to-make-your-next-adventure-memorable/). But in the end, it’ll be worth it.&nbsp;
@@ -58,16 +57,9 @@ If you’re going into unfamiliar terrain (say, a rural area) then it’s recomm
 
 Finally, if you’re going to travel by yourself, then enjoy it! There are advantages to traveling with friends and family, but there are downsides, too. For instance, you’ll have to do what other people want to do from time to time. When you’re exploring by yourself, you can do absolutely anything you want. Want to visit your favorite taco spot three times a day? You can. Want to spend an entire day at an art gallery? There’s no one to tell you that you can’t.
 
-## That's a Wrap!
-
 So throw yourself into it all. We’re sure you’ll have a great time, and, in fact, that traveling by yourself becomes a preferred option!&nbsp;
-
-
 
 Like it? Pin it!
 
 <figure id="tips-solo-travel"><a href="/images/8-tips-solo-travel.jpg"><img src="/images/8-tips-solo-travel-200x300.jpg" alt="Tips for Traveling Solo" /></a></figure>
-
-
-
 

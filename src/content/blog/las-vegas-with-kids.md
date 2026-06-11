@@ -11,7 +11,6 @@ wpSlug: "las-vegas-with-kids"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Las Vegas with kids might surprise you in the best way. Beyond the casinos and nightlife, Vegas is packed with family-friendly hotels, kid-approved shows, interactive attractions, pools, restaurants, and even free things to do.
 
 I’ve been visiting Las Vegas since I was a kid myself, and now I explore it regularly with my four children, from babies to teens. This guide brings together **everything families need to know** to plan an unforgettable Vegas vacation with kids, all in one place.
@@ -24,6 +23,8 @@ View this article as a Google Web Story: [Las Vegas with Kids Guide](/web-storie
 
 <nav class="wp-block-stackable-table-of-contents stk-block-table-of-contents stk-block stk-e671825" data-block-id="e671825"><style>.stk-e671825 {border-style:solid !important;border-color:#ff0000 !important;border-top-width:2px !important;border-right-width:2px !important;border-bottom-width:2px !important;border-left-width:2px !important;}</style>
 Table of Contents
+## That's a Wrap!
+
 - [Where to Stay in Las Vegas With Kids](#where-to-stay-in-las-vegas-with-kids)
 - [Things to Do with Kids](#things-to-do-with-kids)
 - [Shows &amp; Entertainment](#shows-entertainment)
@@ -40,8 +41,6 @@ Table of Contents
 <div class="wp-block-ugb-heading ugb-heading ugb-915b6e9 ugb-main-block" id="where-to-stay-in-las-vegas-with-kids"><style>.ugb-915b6e9 .ugb-heading__title{text-align:center}.ugb-915b6e9 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-915b6e9 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Where to Stay in Las Vegas With Kids
-
-
 
 A curated breakdown of the most family-friendly places to stay in Las Vegas, including resorts, suites, and budget options that actually work with kids.
 
@@ -73,8 +72,6 @@ A visual guide to where hotels are located on the Las Vegas Strip so families ca
 
 ## Things to Do with Kids
 
-
-
 ### [Free Things to Do in Las Vegas with Kids](/free-family-activities-las-vegas/)
 
 Yes, Vegas has free family fun. These activities keep kids entertained without wrecking your vacation budget. One of our favorites is seeing the [Silverton Mermaids](https://silvertoncasino.com/hotel/aquarium-mermaid-show/).
@@ -90,8 +87,6 @@ Teens are tough to impress. Vegas makes it easy with high-energy attractions, im
 <div class="wp-block-ugb-heading ugb-heading ugb-2712a18 ugb-main-block" id="shows-entertainment"><style>.ugb-2712a18 .ugb-heading__title{text-align:center}.ugb-2712a18 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-2712a18 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Shows &amp; Entertainment
-
-
 
 ### [Best Las Vegas Shows for Families](/las-vegas-shows-for-kids/)
 
@@ -113,8 +108,6 @@ Save money and simplify planning with family-friendly dinner-and-show combos kid
 
 ## Pools &amp; Play
 
-
-
 ### [Best Family Pools in Las Vegas](/best-family-pools-in-vegas/)
 
 Lazy rivers, wave pools, waterfalls, and splash zones. These Vegas pools are basically water parks for families.
@@ -126,8 +119,6 @@ Classic arcades, VR gaming, esports, and indoor fun for kids and teens, perfect 
 <div class="wp-block-ugb-heading ugb-heading ugb-6388230 ugb-main-block" id="seasonal-spooky-fun"><style>.ugb-6388230 .ugb-heading__title{text-align:center}.ugb-6388230 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-6388230 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Seasonal &amp; Spooky Fun
-
-
 
 ### [Halloween Activities in Las Vegas](/halloween-for-kids-in-las-vegas/)
 
@@ -145,8 +136,6 @@ Spooky but kid-appropriate hotels with fascinating ghost stories, haunted histor
 
 ## Where to Eat with Kids
 
-
-
 ### [Best Las Vegas Family Restaurants with Live Music](/kid-friendly-live-music-las-vegas/)
 
 Dinner meets entertainment at these live-music restaurants that keep kids engaged and parents happy.
@@ -163,8 +152,6 @@ Yes, you can do celebrity dining with kids. These restaurants are fun, approacha
 
 ## Beyond the Strip
 
-
-
 ### [Unforgettable Road Trips from Las Vegas](/3-day-road-trips-from-las-vegas/)
 
 Turn your Vegas vacation into a bigger adventure with epic family road trips to national parks and Route 66 towns.
@@ -180,8 +167,6 @@ Explore Old West history with kid-friendly ghost towns just a short drive from L
 <div class="wp-block-ugb-heading ugb-heading ugb-e997083 ugb-main-block" id="planning-tips"><style>.ugb-e997083 .ugb-heading__title{text-align:center}.ugb-e997083 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-e997083 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Planning &amp; Tips
-
-
 
 ### [Best Time of Year to Visit Las Vegas with Kids](/best-time-of-year-to-go-to-las-vegas/)
 
@@ -203,8 +188,6 @@ Real questions parents ask about Vegas with kids, answered clearly and honestly.
 
 ## Special Travel Situations
 
-
-
 ### [Las Vegas with Baby Itinerary](/advice-las-vegas-with-baby-infant-itinerary/)
 
 A realistic, baby-friendly Vegas itinerary with naps, stroller routes, and parent-approved activities.
@@ -221,8 +204,6 @@ How to walk the Strip safely with kids, avoid chaos, and actually enjoy the expe
 
 ## Bonus: Check out our family travel videos
 
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=tbe9RbHGTRvKYymD&amp;list=PLBukqMU4IGfu6fpXsfo66W4aDbTJrV6Cb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Las Vegas isn’t just an adults-only destination; it’s a surprisingly fun and affordable place to visit with kids. With the right planning, flexible pacing, and family-friendly experiences, Vegas becomes a destination your whole crew will want to revisit year after year.
@@ -231,11 +212,7 @@ This guide brings together everything families need to plan a successful trip, f
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
 
-## That's a Wrap!
-
 Vegas with kids isn’t a compromise; it’s a win.
-
-
 
 Like it? Pin it!
 

@@ -152,8 +152,8 @@ There is a free Capilano Suspension Bridge shuttle. It picks up in various point
 ![](/images/Capilano-Free-Trolley-Ride.gif)
 
 ***Hot Tip:** The schedule and route changes from season to season, so be sure to check their site *[**HERE**](https://www.capbridge.com/visit/shuttle-service/)* for up-to-date information to catch the free Capilano Park shuttle.*
-
 ## That's a Wrap!
+
 
 I can not imagine anybody visiting Vancouver without spending a day at Capilano Suspension Bridge Park. It was definitely the highlight of our trip to Vancouver with kids and is one of the most unique and adventurous things we have done together as a family - and (as you know from reading our blog), we've done quite a bit (e.g. on our **[60 day road trip across US](/family-road-trip-across-us/)**). Needless to say, come rain or shine, you and your family will have an epic adventure at Capilano Park.
 

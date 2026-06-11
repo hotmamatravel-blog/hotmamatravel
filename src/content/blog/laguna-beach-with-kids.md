@@ -151,6 +151,8 @@ So, you feeling beachy? I don't know about you, but I’m pretty hungry after wr
 **Have you ever been to Laguna Beach? **
 
 **What are your favorite things to do and places to eat?**
+## That's a Wrap!
+
 
 **Like it? Pin it!**
 

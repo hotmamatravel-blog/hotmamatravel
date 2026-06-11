@@ -95,11 +95,11 @@ In the 1970’s the tavern was purchased by Redskins’ defensive lineman, Fran 
 
 With such a colorful history, it is no wonder that O’Brien’s Oyster Bar and Grillfish is thought to be haunted. I guess the atmosphere is so lively that even the dead refuse to give up the party. O’Brien’s has open mic night on Monday nights starting at 8:30 and a D.J on Friday and Saturday nights. Kids are welcomed to partake in the fun until 10:00pm.
 
-## That’s A Wrap!
-
 If you are like us and you travel with kids but still crave the excitement of a vibrant nightlife, then Annapolis live music scene is for you. I don’t know what it is about live music that enhances the travel experience, but it has become something special that we seek out repeatedly on the road. It really makes you feel in touch with the local spirit of a town or neighborhood. Annapolis is so beautiful, historic, and so full life. With so many restaurants with live music, you are sure to leave Annapolis with a song in your heart and beat in your step.
 
 *Want more like this?*
+## That's a Wrap!
+
 
 See our post on the best live music venues in Nashville with kids [**HERE**](/kid-friendly-restaurants-nashville/)
 

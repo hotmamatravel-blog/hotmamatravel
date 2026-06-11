@@ -12,16 +12,11 @@ wpSlug: "top-things-to-do-in-grass-valley-ca"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Grass Valley is a historic gold mining town in the Sierra Nevada foothills that is home to two of the richest mines in California history. The town was settled by miners from Cornwall, United Kingdom, in the 1850’s and still holds on to its Cornish heritage, reflected in its architecture, cuisine, and festivals. Located just an hour outside of Sacramento, California’s state capital, and 143 miles from San Francisco, Grass Valley makes for an excellent day trip for those traveling through California.
 
 In this article, I provide a list of things to do in [Grass Valley](https://www.visitcalifornia.com/places-to-visit/grass-valley/) to help you plan your next visit to California’s historic Gold Country.
 
-
-
 ## Grass Valley Attractions
-
-
 
 <figure id="empire-mine-state-park-cottage-grass-valley-ca"><a href="/images/empire-mine-state-park-cottage-grass-valley-ca.jpg"><img src="/images/empire-mine-state-park-cottage-grass-valley-ca.jpg" alt="Empire Mine Park Grass Valley" /></a></figure>
 
@@ -69,11 +64,7 @@ If you can’t get enough of California’s mining history, then take the short 
 
 [**See photos, reviews &amp; more**](/go/nevada-city-grass-valley-ca/)
 
-
-
 ## Hiking Trails near Grass Valley
-
-
 
 <figure id="union-hill-trails-grass-valley-ca"><a href="/images/union-hill-trails-grass-valley-ca.jpg"><img src="/images/union-hill-trails-grass-valley-ca.jpg" alt="Union Hill Trails Grass Valley" /></a></figure>
 
@@ -101,11 +92,7 @@ This is a high elevation and difficult 9.9 mile trail. Sharing a portion of the 
 
 [**See photos, reviews &amp; more**](/go/wolf-creek-trail-grass-valley-ca/)
 
-
-
 ## Restaurants in Grass Valley
-
-
 
 <figure id="golden-gate-saloon-restaurant-grass-valley-ca"><a href="/images/golden-gate-saloon-restaurant-grass-valley-ca.jpg"><img src="/images/golden-gate-saloon-restaurant-grass-valley-ca.jpg" alt="Golden Gate Saloon Grass Valley" /></a></figure>
 
@@ -145,11 +132,7 @@ Open for breakfast, lunch and dinner, Humpty Dumpty Kitchen is a fun and friendl
 
 [**See photos, reviews &amp; more**](/top-things-to-do-in-grass-valley-ca/)
 
-
-
 ## Hotels in Grass Valley
-
-
 
 <figure id="Holbrooke-hotel-grass-valley-ca"><a href="/images/Holbrooke-hotel-grass-valley-ca.jpg"><img src="/images/Holbrooke-hotel-grass-valley-ca.jpg" alt="Holbrooke Hotel Grass Valley" /></a></figure>
 
@@ -191,13 +174,9 @@ Conveniently located close to neighbor city, Nevada City, Gold Miner’s Inn put
 
 [**See photos, reviews &amp; more**](/go/gold-miners-inn-grass-valley-ca/)
 
-## That's a Wrap!
-
 Planning a Northern California adventure? While big cities like Sacramento often steal the spotlight, don’t skip the chance to explore charming small towns like Grass Valley. This historic Gold Rush town is packed with character, family-friendly attractions, cozy places to stay, and just the right amount of spooky charm to make the kids think they’ve stepped into an old western movie. Whether you stop for a day trip or turn it into a full weekend getaway, as we did, Grass Valley is one of those places that surprises you in the best way.
 
 If you’re planning more California family adventures, be sure to check out our other [**California travel guides**](/california-family-travel/), including our favorite Northern California road trip ideas and our guide to the [**best family-friendly hotels in San Francisco**](/best-family-hotels-san-francisco-with-great-amenities-and-locations/).
-
-
 
 Like it? Pin it!
 

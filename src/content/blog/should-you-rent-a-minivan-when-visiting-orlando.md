@@ -11,7 +11,6 @@ wpSlug: "should-you-rent-a-minivan-when-visiting-orlando"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Orlando
 is perhaps one of the most visited places in the United States, and for a good
 reason, it houses THE most famous theme parks in all the world, making it the
@@ -186,11 +185,11 @@ you to rest a bit after a day at the parks.&nbsp;
 
 <figure><img src="/images/child-sleeping-booster-seat.jpg" alt="Child sleeping in car" /></figure>
 
-## That's a Wrap
-
 <div class="uagb-separator-wrap">
 
 </div>
+
+## That's a Wrap!
 
 And there you have it, now it's up to you to decide which transport is the best for your trip. Let us know in the comments which one would you use?
 

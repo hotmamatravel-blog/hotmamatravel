@@ -12,7 +12,6 @@ wpSlug: "haunted-hotels-new-york"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 New York, the Empire State, is known for its bustling cities, iconic landmarks, and a rich history. But did you know it also boasts a collection of charming, historic hotels with a twist? Yes, you read that right, haunted hotels!
 
 Now, before you start imagining restless spirits causing chaos, let me assure you, these are not your typical spine-tingling haunts. Instead, these hotels offer a delightful blend of elegant accommodations, cool histories, and, yes, a sprinkle of ghostly encounters that add to their allure.
@@ -263,8 +262,6 @@ Hotel Utica is HotMamaTravel approved because it’s budget-friendly, family-com
 
 **[See Photos, Reviews, &amp; More](/go/hotel-utica-new-york/)**
 
-## That's a Wrap!
-
 As our journey through the haunted hotels of New York wraps up, one thing’s for sure: these places aren’t just about chasing shadows. They’re about stepping back in time, brushing shoulders with history, and soaking up the kind of stories you just can’t get from a regular hotel stay. For more family-friendly adventures across the city, check out our [**New York Family Travel guide**](/new-york-family-travel-2/).
 
 If your family’s ready to keep the spooky fun going, there are plenty more adventures waiting. Check out the [**best towns to celebrate the Halloween season**](/best-towns-for-halloween/) if you’re planning a fall getaway, or dive into our list of **[favorite haunted places to visit with kids](/best-haunted-places-with-kids/)** for ghostly fun the whole crew can handle. Craving more overnight chills? Don’t miss our picks for [**haunted hotels in other destinations**](/best-haunted-places-to-visit-for-families/) to fuel your next ghost-hunting road trip.
@@ -272,8 +269,6 @@ If your family’s ready to keep the spooky fun going, there are plenty more adv
 So, if you’re ready for a one-of-a-kind adventure that combines luxurious stays with a dash of mystery, don’t shy away from the spirits. Instead, embrace the enchantment of New York’s haunted hotels, where history, elegance, and just the right amount of eeriness come together to create an unforgettable family travel story. Happy ghost-hunting and happy travels!
 
 If Christmas is more your jam, then check out our favorite [**New York Christmas Hotels**](/best-christmas-hotels-in-nyc/) that go all out for the holidays!
-
-
 
 Like it? Pin it!
 

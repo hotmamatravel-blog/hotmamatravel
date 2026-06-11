@@ -69,6 +69,8 @@ This bar is legit and worth the hype if you are a fan of the show. The great par
 **What cocktail would like to try?**
 
 **Any GOT theories you'd like to share?**
+## That's a Wrap!
+
 
 **Like it? Pin it!**
 

@@ -12,13 +12,11 @@ wpSlug: "kid-friendly-wineries-in-sonoma"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Sonoma, California is a historic city and home to over 500 wineries. In Sonoma your family can enjoy an array of outdoor activities and historical sites like Mission San Francisco Solano and the Sonoma Barracks, but honestly, you can’t come to Sonoma without doing a little wine tasting. Happily, many Sonoma wineries are kid-friendly. So pack up the family and fill up those glasses!
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 <figure><a href="/go/vinarmour-luxury-wine-bag/"><img src="/images/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg" alt="Get your VinArmour wine travel case today" /></a></figure>
-
 
 <figure><a href="/images/Benziger-family-winery-family-friendly-sonoma.jpg"><img src="/images/Benziger-family-winery-family-friendly-sonoma.jpg" alt="" /></a></figure>
 
@@ -32,9 +30,6 @@ Taste the difference of biodynamic estate wines at Benziger Family Wineries. By 
 
 [See photos, reviews &amp; more](/go/benziger-family-winery-sonoma-ca/)
 
-
-
-
 <figure><a href="/images/family-pool-francis-ford-coppola-winery-sonoma.jpg"><img src="/images/family-pool-francis-ford-coppola-winery-sonoma.jpg" alt="" /></a></figure>
 
 #### [Francis Ford Coppola Winery](/go/francis-ford-coppola-winery-sonoma-ca/)
@@ -46,9 +41,6 @@ Family Friendly&nbsp; - Two&nbsp; Pools&nbsp; -&nbsp; Bocce Ball&nbsp; -&nbsp; B
 Wine tasting and swimming? Yes, while your kids are having a blast splashing in one of Coppola Winery’s gigantic pools, you can enjoy a lovely wine tasting. For even more comfort, rent a private pool cabin complete with a shower, towels and board games. Hungry? Grab a poolside lunch at the Pool Cafe. If you are a movie buff, you will love the movie gallery where memorabilia from Coppola’s films are on display. There are also a ton of fun and free outdoor games available to play, like Bocce Ball, to keep every age in your group entertained. Make a day of it with a delicious meal at Rustic, the onsite restaurant, featuring Coppola’s favorite meals from around the world. Before you go, check out the gift shop for some fun goodies to take home.&nbsp;
 
 [See photos, reviews &amp; more](/go/francis-ford-coppola-winery-sonoma-ca/)
-
-
-
 
 <figure><a href="/images/livestock-preston-farm-winery-sonoma.jpg"><img src="/images/livestock-preston-farm-winery-sonoma.jpg" alt="" /></a></figure>
 
@@ -62,9 +54,6 @@ Preston Farm &amp; Winery is a family-owned organic farm with diverse crops, lik
 
 [See photos, reviews &amp; more](/go/preston-farm-winery-sonoma-ca/)
 
-
-
-
 <figure><a href="/images/family-friendly-cline-cellars-sonoma.jpg"><img src="/images/family-friendly-cline-cellars-sonoma.jpg" alt="" /></a></figure>
 
 #### [Cline Family Cellars](/go/cline-family-cellars-sonoma-ca/)
@@ -77,9 +66,6 @@ Family owned and operated since 1982, Cline Family Cellars makes for a beautiful
 
 [See photos, reviews &amp; more](/go/cline-family-cellars-sonoma-ca/)
 
-
-
-
 <figure><a href="/images/family-friendly-buena-vista-winery-sonoma.jpg"><img src="/images/family-friendly-buena-vista-winery-sonoma.jpg" alt="" /></a></figure>
 
 #### [Buena Vista Winery](/go/buena-vista-winery-sonoma-ca/)
@@ -91,8 +77,6 @@ Family Friendly&nbsp; -&nbsp; Historical&nbsp; -&nbsp; Educational Kids Activiti
 What makes this kid-friendly winery in Sonoma so cool is that it is one of the oldest premium wineries in California, founded in 1857! It is even said to be haunted, which definitely adds to the fun. For the living guests, this California Historic Landmark is open Monday through Friday from 11:00 a.m. to 5:00 p.m. and opens an hour earlier on Saturday and Sundays. In addition to delicious wine, there are interactive activities for kids as well as guided tours with period actors. You can visit the old wine caves and the Historic Wine Tool Museum that is very entertaining. Some cool events include a living history fair that features live music and famous period characters like Mark Twain and more. The events at Buena Vista are always extra and the whole family it going to have a great time!
 
 [See photos, reviews &amp; more](/go/buena-vista-winery-sonoma-ca/)
-
-
 
 ## That's a Wrap!
 
@@ -109,8 +93,6 @@ For beer lovers, check out our list of kid-friendly breweries.
 [Kid-Friendly Breweries Temecula](/best-breweries-in-temecula-ca/)
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 **Like it? Pin it!**
 

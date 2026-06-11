@@ -12,7 +12,6 @@ wpSlug: "haunted-places-old-towne-orange-circle"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Old Towne Orange, better known to locals as Orange Circle, is a charming one-square-mile historic district built around the original 1888 plaza. Listed on the National Register of Historic Places, this area features Orange County’s oldest operating bank and soda fountain, and is one of the largest preserved historic districts in California.
 
 Today, Old Towne Orange thrives with antique stores, boutique shops, cute cafes, and some of the best restaurants in Orange County. *(If you’re planning a visit, don’t miss my full guide to [**things to do in Orange Circle**](/things-orange-circle-kids/) for family-friendly dining, shopping, and seasonal events.)*
@@ -119,19 +118,13 @@ Built in 1915, Rutabegorz was once the home of settlers Danny and Annie Crawford
 
 [**See photos, reviews &amp; more**](/go/rutabegorz-restaurant-old-towne-orange-circle/)
 
-
-
-## That's A Wrap!
-
-
+## That's a Wrap!
 
 So who is ready for a spirit day (or night) trip to Old Towne Orange Circle? If you would like more information about the haunted places mentioned in this article, I recommend taking a ghost walk with [**HauntedOC**](/go/haunted-oc-ghost-walk-tours-old-towne-orange/).
 
 If you love places that mix *family travel with a twist*, check out more of my favorite **[haunted places for families](/best-haunted-places-to-visit-for-families/)** that balance spooky and spectacular. Planning a SoCal getaway? Don’t miss my **[Orange County family travel guide](/orange-county-family-travel/)** packed with cool eats, quirky shops, and nearby adventures. Or, if you’re feeling extra ambitious, road trip your way through the state with my **[California family travel page](/california-family-travel/)**, where every stop has a story (and maybe a spirit or two).
 
 So go ahead — book that stay, explore the Circle, and see for yourself if the spirits are just stories… or something more.
-
-
 
 Like it? Pin it!
 

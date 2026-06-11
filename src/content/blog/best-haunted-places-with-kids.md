@@ -12,7 +12,6 @@ wpSlug: "best-haunted-places-with-kids"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Ever since I was a kid, I’ve been drawn to the dark and mysterious. I was that girl telling ghost stories by candlelight and spooking my cousins with makeshift séances. (Sorry, not sorry.)
 
 So, it’s no surprise that as a mom, I still chase that same eerie thrill—only now I bring my kids along for the ride. While most families plan trips around beaches and theme parks, we go looking for history, mystery, and a few friendly ghosts.
@@ -23,11 +22,7 @@ At **HotMamaTravel**, we specialize in *family travel with a twist* and [preppin
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-
-
 ## Best Haunted Prisons To Visit With Kids
-
-
 
 <figure><a href="/images/eastern-state-penitentiary-.jpg"><img src="/images/eastern-state-penitentiary-.jpg" alt="Eastern State Penitentiary " /></a></figure>
 
@@ -125,11 +120,7 @@ There are adult, junior, senior, and child pricing for tours. Kids 4 and under a
 
 **[See Reviews, Photos, &amp; More](/go/alcatraz-island-san-francisco/)**
 
-
-
 ## Haunted Houses, Theaters, &amp; More
-
-
 
 <figure><a href="/images/bird-cage-theatre-tombstone.jpg"><img src="/images/bird-cage-theatre-tombstone.jpg" alt="Bird Cage Theatre Tombstone AZ" /></a></figure>
 
@@ -273,11 +264,7 @@ There are also companies that provide a variety of ghost tours of Savannah, whic
 
 **[See Reviews, Photos, &amp; More](/best-haunted-places-with-kids/)**
 
-
-
 ## Favorite Haunted Hotels
-
-
 
 <figure><a href="/images/Queen-Mary-2.jpg"><img src="/images/Queen-Mary-2.jpg" alt="Fight to save the Queen Mary in Long Beach Ca" /></a></figure>
 
@@ -365,8 +352,6 @@ So whether your kids are little adventurers, history buffs, or amateur ghostbust
 
 [**See Reviews, Photos, &amp; More**](/go/windsor-hotel-americus-georgia/)
 
-## That's a Wrap!
-
 <blockquote></blockquote>
 
 Travel isn’t just about checking destinations off a list; it’s one of the best ways to teach your kids about the world. We’ve found that exploring **[haunted places with kids](/best-haunted-places-to-visit-for-families/)** adds an unforgettable twist to our family adventures, blending history, mystery, and just the right amount of goosebumps.
@@ -374,8 +359,6 @@ Travel isn’t just about checking destinations off a list; it’s one of the be
 We’re big believers in investing in family travel to spark curiosity, inspire learning, and strengthen our bond. Visiting these haunted historical sites has been one of the most fun (and surprisingly educational) trips we’ve ever taken, and I think your family will feel the same.
 
 So if theme parks and beach resorts have started to feel a little *been there, done that*, it’s time to mix things up. Go on a ghost hunt, walk through real history, and show your kids that adventure comes in many forms, even the spooky kind. My family’s hooked, and I bet yours will be too.
-
-
 
 Like it? Pin it!
 

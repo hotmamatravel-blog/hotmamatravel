@@ -12,7 +12,6 @@ wpSlug: "knotts-merry-farm"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 There’s nothing like a good old-fashioned country Christmas (or at least Southern California’s version of one). We love [**holiday-themed travel and events**](/christmas-getaways-for-families/) because everything becomes more beautiful, glittery, and twinkly. With all the different décor styles and modern colors used to celebrate the holidays these days, there’s something to be said about the comfort of tradition.
 
 Knott’s Berry Farm Christmas is classic merriment, complete with carolers, glittering trees, and even snow. Taking visitors back in time, [Knott’s Merry Farm](https://www.sixflags.com/knotts/events/merry-farm) brings Christmas to the Wild West with a decked-out Ghost Town and Santa’s Cabin. So cozy and beautiful, it’s a holiday event we never miss!
@@ -21,11 +20,7 @@ As Knott’s Annual Pass Holders, we come back year after year to soak up every 
 
 This article will give you all the tips and insider advice to make the most out of your merriment at Knott’s Merry Farm 2025, from festive shows and treats to the best spots for that perfect family photo under the twinkling lights.
 
-
-
 ## Things To Do At Knott's Merry Farm
-
-
 
 <div class="wp-block-uagb-image uagb-block-4297de9c wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure><a href="/images/Christmas-Craft-Village-Knotts-Merry-Farm-1.jpg"><img src="/images/Christmas-Craft-Village-Knotts-Merry-Farm-1.jpg" alt="Knott" /></a></figure></div>
 
@@ -75,11 +70,7 @@ By day, it’s cheerful and festive, and by night, it’s pure magic. The glow o
 
 From the thrill rides to the kiddie rides, every inch of Knott’s feels *wrapped and ready* for the holidays. It’s not just an amusement park anymore, it’s a full-on winter celebration, SoCal-style.
 
-
-
 ## Knotts Merry Farm Videos
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6lMuGGxtx80?si=GPiooo4MnlDqnH0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -87,11 +78,7 @@ From the thrill rides to the kiddie rides, every inch of Knott’s feels *wrappe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YPV1vV1xr30?si=hdHamOmb0Atdg7sX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## Knotts Merry Farm Holiday Drinks &amp; Eats
-
-
 
 <figure><a href="/images/Mrs.-Claus-Kitchen-Knotts-Merry-Farm.jpg"><img src="/images/Mrs.-Claus-Kitchen-Knotts-Merry-Farm.jpg" alt="Mrs. Claus Kitchen Knott" /></a></figure>
 
@@ -115,11 +102,7 @@ Knott’s Merry Farm truly captures the spirit of the season, with twinkling lig
 
 But the fun doesn’t stop once the holidays end! Knott’s keeps the excitement going all year long with other can’t-miss seasonal events like Knott’s Spooky Farm in the fall and **[Ghost Town Alive](/knotts-berry-farm-ghost-town-alive/)** in the summer — both packed with family-friendly fun, interactive entertainment, and that unique Knott’s personality we love.
 
-## That's a Wrap!
-
 If you’re planning a trip to the area, make sure to explore more **[family-friendly things to do in Buena Park](/buena-park-with-kids/)**, from theme parks and dining to hidden gems your whole crew will love. For even more trip ideas and planning tips, check out our **[Orange County with Kids Guide](/orange-county-family-travel/)** and **[California Family Travel Guides](/california-family-travel/)**, because adventure is always in season when you’re traveling HotMama-style.
-
-
 
 Like it? Pin it!
 

@@ -46,7 +46,5 @@ If you are serious about exercising as a family, the first thing to decide is th
 
 The importance of adequate nutrition and hydration must also be emphasized here, particularly for young growing children. Simply working out or engaging in physical activity without getting the right nutrients required for growth and development can have a negative impact on growing children. Similarly, working moms should also be aware of the nutrients they need to consume to maintain their bone density and muscle elasticity. It is advised to visit a dietitian to get a proper diet chart before beginning any new kind of diet.
 
-## That's a Wrap!
-
 As you adjust to your new family fitness routine, it is very important to listen to your body and take rest when you are feeling too overwhelmed. Remember that overexerting yourself will likely have no positive effect on you, in fact, it might cause muscle fatigue, which can invite a host of other problems for you. Let us know how you and your family stay fit and active!
 

@@ -11,7 +11,6 @@ wpSlug: "best-family-hotels-in-las-vegas"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 We love family vacations in Las Vegas, and we have [**learned a TON**](/las-vegas-with-kids/) over the years about&nbsp;doing [**Vegas with kids**](/las-vegas-with-kids/) the right way (even with [**babies**](/advice-las-vegas-with-baby-infant-itinerary/)!). We've stayed in all the best family hotels in Las Vegas. If *you* have never been to Vegas, I will warn you that there are so many choices when it comes to hotels that it is *really hard* to know which one to pick, especially because every family is different and has very specific needs and desires.
 
 And that is where expertise really comes in handy. *That is why I wrote this article,&nbsp;*to help families like yours find the best kid-friendly hotel in Las Vegas for YOUR family.
@@ -36,11 +35,7 @@ View this post as a Google Web Story: [**Best Hotels in Las Vegas for Families**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_6lMQpM-Me0?si=tHR4M1Rhaip6bWqH&amp;start=174" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## Reviews of Kid-Friendly Hotels on Las Vegas Strip
-
-
 
 <figure id="NYNY-kid-friendly-vegas-hotel-review"><a href="/images/NYNY-kid-friendly-vegas-hotel-review.jpg"><img src="/images/NYNY-kid-friendly-vegas-hotel-review.jpg" alt="New York New York Vegas Hotel with Kids" /></a></figure>
 
@@ -156,9 +151,11 @@ Customers can also purchase Hello Kitty-themed merchandise like plush toys, keyc
 
 <div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-13b1b0f" id="thats-a-wrap" data-block-id="13b1b0f"><style>.stk-13b1b0f .stk-block-heading__bottom-line{background-color:#fa0a0a !important;}</style>
 
-#### That's a Wrap
+##
 
 <div class="stk-block-heading__bottom-line">
+
+## That's a Wrap!
 
 No, NYNY Hotel does not have the best pool or the best kid-friendly Vegas shows. What NYNY does have is a down-to-earth and fun party-like atmosphere that we have found to be super family-friendly. They have family-friendly (and budget-friendly) restaurants, a roller coaster and arcade, a park inspired by Central Park with unique attractions, and did I mention they have a fun Irish pub with free live music every night! Well, to me it was worth mentioning again.
 
@@ -268,7 +265,7 @@ There are literally tons of restaurants to choose from at MGM, and here is a lis
 
 <div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-c244f28" id="thats-a-wrap" data-block-id="c244f28"><style>.stk-c244f28 .stk-block-heading__bottom-line{background-color:#f40202 !important;}</style>
 
-#### That's a Wrap
+##
 
 <div class="stk-block-heading__bottom-line">
 
@@ -374,7 +371,7 @@ The Mandalay Bay is a huge property with 24 different restaurants and lots of fu
 
 <div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-51a37f1" id="thats-a-wrap" data-block-id="51a37f1"><style>.stk-51a37f1 .stk-block-heading__bottom-line{background-color:#ed0a0a !important;}</style>
 
-#### That's a Wrap
+##
 
 <div class="stk-block-heading__bottom-line">
 
@@ -474,7 +471,7 @@ The atmosphere and design are pretty cool, with ancient-looking columns spilling
 
 <div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-112979e" id="thats-a-wrap" data-block-id="112979e"><style>.stk-112979e .stk-block-heading__bottom-line{background-color:#eb0101 !important;}</style>
 
-#### That's a Wrap
+##
 
 <div class="stk-block-heading__bottom-line">
 
@@ -570,7 +567,7 @@ Delve into the depths of the Fun Dungeon, where arcade games, carnival attractio
 
 <div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-9ccb49b" id="thats-a-wrap" data-block-id="9ccb49b"><style>.stk-9ccb49b .stk-block-heading__bottom-line{background-color:#eb0101 !important;}</style>
 
-#### That's a Wrap
+##
 
 <div class="stk-block-heading__bottom-line">
 
@@ -580,8 +577,6 @@ Whether indulging in hearty Italian cuisine, cheering on knights in epic joustin
 
 **[See Photos, Reviews, &amp; More](/go/excalibur-hotel-las-vegas/)**
 
-## That's a Wrap!
-
 When planning a family trip to Las Vegas, selecting kid-friendly hotels is one of the most important decisions you’ll make. These family-focused properties offer engaging amenities, spacious rooms, and experiences designed for children of all ages. For step-by-step planning, visit our **[Las Vegas family travel guide](/family-friendly-vegas/)**, and explore our **[Nevada family travel page](/nevada-family-travel/)** for nearby road trips, day trips, and family-friendly destinations beyond Vegas.
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
@@ -590,10 +585,7 @@ Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.fa
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-
-
 **Like it? Pin it!**
 
 <figure id="best-kid-friendly-hotels-in-las-vegas" data-essb-pin-description="The BEST family hotels in Las Vegas (yes, they exist 🎰👨‍👩‍👧‍👦). From lazy rivers and suites to kid-friendly locations and budget picks, this guide breaks down where families should actually stay in Vegas. Save this before you book. BestFamilyHotelsLasVegas #LasVegasWithKids #VegasFamilyHotels #FamilyTravelTips #KidFriendlyHotels #LasVegasFamilyVacation #HotelPlanning #HotMamaTravel #TravelWithKids"><a href="/images/best-kid-friendly-hotels-in-las-vegas.jpg"><img src="/images/best-kid-friendly-hotels-in-las-vegas-200x300.jpg" alt="best family hotels in Las Vegas" /></a></figure>
-
 

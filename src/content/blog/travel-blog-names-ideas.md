@@ -11,7 +11,6 @@ wpSlug: "travel-blog-names-ideas"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Travel blogs have *exploded *onto the scene, disrupting the travel industry by providing a new way for hotels and other travel brands to engage directly with loyal and targeted audiences. Solo adventure travel? There's a blog for that. Inter-generational family travel? *There's a blog for that, too. *
 
 <blockquote>
@@ -161,11 +160,11 @@ A name like "Adventure on a Budget", for example, will instantly give your reade
 
 This is obviously a good strategy for monetizing your travel blog. And these are precisely the kinds of things you **need to be thinking about** before committing blood, sweat, and tears to building your new successful website.
 
-## That's a Wrap!
-
 <div class="uagb-separator-wrap">
 
 </div>
+
+## That's a Wrap!
 
 So my advice, in a nutshell, goes like this:
 
@@ -184,8 +183,6 @@ A resource that really kick-started my own success was Sharon Gourlay's site, [D
 This may all sound overwhelming, but **you can totally do it** with some passion and dedication to your idea. Finally If you want more advice on which resources I found most helpful to grow this travel blog, **let me know in the comments!**
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
-
-
 
 **Like it? Pin it!**
 

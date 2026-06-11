@@ -109,6 +109,8 @@ It wasn’t just the kids that seemed to morph during our travels. My mom is alw
 Whatever it is, there is no doubt that travel, perhaps especially long-term travel away from home, changes people in unexpected ways.
 
 ## **6) There’s nothing political about good hospitality**
+## That's a Wrap!
+
 
 We are from California, and unfortunately, like many of my neighbors, we haven’t spent much time in the South. After the 2016 election, we felt even more alienated from certain parts of the country, but our road trip already had several months of planning and bookings behind it and there was literally no turning back.
 
@@ -119,8 +121,6 @@ We were destined to tour Trump country.
 What happened next was surprising, but it should not have been. The generous spirit of the American people shined through in every place we visited from Texas to New York. Despite political gulfs and cultural differences, no place seemed foreign to us and instead felt distinctly, proudly American.
 
 Thankfully, good hospitality appears to be a universal principle of cultures everywhere, and America is no exception. It doesn’t matter what the President just tweeted, who they voted for, or who you voted for; there is clearly something greater that binds us together as a People, and this was immediately clear upon traveling from city to city, through red states and blue states.
-
-## That's a Wrap!
 
 When you get down to it, what is great about travel and tourism is that you get to experience different people and cultures first hand, unvarnished by caricatures presented in popular media.
 

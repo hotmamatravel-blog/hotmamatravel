@@ -10,9 +10,7 @@ wpSlug: "things-to-do-in-the-quad-cities"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 The Quad Cities is a region located in the midwestern United States, consisting of four cities on the Mississippi River: Davenport and Bettendorf in Iowa, and Rock Island and Moline in Illinois. The Quad Cities offers a wide range of activities for visitors to enjoy. Here are a few things to do in the Quad Cities with your kids.
-
 
 <figure id="Mississippi-Riverfront-quad-cities"><a href="/images/Mississippi-Riverfront-quad-cities.jpg"><img src="/images/Mississippi-Riverfront-quad-cities.jpg" alt="" /></a></figure>
 
@@ -30,9 +28,6 @@ The visitor center is a great place start and to learn about the history of the 
 
 [See photos, reviews &amp; more](/go/mississippi-river-visitor-center-quad-cities/)
 
-
-
-
 <figure id="family-friendly-john-deere-pavilion-quad-cities"><a href="/images/family-friendly-john-deere-pavilion-quad-cities.jpg"><img src="/images/family-friendly-john-deere-pavilion-quad-cities.jpg" alt="" /></a></figure>
 
 #### [John Deere Pavilion](/go/john-deere-pavilion-quad-cities/)
@@ -48,9 +43,6 @@ The pavilion features a virtual reality experience that allows you to see how Jo
 Before you go stop by the gift shop that offers a variety of John Deere merchandise, including clothing, toys, and collectibles.
 
 [See photos, reviews &amp; more](/go/john-deere-pavilion-quad-cities/)
-
-
-
 
 <figure id="figge-art-museum-quad-cities"><a href="/images/figge-art-museum-quad-cities.jpg"><img src="/images/figge-art-museum-quad-cities.jpg" alt="" /></a></figure>
 
@@ -68,9 +60,6 @@ Stop by the Museum Store for a wide selection of art-related items, including bo
 
 [See photos, reviews &amp; more](/go/figge-art-museum-quad-cities/)
 
-
-
-
 <figure id="channel-cat-taxi-quad-cities"><a href="/images/channel-cat-taxi-quad-cities.jpg"><img src="/images/channel-cat-taxi-quad-cities.jpg" alt="" /></a></figure>
 
 #### [Channel Cat Taxi](/go/channel-cat-taxi-quad-cities/)
@@ -86,9 +75,6 @@ The Channel Cat also offers a "Hop On, Hop Off" service, which allows passengers
 The Channel Cat Water Taxi is a fun and unique way to see the Quad Cities and is perfect for tourists, families and locals. The tickets can be purchased on board, and prices vary depending on the route and the number of stops. It's a great way to spend a summer day, enjoying the scenery and history of the Mississippi River.
 
 [See photos, reviews &amp; more](/go/channel-cat-taxi-quad-cities/)
-
-
-
 
 <figure id="quad-city-botanical-center-quad-cities"><a href="/images/quad-city-botanical-center-quad-cities.jpg"><img src="/images/quad-city-botanical-center-quad-cities.jpg" alt="" /></a></figure>
 
@@ -108,9 +94,6 @@ The botanical center hosts a variety of events throughout the year, such as conc
 
 [See photos, reviews &amp; more](/go/quad-city-botanical-center-quad-cities/)
 
-
-
-
 <figure id="Modern-Woodmen-Park-quad-cities"><a href="/images/Modern-Woodmen-Park-quad-cities.jpg"><img src="/images/Modern-Woodmen-Park-quad-cities.jpg" alt="" /></a></figure>
 
 #### [Modern Woodmen Park](/go/modern-woodmen-park-quad-cities/)
@@ -125,9 +108,6 @@ The park hosts a variety of special events throughout the season, such as firewo
 
 [See photos, reviews &amp; more](/go/modern-woodmen-park-quad-cities/)
 
-
-
-
 <figure id="davenport-skybridge-quad-cities"><a href="/images/davenport-skybridge-quad-cities.jpg"><img src="/images/davenport-skybridge-quad-cities.jpg" alt="" /></a></figure>
 
 #### [Davenport Skybridge](/go/davenport-skybridge-quad-cities/)
@@ -135,9 +115,6 @@ The park hosts a variety of special events throughout the season, such as firewo
 The Davenport Skybridge is a pedestrian bridge located in Davenport, Iowa, United States. The bridge was built in 2005 and spans the Mississippi River, connecting the cities of Davenport and Bettendorf. The bridge is a popular spot for tourists and locals alike, offering panoramic views of the river and the surrounding area. Some points of interest around the bridge include Modern Woodmen Park, the Figge Art Museum, and the RiverCenter performing arts center. The bridge is also a popular spot for fishing and leisurely strolls.
 
 [See photos, reviews &amp; more](/go/davenport-skybridge-quad-cities/)
-
-
-
 
 <figure id="Colonel-Davenport-House-quad-cities"><a href="/images/Colonel-Davenport-House-quad-cities.jpg"><img src="/images/Colonel-Davenport-House-quad-cities.jpg" alt="" /></a></figure>
 
@@ -155,9 +132,6 @@ Whether you are a history buff, a lover of architecture, or simply someone who a
 
 [See photos, reviews &amp; more](/go/colonel-davenport-house-quad-cities/)
 
-
-
-
 <figure id="palmer-family-residence-quad-cities"><a href="/images/palmer-family-residence-quad-cities.jpg"><img src="/images/palmer-family-residence-quad-cities.jpg" alt="" /></a></figure>
 
 #### [The Palmer Family Residence](/go/palmer-family-historical-house-quad-cities/)
@@ -171,9 +145,6 @@ Their family legacy continues to this day with a number of current practicing Ch
 The home is open to the public with guided tours Monday through Friday from 9:00 am to 5:00 pm. The tours are about one hour long and include the entire first floor of the residence. Many of the rooms are still set up how the Palmers had them while they lived there.
 
 [See photos, reviews &amp; more](/go/palmer-family-historical-house-quad-cities/)
-
-
-
 
 <figure id="Rock-Island-Arsenal-Museum-quad-cities"><a href="/images/Rock-Island-Arsenal-Museum-quad-cities.jpg"><img src="/images/Rock-Island-Arsenal-Museum-quad-cities.jpg" alt="" /></a></figure>
 
@@ -189,17 +160,9 @@ The museum also has an extensive collection of small arms, including rifles, pis
 
 [See photos, reviews &amp; more](/go/rock-island-arsenal-museum-quad-cities/)
 
-
-
-
-
-## That's A Wrap!
-
-
+## That's a Wrap!
 
 Knock out four cities in one trip with a trip to the Quad Cities. Hope this list of things to do in the Quad Cities helps you better plan a fun family weekend getaway. Don't forget to explore our blog for more guides in more cities. Happy Travels Hot Fam!
-
-
 
 **Like it? Pin it!**
 

@@ -12,26 +12,17 @@ wpSlug: "polar-express-in-arizona"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 We love to crank the Christmas magic all the way up, so we surprised the kids with the **[Polar Express Arizona](/go/williams-depot-williams-arizona/)** train ride! Yes, the *real* one that feels straight out of the movie. And if you’re planning your own Polar Express adventure, this guide ***gives you everything you need to know*** to make it just as magical for your family. We’re big on [**holiday adventures**](/christmas-getaways-for-families/) in this family, so this was the ultimate upgrade to our usual festive travels.
 
 And let’s be real: Christmas for parents is busy, expensive, and just a little unhinged. But for kids? It’s pure sparkle. The best gift I get every year is seeing that wide-eyed wonder on my babies’ faces. Nothing beats watching them soak in the season's whimsy. It’s exactly why we choose experiences over mountains of toys, and why we try to pack our December calendar with as much fun as possible. If you’re the same way, you’ll love some of our other holiday adventures I’ve shared over on the blog.
 
 To get in the spirit, we had the *Polar Express* movie running on a nonstop loop for a week. Meanwhile, my husband was serving full Grinch energy: “I hope I don’t have to drive in the snow.” “Eight hours in the car with the kids?” Blah, blah, blah. Lucky for him, I’m a professional memory-maker. We went, we laughed, we made magic, and yes, we’re absolutely doing it again.
 
-
-
 ## Video of our family on the Polar Express Train with kids:
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gPeyeKJ7KEM?si=MWj9WWZR33gljy83" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-
 ## Save on the Polar Express in Williams Arizona
-
-
 
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="grand-canyon-railway-hotel-Polar-express-williams-arizona"><figure><a href="/images/grand-canyon-railway-hotel-Polar-express-williams-arizona.jpg"><img src="/images/grand-canyon-railway-hotel-Polar-express-williams-arizona.jpg" alt="Polar Express Package at Grand Canyon Railway Hotel" /></a></figure></div>
 
@@ -51,11 +42,7 @@ Sometimes with bigger groups it is more cost effective to book the room and trai
 
 **[See Photos, Reviews, &amp; More](/go/grand-canyon-railway-hotel-williams-az/)**
 
-
-
 ## Where to stay near the Polar Express in Williams, AZ
-
-
 
 <div class="wp-block-uagb-image uagb-block-3cd3a101 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="christmas-grand-canyon-railway-hotel-williams-arizona"><figure><a href="/images/christmas-grand-canyon-railway-hotel-williams-arizona.jpg"><img src="/images/christmas-grand-canyon-railway-hotel-williams-arizona.jpg" alt="Christmas at the Grand Canyon Railway Hotel for the Polar Express" /></a></figure></div>
 
@@ -103,11 +90,7 @@ We stayed at the Best Western Plus Inn in Williams, Arizona, on a recent trip to
 
 **[See Photos, Reviews, &amp; More](/go/best-western-plus-inn-williams/)**
 
-
-
 ## What to expect from the Polar Express Arizona Experience
-
-
 
 <div class="wp-block-uagb-image uagb-block-e3daee54 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="polar-express-experience-williams-arizona"><figure><a href="/images/polar-express-experience-williams-arizona.jpg"><img src="/images/polar-express-experience-williams-arizona.jpg" alt="Ride on the Polar Express in Williams Arizona" /></a></figure></div>
 
@@ -145,11 +128,7 @@ Once the Polar Express train is back at the depot, the kids have an opportunity 
 
 We’d heard the **[Polar Express train ride at the Grand Canyon Railway](/go/williams-depot-williams-arizona/)** was pure Christmas magic… and now we know it’s the real deal. What started as a “let’s-try-it-once” adventure has officially leveled up into a full-blown family tradition. The kids are already asking when we’re going back, and honestly? Same. See you on board next year!
 
-## That's a Wrap!
-
 If you’re hungry for even more holiday cheer, don’t stop here. **[I’ve got tons of Christmas travel ideas](/christmas-getaways-for-families/)** on the blog to keep your season sparkling. And if Arizona is calling your name, make sure to check out **[more family-friendly places to visit in Arizona](/best-of-arizona-family-travel/)** while you’re planning your trip. From festive towns to year-round adventures, there’s plenty of merry magic still waiting for you.
-
-
 
 Like it? Pin it!
 

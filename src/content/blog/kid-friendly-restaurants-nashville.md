@@ -12,7 +12,6 @@ wpSlug: "kid-friendly-restaurants-nashville"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Kid-friendly restaurants in Nashville with live music? Absolutely! Nashville, renowned as Music City, beckoned us on our[epic family road trip](/family-road-trip-across-us/), catering to multiple generations' tastes. Our quest wasn't just about finding things to do with kids in Nashville TN; we sought an experience embraced by the entire family. And guess what? We hit the jackpot with the realization that a bar with live music can indeed be [kid-friendly](/kid-friendly-travel-blogger-roundup/)!
 
 Amidst the plethora of Nashville's live music venues and tempting eateries, we discovered a gem – kid-friendly restaurants in Nashville with live music! It was the perfect harmony we craved – a blend of lively tunes for the grown-ups and a family-friendly ambiance for the little ones. Because in Nashville, the music scene isn't exclusive; it's a shared melody that resonates with every generation.
@@ -66,10 +65,6 @@ Live music plays from open to close every day! So grab the kids and get there fo
 
 [See photos, reviews &amp; more](/go/roberts-western-world-nashville/)
 
-
-
-
-
 #### [Honky Tonk Central](/go/honky-tonk-central-nashville/)
 
 *&nbsp;329 Broadway, Nashville, TN 37201*
@@ -79,8 +74,6 @@ Another great option for family restaurants in Nashville is the [Honky Tonk Cent
 What makes it even better for families is that it allows kids and even has a kids’ menu! Not only can parents have knee-slapping good time, so can the kids (and even grandpa and grandma).
 
 [See photos, reviews &amp; more](/go/honky-tonk-central-nashville/)
-
-
 
 ### [Tin Roof](/go/tin-roof-broadway-nashville/)
 
@@ -129,8 +122,6 @@ Interestingly, the venue is actually not located near the other popular music ro
 
 [See photos, reviews &amp; more](/go/bluebird-cafe-nashville/)
 
-
-
 <div class="wp-block-uagb-image uagb-block-0fe6268d wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="miranda-lamberts-casa-rosa-nashville"><figure><a href="/images/miranda-lamberts-casa-rosa-nashville.jpg"><img src="/images/miranda-lamberts-casa-rosa-nashville.jpg" alt="Miranda Lambert" /></a><figcaption class="uagb-image-caption">Courtesy of Casa Rosa</figcaption></figure></div>
 
 ### [Miranda Lambert's Casa Rosa](/go/miranda-lambert-casa-rosa-nashville/)
@@ -144,7 +135,7 @@ There is also a Casa Rosa location in Las Vegas! Another great city known for en
 
 **[See Photos, Reviews, &amp; More](/go/miranda-lambert-casa-rosa-nashville/)**
 
-## That’s a Wrap!
+## That's a Wrap!
 
 So there you have it, the best kid-friendly restaurants in Nashville with live music. If you are looking for family things to do in Nashville TN, think about going honky tonking with your kids. Luckily for families, many of the popular Nashville music venues are also kid-friendly restaurants. It is so important that families are having fun together during their travels, so don’t box yourself in limiting your itinerary to only Nashville attractions for kids. There is nothing wrong with getting their groove on with mama, daddy, grandpa and grandma.
 

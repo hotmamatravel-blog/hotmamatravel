@@ -12,11 +12,9 @@ wpSlug: "top-things-to-do-in-temecula"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Temecula, California is Riverside County’s southernmost city, bordering San Diego County. Over the years Temecula has become practically a resort town, with more and more things to see, do and drink. It is most famously known for being Southern California’s Wine Country, but I am about to share with you a surprising list of the best things to do in Temecula with kids (or without!).
 
 **Here's what's in this article**:
-
 
 ### [Unique area attractions](#temecula-attractions)
 
@@ -51,15 +49,12 @@ Temecula, California is Riverside County’s southernmost city, bordering San Di
 - **Temecula Creek Inn**
 - **Glamping Temecula**
 
-
-
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
 <figure><a href="/go/vinarmour-luxury-wine-bag/"><img src="/images/Vinarmour-Ad-Mobile-Banner-Ad-4-1024x146.jpg" alt="Get your VinArmour wine travel case today" /></a></figure>
 
 ##
 Family-Friendly Temecula Attractions
-
 
 <figure id="europa-village-kid-friendly-wineries-temecula"><a href="/images/europa-village-kid-friendly-wineries-temecula.jpg"><img src="/images/europa-village-kid-friendly-wineries-temecula.jpg" alt="" /></a></figure>
 
@@ -71,18 +66,11 @@ Bringing the kids? No problema. Check out my list of the[best kid-friendly winer
 
 [See photos, reviews &amp; more](/go/wine-tasting-temecula-ca/)
 
-
-
-
-
 #### [**Hot Air Balloon** Rides](/go/hot-air-balloon-rides-temecula-ca/)
 
 A popular activity in Temecula is soaring over wine country in a hot air balloon. There are several companies to check out, like Temecula Shared Hot Air Balloon Rides and Sunrise Temecula. The tours usually cost around $200 and take about two to four hours. Think about it, the Temecula sky is sprinkled with hot air balloons and you could be in one! See more details at the link below.
 
 [See photos, reviews &amp; more](/go/hot-air-balloon-rides-temecula-ca/)
-
-
-
 
 <figure id="14-best-breweries-temecula-ca"><a href="/images/14-best-breweries-temecula-ca.jpg"><img src="/images/14-best-breweries-temecula-ca.jpg" alt="The best breweries in Temecula" /></a></figure>
 
@@ -92,10 +80,6 @@ Temecula is not only a wine country, but a burgeoning beer country with a boomin
 
 [See photos, reviews &amp; more](/go/breweries-temecula-ca/)
 
-
-
-
-
 #### **[Pechanga Resort &amp; Casino](/go/pechanga-resort-casino-temecula-ca/)**
 
 * **45000 Pechanga Pkwy, Temecula, CA 92592***
@@ -103,9 +87,6 @@ Temecula is not only a wine country, but a burgeoning beer country with a boomin
 Pechanga is a popular entertainment hub in Temecula. It is a one stop shop for live music, dancing, fine dining, shows, gambling, golfing, spa, pools and more. Pechanga has the largest casino floor in California with over 5,000 slot machines, 158 table games, a 30 table poker room and a 700 seat bingo room. In addition to the casino, Pechanga is a resort hotel and RV Resort, so there is a lot to do even if you don’t gamble. It is a great place to grab a meal at one of their amazing restaurants, like Great Oak Steakhouse or 1882 Cantina, before catching a music concert or comedy show.
 
 [See photos, reviews &amp; more](/go/pechanga-resort-casino-temecula-ca/)
-
-
-
 
 <figure id="best-temecula-golf-courses"><a href="/images/best-temecula-golf-courses.jpg"><img src="/images/best-temecula-golf-courses.jpg" alt="7 beautiful and challenging golf courses in Temecula" /></a></figure>
 
@@ -115,10 +96,7 @@ If you love to golf, then you will love Temecula. There are several premiere gol
 
 [See photos, reviews &amp; more](/go/golf-courses-temecula-ca/)
 
-
-
 ## Fun places to shop in Temecula
-
 
 <figure id="old-town-temecula-ca"><a href="/images/old-town-temecula-ca.jpg"><img src="/images/old-town-temecula-ca.jpg" alt="" /></a></figure>
 
@@ -130,10 +108,6 @@ Here, you can start or end a day of fantastic wine or beer tasting with a delici
 
 [See photos, reviews &amp; more](/go/old-town-temecula-ca/)
 
-
-
-
-
 #### **[Promenade Mall](/go/promenade-mall-temecula-ca/)**
 
 * 40820 Winchester Rd, Temecula, CA 92591*
@@ -142,10 +116,7 @@ Temecula’s mall, this shopping complex opened in 1999 and has continued to thr
 
 [See photos, reviews &amp; more](/go/promenade-mall-temecula-ca/)
 
-
-
 ## Top Temecula Restaurants
-
 
 <figure id="rosas-cafe-tortilla-factory-temecula-ca"><a href="/images/rosas-cafe-tortilla-factory-temecula-ca.jpg"><img src="/images/rosas-cafe-tortilla-factory-temecula-ca.jpg" alt="" /></a></figure>
 
@@ -157,10 +128,6 @@ This Mexican restaurant is a favorite among locals as well as this family. It is
 
 [See photos, reviews &amp; more](/go/rosas-cafe-tortilla-factory-temecula-ca/)
 
-
-
-
-
 #### **[Penfolds](/go/penfolds-cafe-temecula-ca/)**
 
 * 28250 Old Town Front St, Temecula, CA 92590*
@@ -168,9 +135,6 @@ This Mexican restaurant is a favorite among locals as well as this family. It is
 This casual restaurant is a popular spot for breakfast, but they also have a great lunch menu. If you love omelets, then you will love Penfolds. They have a whole page on their menu of different kinds of omelets.
 
 [See photos, reviews &amp; more](/go/penfolds-cafe-temecula-ca/)
-
-
-
 
 <figure id="filippis-pizza-grotto-temecula-ca"><a href="/images/filippis-pizza-grotto-temecula-ca.jpg"><img src="/images/filippis-pizza-grotto-temecula-ca.jpg" alt="" /></a></figure>
 
@@ -182,10 +146,6 @@ This is a delicious family-friendly Italian restaurant. The atmosphere is warm, 
 
 [See photos, reviews &amp; more](/go/filippis-pizza-grotto-temecula-ca/)
 
-
-
-
-
 #### **[Winery Restaurants](/go/winery-restaurants-temecula-ca/)**
 
 The wineries offer a lot more than wine tasting. In fact, the wineries are a great place to grab a delicious meal with a beautiful view. Often there is even live music on the weekends too. Many of the wineries in Temecula have beautiful restaurants, but some of the more popular ones to check out are The Vineyard Rose Restaurant at South Coast Winery, Bolero Restaurante, The Restaurant at Ponte Family Estate Winery and Cafe Champagne at Thornton Winery, just to name a few. There are about 20 winery restaurants to visit, so plan an extended trip and try them all!&nbsp;
@@ -193,9 +153,6 @@ The wineries offer a lot more than wine tasting. In fact, the wineries are a gre
 If you want to explore more about Temecula wineries, see my guide on the [best family-friendly Temecula wineries](/kid-friendly-wineries-temecula-ca/), the [best winery hotels](/best-winery-hotels-temecula-ca/) and the most[unique wine tours in Temecula](/best-temecula-wine-tours/).
 
 [See photos, reviews &amp; more](/go/winery-restaurants-temecula-ca/)
-
-
-
 
 <figure id="pechanga-restaurants-great-oak-steakhouse-temecula-ca"><a href="/images/pechanga-restaurants-great-oak-steakhouse-temecula-ca.jpg"><img src="/images/pechanga-restaurants-great-oak-steakhouse-temecula-ca.jpg" alt="" /></a></figure>
 
@@ -207,10 +164,6 @@ At Pechanga, Temecula’s resort and casino, there are about ten different dinin
 
 [See photos, reviews &amp; more](/go/pechanga-resort-casino-temecula-ca/)
 
-
-
-
-
 #### **[Old Town Temecula Restaurants](/go/old-town-temecula-ca/)**
 
 * Old Town Front Street, Temecula, Ca 92590*
@@ -219,10 +172,7 @@ There are a ton of great dining options in Old Town Temecula, along Front Street
 
 [See photos, reviews &amp; more](/go/old-town-temecula-ca/)
 
-
-
 ## Hotels, RV Resorts &amp; Glamping in Temecula
-
 
 <figure id="south-coast-winery-resort-temecula-winery-hotels"><a href="/images/south-coast-winery-resort-temecula-winery-hotels.jpg"><img src="/images/south-coast-winery-resort-temecula-winery-hotels.jpg" alt="" /></a></figure>
 
@@ -232,10 +182,6 @@ Many of the bigger wineries in Temecula also have attached hotels and resorts, w
 
 [See photos, reviews &amp; more](/go/winery-hotels-temecula-ca/)
 
-
-
-
-
 #### **[Vail Lake RV Resort](/go/vail-lake-rv-resort-temecula-ca/)**
 
 * **38000 Hwy 79 South, Temecula, CA 92592***
@@ -243,9 +189,6 @@ Many of the bigger wineries in Temecula also have attached hotels and resorts, w
 At Vail Lake RV Resort you will have non-stop fun outdoors. On-site, there are three swimming pools, Happy Camper Cafe, Bunkhouse Bar, disc golf, mini- golf, horseshoe, pickleball and basketball courts. There is also access to bike trails and hiking trails. Plus there are always seasonal events to look out for, like Winter Wonderland Weekends. I have an older post describing our own family adventures at [Vail Lake RV Resort](/vail-lake-resort-with-kids/).
 
 See photos, reviews &amp; more
-
-
-
 
 <figure id="pechanga-rv-resort-temecula-ca"><a href="/images/pechanga-rv-resort-temecula-ca.jpg"><img src="/images/pechanga-rv-resort-temecula-ca.jpg" alt="" /></a></figure>
 
@@ -257,9 +200,6 @@ Located on the Pechanga property with access to all the same amenities you would
 
 [See photos, reviews &amp; more](/go/pechanga-resort-casino-temecula-ca/)
 
-
-
-
 <figure id="temecula-creek-inn-temecula-ca"><a href="/images/temecula-creek-inn-temecula-ca.jpg"><img src="/images/temecula-creek-inn-temecula-ca.jpg" alt="" /></a></figure>
 
 #### **[Temecula Creek Inn](/go/temecula-creek-inn-golf-courses-temecula-ca/)**
@@ -270,10 +210,6 @@ This hotel offers 127 rooms plus a private three-bedroom home as well as access 
 
 [See photos, reviews &amp; more](/go/temecula-creek-inn-golf-courses-temecula-ca/)
 
-
-
-
-
 #### **[Pechanga Resort](/go/pechanga-resort-casino-temecula-ca/)**
 
 * **45000 Pechanga Pkwy, Temecula, CA 92592***
@@ -282,9 +218,6 @@ Indulge in a luxury hotel stay at Pechanga Resort where you can book a room or a
 
 [See photos, reviews &amp; more](/go/pechanga-resort-casino-temecula-ca/)
 
-
-
-
 <figure id="eco-camps-glamping-temecula-ca"><a href="/images/eco-camps-glamping-temecula-ca.jpg"><img src="/images/eco-camps-glamping-temecula-ca.jpg" alt="" /></a></figure>
 
 #### **[Glamping Temecula](/glamping-temecula/)**
@@ -292,8 +225,6 @@ Indulge in a luxury hotel stay at Pechanga Resort where you can book a room or a
 If you are looking for a more outdoor vibe, but you don’t have an RV, I suggest checking out some of Temecula’s glamping options. Conveniently, I have put together a list of some of the [best glamping sites in Temecula](/glamping-temecula/) for you to explore!
 
 [See photos, reviews &amp; more](/glamping-temecula/)
-
-
 
 ## That's a Wrap!
 

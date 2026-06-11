@@ -12,7 +12,6 @@ wpSlug: "things-to-do-in-idyllwild-with-kids"
 author: "Amanda Keeley-Thurman"
 ---
 
-
 Tucked away in the San Jacinto Mountains in Riverside County, CA, is a quaint little town bursting with [**amazing restaurants**](/best-restaurants-in-idyllwild/), friendly people, and a delightful art culture. In the winter, Idyllwild is one of the most convenient places near Los Angeles and Orange Counties to experience snow (which is one of the main attractions for us).
 
 <blockquote>
@@ -27,11 +26,7 @@ So follow me and discover some of our favorite kid-friendly activities in Idyllw
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-
-
 ## 6 Reasons you will fall in LOVE with Idyllwild
-
-
 
 - It is a cute mountain town with fresh air that smells like Christmas all year-round (think pine trees and fireplaces)
 
@@ -51,11 +46,7 @@ So follow me and discover some of our favorite kid-friendly activities in Idyllw
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-iTWWKrAvc?si=-gk-62-ga-KyJM0g&amp;start=853" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## Leisure Things To Do In Idyllwild With Kids
-
-
 
 <figure id="shopping-things-to-do-in-idyllwild-ca"><a href="/images/shopping-things-to-do-in-idyllwild-ca-1.jpg"><img src="/images/shopping-things-to-do-in-idyllwild-ca-1.jpg" alt="Shopping in Idyllwild" /></a></figure>
 
@@ -157,11 +148,7 @@ Taking the **[Palm Springs Aerial Tramway](/go/palm-springs-aerial-tramway-palm-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fz8bYEglAK4?si=zTmEgtp-Z6nqSBg9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
 ## Nature Activities In Idyllwild
-
-
 
 <figure id="easy-hikes-in-idyllwild-things-to-do-in-idyllwild"><a href="/images/easy-hikes-in-idyllwild-things-to-do-in-idyllwild.jpg"><img src="/images/easy-hikes-in-idyllwild-things-to-do-in-idyllwild.jpg" alt="kid-friendly hikes in Idyllwild" /></a></figure>
 
@@ -199,11 +186,7 @@ Immerse yourself in the serenity of Idyllwild with our outdoor yoga classes that
 
 Whether you're a seasoned yogi or a first-timer, these classes cater to all levels, ensuring everyone can find their zen in the mountain breeze. It's not just about striking the perfect pose; it's about finding balance, peace, and a deep connection with the natural beauty that surrounds you. There are several cool studios that offer outdoor class so just try a few to see what fits your vibe.
 
-
-
 ## Artsy Things To Do In Idyllwild
-
-
 
 ### Jazz in the Pines
 
@@ -235,11 +218,7 @@ Idyllwild's art scene isn't just for connoisseurs; it's an immersive experience 
 
 **[See Photos, Reviews, &amp; More](/go/art-galleries-idyllwild/)**
 
-
-
 ## Idyllwild Family Travel Videos
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-iTWWKrAvc?si=88RguoPdQ3k1Si1T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -256,8 +235,6 @@ Idyllwild is a really cool little town with great food, relaxing times, and your
 The fun doesn't stop there! Explore more exciting **[California family travel](/california-family-travel/)** ideas on the blog and start planning today!
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
-
-## That's a Wrap!
 
 **Like it? Pin it?**
 

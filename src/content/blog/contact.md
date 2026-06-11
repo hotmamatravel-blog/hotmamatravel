@@ -16,6 +16,4 @@ We'd love to hear from you! Whether you have a question about one of our destina
 *   **Facebook:** [HotMamaTravel Blog](https://www.facebook.com/hotmamatravelblog)
 *   **Pinterest:** [HotMamaTravel](https://www.pinterest.com/hotmamatravel)
 
-## That's a Wrap!
-
 We try our best to respond to all inquiries within 24–48 hours. Safe travels!
