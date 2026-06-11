@@ -3,19 +3,18 @@
 // Replaces WordPress /category/ and /tag/ URLs with /tag/ (via vercel.json redirects)
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import PostCard from '@/components/PostCard.astro';
-import { getCollection } from 'astro:content';
+import { sanityClient } from 'sanity:client';
 import { slugifyTag } from '@/utils/slugify';
 
 export async function getStaticPaths() {
-  const STATIC_PAGES = ['about', 'contact', 'disclosure-policy', 'privacy-policy', 'destinations', 'destinations-3', 'cookie-policy', 'terms-of-use', 'subscribe-hotmamatravel', 'confirmation', 'work-with-us', 'campaign-portfolio', 'something-broke'];
-  const allPosts = await getCollection('blog', ({ data, slug }) => !data.draft && !STATIC_PAGES.includes(slug));
+  const allPosts = await sanityClient.fetch(`*[_type == "post" && !draft]`);
 
   // Collect all unique tags from all posts, including category as a tag
   const tagSet = new Set<string>();
-  allPosts.forEach(post => {
-    post.data.tags?.forEach(tag => tagSet.add(slugifyTag(tag)));
-    if (post.data.category) {
-      tagSet.add(slugifyTag(post.data.category));
+  allPosts.forEach((post: any) => {
+    post.tags?.forEach((tag: string) => tagSet.add(slugifyTag(tag)));
+    if (post.category) {
+      tagSet.add(slugifyTag(post.category));
     }
   });
 
@@ -23,10 +22,10 @@ export async function getStaticPaths() {
     params: { tag },
     props: {
       tag,
-      posts: allPosts.filter(post =>
-        post.data.tags?.some(t => slugifyTag(t) === tag) ||
-        (post.data.category && slugifyTag(post.data.category) === tag)
-      ).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()),
+      posts: allPosts.filter((post: any) =>
+        post.tags?.some((t: string) => slugifyTag(t) === tag) ||
+        (post.category && slugifyTag(post.category) === tag)
+      ).sort((a: any, b: any) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()),
     },
   }));
 }

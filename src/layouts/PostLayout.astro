@@ -5,10 +5,11 @@ import type { CollectionEntry } from 'astro:content';
 import { slugifyTag } from '@/utils/slugify';
 
 interface Props {
-  post: CollectionEntry<'blog'>;
+  post: any;
 }
 
 const { post } = Astro.props;
+const postData = post.data || post;
 const {
   title,
   description,
@@ -21,12 +22,15 @@ const {
   author,
   seoTitle,
   seoDescription,
-} = post.data;
+} = postData;
 
-const formattedDate = pubDate.toLocaleDateString('en-US', {
+const pubDateObj = typeof pubDate === 'string' ? new Date(pubDate + 'T12:00:00') : pubDate;
+const updatedDateObj = typeof updatedDate === 'string' ? new Date(updatedDate + 'T12:00:00') : updatedDate;
+
+const formattedDate = pubDateObj?.toLocaleDateString('en-US', {
   year: 'numeric', month: 'long', day: 'numeric'
 });
-const formattedUpdated = updatedDate?.toLocaleDateString('en-US', {
+const formattedUpdated = updatedDateObj?.toLocaleDateString('en-US', {
   year: 'numeric', month: 'long', day: 'numeric'
 });
 
@@ -40,8 +44,8 @@ const readingTime = (content: string) => {
   title={seoTitle || title}
   description={seoDescription || description}
   image={heroImage}
-  pubDate={pubDate}
-  updatedDate={updatedDate}
+  pubDate={pubDateObj}
+  updatedDate={updatedDateObj}
   author={author}
   tags={tags}
   type="article"
@@ -64,7 +68,7 @@ const readingTime = (content: string) => {
         <div class="post-meta">
           <span class="post-author">By <a href="/about">{author}</a></span>
           <span class="meta-dot" aria-hidden="true">·</span>
-          <time datetime={pubDate.toISOString()}>
+          <time datetime={pubDateObj?.toISOString()}>
             Published {formattedDate}
           </time>
           {updatedDate && (

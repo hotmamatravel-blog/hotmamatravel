@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import vercel from '@astrojs/vercel/static';
+import react from '@astrojs/react';
 
 // Remark plugin: adds loading="lazy" and decoding="async" to all Markdown <img> tags
 // This is the correct way to do it in Astro — as a remark plugin, not rehype-attrs
@@ -23,6 +24,8 @@ function remarkLazyImages() {
   };
 }
 
+import sanity from '@sanity/astro';
+
 export default defineConfig({
   site: 'https://hotmamatravel.com',
   output: 'static',
@@ -40,6 +43,13 @@ export default defineConfig({
         !page.includes('/feed') &&
         !page.includes('/xmlrpc'),
     }),
+    sanity({
+      projectId: 'ogxrlxz8',
+      dataset: 'production',
+      useCdn: true,
+      studioBasePath: '/admin',
+    }),
+    react(),
   ],
   markdown: {
     shikiConfig: {

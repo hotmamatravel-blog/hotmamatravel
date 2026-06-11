@@ -8,13 +8,16 @@ interface Props {
 }
 
 const { post, featured = false } = Astro.props;
-const { title, description, pubDate, heroImage, heroImageAlt, category, tags } = post.data;
+const postData = post.data || post;
+const { title, description, pubDate, heroImage, heroImageAlt, category, tags } = postData;
 
-const formattedDate = pubDate.toLocaleDateString('en-US', {
+const pubDateObj = typeof pubDate === 'string' ? new Date(pubDate + 'T12:00:00') : pubDate;
+
+const formattedDate = pubDateObj?.toLocaleDateString('en-US', {
   year: 'numeric', month: 'long', day: 'numeric'
 });
 
-const slug = post.slug;
+const slug = post.slug?.current || post.slug;
 ---
 
 <article class={`post-card ${featured ? 'post-card--featured' : ''}`}>
@@ -39,7 +42,7 @@ const slug = post.slug;
 
   <div class="post-card-body">
     <div class="post-card-meta">
-      <time datetime={pubDate.toISOString()}>{formattedDate}</time>
+      <time datetime={pubDateObj?.toISOString()}>{formattedDate}</time>
     </div>
 
     <h2 class="post-card-title">

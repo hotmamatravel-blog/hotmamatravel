@@ -2,20 +2,16 @@
 // src/pages/index.astro — HotMamaTravel Homepage
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import PostCard from '@/components/PostCard.astro';
-import { getCollection } from 'astro:content';
+import { sanityClient } from 'sanity:client';
 
-const STATIC_PAGES = ['about', 'contact', 'disclosure-policy', 'privacy-policy', 'destinations', 'destinations-3', 'cookie-policy', 'terms-of-use', 'subscribe-hotmamatravel', 'confirmation', 'work-with-us', 'campaign-portfolio', 'something-broke'];
-
-const allPosts = await getCollection('blog', ({ data, slug }) => !data.draft && !STATIC_PAGES.includes(slug));
-const sortedPosts = allPosts.sort((a, b) =>
-  b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+const allPosts = await sanityClient.fetch(`*[_type == "post" && !draft]`);
+const sortedPosts = allPosts.sort((a: any, b: any) =>
+  new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()
 );
 
-const featuredPost = sortedPosts.find(p => p.data.featured) ?? sortedPosts[0];
-const recentPosts = sortedPosts.filter(p => p.id !== featuredPost?.id).slice(0, 6);
+const featuredPost = sortedPosts.find((p: any) => p.featured) ?? sortedPosts[0];
+const recentPosts = sortedPosts.filter((p: any) => p._id !== featuredPost?._id).slice(0, 6);
 const latestPosts = sortedPosts.slice(0, 9);
-
-
 ---
 
 <BaseLayout

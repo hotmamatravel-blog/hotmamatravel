@@ -1,0 +1,9 @@
+---
+interface Props {
+  node: {
+    html: string;
+  };
+}
+const { node } = Astro.props;
+---
+<Fragment set:html={node.html} />

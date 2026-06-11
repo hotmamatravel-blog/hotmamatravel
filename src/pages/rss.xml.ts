@@ -1,13 +1,11 @@
-// src/pages/rss.xml.ts — RSS Feed
 import rss from '@astrojs/rss';
-import { getCollection } from 'astro:content';
+import { sanityClient } from 'sanity:client';
 import type { APIContext } from 'astro';
 
 export async function GET(context: APIContext) {
-  const STATIC_PAGES = ['about', 'contact', 'disclosure-policy', 'privacy-policy', 'destinations', 'destinations-3', 'cookie-policy', 'terms-of-use', 'subscribe-hotmamatravel', 'confirmation', 'work-with-us', 'campaign-portfolio', 'something-broke'];
-  const posts = await getCollection('blog', ({ data, slug }) => !data.draft && !STATIC_PAGES.includes(slug));
-  const sortedPosts = posts.sort((a, b) =>
-    b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+  const posts = await sanityClient.fetch(`*[_type == "post" && !draft]`);
+  const sortedPosts = posts.sort((a: any, b: any) =>
+    new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()
   );
 
   return rss({
@@ -29,15 +27,15 @@ export async function GET(context: APIContext) {
         <link>https://hotmamatravel.com</link>
       </image>
     `,
-    items: sortedPosts.slice(0, 50).map(post => ({
-      title: post.data.title,
-      pubDate: post.data.pubDate,
-      description: post.data.description ?? '',
-      link: `/${post.slug}/`,
-      categories: post.data.tags ?? [],
-      author: post.data.author ?? 'Amanda Keeley-Thurman',
-      customData: post.data.heroImage
-        ? `<enclosure url="${post.data.heroImage}" length="0" type="image/jpeg" />`
+    items: sortedPosts.slice(0, 50).map((post: any) => ({
+      title: post.title,
+      pubDate: new Date(post.pubDate + 'T12:00:00'),
+      description: post.description ?? '',
+      link: `/${post.slug.current}/`,
+      categories: post.tags ?? [],
+      author: post.author ?? 'Amanda Keeley-Thurman',
+      customData: post.heroImage
+        ? `<enclosure url="${post.heroImage}" length="0" type="image/jpeg" />`
         : undefined,
     })),
   });

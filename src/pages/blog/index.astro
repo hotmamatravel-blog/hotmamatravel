@@ -2,18 +2,16 @@
 // src/pages/blog/index.astro — All posts listing page
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import PostCard from '@/components/PostCard.astro';
-import { getCollection } from 'astro:content';
+import { sanityClient } from 'sanity:client';
 import { slugifyTag } from '@/utils/slugify';
 
-const STATIC_PAGES = ['about', 'contact', 'disclosure-policy', 'privacy-policy', 'destinations', 'destinations-3', 'cookie-policy', 'terms-of-use', 'subscribe-hotmamatravel', 'confirmation', 'work-with-us', 'campaign-portfolio', 'something-broke'];
-
-const allPosts = await getCollection('blog', ({ data, slug }) => !data.draft && !STATIC_PAGES.includes(slug));
-const sortedPosts = allPosts.sort((a, b) =>
-  b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+const allPosts = await sanityClient.fetch(`*[_type == "post" && !draft]`);
+const sortedPosts = allPosts.sort((a: any, b: any) =>
+  new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()
 );
 
 // Get all unique tags for sidebar filter
-const allTags = [...new Set(allPosts.flatMap(p => p.data.tags ?? []))].sort();
+const allTags = [...new Set(allPosts.flatMap((p: any) => p.tags ?? []))].sort();
 ---
 
 <BaseLayout
@@ -38,9 +36,9 @@ const allTags = [...new Set(allPosts.flatMap(p => p.data.tags ?? []))].sort();
         {sortedPosts.map(post => (
           <article
             class="post-card-wrapper"
-            data-title={post.data.title.toLowerCase()}
-            data-description={(post.data.description ?? '').toLowerCase()}
-            data-tags={(post.data.tags ?? []).join(' ').toLowerCase()}
+            data-title={post.title.toLowerCase()}
+            data-description={(post.description ?? '').toLowerCase()}
+            data-tags={(post.tags ?? []).join(' ').toLowerCase()}
           >
             <PostCard post={post} />
           </article>

@@ -24,12 +24,25 @@ const {
   type = 'website',
 } = Astro.props;
 
+const pubDateObj = pubDate
+  ? (typeof pubDate === 'string'
+    ? new Date(pubDate.includes('T') ? pubDate : pubDate + 'T12:00:00')
+    : pubDate)
+  : undefined;
+
+const updatedDateObj = updatedDate
+  ? (typeof updatedDate === 'string'
+    ? new Date(updatedDate.includes('T') ? updatedDate : updatedDate + 'T12:00:00')
+    : updatedDate)
+  : undefined;
+
 const fallbackDescription = 'Family travel with a twist! HotMamaTravel helps parents explore the world with their kids—from haunted hotels to kid-friendly breweries—without losing their Saturday-night selves.';
 const finalDescription = (description && description.trim() !== '') ? description.trim() : fallbackDescription;
 
 const siteUrl = 'https://hotmamatravel.com';
 const resolvedCanonical = canonicalUrl ?? new URL(Astro.url.pathname, siteUrl).href;
-const resolvedImage = image.startsWith('http') ? image : new URL(image, siteUrl).href;
+const finalImage = image || '/images/hmt-og-default.jpg';
+const resolvedImage = finalImage.startsWith('http') ? finalImage : new URL(finalImage, siteUrl).href;
 const fullTitle = title === 'HotMamaTravel'
   ? 'HotMamaTravel | Family Travel with a Twist'
   : `${title} | HotMamaTravel`;
@@ -62,11 +75,11 @@ const fullTitle = title === 'HotMamaTravel'
 <meta name="twitter:image" content={resolvedImage} />
 
 <!-- Article-specific meta -->
-{type === 'article' && pubDate && (
-  <meta property="article:published_time" content={pubDate.toISOString()} />
+{type === 'article' && pubDateObj && (
+  <meta property="article:published_time" content={pubDateObj.toISOString()} />
 )}
-{type === 'article' && updatedDate && (
-  <meta property="article:modified_time" content={updatedDate.toISOString()} />
+{type === 'article' && updatedDateObj && (
+  <meta property="article:modified_time" content={updatedDateObj.toISOString()} />
 )}
 {type === 'article' && (
   <meta property="article:author" content={author} />
@@ -84,8 +97,8 @@ const fullTitle = title === 'HotMamaTravel'
     "description": finalDescription,
     "image": resolvedImage,
     "url": resolvedCanonical,
-    "datePublished": pubDate?.toISOString(),
-    "dateModified": (updatedDate ?? pubDate)?.toISOString(),
+    "datePublished": pubDateObj?.toISOString(),
+    "dateModified": (updatedDateObj ?? pubDateObj)?.toISOString(),
     "author": {
       "@type": "Person",
       "name": author,
