@@ -166,7 +166,19 @@ const readingTime = (content: string) => {
     font-size: 0.875rem;
     color: var(--hmt-muted);
   }
-  .post-meta a { color: var(--hmt-red); }
+  .post-meta a {
+    color: var(--hmt-dark);
+    font-weight: 500;
+    text-decoration: underline;
+    text-decoration-color: rgba(232,35,42,0.3);
+    text-decoration-thickness: 1.5px;
+    text-underline-offset: 3px;
+    transition: text-decoration-color var(--duration) var(--ease), text-decoration-thickness var(--duration) var(--ease);
+  }
+  .post-meta a:hover {
+    text-decoration-color: var(--hmt-red);
+    text-decoration-thickness: 3px;
+  }
   .meta-dot { opacity: 0.4; }
 
   /* Hero image */

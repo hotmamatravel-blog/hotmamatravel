@@ -92,5 +92,17 @@ const displayTag = tag.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())
     padding: 80px 0;
     color: var(--hmt-muted);
   }
-  .no-posts a { color: var(--hmt-red); text-decoration: underline; }
+  .no-posts a {
+    color: var(--hmt-dark);
+    font-weight: 400;
+    text-decoration: underline;
+    text-decoration-color: rgba(232, 35, 42, 0.3);
+    text-decoration-thickness: 1.5px;
+    text-underline-offset: 3.5px;
+    transition: text-decoration-color var(--duration) var(--ease), text-decoration-thickness var(--duration) var(--ease);
+  }
+  .no-posts a:hover {
+    text-decoration-color: var(--hmt-red);
+    text-decoration-thickness: 3px;
+  }
 </style>

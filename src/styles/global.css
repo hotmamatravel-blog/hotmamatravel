@@ -142,7 +142,7 @@ h1, h2, h3, h4, h5, h6 {
 .prose h5 a,
 .prose h6 a {
   color: inherit !important;
-  font-weight: 700;
+  font-weight: inherit !important;
   text-decoration: underline !important;
   text-decoration-color: rgba(232,35,42,0.3) !important;
   text-decoration-thickness: 1.5px !important;
@@ -206,8 +206,8 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .prose a {
-  font-weight: 700;
-  color: var(--hmt-red);
+  font-weight: 400;
+  color: var(--hmt-dark);
   text-decoration: underline;
   text-decoration-color: rgba(232,35,42,0.3);
   text-decoration-thickness: 1.5px;
@@ -217,6 +217,18 @@ h1, h2, h3, h4, h5, h6 {
 .prose a:hover {
   text-decoration-color: var(--hmt-red);
   text-decoration-thickness: 3px;
+}
+
+/* Affiliate links (containing /go/) are bold */
+.prose a[href*="/go/"] {
+  font-weight: 700;
+}
+
+/* Force non-affiliate links inside strong/bold to not be bold */
+.prose strong a:not([href*="/go/"]),
+.prose a:not([href*="/go/"]) strong,
+.prose a:not([href*="/go/"]) b {
+  font-weight: 400 !important;
 }
 
 /* Ensure UI components inside prose do not inherit standard hyperlink styles */
@@ -482,7 +494,22 @@ h1, h2, h3, h4, h5, h6 {
   border-left: 3px solid var(--hmt-border);
   line-height: 1.5;
 }
-.disclosure a { color: var(--hmt-red); text-decoration: underline; }
+.disclosure a {
+  color: var(--hmt-dark);
+  font-weight: 400;
+  text-decoration: underline;
+  text-decoration-color: rgba(232,35,42,0.3);
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+  transition: text-decoration-color var(--duration) var(--ease), text-decoration-thickness var(--duration) var(--ease);
+}
+.disclosure a:hover {
+  text-decoration-color: var(--hmt-red);
+  text-decoration-thickness: 3px;
+}
+.disclosure a[href*="/go/"] {
+  font-weight: 700;
+}
 
 /* ---- Newsletter Section ---- */
 .newsletter-section {
