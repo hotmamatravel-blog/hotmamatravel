@@ -34,7 +34,7 @@ Ok, so we begin this article with a set of answers to Frequently Asked Questions
 
 As an alternative, you can jump straight ahead to our list of Clearwater Beach's Best Family Hotels. ***It's your choice.***
 
-<div class="wp-block-button aligncenter is-style-default">[click to jump straight to hotel reviews](#top-5-family-hotels-clearwater)</div>
+<div class="wp-block-button aligncenter is-style-default"><a href="#top-5-family-hotels-clearwater">click to jump straight to hotel reviews</a></div>
 
 <div class="wp-block-columns has-2-columns">
 <div class="wp-block-column">

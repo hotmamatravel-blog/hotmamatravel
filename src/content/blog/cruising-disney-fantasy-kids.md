@@ -17,7 +17,7 @@ As long-time Orange County residents and Disneyland annual pass holders, it is s
 
 It was something we’ve always talked about, but never took the leap to book. We kept waiting for the kids to be the “perfect” age and, honest, we kind of feared the cost of Disney Cruise. Finally, we just did it and now I wonder why we waited so long.
 
-Cruising on the <strong>[Disney Fantasy](/go/disney-fantasy-cruise/)** with kids was truly a fantasy come to life. I’m going to tell all about my Disney Cruise and dish on all my best Disney Cruise tips, making this one of the most in-depth Disney Cruise reviews out there.
+Cruising on the <strong><a href="/go/disney-fantasy-cruise/">Disney Fantasy</a>** with kids was truly a fantasy come to life. I’m going to tell all about my Disney Cruise and dish on all my best Disney Cruise tips, making this one of the most in-depth Disney Cruise reviews out there.
 
 ***P.S. **Yo**u might want to have your calendar out, because you will want to book a Disney Cruise next!*
 

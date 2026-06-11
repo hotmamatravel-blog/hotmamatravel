@@ -18,7 +18,7 @@ Although Thanksgiving is nice when celebrated at home, it is also a perfect oppo
 Many people I know love to take the RV out to the desert for Thanksgiving and enjoy all the rituals that go along with desert RVing, but that’s not my thing. If I’m going to have sand in my butt, it is going to be from the beach. Haha. Whatever your preference, RVing for Thanksgiving in Big Bear is really fun. In fact, one of our favorite trips is to RV at Big Bear Shores for this turkey lovin’ holiday. Thanksgiving Big Bear style.Gobble. Gobble.
 
 [![Thanksgiving in Big Bear with kids](/images/RSCN7240-1024x683_201411.jpg)](/images/RSCN7240.jpg)
-<h1>[![Thanksgiving camping in Big Bear](/images/DSCN7307-1024x682.jpg)](/thanksgiving-in-big-bear/)</h1>
+<h1><a href="/images/DSCN7307-1024x682.jpg"><img src="/thanksgiving-in-big-bear/" alt="Thanksgiving camping in Big Bear</a>" /></h1>
 
 ## ***Drop Your Bags:***
 

@@ -97,7 +97,7 @@ https://youtu.be/0QMX0XoXg2M
 ## Kid-friendly Savannah attractions
 
 
-<figure><img src="/images/paris-market-savannah-georgia.jpg" alt="Paris Market Savannah " /><figcaption class="wp-element-caption">Photo courtesy of [Visit Savannah](https://visitsavannah.com)</figcaption></figure>
+<figure><img src="/images/paris-market-savannah-georgia.jpg" alt="Paris Market Savannah " /><figcaption class="wp-element-caption">Photo courtesy of <a href="https://visitsavannah.com">Visit Savannah</a></figcaption></figure>
 
 #### **[The Paris Market](/go/paris-market-savannah-georgia/)**
 
@@ -135,7 +135,7 @@ Located in the old A.S. Varn &amp; Son Oyster and Crab Factory, the Pin Point He
 
 
 
-<figure><img src="/images/river-street-savannah-georgia.jpg" alt="family friendly Savannah river street " /><figcaption class="wp-element-caption"> *Photo courtesy of *[Visit Savannah](https://visitsavannah.com/) </figcaption></figure>
+<figure><img src="/images/river-street-savannah-georgia.jpg" alt="family friendly Savannah river street " /><figcaption class="wp-element-caption"> *Photo courtesy of *<a href="https://visitsavannah.com/">Visit Savannah</a> </figcaption></figure>
 
 #### [River Street](/go/river-street-savannah-georgia/)
 
@@ -148,7 +148,7 @@ This nine block stretch along the river is lined with century old red brick arch
 
 
 
-<figure><img src="/images/tybee-island-savannah-georgia.jpg" alt="Savannah with kids Tybee island" /><figcaption class="wp-element-caption"> *Photo courtesy of *[Visit Savannah](https://visitsavannah.com/) </figcaption></figure>
+<figure><img src="/images/tybee-island-savannah-georgia.jpg" alt="Savannah with kids Tybee island" /><figcaption class="wp-element-caption"> *Photo courtesy of *<a href="https://visitsavannah.com/">Visit Savannah</a> </figcaption></figure>
 
 #### [Tybee Island](/go/tybee-island-savannah-georgia/)
 
@@ -184,7 +184,7 @@ Savannah has earned the title as America’s Most Haunted City and it would be a
 ## Live music spots in Savannah
 
 
-<figure><img src="/images/city-market-savannah-georgia.jpg" alt="savannah with kids city market savannah" /><figcaption class="wp-element-caption"> *Photo courtesy of *[Visit Savannah](https://visitsavannah.com/) </figcaption></figure>
+<figure><img src="/images/city-market-savannah-georgia.jpg" alt="savannah with kids city market savannah" /><figcaption class="wp-element-caption"> *Photo courtesy of *<a href="https://visitsavannah.com/">Visit Savannah</a> </figcaption></figure>
 
 #### [The City Market](/go/city-market-savannah-georgia/)
 
@@ -238,7 +238,7 @@ This is a relaxed openaire restaurant serving up fresh local seafood. They encou
 ## Historical sites things to do in Savannah
 
 
-<figure><img src="/images/olde-pink-house-restaurant-savannah-georgia.jpg" alt="Olde Pink House Restaurant Savannah with kids" /><figcaption class="wp-element-caption"> *Photo courtesy of *[Visit Savannah](https://visitsavannah.com/) </figcaption></figure>
+<figure><img src="/images/olde-pink-house-restaurant-savannah-georgia.jpg" alt="Olde Pink House Restaurant Savannah with kids" /><figcaption class="wp-element-caption"> *Photo courtesy of *<a href="https://visitsavannah.com/">Visit Savannah</a> </figcaption></figure>
 
 #### **[The Olde Pink House Restaurant](/go/olde-pink-house-restaurant-savannah-georgia/)**
 
@@ -277,7 +277,7 @@ With so much history in Savannah, it is a great idea to take an Old Savannah Tou
 
 
 
-<figure><img src="/images/bonaventure-cemetery-savannah-georgia.jpg" alt="Bonaventure Cemetery visiting Savannah with kids" /><figcaption class="wp-element-caption"> *Photo courtesy of *[Visit Savannah](https://visitsavannah.com/) </figcaption></figure>
+<figure><img src="/images/bonaventure-cemetery-savannah-georgia.jpg" alt="Bonaventure Cemetery visiting Savannah with kids" /><figcaption class="wp-element-caption"> *Photo courtesy of *<a href="https://visitsavannah.com/">Visit Savannah</a> </figcaption></figure>
 
 #### **[Historical Cemeteries](/go/bonaventure-cemetery-savannah-georgia/)**
 
@@ -288,7 +288,7 @@ With so much history in Savannah, it is a great idea to take an Old Savannah Tou
 
 
 
-<figure><img src="/images/old-fort-jackson-savannah-georgia.jpg" alt="Old Fort Jackson Savannah " /><figcaption class="wp-element-caption"> *Photo courtesy of *[Visit Savannah](https://visitsavannah.com/) </figcaption></figure>
+<figure><img src="/images/old-fort-jackson-savannah-georgia.jpg" alt="Old Fort Jackson Savannah " /><figcaption class="wp-element-caption"> *Photo courtesy of *<a href="https://visitsavannah.com/">Visit Savannah</a> </figcaption></figure>
 
 #### **[Historic Forts](/go/old-fort-jackson-savannah-georgia/)**
 
@@ -310,7 +310,7 @@ If you love history, then you will enjoy visiting some of the city’s most uniq
 
 
 
-<figure><img src="/images/davenport-house-museum-savannah-georgia.jpg" alt="Davenport House Museum Savannah with kids" /><figcaption class="wp-element-caption"> *Photo courtesy of *[Visit Savannah](https://visitsavannah.com/) </figcaption></figure>
+<figure><img src="/images/davenport-house-museum-savannah-georgia.jpg" alt="Davenport House Museum Savannah with kids" /><figcaption class="wp-element-caption"> *Photo courtesy of *<a href="https://visitsavannah.com/">Visit Savannah</a> </figcaption></figure>
 
 #### [Davenport House](/go/davenport-house-museum-savannah-georgia/)
 

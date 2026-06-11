@@ -68,7 +68,7 @@ To get a summary of the results at a glance, **we have created this custom, shar
 **Please include attribution to HotMamaTravel.com with this graphic.**
 
 [![What does Kid Friendly mean to you? Roundup of 14 family travel bloggers](/images/What-does-kid-friendly-mean-to-you-Infographic-735.png)](https://hotmamatravel.com/kid-friendly-travel-blogger-roundup/)
-</textarea>**[yTravelBlog.com](https://ytravelblog.com)**[![caz and crag makepeace and family ytravel blog](/images/Profile-ytravel-blog.jpg)](/kid-friendly-travel-blogger-roundup/)
+</textarea>**<a href="https://ytravelblog.com">yTravelBlog.com</a>**<a href="/images/Profile-ytravel-blog.jpg"><img src="/kid-friendly-travel-blogger-roundup/" alt="caz and crag makepeace and family ytravel blog</a>" />
 
 "Family friendly is not checking off a label, it's an attitude and an atmosphere. It's being welcoming and respectful towards children. It's seeing them as a present participant in the travel experience, not a side event. It's an experience that helps them learn, interact, and have fun. It doesn't have to be kid-oriented, but can be kid-friendly simply with the right attitude.
 

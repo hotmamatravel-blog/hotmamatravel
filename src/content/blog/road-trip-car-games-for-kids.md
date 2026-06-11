@@ -28,9 +28,9 @@ In this article, we present a list of our all-time favorite, **best travel games
 
 We highlight the top car games for young kids (4-9y), and top road trip games for older kids (10-15y). We also explain whether the game is suitable for 1, 2, or 3+ players in the car, so you can quickly find the perfect road trip activity for your next family trip easily.
 
-***Related Post**: [List of the Best Toddler Toys for Car Rides](/best-toddler-toys-for-car-rides/)*</pre>
+***Related Post**: <a href="/best-toddler-toys-for-car-rides/">List of the Best Toddler Toys for Car Rides</a>*</pre>
 
-***Related Link**: [Free travel-themed kids coloring book](https://blog.musement.com/us/musement-coloring-book-cities-in-color/)*</pre>
+***Related Link**: <a href="https://blog.musement.com/us/musement-coloring-book-cities-in-color/">Free travel-themed kids coloring book</a>*</pre>
 
 You can** jump ahead** by clicking a category in the table below.
 

@@ -164,7 +164,7 @@ The USS Yorktown, also known as the Fighting Lady, was commissioned during WWII 
 
 
 
-<figure><a href="/images/old-south-haunted-carriage-tour-charleston-sc.jpg"><img src="/images/old-south-haunted-carriage-tour-charleston-sc.jpg" alt="" /></a><figcaption class="wp-element-caption">[Old South Carriage Company](/go/old-south-haunted-ghost-tours-charleston-sc/)</figcaption></figure>
+<figure><a href="/images/old-south-haunted-carriage-tour-charleston-sc.jpg"><img src="/images/old-south-haunted-carriage-tour-charleston-sc.jpg" alt="" /></a><figcaption class="wp-element-caption"><a href="/go/old-south-haunted-ghost-tours-charleston-sc/">Old South Carriage Company</a></figcaption></figure>
 
 #### [Old South Haunted Ghost Tours](/go/old-south-haunted-ghost-tours-charleston-sc/)
 

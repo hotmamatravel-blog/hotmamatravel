@@ -179,7 +179,7 @@ Whether you’re a fan of the original movie or just looking for a fantastic Hal
 
 **[See Photos, Reviews, &amp; More](/go/sistahs-hocus-pocus-show-las-vegas/)**
 
-<div class="wp-block-uagb-image uagb-block-509dcac6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="fremont-street-las-vegas-halloween"><figure><a href="/images/fremont-street-las-vegas-halloween.jpg"><img src="/images/fremont-street-las-vegas-halloween.jpg" alt="Fremont Street Halloween in Las Vegas" /></a><figcaption class="uagb-image-caption">Courtesy of [Fremont Street Experience](https://vegasexperience.com/halloween/)</figcaption></figure></div>
+<div class="wp-block-uagb-image uagb-block-509dcac6 wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none" id="fremont-street-las-vegas-halloween"><figure><a href="/images/fremont-street-las-vegas-halloween.jpg"><img src="/images/fremont-street-las-vegas-halloween.jpg" alt="Fremont Street Halloween in Las Vegas" /></a><figcaption class="uagb-image-caption">Courtesy of <a href="https://vegasexperience.com/halloween/">Fremont Street Experience</a></figcaption></figure></div>
 
 ### [Fremont Street Experience Rock of Horror Halloweekend](/go/fremont-street-experience-las-vegas/)
 

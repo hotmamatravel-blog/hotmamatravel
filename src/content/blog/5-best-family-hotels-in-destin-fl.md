@@ -39,14 +39,14 @@ Ok, so we begin this article with a set of answers to Frequently Asked Questions
 
 As an alternative, you can jump straight ahead to our list of Destin's Best Family Hotels. ***It's your choice.***
 
-<div class="wp-block-button aligncenter is-style-default">[click to jump straight to hotel reviews](#top-5-family-hotels-destin)</div>
+<div class="wp-block-button aligncenter is-style-default"><a href="#top-5-family-hotels-destin">click to jump straight to hotel reviews</a></div>
 
 <div class="wp-block-columns has-2-columns">
 <div class="wp-block-column">
 
 **[Jump to: Best all-around](#henderson-resort)**
 
-<figure id="henderson-resort-spa-family-resorts-destin-fl"><a href="#henderson-resort"><img src="/images/destin-kid-friendly-hotel-henderson-lazy-river.jpg" alt="" /></a><figcaption class="wp-element-caption">[The Henderson Resort &amp; Spa](#henderson-resort)</figcaption></figure>
+<figure id="henderson-resort-spa-family-resorts-destin-fl"><a href="#henderson-resort"><img src="/images/destin-kid-friendly-hotel-henderson-lazy-river.jpg" alt="" /></a><figcaption class="wp-element-caption"><a href="#henderson-resort">The Henderson Resort &amp; Spa</a></figcaption></figure>
 
 </div>
 
@@ -54,20 +54,20 @@ As an alternative, you can jump straight ahead to our list of Destin's Best Fami
 
 **[Jump to: Top budget-friendly](#best-western-sugar-sands)**
 
-<figure id="best-western-sugar-sands-destin-hotels-for-families"><a href="#best-western-sugar-sands"><img src="/images/Best-western-sugar-sands-inn-suites-pool.jpg" alt="Family pool at Best Western Sugar Sands Suites in Destin Fl" /></a><figcaption class="wp-element-caption">[Spark by Hilton Destin](#best-western-sugar-sands)</figcaption></figure>
+<figure id="best-western-sugar-sands-destin-hotels-for-families"><a href="#best-western-sugar-sands"><img src="/images/Best-western-sugar-sands-inn-suites-pool.jpg" alt="Family pool at Best Western Sugar Sands Suites in Destin Fl" /></a><figcaption class="wp-element-caption"><a href="#best-western-sugar-sands">Spark by Hilton Destin</a></figcaption></figure>
 
 
 <div class="wp-block-columns has-3-columns">
 <div class="wp-block-column">
-<figure id="embassy-suites-hilton-family-hotels-destin-fl"><a href="#embassy-suites-hilton-destin"><img src="/images/Embassy-Suites-Hilton-Miramar-Beach-Destin-Atrium.jpg" alt="Lobby Atrium at Embassy Suites Miramar Beach Destin Fl" /></a><figcaption class="wp-element-caption">[The Embassy Suites](#embassy-suites-hilton-destin)</figcaption></figure>
+<figure id="embassy-suites-hilton-family-hotels-destin-fl"><a href="#embassy-suites-hilton-destin"><img src="/images/Embassy-Suites-Hilton-Miramar-Beach-Destin-Atrium.jpg" alt="Lobby Atrium at Embassy Suites Miramar Beach Destin Fl" /></a><figcaption class="wp-element-caption"><a href="#embassy-suites-hilton-destin">The Embassy Suites</a></figcaption></figure>
 </div>
 
 <div class="wp-block-column">
-<figure id="emerald-grande-harborwalk-family-resorts-destin-fl"><a href="#emerald-grande-harborwalk-village"><img src="/images/Emerald-Grande-Harborwalk-destin-pool-view.jpg" alt="pool at Emerald Grande at Haborwalk Village in Destin Fl" /></a><figcaption class="wp-element-caption">[Emerald Grande at HarborWalk Village](#emerald-grande-harborwalk-village)</figcaption></figure>
+<figure id="emerald-grande-harborwalk-family-resorts-destin-fl"><a href="#emerald-grande-harborwalk-village"><img src="/images/Emerald-Grande-Harborwalk-destin-pool-view.jpg" alt="pool at Emerald Grande at Haborwalk Village in Destin Fl" /></a><figcaption class="wp-element-caption"><a href="#emerald-grande-harborwalk-village">Emerald Grande at HarborWalk Village</a></figcaption></figure>
 </div>
 
 <div class="wp-block-column">
-<figure id="lagoon-pool-palms-resort-destin-family-resorts"><a href="#palms-destin-resort"><img src="/images/destin-palms-pool.jpg" alt="Lagoon pool at Destin Palms Resort in Destin Fl" /></a><figcaption class="wp-element-caption">[The Palms Destin Resort](#palms-destin-resort)</figcaption></figure>
+<figure id="lagoon-pool-palms-resort-destin-family-resorts"><a href="#palms-destin-resort"><img src="/images/destin-palms-pool.jpg" alt="Lagoon pool at Destin Palms Resort in Destin Fl" /></a><figcaption class="wp-element-caption"><a href="#palms-destin-resort">The Palms Destin Resort</a></figcaption></figure>
 
 
 Get all the visa-related information you need for your next

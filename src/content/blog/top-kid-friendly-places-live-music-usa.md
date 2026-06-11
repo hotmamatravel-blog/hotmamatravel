@@ -35,7 +35,7 @@ SCOTTSDALE, AZ
 #### Rusty Spur Saloon - Old Town Scottsdale, Arizona
 
 
-Just follow the music to the swinging doors of the Rusty Spur as it drifts down Main Street in Old Town Scottsdale. The Rusty Spur Saloon is the oldest bar in town, recently celebrating its 60<sup>th</sup> birthday. Housed in what was a former bank built in 1921, this lively saloon now uses the old vault to store *liquid* goods. The rustic Wild West décor, casual vibe and live music **all day, every day**, make the Rusty Spur a favorite hangout for locals, celebrities and (yes) families. Parents just keep note that all minors must be out of the Saloon by 6:00pm. We visited with kids on our **[trip to Scottsdale](/old-town-scottsdale/) **during lunchtime hours from 11:00 am to 4:00pm, and it was a great experience with a full menu of delicious food to keep the kid's bellies full.
+Just follow the music to the swinging doors of the Rusty Spur as it drifts down Main Street in Old Town Scottsdale. The Rusty Spur Saloon is the oldest bar in town, recently celebrating its 60<sup>th</sup> birthday. Housed in what was a former bank built in 1921, this lively saloon now uses the old vault to store *liquid* goods. The rustic Wild West décor, casual vibe and live music **all day, every day**, make the Rusty Spur a favorite hangout for locals, celebrities and (yes) families. Parents just keep note that all minors must be out of the Saloon by 6:00pm. We visited with kids on our **<a href="/old-town-scottsdale/">trip to Scottsdale</a> **during lunchtime hours from 11:00 am to 4:00pm, and it was a great experience with a full menu of delicious food to keep the kid's bellies full.
 
 #### See what it's like there:
 

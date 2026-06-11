@@ -84,7 +84,7 @@ The owners, Rosemary and Douglas were so sweet and super helpful. They helped us
 ### **5. The location:**
 
 Although, it was a bit too far for Papa to walk to town, [**The Kirklee Hotel**](http://www.tkqlhce.com/click-8336032-10937588) is walking distance from the happening Byres Rd and Botanical Garden. If you don’t want to walk or it is raining (it will probably be raining), it super easy and cheap to call a cab. I loved that is was in a residential neighborhood, giving us the feeling of living in Glasgow. The gardens on the property were gorgeous and the kids loved exploring and looking for fairies. There was also a corner store that Grams and I would walk to and pick up some vino for the evening. We just loved walking through the neighborhood. It was just lovely.
-<h1>[![Kirklee Hotel Garden with kids](/images/Kirklee4-1024x1024.jpg)](/kirklee-hotel-glasgow-scotland/)</h1>
+<h1><a href="/images/Kirklee4-1024x1024.jpg"><img src="/kirklee-hotel-glasgow-scotland/" alt="Kirklee Hotel Garden with kids</a>" /></h1>
 
 ## *That's A Wrap!*
 
