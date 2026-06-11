@@ -29,7 +29,7 @@ Let’s be honest for a moment, birthday parties are expensive and a lot of work
 
 This year we splurged a bit on the camp spot, opting for the expensive Newport Dunes rather than the significantly less [Vail Lake](/vail-lake-resort-with-kids/). But sometimes you got to go big, you know? By the time we all divide the cost it isn’t too dramatic anyway. Plus this weekend we all shacked up in the family RV, so no hotel cost! Whoop. Whoop. One camp site for our crew in Newport ($119+ depending on availability) verses getting a bunch of hotel rooms is a drastic difference in price. Although we are paying more for the site than normal, we still come out ahead.
 
-<h1>[](/original-st-patrick-dunes-post/)</h1>
+<h1><a href="/original-st-patrick-dunes-post/"></a></h1>
 
 ## ***Get your grub on***
 
