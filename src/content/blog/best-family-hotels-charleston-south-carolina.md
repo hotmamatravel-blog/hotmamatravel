@@ -82,31 +82,31 @@ As an alternative, you can jump straight ahead to our list of Charleston's Best 
 
 ## Frequently Asked Questions
 
-<div class="wp-block-rank-math-faq-block"><div class="rank-math-faq-item">
+
 
 ### Which family hotels in Charleston have large family suites?
 
-<div class="rank-math-answer">The family hotels in Charleston that have large family suites are the [Beach Club at Charleston Harbor Resort &amp; Marina](#beach-club-charleston), [French Quarter Inn](#french-quarter-inn), [Ansonborough Inn](#ansonborough-inn) and [Springhill Suites Charleston Downtown/Riverview](#springill-suites-charleston). <div class="rank-math-faq-item">
+The family hotels in Charleston that have large family suites are the [Beach Club at Charleston Harbor Resort &amp; Marina](#beach-club-charleston), [French Quarter Inn](#french-quarter-inn), [Ansonborough Inn](#ansonborough-inn) and [Springhill Suites Charleston Downtown/Riverview](#springill-suites-charleston). 
 
 ### What hotels in Charleston have nice family pools?
 
-<div class="rank-math-answer">The best hotels for families in Charleston with pools are [Beach Club at Charleston Harbor Resort &amp; Marina](#beach-club-charleston), [Holiday Inn Charleston Riverview](#holiday-inn-charleston) and[Springhill Suites Charleston Downtown/Riverview](#springill-suites-charleston).<div class="rank-math-faq-item">
+The best hotels for families in Charleston with pools are [Beach Club at Charleston Harbor Resort &amp; Marina](#beach-club-charleston), [Holiday Inn Charleston Riverview](#holiday-inn-charleston) and[Springhill Suites Charleston Downtown/Riverview](#springill-suites-charleston).
 
 ### Which family hotels in Charleston offer complimentary breakfast?
 
-<div class="rank-math-answer">The Charleston hotels for families that offer complimentary breakfast are [French Quarter Inn](#french-quarter-inn), [Ansonborough Inn](#ansonborough-inn) and [Springhill Suites Charleston Downtown/Riverview](#springill-suites-charleston).<div class="rank-math-faq-item">
+The Charleston hotels for families that offer complimentary breakfast are [French Quarter Inn](#french-quarter-inn), [Ansonborough Inn](#ansonborough-inn) and [Springhill Suites Charleston Downtown/Riverview](#springill-suites-charleston).
 
 ### Do any family-friendly hotels in Charleston have a free shuttle service?
 
-<div class="rank-math-answer">The hotels in Charleston that offer free shuttle service to downtown Charleston are [Holiday Inn Charleston Riverview](#holiday-inn-charleston) and [Beach Club at Charleston Harbor Resort &amp; Marina](#beach-club-charleston).<div class="rank-math-faq-item">
+The hotels in Charleston that offer free shuttle service to downtown Charleston are [Holiday Inn Charleston Riverview](#holiday-inn-charleston) and [Beach Club at Charleston Harbor Resort &amp; Marina](#beach-club-charleston).
 
 ### Which kid-friendly Charleston hotels have on-site restaurants?
 
-<div class="rank-math-answer">The best family hotels in Charleston with on-site restaurants are [Beach Club at Charleston Harbor Resort &amp; Marina](#beach-club-charleston), [Ansonborough Inn](#ansonborough-inn) and [Holiday Inn Charleston Riverview](#holiday-inn-charleston). <div class="rank-math-faq-item">
+The best family hotels in Charleston with on-site restaurants are [Beach Club at Charleston Harbor Resort &amp; Marina](#beach-club-charleston), [Ansonborough Inn](#ansonborough-inn) and [Holiday Inn Charleston Riverview](#holiday-inn-charleston). 
 
 ### Do any family hotels in Charleston have a kid's club or kid activities?
 
-<div class="rank-math-answer">Yes, the best family hotel in Charleston that has a kid's club and a ton of activities is the [Beach Club at Charleston Harbor Resort &amp; Marina](#beach-club-charleston). </div>
+Yes, the best family hotel in Charleston that has a kid's club and a ton of activities is the [Beach Club at Charleston Harbor Resort &amp; Marina](#beach-club-charleston). 
 
 ##
 Top Family Hotels in Charleston SC

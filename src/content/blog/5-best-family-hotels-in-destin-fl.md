@@ -75,31 +75,31 @@ travel destination on&nbsp;[natvisa.com](http://natvisa.com/)
 
 ## Frequently Asked Questions
 
-<div class="wp-block-rank-math-faq-block"><div class="rank-math-faq-item">
+
 
 ### What Destin family hotels have direct beach access?
 
-<div class="rank-math-answer">The Destin hotels with direct beach access is [The Henderson](#henderson-resort) and the [Embassy Suites by Hilton Destin](#embassy-suites-hilton-destin). However, [Emerald Grande](#emerald-grande-harborwalk-village) does have a complimentary boat shuttle to a private beach and [The Palms of Destin Resort](#palms-destin-resort) has a complimentary beach shuttle. <div class="rank-math-faq-item">
+The Destin hotels with direct beach access is [The Henderson](#henderson-resort) and the [Embassy Suites by Hilton Destin](#embassy-suites-hilton-destin). However, [Emerald Grande](#emerald-grande-harborwalk-village) does have a complimentary boat shuttle to a private beach and [The Palms of Destin Resort](#palms-destin-resort) has a complimentary beach shuttle. 
 
 ### Which family hotels in Destin have large family suites?
 
-<div class="rank-math-answer">The Destin family hotels with the largest family suites are the [Emerald Grande](#emerald-grande-harborwalk-village), [The Palms of Destin](#palms-destin-resort) and [The Henderson](#henderson-resort), which sleep 6 to 10.  The [Spark by Hilton Destin](#best-western-sugar-sands) and [Embassy Suites by Hilton Destin](#embassy-suites-hilton-destin) also have spacious family rooms.<div class="rank-math-faq-item">
+The Destin family hotels with the largest family suites are the [Emerald Grande](#emerald-grande-harborwalk-village), [The Palms of Destin](#palms-destin-resort) and [The Henderson](#henderson-resort), which sleep 6 to 10.  The [Spark by Hilton Destin](#best-western-sugar-sands) and [Embassy Suites by Hilton Destin](#embassy-suites-hilton-destin) also have spacious family rooms.
 
 ### Do any family-friendly hotels in Destin have complimentary breakfast?
 
-<div class="rank-math-answer">Yes. The Destin family hotels with complimentary breakfast are the [Spark by Hilton Destin](#best-western-sugar-sands) and  [Embassy Suites by Hilton Destin](#embassy-suites-hilton-destin).<div class="rank-math-faq-item">
+Yes. The Destin family hotels with complimentary breakfast are the [Spark by Hilton Destin](#best-western-sugar-sands) and  [Embassy Suites by Hilton Destin](#embassy-suites-hilton-destin).
 
 ### Which kid-friendly Destin hotels have on-site restaurants?
 
-<div class="rank-math-answer">The Destin hotels with on-site restaurants are [The Henderson](#henderson-resort), [The Palms of Destin Resort](#palms-destin-resort), [Emerald Grande](#emerald-grande-harborwalk-village) and [Embassy Suites by Hilton Destin](#embassy-suites-hilton-destin). <div class="rank-math-faq-item">
+The Destin hotels with on-site restaurants are [The Henderson](#henderson-resort), [The Palms of Destin Resort](#palms-destin-resort), [Emerald Grande](#emerald-grande-harborwalk-village) and [Embassy Suites by Hilton Destin](#embassy-suites-hilton-destin). 
 
 ### Do any of the family hotels in Destin have a kids' club?
 
-<div class="rank-math-answer">The hotel in Destin for families that has a kids' club is [The Henderson](#henderson-resort). <div class="rank-math-faq-item">
+The hotel in Destin for families that has a kids' club is [The Henderson](#henderson-resort). 
 
 ### Which family-friendly hotels in Destin has great family pools?
 
-<div class="rank-math-answer">The Destin family hotels that have awesome family pools are [The Henderson](#henderson-resort), [The Palms of Destin Resort](#palms-destin-resort)and [Emerald Grande](#emerald-grande-harborwalk-village). However, [Embassy Suites by Hilton Destin](#embassy-suites-hilton-destin) and [Spark by Hilton Destin](#best-western-sugar-sands) also have pools. </div>
+The Destin family hotels that have awesome family pools are [The Henderson](#henderson-resort), [The Palms of Destin Resort](#palms-destin-resort)and [Emerald Grande](#emerald-grande-harborwalk-village). However, [Embassy Suites by Hilton Destin](#embassy-suites-hilton-destin) and [Spark by Hilton Destin](#best-western-sugar-sands) also have pools. 
 
 
 

@@ -51,27 +51,27 @@ I recommend starting your walk about an hour before sunset and continuing for ab
 
 ## Las Vegas Strip Frequently Asked Questions.
 
-<div class="wp-block-rank-math-faq-block"><div class="rank-math-faq-item">
+
 
 ### Is the Las Vegas Strip walkable?
 
-<div class="rank-math-answer">Yes, the Las Vegas Strip is a walkable stretch of Las Vegas Boulevard lined with some of Las Vegas’s most iconic resorts. The strip is complete with barrier protected sidewalks, overhead pedestrian bridges, trams and even a monorail.<div class="rank-math-faq-item">
+Yes, the Las Vegas Strip is a walkable stretch of Las Vegas Boulevard lined with some of Las Vegas’s most iconic resorts. The strip is complete with barrier protected sidewalks, overhead pedestrian bridges, trams and even a monorail.
 
 ### How long does it take to walk the whole strip in Vegas?
 
-<div class="rank-math-answer">The Las Vegas Strip is 4.2 miles long, so how that takes you depends on you. You also have to consider that you will likely be popping into various hotels and spending some time seeing different attractions. Walking the entire strip could easily take an entire day.<div class="rank-math-faq-item">
+The Las Vegas Strip is 4.2 miles long, so how that takes you depends on you. You also have to consider that you will likely be popping into various hotels and spending some time seeing different attractions. Walking the entire strip could easily take an entire day.
 
 ### Is it safe to walk the Las Vegas Strip?
 
-<div class="rank-math-answer">Yes, it is safe to walk the Las Vegas Strip. Like any other large city you should always use precautions and be aware. Stay on the Strip and you should be fine. If you look at the Las [Vegas Police Department crime map](https://opendata-lvmpd.hub.arcgis.com/apps/482dd33db5064364b421da2b52f55d77/explore), violent crimes are minimal on the strip. This is a tourist location and there is a heavy police presence, which makes it one of the safer areas of Las Vegas. <div class="rank-math-faq-item">
+Yes, it is safe to walk the Las Vegas Strip. Like any other large city you should always use precautions and be aware. Stay on the Strip and you should be fine. If you look at the Las [Vegas Police Department crime map](https://opendata-lvmpd.hub.arcgis.com/apps/482dd33db5064364b421da2b52f55d77/explore), violent crimes are minimal on the strip. This is a tourist location and there is a heavy police presence, which makes it one of the safer areas of Las Vegas. 
 
 ### Is it safe to walk the Las Vegas Strip at night?
 
-<div class="rank-math-answer">Yes, it is safe to walk the Las Vegas Strip at night. Like any city, the day time is always safer, but that doesn’t render the strip at night unsafe. When traveling anywhere, be aware and use regular precautions.<div class="rank-math-faq-item">
+Yes, it is safe to walk the Las Vegas Strip at night. Like any city, the day time is always safer, but that doesn’t render the strip at night unsafe. When traveling anywhere, be aware and use regular precautions.
 
 ### Can you walk the Las Vegas strip with alcohol?
 
-<div class="rank-math-answer">Yes, it is legal to consume open containers of alcohol while walking the strip. It is not, however, legal to carry glass. You will often see people carrying cocktails served in long plastic half-yards.</div>
+Yes, it is legal to consume open containers of alcohol while walking the strip. It is not, however, legal to carry glass. You will often see people carrying cocktails served in long plastic half-yards.
 
 ## Las Vegas Strip Family Attractions
 

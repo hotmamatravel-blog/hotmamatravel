@@ -81,31 +81,31 @@ As an alternative, you can jump straight ahead to our list of Boston's Best Fami
 
 </div>
 
-<div class="wp-block-rank-math-faq-block"><div class="rank-math-faq-item">
+
 
 ### Where should a family stay in Boston on vacation?
 
-<div class="rank-math-answer">The best neighborhoods in Boston for families on vacation are Back Bay (were you can find the [Four Seasons Hotel Boston](/go/four-seasons-boston/) and [The Lenox Hotel](/go/lenox-hotel-boston/)), Charlestown ([Residence Inn Boston Harbor](/go/residence-inn-marriott-harbor-tudor-wharf-boston/)), Seaport District ([Seaport Hotel &amp; World Trade Center](/go/seaport-hotel-world-trade-center-boston/)) and Downtown [(Kimpton Nine Zero Hotel](/go/kimpton-nine-zero-boston/)). <div class="rank-math-faq-item">
+The best neighborhoods in Boston for families on vacation are Back Bay (were you can find the [Four Seasons Hotel Boston](/go/four-seasons-boston/) and [The Lenox Hotel](/go/lenox-hotel-boston/)), Charlestown ([Residence Inn Boston Harbor](/go/residence-inn-marriott-harbor-tudor-wharf-boston/)), Seaport District ([Seaport Hotel &amp; World Trade Center](/go/seaport-hotel-world-trade-center-boston/)) and Downtown [(Kimpton Nine Zero Hotel](/go/kimpton-nine-zero-boston/)). 
 
 ### Which kid-friendly hotels in Boston offer large family suites?
 
-<div class="rank-math-answer">There are actually not that many hotels in Boston with large suites for families. In fact, you are lucky to find a hotel with two queen beds, as many Boston hotels only have the option of two double beds. The hotel on our list with the best Boston family suites is [Residence Inn Boston Harbor](/go/residence-inn-marriott-harbor-tudor-wharf-boston/) with two queens and a fold-out couch.<div class="rank-math-faq-item">
+There are actually not that many hotels in Boston with large suites for families. In fact, you are lucky to find a hotel with two queen beds, as many Boston hotels only have the option of two double beds. The hotel on our list with the best Boston family suites is [Residence Inn Boston Harbor](/go/residence-inn-marriott-harbor-tudor-wharf-boston/) with two queens and a fold-out couch.
 
 ### Do any Boston hotels have pools for families with kids?
 
-<div class="rank-math-answer">Yes, there are several family hotels in Boston with pools. Because of the weather, a majority of these are indoor pools so they can be used year-round. Some of our favorite Boston hotels with family-friendly pools are the [Residence Inn by Marriott Boston Harbor](/go/residence-inn-marriott-harbor-tudor-wharf-boston/), [Four Season Boston](/go/four-seasons-boston/), [Seaport Hotel &amp; World Trade Center](/go/seaport-hotel-world-trade-center-boston/). <div class="rank-math-faq-item">
+Yes, there are several family hotels in Boston with pools. Because of the weather, a majority of these are indoor pools so they can be used year-round. Some of our favorite Boston hotels with family-friendly pools are the [Residence Inn by Marriott Boston Harbor](/go/residence-inn-marriott-harbor-tudor-wharf-boston/), [Four Season Boston](/go/four-seasons-boston/), [Seaport Hotel &amp; World Trade Center](/go/seaport-hotel-world-trade-center-boston/). 
 
 ### Which Boston hotels offer connected rooms for families with kids?
 
-<div class="rank-math-answer">The Boston hotels on our list that offer connecting rooms are the [Seaport Hotel &amp; World Trade Center](/go/seaport-hotel-world-trade-center-boston/), [Lenox Hotel](/go/lenox-hotel-boston/) and [Four Seasons Boston](/go/four-seasons-boston/).<div class="rank-math-faq-item">
+The Boston hotels on our list that offer connecting rooms are the [Seaport Hotel &amp; World Trade Center](/go/seaport-hotel-world-trade-center-boston/), [Lenox Hotel](/go/lenox-hotel-boston/) and [Four Seasons Boston](/go/four-seasons-boston/).
 
 ### Which family hotels in Boston have on-site restaurants?
 
-<div class="rank-math-answer">On-site restaurants are especially convenient for families traveling with kids. The best family hotels in Boston that have on-site restaurants are the [Kimpton Nine Zero](/go/kimpton-nine-zero-boston/), [Lenox Hotel](/go/lenox-hotel-boston/), [Four Seasons Boston Hotel](/go/four-seasons-boston/), and [Seaport Hotel &amp; World Trade Center](/go/seaport-hotel-world-trade-center-boston/). <div class="rank-math-faq-item">
+On-site restaurants are especially convenient for families traveling with kids. The best family hotels in Boston that have on-site restaurants are the [Kimpton Nine Zero](/go/kimpton-nine-zero-boston/), [Lenox Hotel](/go/lenox-hotel-boston/), [Four Seasons Boston Hotel](/go/four-seasons-boston/), and [Seaport Hotel &amp; World Trade Center](/go/seaport-hotel-world-trade-center-boston/). 
 
 ### Which Boston family hotels offer complimentary breakfast?
 
-<div class="rank-math-answer">The Boston family hotels on our list that offer complimentary breakfast are the [Residence Inn by Marriott Boston Harbor](/go/residence-inn-marriott-harbor-tudor-wharf-boston/) and [Kimpton Nine Zero](/go/kimpton-nine-zero-boston/).</div>
+The Boston family hotels on our list that offer complimentary breakfast are the [Residence Inn by Marriott Boston Harbor](/go/residence-inn-marriott-harbor-tudor-wharf-boston/) and [Kimpton Nine Zero](/go/kimpton-nine-zero-boston/).
 
 ## Top Family Hotels in Boston
 

@@ -48,27 +48,27 @@ Whether you are visiting before embarking on one of the many cruises leaving out
 
 ## Frequently Asked Questions
 
-<div class="wp-block-rank-math-faq-block"><div class="rank-math-faq-item">
+
 
 ### Which hotels in Vancouver offer complimentary breakfast?
 
-<div class="rank-math-answer">The best family hotels in Vancouver that offers complimentary breakfast is the [Residence Inn by Marriott Vancouver Downtown](#residence-inn-marriott-vancouver) and [Hampton Inn &amp; Suites by Hilton Vancouver](#hampton-inn-vancouver) which have a delicious hot breakfast buffet. <div class="rank-math-faq-item">
+The best family hotels in Vancouver that offers complimentary breakfast is the [Residence Inn by Marriott Vancouver Downtown](#residence-inn-marriott-vancouver) and [Hampton Inn &amp; Suites by Hilton Vancouver](#hampton-inn-vancouver) which have a delicious hot breakfast buffet. 
 
 ### Which hotels in Vancouver have large family suites?
 
-<div class="rank-math-answer">The family hotels in Vancouver with large family suites includes, the [Fairmont Waterfront](#fairmont-waterfront-vancouver), [Century Plaza Hotel &amp; Spa](#century-plaza-hotel), and [Delta Hotels by Marriott Vancouver Downtown Suites](#delta-hotels-marriott-vancouver).<div class="rank-math-faq-item">
+The family hotels in Vancouver with large family suites includes, the [Fairmont Waterfront](#fairmont-waterfront-vancouver), [Century Plaza Hotel &amp; Spa](#century-plaza-hotel), and [Delta Hotels by Marriott Vancouver Downtown Suites](#delta-hotels-marriott-vancouver).
 
 ### Do any hotels in Vancouver have kids' activities?
 
-<div class="rank-math-answer">Yes, the best kid-friendly hotels in Vancouver that offer kid-specific amenities and activities are the [Fairmont Waterfront](#fairmont-waterfront-vancouver) and [Westin Bayshore, Vancouver](#westin-bayshore-vancouver) .<div class="rank-math-faq-item">
+Yes, the best kid-friendly hotels in Vancouver that offer kid-specific amenities and activities are the [Fairmont Waterfront](#fairmont-waterfront-vancouver) and [Westin Bayshore, Vancouver](#westin-bayshore-vancouver) .
 
 ### Which hotel in Vancouver has the best family pool?
 
-<div class="rank-math-answer">All the Vancouver family hotels on our list have a pool area. The [Fairmont Waterfront](#fairmont-waterfront-vancouver), [Pan Pacific Vancouver](#pan-pacific-vancouver), and [Westin Bayshore](#westin-bayshore-vancouver) have outdoor pools. [The Century Plaza Hotel &amp; Spa](#century-plaza-hotel) and the [Residence Inn by Marriott Vancouver Downtown](#residence-inn-marriott-vancouver) have indoor pools. <div class="rank-math-faq-item">
+All the Vancouver family hotels on our list have a pool area. The [Fairmont Waterfront](#fairmont-waterfront-vancouver), [Pan Pacific Vancouver](#pan-pacific-vancouver), and [Westin Bayshore](#westin-bayshore-vancouver) have outdoor pools. [The Century Plaza Hotel &amp; Spa](#century-plaza-hotel) and the [Residence Inn by Marriott Vancouver Downtown](#residence-inn-marriott-vancouver) have indoor pools. 
 
 ### Which hotels in Vancouver have mini-fridges in the rooms?
 
-<div class="rank-math-answer">The best family hotels in Vancouver with fridges and/or kitchenettes in the rooms are the [Residence Inn by Marriott Vancouver Downtown](#residence-inn-marriott-vancouver), [Century Plaza Hotel &amp; Spa](#century-plaza-hotel), [Pan Pacific Vancouver](#pan-pacific-vancouver), and [Delta Hotels by Marriott Vancouver](#delta-hotels-marriott-vancouver)</div>
+The best family hotels in Vancouver with fridges and/or kitchenettes in the rooms are the [Residence Inn by Marriott Vancouver Downtown](#residence-inn-marriott-vancouver), [Century Plaza Hotel &amp; Spa](#century-plaza-hotel), [Pan Pacific Vancouver](#pan-pacific-vancouver), and [Delta Hotels by Marriott Vancouver](#delta-hotels-marriott-vancouver)
 
 
 

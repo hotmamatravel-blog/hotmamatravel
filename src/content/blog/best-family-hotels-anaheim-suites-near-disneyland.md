@@ -45,31 +45,31 @@ Ok, so we begin this article with a set of answers to Frequently Asked Questions
 
 
 
-<div class="wp-block-rank-math-faq-block"><div class="rank-math-faq-item">
+
 
 ### Are there any non-Disney hotels that are walking distance to Disneyland park?
 
-<div class="rank-math-answer">Yes, several hotels near the Main Gate are East of Disneyland (off Harbor Blvd), which are generally considered to be walking distance to the park (&lt;1.0 mile away or 10-15 mins walk). There are several other clusters of hotels to the South (off Katella Blvd) and to the North (off Ball Rd) that may be too far to walk comfortably, especially with young kids, but that are just a short (5-10 mins) shuttle ride away. The closest hotel to the main gate (which we recommend in this article) is the [**Best Western Plus Park Place Inn &amp; Mini Suites**](/go/bw-plus-park-place-inn-mini-suites-anaheim/), [**Grand Legacy at the Park**](/go/grand-legacy-park-hotel-anaheim/), **[Sheraton Park](/go/sheraton-park-hotel-anaheim/), [Courtyard Anaheim Theme Park Entrance](/go/courtyard-anaheim-park-entrance/)**.<div class="rank-math-faq-item">
+Yes, several hotels near the Main Gate are East of Disneyland (off Harbor Blvd), which are generally considered to be walking distance to the park (&lt;1.0 mile away or 10-15 mins walk). There are several other clusters of hotels to the South (off Katella Blvd) and to the North (off Ball Rd) that may be too far to walk comfortably, especially with young kids, but that are just a short (5-10 mins) shuttle ride away. The closest hotel to the main gate (which we recommend in this article) is the [**Best Western Plus Park Place Inn &amp; Mini Suites**](/go/bw-plus-park-place-inn-mini-suites-anaheim/), [**Grand Legacy at the Park**](/go/grand-legacy-park-hotel-anaheim/), **[Sheraton Park](/go/sheraton-park-hotel-anaheim/), [Courtyard Anaheim Theme Park Entrance](/go/courtyard-anaheim-park-entrance/)**.
 
 ### Are there any cheap hotels near Disneyland?
 
-<div class="rank-math-answer">Yes and no (it depends on your definition of cheap). There are some hotel options that are more budget-friendly than others near Disneyland, but you should expect to pay at least $100/night to stay at a 2-star hotel near Disneyland. Prices go up from there and will also vary significantly depending on factors like time of year and day of the week. A few of our favorite, more affordable family hotels near Disneyland are [**Anaheim Resort Suites**](/go/cambria-hotel-anaheim-resort/), [**Howard Johnson Anaheim**](/go/howard-johnson-anaheim/), [**Hyatt Regency Orange County**](/go/hyatt-regency-orange-county/) (a few miles south, but a quick shuttle ride away from the park), and [**Anaheim Majestic Garden Hotel**](/go/majestic-garden-hotel-anaheim/).<div class="rank-math-faq-item">
+Yes and no (it depends on your definition of cheap). There are some hotel options that are more budget-friendly than others near Disneyland, but you should expect to pay at least $100/night to stay at a 2-star hotel near Disneyland. Prices go up from there and will also vary significantly depending on factors like time of year and day of the week. A few of our favorite, more affordable family hotels near Disneyland are [**Anaheim Resort Suites**](/go/cambria-hotel-anaheim-resort/), [**Howard Johnson Anaheim**](/go/howard-johnson-anaheim/), [**Hyatt Regency Orange County**](/go/hyatt-regency-orange-county/) (a few miles south, but a quick shuttle ride away from the park), and [**Anaheim Majestic Garden Hotel**](/go/majestic-garden-hotel-anaheim/).
 
 ### What is the best hotel for a large family near Disneyland?
 
-<div class="rank-math-answer">Since Anaheim is a prime tourist destination year-round for families with children, there are more hotels with large family suites than you would expect in a typical city. In fact, all of the hotels featured in this list have suites to accommodate families of 5+, but a few standout hotels are the all-suite, condo-style [**Clementine Hotel &amp; Suites**](/go/clementine-hotel-suites-anaheim/), [**Anaheim Resort Suites**](/go/cambria-hotel-anaheim-resort/)  has a huge family suite that sleeps up to 11, and [**Grand Legacy at the Park**](/go/grand-legacy-park-hotel-anaheim/), which has a 3 room 950 sq ft family suite with 4 queen beds. <div class="rank-math-faq-item">
+Since Anaheim is a prime tourist destination year-round for families with children, there are more hotels with large family suites than you would expect in a typical city. In fact, all of the hotels featured in this list have suites to accommodate families of 5+, but a few standout hotels are the all-suite, condo-style [**Clementine Hotel &amp; Suites**](/go/clementine-hotel-suites-anaheim/), [**Anaheim Resort Suites**](/go/cambria-hotel-anaheim-resort/)  has a huge family suite that sleeps up to 11, and [**Grand Legacy at the Park**](/go/grand-legacy-park-hotel-anaheim/), which has a 3 room 950 sq ft family suite with 4 queen beds. 
 
 ### Do any hotels in Anaheim near Disneyland have bunk beds for kids?
 
-<div class="rank-math-answer">Yes, you can find several family-friendly hotels near Disneyland with bunk beds for the kids. Some even get creative, like [**Anaheim Majestic Garden Hotel**](/go/majestic-garden-hotel-anaheim/), which has cute castle-shaped bunk beds.<div class="rank-math-faq-item">
+Yes, you can find several family-friendly hotels near Disneyland with bunk beds for the kids. Some even get creative, like [**Anaheim Majestic Garden Hotel**](/go/majestic-garden-hotel-anaheim/), which has cute castle-shaped bunk beds.
 
 ### Which hotels near Disneyland offer complimentary breakfast?
 
-<div class="rank-math-answer">Yes, there are several hotels that offer free breakfast buffet. Our favorite hotels in Anaheim near Disneyland that offer complimentary breakfast are [**Best Western Plus Park Place Inn &amp; Mini Suites**](/go/bw-plus-park-place-inn-mini-suites-anaheim/) (or any of the other Best Western Plus hotels near Disneyland, for that matter), [**Anaheim Resort Suites**](/go/cambria-hotel-anaheim-resort/), and [**Clementine Hotel &amp; Suites**](/go/clementine-hotel-suites-anaheim/).<div class="rank-math-faq-item">
+Yes, there are several hotels that offer free breakfast buffet. Our favorite hotels in Anaheim near Disneyland that offer complimentary breakfast are [**Best Western Plus Park Place Inn &amp; Mini Suites**](/go/bw-plus-park-place-inn-mini-suites-anaheim/) (or any of the other Best Western Plus hotels near Disneyland, for that matter), [**Anaheim Resort Suites**](/go/cambria-hotel-anaheim-resort/), and [**Clementine Hotel &amp; Suites**](/go/clementine-hotel-suites-anaheim/).
 
 ### Do any hotels near Disneyland offer free parking for guests?
 
-<div class="rank-math-answer">Free hotel parking is rare to find near Disneyland, but free parking is offered to guests at [**Clementine Hotel &amp; Suites**](/go/clementine-hotel-suites-anaheim/), and is included in some packages at [**Anaheim Majestic Garden Hotel**](/go/majestic-garden-hotel-anaheim/).</div>
+Free hotel parking is rare to find near Disneyland, but free parking is offered to guests at [**Clementine Hotel &amp; Suites**](/go/clementine-hotel-suites-anaheim/), and is included in some packages at [**Anaheim Majestic Garden Hotel**](/go/majestic-garden-hotel-anaheim/).
 
 
 

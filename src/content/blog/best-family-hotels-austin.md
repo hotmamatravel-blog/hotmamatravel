@@ -87,31 +87,31 @@ As an alternative, you can jump straight ahead to our list of Austin's Best Fami
 
 ## Frequently Asked Questions
 
-<div class="wp-block-rank-math-faq-block"><div class="rank-math-faq-item">
+
 
 ### Which family hotels in Austin offer complimentary breakfast?
 
-<div class="rank-math-answer">The family hotels in Austin that offer complimentary breakfast are the [Aiden by Best Western Austin City Hotel](#best-western-austin), [Embassy Suites by Hilton Austin Downtown](#embassy-suites-austin-downtown) and[Hampton Inn &amp; Suites Austin University/Capital](#hampton-inn-suites-austin). <div class="rank-math-faq-item">
+The family hotels in Austin that offer complimentary breakfast are the [Aiden by Best Western Austin City Hotel](#best-western-austin), [Embassy Suites by Hilton Austin Downtown](#embassy-suites-austin-downtown) and[Hampton Inn &amp; Suites Austin University/Capital](#hampton-inn-suites-austin). 
 
 ### Which Austin hotels have large rooms for families?
 
-<div class="rank-math-answer">The Austin hotels that have family suites are [Hyatt Regency Austin](#hyatt-regency-austin), [Embassy Suites by Hilton Downtown South Congress](#embassy-suites-austin-downtown) and [Hampton Inn &amp; Suites Austin University/Capital](#hampton-inn-suites-austin).<div class="rank-math-faq-item">
+The Austin hotels that have family suites are [Hyatt Regency Austin](#hyatt-regency-austin), [Embassy Suites by Hilton Downtown South Congress](#embassy-suites-austin-downtown) and [Hampton Inn &amp; Suites Austin University/Capital](#hampton-inn-suites-austin).
 
 ### Which kid-friendly hotels in Austin have pools?
 
-<div class="rank-math-answer">All the kid-friendly hotels in Austin on our list have pools. The[Aiden by Best Western](#best-western-austin) has a lush garden pool, the [Omni Austin Hotel at Southpark](#omni-austin-southpark-hotel) has a cool indoor/outdoor pool, the [Hyatt Regency Austin](#hyatt-regency-austin) has a lakeside pool, [Embassy Suites by Hilton Austin Downtown South Congress](#embassy-suites-austin-downtown) has an indoor pool and the [Hampton Inn &amp; Suites Austin University/Capital has a rooftop pool](#hampton-inn-suites-austin). <div class="rank-math-faq-item">
+All the kid-friendly hotels in Austin on our list have pools. The[Aiden by Best Western](#best-western-austin) has a lush garden pool, the [Omni Austin Hotel at Southpark](#omni-austin-southpark-hotel) has a cool indoor/outdoor pool, the [Hyatt Regency Austin](#hyatt-regency-austin) has a lakeside pool, [Embassy Suites by Hilton Austin Downtown South Congress](#embassy-suites-austin-downtown) has an indoor pool and the [Hampton Inn &amp; Suites Austin University/Capital has a rooftop pool](#hampton-inn-suites-austin). 
 
 ### Which family-friendly Austin hotels have on-site restaurant?
 
-<div class="rank-math-answer">The family-friendly Austin hotels that have on-site restaurants are the [Aiden by Best Western Austin City Hotel](#best-western-austin), [Omni Austin Hotel](#omni-austin-southpark-hotel), [Hyatt Regency Austin](#hyatt-regency-austin) and the [Embassy Suites by Hilton Downtown South Congress](#embassy-suites-austin-downtown).<div class="rank-math-faq-item">
+The family-friendly Austin hotels that have on-site restaurants are the [Aiden by Best Western Austin City Hotel](#best-western-austin), [Omni Austin Hotel](#omni-austin-southpark-hotel), [Hyatt Regency Austin](#hyatt-regency-austin) and the [Embassy Suites by Hilton Downtown South Congress](#embassy-suites-austin-downtown).
 
 ### Which Austin hotels for families have free parking?
 
-<div class="rank-math-answer">The Austin family hotels with free parking are the [Aiden by Best Western Austin City Hotel](#best-western-austin) and the [Omni Austin Hotel](#omni-austin-southpark-hotel). <div class="rank-math-faq-item">
+The Austin family hotels with free parking are the [Aiden by Best Western Austin City Hotel](#best-western-austin) and the [Omni Austin Hotel](#omni-austin-southpark-hotel). 
 
 ### Which family Austin hotels are budget-friendly?
 
-<div class="rank-math-answer">The family Austin hotels that are budget friendly are the [Aiden by Best Western Austin City Hotel](#best-western-austin) and the [Hampton Inn &amp; Suites Austin University/Capital](#hampton-inn-suites-austin). </div>
+The family Austin hotels that are budget friendly are the [Aiden by Best Western Austin City Hotel](#best-western-austin) and the [Hampton Inn &amp; Suites Austin University/Capital](#hampton-inn-suites-austin). 
 
 ## Top Family Hotels in Austin
 

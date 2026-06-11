@@ -83,23 +83,23 @@ As an alternative, you can jump straight ahead to our list of Clearwater Beach's
 
 </div>
 
-<div class="wp-block-rank-math-faq-block"><div class="rank-math-faq-item">
+
 
 ### Which Clearwater Beach hotels have family suites?
 
-<div class="rank-math-answer">The best Clearwater hotels with family suites on our list are the [Edge Hotel](#edge-hotel), the [Opal Sands Resort](#opal-sands), the [Sandpearl Resort](#sandpearl-resort) and out top overall choice, the [Hyatt Regency Clearwater](#hyatt-regency-clearwater).<div class="rank-math-faq-item">
+The best Clearwater hotels with family suites on our list are the [Edge Hotel](#edge-hotel), the [Opal Sands Resort](#opal-sands), the [Sandpearl Resort](#sandpearl-resort) and out top overall choice, the [Hyatt Regency Clearwater](#hyatt-regency-clearwater).
 
 ### Which Clearwater Beach hotels are beachfront?
 
-<div class="rank-math-answer">The [Opal Sands](#opal-sands), [Sandpearl](#sandpearl-resort),[Hilton](#hilton-clearwater) and [Hyatt Regenc](#hyatt-regency-clearwater)y are all beach front Clearwater Beach hotels.<div class="rank-math-faq-item">
+The [Opal Sands](#opal-sands), [Sandpearl](#sandpearl-resort),[Hilton](#hilton-clearwater) and [Hyatt Regenc](#hyatt-regency-clearwater)y are all beach front Clearwater Beach hotels.
 
 ### Which Clearwater Beach family hotels have complimentary breakfast?
 
-<div class="rank-math-answer">The best kid-friendly hotel in Clearwater Beach with complimentary breakfast is the [Edge Hotel](#edge-hotel). <div class="rank-math-faq-item">
+The best kid-friendly hotel in Clearwater Beach with complimentary breakfast is the [Edge Hotel](#edge-hotel). 
 
 ### Do any Clearwater Beach resorts have a kids' club?
 
-<div class="rank-math-answer">Yes, the [Hyatt Regency](#hyatt-regency-clearwater) and the [Sandpearl](#sandpearl-resort) both have a kids' club. </div>
+Yes, the [Hyatt Regency](#hyatt-regency-clearwater) and the [Sandpearl](#sandpearl-resort) both have a kids' club. 
 
 ## Top Family Hotels in Clearwater Beach
 
