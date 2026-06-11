@@ -231,6 +231,8 @@ This family-friendly event is perfect for young gamers eager to show off their t
 
 **[See Photos, Reviews, &amp; More](/go/the-luxor-hotel-las-vegas/)**
 
+## That's a Wrap!
+
 As Halloween approaches, Las Vegas turns into a magical playground filled with spooky fun and unforgettable adventures for kids and families. From haunted aquariums to thrilling escape rooms, there’s no shortage of eerie excitement to enjoy.
 
  Ready to plan your ultimate Halloween getaway? Join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! It is a lot of fun.

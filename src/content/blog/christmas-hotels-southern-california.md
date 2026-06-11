@@ -151,6 +151,8 @@ You know what they say - Tis' the season to be merry! And what could be merrier 
 
 To make the most of your holiday vacation explore more [**California travel**](/california-family-travel/) with exciting things to do, places to stay, cool family-friendly restaurants.
 
+## That's a Wrap!
+
 For more cool family hotels in more cool cities, explore my favorite[](/best-family-hotels/)**[family hotels](/best-family-hotels/) **from around the world and start packing.
 
 

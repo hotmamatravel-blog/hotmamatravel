@@ -34,5 +34,7 @@ It’s also a good idea to think about the best timeframe to travel in too. Mayb
 
 Finally, you’re going to want to be thinking about what you want to do when you’re there. It could be that you just want to visit the beach, eat, drink, and relax. Or maybe you’re going on a vacation that is more about exploring and adventure? Whatever it is, you’re going to want to make sure that you figure out how you want to enjoy the trip and then be sure to make some plans or book in aunty restaurants or events that you want to enjoy. Then, all that’s let to do is head out and enjoy it. Check out [Go City](/go/go-city/) to explore and book bucket list attractions, top tours, and hidden gems.
 
+## That's a Wrap!
+
 Approaching the planning of your next trip with a strategic mindset and thorough research can significantly enhance your travel experience. By considering factors such as budget, destination, accommodation, transportation, and activities, you can create a well-rounded itinerary that caters to your preferences and maximizes enjoyment. Additionally, staying flexible and open to new experiences allows for spontaneity and unexpected discoveries along the way. So, take the time to plan, but also leave room for adventure and embrace the excitement of exploring new places. Happy travels!
 

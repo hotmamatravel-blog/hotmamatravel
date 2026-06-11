@@ -88,6 +88,8 @@ Good eats is not an issue in St. Pete. There are plethora great restaurants. Unl
 
 St. Pete Beach or Clearwater Beach, which one is best for your family? Honestly, you can’t go wrong with either one. Both offer that laid-back Florida charm that families love. And since they’re only about 30 minutes apart, why not explore both? You can even take the [Suncoast Trolly](https://www.psta.net/how-to-ride/schedulesmap/suncoast-beach-trolley/) and spend a in each and enjoy the best of both worlds!
 
+## That's a Wrap!
+
 To plan the ultimate Florida vacation, check out our other[Florida family travel guides](/florida-family-holidays/).
 
 

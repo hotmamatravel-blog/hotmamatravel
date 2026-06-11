@@ -52,6 +52,8 @@ This is a bit of a niche benefit, but if you ever travel in a group then knowing
 
 People get excited when they arrive in a new city or country because they get to try out so many different kinds of foods. However, when a chef arrives somewhere new, they also get the urge to try out all of the [different ingredients, spices, seasonings](https://feastgloriousfeast.com/asian-ingredients/), and so on. This just adds more excitement and value to all of your travels since you’re not just excited for the food, but also for how the food is made and what ingredients are used. Taking a[local cooking class](/go/trip-advisor/) will also introduce you to recipes to make at home.
 
+## That's a Wrap!
+
 This excitement also translates to bringing back ingredients, cooking techniques, and other various products from the country that you visited. You can learn how to incorporate those new flavors and techniques into your current cooking skills, and it makes your entire journey a lot more fulfilling and interesting.
 
 

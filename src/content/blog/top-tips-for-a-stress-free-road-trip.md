@@ -49,6 +49,8 @@ If you’re traveling with kids, you’ll need to keep them entertained, so lear
 
 
 
+## That's a Wrap!
+
 Your road trip will be one of the best experiences of your life, but there is still the risk of *something* going wrong. With these top tips, you can avoid many of the common issues that strike road trippers so you can enjoy a satisfying and stress-free adventure.
 
 

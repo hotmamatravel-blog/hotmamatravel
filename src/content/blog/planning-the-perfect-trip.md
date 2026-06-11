@@ -70,6 +70,8 @@ Packing, isn’t it the trickiest part? Aim to [pack light](https://www.indietra
 
 Getting around once you’re there is key. Figure out the best way to travel, rent a car, grab taxis, or maybe the place has a solid public transport system? Load up your phone with offline maps and familiarize yourself with the main routes to avoid any “where am I?” panic moments.
 
+## That's a Wrap!
+
 To wrap it up, planning the perfect trip is all about a mix of good prep and flexibility. Paying attention to the details before and during your trip makes everything run smoother. So plan well, stay open to changes, and soak up every moment.
 
 

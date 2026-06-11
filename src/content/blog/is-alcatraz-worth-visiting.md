@@ -293,6 +293,8 @@ And if you’re planning to turn your trip into a family getaway, you’ll want 
 
 For even more adventures beyond the Bay, don’t miss my full [**California family travel guide**](/california-family-travel/), packed with road trips, hidden gems, and plenty of kid-friendly fun.
 
+## That's a Wrap!
+
 So, if you're seeking an adventure that combines history, intrigue, and breathtaking views of San Francisco Bay, Alcatraz is an absolute must-visit destination.
 
 

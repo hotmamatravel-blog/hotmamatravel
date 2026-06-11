@@ -163,6 +163,8 @@ While the specific activities and offerings may vary from year to year, the Omni
 
 **[See Photos, Reviews, &amp; More](/go/omni-berkshire-place-new-york/)**
 
+## That's a Wrap!
+
 Choosing the best Christmas hotel in New York City can be a delightful and memorable part of your holiday experience. If you’re planning your trip, be sure to check out my** [New York Family Travel Guides](/new-york-family-travel-2/)** for tips on where to eat, play, and explore during your stay.Whether you're seeking luxurious elegance, family-friendly festivities, or a cozy winter retreat, the city offers a diverse range of hotels that embrace the magic of the season. From beautifully adorned lobbies and gourmet holiday dining to special events and entertainment, these hotels create a warm and inviting atmosphere, allowing you to immerse yourself in the enchanting spirit of Christmas.
 
  As you plan your stay, remember to check the official websites of these hotels for the most up-to-date information on their festive offerings. With your hotel choice sorted, you're all set to enjoy a magical and heartwarming holiday season in the Big Apple.

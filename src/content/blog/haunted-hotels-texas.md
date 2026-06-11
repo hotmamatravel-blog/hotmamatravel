@@ -209,6 +209,8 @@ The Magnolia Hotel is living history, with a side of thrills. It’s a stay that
 
 **[See Photos, Reviews, &amp; More](/go/magnolia-hotel-texas/)**
 
+## That's a Wrap!
+
 In the vast expanse of Texas, where barbecue and cowboy legends usually hog the spotlight, we’ve uncovered a side that’s rich in history, mystery, and just the right dose of the supernatural. Staying in these haunted hotels isn’t just about spine-tingling thrills; it’s your ticket to a family adventure that blends goosebumps with giggles.
 
 From the grandeur of The Menger Hotel in San Antonio to the timeless elegance of The Driskill Hotel in Austin, and all the uncanny experiences in between, every stay promises stories you’ll retell long after checkout.

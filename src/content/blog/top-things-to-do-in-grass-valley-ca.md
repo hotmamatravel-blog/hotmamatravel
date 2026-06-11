@@ -191,6 +191,8 @@ Conveniently located close to neighbor city, Nevada City, Gold Miner’s Inn put
 
 [**See photos, reviews &amp; more**](/go/gold-miners-inn-grass-valley-ca/)
 
+## That's a Wrap!
+
 Planning a Northern California adventure? While big cities like Sacramento often steal the spotlight, don’t skip the chance to explore charming small towns like Grass Valley. This historic Gold Rush town is packed with character, family-friendly attractions, cozy places to stay, and just the right amount of spooky charm to make the kids think they’ve stepped into an old western movie. Whether you stop for a day trip or turn it into a full weekend getaway, as we did, Grass Valley is one of those places that surprises you in the best way.
 
 If you’re planning more California family adventures, be sure to check out our other [**California travel guides**](/california-family-travel/), including our favorite Northern California road trip ideas and our guide to the [**best family-friendly hotels in San Francisco**](/best-family-hotels-san-francisco-with-great-amenities-and-locations/).

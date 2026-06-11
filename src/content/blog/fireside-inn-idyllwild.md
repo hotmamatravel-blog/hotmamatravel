@@ -167,6 +167,8 @@ Set on four private acres, the Violin House is perfect for families who want to 
 
 **[See Photos, Reviews, &amp; More](/fireside-inn-idyllwild/)**
 
+## That's a Wrap!
+
 No matter which cabin you choose at [Fireside Inn](https://thefiresideinn.com/), it’s easy to see why this cozy mountain retreat has been a family favorite for years. From warm fireplaces to fully equipped kitchens and plenty of space for kids to play, every stay feels like a home away from home.
 
 While you’re here, don’t miss out on all the fun Idyllwild has to offer. Check out our full list of **[things to do in Idyllwild with kids](/things-to-do-in-idyllwild-with-kids/)**, and of course, fuel your adventures with a stop at the **[best family-friendly restaurants in Idyllwild](/best-restaurants-in-idyllwild/)**.

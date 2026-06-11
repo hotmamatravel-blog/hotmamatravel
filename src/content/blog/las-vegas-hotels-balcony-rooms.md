@@ -74,6 +74,8 @@ In addition, there are 21 Atrium Villas, featuring balcony or veranda access wit
 
 [**See photos, reviews &amp; more**](/go/mgm-grand-las-vegas-expedia/)
 
+## That's a Wrap!
+
 If you want a balcony room in Las Vegas you are going have to go big. Rooms with balconies and terraces in Las Vegas are super rare and only the most luxurious accommodations offer this special feature. It is definitely worth the splurge if you are celebrating a special occasion or anniversary.
 
 The fun doesn't stop here! We have a ton of other resources to help you plan the [**perfect Las Vegas vacation**](/family-friendly-vegas/), as well as all around the [**state of Nevada**](/nevada-family-travel/). So please click around and have fun.

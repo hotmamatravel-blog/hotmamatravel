@@ -580,6 +580,8 @@ Whether indulging in hearty Italian cuisine, cheering on knights in epic joustin
 
 **[See Photos, Reviews, &amp; More](/go/excalibur-hotel-las-vegas/)**
 
+## That's a Wrap!
+
 When planning a family trip to Las Vegas, selecting kid-friendly hotels is one of the most important decisions you’ll make. These family-focused properties offer engaging amenities, spacious rooms, and experiences designed for children of all ages. For step-by-step planning, visit our **[Las Vegas family travel guide](/family-friendly-vegas/)**, and explore our **[Nevada family travel page](/nevada-family-travel/)** for nearby road trips, day trips, and family-friendly destinations beyond Vegas.
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.

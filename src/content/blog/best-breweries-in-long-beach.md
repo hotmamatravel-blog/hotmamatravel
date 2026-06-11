@@ -393,6 +393,8 @@ Who needs a kitchen when you've got a parade of food trucks? At Trademark Brewin
 
 **[See Photos, Reviews, &amp; More](/go/trademark-brewing-long-beach/)**
 
+## That's a Wrap!
+
 Long Beach's family-friendly breweries are not just places to enjoy great beer; they're destinations that offer a unique blend of community, creativity, and craft. From the intricate blends at Beachwood Blendery to the waterfront charm of Ballast Point, each brewery contributes to the vibrant tapestry of Long Beach's craft beer culture. Plan your visit to Long Beach and embark on a journey of flavor, fun, and family-friendly festivities. Cheers!
 
 For more cool breweries in more cool cities, check out our [Best Breweries in America](/americas-best-breweries/) page to explore.

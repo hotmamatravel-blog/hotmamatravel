@@ -223,6 +223,8 @@ My kids love this activity, and I love how affordable it is for hours of enterta
 
 **[See Photos, Reviews, &amp; More](/go/the-luxor-hotel-las-vegas/)**
 
+## That's a Wrap!
+
 This list, although pretty amazing, only scratches the surface of what Las Vegas has to offer. From cheap things to do in Vegas with family to extraordinary family activities, Vegas has it! Honestly, if you can’t find something fun to do in Las Vegas, the problem is probably with you. Anyhow, if you are ready to have insane fun with your family in Las Vegas, we have a wealth of information right here on the blog to help you plan every aspect of your trip. Let us help you do Vegas the right way!
 
 Check out more of our [**Las Vegas family travel guides**](/family-friendly-vegas/), as well as more of [**the things to do in Nevada**](/nevada-family-travel/). Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.

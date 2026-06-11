@@ -107,6 +107,8 @@ Just steps away from Hotel Apache is the** [Fremont Street Experience](/go/fremo
 
 **[See Photos, Reviews, &amp; More](/go/hotel-apache-las-vegas/)**
 
+## That's a Wrap!
+
 While these haunted hotels have their fair share of spooky stories, they also offer plenty of family-friendly attractions that are perfect for those who want a mix of eerie excitement and fun. Whether your family is into ghost hunting or just looking for a unique hotel experience in Las Vegas, these haunted spots add a little extra thrill to your stay!
 
 For the ultimate Las Vegas family vacation, join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)!

@@ -167,6 +167,8 @@ To help you plan the ultimate family vacation, join my **[Las Vegas With Kids Fa
 
 Also, check out all our family-friendly [**Las Vegas travel guides**](/family-friendly-vegas/) as well as more fun family [**adventures around Nevada**](/nevada-family-travel/).
 
+## That's a Wrap!
+
 Safe travels and see you in Vegas!
 
 

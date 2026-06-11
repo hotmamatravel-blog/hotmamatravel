@@ -43,6 +43,8 @@ The Tidal Basin is a beautiful area to explore, especially during the cherry blo
 
 No trip to the D.C. area is complete without a [visit to Mount Vernon](/mount-vernon-things-to-do/), the estate of George Washington. Located just a short drive from the city, Mount Vernon offers a fascinating glimpse into the life of the first President of the United States. Families can tour Washington's mansion, explore the beautifully maintained gardens, and learn about 18th-century life through interactive exhibits and demonstrations.&nbsp;
 
+## That's a Wrap!
+
 Washington, D.C. and its surroundings offer an unparalleled combination of history, education, and fun, making it the perfect destination for a family weekend getaway. There is something for everyone to enjoy. With a well-planned itinerary, families can create lasting memories and foster a love of learning and exploration in their children. So pack your bags, grab your camera, and get ready for an educational adventure in the heart of the nation's capital.
 
 

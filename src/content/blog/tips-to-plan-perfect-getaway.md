@@ -43,5 +43,7 @@ The last situation you want is to be tied to your electronics while on vacation.
 
 You don’t want to have to drag around heavy luggage on your trip. It’s especially true if you’ll be moving around a lot and staying in different places. Therefore, make it a point to pack light and only bring with you the necessary items that you will use. Ideally, you’ll want to pack a carry-on bag that has wheels so you can roll it. Keep in mind that you can always layer your clothing or wash your items and wear them again. Make a list of what you are going to bring with you before you start packing so you don’t overdo it. You may want to keep any important documents you’ll be carrying with you in a separate bag.
 
+## That's a Wrap!
+
 You now know how to plan the perfect getaway so you can have a rewarding trip. You want to return home happy that you went in the first place. Follow these tips and advice and you’re sure to truly enjoy your vacation. The more preparation you do in advance the less time you’ll waste trying to figure out plans while at your destination. Make a note of what goes well and what you may want to change in the future for the next time you plan a trip.
 

@@ -38,6 +38,8 @@ As you approach Coimbra, the journey takes a scholarly turn. Home to one of the 
 
 Choosing the Portuguese Coastal Route means stepping into a world where every corner holds a story, every landscape inspires awe, and every town welcomes you with open arms. It’s not just a journey; it’s an experience that enriches the soul.
 
+## That's a Wrap!
+
 So, why wait? Pack your bags, set your sights on the Portuguese Coastal Route, and prepare for an adventure that combines the best of nature, culture, and history. Whether you’re a Christian pilgrim, solo explorer, a family, or a group of friends, this route promises memories that will last a lifetime.
 
 Ready to explore the captivating **Portuguese Coastal Route from Santarem to Coimbra**? It’s time to embark on an adventure that you'll reminisce about for years to come!

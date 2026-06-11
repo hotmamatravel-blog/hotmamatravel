@@ -123,6 +123,8 @@ Turkey is one of the most affordable places in the Mediterranean. The gate of op
 
 From an E2 visa, high-quality health and education facilities, and visa-free travel to a family, it offers a bundle of perks that it might look to you that the visa process will be tedious. But that is not true. Its citizenship by investment and residency by investments programs make your dreams come true within 3-5 months.
 
+## That's a Wrap!
+
 With such a quick and streamlined visa process, apply today for citizenship in Turkey and open the gate to avail yourself of the comfortable life and prosperous business of your dreams.
 
 

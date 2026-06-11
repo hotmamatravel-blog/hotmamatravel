@@ -117,6 +117,8 @@ It really doesn't take a lot to entertain a toddler with the bright lights and c
 
 For more resources to help you plan your trip, join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! It is a lot of fun!
 
+## That's a Wrap!
+
 Also, check my **[family travel guides for Las Vegas](/family-friendly-vegas/)** as well as my **[Nevada travel guides](/nevada-family-travel/)**.
 
 

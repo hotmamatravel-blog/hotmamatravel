@@ -234,6 +234,8 @@ There are plenty of hotel chains that claim to be family-friendly. But after yea
 
 Affordable pricing. Family-oriented amenities. Great locations. Free breakfast at most properties. A rewards program that actually works. And hotels that feel unique instead of generic.
 
+## That's a Wrap!
+
 When you’re traveling with kids, consistency matters, but so does comfort and value. Best Western delivers all three.
 
 

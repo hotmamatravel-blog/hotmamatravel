@@ -68,6 +68,8 @@ Driving is a big part of a road trip and you want to figure out who is driving p
 
 
 
+## That's a Wrap!
+
 These are just a few top tips for a road trip with friends that are sure to help you have a great and memorable time. There are so many factors why a road trip is great and so you want to execute it correctly and make the most out of it. After all, any time away is to be cherished and you want to look back and know you did everything that you wanted to. What are some of your top tips for heading on a road trip with friends? Let us know in the comments below, we’d love to hear from you.
 
 

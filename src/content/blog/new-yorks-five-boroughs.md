@@ -68,5 +68,7 @@ Staten Island is a tranquil retreat away from the city's hustle and bustle. It o
 
 
 
+## That's a Wrap!
+
 Each of New York's boroughs offers its unique blend of experiences, catering to a variety of interests and tastes. From the elegance of Manhattan to the cultural richness of The Bronx, the dynamic cityscape of New York promises unforgettable adventures. So, whether you're sipping a cocktail at Balcon, exploring the trendy corners of Brooklyn, or enjoying a leisurely ferry ride in Staten Island, New York is guaranteed to leave you spellbound.
 

@@ -114,6 +114,8 @@ The Hyatt Regency Indian Wells Resort pool area also features a variety of pools
 
 
 
+## That's a Wrap!
+
 In the sun-kissed oasis of Palm Springs, family fun knows no bounds, thanks to the spectacular pool offerings that await you. From the tropical paradise of Omni Rancho Las Palmas Resort &amp; Spa to the exciting waterslide adventures at Hyatt Regency Indian Wells Resort, each hotel boasts unique features that cater to families of all ages. Whether you're gliding down waterslides, relaxing in poolside cabanas, or splashing around with your little ones in shallow kiddie pools, the best family pools in Palm Springs promise endless laughter, cherished moments, and unforgettable memories. Get ready for a poolside adventure that will leave your family with hearts full of joy and a yearning to return to Palm Springs for more aquatic excitement!
 
 For more information on visiting Palm Springs, check out our awesome family guide for [things to do Palm Springs](/palm-springs-with-kids/), and our picks for [best tours in Palm Springs](/best-palm-springs-tours/), best [family resorts](/best-family-resorts-palm-springs/), best [glamping in Palm Springs](/glamping-palm-springs/), and [glamping in Joshua Tree](/glamping-joshua-tree-national-park/). Happy travels!

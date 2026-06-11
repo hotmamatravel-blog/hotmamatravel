@@ -35,5 +35,7 @@ The&nbsp;**fauna is equally captivating**. Birdwatchers will delight in spotting
 
 Whether you’re a seasoned hiker looking for new challenges or a casual walker in search of tranquility, Madeira’s trails offer something for everyone. Before you go, it’s important to choose the right season and prepare adequately for the terrain. Spring and early summer are particularly magical, with the island’s flora in full bloom and the weather perfectly temperate.
 
+## That's a Wrap!
+
 Madeira is not just a destination; it’s an experience. Walking its trails gives you a profound appreciation for nature’s artistry and human history, intertwined on this small, vibrant island. It offers a unique walking experience, especially in the spring. So lace up your boots, pack your spirit of adventure, and set out on a walking holiday that you’ll recount for years to come.
 

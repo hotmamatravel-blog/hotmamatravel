@@ -129,6 +129,8 @@ With outdoor seating under the towering pines, every meal comes with a breath of
 
 **[See Photos, Reviews, &amp; More](/go/idyllwild-pizza-company/)**
 
+## That's a Wrap!
+
 As you wrap up your culinary journey through Idyllwild, remember that the best family moments are often shared around a table, and Idyllwild's enchanting restaurants make those moments truly special. It is a small town filled with good food, making almost every restaurants one of the best restaurants in Idyllwild. So, a good meal won't be hard to find.
 
 But the adventure doesn't end here! Dive into more Idyllwild family fun by checking out my post on exciting [**things to do**](/things-to-do-in-idyllwild-with-kids/) and the lowdown on the [**best places to sta**y](/best-idyllwild-cabin-rentals/). The mountain escape has so much more to offer, and I've got you covered!

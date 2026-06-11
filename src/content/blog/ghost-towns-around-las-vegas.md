@@ -147,6 +147,8 @@ Throughout the year, Oatman hosts live reenactments of Wild West gunfights and o
 
 **[See Photos, Reviews, &amp; More](/go/oatman-arizona/)**
 
+## That's a Wrap!
+
 As our journey through the best ghost towns around Las Vegas comes to a close, we're left with memories of dusty streets, forgotten tales, and the enduring spirit of the American West. These ghost towns, with their weathered buildings and storied pasts, serve as reminders of the pioneers and prospectors who once roamed these lands in search of fortune and adventure.
 
 While time may have taken its toll, the allure of these ghost towns remains as strong as ever, drawing travelers from far and wide to experience a taste of history and mystery in the desert. So as we bid farewell to these spectral remnants of days gone by, let us carry with us the echoes of the past and the promise of new adventures yet to come.

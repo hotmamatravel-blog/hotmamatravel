@@ -522,6 +522,8 @@ Upper Newport Bay Nature Preserve, also known as Back Bay, is a 1,000 acres of c
 
 [**See photos, reviews &amp; more**](/go/newport-bay-nature-preserve/)
 
+## That's a Wrap!
+
 Now that you've made it to the end of this list, I hope you understand that there are so many fun things to do with kids in Anaheim besides Disneyland. You can go hiking and enjoy nature, visit an famed OC beach city, spend an afternoon at a museum, or shop to your hearts content. There are just so many fabulous things to do near Anaheim with children. Enjoy your visit to sunny Southern California!
 
 For more help planning your next California family vacation, visit our [**California family travel guides**](/california-family-travel/) and our [**Orange County family travel guides**](/orange-county-family-travel/).

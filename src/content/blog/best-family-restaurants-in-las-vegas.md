@@ -290,6 +290,8 @@ After your meal, the on-site gift shop offers rainforest-themed toys and souveni
 
 **[See Photos, Reviews, &amp; More](/go/rainforest-cafe-las-vegas/)**
 
+## That's a Wrap!
+
 Alright, fabulous families, we've embarked on a delectable journey through the 'Best Family Restaurants in Las Vegas,' and I hope your taste buds are still tingling with delight! But guess what? Our Vegas adventure doesn't end here. There's a whole world of [**family-friendly fun **](/las-vegas-with-kids/)waiting for you in the vibrant city and beyond.
 
 Don't miss out on exploring more of our** [Las Vegas family travel guides](/family-friendly-vegas/)**, uncovering hidden gems, and planning exciting adventures across the beautiful landscapes of [**Nevada**](/nevada-family-travel/). From iconic attractions to off-the-beaten-path wonders, there's something for every family to discover. So, pack your sense of adventure, gather your loved ones, and let's make your Nevada journey one for the memory books!

@@ -177,6 +177,8 @@ Families will love how close the hotel is to the action; it's within walking or 
 
 **[See More Photos, Reviews, &amp; More](/go/horton-grand-hotel-san-diego/)**
 
+## That's a Wrap!
+
 The next time you visit San Diego, you could stay in a regular, predictable hotel (yawn), ***or*** you could check into one of these *hauntingly* historic gems that come with a side of goosebumps and great stories. If you’re anything like me, you’ll appreciate the antique charm, creaky floors, and mysterious energy that only time (and a few ghosts) can create.
 
 If you prefer something a little less spooky but still full of character, check out my review of our favorite family-friendly stay in Old Town, the **[Best Western Plus Hacienda Hotel](/hacienda-hotel/)**. Or, if you’d rather trade haunted hallways for starlit skies, you’ll love my **[Glamping in San Diego](/glamping-san-diego/)** guide. It’s the perfect way to add a touch of luxury to your next outdoor adventure.

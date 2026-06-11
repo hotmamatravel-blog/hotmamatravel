@@ -385,6 +385,8 @@ Plus, throughout the year, Alton is home to a number of spooky festivities, like
 
 **[See Photos, Reviews, &amp; More](/go/alton-illinois-travel/)**
 
+## That's a Wrap!
+
 These towns and cities offer a diverse range of Halloween experiences, from historically rich destinations to places with a reputation for paranormal activity. Whether you're seeking spooky thrills or family-friendly festivities, you'll find something for everyone in these Halloween-loving communities.
 
 

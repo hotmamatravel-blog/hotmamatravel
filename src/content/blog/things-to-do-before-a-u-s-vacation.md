@@ -54,6 +54,8 @@ That’s because of [sales tax](https://www.investopedia.com/terms/s/salestax.as
 
 A U.S vacation is appealing for countless reasons. It’s an almost legendary destination thanks to all the movies and TV shows set there. Compared to other countries, though, it’s one of the more difficult to go to.
 
+## That's a Wrap!
+
 You wouldn’t just have to deal with a longer flight, but also a few other steps as you’re going there. Be prepared for them so you don’t need to deal with any last-minute stress.
 
 

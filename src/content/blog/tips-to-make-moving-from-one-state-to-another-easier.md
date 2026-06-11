@@ -91,6 +91,8 @@ First, immerse yourself in local media. Watch local news, read Fort Lauderdale m
 
 Second, make an effort to adapt to the local lifestyle. Whether it's getting used to new types of cuisine (stone crabs, anyone?) or acclimating to the year-round warm weather, little steps can make the adaptation process easier.
 
+## That's a Wrap!
+
 If you're coming from a hectic, fast-paced city, you may need to slow down a bit to match the more relaxed pace of Fort Lauderdale life. Alternatively, if you're moving from a quieter location, the buzz and activity might take some getting used to. The quicker you adapt, the quicker you'll feel like a true Fort Lauderdale local.
 
 

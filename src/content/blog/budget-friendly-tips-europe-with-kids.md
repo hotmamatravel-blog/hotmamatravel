@@ -54,5 +54,7 @@ Equipping yourself with an [eSIM for Europe travels](https://www.getnomad.app/eu
 
 While planning is crucial, being open to spontaneity can lead to great discoveries and potential savings. Unexpected price changes or plan adjustments may happen, so it's smart to keep flexibility in your itinerary and set aside emergency funds for unforeseen situations. Also, leave room for exploring places not initially on your list—you might stumble upon undiscovered places you’ll love along the way. Stay open, stay adaptable, and let the unexpected add a touch of magic to your family's travels in Europe.
 
+## That's a Wrap!
+
 When traveling to Europe, you don’t have to spend lots of money on meaningful experiences with your family. Allocate your money wisely and savor every scenic view and time spent together with your kids and spouse to make the trip one you can remember forever.
 

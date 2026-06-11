@@ -466,6 +466,8 @@ Please comment below:
 
 For more Vegas fun, check out all our** [Las Vegas family resources!](/family-friendly-vegas/) **And, explore more of what cool things the great** [state of Nevada](/nevada-family-travel/) **has to offer families.
 
+## That's a Wrap!
+
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
 
 **Like it? Pin it!**

@@ -42,6 +42,8 @@ San Antonio is a melting pot of history, entertainment, and rich flavor. You’l
 
 
 
+## That's a Wrap!
+
 Pack your cowboy hats and adventure gear because the Lone Star State is your family's ultimate playground! From thrilling museums that make history come alive to outdoor wonders that spark the imagination, Texas has proven that big fun comes in big packages. So, whether you're two-stepping through cultural gems or wrangling the excitement of outdoor exploration, the family adventures in Texas are as vast and varied as the Texas sky. Y'all ready for a Texan-sized good time? Saddle up and make memories that'll have your little cowpokes talking about this epic journey for moons to come!
 
 

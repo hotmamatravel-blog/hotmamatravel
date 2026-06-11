@@ -106,6 +106,8 @@ Pack something green, bring the family, and see for yourself why Newport Dunes i
 
 St. Patrick’s Day at [**Newport Dunes Waterfront Resort &amp; Marina**](/go/newport-dunes-rv-resort-newport-beach-ca/) has become one of our favorite family traditions. Between celebrating two March birthdays, enjoying the calm bay waters, and spending the day together by the beach, it’s the kind of easy, joy-filled celebration that reminds us what family travel is really about; time together and memories that last long after the holiday is over.
 
+## That's a Wrap!
+
 If you’re thinking about planning your own getaway, be sure to check out our **[Newport Dunes Glamping Guide](/newport-dunes-resort/)** for everything you need to know about cottages, RV sites, activities, and tips for the perfect stay. And if you’re exploring more of the area, our **[Orange County Family Travel Guides](/orange-county-family-travel/)** are packed with kid-friendly beaches, attractions, and restaurants around Newport Beach.
 
 Looking for even more adventures? Don’t miss our **[California Family Travel Guides](/california-family-travel/)**, where we share our favorite family-friendly destinations, road trips, and hidden gems across the Golden State. Your next unforgettable family trip might be just a click away. 🌴☘️

@@ -50,6 +50,8 @@ Fixing the feeling of motion sickness can be very hard in babies. Placing someth
 
 If you think this is the problem, it might be worth it to ask your doctor. Motion sickness can be grown out of, or it might be something your baby grows into as they get older. While it’s a common thing, it’s still incredibly disruptive and can affect people at any point in their lives.
 
+## That's a Wrap!
+
 Understanding what upsets babies on planes is essential for smoother travels for both parents and fellow passengers. By knowing these five key factors in advance, from discomfort due to air pressure changes to hunger and fatigue, parents can better prepare and mitigate potential issues.
 
 Equipped with this knowledge, families can approach air travel with confidence, knowing they are well-prepared to keep their little ones comfortable and content throughout the journey. So, whether it's bringing along familiar toys, scheduling flights around nap times, or being mindful of potential discomfort, being proactive can make all the difference in ensuring a more enjoyable and stress-free flying experience for everyone involved.

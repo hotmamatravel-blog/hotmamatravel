@@ -58,6 +58,8 @@ If you’re going into unfamiliar terrain (say, a rural area) then it’s recomm
 
 Finally, if you’re going to travel by yourself, then enjoy it! There are advantages to traveling with friends and family, but there are downsides, too. For instance, you’ll have to do what other people want to do from time to time. When you’re exploring by yourself, you can do absolutely anything you want. Want to visit your favorite taco spot three times a day? You can. Want to spend an entire day at an art gallery? There’s no one to tell you that you can’t.
 
+## That's a Wrap!
+
 So throw yourself into it all. We’re sure you’ll have a great time, and, in fact, that traveling by yourself becomes a preferred option!&nbsp;
 
 

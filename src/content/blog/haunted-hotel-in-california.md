@@ -197,6 +197,8 @@ See our post for more [**haunted hotels in San Diego**](/haunted-hotels-san-dieg
 
 **[See Photos, Reviews, &amp; More](/go/hotel-del-coronado-san-diego/)**
 
+## That's a Wrap!
+
 California's haunted hotels is a curious blend of history, mystery, and the supernatural awaits families seeking a unique and captivating getaway. From the opulent corridors of The Queen Mary to the sunlit shores of Hotel del Coronado, these hotels offer an experience that goes beyond the ordinary. With their rich histories, storied pasts, and tales of ghostly encounters, these accommodations invite families to embark on a journey where the past and present intertwine, igniting imaginations and sparking conversations that span generations.
 
 Whether you're captivated by the echoes of the past, intrigued by spectral stories, or simply seeking an unforgettable adventure, these haunted hotels beckon you to explore a world where the boundaries between reality and the unknown blur into one unforgettable, and perhaps slightly eerie, experience.

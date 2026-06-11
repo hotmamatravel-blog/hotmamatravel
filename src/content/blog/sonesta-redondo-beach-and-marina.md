@@ -106,6 +106,8 @@ If you are planning a wedding, a conference, holiday party, or some other really
 
 
 
+## That's a Wrap!
+
 Sonesta Redondo Beach &amp; Marina isn't just a hotel; it's a coastal haven that caters to families, travelers flying into LAX, and Beach Life Festival enthusiasts. With its breathtaking views, family-friendly amenities, and convenient location, this seaside retreat promises an experience that transcends the ordinary. [Book your stay](/sonesta-redondo-beach-and-marina/) and embark on a journey where sun, sand, and splendor converge for an unforgettable escape on the shores of Redondo Beach.
 
 

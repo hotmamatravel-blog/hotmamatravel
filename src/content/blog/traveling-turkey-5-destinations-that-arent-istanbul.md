@@ -82,6 +82,8 @@ Bursa also boasts some of the country’s most beautiful mosques. For followers 
 
 
 
+## That's a Wrap!
+
 While Istanbul is undeniably captivating, Turkey has so much more to offer. From the stunning landscapes of Cappadocia to the ancient wonders of Ephesus, and the tranquil shores of Antalya, these lesser-explored destinations promise an enriching and diverse travel experience. Whether you're drawn to history, natural beauty, or vibrant local culture, these five destinations showcase the incredible richness of Turkey's tapestry. So, set your sights beyond the bustling metropolis of Istanbul and embark on a journey that will leave you with a profound appreciation for the multifaceted allure of this enchanting country.
 
 

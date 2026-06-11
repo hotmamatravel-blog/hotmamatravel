@@ -239,6 +239,8 @@ The Mirage pool, which has always been my favorite pool all around, has a beauti
 
 [**See photos, reviews &amp; more**](/go/the-mirage-hotel-las-vegas/)
 
+## That's a Wrap!
+
 See!? You can have fun in Las Vegas with teens! The vibe of the city alone is enough to make any teenager's tummy flutter with excitement. I hope my article helped you find some awesome ideas for your next Las Vegas family vacation with teenagers.
 
 For help planning the ultimate [**Las Vegas family vacation**](/family-friendly-vegas/) or more to [**explore in Nevada**](/nevada-family-travel/), check out our other detailed guides. Also, be sure to join my [**Las Vegas With Kids Facebook Group**](http://11. https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.

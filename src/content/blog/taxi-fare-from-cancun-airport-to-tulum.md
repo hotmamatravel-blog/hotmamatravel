@@ -124,6 +124,8 @@ For nature enthusiasts, Tulum offers several eco-parks and nature reserves, such
 
 Tulum boasts a vibrant dining scene with a mix of local and international cuisine. From beachside seafood shacks to high-end restaurants, there’s something for every palate. The nightlife in Tulum is equally vibrant, with beach clubs, bars, and live music venues offering entertainment late into the night.
 
+## That's a Wrap!
+
 Traveling from Cancun Airport to Tulum in 2024 is a relatively straightforward journey with various transportation options to suit different budgets and preferences. Whether you choose a standard taxi, private transfer, shared shuttle, or bus, being informed about the costs and planning ahead can ensure a smooth and enjoyable trip. With its stunning beaches, rich history, and vibrant culture, Tulum is a destination that promises unforgettable experiences.
 
 

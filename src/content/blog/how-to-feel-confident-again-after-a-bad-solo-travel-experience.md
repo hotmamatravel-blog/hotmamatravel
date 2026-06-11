@@ -94,6 +94,8 @@ Remember this when you’re thinking about traveling solo this year - if you wan
 
 Solo travel should be enjoyed. If you’ve had a bad experience in the past and it’s making you worry about being out there alone, let yourself heal and then find your feet again. Confidence comes from experience, and sometimes from being faked until you really feel it, and you deserve to feel good about adventuring!&nbsp;
 
+## That's a Wrap!
+
 So try a small trip first, talk to someone about your anxiety, block out the horror stories people pass around about traveling solo, and see the world for yourself again.
 
 

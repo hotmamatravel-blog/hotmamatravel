@@ -147,6 +147,8 @@ The Westin St. Francis brings a touch of old-school glamour right to Union Squar
 
 **[See Photos, Reviews, &amp; More](/go/westin-st-francis-san-francisco/)**
 
+## That's a Wrap!
+
 In a city that thrives on its diverse and captivating history, staying in one of San Francisco's haunted hotels is an opportunity to immerse yourself in a world of intrigue and fascination. Whether you encounter a spectral presence or simply appreciate the ambiance of these historic establishments, these hotels offer a window into a bygone era.
 
 Plus, there are plenty of other great [**family hotels**](/best-family-hotels-san-francisco-with-great-amenities-and-locations/) and [**glamping sites around the Bay Area**](/glamping-bay-area-near-san-francisco/) that I encourage you to explore on my blog.

@@ -231,6 +231,8 @@ This guide brings together everything families need to plan a successful trip, f
 
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families.
 
+## That's a Wrap!
+
 Vegas with kids isn’t a compromise; it’s a win.
 
 

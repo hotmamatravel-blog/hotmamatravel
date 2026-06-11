@@ -220,6 +220,8 @@ While the Santa Monica Pier is the official ending point of historic Route 66, w
 
 - Watch sunset of the Pacific
 
+## That's a Wrap!
+
 Our Route 66 family road trip from Los Angeles to Santa Fe reminded us why the Mother Road is one of the most unforgettable drives in America. It is packed with quirky roadside stops, nostalgic diners, classic motels, and meaningful family memories along the way. Whether you’re planning a full Route 66 adventure or a partial itinerary like ours, this journey is proof that road trips with kids can be fun, affordable, and incredibly rewarding.
 
 If you’re mapping out your own route, be sure to explore our **[California family travel guide](/california-family-travel/)** and **[Arizona family travel guide](/best-of-arizona-family-travel/)** for more kid-friendly stops, hotels, and activity ideas. And to make your drive smoother (and quieter), don’t miss our **[list of road trip car games for kids](/road-trip-car-games-for-kids/)** and [**top toddler toys for car rides**](/best-toddler-toys-for-car-rides/). They’re lifesavers for long stretches of highway.

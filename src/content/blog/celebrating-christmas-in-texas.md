@@ -153,6 +153,8 @@ While you’re in town, make time for Magnolia Table, just a short drive from th
 
 Christmas in Texas might not be the first destination that pops into your head when you’re planning holiday travels, but as you’ve seen, the Lone Star State does not play small when it comes to seasonal fun. From river parades and rodeos to German Christmas markets and glittering city light shows, Texas delivers holiday magic with its own bold personality. Whether you’re sipping cocoa under twinkling lights in Grapevine or eating brisket instead of ham in Austin, the memories you make here are the kind that stick.
 
+## That's a Wrap!
+
 If this has you itching to pack your boots and go, make sure to explore even more of our **[best Texas travel adventures](/best-of-texas-family-travel/)** and check out our full collection of **[holiday travel ideas](/christmas-getaways-for-families/)** for families. No matter where your map takes you next, Texas proves that Christmas joy doesn’t need snow, just good food, good company, and a whole lot of sparkle.
 
 

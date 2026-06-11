@@ -85,6 +85,8 @@ With so much competition for the attention (and dollars) of tourists in their [*
 
 And this is where **savvy travelers can take advantage of these [insane Vegas deals](/go/best-of-vegas-main/)** and actually have a luxury Vegas vacation without feeling ripped off. But while this presents a great opportunity, the problem is that there are just too many hotels on the Las Vegas Strip to choose from! But lucky for you, we have a list of our [**favorite hotels for families**](/best-family-hotels-in-las-vegas/) along the Strip for your convenience.
 
+## That's a Wrap!
+
 If you are new to Vegas, it can be hard to figure out which Vegas strip resort would best fit your needs, and how to get around the Vegas strip easily. **This is where [insider advice](/las-vegas-with-kids/) and a good user-friendly map of Vegas hotels on the strip can really help make a difference**.
 
 We invite you to check out our custom [**Las Vegas with kids articles**](/las-vegas-with-kids/) to help you save money and make the best of your family trip to Las Vegas. If you have any questions at all, hit me up on social media and I will answer any question you throw at me!

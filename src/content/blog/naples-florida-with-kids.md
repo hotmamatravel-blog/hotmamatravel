@@ -505,6 +505,8 @@ The Corkscrew Swamp Sanctuary is 13,000-acres of mostly wetlands with 700-acres 
 
 
 
+## That's a Wrap!
+
 In our busy lives we sometimes forget to just stop, but when you are in Naples, all your senses are engaged. Here, you can take the time to touch, smell, see and taste all the things that make life pleasurable. Naples offers southern charm, a slower pace, kindness and sociability that you will love.&nbsp;
 
 I think of the trees that grow native in Southwest Florida, how they have branches that grow down to support the roots. It is hard to convey the wonder of Naples, Florida in words for there is something intangible about this place that even the trees can’t seem to grasp. I encourage you to experience Naples, FL with your family!

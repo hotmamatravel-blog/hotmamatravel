@@ -191,6 +191,8 @@ Las Vegas at Christmas is truly a wonderland for families, and as you can see, t
 
 For even more ways to plan your ultimate Vegas holiday, join my [**Las Vegas With Kids Facebook Group! **](https://www.facebook.com/groups/lasvegaswithkidstips)
 
+## That's a Wrap!
+
 Also, check out my **[Las Vegas family travel guides](/family-friendly-vegas/)**, and if you’re dreaming of exploring beyond the Strip, head over to my **[Nevada family travel guide](/nevada-family-travel/)** for more kid-friendly adventures across the Silver State.
 
 

@@ -123,6 +123,8 @@ Everyday during the holidays there is something special going on, like Rudolph D
 
 There is a pool at the Apple Farm Inn in San Luis Obispo, and although it was too cold to enjoy the pool, we did enjoy the hot tub after dinner. One last effort to burn up some excess energy, the kids really loved being out in the cold night air in a warm Jacuzzi, and yes, it worked! They were tired and ready to relax while us adults enjoyed one (or two) more bottles of wine.
 
+## That's a Wrap!
+
 For those who love the holidays, Apple Farm Inn is a holiday heaven. The décor alone is worth the trip, but coupled with all the extras that Apple Farm San Luis Obispo provides each guest, it is truly a magical experience. Guests of all ages love to stay, but families will really enjoy all the activities during the holidays. If you want to add a little extra jolly to your season, book a stay right away and have a Merry Apple Farm Inn Christmas. Get 10% off at Apple Farm Inn using an exclusive promotional offer specifically for HotMamaTravel visitors [**HERE**](https://www.applefarm.com/specials/hot-mama-travel-special-rate).
 
 

@@ -56,5 +56,7 @@ Staying organized is key to a stress-free move. Keep a detailed checklist of all
 
 While moving can be stressful, it’s important to maintain perspective and focus on the positive aspects of your relocation. Don’t sweat the small stuff; not everything will go perfectly, and that’s okay. Try to adapt to situations as they arise and look for solutions rather than dwelling on problems. Remember why you decided to move and what you’re looking forward to in your new city. Keeping a positive attitude will help you manage stress and enjoy the process of setting up your new home.
 
+## That's a Wrap!
+
 Moving to a new city is a significant life event filled with opportunities and challenges. By following these dos and don’ts, you can streamline the moving process and reduce the stress associated with such a major transition. From the practicalities of packing and setting up utilities to the social aspects of building a new network, each step is important. With careful planning and a positive outlook, you can turn the challenge of relocating into an exciting adventure that sets the stage for a fulfilling life in your new city.
 

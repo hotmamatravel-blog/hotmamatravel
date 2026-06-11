@@ -147,6 +147,8 @@ While not inside a hotel, Velocity Esports at [Town Square](https://tslv.com/) i
 
 **[See Photos, Reviews, &amp; More](/go/times-square-las-vegas/)**
 
+## That's a Wrap!
+
 Las Vegas is more than just casinos and nightlife; it’s a family-friendly destination with some of the best hotel arcades around. Whether you’re a local or a visitor, these arcades offer endless fun and excitement for kids of all ages. So, pack your bags, grab your quarters, and get ready for a fantastic family adventure in Vegas!
 
 For more tips on family travel in Las Vegas and beyond, be sure to join our [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! Also, explore my other [**Vegas family travel guides**](/family-friendly-vegas/) and our [**Nevada family travel guides**](/nevada-family-travel/). Happy travels!

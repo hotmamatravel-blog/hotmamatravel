@@ -141,6 +141,8 @@ Wander through the market's enchanting stalls, each brimming with a treasure tro
 
 
 
+## That's a Wrap!
+
 Sayulita is the perfect destination for travelers seeking an authentic Mexican experience without the hustle and bustle of popular tourist spots.
 
 With its laid-back atmosphere and a wide range of accommodation options, including boutique hotels, surf hostels, and budget-friendly options, Sayulita offers something for everyone. To make your trip planning process easier, Travel-Wise is here to help.

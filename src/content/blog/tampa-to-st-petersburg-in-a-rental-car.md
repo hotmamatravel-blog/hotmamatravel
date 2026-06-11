@@ -108,6 +108,8 @@ Hot Tip: The [Tradewinds](/go/tradewinds-st-pete-expedia/)at St Pete Beach is ou
 
 </div>
 
+## That's a Wrap!
+
 And there you have it, next time you visit Tampa consider renting a car and making a little trip to the town of St Petersburg. Trust me, it´s worth it!
 
 

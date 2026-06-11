@@ -167,6 +167,8 @@ Whether you're embarking on a scenic adventure, savoring culinary delights, or s
 
 San Francisco makes for a great stop along your way to Mendocino. Check out our list of [**the best family hotels in San Francisco**](/best-family-hotels-san-francisco-with-great-amenities-and-locations/) and make it a proper road trip.
 
+## That's a Wrap!
+
 And if you would like to explore more of California's coast with your family, see our [**California family travel guides**](/california-family-travel/) to help you plan the ultimate family vacation. Also, see our [**family hotel guides**](/best-family-hotels/) to help you with all your stays along the way.
 
 

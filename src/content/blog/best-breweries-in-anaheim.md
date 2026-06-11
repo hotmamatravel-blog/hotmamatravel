@@ -229,6 +229,8 @@ For more information on visiting Anaheim, please explore our blog:
 
 - [Best Beaches Near Anaheim](/beaches-near-anaheim/)
 
+## That's a Wrap!
+
 For [more cool breweries in more cool cities](/americas-best-breweries/), check out our other posts.
 
 

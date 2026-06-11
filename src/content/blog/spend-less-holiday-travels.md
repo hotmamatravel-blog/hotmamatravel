@@ -54,6 +54,8 @@ Don’t buy food at the airport. So long as you don’t bring liquids (who bring
 
 [![Holiday flying tips](/images/Lady-at-airport-1.jpg)](/spend-less-holiday-travels/)
 
+## That's a Wrap!
+
 Before your holiday travel kicks off, be sure to consider the ways these strategies can save you money. Focus on the joy of spending time with loved ones, and spend less time stressing about the costs of your holiday plans.
 
 **Like it? Pin it! **

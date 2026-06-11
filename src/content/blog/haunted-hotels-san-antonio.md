@@ -155,6 +155,8 @@ So, if you're ready to embark on a journey through history's darker corners, the
 
 If you are looking for a great stay without ghosts, I recommend the [**Best Western Plus Sunset Suites in San Antonio**](/go/best-western-plus-sunset-suites-riverwalk-san-antonio-tx/). See our[**full review**](/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/) from our stay for more information. We also have more cool [**places to explore with your family in Texas **](/best-of-texas-family-travel/) that you should check out before you go.
 
+## That's a Wrap!
+
 Explore more [**haunted hotels in Texas**](/haunted-hotels-texas/) as well as across America in some of [**best towns to visit during Halloween**](/best-towns-for-halloween/) by checking out our[](/best-haunted-places-to-visit-for-families/)**[favorite haunted places](/best-haunted-places-to-visit-for-families/)** page.
 
 

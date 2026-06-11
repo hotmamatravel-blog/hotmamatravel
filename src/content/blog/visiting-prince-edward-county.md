@@ -49,6 +49,8 @@ Another place you *must* check out is the beaches. Since Prine Edward Country is
 
 
 
+## That's a Wrap!
+
 Visiting Prince Edward County is a great opportunity to relax while still enjoying some of the most stunning nature Canada has to offer (which is saying a lot with such fierce competition). Whether you’re staying for a weekend or prefer a longer trip away, there is plenty to get excited about, and you may have just found your new favorite vacation destination.
 
 

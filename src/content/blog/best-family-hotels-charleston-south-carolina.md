@@ -316,6 +316,8 @@ Located just a mile from the historic downtown Charleston, it is easy to take th
 
 
 
+## That's a Wrap!
+
 There you have it. After thorough research, these are our five favorite family hotels in Charleston. By staying at one of these amazing family hotels in Charleston SC your trip is already off to a great start. I know you are eager to get booking, so I am going to let you go. Have a great time in Charleston!
 
 Explore more awesome [family hotels in more awesome cities](/best-family-hotels/)!

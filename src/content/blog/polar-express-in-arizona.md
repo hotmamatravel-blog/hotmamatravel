@@ -145,6 +145,8 @@ Once the Polar Express train is back at the depot, the kids have an opportunity 
 
 We’d heard the **[Polar Express train ride at the Grand Canyon Railway](/go/williams-depot-williams-arizona/)** was pure Christmas magic… and now we know it’s the real deal. What started as a “let’s-try-it-once” adventure has officially leveled up into a full-blown family tradition. The kids are already asking when we’re going back, and honestly? Same. See you on board next year!
 
+## That's a Wrap!
+
 If you’re hungry for even more holiday cheer, don’t stop here. **[I’ve got tons of Christmas travel ideas](/christmas-getaways-for-families/)** on the blog to keep your season sparkling. And if Arizona is calling your name, make sure to check out **[more family-friendly places to visit in Arizona](/best-of-arizona-family-travel/)** while you’re planning your trip. From festive towns to year-round adventures, there’s plenty of merry magic still waiting for you.
 
 

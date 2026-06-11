@@ -43,6 +43,8 @@ If you are dead-set on quitting your stable office job to go traveling the world
 
 If you choose to work freelance while you travel, and as you should, you need to really take it seriously and actually factor in working five days a week no matter where you are. If you do not, the odds are pretty high that you will fall behind your career goals. You don't want to be 40-years-old one day and realize that you have zero work experience. So take your work seriously and account for days when you will not be able to take off on another adventure because your client needs that work within the next five hours. If you can successfully be your own boss, this will work in your favor.
 
+## That's a Wrap!
+
 **Are you ready to quit your job to travel? Or you a part-time traveler?**
 
 **Like it? Pin it!**

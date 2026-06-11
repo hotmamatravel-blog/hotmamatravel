@@ -32,5 +32,7 @@ You should also make sure that you [pack a first aid kit](https://www.medicalnew
 
 In wrapping up our exploration of staying healthy while traveling, remember that proactive measures can go a long way in safeguarding your well-being on the road. Whether it's maintaining a balanced diet, staying hydrated, practicing good hygiene, or incorporating physical activity into your itinerary, these simple yet effective tips can make a world of difference in ensuring a smooth and enjoyable journey.
 
+## That's a Wrap!
+
 Additionally, don't forget to prioritize adequate rest and relaxation to recharge your body and mind amidst your adventures. By incorporating these strategies into your travel routine, you'll be better equipped to embark on unforgettable experiences while prioritizing your health every step of the way.
 

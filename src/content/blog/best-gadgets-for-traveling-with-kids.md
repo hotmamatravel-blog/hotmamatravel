@@ -55,6 +55,8 @@ When traveling with kids you have to be a Mary Poppins with bag a tricks at your
 
 *Disclaimer: The products list above do include affiliate links. If you are interested in any of these products, please click the link within this post and show me some love.
 
+## That's a Wrap!
+
 **What are you favorite gadgets to use when traveling with kids?**
 
 **Like it? Pin it!**

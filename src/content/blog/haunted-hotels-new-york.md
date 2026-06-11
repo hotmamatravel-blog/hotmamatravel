@@ -263,6 +263,8 @@ Hotel Utica is HotMamaTravel approved because it’s budget-friendly, family-com
 
 **[See Photos, Reviews, &amp; More](/go/hotel-utica-new-york/)**
 
+## That's a Wrap!
+
 As our journey through the haunted hotels of New York wraps up, one thing’s for sure: these places aren’t just about chasing shadows. They’re about stepping back in time, brushing shoulders with history, and soaking up the kind of stories you just can’t get from a regular hotel stay. For more family-friendly adventures across the city, check out our [**New York Family Travel guide**](/new-york-family-travel-2/).
 
 If your family’s ready to keep the spooky fun going, there are plenty more adventures waiting. Check out the [**best towns to celebrate the Halloween season**](/best-towns-for-halloween/) if you’re planning a fall getaway, or dive into our list of **[favorite haunted places to visit with kids](/best-haunted-places-with-kids/)** for ghostly fun the whole crew can handle. Craving more overnight chills? Don’t miss our picks for [**haunted hotels in other destinations**](/best-haunted-places-to-visit-for-families/) to fuel your next ghost-hunting road trip.

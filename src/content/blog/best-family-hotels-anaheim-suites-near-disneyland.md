@@ -315,6 +315,8 @@ In addition to the water playground, the hotel features a heated outdoor pool, a
 
 **[See Photos, Reviews, &amp; More](/go/howard-johnson-anaheim/)**
 
+## That's a Wrap!
+
 There are lots of hotel options for families visiting the Anaheim area, ranging from budget motels to all-suite family hotels. Here we've highlighted what we think are the **best family hotels near Disneyland** considering factors like price, amenities, location, room size, kids' activities, and more.
 
 I promise, if you are visiting Disneyland, one of the [**family beaches near Anaheim**](/beaches-near-anaheim/), or another awesome nearby city, like [**Buena Park**](/buena-park-with-kids/), you will not go wrong staying at one of these family-friendly Anaheim hotels. *Happy travels!*

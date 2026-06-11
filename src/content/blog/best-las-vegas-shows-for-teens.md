@@ -217,6 +217,8 @@ So if you're looking for a night of pure entertainment that'll leave you smiling
 
 **[See Photos, Reviews, &amp; More](/go/blue-man-group-las-vegas-bov/)**
 
+## That's a Wrap!
+
 So there you have it, folks, the best Las Vegas shows for teens that are guaranteed to keep the whole family entertained! Whether you're in the mood for mind-bending magic, electrifying performances, or boundary-pushing entertainment, Las Vegas has it all. So grab your tickets, buckle up, and get ready for a Vegas adventure like no other! Best Las Vegas Shows For Teens, here we come!
 
 To continue planning the ultimate family Las Vegas vacation by exploring our [**family Vegas guides**](/family-friendly-vegas/) on hotels, restaurants, attractions, and more. Why stop there? Nevada has a ton of things to see and do! Check out our [**guides for more Nevada family travel**](/nevada-family-travel/).

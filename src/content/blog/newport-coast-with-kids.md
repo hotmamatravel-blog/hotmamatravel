@@ -346,6 +346,8 @@ Several water activities and rentals are available for right on the beach, so if
 
 [**See photos, reviews &amp; more**](/go/newport-dunes-rv-resort-newport-beach-ca/)
 
+## That's a Wrap!
+
 Newport Coast with kids is one of the easiest and most rewarding family beach getaways in California. From Balboa Fun Zone and Marina Park to Newport Dunes and iconic local dining, this coastal escape is packed with kid-friendly beaches, outdoor fun, and unforgettable family memories.
 
 If you’re planning a trip, explore my **[California travel guides](/california-family-travel/)** for more must-visit destinations, and don’t miss my **[Orange County family travel guides](/orange-county-family-travel/)** for even more beaches, hotels, and activities near Newport Beach.

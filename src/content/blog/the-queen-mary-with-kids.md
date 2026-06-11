@@ -466,6 +466,8 @@ One ship. Endless experiences. And a reason to come back again, and again.
 
 At the end of the day, the Queen Mary is one of those rare places that actually works for kids, teens, and parents. It has history, hands-on exploring, a little spooky fun, and plenty of “wait… this is actually really cool” moments.
 
+## That's a Wrap!
+
 Whether you’re visiting for a few hours, staying overnight, or timing your trip around one of the ship’s seasonal events, it’s the kind of experience your kids will talk about long after you leave the dock.
 
 And if you’re ready to keep the adventure going, head over to my[** California Family Travel Guides**](/california-family-travel/) and my **[Best Haunted Hotels in California Guides](/haunted-hotel-in-california/)** for more family-approved destinations, unique stays, and unforgettable experiences across the Golden State, because California is full of trips that are just as fun as they are memorable.

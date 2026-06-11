@@ -73,6 +73,8 @@ Charleston has quite a wide variety of cuisine, and there’ll be plenty of food
 
 
 
+## That's a Wrap!
+
 Figuring out what to do when you’re in Charleston can be complicated, as there’s quite a bit to do. You simply mightn’t have the time to do it all. That doesn’t mean struggling to figure out what you should do.
 
 You’ll have plenty of options to choose from, and some of them can be more appealing than you’d think. It’s worth focusing on them if you want to have an amazing time and create some great memories. You’ll be enjoying it before you know it.

@@ -365,6 +365,8 @@ So whether your kids are little adventurers, history buffs, or amateur ghostbust
 
 [**See Reviews, Photos, &amp; More**](/go/windsor-hotel-americus-georgia/)
 
+## That's a Wrap!
+
 <blockquote></blockquote>
 
 Travel isn’t just about checking destinations off a list; it’s one of the best ways to teach your kids about the world. We’ve found that exploring **[haunted places with kids](/best-haunted-places-to-visit-for-families/)** adds an unforgettable twist to our family adventures, blending history, mystery, and just the right amount of goosebumps.

@@ -52,5 +52,7 @@ Daytime activities on a luxury cruise call for smart casual attire. Pack lightwe
 
 Don’t forget the essentials for relaxation and leisure. Bring high-quality swimwear for lounging by the pool or enjoying the spa. A lightweight cover-up or kaftan is perfect for transitioning from poolside to casual dining areas. Include a good book, e-reader, or tablet for downtime, and consider a small bag for carrying daily essentials during shore excursions.
 
+## That's a Wrap!
+
 Ensure you have all necessary travel documents and personal items. Pack your passport, cruise tickets, and any required visas, along with copies for backup. Include a well-organized toiletry kit with travel-sized luxury products, sunscreen, and needed medications. A touch of luxury in your packing will set the tone for an extraordinary journey.
 

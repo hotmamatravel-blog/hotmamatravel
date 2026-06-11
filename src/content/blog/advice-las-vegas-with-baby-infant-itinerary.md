@@ -157,6 +157,8 @@ If your baby is all good and you still have the energy to keep going here are so
 
 **Warm weather:** When the nights are warm, that is a great time to walk the strip, because city sparkles with lights and is loaded with outdoor entertainment. The main strip is very touristy and loaded with families. If you are worried about safety, I would just suggest to not go out too late. This is a good opportunity to catch some free classic outdoor shows like the Fountains at [**Bellagio**](/go/bellagio-las-vegas-expedia/).
 
+## That's a Wrap!
+
 After two full days for activities, you will be exhausted. Time to sink into those comfy hotel beds and dream about all the fun you had in Las Vegas with baby.
 
 Vegas is the entertainment capital, and there are countless ways to experience the fun and excitement of Las Vegas with baby. I want to prove to you that, YES, it is possible to have a fun, safe trip to Las Vegas with kids of all ages - including infants and babies.

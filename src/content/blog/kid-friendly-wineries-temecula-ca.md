@@ -129,6 +129,8 @@ Truffle Pig (formerly Avensole) is one of Temecula’s oldest wineries and welco
 
 [**See photos, reviews &amp; more**](/go/avensole-winery-temecula-ca/)
 
+## That's a Wrap!
+
 Ready for a day of wine and live entertainment with family? Then head out to wine country to enjoy some of these amazing kid-friendly wineries in Temecula. If you are planning to visit more than one winery in a day, I suggest taking an organized wine tour. I have put together a list of the most [**unique Temecula wine tours**](/best-temecula-wine-tours/) for you to check out. Some tours do allow kids to come along for a reduced ticket.
 
 Also, consider a trip to Temecula wine country in a&nbsp;[luxury limo service](https://strackground.com/). Imagine being chauffeured through the rolling hills of Southern California in a plush, comfortable vehicle while taking in the breathtaking scenery. Your experienced driver will pick you up at your doorstep and transport you in style to some of the finest wineries in the region. Sip on a glass of your favorite vintage as you take in the panoramic views of the vineyards and sample the latest offerings from local winemakers.

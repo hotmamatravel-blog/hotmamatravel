@@ -176,6 +176,8 @@ Dining is a delight with three restaurants and bars, including the Ocean 999 Res
 
 **[See Photos, Reviews, &amp; More](/go/pan-pacific-vancouver-bc/)**
 
+## That's a Wrap!
+
 All the hotels on our list have been thoroughly researched to ensure that you can pick the best hotel in Vancouver for your family. They all offer wonderful amenities, comforts and convenient locations to help make family travel to Vancouver as easy as possible. To make the decision easier, try [cozycozy](https://www.cozycozy.com/us/vancouver-hotels) and compare family-friendly accommodation options in the city.
 
 Now that you have all the information you need to plan you family vacation to Vancouver, the only hard part left is making a decision on where to stay in Vancouver with kids. When you do, let me know what you pick and how was your stay!

@@ -35,5 +35,7 @@ Here’s a little secret: one of the best ways to feel like a [local](/cultural-
 
 Shopping is always a to-do when traveling. But not the touristy kind. I’m talking about finding unique, handcrafted pieces that tell a story. Local artisans are the heart of a city’s culture, and buying from them supports that creativity. It could be a beautifully crafted leather bag in Florence, a one-of-a-kind piece of jewelry in Istanbul, or hand-thrown pottery in Kyoto, these treasures are so much more meaningful than generic souvenirs.
 
+## That's a Wrap!
+
 When you support local craftsmanship, you take home a piece of the place itself, something that has meaning. It’s a way to remember not just where you went but the people who live there and the stories they shared through their art.
 

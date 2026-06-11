@@ -219,6 +219,8 @@ So there you have it. Follow this list, and you’re pretty much guaranteed an u
 
 It’s clean, safe, easy to navigate, and packed with experiences that genuinely work for families without feeling overly “kid-focused.” Vancouver is one of those rare destinations where parents and kids both leave happy, and honestly, that’s the real vacation win.
 
+## That's a Wrap!
+
 Planning more Canadian adventures? Be sure to check out more of our[** Canada family travel guides**](/canada-family-travel/) on HotMamaTravel.com for family-friendly hotels, attractions, restaurants, and travel tips across Canada.
 
 

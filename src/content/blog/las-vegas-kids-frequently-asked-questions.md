@@ -166,6 +166,8 @@ Join the conversation. Do you have anything else to add about your own experienc
 
 For more Las Vegas family fun, check out our [**Vegas family travel guides**](/family-friendly-vegas/) as well as travel ideas around [**Nevada**](/nevada-family-travel/).
 
+## That's a Wrap!
+
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families. It is a lot of fun.
 
 

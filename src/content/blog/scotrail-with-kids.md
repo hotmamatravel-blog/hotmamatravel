@@ -156,6 +156,8 @@ We loved our train travel experience in Scotland. The stations are beautifully m
 
 **Do you like traveling by rail? **
 
+## That's a Wrap!
+
 **What's your favorite rail journey or one you would like to take? **
 
 **Like it? Pin it!**

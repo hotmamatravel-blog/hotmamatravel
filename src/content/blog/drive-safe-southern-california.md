@@ -36,4 +36,6 @@ If you are traveling with kids and have a day to spare, do yourself a favor and 
 
 Whether you are traveling through the old town of San Diego or to the theme parks of Los Angeles, good protection like [Anaheim auto insurance](https://agency.nationwide.com/anaheim-ca) is your best key to protecting yourself. Traffic is often serious and relentless.  Moving in and out of lanes safely and confidently without hesitation, especially on the freeways, is your best bet. Basically, make a decision and stick to it. Local drivers don’t get offended by aggressive drivers; they tend to loathe those who don’t make swift decisions and then cause delays or worse, accidents. Protect yourself and your loved ones as you venture out and explore all that this incredibly beautiful and diverse area has to offer.
 
+## That's a Wrap!
+
 Whether you are a local or you picked this great location to visit, set your sites on more than just the ordinary.  Find out what makes Southern California so amazing besides its weather and great people. Be safe and enjoy the food, the views, and the fast-paced lifestyle.

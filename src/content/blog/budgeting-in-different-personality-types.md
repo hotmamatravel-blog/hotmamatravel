@@ -62,5 +62,7 @@ For Sentinels, it's crucial to provide encouragement towards making wise investm
 
 When it comes to budgeting advice, Analysts naturally excel in offering invaluable insights and strategies. However, it is the idealistic Diplomats who often stand to gain the most from such guidance, as they navigate the delicate balance between financial responsibility and fulfilling their travel dreams.
 
+## That's a Wrap!
+
 By recognizing and embracing the diverse budgeting tendencies among different traveler types, we can create a more holistic and tailored approach to managing finances while embarking on incredible journeys.
 

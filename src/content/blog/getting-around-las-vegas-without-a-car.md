@@ -189,6 +189,8 @@ Las Vegas is more than just a city for adults; it's a playground for families, t
 
 For more help planning the best Vegas family vacation ever, join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! It's a lot of fun.
 
+## That's a Wrap!
+
 Also, check out our other [**Las Vegas family travel guides**](/family-friendly-vegas/) as well as [**guides for exploring Nevada**](/nevada-family-travel/).
 
 

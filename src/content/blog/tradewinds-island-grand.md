@@ -247,6 +247,8 @@ Whether you’re planning your **[first Florida family getaway](/florida-family-
 
 - See more of our favorite [**Family Hotels**](/best-family-hotels/) in the US and around the world.
 
+## That's a Wrap!
+
 Your tropical family escape is just a click away—**[book your stay now and start packing for paradise!](/tradewinds-island-grand/)**
 
 

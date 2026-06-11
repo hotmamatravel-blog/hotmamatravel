@@ -257,6 +257,8 @@ The fun doesn't stop there! Explore more exciting **[California family travel](/
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
+## That's a Wrap!
+
 **Like it? Pin it?**
 
 <figure id="things-to-do-in-idyllwild-with-kids" data-essb-pin-description="Looking for the perfect mountain escape? Idyllwild with kids is full of fresh air, forest hikes, cozy cabins, and small-town charm families love. From easy trails to fun local stops, this guide covers the best things to do in Idyllwild with kids for a laid-back, memory-making getaway. #IdyllwildWithKids #CaliforniaFamilyTravel #MountainGetaway #FamilyAdventure #KidFriendlyTravel"><img src="/images/Things-to-do-in-idyllwild-with-kids-200x300.jpg" alt="Fun things to do in Idyllwild with kids" /></figure>

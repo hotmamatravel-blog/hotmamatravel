@@ -94,6 +94,8 @@ Las Vegas has so many options for families of all sizes, but I found that it is 
 
 For more help planning your next Vegas vacation, check out our [**Las Vegas Family Travel Guides**](/family-friendly-vegas/) as well as our [**Nevada Family Travel Guides**](/nevada-family-travel/).
 
+## That's a Wrap!
+
 Also, be sure to join my [**Las Vegas With Kids Facebook Group**](https://www.facebook.com/groups/lasvegaswithkidstips)! This is where our community gathers to share the most up-to-date Vegas news and tips for families. It is a lot of fun.
 
 

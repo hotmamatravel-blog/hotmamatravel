@@ -115,6 +115,8 @@ Knott’s Merry Farm truly captures the spirit of the season, with twinkling lig
 
 But the fun doesn’t stop once the holidays end! Knott’s keeps the excitement going all year long with other can’t-miss seasonal events like Knott’s Spooky Farm in the fall and **[Ghost Town Alive](/knotts-berry-farm-ghost-town-alive/)** in the summer — both packed with family-friendly fun, interactive entertainment, and that unique Knott’s personality we love.
 
+## That's a Wrap!
+
 If you’re planning a trip to the area, make sure to explore more **[family-friendly things to do in Buena Park](/buena-park-with-kids/)**, from theme parks and dining to hidden gems your whole crew will love. For even more trip ideas and planning tips, check out our **[Orange County with Kids Guide](/orange-county-family-travel/)** and **[California Family Travel Guides](/california-family-travel/)**, because adventure is always in season when you’re traveling HotMama-style.
 
 

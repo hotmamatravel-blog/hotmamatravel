@@ -92,6 +92,8 @@ If you love holiday decorations and festivities, then winter is a great time to 
 
 **[See Photos, Reviews, &amp; More](/go/vegas-holidays/)**
 
+## That's a Wrap!
+
 No matter when you decide to visit, Las Vegas offers a unique blend of entertainment, activities, and attractions that make it a fantastic destination for families year-round.
 
 To make the most of your trip, be sure to explore my comprehensive [**Las Vegas Family Travel Guides**](/family-friendly-vegas/). Whether you’re planning your first visit or looking for new family-friendly activities to try, these guides are packed with insider tips and recommendations to ensure you have an unforgettable experience.
