@@ -7,7 +7,9 @@ import { sanityClient } from 'sanity:client';
 import { slugifyTag } from '@/utils/slugify';
 
 export async function getStaticPaths() {
-  const allPosts = await sanityClient.fetch(`*[_type == "post" && !draft]`);
+  const allPosts = await sanityClient.fetch(
+    `*[_type == "post" && !draft && !(slug.current in ["contact", "privacy-policy", "terms-of-use", "work-with-us", "disclosure-policy"])]`
+  );
 
   // Collect all unique tags from all posts, including category as a tag
   const tagSet = new Set<string>();

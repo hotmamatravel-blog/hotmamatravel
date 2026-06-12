@@ -5,7 +5,9 @@ import PostCard from '@/components/PostCard.astro';
 import { sanityClient } from 'sanity:client';
 import { slugifyTag } from '@/utils/slugify';
 
-const allPosts = await sanityClient.fetch(`*[_type == "post" && !draft]`);
+const allPosts = await sanityClient.fetch(
+  `*[_type == "post" && !draft && !(slug.current in ["contact", "privacy-policy", "terms-of-use", "work-with-us", "disclosure-policy"])]`
+);
 const sortedPosts = allPosts.sort((a: any, b: any) =>
   new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()
 );
@@ -157,12 +159,18 @@ const allTags = [...new Set(allPosts.flatMap((p: any) => p.tags ?? []))].sort();
 
     // Filter cards
     const wrappers = document.querySelectorAll<HTMLElement>('.post-card-wrapper');
+    const keywords = query.split(/\s+/).filter(Boolean);
     let visibleCount = 0;
+    
     wrappers.forEach(wrapper => {
       const title = wrapper.dataset.title ?? '';
       const desc = wrapper.dataset.description ?? '';
       const tags = wrapper.dataset.tags ?? '';
-      const match = title.includes(query) || desc.includes(query) || tags.includes(query);
+      
+      const match = keywords.every(kw => 
+        title.includes(kw) || desc.includes(kw) || tags.includes(kw)
+      );
+      
       wrapper.style.display = match ? '' : 'none';
       if (match) visibleCount++;
     });

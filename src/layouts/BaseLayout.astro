@@ -98,10 +98,58 @@ const props = Astro.props;
         });
       }
 
+      function handleHashLinks() {
+        const hash = window.location.hash;
+        if (hash) {
+          // Delay slightly to allow page load/render to settle
+          setTimeout(() => scrollToAnchor(hash), 150);
+        }
+
+        document.body.addEventListener('click', (e) => {
+          const link = e.target.closest('a');
+          if (!link) return;
+          
+          const href = link.getAttribute('href');
+          if (href && href.startsWith('#')) {
+            e.preventDefault();
+            const targetHash = href;
+            history.pushState(null, '', targetHash);
+            scrollToAnchor(targetHash);
+          }
+        });
+      }
+
+      function scrollToAnchor(hash) {
+        const cleanHash = decodeURIComponent(hash.substring(1)).toLowerCase().trim();
+        if (!cleanHash) return;
+
+        let target = document.getElementById(cleanHash) || document.querySelector(`[name="${cleanHash}"]`);
+        
+        if (!target) {
+          const headings = document.querySelectorAll('h2, h3, h4');
+          for (const heading of headings) {
+            const headingText = heading.textContent.toLowerCase().replace(/[^a-z0-9\s-]/g, '').trim().replace(/\s+/g, '-').replace(/-+/g, '-');
+            const cleanText = heading.textContent.toLowerCase().trim();
+            if (headingText === cleanHash || headingText.includes(cleanHash) || cleanHash.includes(headingText) || cleanText.includes(cleanHash.replace(/-/g, ' '))) {
+              target = heading;
+              break;
+            }
+          }
+        }
+
+        if (target) {
+          target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      }
+
       if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', setupOutboundLinks);
+        document.addEventListener('DOMContentLoaded', () => {
+          setupOutboundLinks();
+          handleHashLinks();
+        });
       } else {
         setupOutboundLinks();
+        handleHashLinks();
       }
     </script>
 

@@ -3,7 +3,9 @@ import { sanityClient } from 'sanity:client';
 import type { APIContext } from 'astro';
 
 export async function GET(context: APIContext) {
-  const posts = await sanityClient.fetch(`*[_type == "post" && !draft]`);
+  const posts = await sanityClient.fetch(
+    `*[_type == "post" && !draft && !(slug.current in ["contact", "privacy-policy", "terms-of-use", "work-with-us", "disclosure-policy"])]`
+  );
   const sortedPosts = posts.sort((a: any, b: any) =>
     new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()
   );

@@ -1,0 +1,27 @@
+---
+// src/components/PortableTextHeading.astro
+interface Props {
+  node: {
+    style: 'h2' | 'h3' | 'h4';
+    children: Array<{ text?: string }>;
+  };
+}
+
+const { node } = Astro.props;
+const { style, children } = node;
+
+// Combine all span texts to get the raw heading text
+const text = children.map((child: any) => child.text || '').join('');
+
+// Generate a clean slug for the ID attribute
+const id = text
+  .toLowerCase()
+  .replace(/[^a-z0-9\s-]/g, '')
+  .trim()
+  .replace(/\s+/g, '-')
+  .replace(/-+/g, '-');
+
+const Tag = style;
+---
+
+<Tag id={id}><slot /></Tag>

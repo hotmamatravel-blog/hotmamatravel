@@ -1,0 +1,25 @@
+---
+// src/components/LocalImage.astro
+interface Props {
+  node: {
+    src: string;
+    alt: string;
+    caption?: string;
+    href?: string;
+  };
+}
+
+const { node } = Astro.props;
+const { src, alt, caption, href } = node;
+---
+
+<figure>
+  {href ? (
+    <a href={href}>
+      <img src={src} alt={alt} loading="lazy" decoding="async" />
+    </a>
+  ) : (
+    <img src={src} alt={alt} loading="lazy" decoding="async" />
+  )}
+  {caption && <figcaption>{caption}</figcaption>}
+</figure>

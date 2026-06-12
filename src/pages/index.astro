@@ -4,7 +4,9 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import PostCard from '@/components/PostCard.astro';
 import { sanityClient } from 'sanity:client';
 
-const allPosts = await sanityClient.fetch(`*[_type == "post" && !draft]`);
+const allPosts = await sanityClient.fetch(
+  `*[_type == "post" && !draft && !(slug.current in ["contact", "privacy-policy", "terms-of-use", "work-with-us", "disclosure-policy"])]`
+);
 const sortedPosts = allPosts.sort((a: any, b: any) =>
   new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()
 );

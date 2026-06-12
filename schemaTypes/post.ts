@@ -120,6 +120,45 @@ export const postType = defineType({
               title: 'HTML Code'
             }
           ]
+        },
+        {
+          name: 'localImage',
+          type: 'object',
+          title: 'Local Image (Stored Locally)',
+          fields: [
+            {
+              name: 'src',
+              type: 'string',
+              title: 'Image Path (e.g. /images/name.jpg)'
+            },
+            {
+              name: 'alt',
+              type: 'string',
+              title: 'Alternative Text'
+            },
+            {
+              name: 'caption',
+              type: 'string',
+              title: 'Caption (Optional)'
+            },
+            {
+              name: 'href',
+              type: 'string',
+              title: 'Link URL (Optional)'
+            }
+          ],
+          preview: {
+            select: {
+              title: 'alt',
+              subtitle: 'src'
+            },
+            prepare({ title, subtitle }) {
+              return {
+                title: title || 'Untitled Local Image',
+                subtitle: subtitle || 'No image path set'
+              };
+            }
+          }
         }
       ],
     }),

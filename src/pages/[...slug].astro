@@ -4,6 +4,9 @@ import { sanityClient } from 'sanity:client';
 import PostLayout from '@/layouts/PostLayout.astro';
 import { PortableText } from 'astro-portabletext';
 import RawHtml from '@/components/RawHtml.astro';
+import PortableTextHeading from '@/components/PortableTextHeading.astro';
+import LocalImage from '@/components/LocalImage.astro';
+
 
 export async function getStaticPaths() {
   const posts = await sanityClient.fetch(`*[_type == "post" && !draft]`);
@@ -22,6 +25,12 @@ const { post } = Astro.props;
 const customComponents = {
   type: {
     rawHtml: RawHtml,
+    localImage: LocalImage,
+  },
+  block: {
+    h2: PortableTextHeading,
+    h3: PortableTextHeading,
+    h4: PortableTextHeading,
   },
 };
 ---

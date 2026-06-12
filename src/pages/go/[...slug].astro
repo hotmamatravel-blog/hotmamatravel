@@ -1,9 +1,10 @@
 ---
 // src/pages/go/[...slug].astro — Handles ThirstyAffiliates redirects automatically
-import redirectsData from '../../data/affiliate-redirects.json';
+import { sanityClient } from 'sanity:client';
 
 export async function getStaticPaths() {
-  return redirectsData.map((item) => ({
+  const redirects = await sanityClient.fetch(`*[_type == "affiliateLink"]`);
+  return redirects.map((item: any) => ({
     params: { slug: item.slug },
     props: { destUrl: item.destUrl }
   }));
