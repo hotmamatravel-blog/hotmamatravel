@@ -434,47 +434,52 @@ function convertToPortableText(bodyText) {
 }
 
 async function startMigration() {
+  const BATCH_SIZE = 25;
   let migratedCount = 0;
 
-  for (const file of files) {
-    const filePath = path.join(blogDir, file);
-    const { frontmatter, body } = parseMarkdown(filePath);
+  for (let i = 0; i < files.length; i += BATCH_SIZE) {
+    const batch = files.slice(i, i + BATCH_SIZE);
+    const tx = client.transaction();
     
-    const slug = file.replace(/\.md$/, '');
-    const docId = `post-${slug}`;
-    
-    // Format publish date
-    const pubDate = frontmatter.pubDate || new Date().toISOString().split('T')[0];
-    
-    // Prepare Sanity Document
-    const doc = {
-      _type: 'post',
-      _id: docId,
-      title: frontmatter.title || slug,
-      slug: {
-        _type: 'slug',
-        current: slug
-      },
-      pubDate,
-      updatedDate: frontmatter.updatedDate || null,
-      description: frontmatter.description || '',
-      heroImage: frontmatter.heroImage || null,
-      heroImageAlt: frontmatter.heroImageAlt || '',
-      category: frontmatter.category || 'Family Travel',
-      tags: frontmatter.tags || [],
-      draft: frontmatter.draft === 'true' || frontmatter.draft === true,
-      wpId: frontmatter.wpId ? parseInt(frontmatter.wpId, 10) : null,
-      wpSlug: frontmatter.wpSlug || slug,
-      author: frontmatter.author || 'Amanda Keeley-Thurman',
-      body: convertToPortableText(body)
-    };
+    for (const file of batch) {
+      const filePath = path.join(blogDir, file);
+      const { frontmatter, body } = parseMarkdown(filePath);
+      
+      const slug = file.replace(/\.md$/, '');
+      const docId = `post-${slug}`;
+      const pubDate = frontmatter.pubDate || new Date().toISOString().split('T')[0];
+      
+      const doc = {
+        _type: 'post',
+        _id: docId,
+        title: frontmatter.title || slug,
+        slug: {
+          _type: 'slug',
+          current: slug
+        },
+        pubDate,
+        updatedDate: frontmatter.updatedDate || null,
+        description: frontmatter.description || '',
+        heroImage: frontmatter.heroImage || null,
+        heroImageAlt: frontmatter.heroImageAlt || '',
+        category: frontmatter.category || 'Family Travel',
+        tags: frontmatter.tags || [],
+        draft: frontmatter.draft === 'true' || frontmatter.draft === true,
+        wpId: frontmatter.wpId ? parseInt(frontmatter.wpId, 10) : null,
+        wpSlug: frontmatter.wpSlug || slug,
+        author: frontmatter.author || 'Amanda Keeley-Thurman',
+        body: convertToPortableText(body)
+      };
+      
+      tx.createOrReplace(doc);
+    }
     
     try {
-      await client.createOrReplace(doc);
-      migratedCount++;
-      console.log(`✅ Migrated: ${file} -> Sanity Document ID: ${docId}`);
+      await tx.commit();
+      migratedCount += batch.length;
+      console.log(`✅ Migrated batch: ${i + 1} to ${Math.min(i + BATCH_SIZE, files.length)}`);
     } catch (err) {
-      console.error(`❌ Failed migrating ${file}:`, err.message);
+      console.error(`❌ Failed migrating batch starting at index ${i}:`, err.message);
     }
   }
 
@@ -491,20 +496,29 @@ async function seedAffiliateLinks() {
   const redirects = JSON.parse(fs.readFileSync(redirectsPath, 'utf8'));
   console.log(`🚀 Seeding ${redirects.length} affiliate redirect links to Sanity...`);
   
+  const BATCH_SIZE = 100;
   let count = 0;
-  for (const item of redirects) {
-    const docId = `afflink-${item.slug}`;
-    const doc = {
-      _type: 'affiliateLink',
-      _id: docId,
-      slug: item.slug,
-      destUrl: item.destUrl
-    };
+  
+  for (let i = 0; i < redirects.length; i += BATCH_SIZE) {
+    const batch = redirects.slice(i, i + BATCH_SIZE);
+    const tx = client.transaction();
+    
+    for (const item of batch) {
+      const docId = `afflink-${item.slug}`;
+      tx.createOrReplace({
+        _type: 'affiliateLink',
+        _id: docId,
+        slug: item.slug,
+        destUrl: item.destUrl
+      });
+    }
+    
     try {
-      await client.createOrReplace(doc);
-      count++;
+      await tx.commit();
+      count += batch.length;
+      console.log(`✅ Seeded batch: ${i + 1} to ${Math.min(i + BATCH_SIZE, redirects.length)}`);
     } catch (err) {
-      console.error(`❌ Failed seeding affiliate link ${item.slug}:`, err.message);
+      console.error(`❌ Failed seeding batch starting at index ${i}:`, err.message);
     }
   }
   console.log(`🎉 Successfully seeded ${count} affiliate links to Sanity.`);
@@ -516,3 +530,4 @@ async function main() {
 }
 
 main();
+
