@@ -687,13 +687,17 @@ h1, h2, h3, h4, h5, h6 {
   list-style: none !important;
   padding-left: 0 !important;
 }
-.wp-block-uagb-icon-list-child {
-  display: flex;
-  align-items: flex-start;
-  gap: 10px;
+.wp-block-uagb-icon-list-child,
+.uagb-icon-list__wrapper,
+.uagb-icon-list__content-wrap {
+  display: flex !important;
+  align-items: flex-start !important;
+  gap: 10px !important;
   line-height: 1.6;
 }
-.wp-block-uagb-icon-list-child > svg {
+.wp-block-uagb-icon-list-child > svg,
+.uagb-icon-list__content-wrap > svg,
+.uagb-icon-list__wrapper svg {
   width: 20px !important;
   height: 20px !important;
   flex-shrink: 0;
