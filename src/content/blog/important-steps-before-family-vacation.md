@@ -45,7 +45,7 @@ You don’t know what you don’t know, and things can happen on the road that a
 
 If you’re heading out of the country for two weeks, you’ll want to bring $2k to $5k with you. Call it $1k per person up to about 3,000 miles.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block stk-ccee0e8" id="thats-a-wrap" data-block-id="ccee0e8"><style>.stk-ccee0e8 .stk-block-heading__bottom-line{height:5px !important;width:141px !important;background-color:#e22727 !important;margin-left:auto !important;margin-right:auto !important}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block stk-ccee0e8" id="thats-a-wrap" data-block-id="ccee0e8">
 
 <div class="stk-block-heading__bottom-line">
 

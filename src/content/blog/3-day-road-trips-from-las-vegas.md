@@ -48,7 +48,7 @@ View this post as a Google Web Story, here: [**Las Vegas Road Trips**](/web-stor
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<div class="wp-block-ugb-heading ugb-heading ugb-447dd01 ugb-main-block" id="oatman-topock-road-trip"><style>.ugb-447dd01 .ugb-heading__title{text-align:center}.ugb-447dd01 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-447dd01 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+<div class="wp-block-ugb-heading ugb-heading ugb-447dd01 ugb-main-block" id="oatman-topock-road-trip"><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Road Trip Option #1 - Oatman &amp; Topock
 
@@ -92,7 +92,7 @@ On your scenic drive back to Las Vegas in time for [**dinner and a show**](/las-
 
 **[Kingman AZ](/go/kingman-arizona/)** is a classic Route 66 stop with retro diners and a historic downtown district that is worth seeing to remember the good ole days of the Mother Road (i.e., Route 66).
 
-<div class="wp-block-ugb-heading ugb-heading ugb-33219b9 ugb-main-block" id="zion-national-park"><style>.ugb-33219b9 .ugb-heading__title{text-align:center}.ugb-33219b9 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-33219b9 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+<div class="wp-block-ugb-heading ugb-heading ugb-33219b9 ugb-main-block" id="zion-national-park"><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Road Trip Option #2: Zion National Park, UT
 
@@ -128,7 +128,7 @@ You won't want to miss seeing the Narrows, which is a popular spot for instagram
 
 On the way back to Vegas, you may want to stop for lunch in Mesquite, Nevada. It is a small town with a few casinos and an amazing Golf Course called [Wolf Creek](https://golfwolfcreek.com/) (if that is your sort of thing) that my husband has played several times over the years with his family.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-4b670f0 ugb-main-block" id="grand-canyon-road-trip"><style>.ugb-4b670f0 .ugb-heading__title{text-align:center}.ugb-4b670f0 .ugb-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important}.ugb-4b670f0 .ugb-inner-block{text-align:center}</style><div class="ugb-inner-block"><div class="ugb-block-content">
+<div class="wp-block-ugb-heading ugb-heading ugb-4b670f0 ugb-main-block" id="grand-canyon-road-trip"><div class="ugb-inner-block"><div class="ugb-block-content">
 
 ## Road Trip Option #3: Williams - Grand Canyon
 

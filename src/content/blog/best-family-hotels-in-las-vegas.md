@@ -59,7 +59,7 @@ View this post as a Google Web Story: [**Best Hotels in Las Vegas for Families**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DQg_9iwz-3E?si=58ArKWm8q97pof5Q&amp;start=174" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-e9bf107" id="full-nyny-hotel-review" data-block-id="e9bf107"><style>.stk-e9bf107 .stk-block-heading__bottom-line{background-color:#ff0000 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-e9bf107" id="full-nyny-hotel-review" data-block-id="e9bf107">
 
 #### Full NYNY Hotel Review
 
@@ -73,7 +73,7 @@ There are live events and concerts in The Park year-round, and unique restaurant
 
 My all time favorite reason to stay at NYNY, is our tradition of having a nightcap pint of Guinness at Nine Fine Irishmen, which is still the finest Irish Pub on the Strip with authentic Irish Music and Dance nightly by Sin e Ri Ra. Best of all, NYNY is one of the most affordable family hotels in Vegas and one of the best values in our experience.**&nbsp;[Learn more at Vegas.com](/go/nyny-las-vegas-expedia/)**
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-22add38" id="what-families-will-love-about-nyny" data-block-id="22add38"><style>.stk-22add38 .stk-block-heading__bottom-line{background-color:#f40404 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-22add38" id="what-families-will-love-about-nyny" data-block-id="22add38">
 
 #### What Families will love about NYNY
 
@@ -85,7 +85,7 @@ My all time favorite reason to stay at NYNY, is our tradition of having a nightc
 
 **Tons of kid-friendly food options!** My kids love all the New York-style street food dining options. From New York Pizza to Crepes, there are so many fun things to try, you'll want to eat all day and kill time before you can eat again.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-a7cd5c6" id="suites-and-amenities-for-families-at-nyny" data-block-id="a7cd5c6"><style>.stk-a7cd5c6 .stk-block-heading__bottom-line{background-color:#fe0404 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-a7cd5c6" id="suites-and-amenities-for-families-at-nyny" data-block-id="a7cd5c6">
 
 #### Suites and Amenities for Families at NYNY
 
@@ -101,7 +101,7 @@ The largest room for families at NYNY is the 800 sq ft Players Suite, which has 
 
 The Pool at NYNY will get the job done, but it is not one of the top Vegas pools for families. My kids always enjoy it, though. They do have a bar and drink service, and you can rent a cabana for the day. There is also a nice water feature in the middle of the pool that the kids love. However, there is no restaurant to eat poolside, which is kind of a bummer.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-83beb15" id="family-entertainment-at-nyny" data-block-id="83beb15"><style>.stk-83beb15 .stk-block-heading__bottom-line{background-color:#f30404 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-83beb15" id="family-entertainment-at-nyny" data-block-id="83beb15">
 
 #### Family Entertainment at NYNY
 
@@ -119,7 +119,7 @@ For tech-savvy kids and families, NYNY also just introduced a Virtual Reality ve
 
 **The Park:**&nbsp;The Park is located in a beautiful tree-filled space between NYNY and Monte Carlo and stretches all the way back to the T-Mobile Arena. There is a 40-foot statue, park benches, and design features reminiscent of Central Park in New York. There are a host of kid-friendly restaurants serving killer food and drink all along the park, so you feel completely transported to the Big Apple.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-266ad24" id="family-friendly-restaurants-at-nyny" data-block-id="266ad24"><style>.stk-266ad24 .stk-block-heading__bottom-line{background-color:#f60d0d !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-266ad24" id="family-friendly-restaurants-at-nyny" data-block-id="266ad24">
 
 #### Family-Friendly Restaurants at NYNY
 
@@ -149,7 +149,7 @@ Customers can also purchase Hello Kitty-themed merchandise like plush toys, keyc
 
 **Beerhaus:&nbsp;**Designed after classic beer halls, Beerhaus has a creative menu that will satisfy craft beer connoisseurs and casual drinkers alike, with a range of sausages and sandwiches to pair with delicious beers in an outdoor patio environment. Best of all, they have a daily happy hour from 2-6 pm with $4 pints and other specials! Count us in.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-13b1b0f" id="thats-a-wrap" data-block-id="13b1b0f"><style>.stk-13b1b0f .stk-block-heading__bottom-line{background-color:#fa0a0a !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-13b1b0f" id="thats-a-wrap" data-block-id="13b1b0f">
 
 ##
 
@@ -179,7 +179,7 @@ No, NYNY Hotel does not have the best pool or the best kid-friendly Vegas shows.
 
 - It has huge **3 bedroom family suites** available
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-3a5a315" id="full-mgm-review" data-block-id="3a5a315"><style>.stk-3a5a315 .stk-block-heading__bottom-line{background-color:#ff0000 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-3a5a315" id="full-mgm-review" data-block-id="3a5a315">
 
 #### Full MGM Review:
 
@@ -193,7 +193,7 @@ It is located on the [**Vegas Strip**](/walking-las-vegas-strip/) at the southea
 
 MGM is also accessible via **[monorail](/go/las-vegas-monorail/)**, which will safely take you all along the Northern part of the Vegas Strip between MGM and Sahara, for five bucks each way (kids 5 and under are free).&nbsp;**[Learn more at Vegas.com](/go/mgm-grand-las-vegas-expedia/)**
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-929f0d4" id="what-families-will-love-about-mgm" data-block-id="929f0d4"><style>.stk-929f0d4 .stk-block-heading__bottom-line{background-color:#f00303 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-929f0d4" id="what-families-will-love-about-mgm" data-block-id="929f0d4">
 
 #### What Families will love about MGM:
 
@@ -203,7 +203,7 @@ MGM is also accessible via **[monorail](/go/las-vegas-monorail/)**, which will s
 
 **[The best lineup of family-friendly shows in Vegas!](/las-vegas-shows-for-kids/)&nbsp;**Children (5 or older) are also welcome to some amazing nightly shows for families, including the magic of David Copperfield, the heart-thumping KA Cirque Du Soleil show, and the thrilling Jabbawockeez dance show, which was voted as the Best Family Show in Vegas and the “Best All Ages Show” three years in a row.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-1c80297" id="suites-and-amenities-for-families-at-mgm" data-block-id="1c80297"><style>.stk-1c80297 .stk-block-heading__bottom-line{background-color:#f80808 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-1c80297" id="suites-and-amenities-for-families-at-mgm" data-block-id="1c80297">
 
 #### Suites and Amenities for Families at MGM:
 
@@ -223,7 +223,7 @@ The aforementioned Grand Pool is a sprawling complex that is a big plus for fami
 
 If you get hungry from spending all day in the sun, you can have lunch at Cabanas Grill Restaurant, or you can grab a beer, cocktail, or refreshment at one of the 5 different bars within the Grand Pool Complex. See my full review of [**best pools in Las Vegas for families**](/best-family-pools-in-vegas/).
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-a22733a" id="family-entertainment-at-mgm-grand" data-block-id="a22733a"><style>.stk-a22733a .stk-block-heading__bottom-line{background-color:#f40505 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-a22733a" id="family-entertainment-at-mgm-grand" data-block-id="a22733a">
 
 #### Family Entertainment at MGM Grand
 
@@ -241,7 +241,7 @@ If you get hungry from spending all day in the sun, you can have lunch at Cabana
 
 **Zero Latency**: Zero Latency VR takes virtual reality to a whole different level with massive free-roam adventures that make you feel like you’ve stepped straight into a video game. Teams of up to 8 players can battle zombies, fight rogue robots, or explore alien worlds together in fully immersive experiences that are equal parts chaotic, thrilling, and ridiculously fun. Perfect for older kids, teens, and parents who are ready to trade sightseeing for full-on action movie energy.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-a92d975" id="family-friendly-restaurants-at-mgm-grand" data-block-id="a92d975"><style>.stk-a92d975 .stk-block-heading__bottom-line{background-color:#f30f0f !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-a92d975" id="family-friendly-restaurants-at-mgm-grand" data-block-id="a92d975">
 
 #### Family-Friendly Restaurants at MGM Grand
 
@@ -263,7 +263,7 @@ There are literally tons of restaurants to choose from at MGM, and here is a lis
 
 **Pieology:** This casual restaurant specializes in customizable personal pizzas and offers a variety of fresh toppings, including meats, vegetables, and cheeses, which customers can choose from to create their own unique pizza. Customers can also choose from pre-designed signature pizzas, or opt for a gluten-free or cauliflower crust. Once the pizza is assembled, it is baked in a high-temperature oven and served hot and fresh. In addition to pizzas, Pieology also offers salads, breadsticks, and dessert pizzas.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-c244f28" id="thats-a-wrap" data-block-id="c244f28"><style>.stk-c244f28 .stk-block-heading__bottom-line{background-color:#f40202 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-c244f28" id="thats-a-wrap" data-block-id="c244f28">
 
 ##
 
@@ -291,7 +291,7 @@ MGM offers a grand experience, no pun intended, with a truly eclectic mix of res
 
 - It has our favorite Irish pub (Ri Ra) with **kid-friendly live music**
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-8a5699b" id="full-mandalay-bay-review" data-block-id="8a5699b"><style>.stk-8a5699b .stk-block-heading__bottom-line{background-color:#ff0000 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-8a5699b" id="full-mandalay-bay-review" data-block-id="8a5699b">
 
 #### Full Mandalay Bay Review
 
@@ -303,7 +303,7 @@ Mandalay Bay is connected via the Mandalay Tram to family favorites the Luxor an
 
 The Mandalay also has sister properties,, including the Four Seasons and THEhotel, a tower of luxury hotel rooms. The Mandalay is a huge luxurious playground with lots of fun activities for kids and parents.&nbsp;**[Learn more at Vegas.com](/go/mandalay-las-vegas-expedia/)**.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-29ca5a2" id="what-families-will-love-about-mandalay-bay" data-block-id="29ca5a2"><style>.stk-29ca5a2 .stk-block-heading__bottom-line{background-color:#f20303 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-29ca5a2" id="what-families-will-love-about-mandalay-bay" data-block-id="29ca5a2">
 
 #### What families will LOVE about Mandalay Bay:
 
@@ -313,7 +313,7 @@ The Mandalay also has sister properties,, including the Four Seasons and THEhote
 
 **[The Shark Reef Aquarium](/go/shark-reef-mandalay-bay-las-vegas/).&nbsp;**Enough said. The whole family will delight over 2,000 different animals, including sharks, sea turtles, rays, piranhas, jellyfish, and rare golden crocodiles. You can even interact by feeding sea turtles, sharks, and stingrays. It is a beautiful, educational, and awe-inspiring way to spend the afternoon at Mandalay.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-9c37fed" id="suites-and-amenities-for-families-at-mandalay-bay" data-block-id="9c37fed"><style>.stk-9c37fed .stk-block-heading__bottom-line{background-color:#ec0a0a !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-9c37fed" id="suites-and-amenities-for-families-at-mandalay-bay" data-block-id="9c37fed">
 
 #### Suites and Amenities for Families at Mandalay Bay:
 
@@ -337,7 +337,7 @@ But the thing that really sets the Mandalay Bay pool apart is that it has over 2
 
 Of course, you will also be able to rent inter-tubes, day beds, cabanas, and even a bungalow for the family. If you book between May and September, you might also be able to catch a concert at the Mandalay Bay Beach with the Beach Concert Series. Check out my full review on [**best family Las Vegas pools**](/best-family-pools-in-vegas/).
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-7662800" id="family-entertainment-at-mandalay-bay" data-block-id="7662800"><style>.stk-7662800 .stk-block-heading__bottom-line{background-color:#f70505 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-7662800" id="family-entertainment-at-mandalay-bay" data-block-id="7662800">
 
 #### Family Entertainment at Mandalay Bay
 
@@ -351,7 +351,7 @@ Of course, you will also be able to rent inter-tubes, day beds, cabanas, and eve
 
 **[Shark Reef Aquarium](/go/shark-reef-mandalay-bay-las-vegas/):&nbsp;**The shark aquarium is fun for all ages. It is a huge tank that you can walk through that has thousands of unique animals including fish, sharks, turtles, jellyfish and alligators. You will feel immersed in the beautiful underwater world and entertained watching these amazing sea creatures. You can also book a tour to get up close and personal with the animals, where you can feed sharks, sea turtles and sting rays.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-67089b6" id="family-friendly-restaurants-at-mandalay-bay" data-block-id="67089b6"><style>.stk-67089b6 .stk-block-heading__bottom-line{background-color:#f40e0e !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-67089b6" id="family-friendly-restaurants-at-mandalay-bay" data-block-id="67089b6">
 
 #### Family-Friendly Restaurants at Mandalay Bay
 
@@ -369,7 +369,7 @@ The Mandalay Bay is a huge property with 24 different restaurants and lots of fu
 
 **Ri Ra Irish Pub:** We love a good [**Irish pub with live music**](/kid-friendly-live-music-las-vegas/). Our kids are usually happy with fish and chips, and we can drink Guinness all day long! Ri Ra has classic Irish pub fare that is much better than you'd expect, with the best Scottish Eggs I have ever had, and live music every day of the week. You can get breakfast, lunch or dinner at Ri Ra. When we stay at Mandalay Bay, if we are not at the beach, you will likely find us at Ri Ra Irish Pub.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-51a37f1" id="thats-a-wrap" data-block-id="51a37f1"><style>.stk-51a37f1 .stk-block-heading__bottom-line{background-color:#ed0a0a !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-51a37f1" id="thats-a-wrap" data-block-id="51a37f1">
 
 ##
 
@@ -397,7 +397,7 @@ Mandalay Bay is the most luxurious among the best family hotels in Vegas, with b
 
 - It's connected to Excalibur and Mandalay Bay via indoor walkways
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-cae7653" id="full-luxor-hotel-review" data-block-id="cae7653"><style>.stk-cae7653 .stk-block-heading__bottom-line{background-color:#ff0000 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-cae7653" id="full-luxor-hotel-review" data-block-id="cae7653">
 
 #### Full Luxor Hotel Review
 
@@ -409,7 +409,7 @@ When you step inside, it has this surreal shape that feels grand because the 30-
 
 At a bargain rate, the Luxor checks all the boxes as a fun family resort on the Vegas Strip, and it is very close to other family favorites like Excalibur, NYNY, and MGM Grand.**&nbsp;[Learn more at Vegas.com](/go/luxor-las-vegas-expedia/)**
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-2f2ee06" id="what-families-will-love-about-luxor" data-block-id="2f2ee06"><style>.stk-2f2ee06 .stk-block-heading__bottom-line{background-color:#fe0b0b !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-2f2ee06" id="what-families-will-love-about-luxor" data-block-id="2f2ee06">
 
 #### What Families will love about Luxor
 
@@ -419,7 +419,7 @@ At a bargain rate, the Luxor checks all the boxes as a fun family resort on the 
 
 **Walk like an Egyptian!&nbsp;**If you love the history of Egypt and the pyramids as I do, then Luxor is an obvious choice. The desert theme is carried throughout the entire resort, not as much as it used to back in the day (they renovated it in 2007), but it still makes for a very unique family experience in Vegas.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-d715466" id="suites-and-amenities-for-families-at-luxor" data-block-id="d715466"><style>.stk-d715466 .stk-block-heading__bottom-line{background-color:#e70606 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-d715466" id="suites-and-amenities-for-families-at-luxor" data-block-id="d715466">
 
 #### Suites and Amenities for Families at Luxor
 
@@ -439,7 +439,7 @@ The Luxor Pool is the largest in Vegas at over 120,000 sq ft. It has four pool a
 
 The atmosphere and design are pretty cool, with ancient-looking columns spilling streams of water into the pool and a huge black pyramid persistently greeting you in the backdrop. The Luxor pool is a good family pool in Las Vegas.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-3be1e31" id="family-entertainment-at-luxor" data-block-id="3be1e31"><style>.stk-3be1e31 .stk-block-heading__bottom-line{background-color:#f70404 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-3be1e31" id="family-entertainment-at-luxor" data-block-id="3be1e31">
 
 #### Family Entertainment at Luxor
 
@@ -455,7 +455,7 @@ The atmosphere and design are pretty cool, with ancient-looking columns spilling
 
 **[Bodies...the Exhibition](/go/bodies-exhibition-las-vegas-bov/)**: The Bodies Exhibition shows real human bodies and organs that have been preserved with an innovative preservation process. It shows real full bodies in 3D and allows you and your kids to learn about human anatomy and biology up close with an intimate and unique view of human bodies rarely seen in history. Open daily from 10 am to 10pm, and children under 3 are also free.&nbsp;
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-876cf0d" id="family-friendly-restaurants-at-luxor" data-block-id="876cf0d"><style>.stk-876cf0d .stk-block-heading__bottom-line{background-color:#ec0101 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-876cf0d" id="family-friendly-restaurants-at-luxor" data-block-id="876cf0d">
 
 #### Family-Friendly Restaurants at Luxor
 
@@ -469,7 +469,7 @@ The atmosphere and design are pretty cool, with ancient-looking columns spilling
 
 **Diablo's Cantina:** A raucous Mexican food restaurant with homemade salsas, guacamole, and various keystone dishes like enchiladas and tacos with a twist, Diablo's is a great place to dine with older kids if you want to spend an hour or two on the wild side. It's easy to spot with its bright red neon signs from the lobby or casino floor, and is open daily from 11 am to 11pm.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-112979e" id="thats-a-wrap" data-block-id="112979e"><style>.stk-112979e .stk-block-heading__bottom-line{background-color:#eb0101 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-112979e" id="thats-a-wrap" data-block-id="112979e">
 
 ##
 
@@ -501,7 +501,7 @@ The location is at the southern end of the Strip near other family-friendly Vega
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rnFN0LZ-de4?si=qFOo3e8PaZxU9faQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-2cfed4f" id="full-excalibur-review" data-block-id="2cfed4f"><style>.stk-2cfed4f .stk-block-heading__bottom-line{background-color:#ff0000 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-2cfed4f" id="full-excalibur-review" data-block-id="2cfed4f">
 
 #### Full Excalibur Review
 
@@ -511,7 +511,7 @@ Step into the enchanting realm of [Excalibur Las Vegas](https://excalibur.mgmres
 
 As you approach Excalibur, the majestic castle façade stands tall, beckoning visitors to enter a world of knights, dragons, and chivalry. Explore the castle's winding corridors and towering turrets, and immerse yourself in the timeless tales of Camelot.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-082a19b" id="what-families-will-love-about-excalibur" data-block-id="082a19b"><style>.stk-082a19b .stk-block-heading__bottom-line{background-color:#fe0b0b !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-082a19b" id="what-families-will-love-about-excalibur" data-block-id="082a19b">
 
 #### What Families will love about Excalibur
 
@@ -529,7 +529,7 @@ Dining at Excalibur is a culinary adventure for families. The Buffet at Excalibu
 
 Beat the heat and make a splash at Excalibur's pool complex, complete with exhilarating waterslides that are sure to delight thrill-seekers of all ages. While the kids zoom down the slides, parents can relax on a lounge chair or take a refreshing dip in the pool, creating cherished memories together in the Vegas sun.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-cc7ee08" id="suites-and-amenities-for-families-at-excalibur" data-block-id="cc7ee08"><style>.stk-cc7ee08 .stk-block-heading__bottom-line{background-color:#e70606 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-cc7ee08" id="suites-and-amenities-for-families-at-excalibur" data-block-id="cc7ee08">
 
 #### Suites and Amenities for Families at Excalibur
 
@@ -537,7 +537,7 @@ Beat the heat and make a splash at Excalibur's pool complex, complete with exhil
 
 At Excalibur you can rest assured that your family, even your fur-babies, will all fit comfortably in the rooms and suites. They have the standard rooms that sleep up to four, but they also offer suites that can sleep up to seven. Additionally, there are dog-friendly suites for those traveling with their pets. If you need more space, you can always book connecting rooms.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-34dccfa" id="family-entertainment-at-excalibur" data-block-id="34dccfa"><style>.stk-34dccfa .stk-block-heading__bottom-line{background-color:#f70404 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-34dccfa" id="family-entertainment-at-excalibur" data-block-id="34dccfa">
 
 #### Family Entertainment at Excalibur
 
@@ -551,7 +551,7 @@ Experience the excitement of the Tournament of Kings dinner show, where knights 
 
 Delve into the depths of the Fun Dungeon, where arcade games, carnival attractions, and interactive experiences await adventurers of all ages. Test your skills, win prizes, and create memories that will last a lifetime.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-5fbb0ed" id="family-friendly-restaurants-at-excalibur" data-block-id="5fbb0ed"><style>.stk-5fbb0ed .stk-block-heading__bottom-line{background-color:#ec0101 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-5fbb0ed" id="family-friendly-restaurants-at-excalibur" data-block-id="5fbb0ed">
 
 #### Family-Friendly Restaurants at Excalibur
 
@@ -565,7 +565,7 @@ Delve into the depths of the Fun Dungeon, where arcade games, carnival attractio
 
 **Tournament of Kings Dinner and Show:** Immerse yourself in the excitement of medieval times with the Tournament of Kings [**dinner and show**](/las-vegas-dinner-and-show-packages/), a thrilling spectacle of jousting matches, epic battles, and royal feasts. Families can cheer for their favorite knight as they dine on a hearty three-course meal served in true medieval fashion, complete with utensil-free eating and spirited entertainment fit for kings and queens.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-9ccb49b" id="thats-a-wrap" data-block-id="9ccb49b"><style>.stk-9ccb49b .stk-block-heading__bottom-line{background-color:#eb0101 !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-9ccb49b" id="thats-a-wrap" data-block-id="9ccb49b">
 
 ##
 

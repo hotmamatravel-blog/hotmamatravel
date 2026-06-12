@@ -22,7 +22,7 @@ So, if you are a worried parent too, we'll discuss the reasons why you should ta
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-b4184e7" id="ta-href-https-hotmamatravel-com-go-everglades-city-florida-linkid-17562-journey-to-the-everglades-ta" data-block-id="b4184e7"><style>.stk-b4184e7 .stk-block-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-b4184e7" id="ta-href-https-hotmamatravel-com-go-everglades-city-florida-linkid-17562-journey-to-the-everglades-ta" data-block-id="b4184e7">
 
 ## [Journey to the Everglades](/go/everglades-city-florida/)
 
@@ -52,7 +52,7 @@ No matter which city you choose as your starting point, there are plenty of opti
 
 [**See photos, reviews &amp; more**](/go/everglades-city-florida/)
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-604600d" id="ta-href-https-hotmamatravel-com-go-everglades-airboat-tours-florida-linkid-17585-everglades-airboat-tours-ta" data-block-id="604600d"><style>.stk-604600d .stk-block-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-604600d" id="ta-href-https-hotmamatravel-com-go-everglades-airboat-tours-florida-linkid-17585-everglades-airboat-tours-ta" data-block-id="604600d">
 
 ## [Everglades Airboat Tours](/go/everglades-airboat-tours-florida/)
 
@@ -70,7 +70,7 @@ It's worth noting that the National Park Service does not operate any airboat to
 
 [**See photos, reviews &amp; more**](/go/everglades-airboat-tours-florida/)
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-8fa3009" id="everglades-animals" data-block-id="8fa3009"><style>.stk-8fa3009 .stk-block-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-8fa3009" id="everglades-animals" data-block-id="8fa3009">
 
 ## Everglades Animals
 
@@ -92,7 +92,7 @@ On land, look into the thick brush to spy Everglades Panthers and Bobcats. Altho
 
 Additionally, it's crucial to treat all wildlife with respect and to never approach or disturb them in their natural habitat.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-0fe8320" id="ta-linkid-17591-href-https-hotmamatravel-com-go-things-to-do-everglades-city-with-kids-more-everglades-attractions-ta" data-block-id="0fe8320"><style>.stk-0fe8320 .stk-block-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-0fe8320" id="ta-linkid-17591-href-https-hotmamatravel-com-go-things-to-do-everglades-city-with-kids-more-everglades-attractions-ta" data-block-id="0fe8320">
 
 ## [More Everglades Attractions](/go/things-to-do-everglades-city-with-kids/)
 
@@ -108,7 +108,7 @@ To cool down from the about hot Florida sun or get dry from wet Florida rain, yo
 
 [**See photos, reviews &amp; more**](/go/things-to-do-everglades-city-with-kids/)
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-cb1436f" id="our-personal-experience" data-block-id="cb1436f"><style>.stk-cb1436f .stk-block-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-cb1436f" id="our-personal-experience" data-block-id="cb1436f">
 
 ## Our Personal Experience:
 

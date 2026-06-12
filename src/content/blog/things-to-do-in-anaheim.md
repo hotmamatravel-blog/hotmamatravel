@@ -118,7 +118,7 @@ If you are visiting Anaheim and looking for a great family-friendly accommodatio
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-e4da5fd" id="kid-friendly-anaheim-attractions" data-block-id="e4da5fd"><style>.stk-e4da5fd .stk-block-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-e4da5fd" id="kid-friendly-anaheim-attractions" data-block-id="e4da5fd">
 
 ## Kid-friendly Anaheim Attractions
 
@@ -188,7 +188,7 @@ Let’s be real, **[Disneyland](https://disneyland.disney.go.com/)** and **Disne
 
 **[See photos, reviews &amp; more](/go/disneyland-park-anaheim/)**
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-124ff9b" id="nearby-oc-attractions" data-block-id="124ff9b"><style>.stk-124ff9b .stk-block-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-124ff9b" id="nearby-oc-attractions" data-block-id="124ff9b">
 
 ## Nearby OC Attractions
 
@@ -262,7 +262,7 @@ The Aquarium of the Pacific is a huge public aquarium located on Rainbow Harbor 
 
 [**See photos, reviews &amp; more**](/go/aquarium-of-the-pacific-long-beach/)
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-12a8931" id="kid-friendly-live-music-near-anaheim" data-block-id="12a8931"><style>.stk-12a8931 .stk-block-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-12a8931" id="kid-friendly-live-music-near-anaheim" data-block-id="12a8931">
 
 ## Kid-friendly Live Music near Anaheim
 
@@ -336,7 +336,7 @@ Segerstrom Center for the Arts Orange County is a great place to catch a play, m
 
 [**See photos, reviews &amp; more**](/go/segerstrom-center-performing-arts-costa-mesa/)
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-9bd709f" id="historic-districts-in-orange-county" data-block-id="9bd709f"><style>.stk-9bd709f .stk-block-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-9bd709f" id="historic-districts-in-orange-county" data-block-id="9bd709f">
 
 ## Historic Districts in Orange County
 
@@ -398,7 +398,7 @@ Richard Nixon Library is the birthplace and burial site of US President Richar N
 
 [**See photos, reviews &amp; more**](/go/richard-nixon-library-yorba-linda/)
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-3413612" id="fun-places-to-shop-near-anaheim" data-block-id="3413612"><style>.stk-3413612 .stk-block-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-3413612" id="fun-places-to-shop-near-anaheim" data-block-id="3413612">
 
 ## Fun places to shop near Anaheim
 
@@ -460,7 +460,7 @@ Pacific City in Huntington Beach is ocean front dining, shopping and entertainme
 
 [**See photos, reviews &amp; more**](/go/pacific-city-huntington-beach/)
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-0c6298f" id="parks-and-hiking-near-anaheim" data-block-id="0c6298f"><style>.stk-0c6298f .stk-block-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-0c6298f" id="parks-and-hiking-near-anaheim" data-block-id="0c6298f">
 
 ## Parks And Hiking Near Anaheim
 

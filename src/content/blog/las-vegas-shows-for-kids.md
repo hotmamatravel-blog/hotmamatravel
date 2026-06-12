@@ -32,7 +32,7 @@ The point of this article is to help you by giving a succinct overview for 20 of
 
 ## Top Las Vegas Shows For Kids By Category
 
-<div class="wp-block-ugb-feature ugb-feature ugb-92ab112 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-92ab112 .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-92ab112 .ugb-button .ugb-button--inner,.ugb-92ab112 .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-92ab112 .ugb-button:before{border-radius:4px !important}.ugb-92ab112 .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-92ab112 .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-92ab112 .ugb-img{width:200px;height:auto !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-92ab112 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### The Best all-around
 
@@ -41,7 +41,7 @@ The point of this article is to help you by giving a succinct overview for 20 of
 *What to expect: live music, drums, interactive, multimedia theatrics, comedy
 <div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/blue-man-group-las-vegas-bov/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></span>Book it!</span></a><div class="ugb-feature__image-side"><img src="/images/Blue-Man-Group-family-Las-Vegas-Show.png" alt="" /></div>
 
-<div class="wp-block-ugb-feature ugb-feature ugb-398a010 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-398a010 .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-398a010 .ugb-button .ugb-button--inner,.ugb-398a010 .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-398a010 .ugb-button:before{border-radius:4px !important}.ugb-398a010 .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-398a010 .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-398a010 .ugb-img{width:200px;height:auto !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-398a010 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### The Best for magic
 
@@ -50,7 +50,7 @@ The point of this article is to help you by giving a succinct overview for 20 of
 What to expect: comedy, fun, audience participation, magic tricks
 <div class="ugb-button-container"><a class="ugb-button ugb-button1" href="/go/magic-jen-kramer-vegas-show/"><span class="ugb-button--inner"><span class="ugb-icon-inner-svg"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M302.189 329.126H196.105l55.831 135.993c3.889 9.428-.555 19.999-9.444 23.999l-49.165 21.427c-9.165 4-19.443-.571-23.332-9.714l-53.053-129.136-86.664 89.138C18.729 472.71 0 463.554 0 447.977V18.299C0 1.899 19.921-6.096 30.277 5.443l284.412 292.542c11.472 11.179 3.007 31.141-12.5 31.141z"></path></svg></span>Book it!</span></a><div class="ugb-feature__image-side"><img src="/images/the-magic-of-jen-kramer.jpg" alt="" /></div>
 
-<div class="wp-block-ugb-feature ugb-feature ugb-b5eb3ce ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-b5eb3ce .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-b5eb3ce .ugb-button .ugb-button--inner,.ugb-b5eb3ce .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-b5eb3ce .ugb-button:before{border-radius:4px !important}.ugb-b5eb3ce .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-b5eb3ce .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-b5eb3ce ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### The Best on a budget
 
@@ -73,7 +73,7 @@ So we didn’t make just a plain old list. **We also provide custom ratings alon
 
 ## Best Las Vegas Comedy Shows For Kids
 
-<div class="wp-block-ugb-feature ugb-feature ugb-6b76a3c ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-6b76a3c .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-6b76a3c .ugb-button .ugb-button--inner,.ugb-6b76a3c .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-6b76a3c .ugb-button:before{border-radius:4px !important}.ugb-6b76a3c .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-6b76a3c .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-6b76a3c .ugb-img{width:200px;height:auto !important}.ugb-6b76a3c.ugb-feature{margin-top:0px !important;margin-right:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-6b76a3c ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### Mac King
 
@@ -90,7 +90,7 @@ hilarious, witty, interactive, kid-friendly, one-of-a-kind
 
 #### See More: [The Mac King Comedy Magic Show](/go/mac-king-las-vegas-bov/)
 
-<div class="wp-block-ugb-feature ugb-feature ugb-1e893ed ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-1e893ed .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-1e893ed .ugb-button .ugb-button--inner,.ugb-1e893ed .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-1e893ed .ugb-button:before{border-radius:4px !important}.ugb-1e893ed .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-1e893ed .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-1e893ed .ugb-img{width:200px;height:auto !important}.ugb-1e893ed.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-1e893ed ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### Piff the magic dragon
 
@@ -111,7 +111,7 @@ You might recognize Piff from his successful run on the TV show America's Got Ta
 
 ## Best Family Shows In Vegas For Dance
 
-<div class="wp-block-ugb-feature ugb-feature ugb-8bf0ca2 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-8bf0ca2 .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-8bf0ca2 .ugb-button .ugb-button--inner,.ugb-8bf0ca2 .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-8bf0ca2 .ugb-button:before{border-radius:4px !important}.ugb-8bf0ca2 .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-8bf0ca2 .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-8bf0ca2 .ugb-img{width:200px;height:auto !important}.ugb-8bf0ca2.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-8bf0ca2 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### JabbawockeeZ
 
@@ -131,7 +131,7 @@ Basically, this show has it all and I definitely recommend it as one of the best
 
 #### See More: [JabbawockeeZ](/go/jabbawockeez-las-vegas-bov/)
 
-<div class="wp-block-ugb-feature ugb-feature ugb-4b8b894 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-4b8b894 .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-4b8b894 .ugb-button .ugb-button--inner,.ugb-4b8b894 .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-4b8b894 .ugb-button:before{border-radius:4px !important}.ugb-4b8b894 .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-4b8b894 .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-4b8b894 .ugb-img{width:200px;height:auto !important}.ugb-4b8b894.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-4b8b894 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### Michael Jackson ONE
 
@@ -150,7 +150,7 @@ Michael Jackson ONE will make you want to dance along, it will mesmerize and thr
 
 #### See More: [Michael Jackson ONE by Cirque du Soleil](/go/michael-jackson-one-las-vegas-bov/)
 
-<div class="wp-block-ugb-feature ugb-feature ugb-af4b8a2 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-af4b8a2 .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-af4b8a2 .ugb-button .ugb-button--inner,.ugb-af4b8a2 .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-af4b8a2 .ugb-button:before{border-radius:4px !important}.ugb-af4b8a2 .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-af4b8a2 .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-af4b8a2 .ugb-img{width:200px;height:auto !important}.ugb-af4b8a2.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-af4b8a2 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### Blue Man Group
 
@@ -175,7 +175,7 @@ If you are in Las Vegas with kids once in your lifetime and you get to see just 
 
 ## Best Family Shows In Vegas For Thrills
 
-<div class="wp-block-ugb-feature ugb-feature ugb-5a7c54d ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-5a7c54d .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-5a7c54d .ugb-button .ugb-button--inner,.ugb-5a7c54d .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-5a7c54d .ugb-button:before{border-radius:4px !important}.ugb-5a7c54d .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-5a7c54d .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-5a7c54d .ugb-img{width:200px;height:auto !important}.ugb-5a7c54d.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-5a7c54d ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### Ka
 
@@ -194,7 +194,7 @@ The thrills and entertainment provided by KA are on par with what you expect fro
 
 #### See More: [KA by Cirque du Soleil](/go/ka-las-vegas-bov/)
 
-<div class="wp-block-ugb-feature ugb-feature ugb-6da8ee4 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-6da8ee4 .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-6da8ee4 .ugb-button .ugb-button--inner,.ugb-6da8ee4 .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-6da8ee4 .ugb-button:before{border-radius:4px !important}.ugb-6da8ee4 .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-6da8ee4 .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-6da8ee4 .ugb-img{width:200px;height:auto !important}.ugb-6da8ee4.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-6da8ee4 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### "O"
 
@@ -213,7 +213,7 @@ The costumes and characters are visually stunning and the death-defying airborne
 
 #### See More: ['O' by Cirque du Soleil](/go/o-cirque-las-vegas-bov/)
 
-<div class="wp-block-ugb-feature ugb-feature ugb-af7cb8a ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-af7cb8a .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-af7cb8a .ugb-button .ugb-button--inner,.ugb-af7cb8a .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-af7cb8a .ugb-button:before{border-radius:4px !important}.ugb-af7cb8a .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-af7cb8a .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-af7cb8a .ugb-img{width:200px;height:auto !important}.ugb-af7cb8a.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-af7cb8a ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### Mystere
 
@@ -230,7 +230,7 @@ magical, fantastic, original, thrilling, wondrous, fun
 
 #### See More: [Mystere by Cirque du Soleil](/go/mystere-las-vegas-bov/)
 
-<div class="wp-block-ugb-feature ugb-feature ugb-ab58f84 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-ab58f84 .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-ab58f84 .ugb-button .ugb-button--inner,.ugb-ab58f84 .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-ab58f84 .ugb-button:before{border-radius:4px !important}.ugb-ab58f84 .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-ab58f84 .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-ab58f84 .ugb-img{width:200px;height:auto !important}.ugb-ab58f84.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-ab58f84 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### Criss Angel Mindfreak
 
@@ -249,7 +249,7 @@ The show incorporates top-notch stage production of 75 crazy illusions, with aes
 
 #### See More: [Criss Angel MINDFREAK LIVE!](/go/criss-angel-las-vegas-bov/)
 
-<div class="wp-block-ugb-feature ugb-feature ugb-1f8c8ca ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-1f8c8ca .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-1f8c8ca .ugb-button .ugb-button--inner,.ugb-1f8c8ca .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-1f8c8ca .ugb-button:before{border-radius:4px !important}.ugb-1f8c8ca .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-1f8c8ca .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-1f8c8ca .ugb-img{width:300px;height:auto !important}.ugb-1f8c8ca.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-1f8c8ca ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### Awakening
 
@@ -271,7 +271,7 @@ Another reason *Awakening* is great for families is its pace. The show moves qui
 
 ## Best Magic Shows For Kids In Las Vegas
 
-<div class="wp-block-ugb-feature ugb-feature ugb-bb09796 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-bb09796 .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-bb09796 .ugb-button .ugb-button--inner,.ugb-bb09796 .ugb-button svg:not(.ugb-custom-icon){color:#030303 !important}.ugb-bb09796 .ugb-button:before{border-radius:4px !important}.ugb-bb09796 .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-bb09796 .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-bb09796 .ugb-img{width:200px;height:auto !important}.ugb-bb09796.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-bb09796 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### **The Magic of Jen Kramer**
 
@@ -287,7 +287,7 @@ Another reason *Awakening* is great for families is its pace. The show moves qui
 
 #### See More: [The Magic of Jen Kramer](/go/magic-jen-kramer-vegas-show/)
 
-<div class="wp-block-ugb-feature ugb-feature ugb-2baecbd ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-2baecbd .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-2baecbd .ugb-button .ugb-button--inner,.ugb-2baecbd .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-2baecbd .ugb-button:before{border-radius:4px !important}.ugb-2baecbd .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-2baecbd .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-2baecbd .ugb-img{width:770px;height:auto !important}.ugb-2baecbd.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-2baecbd ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### Shin Lim
 
@@ -303,7 +303,7 @@ His performances are filled with mind-blowing illusions, mind-reading tricks, an
 
 #### See More: [Shin Lim](/go/shin-lim-las-vegas-show/)
 
-<div class="wp-block-ugb-feature ugb-feature ugb-0e9a9f1 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-0e9a9f1 .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-0e9a9f1 .ugb-button .ugb-button--inner,.ugb-0e9a9f1 .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-0e9a9f1 .ugb-button:before{border-radius:4px !important}.ugb-0e9a9f1 .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-0e9a9f1 .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-0e9a9f1 .ugb-img{width:200px;height:auto !important}.ugb-0e9a9f1.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-0e9a9f1 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### Penn &amp; Teller
 
@@ -322,7 +322,7 @@ You never know what to expect at a Penn &amp; Teller show, but you will always g
 
 #### See More: [Penn &amp; Teller](/go/penn-teller-las-vegas-bov/)
 
-<div class="wp-block-ugb-feature ugb-feature ugb-614c2df ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-614c2df .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-614c2df .ugb-button .ugb-button--inner,.ugb-614c2df .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-614c2df .ugb-button:before{border-radius:4px !important}.ugb-614c2df .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-614c2df .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-614c2df .ugb-img{width:300px;height:auto !important}.ugb-614c2df.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-614c2df ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### Paranormal Mindreading Magic
 
@@ -340,7 +340,7 @@ You never know what to expect at a Penn &amp; Teller show, but you will always g
 
 ## Cheap Las Vegas Shows For Family
 
-<div class="wp-block-ugb-feature ugb-feature ugb-eb1bc32 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-eb1bc32 .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-eb1bc32 .ugb-button .ugb-button--inner,.ugb-eb1bc32 .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-eb1bc32 .ugb-button:before{border-radius:4px !important}.ugb-eb1bc32 .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-eb1bc32 .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-eb1bc32 .ugb-img{width:200px;height:auto !important}.ugb-eb1bc32.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-eb1bc32 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### Popovich comedy pet theatre
 
@@ -359,7 +359,7 @@ The cast includes an amazing 25 pets, including 10 dogs and 15 cats, that were r
 
 #### See More: [Popovich Comedy Pet Theatre](/go/popovich-pet-theatre-las-vegas-bov/)
 
-<div class="wp-block-ugb-feature ugb-feature ugb-5db6aab ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-5db6aab .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-5db6aab .ugb-button .ugb-button--inner,.ugb-5db6aab .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-5db6aab .ugb-button:before{border-radius:4px !important}.ugb-5db6aab .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-5db6aab .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-5db6aab .ugb-img{width:300px;height:auto !important}.ugb-5db6aab.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-5db6aab ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### Potted Potter: All 7 Harry Potter books in 70 mins
 
@@ -375,7 +375,7 @@ The cast includes an amazing 25 pets, including 10 dogs and 15 cats, that were r
 
 #### See More: [Potted Potter](/go/potted-potter-vegas-show/)
 
-<div class="wp-block-ugb-feature ugb-feature ugb-b4e1de0 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-b4e1de0 .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-b4e1de0 .ugb-button .ugb-button--inner,.ugb-b4e1de0 .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-b4e1de0 .ugb-button:before{border-radius:4px !important}.ugb-b4e1de0 .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-b4e1de0 .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-b4e1de0 .ugb-img{width:300px;height:auto !important}.ugb-b4e1de0.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-b4e1de0 ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### Nathan Burton Comedy Magic Show
 
@@ -391,7 +391,7 @@ The cast includes an amazing 25 pets, including 10 dogs and 15 cats, that were r
 
 #### See More: [Nathan Burton Comedy Magic Show](/go/nathan-burton-comedy-magic-show-las-vegas/)
 
-<div class="wp-block-ugb-feature ugb-feature ugb-b5b581a ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-b5b581a .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-b5b581a .ugb-button .ugb-button--inner,.ugb-b5b581a .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-b5b581a .ugb-button:before{border-radius:4px !important}.ugb-b5b581a .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-b5b581a .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-b5b581a .ugb-img{width:200px;height:auto !important}.ugb-b5b581a.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-b5b581a ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### V - Ultimate variety show
 
@@ -408,7 +408,7 @@ exhilarating, insane, entertaining, energetic
 
 #### See More: [V - The Ultimate Variety Show](/go/v-variety-show-las-vegas-bov/)
 
-<div class="wp-block-ugb-feature ugb-feature ugb-a47563e ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><style>.ugb-a47563e .ugb-button{background-color:#ecec50;border-radius:4px !important}.ugb-a47563e .ugb-button .ugb-button--inner,.ugb-a47563e .ugb-button svg:not(.ugb-custom-icon){color:#000000 !important}.ugb-a47563e .ugb-button:before{border-radius:4px !important}.ugb-a47563e .ugb-inner-block{text-align:left}@media screen and (min-width:768px){.ugb-a47563e .ugb-feature__item{grid-template-columns:0.60fr 1.40fr !important}.ugb-a47563e .ugb-img{width:200px;height:auto !important}.ugb-a47563e.ugb-feature{margin-top:0px !important}}</style><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
+<div class="wp-block-ugb-feature ugb-feature ugb-a47563e ugb-feature--v2 ugb-feature--design-plain ugb-feature--invert ugb-main-block"><div class="ugb-inner-block"><div class="ugb-block-content"><div class="ugb-feature__item"><div class="ugb-feature__content">
 
 ### Tournament of Kings
 

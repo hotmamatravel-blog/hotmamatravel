@@ -58,7 +58,7 @@ This is your guide to California family travel! Discover the best things to do, 
 
 - [Family Guide to Mission San Juan Capistrano with kids – Where to eat &amp; play](/mission-san-juan-capistrano/)
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-3c2afc9" id="los-angeles-with-kids" data-block-id="3c2afc9"><style>.stk-3c2afc9 .stk-block-heading__bottom-line{background-color:#ff0000 !important;margin-left:auto !important;margin-right:auto !important;}</style>
+<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-3c2afc9" id="los-angeles-with-kids" data-block-id="3c2afc9">
 
 ## Los Angeles With Kids
 
