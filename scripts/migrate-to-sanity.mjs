@@ -84,6 +84,10 @@ function parseMarkdown(filePath) {
   return { frontmatter, body };
 }
 
+function generateKey() {
+  return Math.random().toString(36).substring(2, 12) + Math.random().toString(36).substring(2, 12);
+}
+
 // Convert markdown/HTML content to Portable Text block array
 function convertToPortableText(bodyText) {
   const blocks = [];
@@ -96,27 +100,30 @@ function convertToPortableText(bodyText) {
     // Check if it's H2 or H3 heading
     if (text.startsWith('## ')) {
       blocks.push({
+        _key: generateKey(),
         _type: 'block',
         style: 'h2',
-        children: [{ _type: 'span', text: text.substring(3).trim() }]
+        children: [{ _key: generateKey(), _type: 'span', text: text.substring(3).trim() }]
       });
       continue;
     }
     
     if (text.startsWith('### ')) {
       blocks.push({
+        _key: generateKey(),
         _type: 'block',
         style: 'h3',
-        children: [{ _type: 'span', text: text.substring(4).trim() }]
+        children: [{ _key: generateKey(), _type: 'span', text: text.substring(4).trim() }]
       });
       continue;
     }
     
     if (text.startsWith('#### ')) {
       blocks.push({
+        _key: generateKey(),
         _type: 'block',
         style: 'h4',
-        children: [{ _type: 'span', text: text.substring(5).trim() }]
+        children: [{ _key: generateKey(), _type: 'span', text: text.substring(5).trim() }]
       });
       continue;
     }
@@ -127,10 +134,11 @@ function convertToPortableText(bodyText) {
       for (const item of listItems) {
         const itemText = item.substring(2).trim();
         blocks.push({
+          _key: generateKey(),
           _type: 'block',
           style: 'normal',
           listItem: 'bullet',
-          children: [{ _type: 'span', text: itemText }]
+          children: [{ _key: generateKey(), _type: 'span', text: itemText }]
         });
       }
       continue;
@@ -139,6 +147,7 @@ function convertToPortableText(bodyText) {
     // Check if raw HTML element
     if (text.startsWith('<div') || text.startsWith('<figure') || text.startsWith('<iframe') || text.startsWith('<style') || text.includes('</')) {
       blocks.push({
+        _key: generateKey(),
         _type: 'rawHtml',
         html: text
       });
@@ -147,9 +156,10 @@ function convertToPortableText(bodyText) {
     
     // Default text paragraph
     blocks.push({
+      _key: generateKey(),
       _type: 'block',
       style: 'normal',
-      children: [{ _type: 'span', text }]
+      children: [{ _key: generateKey(), _type: 'span', text }]
     });
   }
   
