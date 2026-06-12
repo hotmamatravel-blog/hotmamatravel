@@ -22,7 +22,6 @@ const id = text
   .replace(/-+/g, '-');
 
 const Tag = style;
-const { children: renderedChildren } = Astro.props;
 ---
 
-<Tag id={id}>{renderedChildren}</Tag>
+<Tag id={id}><slot /></Tag>
