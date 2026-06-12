@@ -15,7 +15,7 @@ I love Vegas! It is the perfect vacation destination, no matter your situation. 
 
 So you going to Vegas while pregnant? Well, there is no shortage of fun things to in Vegas pregnant. From getting prenatal massages and lounging poolside to shopping and shows, here is my list for the ultimate babymoon in Vegas.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-d49cb4c ugb-main-block" id="is-it-safe-to-visit-vegas-while-pregnant"><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## *Is it safe to visit Vegas while pregnant?*
 
@@ -33,7 +33,7 @@ By the way, if you're planning a visit, check out our helpful articles on the [*
 
 **I will show you some useful tips on how to have a fabulous time pregnant in Vegas**.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-f0be5e7 ugb-main-block" id="what-to-do-in-vegas-while-pregnant"><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## *What to do in Vegas while pregnant*?
 
@@ -41,7 +41,7 @@ There are very few activities you will actually be *restricted from* doing when 
 
 In fact, the lack of your ability to drink and gamble all night will actually force you to enjoy some of the other great attractions in Vegas such as spas, [pools](/best-family-pools-in-vegas/), shopping and shows, **which can actually be a delightful and refreshing new experience of Vegas**.
 
-<div class="wp-block-ugb-heading ugb-heading ugb-3d7e63c ugb-main-block" id="prenatal-massage-las-vegas"><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Prenatal Massage Las Vegas
 
@@ -83,7 +83,7 @@ The Four Seasons is connected to the [Mandalay Bay hotel](https://mandalaybay.mg
 
 [**See photos, reviews &amp; more**](/go/four-seasons-spa-las-vegas/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-11be0e2 ugb-main-block" id="poolside-in-las-vegas-while-pregnant"><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Poolside in Las Vegas While Pregnant
 
@@ -129,7 +129,7 @@ This pool at [New York New York](https://newyorknewyork.mgmresorts.com/en.html) 
 
 [**See photos, reviews &amp; more**](/go/nyny-las-vegas-expedia/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-2cb183b ugb-main-block" id="see-a-show-in-vegas-while-pregnant"><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## See a Show in Vegas While Pregnant
 
@@ -175,7 +175,7 @@ The show's storyline is told through a series of vignettes, each of which explor
 
 [**See photos, reviews &amp; more**](/go/mystere-las-vegas-bov/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-e3adcdd ugb-main-block" id="go-shopping-in-las-vegas-while-pregnant"><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Go Shopping in Las Vegas While Pregnant
 
@@ -231,7 +231,7 @@ They key word here is canal. The Grand Canal Shops has a gorgeous canal that win
 
 [**See photos, reviews &amp; more**](/go/venetian-las-vegas-expedia/)
 
-<div class="wp-block-ugb-heading ugb-heading ugb-7dfd876 ugb-main-block" id="hot-tips-for-going-to-vegas-pregnant"><div class="ugb-inner-block"><div class="ugb-block-content">
+
 
 ## Hot Tips for Being Pregnant in Las Vegas
 
@@ -247,9 +247,9 @@ They key word here is canal. The Grand Canal Shops has a gorgeous canal that win
 
 - Just have fun! You can do just about anything in Vegas pregnant that you could do if you were not pregnant. Enjoy the finer side of Vegas.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-2dab20d" id="span-style-color-000000-thats-a-wrap-span" data-block-id="2dab20d">
 
-<div class="stk-block-heading__bottom-line">
+
+
 
 ## That's a Wrap!
 

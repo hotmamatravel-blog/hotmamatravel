@@ -46,7 +46,7 @@ I created this article to be helpful for moms (and dads) who basically have NO C
 
 ## Perfect 2-Day Itinerary In Las Vegas With Baby
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-985a02d" id="day-1" data-block-id="985a02d">
+
 
 ### Day 1
 
@@ -104,7 +104,7 @@ Travel with other adults like grandparents that help you switch off with childca
 
 Utilize local babysitting services. Some hotels have in-house services or will help you arrange with an outside local company. [Nannies &amp; Housekeepers USA](https://nahusa.com/) is a trusted company by many of the major hotels. They are licensed and insured as well as certified in CPR and first-aid. You can also contact [Care.com](https://www.care.com/) for local Las Vegas childcare.
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-5db53b0" id="day-2" data-block-id="5db53b0">
+
 
 ### Day 2
 

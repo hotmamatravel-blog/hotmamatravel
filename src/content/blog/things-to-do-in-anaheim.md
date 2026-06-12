@@ -118,11 +118,11 @@ If you are visiting Anaheim and looking for a great family-friendly accommodatio
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-e4da5fd" id="kid-friendly-anaheim-attractions" data-block-id="e4da5fd">
+
 
 ## Kid-friendly Anaheim Attractions
 
-<div class="stk-block-heading__bottom-line">
+
 
 <figure><img src="/images/things-to-do-anaheim-besides-disney.png" alt="Fun things to do in Anaheim CA besides Disneyland" /></figure>
 
@@ -188,11 +188,11 @@ Let’s be real, **[Disneyland](https://disneyland.disney.go.com/)** and **Disne
 
 **[See photos, reviews &amp; more](/go/disneyland-park-anaheim/)**
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-124ff9b" id="nearby-oc-attractions" data-block-id="124ff9b">
+
 
 ## Nearby OC Attractions
 
-<div class="stk-block-heading__bottom-line">
+
 
 ### [Knott's Berry Farm](/go/knotts-berry-farm-general/)
 
@@ -262,11 +262,11 @@ The Aquarium of the Pacific is a huge public aquarium located on Rainbow Harbor 
 
 [**See photos, reviews &amp; more**](/go/aquarium-of-the-pacific-long-beach/)
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-12a8931" id="kid-friendly-live-music-near-anaheim" data-block-id="12a8931">
+
 
 ## Kid-friendly Live Music near Anaheim
 
-<div class="stk-block-heading__bottom-line">
+
 
 ### [Brewery X](/go/brewery-x-anaheim-ca/)
 
@@ -336,11 +336,11 @@ Segerstrom Center for the Arts Orange County is a great place to catch a play, m
 
 [**See photos, reviews &amp; more**](/go/segerstrom-center-performing-arts-costa-mesa/)
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-9bd709f" id="historic-districts-in-orange-county" data-block-id="9bd709f">
+
 
 ## Historic Districts in Orange County
 
-<div class="stk-block-heading__bottom-line">
+
 
 ### [Old Towne Orange](/go/old-towne-orange-food-tours/)
 
@@ -398,11 +398,11 @@ Richard Nixon Library is the birthplace and burial site of US President Richar N
 
 [**See photos, reviews &amp; more**](/go/richard-nixon-library-yorba-linda/)
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-3413612" id="fun-places-to-shop-near-anaheim" data-block-id="3413612">
+
 
 ## Fun places to shop near Anaheim
 
-<div class="stk-block-heading__bottom-line">
+
 
 ### [Gardenwalk](/go/gardenwalk-anaheim/)
 
@@ -460,11 +460,11 @@ Pacific City in Huntington Beach is ocean front dining, shopping and entertainme
 
 [**See photos, reviews &amp; more**](/go/pacific-city-huntington-beach/)
 
-<div class="wp-block-stackable-heading stk-block-heading stk-block-heading--v2 stk-block stk-0c6298f" id="parks-and-hiking-near-anaheim" data-block-id="0c6298f">
+
 
 ## Parks And Hiking Near Anaheim
 
-<div class="stk-block-heading__bottom-line">
+
 
 ### [Oak Canyon Nature Reserve](/go/oak-canyon-nature-preserve-anaheim/)
 
