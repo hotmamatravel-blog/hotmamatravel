@@ -108,18 +108,53 @@ export const postType = defineType({
             }
           ]
         },
-        // We will define custom block types for items like Raw HTML (for Gutenberg styles and buttons)
+        // Raw HTML blocks from legacy WordPress/Gutenberg content
         {
           name: 'rawHtml',
           type: 'object',
-          title: 'Raw HTML',
+          title: 'Legacy HTML Block',
           fields: [
             {
               name: 'html',
               type: 'text',
-              title: 'HTML Code'
+              title: 'HTML Code',
+              description: 'This is a legacy WordPress/Gutenberg layout block. You can edit the raw HTML here, or delete this block and replace it with clean Sanity content.',
+              rows: 8,
             }
-          ]
+          ],
+          // Preview: show a human-readable label in the editor block list
+          preview: {
+            select: {
+              html: 'html'
+            },
+            prepare({ html }: { html?: string }) {
+              if (!html) return { title: 'Empty HTML Block' };
+
+              // Detect common WP block types for a friendly label
+              let label = 'Legacy HTML Block';
+              if (html.includes('wp-block-columns')) label = '🗂 Legacy Layout: Two-Column Section';
+              else if (html.includes('wp-block-button') || html.includes('ugb-button')) label = '🔗 Legacy Button';
+              else if (html.includes('uagb-infobox')) label = '💡 Info Box (Vrbo / Did You Know)';
+              else if (html.includes('wp-block-separator')) label = '〰 Separator / Divider';
+              else if (html.includes('wp-block-group')) label = '📦 Legacy Block Group';
+              else if (html.includes('wp-block-table')) label = '📋 Legacy Table';
+              else if (html.includes('iframe')) label = '▶ Embedded Video / iFrame';
+              else if (html.includes('pinterest')) label = '📌 Pinterest Embed';
+              else if (html.includes('</div>')) label = '🧱 Legacy Layout Wrapper';
+
+              // Show a truncated snippet of the visible text content
+              const textContent = html
+                .replace(/<[^>]+>/g, ' ')
+                .replace(/\s+/g, ' ')
+                .trim()
+                .substring(0, 80);
+
+              return {
+                title: label,
+                subtitle: textContent || html.substring(0, 80),
+              };
+            }
+          }
         },
         {
           name: 'localImage',
@@ -152,9 +187,9 @@ export const postType = defineType({
               title: 'alt',
               subtitle: 'src'
             },
-            prepare({ title, subtitle }) {
+            prepare({ title, subtitle }: { title?: string; subtitle?: string }) {
               return {
-                title: title || 'Untitled Local Image',
+                title: `🖼 ${title || 'Untitled Image'}`,
                 subtitle: subtitle || 'No image path set'
               };
             }
