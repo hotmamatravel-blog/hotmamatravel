@@ -250,10 +250,10 @@ h1, h2, h3, h4, h5, h6 {
 .prose li { margin-bottom: 0.4em; }
 
 .prose blockquote {
-  border-left: 4px solid var(--hmt-red);
-  padding: 0.75em 1.25em;
+  border-left: 8px solid var(--hmt-red);
+    padding: 1em 1.5em;
   margin: 2em 0;
-  background: var(--hmt-red-light);
+    background: #f9f9f9;
   border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
   font-style: italic;
   color: var(--hmt-slate);
