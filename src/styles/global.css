@@ -751,25 +751,157 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none !important;
 }
 
-/* 3. UAGB Info Box Icons & CTA Buttons */
+/* 3. UAGB Info Box — Full Card Styling */
+
+/* Outer container: styled as a premium callout card */
+.uagb-infobox__outer-wrap,
+.wp-block-uagb-info-box {
+  display: block !important;
+  background: linear-gradient(135deg, #fff7ed 0%, #fff 100%) !important;
+  border: 1px solid #fed7aa !important;
+  border-left: 5px solid var(--hmt-red) !important;
+  border-radius: var(--radius-md) !important;
+  padding: 1.5em 1.75em !important;
+  margin: 2em 0 !important;
+  box-shadow: var(--shadow-sm) !important;
+  clear: both !important;
+}
+
+/* Inner layout: stack icon + content vertically */
+.uagb-infobox__content-wrap,
+.uagb-infobox {
+  display: block !important;
+}
+
+.uagb-ifb-left-right-wrap,
+.uagb-ifb-content,
+.uagb-ifb-image-icon-content,
+.uagb-ifb-imgicon-wrap {
+  display: block !important;
+}
+
+/* Icon: question-mark icon shown as a small red circle badge */
 .uagb-ifb-icon-wrap,
 .uagb-ifb-icon {
   display: inline-flex !important;
   align-items: center !important;
   justify-content: center !important;
-  width: 40px !important;
-  height: 40px !important;
-  margin-bottom: 15px !important;
-  color: var(--hmt-slate) !important;
+  width: 36px !important;
+  height: 36px !important;
+  margin-bottom: 12px !important;
+  background: var(--hmt-red) !important;
+  color: white !important;
+  border-radius: 50% !important;
+  padding: 7px !important;
 }
 .uagb-ifb-icon-wrap svg,
 .uagb-ifb-icon svg {
   width: 100% !important;
   height: 100% !important;
   display: block !important;
-  fill: currentColor !important;
+  fill: white !important;
 }
 
+/* Title area: "DID YOU KNOW" label + heading */
+.uagb-ifb-title-wrap {
+  display: block !important;
+  margin-bottom: 0.5em !important;
+}
+
+/* The "DID YOU KNOW" text node renders as a small label */
+.uagb-ifb-title-wrap > br {
+  display: none !important;
+}
+
+/* h4 inside the title wrap */
+.uagb-ifb-title-wrap h4 {
+  font-family: var(--font-serif) !important;
+  font-size: 1.15rem !important;
+  font-weight: 700 !important;
+  color: var(--hmt-dark) !important;
+  margin-top: 0.25em !important;
+  margin-bottom: 0.25em !important;
+}
+
+/* The "DID YOU KNOW" label — style it as a small caps badge */
+.uagb-ifb-title-wrap::before {
+  content: "DID YOU KNOW";
+  display: inline-block;
+  font-family: var(--font-sans);
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--hmt-red);
+  background: var(--hmt-red-light);
+  padding: 2px 10px;
+  border-radius: 999px;
+  margin-bottom: 8px;
+}
+
+/* Separator parent: hide the old separator chrome */
+.uagb-ifb-separator-parent,
+.uagb-ifb-separator {
+  display: block !important;
+}
+
+/* Text body area */
+.uagb-ifb-text-wrap {
+  display: block !important;
+  font-size: 0.97rem !important;
+  line-height: 1.75 !important;
+  color: var(--hmt-charcoal) !important;
+  margin-bottom: 1em !important;
+}
+.uagb-ifb-text-wrap > br {
+  display: none !important;
+}
+
+/* CTA / Button wrapper */
+.uagb-ifb-cta,
+.uagb-infobox-cta-link-style {
+  display: block !important;
+  margin-top: 0.75em !important;
+}
+
+.uagb-ifb-button-wrapper,
+.wp-block-button.uagb-ifb-button-wrapper {
+  display: inline-block !important;
+  margin-top: 0.5em !important;
+}
+
+/* CTA anchor button */
+.uagb-ifb-button-wrapper a.ugb-button,
+.uagb-ifb-button-wrapper > a {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 8px !important;
+  padding: 0.6em 1.35em !important;
+  background: var(--hmt-red) !important;
+  color: white !important;
+  border-radius: var(--radius-sm) !important;
+  font-family: var(--font-sans) !important;
+  font-size: 0.875rem !important;
+  font-weight: 700 !important;
+  text-decoration: none !important;
+  box-shadow: var(--shadow-red) !important;
+  transition: background var(--duration) var(--ease), transform var(--duration) var(--ease), box-shadow var(--duration) var(--ease) !important;
+}
+.uagb-ifb-button-wrapper a.ugb-button:hover,
+.uagb-ifb-button-wrapper > a:hover {
+  background: var(--hmt-red-dark) !important;
+  transform: translateY(-2px) !important;
+  box-shadow: 0 12px 32px rgba(232,35,42,0.28) !important;
+}
+
+/* Button inner span */
+.ugb-button--inner {
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 6px !important;
+}
+
+/* Button map/location icon */
 .uagb-infobox-cta-link,
 .uagb-ifb-button-icon {
   display: inline-flex !important;
@@ -779,12 +911,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 .uagb-infobox-cta-link svg,
 .uagb-ifb-button-icon svg,
-.uagb-ifb-button-wrapper svg {
-  width: 18px !important;
-  height: 18px !important;
+.uagb-ifb-button-wrapper svg,
+.ugb-icon-inner-svg svg {
+  width: 16px !important;
+  height: 16px !important;
   display: inline-block !important;
   flex-shrink: 0 !important;
-  fill: currentColor !important;
+  fill: white !important;
+}
+
+.ugb-icon-inner-svg {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 16px !important;
+  height: 16px !important;
+  flex-shrink: 0 !important;
 }
 
 /* 4. UAGB FAQ Accordion Icons */
