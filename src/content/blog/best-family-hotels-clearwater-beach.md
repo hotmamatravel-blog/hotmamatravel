@@ -36,6 +36,7 @@ As an alternative, you can jump straight ahead to our list of Clearwater Beach's
 <div class="wp-block-button aligncenter is-style-default"><a href="#top-5-family-hotels-clearwater">click to jump straight to hotel reviews</a></div>
 
 <div class="wp-block-columns has-2-columns">
+
 <div class="wp-block-column">
 
 **[Jump to: Best all-around](#hyatt-regency-clearwater)**
@@ -51,20 +52,29 @@ As an alternative, you can jump straight ahead to our list of Clearwater Beach's
 <figure><a href="#edge-hotel"><img src="/images/clearwater-beach-family-pool-edge-hotel.jpg" alt="Edge Hotel Pool in Clearwater Beach Florida" /></a><figcaption>Edge Hotel</figcaption></figure>
 
 <div class="wp-block-columns has-3-columns">
+
 <div class="wp-block-column">
+
 <figure><a href="#sandpearl-resort"><img src="/images/clearwater-beach-family-pool-sandpearl-resort.jpg" alt="Sandpearl Family Resort in Clearwater" /></a><figcaption>Sandpearl Resort Clearwater Beach</figcaption></figure>
+
 </div>
 
 <div class="wp-block-column">
+
 <figure><a href="#opal-sands"><img src="/images/clearwater-beach-family-hotel-opal-sands-sandbar.jpg" alt="Opal sands Clearwater beachfront dining" /></a><figcaption>Opal Sands</figcaption></figure>
+
 </div>
 
 <div class="wp-block-column">
+
 <figure><a href="#hilton-clearwater"><img src="/images/clearwater-beach-family-hotel-hilton-resort-spa-tommys-tiki.jpg" alt="Hilton Clearwater Family Resort" /></a><figcaption>Hilton Clearwater Beach Resort &amp; Spa</figcaption></figure>
+
 </div>
 
 </div>
+
 </div>
+
 </div>
 
 
