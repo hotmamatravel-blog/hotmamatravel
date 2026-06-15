@@ -19,6 +19,15 @@
       ]
     },
     {
+      "source": "/family-travel-guide-las-vegas-ebook.pdf",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
+    },
+    {
       "source": "/images/(.*)",
       "headers": [
         {

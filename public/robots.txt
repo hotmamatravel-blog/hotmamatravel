@@ -4,5 +4,6 @@ Allow: /
 Disallow: /admin/
 Disallow: /api/
 Disallow: /go/
+Disallow: /family-travel-guide-las-vegas-ebook.pdf
 
 Sitemap: https://hotmamatravel.com/sitemap-index.xml
