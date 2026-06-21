@@ -25,7 +25,7 @@ export const affiliateLinkType = defineType({
     },
     prepare({ title, subtitle }) {
       return {
-        title: `/go/${title}`,
+        title: `https://hotmamatravel.com/go/${title || ''}`,
         subtitle: subtitle,
       };
     },
