@@ -12,13 +12,13 @@ wpSlug: "best-western-plus-austin-city-hotel"
 author: "Amanda Keeley-Thurman"
 ---
 
-After a long day of driving from Memphis on our epic 60-day** [family road trip](/family-road-trip-across-us/)**, we were relieved to arrive at the **[Best Western Plus Austin City Hotel](http://www.kqzyfj.com/click-8336032-13039226)**. We were arriving into town later than we thought, hungry and tired. Reminiscent of a boutique style hotel, the lobby was bright, modern and welcoming.
+After a long day of driving from Memphis on our epic 60-day [**family road trip**](/family-road-trip-across-us/), we were relieved to arrive at the **[Best Western Plus Austin City Hotel](http://www.kqzyfj.com/click-8336032-13039226)**. We were arriving into town later than we thought, hungry and tired. Reminiscent of a boutique style hotel, the lobby was bright, modern and welcoming.
 
 However, what really gave us a thrill upon check-in was seeing that there was an onsite restaurant that was still open. We checked into The Best Western Austin, TX with a cold beer in our hands and warm food in our bellies, ready to kick off our weekend in the city of Austin with the right attitude. Here is a little about our stay at the Austin City Hotel.
 
 ## *Location:*
 
-The Best Western Plus in Austin is conveniently located in the historic neighborhood of Travis Heights, just a few minutes from most Austin attractions and neighborhoods. Popular Downtown Austin district such as SOCO South Congress District, Rainey Street, 6th street and Lady Bird Lake are easily accessible from the Best Western Austin, making it well-situated for maximizing your time in Austin.** [Check rates](http://www.kqzyfj.com/click-8336032-13039226)**.
+The Best Western Plus in Austin is conveniently located in the historic neighborhood of Travis Heights, just a few minutes from most Austin attractions and neighborhoods. Popular Downtown Austin district such as SOCO South Congress District, Rainey Street, 6th street and Lady Bird Lake are easily accessible from the Best Western Austin, making it well-situated for maximizing your time in Austin. [**Check rates**](http://www.kqzyfj.com/click-8336032-13039226).
 
 ### SOCO South Congress District
 
@@ -30,13 +30,13 @@ Whether you call it SOCO or **[South Congress District](https://www.austintexas.
 
 ### 6th Street
 
-Right in the core of Downtown Austin,** [6th Street](https://6street.com/)** is a historic district that is well known for the number of entertainment venues, bars and clubs. For those, like us, who love live music, this is the street to visit. Just walking down the street you can hear the tunes of live music pouring out of from almost every building. Although many places are for a 21 and over crowd, afternoon and mornings offer family-friendly spots to have a meal, a drink and enjoy some live music like the famous and historical Driskill Hotel lounge.
+Right in the core of Downtown Austin, [**6th Street**](https://6street.com/) is a historic district that is well known for the number of entertainment venues, bars and clubs. For those, like us, who love live music, this is the street to visit. Just walking down the street you can hear the tunes of live music pouring out of from almost every building. Although many places are for a 21 and over crowd, afternoon and mornings offer family-friendly spots to have a meal, a drink and enjoy some live music like the famous and historical Driskill Hotel lounge.
 
 [![The Driskell Hotel Austin TX](/images/Driskell-e1511207309496.jpg)](/best-western-plus-austin-city-hotel/)
 
 ### Rainey Street
 
-Once a tucked away street,** [Rainey Street](https://www.austintexas.org/visit/entertainment-districts/rainey-street/)** is gaining in popularity as more historic homes that date back before the 1930’s are being renovated into hip bungalow bars. It is no longer a secret hideout for locals. However, it has still maintained a very casual vibe that people love day or night.
+Once a tucked away street, [**Rainey Street**](https://www.austintexas.org/visit/entertainment-districts/rainey-street/) is gaining in popularity as more historic homes that date back before the 1930’s are being renovated into hip bungalow bars. It is no longer a secret hideout for locals. However, it has still maintained a very casual vibe that people love day or night.
 
 ### Lady Bird Lake
 

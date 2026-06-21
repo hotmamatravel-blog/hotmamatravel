@@ -77,7 +77,7 @@ Mandalay Bay
 
 Does your family like the music of Michael Jackson? What about dancing, acrobatics, aerialists, and trampoline artists? Oh yeah, and pyrotechnics! Who doesn't, right!? You can expect to see all that and more at one of the best Cirque du Soleil shows in Vegas, Michael Jackson ONE at [Mandalay Bay](https://mandalaybay.mgmresorts.com/en.html). Tap your toe to classics like "Thriller", "Smooth Criminal", and "Billie Jean" while dozens of professional artists on stage dazzle you with visually compelling performances. This is the newest Cirque du Soleil show on the Vegas Strip (that is currently running), and it is definitely one of the hottest tickets in town for guests of all ages.
 
-If you are feeling the music and not ready to let go of a fun night out with the family, check out some of the cool Mandalay** [restaurants with live music](/kid-friendly-live-music-las-vegas/)**. They are kid-friendly and a ton of fun.
+If you are feeling the music and not ready to let go of a fun night out with the family, check out some of the cool Mandalay [**restaurants with live music**](/kid-friendly-live-music-las-vegas/). They are kid-friendly and a ton of fun.
 
 **[See Photos, Reviews, &amp; More](/go/michael-jackson-one-las-vegas-bov/)**
 
@@ -121,7 +121,7 @@ Luxor also happens to be home to the awesome Bodies and Titanic Exhibits, which 
 
 **[See Photos, Reviews, &amp; More](/go/blue-man-group-las-vegas-bov/)**
 
-Vegas has a ton of** [kid-friendly shows](/las-vegas-shows-for-kids/)**, but a lot of people don't seem to realize that you can also take kids to Cirque du Soleil shows. In this article, we reviewed and ranked the best Cirque du Soleil shows in Vegas for kids. Next time you are in [**Vegas with kids**](/las-vegas-with-kids/), don't be afraid to check out a Cirque show and book it like it's hot! We prefer to use [**Vegas.com**](/go/best-of-vegas-main/) because they have a Best Price Guarantee and their site is easy to use.
+Vegas has a ton of [**kid-friendly shows**](/las-vegas-shows-for-kids/), but a lot of people don't seem to realize that you can also take kids to Cirque du Soleil shows. In this article, we reviewed and ranked the best Cirque du Soleil shows in Vegas for kids. Next time you are in [**Vegas with kids**](/las-vegas-with-kids/), don't be afraid to check out a Cirque show and book it like it's hot! We prefer to use [**Vegas.com**](/go/best-of-vegas-main/) because they have a Best Price Guarantee and their site is easy to use.
 ## That's a Wrap!
 
 

@@ -20,7 +20,7 @@ Natural lovers will love the miles of untouched coastline, hiking trails and tid
 
 ## **Money Saving Tips:**
 
-Laguna Beach has a reputation for being expensive, but it is actually quite easy to have a reasonable experience. First of all, the beach is free. No one will charge you to plant you bum on the sand and have fun with the family. Secondly, most of the restaurants offer a happy hour, which is a great way to enjoy small plates and discounted cocktails. Plus, there are plenty of inexpensive dining options to choose from. Third, on the weekends the beach trolley is free! Hop on the blue trolley and take it around the city. If you are visiting Disneyland, this is definitely one of the** [best beaches](/beaches-near-anaheim/)** to visit near Anaheim.
+Laguna Beach has a reputation for being expensive, but it is actually quite easy to have a reasonable experience. First of all, the beach is free. No one will charge you to plant you bum on the sand and have fun with the family. Secondly, most of the restaurants offer a happy hour, which is a great way to enjoy small plates and discounted cocktails. Plus, there are plenty of inexpensive dining options to choose from. Third, on the weekends the beach trolley is free! Hop on the blue trolley and take it around the city. If you are visiting Disneyland, this is definitely one of the [**best beaches**](/beaches-near-anaheim/) to visit near Anaheim.
 
 [![Laguna Beach shuttle](/images/LB-68-768x1024.jpg)](/images/LB-68.jpg)
 

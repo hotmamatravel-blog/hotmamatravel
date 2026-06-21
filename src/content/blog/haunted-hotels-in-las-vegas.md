@@ -100,7 +100,7 @@ The most chilling stories revolve around unexplained footsteps in empty hallways
 
 **Family-Friendly Fun: **Even with its ghostly reputation, Hotel Apache is a fantastic base for families exploring downtown Las Vegas.
 
-Just steps away from Hotel Apache is the** [Fremont Street Experience](/go/fremont-street-experience-las-vegas/)**[.](/go/fremont-street-experience-las-vegas/) This lively pedestrian area is packed with dazzling light shows, street performers, and zipline adventures. The Viva Vision canopy show is a must-see, and kids will love the non-stop energy and excitement.
+Just steps away from Hotel Apache is the [**Fremont Street Experience**](/go/fremont-street-experience-las-vegas/)[.](/go/fremont-street-experience-las-vegas/) This lively pedestrian area is packed with dazzling light shows, street performers, and zipline adventures. The Viva Vision canopy show is a must-see, and kids will love the non-stop energy and excitement.
 
 **The [Mob Museum](/go/las-vegas-mob-museum/)** is a short walk from the hotel. This interactive museum explores the history of organized crime in America. While some exhibits are more geared toward adults, there are plenty of hands-on activities and cool displays that will capture kids’ attention. Plus, it has a haunted history of its own!
 

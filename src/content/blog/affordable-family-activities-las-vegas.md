@@ -34,7 +34,7 @@ In this article, we highlight some our favorite affordable family activities in 
 
 3655 S Las Vegas Blvd, Las Vegas, NV 89109
 
-You don’t need to fly to France to have a fun** [Eiffel Tower Experience](/go/eiffel-tower-paris-las-vegas/)**. Towering 46 stories over the [**Las Vegas strip**](/walking-las-vegas-strip/), the Eiffel Tower is a remarkable half-scale replica of the famous Paris landmark, located at the [Paris Hotel](https://www.caesars.com/paris-las-vegas). Watching the strip get smaller and smaller as you float the 460 feet to the top in a glass elevator, it is hard to imagine that the real Eiffel Tower is double the height!
+You don’t need to fly to France to have a fun [**Eiffel Tower Experience**](/go/eiffel-tower-paris-las-vegas/). Towering 46 stories over the [**Las Vegas strip**](/walking-las-vegas-strip/), the Eiffel Tower is a remarkable half-scale replica of the famous Paris landmark, located at the [Paris Hotel](https://www.caesars.com/paris-las-vegas). Watching the strip get smaller and smaller as you float the 460 feet to the top in a glass elevator, it is hard to imagine that the real Eiffel Tower is double the height!
 
 Once you reach the observation deck, you are met with gorgeous 360 degree views of the Vegas strip. My kids are kind of obsessed with the Eiffel Tower and have to go up every time we visit [**Las Vegas with kids**](/las-vegas-with-kids/). Surprisingly, this can be a very affordable attraction for the family.
 
@@ -54,15 +54,15 @@ Las Vegas is known for its world-class entertainment, so it would be a shame not
 
 Here are just **some** of the many affordable shows is Las Vegas:
 
-**Laughternoon with Adam London** **at [Orleans Hotel](https://orleans.boydgaming.com/)** [ **[check deals](/go/laughternoon-adam-london-las-vegas-bov/)** ]
+**Laughternoon with Adam London** **at [Orleans Hotel](https://orleans.boydgaming.com/) [** **[check deals**](/go/laughternoon-adam-london-las-vegas-bov/) ]
 
 - *75 mins: comedy, magic tricks, audience participation*&nbsp;
 
-**Popovich Comedy Pet Theatre** **at [Miracle Mile Shops](https://miraclemileshopslv.com/)** [ **[check deals](/go/popovich-pet-theatre-las-vegas-bov/)** ]
+**Popovich Comedy Pet Theatre** **at [Miracle Mile Shops](https://miraclemileshopslv.com/) [** **[check deals**](/go/popovich-pet-theatre-las-vegas-bov/) ]
 
 - *60 mins:&nbsp;physical comedy, animal tricks, clown, juggling***&nbsp;**
 
-**V-The Ultimate Variety Show** **at Planet Hollywood** [ **[check deals](/go/v-ultimate-variety-show-dinner-las-vegas/)** ]
+**V-The Ultimate Variety Show** **at Planet Hollywood [** **[check deals**](/go/v-ultimate-variety-show-dinner-las-vegas/) ]
 
 - * 75 mins:&nbsp;new entertainment nightly, dancing, singing, stunts, and more***&nbsp;**
 

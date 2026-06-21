@@ -12,7 +12,7 @@ wpSlug: "getting-around-las-vegas-without-a-car"
 author: "Amanda Keeley-Thurman"
 ---
 
-Are you planning a trip to** [Las Vegas with your kids](/las-vegas-with-kids/)** but worried about how to navigate the city without a car? Fear not! First, check out our post on [**how to get to Vegas**](/how-to-get-to-las-vegas/), if you haven't already. Second, Las Vegas is incredibly pedestrian-friendly and offers a variety of convenient transportation options perfect for families. Whether you're [**exploring the iconic Strip**](/las-vegas-strip-hotel-map/) or venturing off to some hidden gems, here’s your ultimate guide to getting around Las Vegas without a car.
+Are you planning a trip to [**Las Vegas with your kids**](/las-vegas-with-kids/) but worried about how to navigate the city without a car? Fear not! First, check out our post on [**how to get to Vegas**](/how-to-get-to-las-vegas/), if you haven't already. Second, Las Vegas is incredibly pedestrian-friendly and offers a variety of convenient transportation options perfect for families. Whether you're [**exploring the iconic Strip**](/las-vegas-strip-hotel-map/) or venturing off to some hidden gems, here’s your ultimate guide to getting around Las Vegas without a car.
 
 ## Las Vegas Monorail
 

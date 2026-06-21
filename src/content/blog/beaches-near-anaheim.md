@@ -12,7 +12,7 @@ wpSlug: "beaches-near-anaheim"
 author: "Amanda Keeley-Thurman"
 ---
 
-As you may know, we are natives of Orange County CA, and have lived in Anaheim for at least 7 years. Given how often we like to do local** [OC getaways](/traveling-in-place/)**, or staycations on the weekends, **it is safe to say we know some of the best hidden spots** and **[fun activities in OC](/orange-county-family-travel/)**, including one of our favorite pastimes – going to the beach! I love beach houses, and if we didn’t already live here, we’d definitely look into staying at a luxurious [Orange County vacation rental](https://www.luxuryretreats.com/vacation-rentals/united-states/california-orange-county/).
+As you may know, we are natives of Orange County CA, and have lived in Anaheim for at least 7 years. Given how often we like to do local [**OC getaways**](/traveling-in-place/), or staycations on the weekends, **it is safe to say we know some of the best hidden spots** and **[fun activities in OC](/orange-county-family-travel/)**, including one of our favorite pastimes – going to the beach! I love beach houses, and if we didn’t already live here, we’d definitely look into staying at a luxurious [Orange County vacation rental](https://www.luxuryretreats.com/vacation-rentals/united-states/california-orange-county/).
 
 Anyways, if you happen to be visiting our city of Anaheim, then you are likely one of many families that visit Disneyland every year, and you may be wondering “**what are the best beaches near Disneyland?**”
 

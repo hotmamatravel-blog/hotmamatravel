@@ -12,7 +12,7 @@ wpSlug: "california-family-travel"
 author: "Amanda Keeley-Thurman"
 ---
 
-This is your guide to California family travel! Discover the best things to do, cozy** [family hotels](/best-family-hotels/)**, and unique spots – from [**family-friendly breweries**](/americas-best-breweries/) to haunted places. Let's turn your Golden State getaway into an unforgettable adventure!
+This is your guide to California family travel! Discover the best things to do, cozy [**family hotels**](/best-family-hotels/), and unique spots – from [**family-friendly breweries**](/americas-best-breweries/) to haunted places. Let's turn your Golden State getaway into an unforgettable adventure!
 
 ## [Orange](/orange-county-family-travel/)[County](/orange-county-family-travel/)[With Kids](/orange-county-family-travel/)
 

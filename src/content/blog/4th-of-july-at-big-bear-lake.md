@@ -30,7 +30,7 @@ Big Bear is not huge, but their 4th of July celebration is, so most accommodatio
 ### [**Big Bear Shores RV** Resort](http://www.bigbearshores.com/index.html):
 
 
-Now that we have the RV we try to use it as much as possible and honestly the RV resort is the most beautiful spot on the lake. The views are unreal. The sites are privately owned and some owners rent out their lots. The lots are impeccably maintained, many with built in fireplaces and BBQs. It feels like a wilderness oasis. For information check out my** [Hot Rving in Big Bear](/big-bear-shores-rv-resort-with-kids/)** post.
+Now that we have the RV we try to use it as much as possible and honestly the RV resort is the most beautiful spot on the lake. The views are unreal. The sites are privately owned and some owners rent out their lots. The lots are impeccably maintained, many with built in fireplaces and BBQs. It feels like a wilderness oasis. For information check out my [**Hot Rving in Big Bear**](/big-bear-shores-rv-resort-with-kids/) post.
 During the 4th of July, there are a number of festivities at the resort such as a chili cook-off, a decorating competition, parade of decked out golf carts and free hot dogs at the club house. It really brings about a certain comradely among the campers as everyone gets in the patriotic spirit mingles throughout the weekend.
 
 [![4th of July decorations of camp site Big Bear](/images/4BBL.jpg)](/4th-of-july-at-big-bear-lake/)

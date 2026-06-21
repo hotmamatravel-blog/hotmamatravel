@@ -12,7 +12,7 @@ wpSlug: "one-day-in-memphis"
 author: "Amanda Keeley-Thurman"
 ---
 
-Welcome to Memphis, the home of famous Memphis BBQ, blues music and Elvis! After a fun-filled weekend in Nashville, we were slowly making our way home to California. However, our epic summer #HotMamaDoesAmercia** [road trip](/family-road-trip-across-us/)** wasn’t over yet and we were determined to make the most out of our one day in Memphis. With so many things to see in Memphis we knew we wouldn’t have time to do it all, but our Memphis vacation was off to a great start with a stay at the Peabody Hotel.
+Welcome to Memphis, the home of famous Memphis BBQ, blues music and Elvis! After a fun-filled weekend in Nashville, we were slowly making our way home to California. However, our epic summer #HotMamaDoesAmercia [**road trip**](/family-road-trip-across-us/) wasn’t over yet and we were determined to make the most out of our one day in Memphis. With so many things to see in Memphis we knew we wouldn’t have time to do it all, but our Memphis vacation was off to a great start with a stay at the Peabody Hotel.
 
 The historical Peabody is home to the famous Peabody duck march, which is surprisingly one of the many popular Memphis attractions. In addition to seeing the Peabody ducks, we also planned on indulging in Memphis BBQ and live music, which was no problem to accomplish. So what do you say? Are ready to visit Memphis? Then keep reading for all the exciting details!
 

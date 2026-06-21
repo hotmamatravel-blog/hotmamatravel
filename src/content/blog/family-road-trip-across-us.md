@@ -199,7 +199,7 @@ Stop #17: "The West's most Western Town"**OVERVIEW: **Our final stop before retu
 
  	- See our review of the Best Western Plus Sundial Hotel [**Here**](/best-western-sundial/).
 
- 	- Find out the best hotels and things to do in Old Town Scottsdale** [Here](/old-town-scottsdale/)**.
+ 	- Find out the best hotels and things to do in Old Town Scottsdale [**Here**](/old-town-scottsdale/).
 
 #### Scottsdale Videos:
 

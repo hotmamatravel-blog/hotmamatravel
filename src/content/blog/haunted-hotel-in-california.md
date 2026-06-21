@@ -158,7 +158,7 @@ In the Engine Room a tragic accident claimed the life of a young engineer here, 
 
 Stateroom B340 is said to be the most haunted stateroom on the ship. It was reportedly so active with paranormal activity that the Queen Mary's management chose to close it for some time. It's said that guests experienced unexplained phenomena and unsettling visions while staying in this room.
 
-Additionally, the entire ship has stories and spirits to explore. [**Staying on this ship is a wonderful experience**](/the-queen-mary-with-kids/), whether or not you are into the ghost stories. Check out our other posts for more** [haunted hotels in Los Angeles](/haunted-hotels-in-los-angeles/)**.
+Additionally, the entire ship has stories and spirits to explore. [**Staying on this ship is a wonderful experience**](/the-queen-mary-with-kids/), whether or not you are into the ghost stories. Check out our other posts for more [**haunted hotels in Los Angeles**](/haunted-hotels-in-los-angeles/).
 
 **[See Photos, Reviews, &amp; More](/go/queen-mary-long-beach/)**
 

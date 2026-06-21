@@ -12,13 +12,13 @@ wpSlug: "stay-best-western-plus-sunset-suites-riverwalk-san-antonio"
 author: "Amanda Keeley-Thurman"
 ---
 
-When you are traveling, sometimes you want to stay with a name you can trust. For our family that is Best Western Plus, because we have always had wonderful experiences with them. So, you can imagine how thrilled we were when they invited us to stay with them along the way during our 60 day** [cross country road trip](/family-road-trip-preview/)**.
+When you are traveling, sometimes you want to stay with a name you can trust. For our family that is Best Western Plus, because we have always had wonderful experiences with them. So, you can imagine how thrilled we were when they invited us to stay with them along the way during our 60 day [**cross country road trip**](/family-road-trip-preview/).
 
 Our first major stop was San Antonio, Texas where we dropped our bags at the Best Western Plus Sunset Suites Riverwalk. Here is what we loved about our stay and why we think it is a great pick for traveling families.
 
 ## *Location, location, location:*
 
-When traveling with kids, location is key. You want to be near the attractions you are going to see without having to deal with a ton of transport. Conveniently located in the historic St. Paul Square in downtown, Best Western Plus Sunset Suites Riverwalk is not only steps away from a variety of shops and dining options, it is also near the San Antonio Riverwalk and the Alamo. There is also this really neat old church next door that the kids and I enjoyed exploring the first day we checked in. It is so nice to get up in the morning and easily** [start our day of sightseeing](/things-san-antonio-kids/)**. Then we simply return after a long day with tired kids. [**Check prices**](http://www.kqzyfj.com/click-8336032-13039222).
+When traveling with kids, location is key. You want to be near the attractions you are going to see without having to deal with a ton of transport. Conveniently located in the historic St. Paul Square in downtown, Best Western Plus Sunset Suites Riverwalk is not only steps away from a variety of shops and dining options, it is also near the San Antonio Riverwalk and the Alamo. There is also this really neat old church next door that the kids and I enjoyed exploring the first day we checked in. It is so nice to get up in the morning and easily [**start our day of sightseeing**](/things-san-antonio-kids/). Then we simply return after a long day with tired kids. [**Check prices**](http://www.kqzyfj.com/click-8336032-13039222).
 
 *[![Visiting the Alamo with kids](/images/IMG_5687.jpg)](/stay-best-western-plus-sunset-suites-riverwalk-san-antonio/)*
 

@@ -40,7 +40,7 @@ So follow me and discover some of our favorite kid-friendly activities in Idyllw
 
 - There are tons of outdoorsy things to do in Idyllwild with kids.
 
-- Nearby to cool cities and attractions, like** [Palm Springs](/palm-springs-with-kids/)** &amp; **[Temecula](/top-things-to-do-in-temecula/)**.
+- Nearby to cool cities and attractions, like [**Palm Springs**](/palm-springs-with-kids/) &amp; **[Temecula](/top-things-to-do-in-temecula/)**.
 
 **Check Out Our Family Travel Video For Things To Do In Idyllwild:**
 

@@ -18,7 +18,7 @@ Teens are a particular sort, with rapidly changing moods and strong opinions (us
 
 Take them to Las Vegas! I know, I know. You have heard it before. I am obsessed with [**Vegas family vacations**](/las-vegas-with-kids/), but it's honestly one of the easiest destinations to find something to entertain everyone.
 
-I have a ton of resources on exciting,** [affordable](/affordable-family-activities-las-vegas/)**[,](/affordable-family-activities-las-vegas/)and [**free things to do in Las Vegas**](/free-family-activities-las-vegas/), whether you're [**pregnant**](/pregnant-las-vegas/)or [**visiting Las Vegas with kids and babies**](/advice-las-vegas-with-baby-infant-itinerary/), but this post is exclusively for the **teens**!
+I have a ton of resources on exciting, [**affordable**](/affordable-family-activities-las-vegas/)[,](/affordable-family-activities-las-vegas/)and [**free things to do in Las Vegas**](/free-family-activities-las-vegas/), whether you're [**pregnant**](/pregnant-las-vegas/)or [**visiting Las Vegas with kids and babies**](/advice-las-vegas-with-baby-infant-itinerary/), but this post is exclusively for the **teens**!
 
 View this post as a Google Web Story here: [Things to do in Las Vegas with Teens](/things-to-do-in-las-vegas-with-teens/)
 

@@ -27,7 +27,7 @@ First off, if you are a visual person we have also provided a video to complemen
 
 Philly is a big city and that means there are a lot of options for a variety of budgets. There are a ton of free things to do in Philadelphia with kids. In fact, the Liberty Bell and Independence Hall are free to visit. The other historical sites in Philadelphia have a small entrance fee.
 
-If there are Philadelphia attractions that aren’t free that you would like to see, I would recommend getting a City Pass for great savings. [**Get your City Pass**](http://www.kqzyfj.com/click-8336032-10758699). Living Social also offers a lot of great deals on dining and attractions in Philadelphia.** [See Deals](http://www.dpbolvw.net/click-8336032-11355808)**. All in all, we found that Philadelphia can be a very affordable city.
+If there are Philadelphia attractions that aren’t free that you would like to see, I would recommend getting a City Pass for great savings. [**Get your City Pass**](http://www.kqzyfj.com/click-8336032-10758699). Living Social also offers a lot of great deals on dining and attractions in Philadelphia. [**See Deals**](http://www.dpbolvw.net/click-8336032-11355808). All in all, we found that Philadelphia can be a very affordable city.
 
 ## *Where to stay in Philadelphia
 *
@@ -151,7 +151,7 @@ I was so excited to explore the Eastern State Penitentiary and even more excited
 
 #### **Kid Alert!**
 
-Since the prison is considered a ruin, there are a lot of dangers associated with the buildings. They definitely don’t want the kids to touch the walls, because of the lead in the paint. Because of the danger it is not advertised as one of the things for kids to do in Philly, but my kids loved the tour. The kids loved walking around the creepy prison while listening to their audio tour. It is definitely one those activities in Philadelphia you just have to do. Just use precaution, explain the rules and keep an eye on them and they’ll be fine. The kids really did have fun and learn a lot, showing again that a place** [doesn't have to be kid-oriented to be kid friendly](/kid-friendly-travel-blogger-roundup/)**.
+Since the prison is considered a ruin, there are a lot of dangers associated with the buildings. They definitely don’t want the kids to touch the walls, because of the lead in the paint. Because of the danger it is not advertised as one of the things for kids to do in Philly, but my kids loved the tour. The kids loved walking around the creepy prison while listening to their audio tour. It is definitely one those activities in Philadelphia you just have to do. Just use precaution, explain the rules and keep an eye on them and they’ll be fine. The kids really did have fun and learn a lot, showing again that a place [**doesn't have to be kid-oriented to be kid friendly**](/kid-friendly-travel-blogger-roundup/).
 
 **[Learn More About Eastern State Penitentiary](https://www.amazon.com/gp/offer-listing/0738550396/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0738550396&amp;linkCode=am2&amp;tag=hmt016-20&amp;linkId=120a0cd7e99ce78b915ae8d566c8cb8d)**
 

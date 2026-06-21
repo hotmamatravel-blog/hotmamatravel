@@ -139,7 +139,7 @@ There is also a Casa Rosa location in Las Vegas! Another great city known for en
 
 So there you have it, the best kid-friendly restaurants in Nashville with live music. If you are looking for family things to do in Nashville TN, think about going honky tonking with your kids. Luckily for families, many of the popular Nashville music venues are also kid-friendly restaurants. It is so important that families are having fun together during their travels, so don’t box yourself in limiting your itinerary to only Nashville attractions for kids. There is nothing wrong with getting their groove on with mama, daddy, grandpa and grandma.
 
-Hope you enjoyed these tips to plan your family trip to Nashville. Please explore our blog for more [things to do with your family in Nashville and Tennessee.](/tennessee-family-travel/) For more information on our road trip and how you can do it too, be sure to check out our awesome** [road trip map](/family-road-trip-across-us/)**.
+Hope you enjoyed these tips to plan your family trip to Nashville. Please explore our blog for more [things to do with your family in Nashville and Tennessee.](/tennessee-family-travel/) For more information on our road trip and how you can do it too, be sure to check out our awesome [**road trip map**](/family-road-trip-across-us/).
 
 If you are looking to extend your stay indefinitely, check out [**The Best Neighborhoods in Nashville**](https://www.neighborwho.com/real-estate/best-neighborhoods-in-nashville/).
 

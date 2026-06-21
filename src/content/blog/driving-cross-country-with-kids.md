@@ -18,7 +18,7 @@ Never had I really considered taking my family on a road trip across the country
 
 [![family road trip across country with kids in minivan](/images/kids-on-road-trip-hotmamatravel.png)](/driving-cross-country-with-kids/)
 
-Hence began an** [epic family journey](/family-road-trip-across-us/)** that took us over 8,000 miles across deserts, through mountains, and directly into my family’s past. The seed was actually planted when we discovered through genealogical detective work that my great-great-great grandfather was a** [prisoner during the Civil War](/visiting-andersonville-prison-kids/) **and died in service at Fort Sumter prison in Andersonville, GA.
+Hence began an [**epic family journey**](/family-road-trip-across-us/) that took us over 8,000 miles across deserts, through mountains, and directly into my family’s past. The seed was actually planted when we discovered through genealogical detective work that my great-great-great grandfather was a** [prisoner during the Civil War](/visiting-andersonville-prison-kids/) **and died in service at Fort Sumter prison in Andersonville, GA.
 
 We only had a name and a picture of his tombstone, but it became imperative in my mind to take my 84 year old father to visit the grave site of this forgotten man, and to bring my kids along for the experience.
 
@@ -74,7 +74,7 @@ If you followed our #HotMamaDoesAmerica summer road trip on **[social media](htt
 
 [![](/images/kids-enjoying-night-life-nashville.png)](/driving-cross-country-with-kids/)
 
-But the limited amount of time in each city meant inevitably that we had to take a pass on some of the more popular and time consuming activities. For example,** [in Memphis](/one-day-in-memphis/)** we sampled classic barbecue, watched ducks march through the lobby of the Peabody Hotel, and had a blast listening to live music at the original BB King’s Blues club on Beale Street.
+But the limited amount of time in each city meant inevitably that we had to take a pass on some of the more popular and time consuming activities. For example, [**in Memphis**](/one-day-in-memphis/) we sampled classic barbecue, watched ducks march through the lobby of the Peabody Hotel, and had a blast listening to live music at the original BB King’s Blues club on Beale Street.
 
 However, I desperately wish we had at least a few more days in Memphis to take the kids to the National Civil Rights Museum at the Lorraine Motel and spend an afternoon at Graceland. At least we now know first-hand that Memphis is an amazing, lively city that jives with our style and for which we now hunger for an extended trip in the future.
 
@@ -98,7 +98,7 @@ Spontaneity is like a shot in the arm for your travels, injecting a certain leve
 
 I am sure I am not alone in this. Just driving my kids to shop at Target around the corner from our house can be an absolute headache. I could not fathom before the trip how my kids would respond to an entire day of confinement in the minivan.
 
-As it turns out the kids were absolute angels, give or take a few minor squabbles and bouts of impatience. By the end of the two month road trip, eight or ten hour drives almost became routine business for them. There was something about the magnitude of our joint undertaking that must have changed their state, as though they too were on a mission to be the adventurous** [travel buddies](/10-family-travel-taboos-break/)** we always wanted them to be.
+As it turns out the kids were absolute angels, give or take a few minor squabbles and bouts of impatience. By the end of the two month road trip, eight or ten hour drives almost became routine business for them. There was something about the magnitude of our joint undertaking that must have changed their state, as though they too were on a mission to be the adventurous [**travel buddies**](/10-family-travel-taboos-break/) we always wanted them to be.
 
 If I could give one specific piece of advice that could help explain this puzzling phenomenon, it might be the particular effort we put into keeping the whole family up-to-date on the upcoming agenda over breakfast, over dinner, before bed, during poopy time, etc. We made sure there were no surprises, so when woke them up at 6:30 in the morning for a long drive, they were mentally prepared.
 

@@ -12,7 +12,7 @@ wpSlug: "belle-meade-plantation"
 author: "Amanda Keeley-Thurman"
 ---
 
-Although there are many things to do in** [Nashville with kids](/kid-friendly-restaurants-nashville/)**, there is a lovely little place on the outskirt of Nashville that I would like to share with you. Belle Meade, though it retains its independent status, is also a part of the city of Nashville. It is home to the Belle Meade Plantation, where we had the pleasure of visiting with our family during our #HotMamaDoesAmerica&nbsp;[**summer road trip**](/family-road-trip-across-us/).
+Although there are many things to do in [**Nashville with kids**](/kid-friendly-restaurants-nashville/), there is a lovely little place on the outskirt of Nashville that I would like to share with you. Belle Meade, though it retains its independent status, is also a part of the city of Nashville. It is home to the Belle Meade Plantation, where we had the pleasure of visiting with our family during our #HotMamaDoesAmerica&nbsp;[**summer road trip**](/family-road-trip-across-us/).
 
 Belle Meade Nashville may not be on the radar for many travelers. Most visitors to Music City probably want to focus on, well, music. I mean Nashville is home to country music, after all. Sites like Grand Ole Opry, Opry Land, music row and downtown are usually on list of must-sees in Nashville. But did you know that Belle Meade is also the origin for many great American thoroughbred horses?
 

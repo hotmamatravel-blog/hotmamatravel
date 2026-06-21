@@ -36,7 +36,7 @@ The [Travelodge by Wyndham](https://www.wyndhamhotels.com/travelodge/las-vegas-n
 
 And the best part? You won't have to worry about paying resort fees! That's right; this hotel is one of the few in Las Vegas that does not charge these extra fees, which can save you quite a bit of money during your stay.
 
-The hotel is located walking distance from the** [famous Las Vegas Strip](/walking-las-vegas-strip/)**, so you can easily access all the top attractions, restaurants, and entertainment options that the city has to offer. And when you're ready to relax after a long day of exploring, you can kick back and enjoy the hotel's outdoor pool.
+The hotel is located walking distance from the [**famous Las Vegas Strip**](/walking-las-vegas-strip/), so you can easily access all the top attractions, restaurants, and entertainment options that the city has to offer. And when you're ready to relax after a long day of exploring, you can kick back and enjoy the hotel's outdoor pool.
 
 The Travelodge by Wyndham Las Vegas and Casino is a solid choice for anyone looking for a budget-friendly hotel without any frills in Las Vegas that does not charge resort fees. So what are you waiting for? Book your stay today and get ready to have some fun in Sin City!
 

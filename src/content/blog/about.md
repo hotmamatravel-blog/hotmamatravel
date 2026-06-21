@@ -66,6 +66,6 @@ Subscribe to get exclusive travel guides, behind-the-scenes sneak peeks, and the
 
 ## Can You Take Your Kids To...?
 
-Check out our series, proving you can make just about [**any adventure kid-friendly**](/kid-friendly-travel-blogger-roundup/)! From [**wineries**](/best-family-friendly-wineries/) and** [breweries](/americas-best-breweries/)**, to [**honky tonks**](/kid-friendly-restaurants-nashville/) and [**haunted hotels**](/haunted-places/family-friendly-haunted-hotels/).
+Check out our series, proving you can make just about [**any adventure kid-friendly**](/kid-friendly-travel-blogger-roundup/)! From [**wineries**](/best-family-friendly-wineries/) and [**breweries**](/americas-best-breweries/), to [**honky tonks**](/kid-friendly-restaurants-nashville/) and [**haunted hotels**](/haunted-places/family-friendly-haunted-hotels/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=mkTJ10AfbW3SBZQ3&amp;list=PLBukqMU4IGfsNL1-9QiMon8WAILsL8F9n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

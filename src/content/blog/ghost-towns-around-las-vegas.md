@@ -56,7 +56,7 @@ The main attraction is the Pioneer Saloon. It is the oldest bar in southern Neva
 
 [Her plane crashed nearby](https://time.com/4631701/carole-lombard-flight-3/). The Pioneer Saloon is where her husband, Clark Gable, waited anxiously for news. Today, visitors view the memorial display set up in the dining room for this Hollywood couple. You can also still see the cigarette burns on the Brunswick bar counter that Clark Gable left during his time at the Saloon. While you're there, be sure to try the famed Ghost Burger and soak in the historic ambiance.
 
-All ages are allowed in the dining room or patio seating. However, it is 21 and over in the Saloon. There is live music most weekends and souvenirs available for purchase. If you can't make live music in Goodsprings, no worries. There are plenty of exciting** [restaurants in Las Vegas with live music](/kid-friendly-live-music-las-vegas/)** just a short drive away.
+All ages are allowed in the dining room or patio seating. However, it is 21 and over in the Saloon. There is live music most weekends and souvenirs available for purchase. If you can't make live music in Goodsprings, no worries. There are plenty of exciting [**restaurants in Las Vegas with live music**](/kid-friendly-live-music-las-vegas/) just a short drive away.
 
 But the [Pioneer Saloon](https://pioneersaloonnv.com/) isn't the only attraction in town. Thrill-seekers can kick up dust on adrenaline-pumping [**off-road tours**](/go/off-road-tour-goodsprings-nv/), exploring the rugged terrain that surrounds Goodsprings. And for those with a taste for the eerie, the town is rumored to be a paranormal hotspot. Keep your eyes peeled for ghostly encounters!
 

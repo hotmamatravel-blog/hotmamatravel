@@ -238,7 +238,7 @@ From summer movies on the beach to **[St. Patrick’s Day festivities](/st-patri
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hOfmoX-bxaw?si=n3-1Mv53QjassJIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-If you’re visiting Newport Beach with the kids, I highly recommend staying at** [Newport Dunes Resort](/go/newport-dunes-rv-resort-newport-beach-ca/)**. It has everything you need for a relaxing beach weekend, calm waters with no waves to worry about, easy access to the beach, playground, pool, and water sports, plus all the amenities conveniently located so families can enjoy stress-free fun.
+If you’re visiting Newport Beach with the kids, I highly recommend staying at [**Newport Dunes Resort**](/go/newport-dunes-rv-resort-newport-beach-ca/). It has everything you need for a relaxing beach weekend, calm waters with no waves to worry about, easy access to the beach, playground, pool, and water sports, plus all the amenities conveniently located so families can enjoy stress-free fun.
 
 While the dunes are open to the public, pool access and some amenities are reserved for resort guests, which makes it extra safe and easy to keep track of the kids. Entry fees help keep the beach area calm and family-friendly, unlike the busy public beaches. We love staying here multiple times a year—it’s truly one of our favorite Southern California escapes.
 

@@ -160,7 +160,7 @@ Better yet, invest the time ahead of time to start learning a language online at
 
  	- Electric outlets and voltage is different depending where you travel. So make sure you are aware of those differences. While traveling the UK, I had to bring a ton of electronic devices and this post by [**Nomadic Matt**](http://www.nomadicmatt.com/travel-blogs/4-travel-gadgets/) really helped me out!
 
- 	- When traveling with kids and babies you will need to travel with more things. For help see our guide on [**best travel gadgets**](/best-gadgets-for-traveling-with-kids/)  and** [travel systems](/best-travel-system-strollers/)**.
+ 	- When traveling with kids and babies you will need to travel with more things. For help see our guide on [**best travel gadgets**](/best-gadgets-for-traveling-with-kids/)  and [**travel systems**](/best-travel-system-strollers/).
 
 
 

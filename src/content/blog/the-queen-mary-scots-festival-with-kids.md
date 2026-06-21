@@ -26,7 +26,7 @@ The Scottish Festival at the Queen Mary is a weekend long event, so there is a v
 
 If handsome men in kilts isn’t enough entertainment, don’t fret there is plenty to do at The Queen Mary Scottish Festival with kids!
 
-The Highland Games run from 9:00am until 6:00pm. Here clans test their strength and skills while visitors (like me) get to gulp beer and watch! It really is fascinating to watch as people participate in these historical athletics. Though some might not think that such an event would be very** [family friendly](/kid-friendly-travel-blogger-roundup/)**, this is precisely the sort of attraction that we love to visit with our children, with something fun for the whole family.
+The Highland Games run from 9:00am until 6:00pm. Here clans test their strength and skills while visitors (like me) get to gulp beer and watch! It really is fascinating to watch as people participate in these historical athletics. Though some might not think that such an event would be very [**family friendly**](/kid-friendly-travel-blogger-roundup/), this is precisely the sort of attraction that we love to visit with our children, with something fun for the whole family.
 
 ### Some of the events include:
 
@@ -85,7 +85,7 @@ Although it is the Queen Mary Scots Festival with kids, that doesn't mean there 
 
 **HotMama Tip:** Buy tasting tickets well in advance as they sell out every year!!
 
-There are various beer gardens set up around the Scots Festival, but I prefer to get out of the heat and hangout in the Observation Bar on the Queen Mary. It is probably my favorite bar in general, because I love the views and the history. In fact, we return to visit the Queen Mary several times per year just to hang out in the Observation Bar, and it is super kid-friendly. Read more details and advice about visiting the** [Queen Mary in Long Beach CA](/the-queen-mary-with-kids/)** all season long. It definitely ranks as one of our top 7 affordable **[family-friendly things to do in OC](/orange-county-family-travel/)**.
+There are various beer gardens set up around the Scots Festival, but I prefer to get out of the heat and hangout in the Observation Bar on the Queen Mary. It is probably my favorite bar in general, because I love the views and the history. In fact, we return to visit the Queen Mary several times per year just to hang out in the Observation Bar, and it is super kid-friendly. Read more details and advice about visiting the [**Queen Mary in Long Beach CA**](/the-queen-mary-with-kids/) all season long. It definitely ranks as one of our top 7 affordable **[family-friendly things to do in OC](/orange-county-family-travel/)**.
 
 [![Drinks at the Tavern at the Queen Mary Scots Fest](/images/DSCN8845-1024x768.jpg)](/the-queen-mary-scots-festival-with-kids/)
 

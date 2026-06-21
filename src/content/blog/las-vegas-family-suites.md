@@ -106,7 +106,7 @@ Indulge in the grandeur of [Caesars Palace](https://www.caesars.com/caesars-pala
 
 3555 Las Vegas Blvd S, Las Vegas, NV 89109
 
-Experience the vibrant and lively atmosphere of the[Flamingo](https://www.caesars.com/flamingo-las-vegas), a classic Las Vegas destination perfect for families. The hotel’s spacious suites and tropical pool area provide a relaxing escape, while the** [Wildlife Habitat](/go/wildlife-habitat-flamingo-las-vegas/)** offers fun for kids of all ages. With its central location on the Strip and a variety of dining and entertainment options, the Flamingo is a hit with families seeking fun and convenience.
+Experience the vibrant and lively atmosphere of the[Flamingo](https://www.caesars.com/flamingo-las-vegas), a classic Las Vegas destination perfect for families. The hotel’s spacious suites and tropical pool area provide a relaxing escape, while the [**Wildlife Habitat**](/go/wildlife-habitat-flamingo-las-vegas/) offers fun for kids of all ages. With its central location on the Strip and a variety of dining and entertainment options, the Flamingo is a hit with families seeking fun and convenience.
 
 **Flamingo Bunk Bed Suite** is great for families and features two queen beds, each with an overhead bunk bed. This room is 1,478 sq. ft and offers two bedrooms as well as a common area. You do have to make an inquiry for this room
 

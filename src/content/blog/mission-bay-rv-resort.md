@@ -52,7 +52,7 @@ How can RVing at the beach not be entertaining, right? Every morning, waking up 
 
 To keep the kids and adults constantly entertained, Mission Bay RV Resort hosts numerous activities. Movie night, bag toss competitions, ladder ball, bingo, musical chairs, hula hoop contest and chalk art contest. There is also horseshoe pits and a basketball court.
 
-Not to mention, Mission Bay RV Resort is conveniently located for all of San Diego’s local attractions. **[Sea World](/sea-world-san-diego/)**, **[San Diego Zoo](/san-diego-zoo-and-safari-park/)**, Downtown,** [Old Town](/old-town-san-diego-with-kids/)**, Legoland, Gaslamp Quarter, **[Seaport Village](/seaport-village-with-kids/)** and much more. For more details on visiting any of these attractions, just click their links.
+Not to mention, Mission Bay RV Resort is conveniently located for all of San Diego’s local attractions. **[Sea World](/sea-world-san-diego/)**, **[San Diego Zoo](/san-diego-zoo-and-safari-park/)**, Downtown, [**Old Town**](/old-town-san-diego-with-kids/), Legoland, Gaslamp Quarter, **[Seaport Village](/seaport-village-with-kids/)** and much more. For more details on visiting any of these attractions, just click their links.
 
 Above all the most entertaining is our time by the campfire talking and laughing together.
 

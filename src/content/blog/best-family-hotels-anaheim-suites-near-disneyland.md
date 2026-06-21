@@ -310,7 +310,7 @@ I promise, if you are visiting Disneyland, one of the [**family beaches near Ana
 
 For more information on visiting Anaheim with your family, please explore our [**Orange County family travel guides**](/orange-county-family-travel/) or extend your vacation to see more [**California travel family ideas**](/california-family-travel/).
 
-For more hotels with all the amenities your family will love, check out our guide to** [family hotels around the world](/best-family-hotels/)**.
+For more hotels with all the amenities your family will love, check out our guide to [**family hotels around the world**](/best-family-hotels/).
 
 *Disclaimer: HotMamaTravel is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates. This means that we get credit for providing awesome advice in helping you to decide on your purchase if you happen to use one of our links. There is no extra cost to you, but it helps to support the cost of running our blog. Thank you for supporting us!*
 
