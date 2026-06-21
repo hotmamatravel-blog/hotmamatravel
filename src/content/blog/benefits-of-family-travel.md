@@ -49,7 +49,7 @@ Research backs it up. Matthew J. Stone and James F. Petrick’s 2013 study, *[Ed
 
 Other studies confirm the impact. For instance,  the [Student and Youth Travel Association](https://journals.sagepub.com/doi/10.1177/0047287513500588) found that 86% of parents believed travel is as essential as traditional school subjects, while 60% saw measurable academic improvements.
 
-Elaine Meyer-Lee and Joy Evans (2007) noted that [travel puts education into context](https://files.eric.ed.gov/fulltext/EJ883705.pdf), fostering personal growth and motivation. Cindy Miller-Perrin and Don Thompson (2010) also showed that students who[travel more often achieve higher academic scores](http://travel more often achieve higher academic scores). Simply put, family travel doesn’t just build memories; it builds smarter, more adaptable, and more curious kids.
+Elaine Meyer-Lee and Joy Evans (2007) noted that [travel puts education into context](https://files.eric.ed.gov/fulltext/EJ883705.pdf), fostering personal growth and motivation. Cindy Miller-Perrin and Don Thompson (2010) also showed that students who travel more often achieve higher academic scores. Simply put, family travel doesn’t just build memories; it builds smarter, more adaptable, and more curious kids.
 
 ### Travel Builds Adaptability for a Changing World
 

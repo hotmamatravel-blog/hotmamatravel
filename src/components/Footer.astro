@@ -72,15 +72,9 @@ const socialLinks = [
         <!-- Brand column -->
         <div class="footer-brand">
           <a href="/" class="footer-logo" aria-label="HotMamaTravel">
-            <img
-              src="/images/hmt-logo.png"
-              alt="HotMamaTravel"
-              width="180"
-              height="48"
-              loading="lazy"
-              onerror="this.style.display='none'; this.nextElementSibling.style.display='block'"
-            />
-            <span class="footer-logo-text" style="display:none">HotMamaTravel</span>
+            <span class="logo-text">
+              <span class="logo-hot">Hot</span><span class="logo-mama-footer">Mama</span><span class="logo-travel-footer">Travel</span>
+            </span>
           </a>
           <p class="footer-tagline">Family travel with a twist — real adventures for parents who refuse to be boring.</p>
 
@@ -178,14 +172,19 @@ const socialLinks = [
     border-bottom: 1px solid rgba(255,255,255,0.08);
   }
 
-  .footer-logo { display: inline-block; margin-bottom: 16px; }
-  .footer-logo img { height: 44px; width: auto; filter: brightness(0) invert(1); }
-  .footer-logo-text {
+  .footer-logo { display: inline-block; margin-bottom: 16px; text-decoration: none; }
+  .logo-text {
     font-family: var(--font-serif);
-    font-size: 1.25rem;
+    font-size: 1.45rem;
     font-weight: 700;
-    color: white;
+    letter-spacing: -0.01em;
+    display: inline-flex;
+    align-items: center;
+    gap: 0;
   }
+  .logo-hot { color: var(--hmt-red); }
+  .logo-mama-footer { color: #fff; }
+  .logo-travel-footer { color: #888; font-weight: 400; }
   .footer-tagline {
     font-size: 0.875rem;
     line-height: 1.6;

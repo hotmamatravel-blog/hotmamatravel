@@ -33,7 +33,7 @@ Where Mama goes, the babies go.
 
 ## 🌎 What You’ll Find at HotMamaTravel
 
-<figure><a href="/images/HotMama-Fun-in-Vegas-930-x-520-px.gif"><img src="/images/HotMama-Fun-in-Vegas-930-x-520-px.gif" alt="HotMamaTravel Fun Family Travel" /></a></figure>
+<figure><a href="/images/Best-Guide-For-Walking-Las-Vegas-Strip-with-Kids-1.jpg"><img src="/images/Best-Guide-For-Walking-Las-Vegas-Strip-with-Kids-1.jpg" alt="HotMamaTravel Fun Family Travel in Las Vegas" /></a></figure>
 
 - **Family-friendly Las Vegas guides** (yes, they exist—and they rock)
 

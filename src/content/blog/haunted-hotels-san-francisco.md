@@ -68,7 +68,7 @@ The Fairmont San Francisco was built and opened in 1907. It was designed by arch
 
 In its early years, the Fairmont quickly gained a reputation for luxury and opulence. It became a hub for the city's high society and hosted numerous social events, including balls and galas. In 1945, the hotel introduced the Tonga Room and Hurricane Bar, a famous tiki bar and restaurant known for its tropical décor and indoor rainstorms. The Tonga Room remains a popular attraction at the Fairmont.
 
-[The Fairmont San Francisco](http://4 Haunted San Francisco Hotels Families Will Love 2025) has hosted numerous U.S. presidents and foreign dignitaries over the years. In 1945, it was the site of the drafting of the United Nations Charter, a historic event that played a crucial role in the formation of the United Nations.
+[The Fairmont San Francisco](/go/fairmont-san-francisco/) has hosted numerous U.S. presidents and foreign dignitaries over the years. In 1945, it was the site of the drafting of the United Nations Charter, a historic event that played a crucial role in the formation of the United Nations.
 
 ### **Hauntings: **
 

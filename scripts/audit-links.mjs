@@ -1,315 +1,223 @@
-import { readFileSync, writeFileSync, readdirSync, existsSync } from 'fs';
-import { join } from 'path';
+// scripts/audit-links.mjs
+// Crawls hotmamatravel.com to audit internal pages and assets for 404s.
 
-const projectRoot = process.cwd();
-const xmlPath = join(projectRoot, 'wp-export.xml');
-const vercelConfigPath = join(projectRoot, 'vercel.json');
-const blogContentDir = join(projectRoot, 'src', 'content', 'blog');
-const reportPath = join(projectRoot, 'audit-report.txt');
+import fs from 'fs';
+import path from 'path';
 
-console.log('🔍 Starting website link and URL audit...');
+const START_URL = 'https://www.hotmamatravel.com';
+const DOMAIN = 'hotmamatravel.com';
+const REPORT_PATH = './link-audit-report.md';
 
-// Helpers
-function extractText(xml, tag) {
-  const cdataMatch = xml.match(new RegExp(`<${tag}[^>]*><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\\/${tag}>`, 'm'));
-  if (cdataMatch) return cdataMatch[1].trim();
-  const plainMatch = xml.match(new RegExp(`<${tag}[^>]*>([^<]*)<\\/${tag}>`, 'm'));
-  return plainMatch ? plainMatch[1].trim() : '';
+const queue = [START_URL];
+const crawledPages = new Set();
+const testedAssets = new Set();
+const brokenLinks = []; // Array of { source, target, type, status, error }
+let processedCount = 0;
+
+function isInternal(url) {
+  if (!url) return false;
+  if (url.startsWith('/') && !url.startsWith('//')) return true;
+  return url.includes(DOMAIN);
 }
 
-function slugify(text) {
-  return text
-    .toLowerCase()
-    .replace(/[^\w\s-]/g, '')
-    .replace(/\s+/g, '-')
-    .replace(/-+/g, '-')
-    .trim();
-}
-
-function slugifyTag(text) {
-  let slug = text
-    .toLowerCase()
-    .replace(/[^a-z0-9\s-]/g, '')
-    .replace(/\s+/g, '-')
-    .replace(/-+/g, '-');
-  
-  if (slug.startsWith('hot-') && slug !== 'hot-road-trips' && slug !== 'hot-tips') {
-    slug = slug.substring(4);
-  }
-  
-  if (slug === 'family-travels') slug = 'family-travel';
-  
-  return slug;
-}
-
-// 1. Read WordPress export file
-if (!existsSync(xmlPath)) {
-  console.error(`❌ wp-export.xml not found at ${xmlPath}`);
-  process.exit(1);
-}
-console.log('📖 Reading wp-export.xml...');
-const xml = readFileSync(xmlPath, 'utf8');
-
-// 2. Gather original post/page slugs & thirstylinks from XML
-console.log('📊 Indexing WordPress items...');
-const itemRegex = /<item>([\s\S]*?)<\/item>/g;
-let match;
-const wpPosts = new Set();
-const wpPages = new Set();
-const wpThirstyLinks = new Set();
-
-while ((match = itemRegex.exec(xml)) !== null) {
-  const itemXml = match[1];
-  const postType = extractText(itemXml, 'wp:post_type');
-  const status = extractText(itemXml, 'wp:status');
-  
-  if (status !== 'publish') continue;
-
-  const title = extractText(itemXml, 'title') || 'Untitled';
-  const slug = extractText(itemXml, 'wp:post_name') || slugify(title);
-
-  if (postType === 'post') {
-    wpPosts.add(slug);
-  } else if (postType === 'page') {
-    wpPages.add(slug);
-  } else if (postType === 'thirstylink') {
-    wpThirstyLinks.add(slug);
-  }
-}
-console.log(`   - WordPress published posts: ${wpPosts.size}`);
-console.log(`   - WordPress published pages: ${wpPages.size}`);
-console.log(`   - WordPress published ThirstyAffiliates links: ${wpThirstyLinks.size}`);
-
-// 3. Read local Astro posts
-console.log('📁 Reading local Astro markdown posts...');
-if (!existsSync(blogContentDir)) {
-  console.error(`❌ Astro blog directory not found at ${blogContentDir}`);
-  process.exit(1);
-}
-const localPostFiles = readdirSync(blogContentDir).filter(f => f.endsWith('.md'));
-const localSlugs = new Set();
-const postTags = new Set();
-const postCategories = new Set();
-
-const postData = localPostFiles.map(file => {
-  const content = readFileSync(join(blogContentDir, file), 'utf8');
-  
-  // Extract slug from filename
-  const slug = file.replace(/\.md$/, '');
-  localSlugs.add(slug);
-
-  // Parse frontmatter tags & categories (simple parse)
-  const frontmatterMatch = content.match(/^---([\s\S]*?)---/);
-  if (frontmatterMatch) {
-    const fm = frontmatterMatch[1];
-    
-    const categoryMatch = fm.match(/category:\s*"(.*?)"/);
-    if (categoryMatch) {
-      const cleanCat = slugifyTag(categoryMatch[1]);
-      postCategories.add(cleanCat);
-    }
-    
-    const tagsMatch = fm.match(/tags:\s*\[(.*?)\]/);
-    if (tagsMatch) {
-      tagsMatch[1].split(',').forEach(tag => {
-        const cleanTag = slugifyTag(tag.trim().replace(/^"|"$/g, ''));
-        if (cleanTag) postTags.add(cleanTag);
-      });
-    }
-  }
-
-  return { file, slug, content };
-});
-console.log(`   - Local Astro markdown files: ${localPostFiles.length}`);
-console.log(`   - Unique tags indexed: ${postTags.size}`);
-console.log(`   - Unique categories indexed: ${postCategories.size}`);
-
-// 4. Read vercel.json redirects
-let vercelRedirects = [];
-if (existsSync(vercelConfigPath)) {
+function normalizeUrl(url, base) {
   try {
-    const config = JSON.parse(readFileSync(vercelConfigPath, 'utf8'));
-    vercelRedirects = config.redirects || [];
-    console.log(`🎯 Loaded ${vercelRedirects.length} redirects from vercel.json`);
+    const absolute = new URL(url, base);
+    // Strip trailing slashes and hash parameters for consolidation
+    let clean = absolute.origin + absolute.pathname;
+    if (clean.endsWith('/') && clean !== START_URL + '/') {
+      clean = clean.slice(0, -1);
+    }
+    return clean;
   } catch (err) {
-    console.warn(`⚠️ Error reading vercel.json: ${err.message}`);
+    return null;
   }
-} else {
-  console.warn('⚠️ vercel.json not found, skipping redirect validation');
 }
 
-// 5. Scan posts for internal links & validate
-console.log('🕵️ Analyzing internal links within posts...');
-const brokenLinks = [];
-let totalLinksScanned = 0;
-let externalLinksCount = 0;
-let validInternalLinksCount = 0;
+function isHtmlPage(url) {
+  const parsed = new URL(url);
+  const ext = path.extname(parsed.pathname).toLowerCase();
+  // If it has no extension, or ends in html/php/xml etc.
+  return !ext || ['.html', '.htm', '.php', '.xml', '.astro'].includes(ext);
+}
 
-postData.forEach(({ file, slug: postSlug, content }) => {
-  // Find all href matches in content (standard markdown links [text](url) and HTML links <a href="url">)
-  const hrefMatches = content.matchAll(/href=["']([^"']+)["']/g);
-  const mdMatches = content.matchAll(/\[[^\]]+\]\(([^)]+)\)/g);
-  
-  const allUrls = [];
-  for (const m of hrefMatches) allUrls.push(m[1]);
-  for (const m of mdMatches) allUrls.push(m[1]);
+async function testUrl(url, sourceUrl, isAsset = false) {
+  try {
+    // If we've already checked it and it was fine, skip
+    if (isAsset && testedAssets.has(url)) return true;
+    if (!isAsset && crawledPages.has(url)) return true;
 
-  allUrls.forEach(url => {
-    totalLinksScanned++;
-
-    // Filter out anchors and external sites
-    if (url.startsWith('#') || url.startsWith('mailto:') || url.startsWith('tel:')) {
-      totalLinksScanned--; // don't count these as links
-      return;
-    }
-
-    const isInternal = url.startsWith('/') || url.startsWith('https://hotmamatravel.com') || url.startsWith('http://localhost');
-    if (!isInternal) {
-      externalLinksCount++;
-      return;
-    }
-
-    // Clean the URL path to get the route/slug
-    let path = url;
-    if (path.startsWith('https://hotmamatravel.com')) {
-      path = path.slice('https://hotmamatravel.com'.length);
-    } else if (path.startsWith('http://localhost')) {
-      // Remove protocol and port (e.g. http://localhost:4321)
-      const relativePart = path.match(/http:\/\/localhost:\d+(.*)/);
-      if (relativePart) path = relativePart[1];
-    }
-
-    // Remove query string and hash
-    path = path.split('?')[0].split('#')[0];
-    
-    // Remove trailing slash
-    let cleanPath = path.trim().replace(/^\/|\/$/g, '');
-
-    // Check if it matches a valid route
-    let isValid = false;
-    let reason = '';
-
-    if (cleanPath === '' || cleanPath === 'blog') {
-      isValid = true; // Homepage or Blog index
-    } else if (localSlugs.has(cleanPath)) {
-      isValid = true; // Matches local post slug
-    } else if (cleanPath.startsWith('go/')) {
-      const affiliateSlug = cleanPath.slice(3).replace(/^\/|\/$/g, '');
-      if (wpThirstyLinks.has(affiliateSlug)) {
-        isValid = true; // Matches thirstylink affiliate route
-      } else {
-        reason = `Broken affiliate link /go/${affiliateSlug} (not found in XML)`;
+    // Use HEAD request to test existence quickly, fallback to GET if not allowed
+    let response;
+    try {
+      response = await fetch(url, { method: 'HEAD', redirect: 'follow' });
+      if (response.status === 405) {
+        response = await fetch(url, { method: 'GET', redirect: 'follow' });
       }
-    } else if (cleanPath.startsWith('tag/')) {
-      const tagSlug = cleanPath.slice(4).replace(/^\/|\/$/g, '');
-      if (postTags.has(tagSlug) || postCategories.has(tagSlug)) {
-        isValid = true; // Matches a category/tag archive route
-      } else {
-        reason = `Tag archive '/tag/${tagSlug}' does not correspond to any active tag or category`;
-      }
-    } else {
-      // Check if it matches a Vercel redirect source path
-      const matchedRedirect = vercelRedirects.find(rule => {
-        const sourceClean = rule.source.replace(/^\/|\/$/g, '');
-        // simple match (handles simple routes and wildcards like categories/(.*))
-        if (sourceClean === cleanPath) return true;
-        if (sourceClean.includes(':') || sourceClean.includes('*') || sourceClean.includes('(.*)')) {
-          const regexSource = sourceClean
-            .replace(/:\w+/g, '[^/]+')
-            .replace(/\(\.\*\)/g, '.*')
-            .replace(/\*/g, '.*');
-          return new RegExp(`^${regexSource}$`).test(cleanPath);
-        }
-        return false;
-      });
-
-      if (matchedRedirect) {
-        isValid = true; // Covered by Vercel redirect in production
-      } else {
-        reason = `Path '/${cleanPath}' does not exist on new site and is not redirected`;
-      }
+    } catch {
+      response = await fetch(url, { method: 'GET', redirect: 'follow' });
     }
 
-    if (isValid) {
-      validInternalLinksCount++;
-    } else {
+    if (response.status >= 400) {
       brokenLinks.push({
-        postFile: file,
-        postTitle: file.replace(/\.md$/, ''),
-        url: url,
-        resolvedPath: '/' + cleanPath,
-        reason: reason
+        source: sourceUrl,
+        target: url,
+        type: isAsset ? 'Asset' : 'Page',
+        status: response.status,
+        error: response.statusText || 'Error Status'
       });
+      console.log(`❌ Broken Link [${response.status}]: ${url} (Found on: ${sourceUrl})`);
+      return false;
     }
-  });
-});
 
-// 6. Check for missing pages (were in WP but didn't import to Astro)
-console.log('🔍 Checking if any WP pages/posts were skipped in migration...');
-const missingFromAstro = [];
-wpPosts.forEach(slug => {
-  if (!localSlugs.has(slug)) {
-    missingFromAstro.push({ type: 'post', slug });
+    if (isAsset) {
+      testedAssets.add(url);
+    }
+    return true;
+  } catch (err) {
+    brokenLinks.push({
+      source: sourceUrl,
+      target: url,
+      type: isAsset ? 'Asset' : 'Page',
+      status: 'Fetch Error',
+      error: err.message
+    });
+    console.log(`❌ Fetch Error: ${url} (Found on: ${sourceUrl}) - ${err.message}`);
+    return false;
   }
-});
-wpPages.forEach(slug => {
-  if (!localSlugs.has(slug)) {
-    // Check if it's handled by a custom redirect (e.g. /who-is-hot-mama -> /about)
-    const isRedirected = vercelRedirects.some(r => r.source.replace(/^\/|\/$/g, '') === slug);
-    const hasStaticRoute = existsSync(join(projectRoot, 'src', 'pages', `${slug}.astro`)) || existsSync(join(projectRoot, 'src', 'pages', slug, 'index.astro'));
-    if (!isRedirected && !hasStaticRoute) {
-      missingFromAstro.push({ type: 'page', slug });
+}
+
+async function crawlPage(url) {
+  if (crawledPages.has(url)) return;
+  crawledPages.add(url);
+  processedCount++;
+
+  console.log(`\n🔍 [${processedCount}] Crawling Page: ${url}`);
+  
+  try {
+    const res = await fetch(url);
+    if (res.status >= 400) {
+      // The page itself is broken
+      return;
+    }
+    
+    const contentType = res.headers.get('content-type') || '';
+    if (!contentType.includes('text/html')) {
+      return;
+    }
+
+    const html = await res.text();
+    
+    // Extract links
+    const linkRegex = /href=["']([^"']+)["']/gi;
+    let match;
+    const internalLinksOnPage = new Set();
+    const assetsOnPage = new Set();
+
+    while ((match = linkRegex.exec(html)) !== null) {
+      const link = match[1];
+      if (link.startsWith('#') || link.startsWith('mailto:') || link.startsWith('tel:') || link.startsWith('javascript:')) {
+        continue;
+      }
+
+      if (isInternal(link)) {
+        const fullUrl = normalizeUrl(link, url);
+        if (fullUrl) {
+          if (isHtmlPage(fullUrl)) {
+            internalLinksOnPage.add(fullUrl);
+          } else {
+            assetsOnPage.add(fullUrl);
+          }
+        }
+      }
+    }
+
+    // Extract images/src
+    const srcRegex = /src=["']([^"']+)["']/gi;
+    while ((match = srcRegex.exec(html)) !== null) {
+      const src = match[1];
+      if (src.startsWith('data:')) continue;
+      if (isInternal(src)) {
+        const fullUrl = normalizeUrl(src, url);
+        if (fullUrl) {
+          assetsOnPage.add(fullUrl);
+        }
+      }
+    }
+
+    // Process all discovered internal pages
+    for (const pageUrl of internalLinksOnPage) {
+      if (!crawledPages.has(pageUrl) && !queue.includes(pageUrl)) {
+        queue.push(pageUrl);
+      }
+    }
+
+    // Test all discovered assets immediately
+    for (const assetUrl of assetsOnPage) {
+      await testUrl(assetUrl, url, true);
+    }
+
+  } catch (err) {
+    console.error(`Error crawling ${url}:`, err.message);
+  }
+}
+
+async function startAudit() {
+  console.log('🚀 Starting Comprehensive Link Audit (Internal Links & Assets only)...');
+  
+  while (queue.length > 0) {
+    const nextUrl = queue.shift();
+    await crawlPage(nextUrl);
+    // Add small delay to be polite to the server
+    await new Promise(resolve => setTimeout(resolve, 100));
+  }
+
+  console.log('\n--- Link Audit Complete ---');
+  console.log(`Pages Crawled: ${crawledPages.size}`);
+  console.log(`Assets Verified: ${testedAssets.size}`);
+  console.log(`Broken Links Found: ${brokenLinks.length}`);
+
+  writeReport();
+}
+
+function writeReport() {
+  let content = `# Comprehensive Link Audit Report (Internal Links)
+
+**Audit Date**: ${new Date().toLocaleDateString()}
+- **Total Pages Audited**: ${crawledPages.size}
+- **Total Assets Verified**: ${testedAssets.size}
+- **Broken Links Identified**: ${brokenLinks.length}
+
+---
+
+## 404 / Broken Links Listing
+
+`;
+
+  if (brokenLinks.length === 0) {
+    content += `### 🎉 Success! No broken internal links or assets were found on your site.`;
+  } else {
+    // Group by source URL
+    const grouped = {};
+    brokenLinks.forEach(item => {
+      if (!grouped[item.source]) grouped[item.source] = [];
+      grouped[item.source].push(item);
+    });
+
+    for (const [source, list] of Object.entries(grouped)) {
+      content += `### Found on [${new URL(source).pathname || '/'}](${source})\n`;
+      content += `| Target URL / Asset | Type | Status | Details |\n`;
+      content += `| :--- | :--- | :--- | :--- |\n`;
+      list.forEach(item => {
+        const displayTarget = item.target.replace('https://www.hotmamatravel.com', '');
+        content += `| [${displayTarget}](${item.target}) | ${item.type} | **${item.status}** | ${item.error} |\n`;
+      });
+      content += `\n`;
     }
   }
-});
 
-// 7. Write report
-console.log('✍️ Writing audit report...');
-const reportLines = [
-  `=========================================================`,
-  `         HOTMAMATRAVEL WEBSITE MIGRATION AUDIT REPORT    `,
-  `=========================================================`,
-  `Generated: ${new Date().toLocaleString()}`,
-  ``,
-  `SUMMARY STATISTICS`,
-  `------------------`,
-  `Total migrated blog posts found:          ${localPostFiles.length}`,
-  `Total original published posts in WP:     ${wpPosts.size}`,
-  `Total original published pages in WP:     ${wpPages.size}`,
-  `Total ThirstyAffiliates redirects found:   ${wpThirstyLinks.size}`,
-  `Total internal/external links scanned:    ${totalLinksScanned}`,
-  `  - External links:                       ${externalLinksCount}`,
-  `  - Valid internal links/redirects:       ${validInternalLinksCount}`,
-  `  - Broken/unmatched internal links:      ${brokenLinks.length}`,
-  ``,
-  `MISSING CONTENT FROM ASTRO (${missingFromAstro.length})`,
-  `----------------------------------------`,
-  missingFromAstro.length === 0 
-    ? `✅ No missing content. All published WordPress posts/pages are accounted for.`
-    : missingFromAstro.map(item => `⚠️  Missing ${item.type}: /${item.slug}/`).join('\n'),
-  ``,
-  `BROKEN / UNMATCHED INTERNAL LINKS (${brokenLinks.length})`,
-  `----------------------------------------`,
-  brokenLinks.length === 0
-    ? `✅ No broken internal links found in post body text!`
-    : brokenLinks.map((item, idx) => 
-        `${idx + 1}. In Post: [${item.postFile}]\n` +
-        `   Link URL:    "${item.url}"\n` +
-        `   Resolved:    "${item.resolvedPath}"\n` +
-        `   Reason:      ${item.reason}\n`
-      ).join('\n'),
-  ``,
-  `RECOMMENDED ACTIONS`,
-  `-------------------`,
-  missingFromAstro.length > 0 ? `1. Check why some posts/pages didn't migrate. Verify if they should be deleted or manually redirect them.` : ``,
-  brokenLinks.length > 0 ? `2. Fix the broken tag links or add redirects for the unmapped pages listed above.` : ``,
-  `3. Deploy to staging on Vercel to verify redirect headers on a live domain.`,
-  `=========================================================`,
-];
+  fs.writeFileSync(REPORT_PATH, content, 'utf8');
+  console.log(`\n📝 Report successfully saved to: ${REPORT_PATH}`);
+}
 
-writeFileSync(reportPath, reportLines.join('\n'), 'utf8');
-
-console.log(`\n✅ Audit complete!`);
-console.log(`   - Broken internal links: ${brokenLinks.length}`);
-console.log(`   - Skipped/Missing pages: ${missingFromAstro.length}`);
-console.log(`📄 Report saved to: ${reportPath}`);
+startAudit();
