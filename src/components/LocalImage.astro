@@ -6,20 +6,21 @@ interface Props {
     alt: string;
     caption?: string;
     href?: string;
+    pinDescription?: string;
   };
 }
 
 const { node } = Astro.props;
-const { src, alt, caption, href } = node;
+const { src, alt, caption, href, pinDescription } = node;
 ---
 
-<figure>
+<figure data-pin-description={pinDescription}>
   {href ? (
     <a href={href}>
-      <img src={src} alt={alt} loading="lazy" decoding="async" />
+      <img src={src} alt={alt} loading="lazy" decoding="async" data-pin-description={pinDescription} />
     </a>
   ) : (
-    <img src={src} alt={alt} loading="lazy" decoding="async" />
+    <img src={src} alt={alt} loading="lazy" decoding="async" data-pin-description={pinDescription} />
   )}
   {caption && <figcaption>{caption}</figcaption>}
 </figure>

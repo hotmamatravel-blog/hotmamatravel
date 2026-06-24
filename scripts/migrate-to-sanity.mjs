@@ -298,8 +298,12 @@ function extractHtmlImage(html) {
   // Extract caption if present (e.g. <figcaption>Text</figcaption>)
   const captionMatch = html.match(/<figcaption[^>]*>([\s\S]*?)<\/figcaption>/i);
   const caption = captionMatch ? captionMatch[1].replace(/<[^>]+>/g, '').trim() : '';
+
+  // Extract data-essb-pin-description or data-pin-description
+  const pinDescMatch = html.match(/data-(?:essb-)?pin-description=["']([\s\S]*?)["']/i);
+  const pinDescription = pinDescMatch ? pinDescMatch[1] : '';
   
-  return { src, alt, href, caption };
+  return { src, alt, href, caption, pinDescription };
 }
 
 // Convert markdown/HTML content to Portable Text block array
@@ -312,12 +316,30 @@ function convertToPortableText(bodyText) {
     return '\n\n' + p1.trim().split(/\r?\n/).map(line => `> ${line.trim()}`).join('\n') + '\n\n';
   });
 
+  // Preprocess: Extract block-level HTML tags (figure, iframe, style) that can span multiple lines
+  // so they are not broken when splitting paragraphs by double newlines (\n\n).
+  const htmlBlocks = [];
+  const blockPattern = /<(figure|iframe|style)(?:\s[^>]*)?>[\s\S]*?<\/\1>/gi;
+  
+  let preprocessedText = cleanText.replace(blockPattern, (match) => {
+    const placeholder = `__HTML_BLOCK_PLACEHOLDER_${htmlBlocks.length}__`;
+    htmlBlocks.push(match);
+    return placeholder;
+  });
+
   const blocks = [];
-  const lines = cleanText.split(/\r?\n\r?\n/);
+  const lines = preprocessedText.split(/\r?\n\r?\n/);
   
   for (const block of lines) {
-    const text = block.trim();
+    let text = block.trim();
     if (!text) continue;
+
+    // Restore placeholders
+    if (text.includes('__HTML_BLOCK_PLACEHOLDER_')) {
+      text = text.replace(/__HTML_BLOCK_PLACEHOLDER_(\d+)__/g, (m, idx) => {
+        return htmlBlocks[parseInt(idx, 10)];
+      });
+    }
 
     // 3. Skip paragraph blocks that are disclaimers
     const lowerText = text.toLowerCase();
@@ -427,7 +449,8 @@ function convertToPortableText(bodyText) {
           src: imgInfo.src,
           alt: imgInfo.alt,
           caption: imgInfo.caption || '',
-          href: imgInfo.href || undefined
+          href: imgInfo.href || undefined,
+          pinDescription: imgInfo.pinDescription || undefined
         });
         continue;
       }

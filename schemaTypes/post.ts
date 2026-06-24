@@ -277,6 +277,11 @@ export const postType = defineType({
               name: 'href',
               type: 'string',
               title: 'Link URL (Optional)'
+            },
+            {
+              name: 'pinDescription',
+              type: 'text',
+              title: 'Pinterest Pin Description (Optional)'
             }
           ],
           preview: {
