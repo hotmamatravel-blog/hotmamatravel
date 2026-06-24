@@ -1,8 +1,8 @@
 ---
 // PostLayout.astro — Single blog post page
 import BaseLayout from './BaseLayout.astro';
-import type { CollectionEntry } from 'astro:content';
 import { slugifyTag } from '@/utils/slugify';
+import { getImageUrl } from '@/utils/imageUrl';
 
 interface Props {
   post: any;
@@ -38,12 +38,14 @@ const readingTime = (content: string) => {
   const words = content?.split(/\s+/).length ?? 0;
   return Math.max(1, Math.ceil(words / 200));
 };
+
+const resolvedHeroImage = getImageUrl(heroImage);
 ---
 
 <BaseLayout
   title={seoTitle || title}
   description={seoDescription || description}
-  image={heroImage}
+  image={resolvedHeroImage}
   pubDate={pubDateObj}
   updatedDate={updatedDateObj}
   author={author}

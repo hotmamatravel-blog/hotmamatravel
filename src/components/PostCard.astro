@@ -2,6 +2,8 @@
 // PostCard.astro — Used in grids, homepage, tag pages
 import type { CollectionEntry } from 'astro:content';
 
+import { getImageUrl } from '@/utils/imageUrl';
+
 interface Props {
   post: CollectionEntry<'blog'>;
   featured?: boolean;
@@ -18,13 +20,14 @@ const formattedDate = pubDateObj?.toLocaleDateString('en-US', {
 });
 
 const slug = post.slug?.current || post.slug;
+const resolvedHeroImage = getImageUrl(heroImage);
 ---
 
 <article class={`post-card ${featured ? 'post-card--featured' : ''}`}>
   <a href={`/${slug}/`} class="post-card-image-link" tabindex="-1" aria-hidden="true">
-    {heroImage ? (
+    {resolvedHeroImage ? (
       <img
-        src={heroImage}
+        src={resolvedHeroImage}
         alt={heroImageAlt || title}
         class="post-card-image"
         loading="lazy"

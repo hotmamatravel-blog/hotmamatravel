@@ -1,6 +1,7 @@
 import rss from '@astrojs/rss';
 import { sanityClient } from 'sanity:client';
 import type { APIContext } from 'astro';
+import { getImageUrl } from '@/utils/imageUrl';
 
 export async function GET(context: APIContext) {
   const posts = await sanityClient.fetch(
@@ -29,16 +30,23 @@ export async function GET(context: APIContext) {
         <link>https://hotmamatravel.com</link>
       </image>
     `,
-    items: sortedPosts.slice(0, 50).map((post: any) => ({
-      title: post.title,
-      pubDate: new Date(post.pubDate + 'T12:00:00'),
-      description: post.description ?? '',
-      link: `/${post.slug.current}/`,
-      categories: post.tags ?? [],
-      author: post.author ?? 'Amanda Keeley-Thurman',
-      customData: post.heroImage
-        ? `<enclosure url="${post.heroImage}" length="0" type="image/jpeg" />`
-        : undefined,
-    })),
+    items: sortedPosts.slice(0, 50).map((post: any) => {
+      const resolvedImg = getImageUrl(post.heroImage);
+      const enclosureUrl = resolvedImg 
+        ? (resolvedImg.startsWith('http') ? resolvedImg : 'https://hotmamatravel.com' + resolvedImg)
+        : null;
+
+      return {
+        title: post.title,
+        pubDate: new Date(post.pubDate + 'T12:00:00'),
+        description: post.description ?? '',
+        link: `/${post.slug.current}/`,
+        categories: post.tags ?? [],
+        author: post.author ?? 'Amanda Keeley-Thurman',
+        customData: enclosureUrl
+          ? `<enclosure url="${enclosureUrl}" length="0" type="image/jpeg" />`
+          : undefined,
+      };
+    }),
   });
 }
