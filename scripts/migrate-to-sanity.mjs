@@ -37,7 +37,11 @@ const client = createClient({
 });
 
 const blogDir = './src/content/blog';
-const files = fs.readdirSync(blogDir).filter(f => f.endsWith('.md'));
+const filterFile = process.argv.find(arg => arg.startsWith('--file='))?.split('=')[1];
+let files = fs.readdirSync(blogDir).filter(f => f.endsWith('.md') || f.endsWith('.mdx'));
+if (filterFile) {
+  files = files.filter(f => f === filterFile || f === `${filterFile}.md` || f === `${filterFile}.mdx`);
+}
 
 console.log(`🚀 Starting migration of ${files.length} posts to Sanity...`);
 
@@ -322,6 +326,26 @@ function convertToPortableText(bodyText) {
                          (text.includes('participant in the Amazon Services LLC Associates Program') && text.includes('affiliate advertising program'));
     if (isDisclaimer) {
       continue;
+    }
+    
+    // Check if it's a markdown image block (e.g. ![Alt Text](/images/path.jpg))
+    if (text.startsWith('![') && text.includes('](')) {
+      const closeBracket = text.indexOf(']');
+      const openParen = text.indexOf('(', closeBracket);
+      const closeParen = text.indexOf(')', openParen);
+      
+      if (closeBracket !== -1 && openParen === closeBracket + 1 && closeParen !== -1) {
+        const alt = text.substring(2, closeBracket);
+        const src = text.substring(openParen + 1, closeParen);
+        blocks.push({
+          _key: generateKey(),
+          _type: 'localImage',
+          src: src,
+          alt: alt,
+          caption: '',
+        });
+        continue;
+      }
     }
     
     // Check if it's H2 or H3 heading
