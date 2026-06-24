@@ -1,0 +1,106 @@
+---
+// src/pages/preview.astro — SSR preview page for Sanity Studio
+export const prerender = false;
+
+import { createClient } from '@sanity/client';
+import PostLayout from '@/layouts/PostLayout.astro';
+import { PortableText } from 'astro-portabletext';
+import RawHtml from '@/components/RawHtml.astro';
+import PortableTextHeading from '@/components/PortableTextHeading.astro';
+import LocalImage from '@/components/LocalImage.astro';
+
+// 1. Get draft ID from query parameters
+const id = Astro.url.searchParams.get('id');
+
+if (!id) {
+  return new Response("Missing draft document ID in preview URL (?id=...)", { status: 400 });
+}
+
+// 2. Instantiate authenticated Sanity client to fetch draft documents
+const previewClient = createClient({
+  projectId: 'ogxrlxz8',
+  dataset: 'production',
+  token: import.meta.env.SANITY_WRITE_TOKEN || process.env.SANITY_WRITE_TOKEN,
+  useCdn: false, // Bypass CDN to fetch latest draft content
+  apiVersion: '2026-06-11',
+});
+
+let post;
+try {
+  post = await previewClient.fetch(`*[_id == $id][0]`, { id });
+} catch (err: any) {
+  return new Response(`Error fetching draft document: ${err.message}`, { status: 500 });
+}
+
+if (!post) {
+  // Fallback: If drafts. prefix was not added, check if we can find it
+  try {
+    const draftId = id.startsWith('drafts.') ? id : `drafts.${id}`;
+    post = await previewClient.fetch(`*[_id == $id][0]`, { id: draftId });
+  } catch (err: any) {
+    return new Response(`Error fetching draft document: ${err.message}`, { status: 500 });
+  }
+}
+
+if (!post) {
+  // If still not found, search without drafts prefix
+  try {
+    const cleanId = id.replace(/^drafts\./, '');
+    post = await previewClient.fetch(`*[_id == $id][0]`, { id: cleanId });
+  } catch (err: any) {
+    return new Response(`Error fetching draft document: ${err.message}`, { status: 500 });
+  }
+}
+
+if (!post) {
+  return new Response(`Document with ID "${id}" not found in Sanity.`, { status: 404 });
+}
+
+const customComponents = {
+  type: {
+    rawHtml: RawHtml,
+    localImage: LocalImage,
+  },
+  block: {
+    h2: PortableTextHeading,
+    h3: PortableTextHeading,
+    h4: PortableTextHeading,
+  },
+};
+---
+
+<PostLayout post={post}>
+  <div class="preview-banner">
+    <div class="preview-banner-content">
+      <span class="preview-icon">👁️</span>
+      <strong>Preview Mode</strong>: You are viewing an unpublished working draft. Changes in the editor will reflect here upon saving.
+    </div>
+  </div>
+
+  <PortableText value={post.body} components={customComponents} />
+</PostLayout>
+
+<style>
+  .preview-banner {
+    background: #fff3cd;
+    color: #856404;
+    border: 1px solid #ffeeba;
+    border-radius: var(--radius-md, 8px);
+    padding: 14px 20px;
+    margin-bottom: 2em;
+    font-size: 0.95rem;
+    font-family: var(--font-sans, sans-serif);
+    display: flex;
+    align-items: center;
+    box-shadow: var(--shadow-sm);
+  }
+  .preview-banner-content {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    line-height: 1.4;
+  }
+  .preview-icon {
+    font-size: 1.2rem;
+  }
+</style>
