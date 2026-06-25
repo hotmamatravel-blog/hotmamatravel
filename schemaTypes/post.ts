@@ -296,6 +296,47 @@ export const postType = defineType({
               };
             }
           }
+        },
+        {
+          name: 'pinterestPin',
+          type: 'object',
+          title: '📌 Pinterest Pin Image',
+          fields: [
+            {
+              name: 'src',
+              type: 'string',
+              title: 'Image Path (e.g. /images/name.jpg)'
+            },
+            {
+              name: 'alt',
+              type: 'string',
+              title: 'Alternative Text'
+            },
+            {
+              name: 'href',
+              type: 'string',
+              title: 'Link URL (Optional)',
+              description: 'Link back to the blog post, e.g. /vancouver-with-kids/'
+            },
+            {
+              name: 'pinDescription',
+              type: 'text',
+              title: 'Pinterest Pin Description',
+              description: 'The description search engines and Pinterest will show when saved.'
+            }
+          ],
+          preview: {
+            select: {
+              title: 'alt',
+              subtitle: 'src'
+            },
+            prepare({ title, subtitle }: { title?: string; subtitle?: string }) {
+              return {
+                title: `📌 Pinterest Pin: ${title || 'Untitled'}`,
+                subtitle: subtitle || 'No image path set'
+              };
+            }
+          }
         }
       ],
     }),
