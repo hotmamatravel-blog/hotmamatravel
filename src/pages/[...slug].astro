@@ -6,6 +6,7 @@ import { PortableText } from 'astro-portabletext';
 import RawHtml from '@/components/RawHtml.astro';
 import PortableTextHeading from '@/components/PortableTextHeading.astro';
 import LocalImage from '@/components/LocalImage.astro';
+import SanityImage from '@/components/SanityImage.astro';
 
 
 export async function getStaticPaths() {
@@ -27,6 +28,7 @@ const customComponents = {
     rawHtml: RawHtml,
     localImage: LocalImage,
     pinterestPin: LocalImage,
+    image: SanityImage,
   },
   block: {
     h2: PortableTextHeading,

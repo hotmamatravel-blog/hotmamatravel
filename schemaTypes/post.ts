@@ -303,9 +303,16 @@ export const postType = defineType({
           title: '📌 Pinterest Pin Image',
           fields: [
             {
+              name: 'image',
+              type: 'image',
+              title: 'Upload Pin Image',
+              description: 'Upload your Pinterest pin image directly to Sanity. (Recommended)'
+            },
+            {
               name: 'src',
               type: 'string',
-              title: 'Image Path (e.g. /images/name.jpg)'
+              title: 'Image Path (Alternative: e.g. /images/name.jpg)',
+              description: 'Use this only if referencing an image already hosted on the server.'
             },
             {
               name: 'alt',
