@@ -1,86 +1,39 @@
 ---
-// src/pages/preview.astro — SSR preview page for Sanity Studio
-export const prerender = false;
-
-import { createClient } from '@sanity/client';
+// src/pages/preview.astro — Client-side dynamic preview page for Sanity Studio
 import PostLayout from '@/layouts/PostLayout.astro';
-import { PortableText } from 'astro-portabletext';
-import RawHtml from '@/components/RawHtml.astro';
-import PortableTextHeading from '@/components/PortableTextHeading.astro';
-import LocalImage from '@/components/LocalImage.astro';
-import SanityImage from '@/components/SanityImage.astro';
 
-// 1. Get draft ID from query parameters
-const id = Astro.url.searchParams.get('id');
-
-if (!id) {
-  return new Response("Missing draft document ID in preview URL (?id=...)", { status: 400 });
-}
-
-// 2. Instantiate authenticated Sanity client to fetch draft documents
-const previewClient = createClient({
-  projectId: 'ogxrlxz8',
-  dataset: 'production',
-  token: import.meta.env.SANITY_WRITE_TOKEN || process.env.SANITY_WRITE_TOKEN,
-  useCdn: false, // Bypass CDN to fetch latest draft content
-  apiVersion: '2026-06-11',
-});
-
-let post;
-try {
-  post = await previewClient.fetch(`*[_id == $id][0]`, { id });
-} catch (err: any) {
-  return new Response(`Error fetching draft document: ${err.message}`, { status: 500 });
-}
-
-if (!post) {
-  // Fallback: If drafts. prefix was not added, check if we can find it
-  try {
-    const draftId = id.startsWith('drafts.') ? id : `drafts.${id}`;
-    post = await previewClient.fetch(`*[_id == $id][0]`, { id: draftId });
-  } catch (err: any) {
-    return new Response(`Error fetching draft document: ${err.message}`, { status: 500 });
-  }
-}
-
-if (!post) {
-  // If still not found, search without drafts prefix
-  try {
-    const cleanId = id.replace(/^drafts\./, '');
-    post = await previewClient.fetch(`*[_id == $id][0]`, { id: cleanId });
-  } catch (err: any) {
-    return new Response(`Error fetching draft document: ${err.message}`, { status: 500 });
-  }
-}
-
-if (!post) {
-  return new Response(`Document with ID "${id}" not found in Sanity.`, { status: 404 });
-}
-
-const customComponents = {
-  type: {
-    rawHtml: RawHtml,
-    localImage: LocalImage,
-    pinterestPin: LocalImage,
-    image: SanityImage,
-  },
-  block: {
-    h2: PortableTextHeading,
-    h3: PortableTextHeading,
-    h4: PortableTextHeading,
-  },
+// We pre-render a static template with mock info during compilation
+const post = {
+  title: 'Loading Preview...',
+  description: 'Please wait while we fetch the latest changes from Sanity.',
+  pubDate: new Date(),
+  heroImage: '',
+  tags: [],
+  author: 'Amanda Keeley-Thurman',
+  category: '',
+  body: [],
 };
 ---
 
 <PostLayout post={post}>
-  <div class="preview-banner">
+  <div id="preview-loading" class="preview-banner">
     <div class="preview-banner-content">
-      <span class="preview-icon">👁️</span>
-      <strong>Preview Mode</strong>: You are viewing an unpublished working draft. Changes in the editor will reflect here upon saving.
+      <span class="preview-icon">🔄</span>
+      <strong>Fetching latest changes...</strong> Please wait.
     </div>
   </div>
 
-  <PortableText value={post.body} components={customComponents} />
+  <div id="preview-error" class="preview-banner" style="display: none; background: #fff3cd; color: #856404; border: 1px solid #ffeeba; border-radius: 8px; padding: 14px 20px; margin-bottom: 2em; font-size: 0.95rem; font-family: sans-serif; display: flex; align-items: center; gap: 8px;">
+    <div class="preview-banner-content" style="display: flex; align-items: center; gap: 8px; line-height: 1.4;">
+      <span class="preview-icon">❌</span>
+      <strong id="error-message">Error loading preview.</strong>
+    </div>
+  </div>
+
+  <div id="preview-content" style="display: none;">
+    <!-- Rendered PortableText will be injected here dynamically -->
+    <div id="post-body"></div>
+  </div>
 </PostLayout>
 
 <style>
@@ -88,14 +41,14 @@ const customComponents = {
     background: #fff3cd;
     color: #856404;
     border: 1px solid #ffeeba;
-    border-radius: var(--radius-md, 8px);
+    border-radius: 8px;
     padding: 14px 20px;
     margin-bottom: 2em;
     font-size: 0.95rem;
-    font-family: var(--font-sans, sans-serif);
+    font-family: sans-serif;
     display: flex;
     align-items: center;
-    box-shadow: var(--shadow-sm);
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
   }
   .preview-banner-content {
     display: flex;
@@ -107,3 +60,207 @@ const customComponents = {
     font-size: 1.2rem;
   }
 </style>
+
+<script>
+  import { createClient } from '@sanity/client';
+
+  // 1. Scan localStorage to find the active Sanity session token securely
+  function getSanityToken() {
+    try {
+      for (let i = 0; i < localStorage.length; i++) {
+        const key = localStorage.key(i);
+        if (key && (key.toLowerCase().includes('sanity') || key.toLowerCase().includes('session'))) {
+          const val = localStorage.getItem(key);
+          if (val) {
+            try {
+              const parsed = JSON.parse(val);
+              if (parsed && parsed.token) {
+                return parsed.token;
+              }
+            } catch (e) {
+              if (val.length > 30) return val;
+            }
+          }
+        }
+      }
+    } catch (e) {
+      console.error('Error reading localStorage for token:', e);
+    }
+    return null;
+  }
+
+  // 2. Translate Sanity Asset Ref (e.g. image-xxx-1046x585-jpg) into a real CDN URL
+  function getSanityImageUrl(assetRef) {
+    if (!assetRef) return '';
+    const ref = typeof assetRef === 'string' ? assetRef : assetRef._ref;
+    if (!ref) return '';
+
+    const parts = ref.split('-');
+    if (parts.length < 4) return '';
+
+    const assetId = parts[1];
+    const dimensions = parts[2];
+    const extension = parts[3];
+
+    return `https://cdn.sanity.io/images/ogxrlxz8/production/${assetId}-${dimensions}.${extension}`;
+  }
+
+  // 3. Simple client-side PortableText renderer
+  function renderPortableText(blocks) {
+    if (!blocks || !Array.isArray(blocks)) return '';
+
+    return blocks.map(block => {
+      if (block._type === 'block') {
+        const style = block.style || 'normal';
+        
+        // Render inline spans with text formatting and links
+        const children = block.children?.map(child => {
+          let text = child.text || '';
+          if (child.marks && child.marks.length > 0) {
+            child.marks.forEach(mark => {
+              const linkDef = block.markDefs?.find(m => m._key === mark);
+              if (linkDef && linkDef._type === 'link') {
+                text = `<a href="${linkDef.href}">${text}</a>`;
+              }
+              if (mark === 'strong') {
+                text = `<strong>${text}</strong>`;
+              }
+              if (mark === 'em') {
+                text = `<em>${text}</em>`;
+              }
+              if (mark === 'underline') {
+                text = `<u>${text}</u>`;
+              }
+            });
+          }
+          return text;
+        }).join('') || '';
+
+        if (style === 'h2') return `<h2>${children}</h2>`;
+        if (style === 'h3') return `<h3>${children}</h3>`;
+        if (style === 'h4') return `<h4>${children}</h4>`;
+        return `<p>${children}</p>`;
+      }
+
+      if (block._type === 'rawHtml') {
+        return block.html || '';
+      }
+
+      if (block._type === 'localImage') {
+        const src = block.image ? getSanityImageUrl(block.image) : block.src;
+        if (!src) return '';
+        return `<figure data-pin-description="${block.pinDescription || ''}">
+          ${block.href ? `<a href="${block.href}"><img src="${src}" alt="${block.alt || ''}" loading="lazy" /></a>` : `<img src="${src}" alt="${block.alt || ''}" loading="lazy" />`}
+          ${block.caption ? `<figcaption>${block.caption}</figcaption>` : ''}
+        </figure>`;
+      }
+
+      if (block._type === 'pinterestPin') {
+        const src = block.image ? getSanityImageUrl(block.image) : block.src;
+        if (!src) return '';
+        return `<figure data-pin-description="${block.pinDescription || ''}">
+          ${block.href ? `<a href="${block.href}"><img src="${src}" alt="${block.alt || ''}" loading="lazy" /></a>` : `<img src="${src}" alt="${block.alt || ''}" loading="lazy" />`}
+        </figure>`;
+      }
+
+      if (block._type === 'image') {
+        const src = getSanityImageUrl(block.asset);
+        if (!src) return '';
+        return `<figure><img src="${src}" alt="${block.alt || ''}" loading="lazy" /></figure>`;
+      }
+
+      return '';
+    }).join('');
+  }
+
+  // 4. Initialize client and load preview
+  async function loadPreview() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const id = urlParams.get('id');
+
+    if (!id) {
+      showError('Missing draft document ID in preview URL (?id=...)');
+      return;
+    }
+
+    const token = getSanityToken();
+    
+    // Create Sanity Client using the browser token
+    const previewClient = createClient({
+      projectId: 'ogxrlxz8',
+      dataset: 'production',
+      token: token || undefined, // Fallback to public if no token is found
+      useCdn: false,
+      apiVersion: '2026-06-11',
+    });
+
+    try {
+      // Query document
+      let post = await previewClient.fetch(`*[_id == $id][0]`, { id });
+      if (!post) {
+        const draftId = id.startsWith('drafts.') ? id : `drafts.${id}`;
+        post = await previewClient.fetch(`*[_id == $id][0]`, { id: draftId });
+      }
+      if (!post) {
+        const cleanId = id.replace(/^drafts\./, '');
+        post = await previewClient.fetch(`*[_id == $id][0]`, { id: cleanId });
+      }
+
+      if (!post) {
+        showError(`Document with ID "${id}" not found in Sanity. Please save/publish first or check if you are logged in.`);
+        return;
+      }
+
+      // Update layout fields dynamically
+      const titleEl = document.querySelector('.post-title');
+      if (titleEl) titleEl.textContent = post.title;
+
+      const descEl = document.querySelector('.post-description');
+      if (descEl) descEl.textContent = post.description || '';
+
+      const catEl = document.querySelector('.post-category-badge');
+      if (catEl) {
+        if (post.category) {
+          catEl.textContent = post.category;
+          catEl.style.display = 'inline-block';
+        } else {
+          catEl.style.display = 'none';
+        }
+      }
+
+      const authorEl = document.querySelector('.post-author a');
+      if (authorEl) authorEl.textContent = post.author || 'Amanda Keeley-Thurman';
+
+      const dateEl = document.querySelector('.post-meta time');
+      if (dateEl && post.pubDate) {
+        dateEl.textContent = 'Published ' + new Date(post.pubDate).toLocaleDateString('en-US', {
+          year: 'numeric', month: 'long', day: 'numeric'
+        });
+      }
+
+      // Render & inject PortableText content
+      document.getElementById('post-body').innerHTML = renderPortableText(post.body);
+
+      // Hide loading overlay and show preview
+      document.getElementById('preview-loading').style.display = 'none';
+      document.getElementById('preview-content').style.display = 'block';
+
+      // Re-initialize Pinterest hovering buttons if present
+      if (typeof window.initPinterest === 'function') {
+        window.initPinterest();
+      }
+
+    } catch (err) {
+      showError(`Error fetching draft document: ${err.message}`);
+    }
+  }
+
+  function showError(msg) {
+    document.getElementById('preview-loading').style.display = 'none';
+    document.getElementById('error-message').textContent = msg;
+    document.getElementById('preview-error').style.display = 'flex';
+  }
+
+  // Load preview on page entry
+  loadPreview();
+</script>

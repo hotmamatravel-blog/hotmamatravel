@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
-import vercel from '@astrojs/vercel/serverless';
+import vercel from '@astrojs/vercel/static';
 import react from '@astrojs/react';
 
 // Remark plugin: adds loading="lazy" and decoding="async" to all Markdown <img> tags
@@ -28,20 +28,15 @@ import sanity from '@sanity/astro';
 
 export default defineConfig({
   site: 'https://hotmamatravel.com',
-  output: 'hybrid',
+  output: 'static',
   adapter: vercel({
     webAnalytics: { enabled: true }
   }),
   integrations: [
+    react(),
     mdx(),
     sitemap({
-      changefreq: 'weekly',
-      priority: 0.7,
-      lastmod: new Date(),
-      filter: (page) =>
-        !page.includes('/wp-') &&
-        !page.includes('/feed') &&
-        !page.includes('/xmlrpc'),
+      filter: (page) => !page.includes('/disclosure-policy') && !page.includes('/preview') && !page.includes('/about') && !page.includes('/subscribe-hotmamatravel') && !page.includes('/work-with-us')
     }),
     sanity({
       projectId: 'ogxrlxz8',
@@ -49,7 +44,6 @@ export default defineConfig({
       useCdn: true,
       studioBasePath: '/admin',
     }),
-    react(),
   ],
   markdown: {
     shikiConfig: {
@@ -69,6 +63,9 @@ export default defineConfig({
     ],
   },
   vite: {
+    optimizeDeps: {
+      exclude: ['@sanity/astro'],
+    },
     build: {
       rollupOptions: {
         output: {

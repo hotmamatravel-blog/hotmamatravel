@@ -5,7 +5,7 @@ import { media } from 'sanity-plugin-media';
 import { schemaTypes } from './schemaTypes';
 
 // React component rendering the iframe preview pane
-const PreviewPane = ({ document }: any) => {
+const PreviewPane = ({ document }) => {
   const { displayed } = document;
   const id = displayed?._id;
 

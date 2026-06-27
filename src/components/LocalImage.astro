@@ -2,17 +2,6 @@
 // src/components/LocalImage.astro
 import { getImageUrl } from '@/utils/imageUrl';
 
-interface Props {
-  node: {
-    src?: string;
-    image?: any;
-    alt: string;
-    caption?: string;
-    href?: string;
-    pinDescription?: string;
-  };
-}
-
 const { node } = Astro.props;
 const { src, image, alt, caption, href, pinDescription } = node;
 

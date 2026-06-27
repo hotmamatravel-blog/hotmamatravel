@@ -11,14 +11,10 @@ import SanityImage from '@/components/SanityImage.astro';
 
 export async function getStaticPaths() {
   const posts = await sanityClient.fetch(`*[_type == "post" && !draft]`);
-  return posts.map((post: any) => ({
+  return posts.map((post) => ({
     params: { slug: post.slug.current },
     props: { post },
   }));
-}
-
-interface Props {
-  post: any;
 }
 
 const { post } = Astro.props;

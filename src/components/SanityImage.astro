@@ -2,13 +2,6 @@
 // src/components/SanityImage.astro
 import { getImageUrl } from '@/utils/imageUrl';
 
-interface Props {
-  node: {
-    asset: any;
-    alt?: string;
-  };
-}
-
 const { node } = Astro.props;
 const src = getImageUrl(node);
 const alt = node.alt || '';
