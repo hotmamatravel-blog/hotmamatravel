@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
-import vercel from '@astrojs/vercel/static';
+import vercel from '@astrojs/vercel/serverless';
 import react from '@astrojs/react';
 
 // Remark plugin: adds loading="lazy" and decoding="async" to all Markdown <img> tags
@@ -28,7 +28,7 @@ import sanity from '@sanity/astro';
 
 export default defineConfig({
   site: 'https://hotmamatravel.com',
-  output: 'static',
+  output: 'hybrid',
   adapter: vercel({
     webAnalytics: { enabled: true }
   }),
