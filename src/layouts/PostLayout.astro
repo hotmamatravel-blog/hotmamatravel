@@ -3,6 +3,7 @@
 import BaseLayout from './BaseLayout.astro';
 import { slugifyTag } from '@/utils/slugify';
 import { getImageUrl } from '@/utils/imageUrl';
+import VegasEbookPopup from '@/components/VegasEbookPopup.astro';
 
 interface Props {
   post: any;
@@ -23,6 +24,8 @@ const {
   seoTitle,
   seoDescription,
 } = postData;
+
+const hasVegasTag = tags.some(tag => tag && typeof tag === 'string' && tag.toLowerCase().includes('las vegas'));
 
 const pubDateObj = typeof pubDate === 'string' ? new Date(pubDate + 'T12:00:00') : pubDate;
 const updatedDateObj = typeof updatedDate === 'string' ? new Date(updatedDate + 'T12:00:00') : updatedDate;
@@ -126,7 +129,7 @@ const resolvedHeroImage = getImageUrl(heroImage);
           <a href="/about" class="btn btn-ghost" style="font-size:0.8rem;padding:0.4em 1em">More about Amanda →</a>
         </div>
       </div>
-
+      {hasVegasTag && <VegasEbookPopup />}
     </div>
   </article>
 </BaseLayout>

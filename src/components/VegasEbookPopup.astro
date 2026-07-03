@@ -1,0 +1,444 @@
+---
+// VegasEbookPopup.astro
+---
+
+<div id="vegas-ebook-popup" class="vegas-popup-container" aria-hidden="true">
+  <div class="vegas-popup-backdrop" id="vegas-popup-backdrop"></div>
+  <div class="vegas-popup-content">
+    <!-- Close Button -->
+    <button type="button" class="vegas-popup-close" id="vegas-popup-close" aria-label="Close promotion">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="18" y1="6" x2="6" y2="18"></line>
+        <line x1="6" y1="6" x2="18" y2="18"></line>
+      </svg>
+    </button>
+
+    <div class="vegas-popup-grid">
+      <!-- 3D Ebook Cover Section -->
+      <div class="vegas-popup-visual">
+        <div class="book-container-3d">
+          <img 
+            src="/vegas-with-kids-ebook/assets/actual_ebook_cover.png" 
+            alt="Las Vegas with Kids Travel Guide Ebook Cover" 
+            class="book-cover-image"
+            loading="lazy"
+          />
+        </div>
+        <div class="vegas-price-badge">
+          Only $1.99
+        </div>
+      </div>
+
+      <!-- Copy & CTA Section -->
+      <div class="vegas-popup-body">
+        <span class="vegas-badge-subtle">Vegas Family Guide</span>
+        <h3 class="vegas-popup-title">Vegas with Kids Doesn't Have to Be Hard!</h3>
+        <p class="vegas-popup-desc">
+          Ditch the tourist traps. Grab our 90-page guide written by a travel mom expert for the ultimate stress-free family vacation.
+        </p>
+        
+        <ul class="vegas-popup-features">
+          <li>
+            <svg class="check-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="20 6 9 17 4 12"></polyline>
+            </svg>
+            <span>90 Pages of Tested Tips</span>
+          </li>
+          <li>
+            <svg class="check-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="20 6 9 17 4 12"></polyline>
+            </svg>
+            <span>5 Major Hotels Decoded</span>
+          </li>
+          <li>
+            <svg class="check-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="20 6 9 17 4 12"></polyline>
+            </svg>
+            <span>3 Ready-to-Go Itineraries</span>
+          </li>
+        </ul>
+
+        <a href="/vegas-with-kids-ebook/" class="vegas-popup-btn" id="vegas-popup-cta">
+          Get the Ebook Now — $1.99
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="5" y1="12" x2="19" y2="12"></line>
+            <polyline points="12 5 19 12 12 19"></polyline>
+          </svg>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  /* Base Container Styles */
+  .vegas-popup-container {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    z-index: 10000;
+    max-width: 480px;
+    width: calc(100% - 48px);
+    pointer-events: none;
+    opacity: 0;
+    transform: translateY(40px) scale(0.95);
+    transition: opacity 400ms var(--ease), transform 450ms cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+
+  .vegas-popup-container.show {
+    pointer-events: auto;
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+
+  /* Popup Content Frame */
+  .vegas-popup-content {
+    background: linear-gradient(135deg, #ffffff 0%, var(--hmt-bg-warm) 100%);
+    border: 1px solid rgba(232, 35, 42, 0.12);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg), 0 20px 48px rgba(0, 0, 0, 0.12);
+    padding: 24px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .vegas-popup-content::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 6px;
+    height: 100%;
+    background: var(--hmt-red);
+  }
+
+  /* Grid Layout */
+  .vegas-popup-grid {
+    display: grid;
+    grid-template-columns: 120px 1fr;
+    gap: 20px;
+    align-items: center;
+  }
+
+  /* 3D Visual Section */
+  .vegas-popup-visual {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    perspective: 800px;
+  }
+
+  .book-container-3d {
+    width: 100px;
+    height: 140px;
+    transform-style: preserve-3d;
+    transform: rotateY(-18deg) rotateX(6deg) rotateZ(-2deg);
+    transition: transform var(--duration) var(--ease);
+    filter: drop-shadow(4px 8px 16px rgba(0, 0, 0, 0.25));
+  }
+
+  .vegas-popup-content:hover .book-container-3d {
+    transform: rotateY(-10deg) rotateX(3deg) rotateZ(-1deg) scale(1.05);
+  }
+
+  .book-cover-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 2px 6px 6px 2px;
+    border-left: 3px solid rgba(0, 0, 0, 0.2);
+  }
+
+  /* Badge styling */
+  .vegas-price-badge {
+    position: absolute;
+    bottom: -8px;
+    right: -8px;
+    background: var(--hmt-dark);
+    color: #ffffff;
+    font-size: 0.75rem;
+    font-weight: 800;
+    padding: 4px 8px;
+    border-radius: 30px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    box-shadow: var(--shadow-sm);
+    letter-spacing: 0.02em;
+    transform: rotate(4deg);
+    white-space: nowrap;
+  }
+
+  /* Text & CTA Body */
+  .vegas-popup-body {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .vegas-badge-subtle {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--hmt-red);
+    margin-bottom: 6px;
+  }
+
+  .vegas-popup-title {
+    font-size: 1.15rem;
+    font-family: var(--font-serif);
+    line-height: 1.25;
+    font-weight: 800;
+    color: var(--hmt-dark);
+    margin-bottom: 8px;
+  }
+
+  .vegas-popup-desc {
+    font-size: 0.825rem;
+    line-height: 1.5;
+    color: var(--hmt-slate);
+    margin-bottom: 12px;
+  }
+
+  /* Bullet points */
+  .vegas-popup-features {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin-bottom: 16px;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+  }
+
+  .vegas-popup-features li {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--hmt-charcoal);
+  }
+
+  .check-icon {
+    width: 14px;
+    height: 14px;
+    color: #10b981; /* Emerald green */
+    flex-shrink: 0;
+  }
+
+  /* CTA Button */
+  .vegas-popup-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: 100%;
+    padding: 10px 16px;
+    background: var(--hmt-red);
+    color: #ffffff;
+    font-size: 0.85rem;
+    font-weight: 700;
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-red);
+    transition: background-color var(--duration) var(--ease), transform var(--duration) var(--ease), box-shadow var(--duration) var(--ease);
+    text-align: center;
+    border: none;
+  }
+
+  .vegas-popup-btn:hover {
+    background: var(--hmt-red-dark);
+    transform: translateY(-1px);
+    box-shadow: 0 10px 20px rgba(232, 35, 42, 0.25);
+  }
+
+  .vegas-popup-btn:active {
+    transform: translateY(1px);
+  }
+
+  /* Close Button (X) */
+  .vegas-popup-close {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    color: var(--hmt-muted);
+    opacity: 0.6;
+    padding: 4px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: opacity var(--duration) var(--ease), background-color var(--duration) var(--ease);
+    cursor: pointer;
+  }
+
+  .vegas-popup-close:hover {
+    opacity: 1;
+    background: rgba(0, 0, 0, 0.05);
+    color: var(--hmt-dark);
+  }
+
+  /* Backdrop wrapper on Mobile */
+  .vegas-popup-backdrop {
+    display: none;
+  }
+
+  /* ---- Responsive Design ---- */
+  @media (max-width: 640px) {
+    /* Turn into a slide-up bottom sheet on mobile devices */
+    .vegas-popup-container {
+      bottom: 0;
+      right: 0;
+      left: 0;
+      width: 100%;
+      max-width: 100%;
+      transform: translateY(100%);
+      transition: transform 400ms cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .vegas-popup-container.show {
+      transform: translateY(0);
+    }
+
+    .vegas-popup-backdrop {
+      display: block;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
+      background: rgba(0, 0, 0, 0.4);
+      backdrop-filter: blur(2px);
+      z-index: -1;
+      opacity: 0;
+      transition: opacity 300ms ease;
+      pointer-events: none;
+    }
+
+    .vegas-popup-container.show .vegas-popup-backdrop {
+      opacity: 1;
+      pointer-events: auto;
+    }
+
+    .vegas-popup-content {
+      border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+      border-inline: none;
+      border-bottom: none;
+      padding: 24px 20px clamp(24px, 6vw, 40px); /* extra padding for safe area */
+      box-shadow: 0 -10px 30px rgba(0,0,0,0.15);
+    }
+
+    .vegas-popup-content::before {
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 4px;
+    }
+
+    .vegas-popup-grid {
+      grid-template-columns: 90px 1fr;
+      gap: 16px;
+    }
+
+    .book-container-3d {
+      width: 80px;
+      height: 110px;
+      transform: rotateY(-10deg) rotateX(4deg) rotateZ(-1deg);
+    }
+
+    .vegas-popup-title {
+      font-size: 1.05rem;
+    }
+
+    .vegas-popup-desc {
+      font-size: 0.775rem;
+      margin-bottom: 10px;
+    }
+
+    .vegas-popup-features {
+      display: none; /* Hide bullets on mobile for vertical space economy */
+    }
+  }
+</style>
+
+<script is:inline>
+  function initVegasPopup() {
+    const popup = document.getElementById('vegas-ebook-popup');
+    const closeBtn = document.getElementById('vegas-popup-close');
+    const backdrop = document.getElementById('vegas-popup-backdrop');
+    const ctaBtn = document.getElementById('vegas-popup-cta');
+    
+    if (!popup || !closeBtn) return;
+
+    const STORAGE_KEY = 'hmt_vegas_ebook_popup_dismissed';
+
+    // Helper to check if already closed in this session
+    const isDismissed = () => {
+      return sessionStorage.getItem(STORAGE_KEY) === 'true';
+    };
+
+    // Show the popup
+    const showPopup = () => {
+      if (isDismissed()) return;
+      popup.classList.add('show');
+      popup.removeAttribute('aria-hidden');
+    };
+
+    // Close and save status
+    const dismissPopup = () => {
+      popup.classList.remove('show');
+      popup.setAttribute('aria-hidden', 'true');
+      sessionStorage.setItem(STORAGE_KEY, 'true');
+    };
+
+    // Handle Scroll trigger
+    const onScroll = () => {
+      if (isDismissed()) {
+        window.removeEventListener('scroll', onScroll);
+        return;
+      }
+
+      // Calculate scroll progress (0 to 100)
+      const scrollY = window.scrollY || window.pageYOffset;
+      const scrollHeight = document.documentElement.scrollHeight;
+      const clientHeight = document.documentElement.clientHeight;
+      const totalScrollable = scrollHeight - clientHeight;
+
+      if (totalScrollable <= 0) return; // Non-scrollable page
+
+      const scrollPercent = (scrollY / totalScrollable) * 100;
+
+      // 20% scroll depth reached
+      if (scrollPercent >= 20) {
+        showPopup();
+        window.removeEventListener('scroll', onScroll); // Trigger once
+      }
+    };
+
+    // Attach event listeners
+    window.addEventListener('scroll', onScroll);
+    closeBtn.addEventListener('click', dismissPopup);
+    if (backdrop) {
+      backdrop.addEventListener('click', dismissPopup);
+    }
+    if (ctaBtn) {
+      ctaBtn.addEventListener('click', () => {
+        // Track the click or do any other analytical step, then let the navigation proceed
+        dismissPopup();
+      });
+    }
+
+    // Run initial scroll check in case page is already scrolled (e.g. user refreshed)
+    onScroll();
+  }
+
+  // Support Astro view transitions or typical page load
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initVegasPopup);
+  } else {
+    initVegasPopup();
+  }
+
+  // Astro specific: re-initialize after view transitions
+  document.addEventListener('astro:after-swap', initVegasPopup);
+</script>
