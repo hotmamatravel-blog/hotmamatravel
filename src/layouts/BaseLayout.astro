@@ -27,14 +27,16 @@ const props = Astro.props;
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="generator" content={Astro.generator} />
 
-    <!-- Travelpayouts Drive -->
-    <script is:inline nowprocket data-noptimize="1" data-cfasync="false" data-wpfc-render="false" seraph-accel-crit="1" data-no-defer="1">
-      (function () {
+    <!-- Travelpayouts Drive (Deferred for performance) -->
+    <script is:inline>
+      window.addEventListener('load', function () {
+        setTimeout(function() {
           var script = document.createElement("script");
-          script.async = 1;
+          script.async = true;
           script.src = 'https://tpembars.com/MjE4NDAz.js?t=218403';
           document.head.appendChild(script);
-      })();
+        }, 1500);
+      });
     </script>
 
     <!-- Favicon -->

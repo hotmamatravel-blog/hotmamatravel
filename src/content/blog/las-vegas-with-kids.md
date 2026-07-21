@@ -23,6 +23,7 @@ View this article as a Google Web Story: [Las Vegas with Kids Guide](/web-storie
 
 <nav class="wp-block-stackable-table-of-contents stk-block-table-of-contents stk-block stk-e671825" data-block-id="e671825">
 Table of Contents
+
 ## That's a Wrap!
 
 - [Where to Stay in Las Vegas With Kids](#where-to-stay-in-las-vegas-with-kids)
@@ -37,8 +38,6 @@ Table of Contents
 - [Bonus: Check out our family travel videos](#bonus-check-out-our-family-travel-videos)
 - [That's A Wrap!](#undefined)
 </nav>
-
-
 
 ## Where to Stay in Las Vegas With Kids
 
@@ -68,8 +67,6 @@ Spooky but kid-appropriate hotels with fascinating ghost stories, haunted histor
 
 A visual guide to where hotels are located on the Las Vegas Strip so families can plan smarter and walk less.
 
-
-
 ## Things to Do with Kids
 
 ### [Free Things to Do in Las Vegas with Kids](/free-family-activities-las-vegas/)
@@ -83,8 +80,6 @@ Affordable doesn’t mean boring. These kid-friendly Vegas activities cost under
 ### [Things to Do in Las Vegas with Teens](/things-to-do-in-las-vegas-with-teens/)
 
 Teens are tough to impress. Vegas makes it easy with high-energy attractions, immersive exhibits, and thrill rides.
-
-
 
 ## Shows &amp; Entertainment
 
@@ -104,8 +99,6 @@ Teens are a special breed, and these shows are sure to keep even the most noncha
 
 Save money and simplify planning with family-friendly dinner-and-show combos kids actually enjoy. The best dinner and show for families with kids of all ages is [**Tournament of Kings**](/go/tournament-kings-dinner-show-las-vegas/).
 
-
-
 ## Pools &amp; Play
 
 ### [Best Family Pools in Las Vegas](/best-family-pools-in-vegas/)
@@ -115,8 +108,6 @@ Lazy rivers, wave pools, waterfalls, and splash zones. These Vegas pools are bas
 ### [Best Arcades in Las Vegas](/best-arcades-in-las-vegas/)
 
 Classic arcades, VR gaming, esports, and indoor fun for kids and teens, perfect breaks from the Strip heat.
-
-
 
 ## Seasonal &amp; Spooky Fun
 
@@ -132,8 +123,6 @@ Spooky but kid-appropriate hotels with fascinating ghost stories, haunted histor
 
 'Tis the season to be merry, and Vegas has everything you need from festive activities to decorated family suites to help you ring in the season.
 
-
-
 ## Where to Eat with Kids
 
 ### [Best Las Vegas Family Restaurants with Live Music](/kid-friendly-live-music-las-vegas/)
@@ -148,8 +137,6 @@ The best places to eat right on the Strip with kids, from casual bites to sit-do
 
 Yes, you can do celebrity dining with kids. These restaurants are fun, approachable, and family-friendly.
 
-
-
 ## Beyond the Strip
 
 ### [Unforgettable Road Trips from Las Vegas](/3-day-road-trips-from-las-vegas/)
@@ -163,8 +150,6 @@ Escape the Strip for a day with easy trips to Red Rock Canyon, Hoover Dam, the G
 ### [Ghost Towns Around Las Vegas](/ghost-towns-around-las-vegas/)
 
 Explore Old West history with kid-friendly ghost towns just a short drive from Las Vegas. One of our favorite ghost towns that we visit near Vegas all the time is [**Calico Ghost Town**](/calico-ghost-town-with-kids/).
-
-
 
 ## Planning &amp; Tips
 
@@ -184,8 +169,6 @@ How families can navigate Vegas safely using trams, monorails, rideshares, and w
 
 Real questions parents ask about Vegas with kids, answered clearly and honestly.
 
-
-
 ## Special Travel Situations
 
 ### [Las Vegas with Baby Itinerary](/advice-las-vegas-with-baby-infant-itinerary/)
@@ -199,8 +182,6 @@ Everything you need to know about visiting Vegas while pregnant, including safet
 ### [Ultimate Guide to Walking the Las Vegas Strip with Kids](/walking-las-vegas-strip/)
 
 How to walk the Strip safely with kids, avoid chaos, and actually enjoy the experience as a family.
-
-
 
 ## Bonus: Check out our family travel videos
 

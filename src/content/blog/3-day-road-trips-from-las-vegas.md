@@ -48,8 +48,6 @@ View this post as a Google Web Story, here: [**Las Vegas Road Trips**](/web-stor
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-
-
 ## Road Trip Option #1 - Oatman &amp; Topock
 
 ### Day 1: Morning Drive from Las Vegas to [Oatman, AZ](/go/oatman-arizona/)
@@ -92,8 +90,6 @@ On your scenic drive back to Las Vegas in time for [**dinner and a show**](/las-
 
 **[Kingman AZ](/go/kingman-arizona/)** is a classic Route 66 stop with retro diners and a historic downtown district that is worth seeing to remember the good ole days of the Mother Road (i.e., Route 66).
 
-
-
 ## Road Trip Option #2: Zion National Park, UT
 
 ### Day 1: Morning drive from Vegas to[St. George, Utah](/go/st-george-utah/)
@@ -127,8 +123,6 @@ You won't want to miss seeing the Narrows, which is a popular spot for instagram
 *Distance: 160 miles, or about 2.75 hours*
 
 On the way back to Vegas, you may want to stop for lunch in Mesquite, Nevada. It is a small town with a few casinos and an amazing Golf Course called [Wolf Creek](https://golfwolfcreek.com/) (if that is your sort of thing) that my husband has played several times over the years with his family.
-
-
 
 ## Road Trip Option #3: Williams - Grand Canyon
 

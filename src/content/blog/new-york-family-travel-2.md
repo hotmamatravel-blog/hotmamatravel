@@ -18,75 +18,39 @@ From haunted mansions that’ll give your kids bragging rights, to glamping esca
 
 So grab your walking shoes (and maybe a flashlight), because New York family travel is about to get unforgettable, with something for the kids, something for the grown-ups, and a whole lot of magic in between.
 
-
-
 ## New York Family Attractions
-
-
 
 - [New York’s Five Boroughs: A Treasure Trove of Experiences](/new-yorks-five-boroughs/)
 
-
-
 ## New York Family Hotels
-
-
 
 - [Hauntingly Wonderful Haunted Hotels in New York](/haunted-hotels-new-york/)
 
 - [Best Christmas Hotels in NYC](/best-christmas-hotels-in-nyc/)
 
-
-
 ## New York Family Restaurants
-
-
-
-
 
 ## New York Family Breweries
 
-
-
 - [Best Breweries on Seneca Lake](/best-breweries-on-seneca-lake/)
-
-
 
 ## New York Family Wineries
 
-
-
-
-
 ## New York Family Glamping/RV
-
-
 
 - [Relaxing Sites for Glamping in Upstate New York](/glamping-upstate-new-york/)
 
-
-
 ## New York Family-Friendly Haunted Places
-
-
 
 - [Best Towns for Halloween to Visit With Your Family](/best-towns-for-halloween/)
 
 - [Hauntingly Wonderful Haunted Hotels in New York](/haunted-hotels-new-york/)
 
-
-
 ## New York Holiday-Themed Family Travel
-
-
 
 - [Best Christmas Hotels in NYC](/best-christmas-hotels-in-nyc/)
 
-
-
 ## New York Family Travel Videos
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jkwAbXJ2Rs0?si=oxymF85tvmRPjLt-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

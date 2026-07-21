@@ -303,22 +303,17 @@ const resolvedHeroImage = getImageUrl(heroImage);
       if (img.dataset.pinterestProcessed) return;
       img.dataset.pinterestProcessed = "true";
 
-      // Fix blurriness: Load full resolution image if parent is a link to it
+      // Determine mediaUrl for Pinterest sharing without mutating on-page img.src
       const parentLink = img.closest('a');
-      const originalSrc = img.src;
-      
+      let pinMediaUrl = img.src;
       if (parentLink && /\.(jpe?g|png|webp|gif)$/i.test(parentLink.getAttribute('href') || '')) {
-        img.src = parentLink.getAttribute('href');
+        pinMediaUrl = parentLink.getAttribute('href');
       } else {
         const cleanSrc = img.src.replace(/-\d+x\d+(\.(jpe?g|png|webp|gif))$/i, '$1');
         if (cleanSrc !== img.src) {
-          img.src = cleanSrc;
+          pinMediaUrl = cleanSrc;
         }
       }
-
-      img.addEventListener('error', () => {
-        img.src = originalSrc;
-      });
 
       // Create wrapper
       const wrapper = document.createElement('div');
@@ -350,7 +345,7 @@ const resolvedHeroImage = getImageUrl(heroImage);
         e.stopPropagation();
 
         const pageUrl = window.location.href;
-        const mediaUrl = img.src;
+        const mediaUrl = pinMediaUrl || img.src;
         const fig = img.closest('figure');
         const desc = (fig && (fig.dataset.essbPinDescription || fig.dataset.pinDescription)) || 
                      img.dataset.essbPinDescription || 

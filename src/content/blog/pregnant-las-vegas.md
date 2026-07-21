@@ -15,8 +15,6 @@ I love Vegas! It is the perfect vacation destination, no matter your situation. 
 
 So you going to Vegas while pregnant? Well, there is no shortage of fun things to in Vegas pregnant. From getting prenatal massages and lounging poolside to shopping and shows, here is my list for the ultimate babymoon in Vegas.
 
-
-
 ## *Is it safe to visit Vegas while pregnant?*
 
 The short answer is **YES, IT’S SAFE**. *Let’s just get this out of the way.* A lot of people ask this question, but I personally think it is a silly question with a simple answer. ***Of course it is safe* to spend a few days or a week of your pregnancy in Vegas**.
@@ -33,15 +31,11 @@ By the way, if you're planning a visit, check out our helpful articles on the [*
 
 **I will show you some useful tips on how to have a fabulous time pregnant in Vegas**.
 
-
-
 ## *What to do in Vegas while pregnant*?
 
 There are very few activities you will actually be *restricted from* doing when visiting Las Vegas pregnant, **so the whole city is basically at your fingertips**…but there are some fun things to do in Vegas pregnant that are perfect, or in some cases even specially tailored, for expecting mothers. If you are pregnant and visiting Vegas with kids, there are [plenty of budget-friendly and age appropriate activities](/affordable-family-activities-las-vegas/) as well.
 
 In fact, the lack of your ability to drink and gamble all night will actually force you to enjoy some of the other great attractions in Vegas such as spas, [pools](/best-family-pools-in-vegas/), shopping and shows, **which can actually be a delightful and refreshing new experience of Vegas**.
-
-
 
 ## Prenatal Massage Las Vegas
 
@@ -82,8 +76,6 @@ This 50 or 80 minute massage is similar to the pregnancy massage offered at Mira
 The Four Seasons is connected to the [Mandalay Bay hotel](https://mandalaybay.mgmresorts.com/en.html), and is notable for its Forbes Five-Star rated Spa, which has a special Las Vegas babymoon massage for expecting mothers in the second or third trimester. If luxury and splendor are important to you, the Four Seasons Spa should be your first choice.**&nbsp;**
 
 [**See photos, reviews &amp; more**](/go/four-seasons-spa-las-vegas/)
-
-
 
 ## Poolside in Las Vegas While Pregnant
 
@@ -129,8 +121,6 @@ This pool at [New York New York](https://newyorknewyork.mgmresorts.com/en.html) 
 
 [**See photos, reviews &amp; more**](/go/nyny-las-vegas-expedia/)
 
-
-
 ## See a Show in Vegas While Pregnant
 
 Catching a show is the perfect way to spend the evening pregnant in Las Vegas. There are so many great shows to choose from in Vegas, but we always tend to gravitate toward Cirque Du Soleil shows with intense acrobatics, interesting storytelling, and heart-pounding music and theatrics. It seems that every major hotel on the strip has its own Cirque-style show, and for good reason. These shows are spectacular and super popular, and will give you hours of interesting conversation afterwards. For a complete list of our favorite shows in Las Vegas, check our list of [**Las Vegas Shows for Families**](/las-vegas-shows-for-kids/), [**Best Cirque du Soleil Shows in Las Vegas**](/best-cirque-du-soleil-shows-in-vegas-for-families/), and [**Las Vegas Dinner and Show Packages**](/las-vegas-dinner-and-show-packages/).
@@ -174,8 +164,6 @@ The show's storyline is told through a series of vignettes, each of which explor
 "Mystère" has been highly praised for its imaginative and innovative approach to performance art. It has won several awards, including a Drama Desk Award for Unique Theatrical Experience and multiple awards from the International Association of Amusement Parks and Attractions. It is recommended for anyone who appreciates the artistry and athleticism of acrobatic performance and who is looking for a unique and inspiring show experience in Las Vegas.
 
 [**See photos, reviews &amp; more**](/go/mystere-las-vegas-bov/)
-
-
 
 ## Go Shopping in Las Vegas While Pregnant
 
@@ -231,8 +219,6 @@ They key word here is canal. The Grand Canal Shops has a gorgeous canal that win
 
 [**See photos, reviews &amp; more**](/go/venetian-las-vegas-expedia/)
 
-
-
 ## Hot Tips for Being Pregnant in Las Vegas
 
 - Try to keep healthy and pay attention to your body by staying hydrated and taking naps as needed.
@@ -246,10 +232,6 @@ They key word here is canal. The Grand Canal Shops has a gorgeous canal that win
 - Travel with people who are responsible and not annoying drunkies (If you don't know what I mean, you're probably good).
 
 - Just have fun! You can do just about anything in Vegas pregnant that you could do if you were not pregnant. Enjoy the finer side of Vegas.
-
-
-
-
 
 ## That's a Wrap!
 

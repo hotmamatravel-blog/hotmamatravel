@@ -16,7 +16,6 @@ Welcome to Nevada, where family adventures unfold! Explore everything from the d
 
 <div class="wp-block-stackable-card stk-block-card stk-block stk-50ea72e is-style-default" data-v="2" data-block-id="50ea72e"><div class="stk--no-padding stk-container stk-50ea72e-container stk-hover-parent"><figure class="stk-block-card__image stk-img-wrapper stk-image--shape-stretch"><img src="/images/family-friendly-las-vegas.jpg" alt="Ultimate Las Vegas family travel resource" /></figure><div class="stk-container-padding stk-block-card__content"><div class="stk-block-content stk-inner-blocks stk-50ea72e-inner-blocks">
 
-
 ## [Las Vegas](/family-friendly-vegas/)
 
 </div>

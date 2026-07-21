@@ -14,7 +14,7 @@ export function getImageUrl(source: any): string {
   // If it is a Sanity image object (newly uploaded assets)
   if (source && (source.asset || source._type === 'image')) {
     try {
-      return builder.image(source).url();
+      return builder.image(source).auto('format').quality(80).url();
     } catch (e) {
       console.error('Error building Sanity image URL:', e);
       return '';

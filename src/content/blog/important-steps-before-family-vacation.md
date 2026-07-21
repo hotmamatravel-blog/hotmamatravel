@@ -47,8 +47,6 @@ If you’re heading out of the country for two weeks, you’ll want to bring $2k
 
 <div class="wp-block-stackable-heading stk-block-heading stk-block stk-ccee0e8" id="thats-a-wrap" data-block-id="ccee0e8">
 
-
-
 ## That's a Wrap!
 
 Emergency cash, cleaning prior the trip, pet management plans, cutting edge security installation, prepping the fridge, and unplugging appliances represent six key steps to take before your upcoming family vacation. Hopefully this info helps you have a better trip!

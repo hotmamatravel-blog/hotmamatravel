@@ -118,11 +118,7 @@ If you are visiting Anaheim and looking for a great family-friendly accommodatio
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-
-
 ## Kid-friendly Anaheim Attractions
-
-
 
 <figure><img src="/images/things-to-do-anaheim-besides-disney.png" alt="Fun things to do in Anaheim CA besides Disneyland" /></figure>
 
@@ -188,11 +184,7 @@ Let’s be real, **[Disneyland](https://disneyland.disney.go.com/)** and **Disne
 
 **[See photos, reviews &amp; more](/go/disneyland-park-anaheim/)**
 
-
-
 ## Nearby OC Attractions
-
-
 
 ### [Knott's Berry Farm](/go/knotts-berry-farm-general/)
 
@@ -262,11 +254,7 @@ The Aquarium of the Pacific is a huge public aquarium located on Rainbow Harbor 
 
 [**See photos, reviews &amp; more**](/go/aquarium-of-the-pacific-long-beach/)
 
-
-
 ## Kid-friendly Live Music near Anaheim
-
-
 
 ### [Brewery X](/go/brewery-x-anaheim-ca/)
 
@@ -336,11 +324,7 @@ Segerstrom Center for the Arts Orange County is a great place to catch a play, m
 
 [**See photos, reviews &amp; more**](/go/segerstrom-center-performing-arts-costa-mesa/)
 
-
-
 ## Historic Districts in Orange County
-
-
 
 ### [Old Towne Orange](/go/old-towne-orange-food-tours/)
 
@@ -398,11 +382,7 @@ Richard Nixon Library is the birthplace and burial site of US President Richar N
 
 [**See photos, reviews &amp; more**](/go/richard-nixon-library-yorba-linda/)
 
-
-
 ## Fun places to shop near Anaheim
-
-
 
 ### [Gardenwalk](/go/gardenwalk-anaheim/)
 
@@ -460,11 +440,7 @@ Pacific City in Huntington Beach is ocean front dining, shopping and entertainme
 
 [**See photos, reviews &amp; more**](/go/pacific-city-huntington-beach/)
 
-
-
 ## Parks And Hiking Near Anaheim
-
-
 
 ### [Oak Canyon Nature Reserve](/go/oak-canyon-nature-preserve-anaheim/)
 

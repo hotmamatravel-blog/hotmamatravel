@@ -20,8 +20,6 @@ So, why settle for a run-of-the-mill family outing when you can infuse it with t
 
 ## Kid-Friendly Wineries in USA
 
-
-
 ### Family-Friendly Wineries in California:
 
 </div>
@@ -35,8 +33,6 @@ So, why settle for a run-of-the-mill family outing when you can infuse it with t
 - [Kid-Friendly Wineries in Napa](/kid-friendly-wineries-in-napa/)
 
 - [Kid-Friendly Wineries in Sonoma](/kid-friendly-wineries-in-sonoma/)
-
-
 
 ### Must-Have Products For Visiting Wineries:
 

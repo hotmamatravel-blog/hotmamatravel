@@ -22,8 +22,6 @@ Long Beach, California, is not only known for its stunning coastline and vibrant
 
 518 W Willow St, Long Beach, CA 90806
 
-
-
 ### Is Long Beach Beer Lab family-friendly?
 
 Yes, Long Beach Beer Lab allows kids.
@@ -393,8 +391,6 @@ Yes, Trademark Brewing host a variety of exciting events, like Beer Yoga, Line D
 ### Does Trademark Brewing offer food?
 
 Yes, Trademark Brewing offers a rotating lineup of fun food trucks. They also allow outside food.
-
-
 
 </div>
 

@@ -19,8 +19,6 @@ From small towns to major cities, **[Best Western is the hotel brand we trust mo
 
 Here are the **5 reasons we keep choosing [Best Western](/go/best-western-book-direct/) for our family trips.**
 
-
-
 ## Best Western Hotels We’ve Stayed At With Kids
 
 <blockquote>

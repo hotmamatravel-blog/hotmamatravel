@@ -22,11 +22,7 @@ So, if you are a worried parent too, we'll discuss the reasons why you should ta
 
 **Disclaimer**: Links in this page are meant to help you find relevant information and book attractions easier by linking directly to specific pages on partner websites (i.e. TripAdvisor, Vegas.com). If you click a link, we may earn a small commission on transactions. This helps support the cost of running our website, and it adds absolutely no extra cost to you as the consumer. Thank you, we appreciate your support! *You can read more on our [disclosure policy](/disclosure-policy/).*
 
-
-
 ## [Journey to the Everglades](/go/everglades-city-florida/)
-
-
 
 <figure id="everglades-airboat-tours"><a href="/images/everglades-airboat-tours.jpg"><img src="/images/everglades-airboat-tours.jpg" alt="everglades tour with kids" /></a></figure>
 
@@ -52,11 +48,7 @@ No matter which city you choose as your starting point, there are plenty of opti
 
 [**See photos, reviews &amp; more**](/go/everglades-city-florida/)
 
-
-
 ## [Everglades Airboat Tours](/go/everglades-airboat-tours-florida/)
-
-
 
 <figure id="everglades-boat-tours"><a href="/images/everglades-boat-tours.jpg"><img src="/images/everglades-boat-tours.jpg" alt="everglades airboat tours" /></a></figure>
 
@@ -70,11 +62,7 @@ It's worth noting that the National Park Service does not operate any airboat to
 
 [**See photos, reviews &amp; more**](/go/everglades-airboat-tours-florida/)
 
-
-
 ## Everglades Animals
-
-
 
 <figure id="everglades-alligators-airboat-rides"><a href="/images/everglades-alligators-airboat-rides.jpg"><img src="/images/everglades-alligators-airboat-rides.jpg" alt="everglades animals" /></a></figure>
 
@@ -92,11 +80,7 @@ On land, look into the thick brush to spy Everglades Panthers and Bobcats. Altho
 
 Additionally, it's crucial to treat all wildlife with respect and to never approach or disturb them in their natural habitat.
 
-
-
 ## [More Everglades Attractions](/go/things-to-do-everglades-city-with-kids/)
-
-
 
 <figure id="unique-everglades-attractions"><a href="/images/unique-everglades-attractions.jpg"><img src="/images/unique-everglades-attractions.jpg" alt="activities in the everglades" /></a></figure>
 
@@ -108,11 +92,7 @@ To cool down from the about hot Florida sun or get dry from wet Florida rain, yo
 
 [**See photos, reviews &amp; more**](/go/things-to-do-everglades-city-with-kids/)
 
-
-
 ## Our Personal Experience:
-
-
 
 <figure id="everglades-airboat-tour-things-to-do-in-naples-with-kids"><a href="/images/everglades-airboat-tour-things-to-do-in-naples-with-kids.jpg"><img src="/images/everglades-airboat-tour-things-to-do-in-naples-with-kids.jpg" alt="family-friendly everglades airboat tour" /></a></figure>
 
