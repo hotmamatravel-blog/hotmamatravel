@@ -961,3 +961,57 @@ h1, h2, h3, h4, h5, h6 {
   display: block !important;
 }
 
+/* YouTube Lazy Facade Styles */
+.yt-facade-wrapper {
+  position: relative !important;
+  width: 100% !important;
+  aspect-ratio: 16 / 9 !important;
+  background-color: #000 !important;
+  cursor: pointer !important;
+  overflow: hidden !important;
+  border-radius: 12px !important;
+  margin: 1.5em 0 !important;
+  display: block !important;
+}
+.yt-facade-wrapper img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  opacity: 0.9 !important;
+  transition: opacity 0.2s ease !important;
+  border: 0 !important;
+  display: block !important;
+  margin: 0 !important;
+}
+.yt-facade-wrapper:hover img {
+  opacity: 1 !important;
+}
+.yt-facade-play-btn {
+  position: absolute !important;
+  top: 50% !important;
+  left: 50% !important;
+  transform: translate(-50%, -50%) !important;
+  width: 68px !important;
+  height: 48px !important;
+  background-color: rgba(33, 33, 33, 0.85) !important;
+  border-radius: 12px !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  transition: background-color 0.2s ease, transform 0.2s ease !important;
+  pointer-events: none !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
+}
+.yt-facade-wrapper:hover .yt-facade-play-btn {
+  background-color: #ff0000 !important;
+  transform: translate(-50%, -50%) scale(1.1) !important;
+}
+.yt-facade-play-btn svg {
+  width: 24px !important;
+  height: 24px !important;
+  max-width: 24px !important;
+  max-height: 24px !important;
+  fill: #ffffff !important;
+  display: block !important;
+}
+
