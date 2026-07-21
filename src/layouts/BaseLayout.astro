@@ -53,17 +53,29 @@ const props = Astro.props;
     <!-- SEO Meta Tags -->
     <SEO {...props} />
 
-    <!-- Preconnect for performance -->
+    <!-- Preconnect & Non-blocking Google Fonts for PageSpeed -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Playfair+Display:ital,wght@0,700;0,800;1,700&display=swap" media="print" onload="this.media='all'" />
+    <noscript>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Playfair+Display:ital,wght@0,700;0,800;1,700&display=swap" />
+    </noscript>
 
-    <!-- Google Analytics 4 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KJGJ8RNN9E"></script>
+    <!-- Google Analytics 4 (Deferred for Mobile Performance) -->
     <script is:inline>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-KJGJ8RNN9E');
+      window.addEventListener('DOMContentLoaded', function() {
+        setTimeout(function() {
+          var s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=G-KJGJ8RNN9E';
+          document.head.appendChild(s);
+          
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-KJGJ8RNN9E');
+        }, 2000);
+      });
     </script>
 
 

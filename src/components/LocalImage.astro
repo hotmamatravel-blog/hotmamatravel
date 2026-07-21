@@ -1,22 +1,39 @@
 ---
 // src/components/LocalImage.astro
-import { getImageUrl } from '@/utils/imageUrl';
+import { getImageUrl, getImageSrcSet } from '@/utils/imageUrl';
 
 const { node } = Astro.props;
 const { src, image, alt, caption, href, pinDescription } = node;
 
 // Resolve image URL: if 'image' is uploaded to Sanity, resolve it, otherwise use 'src'
 const resolvedSrc = image ? getImageUrl(image) : src;
+const resolvedSrcSet = image ? getImageSrcSet(image) : undefined;
 ---
 
 {resolvedSrc && (
   <figure data-pin-description={pinDescription}>
     {href ? (
       <a href={href}>
-        <img src={resolvedSrc} alt={alt} loading="lazy" decoding="async" data-pin-description={pinDescription} />
+        <img
+          src={resolvedSrc}
+          srcset={resolvedSrcSet || undefined}
+          sizes={resolvedSrcSet ? "(max-width: 640px) 100vw, 800px" : undefined}
+          alt={alt}
+          loading="lazy"
+          decoding="async"
+          data-pin-description={pinDescription}
+        />
       </a>
     ) : (
-      <img src={resolvedSrc} alt={alt} loading="lazy" decoding="async" data-pin-description={pinDescription} />
+      <img
+        src={resolvedSrc}
+        srcset={resolvedSrcSet || undefined}
+        sizes={resolvedSrcSet ? "(max-width: 640px) 100vw, 800px" : undefined}
+        alt={alt}
+        loading="lazy"
+        decoding="async"
+        data-pin-description={pinDescription}
+      />
     )}
     {caption && <figcaption>{caption}</figcaption>}
   </figure>

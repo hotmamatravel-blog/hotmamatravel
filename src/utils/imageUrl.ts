@@ -23,3 +23,30 @@ export function getImageUrl(source: any): string {
   
   return '';
 }
+
+export function getImageUrlWidth(source: any, width: number): string {
+  if (!source) return '';
+  if (typeof source === 'string') return source;
+  if (source && (source.asset || source._type === 'image')) {
+    try {
+      return builder.image(source).width(width).auto('format').quality(80).url();
+    } catch (e) {
+      return '';
+    }
+  }
+  return '';
+}
+
+export function getImageSrcSet(source: any): string {
+  if (!source || typeof source === 'string') return '';
+  if (source && (source.asset || source._type === 'image')) {
+    try {
+      return [400, 800, 1200]
+        .map(w => `${builder.image(source).width(w).auto('format').quality(80).url()} ${w}w`)
+        .join(', ');
+    } catch (e) {
+      return '';
+    }
+  }
+  return '';
+}
