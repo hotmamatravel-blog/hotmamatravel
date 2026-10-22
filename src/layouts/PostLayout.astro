@@ -98,10 +98,10 @@ const resolvedHeroImage = getImageUrl(heroImage);
       </div>
 
       <!-- Tags -->
-      {tags.length > 0 && (
+      {tags.filter(t => t && t.trim()).length > 0 && (
         <div class="post-tags">
           <strong>Filed under:</strong>
-          {tags.map(tag => (
+          {tags.filter(t => t && t.trim()).map(tag => (
             <a href={`/tag/${slugifyTag(tag)}/`} class="badge badge--outline">
               {tag}
             </a>

@@ -14,9 +14,13 @@ export async function getStaticPaths() {
   // Collect all unique tags from all posts, including category as a tag
   const tagSet = new Set<string>();
   allPosts.forEach((post: any) => {
-    post.tags?.forEach((tag: string) => tagSet.add(slugifyTag(tag)));
+    post.tags?.forEach((tag: string) => {
+      const s = slugifyTag(tag);
+      if (s) tagSet.add(s);
+    });
     if (post.category) {
-      tagSet.add(slugifyTag(post.category));
+      const s = slugifyTag(post.category);
+      if (s) tagSet.add(s);
     }
   });
 
@@ -25,7 +29,7 @@ export async function getStaticPaths() {
     props: {
       tag,
       posts: allPosts.filter((post: any) =>
-        post.tags?.some((t: string) => slugifyTag(t) === tag) ||
+        post.tags?.some((t: string) => t && slugifyTag(t) === tag) ||
         (post.category && slugifyTag(post.category) === tag)
       ).sort((a: any, b: any) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()),
     },
