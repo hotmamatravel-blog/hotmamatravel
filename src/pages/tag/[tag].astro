@@ -31,7 +31,11 @@ export async function getStaticPaths() {
       posts: allPosts.filter((post: any) =>
         post.tags?.some((t: string) => t && slugifyTag(t) === tag) ||
         (post.category && slugifyTag(post.category) === tag)
-      ).sort((a: any, b: any) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()),
+      ).sort((a: any, b: any) => {
+        const dateB = new Date(b.updatedDate || b.pubDate).getTime();
+        const dateA = new Date(a.updatedDate || a.pubDate).getTime();
+        return dateB - dateA;
+      }),
     },
   }));
 }

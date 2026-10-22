@@ -11,11 +11,14 @@ interface Props {
 
 const { post, featured = false } = Astro.props;
 const postData = post.data || post;
-const { title, description, pubDate, heroImage, heroImageAlt, category, tags } = postData;
+const { title, description, pubDate, updatedDate, heroImage, heroImageAlt, category, tags } = postData;
 
-const pubDateObj = typeof pubDate === 'string' ? new Date(pubDate + 'T12:00:00') : pubDate;
+const displayDate = updatedDate || pubDate;
+const displayDateObj = typeof displayDate === 'string'
+  ? new Date(displayDate.includes('T') ? displayDate : displayDate + 'T12:00:00')
+  : displayDate;
 
-const formattedDate = pubDateObj?.toLocaleDateString('en-US', {
+const formattedDate = displayDateObj?.toLocaleDateString('en-US', {
   year: 'numeric', month: 'long', day: 'numeric'
 });
 
@@ -45,7 +48,7 @@ const resolvedHeroImage = getImageUrl(heroImage);
 
   <div class="post-card-body">
     <div class="post-card-meta">
-      <time datetime={pubDateObj?.toISOString()}>{formattedDate}</time>
+      <time datetime={displayDateObj?.toISOString()}>{formattedDate}</time>
     </div>
 
     <h2 class="post-card-title">

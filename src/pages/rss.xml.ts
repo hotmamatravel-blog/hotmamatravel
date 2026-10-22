@@ -7,9 +7,11 @@ export async function GET(context: APIContext) {
   const posts = await sanityClient.fetch(
     `*[_type == "post" && !draft && !(slug.current in ["contact", "privacy-policy", "terms-of-use", "work-with-us", "disclosure-policy"])]`
   );
-  const sortedPosts = posts.sort((a: any, b: any) =>
-    new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()
-  );
+  const sortedPosts = posts.sort((a: any, b: any) => {
+    const dateB = new Date(b.updatedDate || b.pubDate).getTime();
+    const dateA = new Date(a.updatedDate || a.pubDate).getTime();
+    return dateB - dateA;
+  });
 
   return rss({
     title: 'HotMamaTravel — Family Travel with a Twist',
@@ -38,7 +40,7 @@ export async function GET(context: APIContext) {
 
       return {
         title: post.title,
-        pubDate: new Date(post.pubDate + 'T12:00:00'),
+        pubDate: new Date((post.updatedDate || post.pubDate) + 'T12:00:00'),
         description: post.description ?? '',
         link: `/${post.slug.current}/`,
         categories: post.tags ?? [],

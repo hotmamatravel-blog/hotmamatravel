@@ -8,9 +8,11 @@ import { slugifyTag } from '@/utils/slugify';
 const allPosts = await sanityClient.fetch(
   `*[_type == "post" && !draft && !(slug.current in ["contact", "privacy-policy", "terms-of-use", "work-with-us", "disclosure-policy"])]`
 );
-const sortedPosts = allPosts.sort((a: any, b: any) =>
-  new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()
-);
+const sortedPosts = allPosts.sort((a: any, b: any) => {
+  const dateB = new Date(b.updatedDate || b.pubDate).getTime();
+  const dateA = new Date(a.updatedDate || a.pubDate).getTime();
+  return dateB - dateA;
+});
 
 // Get all unique tags for sidebar filter
 const allTags = [...new Set(allPosts.flatMap((p: any) => p.tags ?? []))].sort();
